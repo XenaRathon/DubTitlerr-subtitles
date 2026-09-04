@@ -32,7 +32,7 @@ as a draft.
 Currently: **Season 31** (One Pace's cut of the Dressrosa arc), 48 episodes,
 `S31E01`–`S31E48`.
 
-`manifest.json` at the repo root lists every episode covered so far, one entry per
+`manifest/<Show>.json` lists every episode covered so far for that show, one entry per
 episode:
 
 ```json
@@ -51,10 +51,14 @@ the episode to confirm you have the right release before applying its subtitles.
 ## Layout
 
 ```
-One Pace/<Season>/<Episode>.srt   — dialogue, SubRip format
-One Pace/<Season>/<Episode>.ass   — the same dialogue, Advanced SubStation Alpha format
-manifest.json                     — one entry per episode: show, season, title, duration
+subtitles/<Show>/<Season>/<Episode>.srt   — dialogue, SubRip format
+subtitles/<Show>/<Season>/<Episode>.ass   — the same dialogue, Advanced SubStation Alpha
+manifest/<Show>.json                      — one entry per episode: season, title, duration
 ```
+
+Episodes are named `<Show> - SxxExx - <Episode Title>`. The release tags a media file
+carries (resolution, source, codec, group) are stripped: they describe somebody's encode,
+not the episode.
 
 Pick whichever format your player or muxing tool expects — the `.ass` files carry
 subtitle styling (font, size, colour) that `.srt` doesn't support, but the dialogue
