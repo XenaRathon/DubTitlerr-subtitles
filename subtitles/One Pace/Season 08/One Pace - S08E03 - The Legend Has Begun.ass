@@ -21,7 +21,7 @@ Style: Kanji-OP1,Duality,32,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,
 Style: Kanji-furigana-OP1,Duality,18,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,80,1
 Style: Title-480p,Agency FB,42,&H00FEFEFE,&H000019FF,&H00000000,&H00000000,-1,0,0,0,120,100,0.5,0,1,1,0,2,10,10,175,1
 Style: Credits-480p,FOT-Greco Std B,19,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,95,100,0.666667,0,1,2.2,0,7,7,7,7,1
-Style: Dubtitles,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,10,10,22,1
+Style: Dubtitles,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2727272727272727,1,2,10,10,22,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -81,7 +81,7 @@ Dialogue: 0,0:02:27.07,0:02:31.27,Dubtitles,,0,0,0,,Know that I will be there to
 Dialogue: 0,0:02:32.05,0:02:34.39,Dubtitles,,0,0,0,,Just like I know you'll stand by me.
 Dialogue: 0,0:02:35.39,0:02:40.67,Dubtitles,,0,0,0,,So come aboard and bring along\NAll your hopes and dreams.
 Dialogue: 0,0:02:41.57,0:02:46.19,Dubtitles,,0,0,0,,Together we will find everything\NThat we're looking for.
-Dialogue: 0,0:02:47.31,0:02:52.55,Dubtitles,,0,0,0,,There's always room for you\NIf you wanna be my friend?
+Dialogue: 0,0:02:47.31,0:02:52.55,Dubtitles,,0,0,0,,There's always room for you.\NIf you wanna be my friend?
 Dialogue: 0,0:02:53.29,0:02:57.03,Dubtitles,,0,0,0,,We are, we are on a cruise!
 Dialogue: 0,0:02:58.53,0:03:03.27,Dubtitles,,0,0,0,,We are Hey, you up there!
 Dialogue: 1,0:03:00.30,0:03:06.18,Title-480p,,0,0,0,,{\fad(400,0)}The Legend Has Begun
@@ -216,7 +216,7 @@ Dialogue: 0,0:09:38.69,0:09:43.45,Dubtitles,,0,0,0,,see that it's done sir and\N
 Dialogue: 0,0:09:43.53,0:09:47.27,Dubtitles,,0,0,0,,they are to crush any pirate\Nships as soon as they see them.
 Dialogue: 0,0:09:47.35,0:09:49.55,Dubtitles,,0,0,0,,i don't want a single\None of those wretched
 Dialogue: 0,0:09:49.63,0:09:52.53,Dubtitles,,0,0,0,,pirates to get off this\Nisland not a single one.
-Dialogue: 0,0:09:52.61,0:09:59.59,Dubtitles,,0,0,0,,it's
+Dialogue: 0,0:09:52.61,0:09:59.59,Dubtitles,,0,0,0,,It's.
 Dialogue: 0,0:09:59.67,0:10:00.50,Dubtitles,,0,0,0,,time
 Dialogue: 0,0:10:00.58,0:10:01.41,Dubtitles,,0,0,0,,for the
 Dialogue: 0,0:10:01.50,0:10:02.33,Dubtitles,,0,0,0,,execution buggy

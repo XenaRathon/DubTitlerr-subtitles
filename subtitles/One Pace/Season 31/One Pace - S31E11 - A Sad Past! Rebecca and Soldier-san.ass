@@ -13,7 +13,7 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.06,0:00:03.68,Default,,0,0,0,,Come on, we're shining, running, forever!
 Dialogue: 0,0:00:04.08,0:00:06.74,Default,,0,0,0,,The sea is calling out, so ride the waves!
-Dialogue: 0,0:00:06.90,0:00:09.56,Default,,0,0,0,,We're all together as one, so\Nlet's let's sail in the sun!
+Dialogue: 0,0:00:06.90,0:00:09.56,Default,,0,0,0,,We're all together as one,\Nso let's sail in the sun!
 Dialogue: 0,0:00:09.64,0:00:11.84,Default,,0,0,0,,All our dreams are never-ending,
 Dialogue: 0,0:00:14.94,0:00:17.18,Default,,0,0,0,,Heartbeat, we will be one! Go ahead!
 Dialogue: 0,0:00:23.54,0:00:26.54,Default,,0,0,0,,Even though our hearts have\Ntraveled different paths.
@@ -26,7 +26,7 @@ Dialogue: 0,0:00:38.94,0:00:41.68,Default,,0,0,0,,As long as we keep looking to 
 Dialogue: 0,0:00:41.76,0:00:44.52,Default,,0,0,0,,We'll see everything all crystal clear.
 Dialogue: 0,0:00:45.60,0:00:50.26,Default,,0,0,0,,We're all so thrilled that we\Ncan't wait until the dawn arrives.
 Dialogue: 0,0:00:50.88,0:00:54.52,Default,,0,0,0,,So we'll just bring the\Nsun ourselves to know.
-Dialogue: 0,0:00:54.60,0:00:58.76,Default,,0,0,0,,If the winds blow, it's really\Nwhere we should be going, go.
+Dialogue: 0,0:00:54.60,0:00:58.76,Default,,0,0,0,,If the winds blow, it's really\Nwhere we should be going. Go.
 Dialogue: 0,0:00:59.68,0:01:02.20,Default,,0,0,0,,That's right, we're\Nshining, running forever.
 Dialogue: 0,0:01:02.28,0:01:05.26,Default,,0,0,0,,All of our dreams will\Nmerge into one piece.
 Dialogue: 0,0:01:05.34,0:01:07.98,Default,,0,0,0,,No matter where we go,\Nwe'll be fine and free.
@@ -41,15 +41,15 @@ Dialogue: 0,0:01:29.22,0:01:31.14,Default,,0,0,0,,My darkness will swallow the w
 Dialogue: 0,0:01:31.22,0:01:32.51,Default,,0,0,0,,Just you wait and see.
 Dialogue: 0,0:01:33.30,0:01:35.00,Default,,0,0,0,,You think I'll lose to you?
 Dialogue: 0,0:01:35.28,0:01:37.16,Default,,0,0,0,,I'm gonna be king of the pirates
-Dialogue: 0,0:01:37.74,0:01:40.28,Default,,0,0,0,,Roger's treasure belongs to me
-Dialogue: 0,0:01:44.48,0:01:47.64,Default,,0,0,0,,We'll ride non-stop and travel farther
+Dialogue: 0,0:01:37.74,0:01:40.28,Default,,0,0,0,,Roger's treasure belongs to me.
+Dialogue: 0,0:01:44.48,0:01:47.64,Default,,0,0,0,,We'll ride non-stop and travel farther.
 Dialogue: 0,0:01:47.72,0:01:51.60,Default,,0,0,0,,than we've ever gone And then tomorrow
 Dialogue: 0,0:01:51.68,0:01:57.80,Default,,0,0,0,,we will find suspense And then commence\Nto live out another day so intense
-Dialogue: 0,0:01:58.60,0:02:00.20,Default,,0,0,0,,That's right, we're shining,
-Dialogue: 0,0:02:00.28,0:02:05.22,Default,,0,0,0,,running forever Let's go along\Nwith curiosity Our feelings lead
+Dialogue: 0,0:01:58.60,0:02:00.20,Default,,0,0,0,,That's right, we're shining.
+Dialogue: 0,0:02:00.28,0:02:05.22,Default,,0,0,0,,Running forever. Let's go along\Nwith curiosity. Our feelings lead.
 Dialogue: 0,0:02:05.30,0:02:10.94,Default,,0,0,0,,the way straight to a brand new day Into\Nanother adventure Come on, we're shining,
 Dialogue: 0,0:02:11.22,0:02:16.72,Default,,0,0,0,,running forever Open the map inside your\Nheart and see No matter where we end up,
-Dialogue: 0,0:02:16.86,0:02:21.72,Default,,0,0,0,,our minds will never give up There's a\Nfire in our dreams and you can never,
+Dialogue: 0,0:02:16.86,0:02:21.72,Default,,0,0,0,,Our minds will never give up. There's\Na fire in our dreams and you can never,
 Dialogue: 0,0:02:21.92,0:02:25.86,Default,,0,0,0,,never, never, never stop it\NWe will be one, go ahead!
 Dialogue: 0,0:02:33.10,0:02:36.68,Default,,0,0,0,,Ladies and gents, we have\Nthree of our finalists!
 Dialogue: 0,0:02:36.90,0:02:39.90,Default,,0,0,0,,This trio of unbelievable\Ncontestants will now advance
@@ -57,7 +57,7 @@ Dialogue: 0,0:02:39.98,0:02:43.30,Default,,0,0,0,,to the final round and challen
 Dialogue: 0,0:02:47.32,0:02:53.22,Default,,0,0,0,,The champion of Block A, representing\Nthe Blackbeard Pirates, Jesus Burgess!
 Dialogue: 0,0:02:58.50,0:03:00.60,Default,,0,0,0,,Our winner from Block B,
 Dialogue: 0,0:03:00.86,0:03:04.44,Default,,0,0,0,,the irreverent leader of the pirate\Ncrew called the Baratie Club,
-Dialogue: 0,0:03:04.52,0:03:06.48,Default,,0,0,0,,Bartolomeo the Cannibal!
+Dialogue: 0,0:03:04.52,0:03:06.48,Default,,0,0,0,,Bartholomew the Cannibal!
 Dialogue: 0,0:03:10.60,0:03:16.44,Default,,0,0,0,,And now from Block C, everyone's\Nfavorite dark horse, Lucy!
 Dialogue: 0,0:03:20.48,0:03:24.26,Default,,0,0,0,,The long-anticipated\Nfinale is fast approaching!
 Dialogue: 0,0:03:25.38,0:03:26.21,Default,,0,0,0,,Unfortunately,
@@ -72,13 +72,13 @@ Dialogue: 0,0:03:50.52,0:03:51.35,Default,,0,0,0,,CABBAGE!
 Dialogue: 0,0:03:52.90,0:03:53.84,Default,,0,0,0,,Meet the random!
 Dialogue: 0,0:03:58.48,0:04:01.07,Default,,0,0,0,,Gavadish doesn't know\Nwhen to quit, does he?
 Dialogue: 0,0:04:03.00,0:04:04.66,Default,,0,0,0,,I WANT HIM!
-Dialogue: 0,0:04:04.74,0:04:08.76,Default,,0,0,0,,What is his deal I don't know\Nsaid something about Straw Hat Oh,
+Dialogue: 0,0:04:04.74,0:04:08.76,Default,,0,0,0,,What is his deal? I don't know.\NSaid something about Straw Hat. Oh,
 Dialogue: 0,0:04:08.84,0:04:11.76,Default,,0,0,0,,you mean Straw Hat isn't\NStraw Hat Luffy the one who
 Dialogue: 0,0:04:11.84,0:04:14.64,Default,,0,0,0,,couldn't even save his brother's\Nlife during the war the best,
 Dialogue: 0,0:04:14.72,0:04:15.55,Default,,0,0,0,,right?
 Dialogue: 0,0:04:17.76,0:04:21.11,Default,,0,0,0,,Anybody can get famous for\Nnot being able to do something
 Dialogue: 0,0:04:24.80,0:04:26.62,Default,,0,0,0,,Let go me scumbag.
-Dialogue: 0,0:04:26.90,0:04:31.66,Default,,0,0,0,,I'll have you know that I happen to be\Na nobleman from the kingdom of big shots
+Dialogue: 0,0:04:26.90,0:04:31.66,Default,,0,0,0,,I'll have you know that I happen to be a\Nnobleman from the kingdom of big shots.
 Dialogue: 0,0:04:34.74,0:04:36.44,Default,,0,0,0,,I-I can't breathe!
 Dialogue: 0,0:04:38.74,0:04:43.09,Default,,0,0,0,,Well, that's funny since you had enough\Nbreath to talk smack a minute ago.
 Dialogue: 0,0:04:47.14,0:04:48.04,Default,,0,0,0,,Look here.
@@ -87,7 +87,7 @@ Dialogue: 0,0:04:51.52,0:04:53.78,Default,,0,0,0,,He'll be the legend that defin
 Dialogue: 0,0:04:53.86,0:04:55.68,Default,,0,0,0,,The future king of the pirates!
 Dialogue: 0,0:04:59.32,0:05:01.40,Default,,0,0,0,,I saw it with my own eyes.
 Dialogue: 0,0:05:02.72,0:05:05.36,Default,,0,0,0,,It's been over two years since that day.
-Dialogue: 0,0:05:06.82,0:05:08.90,Default,,0,0,0,,At lockdown in the East Blue.
+Dialogue: 0,0:05:06.82,0:05:08.90,Default,,0,0,0,,At Loguetown in the East Blue.
 Dialogue: 0,0:05:08.98,0:05:11.92,Default,,0,0,0,,On the same scaffold with Gold Roger.
 Dialogue: 0,0:05:12.00,0:05:13.52,Default,,0,0,0,,The King of the Pirates was killed.
 Dialogue: 0,0:05:13.60,0:05:16.74,Default,,0,0,0,,I heard him shout to the sky?
@@ -106,12 +106,12 @@ Dialogue: 0,0:06:20.82,0:06:23.00,Default,,0,0,0,,But Luffy inspired me to be gr
 Dialogue: 0,0:06:25.74,0:06:27.74,Default,,0,0,0,,So, I set out to sea.
 Dialogue: 0,0:06:30.36,0:06:32.94,Default,,0,0,0,,Now, let me see, where were we?
 Dialogue: 0,0:06:33.22,0:06:35.28,Default,,0,0,0,,Right, you were making fun of Luffy.
-Dialogue: 0,0:06:35.36,0:06:38.48,Default,,0,0,0,,It's just what makes you think\Nyou're anything to write home about,
+Dialogue: 0,0:06:35.36,0:06:38.48,Default,,0,0,0,,It's just what makes you think\Nyou're anything to write home about.
 Dialogue: 0,0:06:38.56,0:06:39.56,Default,,0,0,0,,huh, you jackass?
 Dialogue: 0,0:06:40.30,0:06:42.40,Default,,0,0,0,,I was about to cut out your tongue.
 Dialogue: 0,0:06:42.86,0:06:44.27,Default,,0,0,0,,Worthless piece of crap!
 Dialogue: 0,0:06:45.52,0:06:47.81,Default,,0,0,0,,What the hell is everyone fighting now?
-Dialogue: 0,0:06:57.12,0:06:59.64,Default,,0,0,0,,Get your hands off my\Nsword, I'll kill you!
+Dialogue: 0,0:06:57.12,0:06:59.64,Default,,0,0,0,,Get your hands off my\Nsword. I'll kill you!
 Dialogue: 0,0:06:59.72,0:07:03.36,Default,,0,0,0,,Can you just leave me alone and let\Nus settle this crap some other time?
 Dialogue: 0,0:07:03.44,0:07:05.44,Default,,0,0,0,,I've been fighting people all day!
 Dialogue: 0,0:07:08.16,0:07:10.48,Default,,0,0,0,,Somebody pull him apart! Not me!
@@ -138,7 +138,7 @@ Dialogue: 0,0:08:03.86,0:08:05.02,Default,,0,0,0,,No, listen.
 Dialogue: 0,0:08:14.20,0:08:16.48,Default,,0,0,0,,I've abandoned my grudge.
 Dialogue: 0,0:08:17.20,0:08:19.84,Default,,0,0,0,,Now I must express my appreciation.
 Dialogue: 0,0:08:21.86,0:08:25.24,Default,,0,0,0,,What I wanted to say was thank you.
-Dialogue: 0,0:08:27.28,0:08:29.24,Default,,0,0,0,,Wait, grandson of Garf!
+Dialogue: 0,0:08:27.28,0:08:29.24,Default,,0,0,0,,Wait, grandson of Grove!
 Dialogue: 0,0:08:29.52,0:08:31.38,Default,,0,0,0,,You can't escape me!
 Dialogue: 0,0:08:32.78,0:08:33.68,Default,,0,0,0,,No way!
 Dialogue: 0,0:08:33.98,0:08:37.22,Default,,0,0,0,,Luffy just ran past me! Hold on! Don't go!
@@ -147,7 +147,7 @@ Dialogue: 0,0:08:41.50,0:08:44.12,Default,,0,0,0,,The great straw had Luffy in t
 Dialogue: 0,0:08:44.38,0:08:47.44,Default,,0,0,0,,Ooh, I want to talk to him,\Nbut I think I'm too shy!
 Dialogue: 0,0:08:47.68,0:08:49.00,Default,,0,0,0,,Please wait for me!
 Dialogue: 0,0:08:49.08,0:08:52.70,Default,,0,0,0,,To show my gratitude\Nfor restoring my head,
-Dialogue: 0,0:08:52.88,0:08:56.70,Default,,0,0,0,,I'd like to place you in charge\Nof my grandson's hop-a-swee army.
+Dialogue: 0,0:08:52.88,0:08:56.70,Default,,0,0,0,,I'd like to place you in charge\Nof my grandson's hop-swee army.
 Dialogue: 0,0:08:58.32,0:08:59.66,Default,,0,0,0,,Stop right there!
 Dialogue: 0,0:09:00.32,0:09:01.76,Default,,0,0,0,,Oh, give me a break!
 Dialogue: 0,0:09:02.02,0:09:03.60,Default,,0,0,0,,They're all chasing me!
@@ -158,7 +158,7 @@ Dialogue: 0,0:09:19.14,0:09:21.36,Default,,0,0,0,,You're, uh... I'm Rebecca.
 Dialogue: 0,0:09:21.72,0:09:23.36,Default,,0,0,0,,You're in demand, aren't you?
 Dialogue: 0,0:09:23.44,0:09:24.27,Default,,0,0,0,,Follow me!
 Dialogue: 0,0:09:24.48,0:09:26.25,Default,,0,0,0,,Uh, sure, thanks for the help!
-Dialogue: 0,0:09:29.32,0:09:31.44,Default,,0,0,0,,Well then, that goes for Shiro...
+Dialogue: 0,0:09:29.32,0:09:31.44,Default,,0,0,0,,Well then, that goes for Shura...
 Dialogue: 0,0:09:31.52,0:09:32.44,Default,,0,0,0,,Shh!
 Dialogue: 0,0:09:33.80,0:09:35.12,Default,,0,0,0,,I guess so.
 Dialogue: 0,0:09:35.38,0:09:38.64,Default,,0,0,0,,But I don't think we should\Ntake Aokiji's word for it.
@@ -193,7 +193,7 @@ Dialogue: 0,0:11:37.72,0:11:41.66,Default,,0,0,0,,Got any more you can't eat all
 Dialogue: 0,0:11:42.70,0:11:43.53,Default,,0,0,0,,Lucy.
 Dialogue: 0,0:11:44.84,0:11:46.68,Default,,0,0,0,,I'm so sorry about that, ma 'am.
 Dialogue: 0,0:11:46.76,0:11:48.62,Default,,0,0,0,,Tell me which one you'd like to have Lucy.
-Dialogue: 0,0:11:48.70,0:11:51.50,Default,,0,0,0,,Oh Jimmy you're gonna pay for it.
+Dialogue: 0,0:11:48.70,0:11:51.50,Default,,0,0,0,,Oh, Jimmy, you're gonna pay for it.
 Dialogue: 0,0:11:51.68,0:11:54.68,Default,,0,0,0,,Oh, hello, Rebecca friend of yours
 Dialogue: 0,0:11:56.14,0:11:57.64,Default,,0,0,0,,Thanks for your business.
 Dialogue: 0,0:11:59.32,0:12:00.22,Default,,0,0,0,,Enjoy it.
@@ -282,7 +282,7 @@ Dialogue: 0,0:17:35.70,0:17:39.38,Default,,0,0,0,,He's a toy soldier with only o
 Dialogue: 0,0:17:39.46,0:17:42.60,Default,,0,0,0,,A toy—may I offer to carry\Nyour belongings for you?
 Dialogue: 0,0:17:42.68,0:17:45.42,Default,,0,0,0,,You know, I met someone like\Nthat in front of the coliseum.
 Dialogue: 0,0:17:45.50,0:17:48.24,Default,,0,0,0,,Yeah, it was probably him.
-Dialogue: 0,0:17:48.32,0:17:51.26,Default,,0,0,0,,We're not allowed to step\Nfoot outside the arena,
+Dialogue: 0,0:17:48.32,0:17:51.26,Default,,0,0,0,,We're not allowed to step\Nfoot outside the arena.
 Dialogue: 0,0:17:51.34,0:17:53.48,Default,,0,0,0,,even if we wanted to help your friend.
 Dialogue: 0,0:17:53.56,0:17:54.96,Default,,0,0,0,,There's nothing we can do in here.
 Dialogue: 0,0:17:55.04,0:17:57.84,Default,,0,0,0,,I mean, is it possible\Nfor a toy to be killed,
@@ -323,7 +323,7 @@ Dialogue: 0,0:19:51.22,0:19:53.82,Default,,0,0,0,,You must be starving\Nfrom all
 Dialogue: 0,0:19:53.90,0:19:58.32,Default,,0,0,0,,Yep, I was getting so hungry, my\Nstomach wouldn't stop growling. Oh, no.
 Dialogue: 0,0:19:59.64,0:20:01.88,Default,,0,0,0,,This is really yummy. Good.
 Dialogue: 0,0:20:06.38,0:20:07.52,Default,,0,0,0,,It goes out!
-Dialogue: 0,0:20:07.62,0:20:09.00,Default,,0,0,0,,He's burning the bellens!
+Dialogue: 0,0:20:07.62,0:20:09.00,Default,,0,0,0,,He's burning the Bellamy!
 Dialogue: 0,0:20:09.08,0:20:09.96,Default,,0,0,0,,Make them stop!
 Dialogue: 0,0:20:10.12,0:20:11.68,Default,,0,0,0,,It doesn't make any sense.
 Dialogue: 0,0:20:11.98,0:20:13.57,Default,,0,0,0,,Why is the king doing this?
@@ -404,7 +404,7 @@ Dialogue: 0,0:25:36.96,0:25:41.30,Default,,0,0,0,,In the rain or in the snow,\Nh
 Dialogue: 0,0:25:42.44,0:25:44.22,Default,,0,0,0,,It must be cold for her.
 Dialogue: 0,0:25:44.56,0:25:45.85,Default,,0,0,0,,Not that I would know.
 Dialogue: 0,0:25:46.02,0:25:48.20,Default,,0,0,0,,This tin body feels nothing.
-Dialogue: 0,0:25:52.82,0:25:56.68,Default,,0,0,0,,is that better yes your hand is very warm
+Dialogue: 0,0:25:52.82,0:25:56.68,Default,,0,0,0,,Is that better? Yes,\Nyour hand is very warm.
 Dialogue: 0,0:26:01.10,0:26:06.66,Default,,0,0,0,,this toy soldier is brave and true in the
 Dialogue: 0,0:26:06.74,0:26:10.72,Default,,0,0,0,,rain or in the snow he will stay with you
 Dialogue: 0,0:26:11.86,0:26:15.60,Default,,0,0,0,,how much he's lodging you can\Nstay in one of the empty houses
@@ -434,7 +434,7 @@ Dialogue: 0,0:27:43.32,0:27:44.78,Default,,0,0,0,,She must be an orphan.
 Dialogue: 0,0:27:45.12,0:27:47.41,Default,,0,0,0,,Which means no family's gonna miss her.
 Dialogue: 0,0:27:53.28,0:27:54.11,Default,,0,0,0,,Rebecca!
 Dialogue: 0,0:27:59.22,0:28:00.98,Default,,0,0,0,,Seems we hit the jackpot.
-Dialogue: 0,0:28:01.36,0:28:03.64,Default,,0,0,0,,Kaido like her will fetch us a good price.
+Dialogue: 0,0:28:01.36,0:28:03.64,Default,,0,0,0,,Cutie like her will fetch us a good price.
 Dialogue: 0,0:28:03.72,0:28:04.84,Default,,0,0,0,,They're taking her.
 Dialogue: 0,0:28:07.82,0:28:08.65,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:28:13.10,0:28:16.81,Default,,0,0,0,,Little bastard, you think a human\Nwill lose to some crappy toy?

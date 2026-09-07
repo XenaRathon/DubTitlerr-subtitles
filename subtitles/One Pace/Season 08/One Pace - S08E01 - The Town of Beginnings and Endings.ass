@@ -22,7 +22,7 @@ Style: Lyrics-OP1,Duality,32,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0
 Style: Karaoke-OP1,Duality,32,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,8,10,10,10,1
 Style: Kanji-OP1,Duality,32,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,8,10,10,65,1
 Style: Kanji-furigana-OP1,Duality,18,&H00D8933F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,80,1
-Style: Dubtitles,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,10,10,22,1
+Style: Dubtitles,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2727272727272727,1,2,10,10,22,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -119,7 +119,7 @@ Dialogue: 0,0:04:21.36,0:04:23.07,Dubtitles,,0,0,0,,which he did single-handedly
 Dialogue: 0,0:04:23.24,0:04:26.36,Dubtitles,,0,0,0,,And since then, he's showed\Nno signs of slowing down.
 Dialogue: 0,0:04:27.42,0:04:29.60,Dubtitles,,0,0,0,,Buggy the Clown, 15 million.
 Dialogue: 0,0:04:30.10,0:04:33.10,Dubtitles,,0,0,0,,Pirate Fleet Commodore\NDon Krieg, 17 million.
-Dialogue: 0,0:04:33.54,0:04:36.13,Dubtitles,,0,0,0,,Fishman Pirate Sawtooth,\NArlong, 20 million.
+Dialogue: 0,0:04:33.54,0:04:36.13,Dubtitles,,0,0,0,,Fishman Pirate Arlong, 20 million.
 Dialogue: 0,0:04:36.92,0:04:41.38,Dubtitles,,0,0,0,,These pirates were big players, and they\Nhad bounties of over 10 million berries.
 Dialogue: 1,0:04:37.13,0:04:46.01,Captions-480p,,0,0,5,,{\fad(400,400)}Commander Brannew\NNavy Headquarters
 Dialogue: 0,0:04:41.46,0:04:45.32,Dubtitles,,0,0,0,,By comparison, the average\Nbounty is only 3 million berries.
@@ -130,7 +130,7 @@ Dialogue: 0,0:04:55.98,0:04:59.32,Dubtitles,,0,0,0,,It's best to destroy such\Ns
 Dialogue: 0,0:04:59.56,0:05:02.33,Dubtitles,,0,0,0,,before they've had a\Nchance to get out of hand.
 Dialogue: 0,0:05:03.54,0:05:04.37,Dubtitles,,0,0,0,,Absolutely.
 Dialogue: 0,0:05:07.40,0:05:09.76,Dubtitles,,0,0,0,,All right, guys, we're wanted criminals!
-Dialogue: 0,0:05:10.20,0:05:12.12,Dubtitles,,0,0,0,,That's a whole lot of money!
+Dialogue: 0,0:05:10.20,0:05:12.12,Dubtitles,,0,0,0,,That's a whole lot of fairies!
 Dialogue: 0,0:05:14.08,0:05:14.91,Dubtitles,,0,0,0,,Check it out!
 Dialogue: 0,0:05:14.99,0:05:16.74,Dubtitles,,0,0,0,,I'll be seen all around the world!
 Dialogue: 0,0:05:16.82,0:05:18.46,Dubtitles,,0,0,0,,These girls might even fall for you!
@@ -145,7 +145,7 @@ Dialogue: 0,0:05:31.74,0:05:33.50,Dubtitles,,0,0,0,,Aw, don't be so glum.
 Dialogue: 0,0:05:33.66,0:05:36.86,Dubtitles,,0,0,0,,You don't have to be a captain to get\Nyour picture on one of these things.
 Dialogue: 0,0:05:36.94,0:05:38.18,Dubtitles,,0,0,0,,Huh? Is that true?
 Dialogue: 0,0:05:38.44,0:05:40.60,Dubtitles,,0,0,0,,Yeah, just work really hard.
-Dialogue: 0,0:05:43.18,0:05:45.52,Dubtitles,,0,0,0,,Let's go to the Grand Line, men!
+Dialogue: 0,0:05:43.18,0:05:45.52,Dubtitles,,0,0,0,,Let's head for the Grand Line, men!
 Dialogue: 0,0:05:46.68,0:05:50.98,Dubtitles,,0,0,0,,Yet again, you guys don't understand\Nhow grim our situation really is.
 Dialogue: 0,0:05:51.30,0:05:54.54,Dubtitles,,0,0,0,,This means all of our lives\Nwill be in constant danger.
 Dialogue: 0,0:05:56.42,0:05:59.92,Dubtitles,,0,0,0,,Okay, this is no time to be\Nrelaxing in the East Blue.
@@ -176,7 +176,7 @@ Dialogue: 0,0:07:53.36,0:07:55.71,Dubtitles,,0,0,0,,I'm pretty sure I've heard o
 Dialogue: 0,0:07:56.32,0:07:58.85,Dubtitles,,0,0,0,,It's the city of the\Nbeginning and the end.
 Dialogue: 0,0:07:59.88,0:08:03.41,Dubtitles,,0,0,0,,It's the town where the old\NKing of the Pirates, Gold Roger,
 Dialogue: 0,0:08:03.58,0:08:05.60,Dubtitles,,0,0,0,,was both born and killed.
-Dialogue: 0,0:08:09.20,0:08:11.67,Dubtitles,,0,0,0,,That's where the Pirate King died.
+Dialogue: 0,0:08:09.20,0:08:11.67,Dubtitles,,0,0,0,,That's where the King of the Pirates died.
 Dialogue: 0,0:08:13.62,0:08:14.45,Dubtitles,,0,0,0,,Well?
 Dialogue: 0,0:08:15.02,0:08:16.66,Dubtitles,,0,0,0,,Yeah, let's do it.
 Dialogue: 0,0:08:16.96,0:08:19.28,Dubtitles,,0,0,0,,This was the man who had the One Piece.
@@ -264,7 +264,7 @@ Dialogue: 0,0:12:48.92,0:12:51.10,Dubtitles,,0,0,0,,Gold Roger's gun? Yes.
 Dialogue: 0,0:12:52.38,0:12:53.54,Dubtitles,,0,0,0,,Just breathe, sir.
 Dialogue: 0,0:12:53.70,0:12:54.70,Dubtitles,,0,0,0,,There's more to come.
 Dialogue: 0,0:12:54.78,0:12:57.32,Dubtitles,,0,0,0,,Show me everything! Right this way!
-Dialogue: 0,0:13:01.16,0:13:04.54,Dubtitles,,0,0,0,,Wait, hold on, excuse\Nme, where are we going, i
+Dialogue: 0,0:13:01.16,0:13:04.54,Dubtitles,,0,0,0,,Wait, hold on, excuse\Nme, where are we going? I
 Dialogue: 0,0:13:04.62,0:13:07.33,Dubtitles,,0,0,0,,still can't believe that\Nyou broke my glasses.
 Dialogue: 0,0:13:08.08,0:13:12.68,Dubtitles,,0,0,0,,I told you i'll pay you\Nback okay jeez you'll pay
 Dialogue: 0,0:13:12.76,0:13:15.16,Dubtitles,,0,0,0,,me back you don't look\Nlike you have any money.
@@ -309,7 +309,7 @@ Dialogue: 0,0:14:56.88,0:14:58.24,Dubtitles,,0,0,0,,What happened here?
 Dialogue: 0,0:15:00.14,0:15:04.61,Dubtitles,,0,0,0,,They appear to have been attacked, but\Nthere's no sign of who's responsible.
 Dialogue: 0,0:15:07.94,0:15:09.00,Dubtitles,,0,0,0,,New glasses.
 Dialogue: 0,0:15:14.26,0:15:16.44,Dubtitles,,0,0,0,,Man, that was just too weird.
-Dialogue: 0,0:15:16.76,0:15:18.58,Dubtitles,,0,0,0,,She looked just like Conney.
+Dialogue: 0,0:15:16.76,0:15:18.58,Dubtitles,,0,0,0,,She looked just like Kuina.
 Dialogue: 0,0:15:19.14,0:15:22.02,Dubtitles,,0,0,0,,Not to mention she was a\Nswordsman of all things.
 Dialogue: 0,0:15:22.56,0:15:23.54,Dubtitles,,0,0,0,,A crazy world.
 Dialogue: 0,0:15:23.72,0:15:25.60,Dubtitles,,0,0,0,,I doubt I'll ever see her again.
@@ -488,7 +488,7 @@ Dialogue: 0,0:23:47.08,0:23:50.08,Dubtitles,,0,0,0,,I definitely feel better\Nha
 Dialogue: 0,0:23:50.46,0:23:51.46,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 0,0:23:51.80,0:23:55.28,Dubtitles,,0,0,0,,You can't buy me anything nice, but\Nyou can give away our best sword.
 Dialogue: 0,0:23:55.36,0:23:58.42,Dubtitles,,0,0,0,,That sword belongs in the\Nhands of a true swordsman.
-Dialogue: 0,0:23:59.40,0:24:06.20,Dubtitles,,0,0,0,,here why don't you take out the garbage\Nyes ma 'am that's weird who was that guy
+Dialogue: 0,0:23:59.40,0:24:06.20,Dubtitles,,0,0,0,,Here why don't you take out the garbage,\Nyes ma'am? That's weird. Who was that guy?
 Dialogue: 0,0:24:14.32,0:24:18.66,Dubtitles,,0,0,0,,what's that yeah let me see
 Dialogue: 0,0:24:26.88,0:24:28.32,Dubtitles,,0,0,0,,Why are you here?
 Dialogue: 0,0:24:28.60,0:24:29.72,Dubtitles,,0,0,0,,Answer me, Hawkeye?
@@ -503,7 +503,7 @@ Dialogue: 0,0:24:58.68,0:25:00.68,Dubtitles,,0,0,0,,H-H-H-H-HawkEye!
 Dialogue: 0,0:25:06.28,0:25:07.64,Dubtitles,,0,0,0,,Hey there, Hawkeye.
 Dialogue: 0,0:25:07.84,0:25:09.61,Dubtitles,,0,0,0,,To what do I owe the pleasure?
 Dialogue: 0,0:25:09.80,0:25:11.33,Dubtitles,,0,0,0,,Have you come to fight me?
-Dialogue: 0,0:25:11.50,0:25:14.85,Dubtitles,,0,0,0,,Because you know, I'm not\Nfeeling so good at the moment.
+Dialogue: 0,0:25:11.50,0:25:14.85,Dubtitles,,0,0,0,,Because, you know, I'm not\Nfeeling so good at the moment.
 Dialogue: 0,0:25:15.50,0:25:17.54,Dubtitles,,0,0,0,,Now that you've lost your left arm.
 Dialogue: 0,0:25:17.62,0:25:20.44,Dubtitles,,0,0,0,,I have no intention of settling the score!
 Dialogue: 0,0:25:21.82,0:25:24.32,Dubtitles,,0,0,0,,I recently found an interesting pirate.
