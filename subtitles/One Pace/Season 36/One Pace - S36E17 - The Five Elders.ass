@@ -33,10 +33,10 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.50,0:00:16.68,Dubtitles,,0,0,0,,The End. Ah, crap!
 Dialogue: 0,0:00:19.92,0:00:21.16,Dubtitles,,0,0,0,,The food is bad.
-Dialogue: 0,0:00:22.38,0:00:23.21,Dubtitles,,0,0,0,,Boop! Boop!
-Dialogue: 0,0:00:23.29,0:00:27.78,Dubtitles,,0,0,0,,Boop!
-Dialogue: 0,0:00:27.86,0:00:28.69,Dubtitles,,0,0,0,,Boop! Boop!
-Dialogue: 0,0:00:28.77,0:00:29.60,Dubtitles,,0,0,0,,Boop!
+Dialogue: 0,0:00:22.38,0:00:23.21,Dubtitles,,0,0,0,,Bepo! Bepo!
+Dialogue: 0,0:00:23.29,0:00:27.78,Dubtitles,,0,0,0,,Bepo!
+Dialogue: 0,0:00:27.86,0:00:28.69,Dubtitles,,0,0,0,,Bepo! Bepo!
+Dialogue: 0,0:00:28.77,0:00:29.60,Dubtitles,,0,0,0,,Bepo!
 Dialogue: 0,0:00:29.68,0:00:30.51,Dubtitles,,0,0,0,,Co-bro's dead!
 Dialogue: 0,0:00:30.60,0:00:33.12,Dubtitles,,0,0,0,,Not just that he was murdered I mean I\Nnever liked the guy but I didn't want
 Dialogue: 0,0:00:33.20,0:00:38.22,Dubtitles,,0,0,0,,He was whacked by Aokiji. This is\Nsick. I was not supposed to say.
@@ -466,7 +466,7 @@ Dialogue: 2,0:05:26.73,0:05:28.30,Romaji,,0,0,0,,{\an5\pos(1207.562,54)\fnFOT-Ca
 Dialogue: 2,0:05:26.74,0:05:28.30,Romaji,,0,0,0,,{\an5\pos(1263.859,54)\fnFOT-Carat Std UB-Strp\b900\fad(0,150)\t(0,60,0.5,\fscx125\fscy125)\t(60,180,1.5,\fscx100\fscy100)}ra
 Dialogue: 2,0:05:26.92,0:05:28.30,Romaji,,0,0,0,,{\an5\pos(1334.125,54)\fnFOT-Carat Std UB-Strp\b900\fad(0,150)\t(0,150,0.5,\fscx125\fscy125)\t(150,1230,1.5,\fscx100\fscy100)}da
 Dialogue: 1,0:05:29.02,0:05:31.31,Credits-207+,,0,0,0,,{\pos(754.8,899.6)\fnFOT-Carat Std UB-Strp\b900\bord0\c&HD9EC6B&}Graphics: Datenshi
-Dialogue: 0,0:05:29.18,0:05:30.78,Dubtitles,,0,0,0,,Beach Beach No Limit.
+Dialogue: 0,0:05:29.18,0:05:30.78,Dubtitles,,0,0,0,,Beach. Beach. No Limit.
 Dialogue: 1,0:05:29.57,0:05:29.72,Romaji,,0,0,0,,{\an5\pos(582.688,54)\fnFOT-Carat Std UB-Strp\b900\c&HD9EC6B&\fad(150,0)}Ba
 Dialogue: 1,0:05:29.57,0:05:29.85,Romaji,,0,0,0,,{\an5\pos(649.984,54)\fnFOT-Carat Std UB-Strp\b900\c&HD9EC6B&\fad(150,0)}chi
 Dialogue: 1,0:05:29.57,0:05:30.03,Romaji,,0,0,0,,{\an5\pos(730.531,54)\fnFOT-Carat Std UB-Strp\b900\c&HD9EC6B&\fad(150,0)}ba
@@ -8283,7 +8283,7 @@ Dialogue: 1,0:05:36.15,0:05:39.12,Romaji,,0,0,0,,{\an5\pos(1318.891,54)\fad(15,0
 Dialogue: 1,0:05:36.15,0:05:39.30,Romaji,,0,0,0,,{\an5\pos(1384.078,54)\fad(15,0)}ka?
 Dialogue: 1,0:05:36.15,0:05:39.74,Translation,,0,0,0,,{\fad(200,200)}Have you let the world and all its burdens bring your dreams down?
 Dialogue: 2,0:05:36.17,0:05:39.74,Romaji,,0,0,0,,{\an5\pos(522.461,54)\fad(0,150)\t(0,150,0.5,\fscx125\fscy125)\t(150,470,1.5,\fscx100\fscy100)}So
-Dialogue: 0,0:05:36.26,0:05:38.90,Dubtitles,,0,0,0,,That's the dream is not yet to go away.
+Dialogue: 0,0:05:36.26,0:05:38.90,Dubtitles,,0,0,0,,That's the dream. It\Nis not yet to go away.
 Dialogue: 2,0:05:36.64,0:05:39.74,Romaji,,0,0,0,,{\an5\pos(583.367,54)\fad(0,150)\t(0,113,0.5,\fscx125\fscy125)\t(113,340,1.5,\fscx100\fscy100)}no
 Dialogue: 2,0:05:36.98,0:05:39.74,Romaji,,0,0,0,,{\an5\pos(657.141,54)\fad(0,150)\t(0,103,0.5,\fscx125\fscy125)\t(103,310,1.5,\fscx100\fscy100)}yu
 Dialogue: 2,0:05:37.29,0:05:39.74,Romaji,,0,0,0,,{\an5\pos(723.117,54)\fad(0,150)\t(0,53,0.5,\fscx125\fscy125)\t(53,160,1.5,\fscx100\fscy100)}me
@@ -8318,7 +8318,7 @@ Dialogue: 1,0:05:41.38,0:05:46.85,Romaji,,0,0,0,,{\an5\pos(1363.172,54)\fad(150,
 Dialogue: 1,0:05:41.38,0:05:47.34,Romaji,,0,0,0,,{\an5\pos(1418.891,54)\fad(150,0)}te
 Dialogue: 1,0:05:41.38,0:05:47.52,Romaji,,0,0,0,,{\an5\pos(1474.555,54)\fad(150,0)}ku
 Dialogue: 1,0:05:41.38,0:05:47.94,Translation,,0,0,0,,{\fad(200,200)}Every cell in me is getting restless - \NThey're about to blow, oh, it's just too much
-Dialogue: 0,0:05:41.40,0:05:43.42,Dubtitles,,0,0,0,,I can't sleep, I can't sleep.
+Dialogue: 0,0:05:41.40,0:05:43.42,Dubtitles,,0,0,0,,I can't sleep. I can't sleep.
 Dialogue: 2,0:05:41.53,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(448.078,54)\fad(0,150)\t(0,130,0.5,\fscx125\fscy125)\t(130,390,1.5,\fscx100\fscy100)}Ne
 Dialogue: 2,0:05:41.92,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(516.633,54)\fad(0,150)\t(0,83,0.5,\fscx125\fscy125)\t(83,250,1.5,\fscx100\fscy100)}mu
 Dialogue: 2,0:05:42.17,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(579.125,54)\fad(0,150)\t(0,130,0.5,\fscx125\fscy125)\t(130,390,1.5,\fscx100\fscy100)}re
@@ -8329,7 +8329,7 @@ Dialogue: 2,0:05:43.17,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(758.148,54)\fad(0,150
 Dialogue: 2,0:05:43.39,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(795.852,54)\fad(0,150)\t(0,60,0.5,\fscx125\fscy125)\t(60,180,1.5,\fscx100\fscy100)}bo
 Dialogue: 2,0:05:43.57,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(841.344,54)\fad(0,150)\t(0,103,0.5,\fscx125\fscy125)\t(103,310,1.5,\fscx100\fscy100)}u
 Dialogue: 2,0:05:43.88,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(900.195,54)\fad(0,150)\t(0,103,0.5,\fscx125\fscy125)\t(103,310,1.5,\fscx100\fscy100)}ga
-Dialogue: 0,0:05:43.94,0:05:46.08,Dubtitles,,0,0,0,,I can't sleep, I can't sleep.
+Dialogue: 0,0:05:43.94,0:05:46.08,Dubtitles,,0,0,0,,I can't sleep. I can't sleep.
 Dialogue: 2,0:05:44.19,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(974.211,54)\fad(0,150)\t(0,86,0.5,\fscx125\fscy125)\t(86,260,1.5,\fscx100\fscy100)}ku
 Dialogue: 2,0:05:44.45,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(1033.281,54)\fad(0,150)\t(0,143,0.5,\fscx125\fscy125)\t(143,430,1.5,\fscx100\fscy100)}su
 Dialogue: 2,0:05:44.88,0:05:47.94,Romaji,,0,0,0,,{\an5\pos(1092.703,54)\fad(0,150)\t(0,110,0.5,\fscx125\fscy125)\t(110,330,1.5,\fscx100\fscy100)}gu
@@ -9127,7 +9127,7 @@ Dialogue: 0,0:08:09.42,0:08:12.13,Dubtitles,,0,0,0,,just realized I gotta\Ntake 
 Dialogue: 0,0:08:12.28,0:08:17.10,Dubtitles,,0,0,0,,he won't let me down when I gotta\Nscoop like this you have a transponder
 Dialogue: 0,0:08:17.18,0:08:23.04,Dubtitles,,0,0,0,,snail what a pleasant surprise did you\Nhave a nice time at the reverie let's
 Dialogue: 0,0:08:23.12,0:08:27.96,Dubtitles,,0,0,0,,not talk about that right now sounds\Nlike something juicy happened spill
-Dialogue: 0,0:08:28.04,0:08:34.06,Dubtitles,,0,0,0,,It can't do that, buddy. They'll ice me\Nfor sure. I'll have to tell you in person.
+Dialogue: 0,0:08:28.04,0:08:34.06,Dubtitles,,0,0,0,,It can't do that, buddy. They'll kill me\Nfor sure. I'll have to tell you in person.
 Dialogue: 0,0:08:34.14,0:08:39.86,Dubtitles,,0,0,0,,But if you hide me, I'll give you the\Nscope of a lifetime. I swear. Fair enough.
 Dialogue: 0,0:08:39.94,0:08:45.38,Dubtitles,,0,0,0,,for starters where are you right now\Nhey what do I tell them whose ship
 Dialogue: 0,0:08:45.46,0:08:50.76,Dubtitles,,0,0,0,,are we on the eggies kingdoms interesting\Nwe'll swap in and tell them we're
@@ -10305,7 +10305,7 @@ Dialogue: 0,0:17:21.80,0:17:27.50,Dubtitles,,0,0,0,,I know, but in that case\Nit
 Dialogue: 0,0:17:27.58,0:17:31.86,Dubtitles,,0,0,0,,weapon if emu is an ancient\Nhuman Then that's hardly
 Dialogue: 0,0:17:31.94,0:17:36.42,Dubtitles,,0,0,0,,a big leap well we do\Nknow that the ancient
 Dialogue: 0,0:17:36.50,0:17:41.96,Dubtitles,,0,0,0,,weapons exist robin confirmed\NAs much and yet if the
-Dialogue: 0,0:17:42.04,0:17:45.04,Dubtitles,,0,0,0,,Government's had one for\Nso long, then why haven't
+Dialogue: 0,0:17:42.04,0:17:45.04,Dubtitles,,0,0,0,,government's had one for\Nso long then why haven't
 Dialogue: 0,0:17:45.12,0:17:48.10,Dubtitles,,0,0,0,,They tried to use it\Nbefore. And why are they?
 Dialogue: 0,0:17:48.18,0:17:49.04,Dubtitles,,0,0,0,,using it now
 Dialogue: 0,0:17:49.12,0:17:56.10,Dubtitles,,0,0,0,,we
@@ -11172,7 +11172,7 @@ Dialogue: 2,0:20:08.69,0:20:09.13,Romaji ED,,0,0,0,,{\an5\pos(799.828,44.000)\fa
 Dialogue: 2,0:20:09.13,0:20:09.42,Romaji ED,,0,0,0,,{\an5\pos(853.500,44.000)\fad(0,96)\bord0\shad0\blur3\c&HFFFFFF&\fscx125\fscy125\t(\fscx100\fscy100)}ga
 Dialogue: 2,0:20:09.42,0:20:10.01,Romaji ED,,0,0,0,,{\an5\pos(885.844,44.000)\fad(0,196)\bord0\shad0\blur3\c&HFFFFFF&\fscx125\fscy125\t(\fscx100\fscy100)}i
 Dialogue: 2,0:20:10.01,0:20:10.43,Romaji ED,,0,0,0,,{\an5\pos(934.125,44.000)\fad(0,140)\bord0\shad0\blur3\c&HFFFFFF&\fscx125\fscy125\t(\fscx100\fscy100)}ga
-Dialogue: 0,0:20:10.38,0:20:12.20,Dubtitles,,0,0,0,,much for watching.
+Dialogue: 0,0:20:10.38,0:20:12.20,Dubtitles,,0,0,0,,So much for watching.
 Dialogue: 2,0:20:10.43,0:20:10.88,Romaji ED,,0,0,0,,{\an5\pos(1001.320,44.000)\fad(0,150)\bord0\shad0\blur3\c&HFFFFFF&\fscx125\fscy125\t(\fscx100\fscy100)}to
 Dialogue: 2,0:20:10.88,0:20:11.32,Romaji ED,,0,0,0,,{\an5\pos(1052.695,44.000)\fad(0,146)\bord0\shad0\blur3\c&HFFFFFF&\fscx125\fscy125\t(\fscx100\fscy100)}do
 Dialogue: 2,0:20:11.32,0:20:11.75,Romaji ED,,0,0,0,,{\an5\pos(1105.875,44.000)\fad(0,143)\bord0\shad0\blur3\c&HFFFFFF&\fscx125\fscy125\t(\fscx100\fscy100)}ku

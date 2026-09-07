@@ -31,7 +31,7 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.30,Dubtitles,,0,0,0,,Snake, Straw Hat .Halor bel-Nat-Halor,
+Dialogue: 0,0:00:00.00,0:00:02.30,Dubtitles,,0,0,0,,Snake, Straw Hat. Hell, Bel-Nat-Halor,
 Dialogue: 1,0:00:00.55,0:00:00.70,Romaji2,,0,0,0,,{\an5\pos(878.102,116)\fad(150,0)}(All
 Dialogue: 1,0:00:00.55,0:00:01.26,Romaji2,,0,0,0,,{\an5\pos(965.016,116)\fad(150,0)}of
 Dialogue: 1,0:00:00.55,0:00:01.65,Romaji2,,0,0,0,,{\an5\pos(1046.914,116)\fad(150,0)}us)
@@ -68,11 +68,11 @@ Dialogue: 1,0:00:04.10,0:00:09.34,Translation,,0,0,0,,{\fad(200,200)}US, ALL OF 
 Dialogue: 2,0:00:04.24,0:00:05.94,Romaji2,,0,0,0,,{\an5\pos(1132.555,116)\fad(0,150)\t(0,150,0.5,\fscx125\fscy125)\t(150,1550,1.5,\fscx100\fscy100)}us)
 Dialogue: 2,0:00:04.25,0:00:09.34,Romaji,,0,0,0,,{\an5\fad(0,150)\pos(807.625,54.000)\t(0,150,0.5,\fscx125\fscy125)\t(150,590,1.5,\fscx100\fscy100)}A
 Dialogue: 2,0:00:04.84,0:00:09.34,Romaji,,0,0,0,,{\an5\fad(0,150)\pos(877.578,54.000)\t(0,146,0.5,\fscx125\fscy125)\t(146,440,1.5,\fscx100\fscy100)}su
-Dialogue: 0,0:00:05.00,0:00:11.34,Dubtitles,,0,0,0,,Gumbel, Denis, Lennon, Gumbel,\NHorsi, vermice, Profit Uro,
+Dialogue: 0,0:00:05.00,0:00:11.34,Dubtitles,,0,0,0,,Gumbel, Denis, Lennon, Gumbel,\NHorsi, vermice, Profit Uro
 Dialogue: 2,0:00:05.28,0:00:09.34,Romaji,,0,0,0,,{\an5\pos(965.477,54)\fad(0,150)\t(0,150,0.5,\fscx125\fscy125)\t(150,530,1.5,\fscx100\fscy100)}all
 Dialogue: 2,0:00:05.81,0:00:09.34,Romaji,,0,0,0,,{\an5\pos(1034.148,54)\fad(0,150)\t(0,53,0.5,\fscx125\fscy125)\t(53,160,1.5,\fscx100\fscy100)}of
 Dialogue: 2,0:00:05.97,0:00:09.34,Romaji,,0,0,0,,{\an5\pos(1101.484,54)\fad(0,150)\t(0,150,0.5,\fscx125\fscy125)\t(150,3220,1.5,\fscx100\fscy100)}us
-Dialogue: 0,0:00:11.42,0:00:12.25,Dubtitles,,0,0,0,,Bi-Nat-Halor, Chiris, Dash,\NMotel, Gumbel, Horsi, Dash, Oro,
+Dialogue: 0,0:00:11.42,0:00:12.25,Dubtitles,,0,0,0,,Bi-Nat-Halor, Chiris, Dash,\NMotel, Gumbel, Horsi, Dash, Oro
 Dialogue: 1,0:00:12.97,0:00:13.29,Romaji,,0,0,0,,{\an5\pos(674.547,54)\c&HFDFDFD&\fad(150,0)}Yu
 Dialogue: 1,0:00:12.97,0:00:13.55,Romaji,,0,0,0,,{\an5\pos(744.141,54)\c&HFDFDFD&\fad(150,0)}me
 Dialogue: 1,0:00:12.97,0:00:13.71,Romaji,,0,0,0,,{\an5\pos(823.781,54)\c&HFDFDFD&\fad(150,0)}no
@@ -98,7 +98,7 @@ Dialogue: 1,0:00:13.99,0:00:15.48,Romaji,,0,0,0,,{\an5\pos(1253.516,54)\bord0\c&
 Dialogue: 1,0:00:14.04,0:00:14.08,Romaji,,0,0,0,,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 929.84 38.59 b 942.2 68.25 971.15 80.29 978.17 88.05 l 981.29 36.25)}te
 Dialogue: 1,0:00:14.08,0:00:14.12,Romaji,,0,0,0,,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 930.74 38.59 b 943.1 68.25 972.05 80.29 979.07 88.05 l 982.19 36.25)}te
 Dialogue: 1,0:00:14.12,0:00:14.16,Romaji,,0,0,0,,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 931.64 38.59 b 944 68.25 972.95 80.29 979.97 88.05 l 983.09 36.25)}te
-Dialogue: 0,0:00:14.16,0:00:14.99,Dubtitles,,0,0,0,,Dash, Dash .Yume no heart,
+Dialogue: 0,0:00:14.16,0:00:14.99,Dubtitles,,0,0,0,,Dash, Dash. Yume no heart,
 Dialogue: 2,0:00:14.16,0:00:14.20,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\fscx109.16\fscy109.16\bord0\c&HA5352D&\clip(m 926.2 27.44 b 931.04 53.89 964.62 78.92 981.51 85.96 l 1001.99 87.92 1002.62 25.57)}te
 Dialogue: 2,0:00:14.16,0:00:15.77,Romaji,,0,0,0,,{\an5\pos(954.156,54)\bord0\c&HFDFDFD&\t(0,150,0.5,\fscx125\fscy125)\t(150,500,1.5,\fscx100\fscy100)}te
 Dialogue: 2,0:00:14.20,0:00:14.24,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\fscx109.16\fscy109.16\bord0\c&HA5352D&\clip(m 927.2 27.44 b 932.04 53.89 965.62 78.92 982.51 85.96 l 1002.99 87.92 1003.62 25.57)}te
@@ -125,7 +125,7 @@ Dialogue: 2,0:00:14.95,0:00:14.99,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\bord0\
 Dialogue: 2,0:00:14.99,0:00:15.04,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 944.3 27.44 b 949.14 53.89 982.72 78.92 999.61 85.96 l 1020.09 87.92 1020.72 25.57)}te
 Dialogue: 2,0:00:15.02,0:00:15.77,Romaji,,0,0,0,,{\an5\pos(1123.141,54)\bord0\c&HA5352D&\t(0,60,0.5,\fscx125\fscy125)\t(60,180,1.5,\fscx100\fscy100)}no
 Dialogue: 2,0:00:15.04,0:00:15.08,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 945.2 27.44 b 950.04 53.89 983.62 78.92 1000.51 85.96 l 1020.99 87.92 1021.62 25.57)}te
-Dialogue: 0,0:00:15.07,0:00:15.90,Dubtitles,,0,0,0,,Umi, nohate, Umi no heart,
+Dialogue: 0,0:00:15.07,0:00:15.90,Dubtitles,,0,0,0,,Umi, nohate. Umi no heart,
 Dialogue: 2,0:00:15.08,0:00:15.12,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 946.1 27.44 b 950.94 53.89 984.52 78.92 1001.41 85.96 l 1021.89 87.92 1022.52 25.57)}te
 Dialogue: 2,0:00:15.12,0:00:15.16,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 947 27.44 b 951.84 53.89 985.42 78.92 1002.31 85.96 l 1022.79 87.92 1023.42 25.57)}te
 Dialogue: 2,0:00:15.16,0:00:15.20,Romaji,,0,0,0,fbf,{\an5\pos(954.156,54)\bord0\c&HA5352D&\clip(m 947.9 27.44 b 952.74 53.89 986.32 78.92 1003.21 85.96 l 1023.69 87.92 1024.32 25.57)}te
@@ -8196,7 +8196,7 @@ Dialogue: 2,0:00:33.53,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(522.461,54)\fad(0,150
 Dialogue: 2,0:00:34.00,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(583.367,54)\fad(0,150)\t(0,113,0.5,\fscx125\fscy125)\t(113,340,1.5,\fscx100\fscy100)}no
 Dialogue: 2,0:00:34.34,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(657.141,54)\fad(0,150)\t(0,103,0.5,\fscx125\fscy125)\t(103,310,1.5,\fscx100\fscy100)}yu
 Dialogue: 2,0:00:34.65,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(723.117,54)\fad(0,150)\t(0,53,0.5,\fscx125\fscy125)\t(53,160,1.5,\fscx100\fscy100)}me
-Dialogue: 0,0:00:34.66,0:00:38.10,Dubtitles,,0,0,0,,I'm still a man for a long time.
+Dialogue: 0,0:00:34.66,0:00:38.10,Dubtitles,,0,0,0,,I'm still a man. For a long time.
 Dialogue: 2,0:00:34.81,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(808.789,54)\fad(0,150)\t(0,96,0.5,\fscx125\fscy125)\t(96,290,1.5,\fscx100\fscy100)}wa
 Dialogue: 2,0:00:35.10,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(894.242,54)\fad(0,150)\t(0,56,0.5,\fscx125\fscy125)\t(56,170,1.5,\fscx100\fscy100)}ma
 Dialogue: 2,0:00:35.27,0:00:37.10,Romaji,,0,0,0,,{\an5\pos(960.086,54)\fad(0,150)\t(0,36,0.5,\fscx125\fscy125)\t(36,110,1.5,\fscx100\fscy100)}da
@@ -8998,7 +8998,7 @@ Dialogue: 2,0:01:23.74,0:01:26.36,Romaji,,0,0,0,,{\an5\pos(1101.484,54)\c&HB1D6E
 Dialogue: 1,0:01:30.11,0:01:34.03,Title-207+,,0,0,0,,{\fscx110\fscy110\1c&HE6E6E6&\1a&HFF&\blur0.75\fad(731,0)\bord2.7\t(689,731,\1a&H00&)}The Will of Ohara
 Dialogue: 2,0:01:30.11,0:01:34.03,Title-207+,,0,0,0,,{\fscx110\fscy110\bord0\c&HE6E6E6&\blur0.8\fad(731,0)}The Will of Ohara
 Dialogue: 0,0:01:34.62,0:01:35.70,Dubtitles,,0,0,0,,Oh, come on.
-Dialogue: 0,0:01:35.78,0:01:36.74,Dubtitles,,0,0,0,,That's ridiculous.
+Dialogue: 0,0:01:35.78,0:01:36.74,Dubtitles,,0,0,0,,That's ridiculous!
 Dialogue: 0,0:01:36.82,0:01:40.80,Dubtitles,,0,0,0,,You're saying they had a city this\Nfuturistic way back in the past?
 Dialogue: 0,0:01:41.02,0:01:43.16,Dubtitles,,0,0,0,,Well, it's only a theory.
 Dialogue: 0,0:01:43.46,0:01:47.17,Dubtitles,,0,0,0,,But there was a man I knew who\Nrisked his life for archaeology.
@@ -9014,19 +9014,19 @@ Dialogue: 0,0:02:16.70,0:02:21.40,Dubtitles,,0,0,0,,22 years ago, the Navy made 
 Dialogue: 0,0:02:22.46,0:02:25.16,Dubtitles,,0,0,0,,I believe this happened\Nbecause the scholars of
 Dialogue: 0,0:02:25.24,0:02:27.54,Dubtitles,,0,0,0,,Ohara learned of the\Nexistence of that kingdom,
 Dialogue: 0,0:02:27.62,0:02:29.44,Dubtitles,,0,0,0,,which was once lost to history.
-Dialogue: 0,0:02:31.76,0:02:33.98,Dubtitles,,0,0,0,,What's known as the blank century.
+Dialogue: 0,0:02:31.76,0:02:33.98,Dubtitles,,0,0,0,,What's known as the Void Century.
 Dialogue: 0,0:02:34.16,0:02:38.04,Dubtitles,,0,0,0,,is a 100-year void during\Nwhich a war was waged between
 Dialogue: 0,0:02:38.12,0:02:41.72,Dubtitles,,0,0,0,,an advanced civilization and\Nan alliance of 20 kingdoms.
 Dialogue: 0,0:02:50.70,0:02:52.98,Dubtitles,,0,0,0,,The 20 kingdoms won the war.
 Dialogue: 0,0:02:53.52,0:02:57.90,Dubtitles,,0,0,0,,Later, they founded the world\Ngovernment, which has ruled ever since.
 Dialogue: 0,0:02:58.34,0:03:02.88,Dubtitles,,0,0,0,,And in order to prevent anyone from\Ninheriting that ancient kingdom's ideology,
 Dialogue: 0,0:03:02.96,0:03:06.06,Dubtitles,,0,0,0,,they erased every last trace of it from
-Dialogue: 0,0:03:06.14,0:03:10.90,Dubtitles,,0,0,0,,History? That's insane.\NNo way. So there's no.
+Dialogue: 0,0:03:06.14,0:03:10.90,Dubtitles,,0,0,0,,History? That's insane.\NNo way. So there's no
 Dialogue: 0,0:03:10.98,0:03:15.90,Dubtitles,,0,0,0,,record of it at all it\Nmust have been the greatest
 Dialogue: 0,0:03:15.98,0:03:19.44,Dubtitles,,0,0,0,,story in the world hold\Non a second Vegapunk
 Dialogue: 0,0:03:20.12,0:03:22.12,Dubtitles,,0,0,0,,ohara was destroyed because\Nthey found out about
 Dialogue: 0,0:03:22.20,0:03:25.50,Dubtitles,,0,0,0,,this stuff right so that\Nmeans anyone else who
-Dialogue: 0,0:03:25.58,0:03:31.88,Dubtitles,,0,0,0,,learns about it will\Nbe erased yes excuse me
+Dialogue: 0,0:03:25.58,0:03:31.88,Dubtitles,,0,0,0,,Learns about it will be\Nerased. Yes, excuse me.
 Dialogue: 0,0:03:31.96,0:03:35.46,Dubtitles,,0,0,0,,then why did you tell us\Nyou asshole it's too late
 Dialogue: 0,0:03:36.28,0:03:40.14,Dubtitles,,0,0,0,,i do too much i'm gonna\Nget blank century i
 Dialogue: 0,0:03:40.22,0:03:44.12,Dubtitles,,0,0,0,,need to forget forget\Nforget i'll come at you
@@ -9130,7 +9130,7 @@ Dialogue: 0,0:08:56.28,0:08:57.14,Dubtitles,,0,0,0,,crying?
 Dialogue: 0,0:08:58.30,0:08:59.13,Dubtitles,,0,0,0,,Jerk!
 Dialogue: 0,0:08:59.21,0:09:01.72,Dubtitles,,0,0,0,,How dare you make her cry\Nlike that, bucket head!
 Dialogue: 0,0:09:01.80,0:09:04.92,Dubtitles,,0,0,0,,I'm gonna give you a kiss of my arm!
-Dialogue: 0,0:09:05.38,0:09:07.62,Dubtitles,,0,0,0,,Nobody makes her eye-yellers just cry!
+Dialogue: 0,0:09:05.38,0:09:07.62,Dubtitles,,0,0,0,,Nobody makes her eye-yellers cry!
 Dialogue: 0,0:09:07.76,0:09:08.70,Dubtitles,,0,0,0,,Damn it!
 Dialogue: 0,0:09:14.98,0:09:16.33,Dubtitles,,0,0,0,,You're right, Vegapunk.
 Dialogue: 0,0:09:17.70,0:09:19.17,Dubtitles,,0,0,0,,It's just as you guessed.
@@ -9147,7 +9147,7 @@ Dialogue: 0,0:10:02.20,0:10:05.24,Dubtitles,,0,0,0,,I never thought I'd\Nfind so
 Dialogue: 0,0:10:06.22,0:10:07.94,Dubtitles,,0,0,0,,All right, pull it up!
 Dialogue: 0,0:10:11.28,0:10:12.11,Dubtitles,,0,0,0,,Giants!
 Dialogue: 0,0:10:12.94,0:10:14.78,Dubtitles,,0,0,0,,But why are they here?
-Dialogue: 0,0:10:15.54,0:10:18.92,Dubtitles,,0,0,0,,Do they have any idea how\Nvaluable those hooks are?
+Dialogue: 0,0:10:15.54,0:10:18.92,Dubtitles,,0,0,0,,Do they have any idea how\Nvaluable those books are?
 Dialogue: 0,0:10:19.72,0:10:20.96,Dubtitles,,0,0,0,,No, wait!
 Dialogue: 0,0:10:21.78,0:10:23.62,Dubtitles,,0,0,0,,Why are they taking them?
 Dialogue: 0,0:10:24.24,0:10:25.84,Dubtitles,,0,0,0,,There's no point hiding.
@@ -9191,7 +9191,7 @@ Dialogue: 0,0:12:19.32,0:12:22.38,Dubtitles,,0,0,0,,I'm not going to tell\Nthem 
 Dialogue: 0,0:12:22.46,0:12:26.23,Dubtitles,,0,0,0,,But thank you for confirming my\Nsuspicion that you're their dog!
 Dialogue: 0,0:12:27.94,0:12:31.41,Dubtitles,,0,0,0,,It was naive of me to think\Nyou'd join my freedom fighters.
 Dialogue: 0,0:12:32.80,0:12:34.08,Dubtitles,,0,0,0,,Of course I thought?
-Dialogue: 0,0:12:34.84,0:12:37.54,Dubtitles,,0,0,0,,My mind would be vested\Non your bury-less army.
+Dialogue: 0,0:12:34.84,0:12:37.54,Dubtitles,,0,0,0,,My mind would be vested\Nin your bury-less army.
 Dialogue: 0,0:12:37.62,0:12:41.14,Dubtitles,,0,0,0,,An inventor without funds is\Nlike a horse without legs.
 Dialogue: 0,0:12:41.70,0:12:42.96,Dubtitles,,0,0,0,,Yeah, I got it.
 Dialogue: 0,0:12:43.20,0:12:45.62,Dubtitles,,0,0,0,,As cold and practical as ever, I see.
@@ -9204,7 +9204,7 @@ Dialogue: 0,0:12:59.20,0:13:01.60,Dubtitles,,0,0,0,,But this incident hit me har
 Dialogue: 0,0:13:02.54,0:13:04.46,Dubtitles,,0,0,0,,Those scholars were harmless.
 Dialogue: 0,0:13:04.82,0:13:08.72,Dubtitles,,0,0,0,,All they did was ask questions in\Nthe face of an unreasonable law.
 Dialogue: 0,0:13:09.04,0:13:11.28,Dubtitles,,0,0,0,,And the government burned them for it.
-Dialogue: 0,0:13:13.90,0:13:16.86,Dubtitles,,0,0,0,,I'll just have to start a fire of my own.
+Dialogue: 0,0:13:13.90,0:13:16.86,Dubtitles,,0,0,0,,I'll just have to start an army of my own.
 Dialogue: 0,0:13:17.62,0:13:20.26,Dubtitles,,0,0,0,,I always thought you despised Vaughan.
 Dialogue: 0,0:13:20.78,0:13:22.64,Dubtitles,,0,0,0,,This broken world must change.
 Dialogue: 0,0:13:22.90,0:13:24.80,Dubtitles,,0,0,0,,And I'll be the one to do it.
@@ -9275,16 +9275,16 @@ Dialogue: 0,0:17:06.64,0:17:08.17,Dubtitles,,0,0,0,,Robobber, did you explode?
 Dialogue: 0,0:17:08.44,0:17:10.68,Dubtitles,,0,0,0,,No, that wasn't an explosion.
 Dialogue: 0,0:17:11.30,0:17:13.36,Dubtitles,,0,0,0,,But then, what in the world was it?
 Dialogue: 0,0:17:15.02,0:17:15.85,Dubtitles,,0,0,0,,Help!
-Dialogue: 0,0:17:17.52,0:17:19.92,Dubtitles,,0,0,0,,I request help!
-Dialogue: 0,0:17:21.22,0:17:23.82,Dubtitles,,0,0,0,,Wait, Quasar? Oh, Wiper!
+Dialogue: 0,0:17:17.52,0:17:19.92,Dubtitles,,0,0,0,,I request a help!
+Dialogue: 0,0:17:21.22,0:17:23.82,Dubtitles,,0,0,0,,Wait, Quasar? Oh, Zoro!
 Dialogue: 0,0:17:24.16,0:17:25.87,Dubtitles,,0,0,0,,I've made a terrible mistake.
 Dialogue: 0,0:17:26.06,0:17:27.84,Dubtitles,,0,0,0,,I request a help, please.
-Dialogue: 0,0:17:28.62,0:17:31.54,Dubtitles,,0,0,0,,It's the best time to\Nstart. While I was wopping?
+Dialogue: 0,0:17:28.62,0:17:31.54,Dubtitles,,0,0,0,,It's the best time to\Nstart while I was wopping?
 Dialogue: 0,0:17:32.02,0:17:33.79,Dubtitles,,0,0,0,,Was that old man there before?
 Dialogue: 0,0:17:34.12,0:17:35.48,Dubtitles,,0,0,0,,I don't think so, no.
 Dialogue: 0,0:17:35.70,0:17:36.53,Dubtitles,,0,0,0,,I am thinking!
 Dialogue: 0,0:17:36.61,0:17:38.54,Dubtitles,,0,0,0,,Thinking like a fresh egg!
-Dialogue: 0,0:17:38.88,0:17:40.42,Dubtitles,,0,0,0,,But you made to die!
+Dialogue: 0,0:17:38.88,0:17:40.42,Dubtitles,,0,0,0,,But you made me die!
 Dialogue: 0,0:17:43.46,0:17:45.52,Dubtitles,,0,0,0,,I don't really get what's going on.
 Dialogue: 0,0:17:45.88,0:17:48.12,Dubtitles,,0,0,0,,Okay, old man, I'll see what I can do!
 Dialogue: 0,0:17:53.30,0:17:56.62,Dubtitles,,0,0,0,,Please, my dear boy, get\Nme out of here! Wait a sec.
@@ -10063,7 +10063,7 @@ Dialogue: 1,0:20:37.51,0:20:44.28,Romaji ED,,0,0,0,,{\an5\pos(678.445,44.000)\fa
 Dialogue: 1,0:20:37.54,0:20:44.02,Translation ED,,0,0,0,,{\an5\pos(347.109,1036.000)\fad(150,150)\bord0\blur0.6}S
 Dialogue: 1,0:20:37.54,0:20:44.30,Romaji ED,,0,0,0,,{\an5\pos(740.695,44.000)\fad(200,200)\c&H47A6D8&\bord0\blur0.6\t(900,900,\c&HFFFFFF&)}hi
 Dialogue: 1,0:20:37.55,0:20:44.03,Translation ED,,0,0,0,,{\an5\pos(376.430,1036.000)\fad(150,150)\bord0\blur0.6}e
-Dialogue: 0,0:20:37.56,0:20:41.58,Dubtitles,,0,0,0,,I'm going to sing along the same song.
+Dialogue: 0,0:20:37.56,0:20:41.58,Dubtitles,,0,0,0,,I'm going to sing along to the same song.
 Dialogue: 1,0:20:37.56,0:20:44.04,Translation ED,,0,0,0,,{\an5\pos(402.867,1036.000)\fad(150,150)\bord0\blur0.6}e
 Dialogue: 1,0:20:37.56,0:20:44.33,Romaji ED,,0,0,0,,{\an5\pos(784.172,44.000)\fad(200,200)\c&H47A6D8&\bord0\blur0.6\t(1375,1375,\c&HFFFFFF&)}to
 Dialogue: 1,0:20:37.58,0:20:44.06,Translation ED,,0,0,0,,{\an5\pos(442.781,1036.000)\fad(150,150)\bord0\blur0.6}t
