@@ -254,7 +254,7 @@ Dialogue: 1,0:01:21.02,0:01:23.15,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\blu
 Dialogue: 3,0:01:21.02,0:01:23.15,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Okaerinasaimase butagoya e
 Dialogue: 2,0:01:21.02,0:01:23.15,Neo OR,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Okaerinasaimase butagoya e
 Dialogue: 1,0:01:21.02,0:01:23.15,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Okaerinasaimase butagoya e
-Dialogue: 0,0:01:24.12,0:01:28.64,Dubtitles,,0,0,0,,Hey, I made the way All right.
+Dialogue: 0,0:01:24.12,0:01:27.22,Dubtitles,,0,0,0,,Hey, I made the way! Oh, hey, yes!
 Dialogue: 3,0:01:24.36,0:01:24.56,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Hey! (Yeah!) This is my maid way! (Whoo!)
 Dialogue: 2,0:01:24.36,0:01:24.56,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Hey! (Yeah!) This is my maid way! (Whoo!)
 Dialogue: 1,0:01:24.36,0:01:24.56,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Hey! (Yeah!) This is my maid way! (Whoo!)
@@ -279,12 +279,14 @@ Dialogue: 1,0:01:27.03,0:01:29.78,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:27.03,0:01:29.78,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Kimi no heart ni Doon! Doon! Doon! (Alright!)
 Dialogue: 2,0:01:27.03,0:01:29.78,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Kimi no heart ni Doon! Doon! Doon! (Alright!)
 Dialogue: 1,0:01:27.03,0:01:29.78,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Kimi no heart ni Doon! Doon! Doon! (Alright!)
+Dialogue: 0,0:01:27.82,0:01:29.70,Dubtitles,,0,0,0,,Do-do-do! All right!
 Dialogue: 3,0:01:29.74,0:01:29.90,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Take an instax with the scumbag
 Dialogue: 2,0:01:29.74,0:01:29.90,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Take an instax with the scumbag
 Dialogue: 1,0:01:29.74,0:01:29.90,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Take an instax with the scumbag
 Dialogue: 3,0:01:29.74,0:01:29.90,Neo OR2,,0,0,0,,{\move(760,80,960,80,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Anchikushou to cheki cheki cheki
 Dialogue: 2,0:01:29.74,0:01:29.90,Neo OR2,,0,0,0,,{\move(760,80,960,80,0,120)\shad0\blur1.5\fad(120,0)}Anchikushou to cheki cheki cheki
 Dialogue: 1,0:01:29.74,0:01:29.90,Neo OR2,,0,0,0,,{\move(760,80,960,80,0,120)\bord0\blur0.3\fad(120,0)}Anchikushou to cheki cheki cheki
+Dialogue: 0,0:01:29.88,0:01:31.74,Dubtitles,,0,0,0,,Unchick, short, shake, shake, shake!
 Dialogue: 3,0:01:29.90,0:01:31.61,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.5\c&H000000&)}Take an instax with the scumbag
 Dialogue: 2,0:01:29.90,0:01:31.61,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\shad0\blur1.5\fad(0,120)}Take an instax with the scumbag
 Dialogue: 1,0:01:29.90,0:01:31.61,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\blur0.5\fad(0,120)}Take an instax with the scumbag
@@ -303,6 +305,9 @@ Dialogue: 1,0:01:31.70,0:01:34.20,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:31.70,0:01:34.20,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Hey! (Yeah!) Meido no princess! (Fuu!)
 Dialogue: 2,0:01:31.70,0:01:34.20,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Hey! (Yeah!) Meido no princess! (Fuu!)
 Dialogue: 1,0:01:31.70,0:01:34.20,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Hey! (Yeah!) Meido no princess! (Fuu!)
+Dialogue: 0,0:01:31.82,0:01:32.65,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:01:32.73,0:01:33.66,Dubtitles,,0,0,0,,Made of the princess!
+Dialogue: 0,0:01:34.06,0:01:36.40,Dubtitles,,0,0,0,,Something's cool, not bad, pah-pah-pah!
 Dialogue: 3,0:01:34.16,0:01:34.32,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Stan for me or, Blam! Blam! Blam! (Okay)
 Dialogue: 2,0:01:34.16,0:01:34.32,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Stan for me or, Blam! Blam! Blam! (Okay)
 Dialogue: 1,0:01:34.16,0:01:34.32,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Stan for me or, Blam! Blam! Blam! (Okay)
@@ -315,6 +320,7 @@ Dialogue: 1,0:01:34.32,0:01:36.95,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\b
 Dialogue: 3,0:01:34.32,0:01:36.95,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Oshite kunnakya Baan! Baan! Baan! (Okay)
 Dialogue: 2,0:01:34.32,0:01:36.95,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Oshite kunnakya Baan! Baan! Baan! (Okay)
 Dialogue: 1,0:01:34.32,0:01:36.95,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Oshite kunnakya Baan! Baan! Baan! (Okay)
+Dialogue: 0,0:01:36.70,0:01:37.53,Dubtitles,,0,0,0,,Oh, hey!
 Dialogue: 3,0:01:36.87,0:01:37.04,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Petticoats whirl in a scuffle
 Dialogue: 2,0:01:36.87,0:01:37.04,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Petticoats whirl in a scuffle
 Dialogue: 1,0:01:36.87,0:01:37.04,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Petticoats whirl in a scuffle
@@ -327,6 +333,7 @@ Dialogue: 1,0:01:37.04,0:01:38.75,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:37.04,0:01:38.75,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Pannier mau daikaiten
 Dialogue: 2,0:01:37.04,0:01:38.75,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Pannier mau daikaiten
 Dialogue: 1,0:01:37.04,0:01:38.75,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Pannier mau daikaiten
+Dialogue: 0,0:01:37.61,0:01:40.46,Dubtitles,,0,0,0,,I knew the way I brought it.\NMade by the pizza, Ecophones!
 Dialogue: 3,0:01:38.66,0:01:38.87,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Hide-and-seek at the maid café
 Dialogue: 2,0:01:38.66,0:01:38.87,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Hide-and-seek at the maid café
 Dialogue: 1,0:01:38.66,0:01:38.87,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Hide-and-seek at the maid café
@@ -351,6 +358,7 @@ Dialogue: 1,0:01:40.75,0:01:42.21,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:40.75,0:01:42.21,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Nice okyuuji daiseikyou
 Dialogue: 2,0:01:40.75,0:01:42.21,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Nice okyuuji daiseikyou
 Dialogue: 1,0:01:40.75,0:01:42.21,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Nice okyuuji daiseikyou
+Dialogue: 0,0:01:40.82,0:01:42.00,Dubtitles,,0,0,0,,Your fight begins!!
 Dialogue: 3,0:01:42.12,0:01:42.33,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Falling in love is a big no-no
 Dialogue: 2,0:01:42.12,0:01:42.33,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Falling in love is a big no-no
 Dialogue: 1,0:01:42.12,0:01:42.33,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Falling in love is a big no-no
@@ -363,12 +371,14 @@ Dialogue: 1,0:01:42.33,0:01:43.96,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\b
 Dialogue: 3,0:01:42.33,0:01:43.96,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Renai wa no no
 Dialogue: 2,0:01:42.33,0:01:43.96,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Renai wa no no
 Dialogue: 1,0:01:42.33,0:01:43.96,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Renai wa no no
+Dialogue: 0,0:01:42.58,0:01:44.00,Dubtitles,,0,0,0,,I'm not that bad!
 Dialogue: 3,0:01:43.88,0:01:44.08,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}A cutesy garden of secrets
 Dialogue: 2,0:01:43.88,0:01:44.08,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}A cutesy garden of secrets
 Dialogue: 1,0:01:43.88,0:01:44.08,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}A cutesy garden of secrets
 Dialogue: 3,0:01:43.88,0:01:44.08,Neo OR2,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Himitsu no hanazono
 Dialogue: 2,0:01:43.88,0:01:44.08,Neo OR2,,0,0,0,,{\move(1160,80,960,80,0,120)\shad0\blur1.5\fad(120,0)}Himitsu no hanazono
 Dialogue: 1,0:01:43.88,0:01:44.08,Neo OR2,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\blur0.3\fad(120,0)}Himitsu no hanazono
+Dialogue: 0,0:01:44.08,0:01:45.54,Dubtitles,,0,0,0,,You need no other love!
 Dialogue: 3,0:01:44.08,0:01:46.50,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.5\c&H000000&)}A cutesy garden of secrets
 Dialogue: 2,0:01:44.08,0:01:46.50,Neo OE2,,0,0,0,,{\move(960,20,920,20)\shad0\blur1.5\fad(0,120)}A cutesy garden of secrets
 Dialogue: 1,0:01:44.08,0:01:46.50,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\blur0.5\fad(0,120)}A cutesy garden of secrets
@@ -387,7 +397,7 @@ Dialogue: 1,0:02:32.05,0:02:35.55,Caption,,0,0,0,,{\pos(1289.6,361.6)\fnSwis721 
 Dialogue: 1,0:02:32.05,0:02:35.55,Caption,,0,0,0,,{\pos(1286.2,406)\fnSwis721 BT\fs41}maid feud?
 Dialogue: 1,0:02:32.05,0:02:35.55,Caption,,0,0,0,,{\pos(832.2,250.6)\fnPapyrus\fs50}Wuv-Wuv Moonbeam
 Dialogue: 1,0:02:32.05,0:02:35.55,Caption,,0,0,0,,{\pos(593.6,764.2)\fnSwis721 BT\fs41}An Attack by an Affiliate of a Major Chain?
-Dialogue: 0,0:02:33.10,0:02:37.56,Dubtitles,,0,0,0,,the incident last night is suspected to be\Npart of a long - That's Wuv Wuv Moonbeam.
+Dialogue: 0,0:02:33.10,0:02:37.56,Dubtitles,,0,0,0,,The incident last night is suspected to\Nbe part of a long—That's Wuv Wuv Moonbeam.
 Dialogue: 0,0:02:37.64,0:02:40.34,Dubtitles,,0,0,0,,Looks like you dudes really\Nsmashed things up a bit.
 Dialogue: 0,0:02:40.42,0:02:41.52,Dubtitles,,0,0,0,,Yes, we sure did.
 Dialogue: 0,0:02:41.78,0:02:43.72,Dubtitles,,0,0,0,,Don't you think you went a little too far?
@@ -453,7 +463,7 @@ Dialogue: 0,0:05:37.48,0:05:39.25,Dubtitles,,0,0,0,,I'm from Invader Café Destr
 Dialogue: 0,0:05:39.46,0:05:40.54,Dubtitles,,0,0,0,,My name is Nerula.
 Dialogue: 0,0:05:40.94,0:05:43.38,Dubtitles,,0,0,0,,Oh, I'm Nagomi from Oinky Doink Café.
 Dialogue: 0,0:05:43.58,0:05:45.17,Dubtitles,,0,0,0,,It's very nice to meet you.
-Dialogue: 0,0:05:45.42,0:05:46.54,Dubtitles,,0,0,0,,We're not affiliated,
+Dialogue: 0,0:05:45.42,0:05:46.54,Dubtitles,,0,0,0,,We're not affiliated.
 Dialogue: 0,0:05:46.62,0:05:49.52,Dubtitles,,0,0,0,,but as fellow maids, we\Nneed to do the best we can,
 Dialogue: 0,0:05:49.60,0:05:52.68,Dubtitles,,0,0,0,,even though the skirmishes\Ncan be pretty rough at times.
 Dialogue: 0,0:05:52.76,0:05:57.88,Dubtitles,,0,0,0,,Do the skirmishes and other scary stuff\Nhappen a lot at the maid cafes? Hmm.
@@ -507,7 +517,7 @@ Dialogue: 0,0:07:45.46,0:07:46.42,Dubtitles,,0,0,0,,You should try it.
 Dialogue: 0,0:07:46.50,0:07:47.33,Dubtitles,,0,0,0,,No, thanks.
 Dialogue: 0,0:07:47.41,0:07:48.70,Dubtitles,,0,0,0,,Do I look like a sucker to you?
 Dialogue: 0,0:07:48.78,0:07:51.54,Dubtitles,,0,0,0,,If it involves maids, it's gotta be shady.
-Dialogue: 0,0:07:51.62,0:07:54.04,Dubtitles,,0,0,0,,That's what everybody thinks right,
+Dialogue: 0,0:07:51.62,0:07:54.04,Dubtitles,,0,0,0,,That's what everybody thinks, right,
 Dialogue: 0,0:07:54.26,0:07:56.98,Dubtitles,,0,0,0,,but it's actually totally\Nsafe and legal and you can
 Dialogue: 0,0:07:57.06,0:07:59.74,Dubtitles,,0,0,0,,increase your cash while\Nhaving fun It's a win-win.
 Dialogue: 0,0:07:59.82,0:08:00.86,Dubtitles,,0,0,0,,I'll make money.
@@ -558,7 +568,7 @@ Dialogue: 0,0:09:43.15,0:09:45.16,Dubtitles,,0,0,0,,Okay, where do you think we 
 Dialogue: 0,0:09:45.24,0:09:46.07,Dubtitles,,0,0,0,,Take this.
 Dialogue: 0,0:09:46.66,0:09:47.49,Dubtitles,,0,0,0,,Here.
 Dialogue: 0,0:09:47.80,0:09:48.63,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:09:50.56,0:09:55.26,Dubtitles,,0,0,0,,Um as if i'd give you any\Nshe lost all that money
+Dialogue: 0,0:09:50.56,0:09:55.26,Dubtitles,,0,0,0,,Um, as if I'd give you any,\Nshe lost all that money
 Dialogue: 0,0:09:55.34,0:09:58.52,Dubtitles,,0,0,0,,and now she's back is she\Nan idiot so do you think?
 Dialogue: 0,0:09:58.60,0:10:01.92,Dubtitles,,0,0,0,,We can bring more money\Nout of her no need to i
 Dialogue: 0,0:10:02.00,0:10:05.62,Dubtitles,,0,0,0,,already got hold of her\Nmaid cafe hey wait there?
@@ -582,20 +592,21 @@ Dialogue: 0,0:11:05.46,0:11:07.12,Dubtitles,,0,0,0,,Come on, baby, come on.
 Dialogue: 0,0:11:08.16,0:11:10.46,Dubtitles,,0,0,0,,Ooh, three potential bingos!
 Dialogue: 0,0:11:12.16,0:11:16.62,Dubtitles,,0,0,0,,Looks like everyone's doing so well,\Nit's time to make our first move.
 Dialogue: 0,0:11:18.38,0:11:20.84,Dubtitles,,0,0,0,,Oh, Lucky, I bet that's\Nenough for the cafe!
-Dialogue: 0,0:11:20.92,0:11:25.33,Dubtitles,,0,0,0,,That's great, Chief, I'm so happy,\Nlet's wrap it up here and get back home.
+Dialogue: 0,0:11:20.92,0:11:25.33,Dubtitles,,0,0,0,,That's great, Chief, I'm so happy.\NLet's wrap it up here and get back home.
 Dialogue: 0,0:11:25.52,0:11:27.46,Dubtitles,,0,0,0,,Are you sure you want to do that?
 Dialogue: 0,0:11:28.74,0:11:31.40,Dubtitles,,0,0,0,,Gambling's no different\Nfrom how we experience life.
 Dialogue: 0,0:11:31.48,0:11:34.22,Dubtitles,,0,0,0,,You can lose and can get\Nlaughed at and ridiculed,
 Dialogue: 0,0:11:34.30,0:11:36.30,Dubtitles,,0,0,0,,but what you can't do is run away!
 Dialogue: 0,0:11:36.78,0:11:38.44,Dubtitles,,0,0,0,,But Chief, um...
-Dialogue: 0,0:11:39.46,0:11:40.70,Dubtitles,,0,0,0,,You did good, Piglet.
-Dialogue: 0,0:11:41.14,0:11:42.26,Dubtitles,,0,0,0,,I'll take it from here.
+Dialogue: 0,0:11:39.44,0:11:40.70,Dubtitles,,0,0,0,,You did good, Piglet.
+Dialogue: 0,0:11:41.12,0:11:42.26,Dubtitles,,0,0,0,,I'll take it from here.
 Dialogue: 0,0:11:42.34,0:11:43.17,Dubtitles,,0,0,0,,Boinky-doink!
 Dialogue: 0,0:11:43.25,0:11:47.57,Dubtitles,,0,0,0,,At this rate, we should rake in enough\Nmoney to pay those Creatureland creeps!
-Dialogue: 0,0:11:54.54,0:11:57.08,Dubtitles,,0,0,0,,You lost too, Ronco? Regretfully so.
-Dialogue: 0,0:11:57.24,0:11:59.24,Dubtitles,,0,0,0,,We're completely out of money now.
-Dialogue: 0,0:11:59.32,0:12:01.80,Dubtitles,,0,0,0,,Mistresses, are you enjoying yourselves?
-Dialogue: 0,0:12:02.50,0:12:05.22,Dubtitles,,0,0,0,,I'm the dealer over at the\NSuperDuper Poker Table,
+Dialogue: 0,0:11:54.54,0:11:55.37,Dubtitles,,0,0,0,,come on, come on.
+Dialogue: 0,0:11:55.45,0:11:57.08,Dubtitles,,0,0,0,,You lost too, Ronco? Regretfully so.
+Dialogue: 0,0:11:57.26,0:11:59.22,Dubtitles,,0,0,0,,We're completely out of money now.
+Dialogue: 0,0:11:59.30,0:12:01.80,Dubtitles,,0,0,0,,Mistresses, are you enjoying yourselves?
+Dialogue: 0,0:12:02.48,0:12:05.22,Dubtitles,,0,0,0,,I'm the dealer over at the\NSuperDuper Poker Table,
 Dialogue: 0,0:12:05.30,0:12:08.98,Dubtitles,,0,0,0,,and I'm here to let you know that\Na new game is about to start.
 Dialogue: 0,0:12:09.06,0:12:09.89,Dubtitles,,0,0,0,,Porker?
 Dialogue: 0,0:12:09.97,0:12:11.32,Dubtitles,,0,0,0,,No, poker.
@@ -762,7 +773,7 @@ Dialogue: 0,0:19:54.30,0:19:55.18,Dubtitles,,0,0,0,,What the...
 Dialogue: 0,0:19:55.26,0:19:56.70,Dubtitles,,0,0,0,,That's too funny.
 Dialogue: 0,0:20:00.70,0:20:02.44,Dubtitles,,0,0,0,,We'll be taking back our cafe.
 Dialogue: 0,0:20:02.52,0:20:05.20,Dubtitles,,0,0,0,,You lost wine, so get back in the cage!
-Dialogue: 0,0:20:05.28,0:20:06.76,Dubtitles,,0,0,0,,Shut up, bitch.
+Dialogue: 0,0:20:05.28,0:20:06.76,Dubtitles,,0,0,0,,Shut up, Mistress.
 Dialogue: 0,0:20:06.84,0:20:08.56,Dubtitles,,0,0,0,,You're the one who swindled us.
 Dialogue: 0,0:20:08.64,0:20:11.04,Dubtitles,,0,0,0,,We're the ones struggling\Nand putting it hard.
 Dialogue: 0,0:20:11.12,0:20:12.50,Dubtitles,,0,0,0,,Honest work.
@@ -791,35 +802,34 @@ Dialogue: 0,0:21:50.30,0:21:51.98,Dubtitles,,0,0,0,,I think I did good, didn't I
 Dialogue: 0,0:21:52.06,0:21:53.94,Dubtitles,,0,0,0,,Uh, we're still behind on our dues.
 Dialogue: 0,0:21:54.02,0:21:57.38,Dubtitles,,0,0,0,,I'm sure someone is going to come\Nby soon asking for it the soy sauce.
 Dialogue: 0,0:21:57.46,0:21:58.75,Dubtitles,,0,0,0,,May I take it, please?
-Dialogue: 0,0:21:59.34,0:22:00.17,Dubtitles,,0,0,0,,Sure.
-Dialogue: 0,0:22:03.46,0:22:07.24,Dubtitles,,0,0,0,,I need to calm down at\Nleast I'm still alive.
-Dialogue: 0,0:22:24.04,0:22:28.66,Dubtitles,,0,0,0,,Today and tomorrow are all good.
+Dialogue: 0,0:21:59.34,0:22:00.17,Dubtitles,,0,0,0,,Sure
+Dialogue: 0,0:22:03.46,0:22:04.86,Dubtitles,,0,0,0,,I need to calm down.
+Dialogue: 0,0:22:04.94,0:22:07.24,Dubtitles,,0,0,0,,At least I'm still alive.
+Dialogue: 0,0:22:24.02,0:22:28.66,Dubtitles,,0,0,0,,Today and tomorrow are all good.
 Dialogue: 1,0:22:24.70,0:22:29.70,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Another day, another chance to go moe moe kyun
 Dialogue: 2,0:22:24.70,0:22:29.70,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Another day, another chance to go moe moe kyun
 Dialogue: 1,0:22:24.70,0:22:29.70,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Kyou mo ashita mo moe moe kyun
 Dialogue: 2,0:22:24.70,0:22:29.70,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Kyou mo ashita mo moe moe kyun
-Dialogue: 0,0:22:30.40,0:22:32.05,Dubtitles,,0,0,0,,We're all good at the house.
+Dialogue: 0,0:22:30.02,0:22:35.34,Dubtitles,,0,0,0,,We're all good at the house.
 Dialogue: 1,0:22:30.87,0:22:35.96,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}I come to the pigsty for my moe moe kyun
 Dialogue: 2,0:22:30.87,0:22:35.96,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}I come to the pigsty for my moe moe kyun
 Dialogue: 1,0:22:30.87,0:22:35.96,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Butagoya atari de moe moe kyun
 Dialogue: 2,0:22:30.87,0:22:35.96,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Butagoya atari de moe moe kyun
-Dialogue: 0,0:22:34.02,0:22:37.06,Dubtitles,,0,0,0,,We're all good at the house.
+Dialogue: 0,0:22:36.02,0:22:40.40,Dubtitles,,0,0,0,,That's the truth of the life.
 Dialogue: 1,0:22:36.84,0:22:41.97,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}That's the sort of life I lead
 Dialogue: 2,0:22:36.84,0:22:41.97,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}That's the sort of life I lead
 Dialogue: 1,0:22:36.84,0:22:41.97,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Sorega atai no ikizama sa
 Dialogue: 2,0:22:36.84,0:22:41.97,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Sorega atai no ikizama sa
-Dialogue: 0,0:22:37.14,0:22:40.44,Dubtitles,,0,0,0,,That's the truth of our life.
-Dialogue: 0,0:22:42.48,0:22:45.46,Dubtitles,,0,0,0,,You're not stupid to be kidding me.
+Dialogue: 0,0:22:42.02,0:22:46.00,Dubtitles,,0,0,0,,You are crazy as a man.
 Dialogue: 1,0:22:43.17,0:22:51.77,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Mock me, and you just might bleed
 Dialogue: 2,0:22:43.17,0:22:51.77,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Mock me, and you just might bleed
 Dialogue: 1,0:22:43.17,0:22:51.77,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Baka ni suru yatsa chi o miruze
 Dialogue: 2,0:22:43.17,0:22:51.77,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Baka ni suru yatsa chi o miruze
-Dialogue: 0,0:22:45.54,0:22:48.24,Dubtitles,,0,0,0,,We're all good at the blood.
+Dialogue: 0,0:22:46.08,0:22:48.30,Dubtitles,,0,0,0,,You can see the blood. Thank you.
 Dialogue: 1,0:22:51.77,0:22:57.90,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Is the hesitation that wells up
 Dialogue: 2,0:22:51.77,0:22:57.90,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Is the hesitation that wells up
 Dialogue: 1,0:22:51.77,0:22:57.90,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Mune o yogiru tamerai wa
 Dialogue: 2,0:22:51.77,0:22:57.90,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Mune o yogiru tamerai wa
-Dialogue: 0,0:22:54.20,0:22:57.00,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:22:57.90,0:23:06.82,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}The lingering scent of a humane soul?
 Dialogue: 2,0:22:57.90,0:23:06.82,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}The lingering scent of a humane soul?
 Dialogue: 1,0:22:57.90,0:23:06.82,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Hito no kokoro no nokoriga ka
@@ -832,18 +842,15 @@ Dialogue: 1,0:23:13.50,0:23:19.09,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fa
 Dialogue: 2,0:23:13.50,0:23:19.09,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Tread your own path
 Dialogue: 1,0:23:13.50,0:23:19.09,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Onore no michi o tsuranuke
 Dialogue: 2,0:23:13.50,0:23:19.09,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Onore no michi o tsuranuke
-Dialogue: 0,0:23:18.24,0:23:23.18,Dubtitles,,0,0,0,,Thank you so
 Dialogue: 1,0:23:19.09,0:23:25.93,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Have the guts to pull that trigger
 Dialogue: 2,0:23:19.09,0:23:25.93,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Have the guts to pull that trigger
 Dialogue: 1,0:23:19.09,0:23:25.93,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Hikigane o hiki yagare
 Dialogue: 2,0:23:19.09,0:23:25.93,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Hikigane o hiki yagare
-Dialogue: 0,0:23:23.26,0:23:28.96,Dubtitles,,0,0,0,,much
 Dialogue: 1,0:23:25.93,0:23:31.81,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Who are you
 Dialogue: 2,0:23:25.93,0:23:31.81,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Who are you
 Dialogue: 1,0:23:25.93,0:23:31.81,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Omae ga dare nanoka
 Dialogue: 2,0:23:25.93,0:23:31.81,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Omae ga dare nanoka
-Dialogue: 0,0:23:29.04,0:23:31.42,Dubtitles,,0,0,0,,for
-Dialogue: 0,0:23:31.50,0:23:32.88,Dubtitles,,0,0,0,,watching.
+Dialogue: 0,0:23:30.36,0:23:33.16,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:23:31.81,0:23:38.73,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Show me through the pain
 Dialogue: 2,0:23:31.81,0:23:38.73,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Show me through the pain
 Dialogue: 1,0:23:31.81,0:23:38.73,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Itami de oshietokure

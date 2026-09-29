@@ -30,15 +30,13 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.92,Dubtitles,,0,0,0,,X2
+Dialogue: 0,0:00:05.88,0:00:07.28,Dubtitles,,0,0,0,,X2
 Dialogue: 1,0:00:12.99,0:00:14.20,Caption,,0,0,0,,{\pos(634,508)\fnSwis721 BT\fs41}Victim Was a 36-Year-Old Maid
-Dialogue: 0,0:00:13.32,0:00:14.15,Dubtitles,,0,0,0,,The Dragon's Dragon, is the last one.
-Dialogue: 0,0:00:14.23,0:00:17.36,Dubtitles,,0,0,0,,The Dragon's Dragon, is the last one.
 Dialogue: 1,0:00:14.83,0:00:16.20,Caption,,0,0,0,,{\pos(749,508)\fnSwis721 BT\fs41}Another Maid Feud?
 Dialogue: 1,0:00:16.91,0:00:18.33,Caption,,0,0,0,,{\pos(672,508)\fnSwis721 BT\fs41}What Will Become of Akiba?
-Dialogue: 0,0:00:19.06,0:00:21.36,Dubtitles,,0,0,0,,It's a long time for the Dragon's Dragon.
-Dialogue: 0,0:00:21.44,0:00:23.97,Dubtitles,,0,0,0,,but it's a long time\Nfor a Dragon's Dragon.
 Dialogue: 0,0:00:46.34,0:00:48.34,Dubtitles,,0,0,0,,Over here, you moron!
-Dialogue: 0,0:00:49.12,0:00:52.06,Dubtitles,,0,0,0,,Miss Nagi, this is the\Nmaid who offed Ronko.
+Dialogue: 0,0:00:49.12,0:00:52.06,Dubtitles,,0,0,0,,Mistress Nagi, this is\Nthe maid who offed Ronko.
 Dialogue: 0,0:00:52.32,0:00:54.70,Dubtitles,,0,0,0,,One of my maids caught her sliming around.
 Dialogue: 0,0:00:54.78,0:00:56.30,Dubtitles,,0,0,0,,Which cafe is she from?
 Dialogue: 0,0:00:56.38,0:00:57.72,Dubtitles,,0,0,0,,Wuv Wuv Moonbeam,
@@ -95,7 +93,7 @@ Dialogue: 0,0:03:00.44,0:03:02.72,Dubtitles,,0,0,0,,How about I give you a nose 
 Dialogue: 0,0:03:03.00,0:03:04.88,Dubtitles,,0,0,0,,All right, all right, just stop!
 Dialogue: 0,0:03:04.96,0:03:06.64,Dubtitles,,0,0,0,,I'll talk, I'll talk, okay?
 Dialogue: 0,0:03:06.88,0:03:09.06,Dubtitles,,0,0,0,,The worthless scum that killed Ronco.
-Dialogue: 0,0:03:09.22,0:03:11.94,Dubtitles,,0,0,0,,It's a maid that used to\Nwork at Baan Moonbeam.
+Dialogue: 0,0:03:09.22,0:03:11.94,Dubtitles,,0,0,0,,It's a maid that used to\Nwork at Baan Blam Boom.
 Dialogue: 0,0:03:12.02,0:03:13.28,Dubtitles,,0,0,0,,Did the head give the order?
 Dialogue: 0,0:03:13.36,0:03:14.88,Dubtitles,,0,0,0,,I don't know anything about that,
 Dialogue: 0,0:03:14.96,0:03:18.92,Dubtitles,,0,0,0,,but I do know the head's rounding up soldiers\Nand weapons to crush the oinky-doink.
@@ -134,7 +132,7 @@ Dialogue: 0,0:04:55.16,0:04:59.63,Dubtitles,,0,0,0,,as starved as she was, could
 Dialogue: 0,0:05:11.52,0:05:12.35,Dubtitles,,0,0,0,,Jisoo!
 Dialogue: 0,0:05:15.74,0:05:19.60,Dubtitles,,0,0,0,,And so Usoko arranged a hit\Non Michio and killed her.
 Dialogue: 0,0:05:19.98,0:05:23.22,Dubtitles,,0,0,0,,And now, sadly, Ronko's dead as well.
-Dialogue: 0,0:05:23.60,0:05:26.22,Dubtitles,,0,0,0,,Usoko has no place she can call home now.
+Dialogue: 0,0:05:23.60,0:05:26.22,Dubtitles,,0,0,0,,Usoko has no place she can call home now,
 Dialogue: 0,0:05:26.48,0:05:29.00,Dubtitles,,0,0,0,,so I reckon she doesn't\Neven have an address.
 Dialogue: 0,0:05:29.08,0:05:30.67,Dubtitles,,0,0,0,,Not that I would know that.
 Dialogue: 0,0:05:30.86,0:05:34.90,Dubtitles,,0,0,0,,She craves immense power because\Nshe's afraid of being all alone.
@@ -279,11 +277,11 @@ Dialogue: 0,0:14:07.23,0:14:09.94,Dubtitles,,0,0,0,,Wow, I can't believe we have
 Dialogue: 0,0:14:10.02,0:14:11.58,Dubtitles,,0,0,0,,What a sweet, sweet surprise!
 Dialogue: 0,0:14:11.66,0:14:14.82,Dubtitles,,0,0,0,,Are you, like, super nervous\Nbecause we're crazy cute?
 Dialogue: 0,0:14:14.90,0:14:16.20,Dubtitles,,0,0,0,,Come on, mistresses, relax!
-Dialogue: 0,0:14:16.28,0:14:19.36,Dubtitles,,0,0,0,,There are lots of cute maids\Nhere at Oinky Doink Cafe.
+Dialogue: 0,0:14:16.28,0:14:19.36,Dubtitles,,0,0,0,,There are lots of cute maids\Nhere at Oinky Doon Cafe.
 Dialogue: 0,0:14:19.44,0:14:20.40,Dubtitles,,0,0,0,,Cute maids?
 Dialogue: 0,0:14:20.50,0:14:22.14,Dubtitles,,0,0,0,,We've come to slaughter you.
 Dialogue: 0,0:14:22.22,0:14:23.64,Dubtitles,,0,0,0,,That's great, Oinky Doon.
-Dialogue: 0,0:14:23.72,0:14:27.20,Dubtitles,,0,0,0,,But first, why not experience some\Nof our love here at Oinky Doon?
+Dialogue: 0,0:14:23.72,0:14:27.20,Dubtitles,,0,0,0,,But first, why not experience some\Nof our love here at Oinky Doink Cafe?
 Dialogue: 0,0:14:27.28,0:14:28.11,Dubtitles,,0,0,0,,You shitting me?
 Dialogue: 0,0:14:28.19,0:14:29.18,Dubtitles,,0,0,0,,Welcome, mistresses.
 Dialogue: 0,0:14:29.26,0:14:32.08,Dubtitles,,0,0,0,,Today happens to be our big\Nbang lovey-dovey heart event.
@@ -312,68 +310,65 @@ Dialogue: 0,0:15:26.94,0:15:30.88,Dubtitles,,0,0,0,,Watch as they make this drin
 Dialogue: 0,0:15:30.96,0:15:34.54,Dubtitles,,0,0,0,,When I say oinky smooch,\Nyou say snorty snort, okay?
 Dialogue: 0,0:15:34.88,0:15:36.92,Dubtitles,,0,0,0,,Ready and oinky smooch.
 Dialogue: 0,0:15:40.40,0:15:41.23,Dubtitles,,0,0,0,,Snort!
-Dialogue: 0,0:15:41.31,0:15:44.36,Dubtitles,,0,0,0,,Getting embarrassed at a maid\Ncafe like this is not oink-ay.
-Dialogue: 0,0:15:44.44,0:15:46.52,Dubtitles,,0,0,0,,Especially you mistress.
-Dialogue: 0,0:15:46.66,0:15:49.84,Dubtitles,,0,0,0,,Get that scowl off your\Nface. That's it! Time to die!
-Dialogue: 0,0:15:50.36,0:15:51.19,Dubtitles,,0,0,0,,Relax.
-Dialogue: 0,0:15:51.27,0:15:52.43,Dubtitles,,0,0,0,,I'll kill her myself later.
-Dialogue: 0,0:15:52.96,0:15:54.46,Dubtitles,,0,0,0,,Thank you, oinky-doink!
-Dialogue: 0,0:15:55.02,0:15:55.85,Dubtitles,,0,0,0,,The hell?
-Dialogue: 0,0:15:55.93,0:15:58.08,Dubtitles,,0,0,0,,It's like you've given up being human.
+Dialogue: 0,0:15:41.31,0:15:44.67,Dubtitles,,0,0,0,,Getting embarrassed at a maid\Ncafe like this is not oink-ay.
+Dialogue: 0,0:15:45.02,0:15:46.52,Dubtitles,,0,0,0,,Especially you mistress.
+Dialogue: 0,0:15:46.66,0:15:49.84,Dubtitles,,0,0,0,,Get that scowl off your\Nface. That's it. Time to die.
+Dialogue: 0,0:15:51.06,0:15:51.89,Dubtitles,,0,0,0,,Relax.
+Dialogue: 0,0:15:51.97,0:15:52.80,Dubtitles,,0,0,0,,I'll kill her myself later.
+Dialogue: 0,0:15:52.96,0:15:55.52,Dubtitles,,0,0,0,,Thank you, oinky-doink. The hell?
+Dialogue: 0,0:15:55.84,0:15:58.08,Dubtitles,,0,0,0,,It's like you've given up being human.
 Dialogue: 0,0:15:58.30,0:15:59.58,Dubtitles,,0,0,0,,Okay, here we go.
-Dialogue: 0,0:15:59.96,0:16:00.88,Dubtitles,,0,0,0,,Oinky smooch?
-Dialogue: 0,0:16:01.06,0:16:03.00,Dubtitles,,0,0,0,,Snorty snorty. Doon smooch?
-Dialogue: 0,0:16:03.24,0:16:04.20,Dubtitles,,0,0,0,,Snorty snorty.
-Dialogue: 0,0:16:04.28,0:16:05.92,Dubtitles,,0,0,0,,Oinky-doink, doink, doink!
-Dialogue: 0,0:16:06.06,0:16:06.90,Dubtitles,,0,0,0,,Oh, yay!
-Dialogue: 0,0:16:07.36,0:16:10.60,Dubtitles,,0,0,0,,Thanks to you all, your drinks\Nare now so much tastier!
-Dialogue: 0,0:16:12.80,0:16:15.33,Dubtitles,,0,0,0,,Why does this swill\Ntaste so good, damn it?
-Dialogue: 0,0:16:16.32,0:16:18.10,Dubtitles,,0,0,0,,Why'd you turn off the damn light?
-Dialogue: 0,0:16:18.18,0:16:19.46,Dubtitles,,0,0,0,,Is this a freaking trap?
-Dialogue: 0,0:16:19.54,0:16:21.34,Dubtitles,,0,0,0,,We're not going to take this crap.
-Dialogue: 0,0:16:21.42,0:16:22.25,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:16:23.40,0:16:24.23,Dubtitles,,0,0,0,,Welcome!
-Dialogue: 0,0:16:24.56,0:16:25.91,Dubtitles,,0,0,0,,Ham so much for coming!
-Dialogue: 0,0:16:27.26,0:16:31.60,Dubtitles,,0,0,0,,I'm so happy to see so many of you here\Nallowing us to entertain you today.
-Dialogue: 0,0:16:31.68,0:16:34.14,Dubtitles,,0,0,0,,We're here to kill you,\Nyou bitch-ass porker!
-Dialogue: 0,0:16:34.22,0:16:35.57,Dubtitles,,0,0,0,,Thank you, oinky-doink!
-Dialogue: 0,0:16:36.18,0:16:39.64,Dubtitles,,0,0,0,,I'm Nagomi, and I'm here\Nto sing just for you.
-Dialogue: 0,0:16:47.64,0:16:49.30,Dubtitles,,0,0,0,,Sparkle with you to the prime.
+Dialogue: 0,0:15:59.98,0:16:00.88,Dubtitles,,0,0,0,,Oinky smooch.
+Dialogue: 0,0:16:01.10,0:16:02.08,Dubtitles,,0,0,0,,Snorny snorny.
+Dialogue: 0,0:16:02.16,0:16:03.04,Dubtitles,,0,0,0,,Doon smooch.
+Dialogue: 0,0:16:03.20,0:16:04.12,Dubtitles,,0,0,0,,Snorny snorny.
+Dialogue: 0,0:16:04.26,0:16:05.92,Dubtitles,,0,0,0,,Oinky-doink, doink, doink.
+Dialogue: 0,0:16:06.06,0:16:06.90,Dubtitles,,0,0,0,,Oh, yay.
+Dialogue: 0,0:16:07.38,0:16:10.62,Dubtitles,,0,0,0,,Thanks to you all, your drinks\Nare now so much tastier.
+Dialogue: 0,0:16:12.76,0:16:17.92,Dubtitles,,0,0,0,,Why does this will taste so good? Damn\Nit. Why'd you turn off the damn light?
+Dialogue: 0,0:16:19.22,0:16:25.88,Dubtitles,,0,0,0,,We're not gonna take this crap, huh?\NWelcome, Ham. So much for coming.
+Dialogue: 0,0:16:27.22,0:16:30.18,Dubtitles,,0,0,0,,I'm so happy to see so\Nmany of you here allowing
+Dialogue: 0,0:16:30.26,0:16:32.48,Dubtitles,,0,0,0,,us to entertain you\Ntoday we're here to kill
+Dialogue: 0,0:16:32.56,0:16:35.32,Dubtitles,,0,0,0,,you You bitch-ass porker\Nthank you oinky doink
+Dialogue: 0,0:16:35.40,0:16:39.60,Dubtitles,,0,0,0,,i'm nagomi and i'm here\Nto sing just for you
+Dialogue: 0,0:16:47.48,0:16:51.50,Dubtitles,,0,0,0,,Spark with you to the prime. Come\Nto me. I'm sublime. Super duper
 Dialogue: 11,0:16:47.78,0:16:49.28,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Sparkly and cute to the prime!
 Dialogue: 11,0:16:49.28,0:16:50.86,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Come to me I'm sublime!
-Dialogue: 0,0:16:49.38,0:16:50.70,Dubtitles,,0,0,0,,Come to me I'm sublime!
-Dialogue: 0,0:16:50.78,0:16:52.86,Dubtitles,,0,0,0,,Super duper showtime. Understand.
 Dialogue: 11,0:16:50.86,0:16:53.83,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Unprecedented showtime! Understand?
-Dialogue: 0,0:16:52.94,0:16:55.34,Dubtitles,,0,0,0,,Take a seat and listen.
+Dialogue: 0,0:16:51.62,0:16:54.44,Dubtitles,,0,0,0,,Showtime. Understand. Take a seat.
 Dialogue: 11,0:16:53.83,0:16:59.92,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}This is where my Cinderella story starts, right here
-Dialogue: 0,0:16:55.42,0:16:58.78,Dubtitles,,0,0,0,,To my Cinderella story.
-Dialogue: 0,0:17:01.22,0:17:04.18,Dubtitles,,0,0,0,,If ever your soul is feeling worn out?
+Dialogue: 0,0:16:54.52,0:16:58.76,Dubtitles,,0,0,0,,and listen To my cinderella story
+Dialogue: 0,0:16:59.34,0:17:00.17,Dubtitles,,0,0,0,,What is that?
+Dialogue: 0,0:17:00.25,0:17:01.08,Dubtitles,,0,0,0,,I'm gonna tell you.
+Dialogue: 0,0:17:01.17,0:17:04.18,Dubtitles,,0,0,0,,If ever your soul is feeling worn out?
 Dialogue: 11,0:17:01.92,0:17:04.34,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}If ever your soul is feeling worn out
 Dialogue: 0,0:17:04.26,0:17:06.98,Dubtitles,,0,0,0,,I have a lovely gift for you.
 Dialogue: 11,0:17:04.34,0:17:07.09,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Let me give a present just for you
 Dialogue: 0,0:17:07.06,0:17:08.34,Dubtitles,,0,0,0,,This beautiful smile.
 Dialogue: 11,0:17:07.09,0:17:09.84,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}This lovely smile, and even those tears
-Dialogue: 0,0:17:08.42,0:17:09.70,Dubtitles,,0,0,0,,And even these tears.
-Dialogue: 0,0:17:09.78,0:17:12.48,Dubtitles,,0,0,0,,Her sparkling love infused\Nin them all. Here you go.
+Dialogue: 0,0:17:08.42,0:17:09.74,Dubtitles,,0,0,0,,And even these tears.
+Dialogue: 0,0:17:09.82,0:17:11.60,Dubtitles,,0,0,0,,Have sparkling love infused in them all.
 Dialogue: 11,0:17:09.84,0:17:11.72,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}There's sparkly love infused in them all
+Dialogue: 0,0:17:11.68,0:17:12.51,Dubtitles,,0,0,0,,Here you go.
 Dialogue: 11,0:17:11.72,0:17:12.64,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Here you go!
-Dialogue: 0,0:17:12.56,0:17:14.60,Dubtitles,,0,0,0,,She needs sharper moves.
-Dialogue: 0,0:17:16.04,0:17:17.06,Dubtitles,,0,0,0,,Wait, hold on.
+Dialogue: 0,0:17:12.59,0:17:14.60,Dubtitles,,0,0,0,,She needs sharper moves.
+Dialogue: 0,0:17:16.00,0:17:17.06,Dubtitles,,0,0,0,,Wait, hold on.
 Dialogue: 0,0:17:17.14,0:17:18.62,Dubtitles,,0,0,0,,You need sharper moves.
 Dialogue: 0,0:17:18.70,0:17:21.32,Dubtitles,,0,0,0,,Watch me, that part should\Ngo something like this.
-Dialogue: 0,0:17:21.40,0:17:23.40,Dubtitles,,0,0,0,,Oh, I get it now!
+Dialogue: 0,0:17:21.40,0:17:23.40,Dubtitles,,0,0,0,,Oh, I get it now.
 Dialogue: 0,0:17:23.48,0:17:24.84,Dubtitles,,0,0,0,,You're so very good at this.
 Dialogue: 0,0:17:24.92,0:17:26.72,Dubtitles,,0,0,0,,I'm so lucky to have you.
 Dialogue: 0,0:17:26.80,0:17:29.08,Dubtitles,,0,0,0,,I hope I'll be a wonderful\Nmaid like you someday.
-Dialogue: 0,0:17:29.16,0:17:30.90,Dubtitles,,0,0,0,,Silly, picky, tricky.
+Dialogue: 0,0:17:29.16,0:17:30.92,Dubtitles,,0,0,0,,Silly, picky, tricky.
 Dialogue: 11,0:17:29.82,0:17:32.57,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Contrary, tricky, that's how a girl's heart works!
-Dialogue: 0,0:17:30.98,0:17:32.34,Dubtitles,,0,0,0,,That's how a girl's heart works.
-Dialogue: 0,0:17:32.42,0:17:35.90,Dubtitles,,0,0,0,,Maybe that's selfish, I'm so sorry.
+Dialogue: 0,0:17:31.00,0:17:32.34,Dubtitles,,0,0,0,,That's how a girl's heart works.
+Dialogue: 0,0:17:32.42,0:17:34.20,Dubtitles,,0,0,0,,Maybe that's selfish.
 Dialogue: 11,0:17:32.57,0:17:34.70,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Maybe that's selfish, huh?
+Dialogue: 0,0:17:34.28,0:17:35.90,Dubtitles,,0,0,0,,I'm so sorry.
 Dialogue: 11,0:17:34.70,0:17:36.87,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}I'm sorry
 Dialogue: 11,0:17:44.71,0:17:48.96,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}...make up my own future
-Dialogue: 0,0:17:44.82,0:17:47.74,Dubtitles,,0,0,0,,Time for my own future.
-Dialogue: 0,0:17:48.76,0:17:50.02,Dubtitles,,0,0,0,,Come on, everyone!
+Dialogue: 0,0:17:44.74,0:17:47.72,Dubtitles,,0,0,0,,Time for my own future.
+Dialogue: 0,0:17:48.72,0:17:50.02,Dubtitles,,0,0,0,,Come on, everyone!
 Dialogue: 11,0:17:48.96,0:17:50.97,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Come on, everyone!
 Dialogue: 0,0:17:50.56,0:17:53.08,Dubtitles,,0,0,0,,So many dreams to me come true.
 Dialogue: 11,0:17:50.97,0:17:53.76,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}So many dreams! To make come true!
@@ -381,96 +376,95 @@ Dialogue: 0,0:17:53.16,0:17:55.94,Dubtitles,,0,0,0,,I'm gonna strive hard to pur
 Dialogue: 11,0:17:53.76,0:17:57.18,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}I gotta strive to pursue
 Dialogue: 0,0:17:56.02,0:17:59.44,Dubtitles,,0,0,0,,So right now, you never\Nknow who I will be?
 Dialogue: 11,0:17:57.18,0:18:00.52,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Right now, you never know who I'll get to be
-Dialogue: 0,0:17:59.52,0:18:02.24,Dubtitles,,0,0,0,,Till the day comes and\NI'm who I want to be!
+Dialogue: 0,0:17:59.52,0:18:02.20,Dubtitles,,0,0,0,,Till the day comes and\NI'm who I want to be!
 Dialogue: 11,0:18:00.52,0:18:02.39,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Until the day comes I'm who I want to be
-Dialogue: 0,0:18:02.32,0:18:04.64,Dubtitles,,0,0,0,,Even when it's sucky, life's so tolerable.
+Dialogue: 0,0:18:02.28,0:18:04.62,Dubtitles,,0,0,0,,Even when it's like your\Nlife's still tolerable.
 Dialogue: 11,0:18:02.39,0:18:04.98,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Even if everything just plain sucks, it's tolerable
+Dialogue: 0,0:18:04.70,0:18:07.82,Dubtitles,,0,0,0,,Tolerable, got it, got it,\Non it, I'm so real powerful!
 Dialogue: 11,0:18:04.98,0:18:08.23,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Topped it, got it, on it, I'm still powerful
-Dialogue: 0,0:18:07.44,0:18:08.34,Dubtitles,,0,0,0,,Powerful!
+Dialogue: 0,0:18:07.90,0:18:10.52,Dubtitles,,0,0,0,,Powerful, are you ready to go?
 Dialogue: 11,0:18:08.23,0:18:10.69,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Are you all ready to go?
-Dialogue: 0,0:18:08.48,0:18:10.44,Dubtitles,,0,0,0,,Are you ready to go?
 Dialogue: 11,0:18:10.69,0:18:14.11,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Just watch me as I sparkle, see my world taking over
-Dialogue: 0,0:18:10.70,0:18:14.08,Dubtitles,,0,0,0,,See me as I sparkle My\Nworld shining bright!
-Dialogue: 0,0:18:16.12,0:18:17.71,Dubtitles,,0,0,0,,So exciting, what a thrill!
+Dialogue: 0,0:18:10.72,0:18:14.06,Dubtitles,,0,0,0,,See me as I sparkle, my\Nworld shining bright.
+Dialogue: 0,0:18:16.18,0:18:17.62,Dubtitles,,0,0,0,,So exciting, what a thrill!
 Dialogue: 11,0:18:16.41,0:18:18.99,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}So exciting, what a thrill! Everyday busy, oh my god!
-Dialogue: 0,0:18:17.84,0:18:19.18,Dubtitles,,0,0,0,,Everyday busy, oh my god!
+Dialogue: 0,0:18:17.70,0:18:19.02,Dubtitles,,0,0,0,,Everyday busy, oh my god!
 Dialogue: 11,0:18:18.99,0:18:22.00,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}So much sparkle, heart a-glow! Inside I always feel seventeen
-Dialogue: 0,0:18:19.26,0:18:20.40,Dubtitles,,0,0,0,,So much sparkle, heart aglow!
-Dialogue: 0,0:18:20.48,0:18:21.74,Dubtitles,,0,0,0,,In time I feel 17!
+Dialogue: 0,0:18:19.10,0:18:20.32,Dubtitles,,0,0,0,,So much sparkle, heart aglow.
+Dialogue: 0,0:18:20.40,0:18:21.64,Dubtitles,,0,0,0,,In time, I feel 17.
+Dialogue: 0,0:18:21.72,0:18:23.16,Dubtitles,,0,0,0,,So exciting, what a thrill!
 Dialogue: 11,0:18:22.00,0:18:24.75,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}So exciting, what a thrill! Sorry for the trouble, it's part of the fun!
-Dialogue: 0,0:18:22.06,0:18:23.26,Dubtitles,,0,0,0,,So exciting, what a thrill!
-Dialogue: 0,0:18:23.34,0:18:24.70,Dubtitles,,0,0,0,,So I feel trouble, all in fun!
+Dialogue: 0,0:18:23.24,0:18:24.58,Dubtitles,,0,0,0,,So I feel the trouble, all in fun.
+Dialogue: 0,0:18:24.66,0:18:25.86,Dubtitles,,0,0,0,,So much sparkle, heart aglow.
 Dialogue: 11,0:18:24.75,0:18:27.54,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}So much sparkle, heart a-glow! A pretty heart adores it all!
-Dialogue: 0,0:18:24.78,0:18:25.92,Dubtitles,,0,0,0,,So much sparkle, heart aglow!
-Dialogue: 0,0:18:26.00,0:18:27.66,Dubtitles,,0,0,0,,Adore it all with a pretty heart!
-Dialogue: 0,0:18:27.74,0:18:29.16,Dubtitles,,0,0,0,,Love me too!
+Dialogue: 0,0:18:25.94,0:18:27.44,Dubtitles,,0,0,0,,Adore it all with a pretty heart.
+Dialogue: 0,0:18:27.52,0:18:29.28,Dubtitles,,0,0,0,,Love means do
 Dialogue: 11,0:18:27.84,0:18:30.05,Insert Lyrics - English,,0,0,0,,{\blur6\fad(100,100)}Love me do
-Dialogue: 0,0:18:30.62,0:18:31.45,Dubtitles,,0,0,0,,Yeah!
-Dialogue: 0,0:18:54.38,0:18:56.08,Dubtitles,,0,0,0,,Why, Mistress Snog?
-Dialogue: 0,0:19:00.20,0:19:02.34,Dubtitles,,0,0,0,,Their applause means nothing.
-Dialogue: 0,0:19:03.76,0:19:05.58,Dubtitles,,0,0,0,,So many things have happened.
-Dialogue: 0,0:19:05.66,0:19:07.90,Dubtitles,,0,0,0,,since I've arrived here in Akiba.
-Dialogue: 0,0:19:09.16,0:19:11.58,Dubtitles,,0,0,0,,I've seen maids who were terrifying die.
-Dialogue: 0,0:19:11.88,0:19:14.94,Dubtitles,,0,0,0,,And I've seen maids who\Nwere dear to me die as well.
-Dialogue: 0,0:19:15.80,0:19:19.68,Dubtitles,,0,0,0,,Everyone on all sides killed so\Nmany to avenge the maids who died.
-Dialogue: 0,0:19:21.78,0:19:22.70,Dubtitles,,0,0,0,,But I...
-Dialogue: 0,0:19:22.78,0:19:25.07,Dubtitles,,0,0,0,,I don't find that to be any fun at all.
-Dialogue: 0,0:19:25.96,0:19:28.61,Dubtitles,,0,0,0,,Why should cute maids\Nhave to hit each other?
-Dialogue: 0,0:19:29.04,0:19:31.56,Dubtitles,,0,0,0,,How does using guns help spread more love?
-Dialogue: 0,0:19:31.74,0:19:34.06,Dubtitles,,0,0,0,,If you don't pull the\Ntrigger, then you get killed.
-Dialogue: 0,0:19:34.14,0:19:36.70,Dubtitles,,0,0,0,,A maid either takes or gets taken from.
-Dialogue: 0,0:19:36.96,0:19:39.50,Dubtitles,,0,0,0,,You need to be strong in\Norder to survive here.
-Dialogue: 0,0:19:39.58,0:19:41.88,Dubtitles,,0,0,0,,A maid's job is to serve others.
-Dialogue: 0,0:19:42.98,0:19:45.08,Dubtitles,,0,0,0,,Like a maid I respect once said,
-Dialogue: 0,0:19:46.86,0:19:50.50,Dubtitles,,0,0,0,,Oinky Doink Cafe is happy to\Nserve as a home to all masters.
-Dialogue: 0,0:19:54.52,0:19:56.96,Dubtitles,,0,0,0,,Hello, and welcome home, my mistress.
-Dialogue: 0,0:19:58.06,0:20:00.84,Dubtitles,,0,0,0,,So this is my home now? That's right.
-Dialogue: 0,0:20:01.40,0:20:03.34,Dubtitles,,0,0,0,,Starting today, this is your home.
-Dialogue: 0,0:20:03.42,0:20:04.48,Dubtitles,,0,0,0,,Welcome home.
-Dialogue: 0,0:20:09.32,0:20:11.24,Dubtitles,,0,0,0,,Cut the sentimental crap.
-Dialogue: 0,0:20:11.58,0:20:14.12,Dubtitles,,0,0,0,,In the end, Maid ultimately ends up alone.
-Dialogue: 0,0:20:14.52,0:20:19.46,Dubtitles,,0,0,0,,Mistress, if you ever feel lonely, please\Ntry coming home to Oinky Doink Cafe again.
-Dialogue: 0,0:20:19.74,0:20:22.68,Dubtitles,,0,0,0,,I promise you will make\Nyou feel the moi moi kyun.
-Dialogue: 0,0:20:28.80,0:20:31.50,Dubtitles,,0,0,0,,Your name's Nagomi, right? Yes.
-Dialogue: 0,0:20:32.40,0:20:36.81,Dubtitles,,0,0,0,,You're a shitty maid who doesn't even\Ncome close to being like Miss Michio.
-Dialogue: 0,0:20:37.84,0:20:40.68,Dubtitles,,0,0,0,,Instead, you're a maid\Nwho's exactly like Ronko.
-Dialogue: 0,0:20:41.22,0:20:43.98,Dubtitles,,0,0,0,,Oh, well, that's such an honor.
-Dialogue: 0,0:20:46.44,0:20:49.62,Dubtitles,,0,0,0,,So, Mistress, were you able\Nto enjoy Oinky Doink Cafe?
-Dialogue: 0,0:21:01.50,0:21:02.33,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:18:30.60,0:18:31.43,Dubtitles,,0,0,0,,Yeah!
+Dialogue: 0,0:18:54.68,0:18:56.26,Dubtitles,,0,0,0,,Why, Mistress Noggy?
+Dialogue: 0,0:18:59.96,0:19:02.36,Dubtitles,,0,0,0,,Their applause means nothing.
+Dialogue: 0,0:19:04.00,0:19:06.72,Dubtitles,,0,0,0,,So many things have happened since I've
+Dialogue: 0,0:19:06.80,0:19:10.48,Dubtitles,,0,0,0,,arrived here in Akiba.\NI've seen maids who were
+Dialogue: 0,0:19:10.56,0:19:13.38,Dubtitles,,0,0,0,,terrifying die and I've\Nseen maids who were dear
+Dialogue: 0,0:19:13.46,0:19:17.50,Dubtitles,,0,0,0,,to me die as well everyone\Non all sides killed
+Dialogue: 0,0:19:17.58,0:19:23.24,Dubtitles,,0,0,0,,so many to avenge the\Nmaids who died but I I
+Dialogue: 0,0:19:23.32,0:19:26.64,Dubtitles,,0,0,0,,don't find that to be\Nany fun at all why should
+Dialogue: 0,0:19:26.72,0:19:29.70,Dubtitles,,0,0,0,,cute maids have to hit\Neach other. How does
+Dialogue: 0,0:19:29.78,0:19:32.50,Dubtitles,,0,0,0,,using guns help spread\Nmore love if you don't
+Dialogue: 0,0:19:32.58,0:19:34.74,Dubtitles,,0,0,0,,pull the trigger then\Nyou get killed a maid
+Dialogue: 0,0:19:34.82,0:19:37.60,Dubtitles,,0,0,0,,either takes or gets\Ntaken from you need to be
+Dialogue: 0,0:19:37.68,0:19:40.60,Dubtitles,,0,0,0,,strong in order to\Nsurvive here a maid's job
+Dialogue: 0,0:19:40.68,0:19:44.64,Dubtitles,,0,0,0,,is to serve others like\Na maid I respect once
+Dialogue: 0,0:19:44.72,0:19:49.22,Dubtitles,,0,0,0,,said Oinky Doink Cafe\Nis cat pig to serve as
+Dialogue: 0,0:19:49.30,0:19:56.20,Dubtitles,,0,0,0,,a home to all masters.\NHello and welcome home
+Dialogue: 0,0:19:56.28,0:20:00.76,Dubtitles,,0,0,0,,my mistress so this is\Nmy home now that's right
+Dialogue: 0,0:20:00.84,0:20:04.60,Dubtitles,,0,0,0,,starting today this is\Nyour home welcome home
+Dialogue: 0,0:20:09.30,0:20:13.68,Dubtitles,,0,0,0,,cut the sentimental crap in the\Nend a maid ultimately ends up
+Dialogue: 0,0:20:13.76,0:20:17.86,Dubtitles,,0,0,0,,alone mistress if you ever feel\Nlonely please try coming home.
+Dialogue: 0,0:20:17.94,0:20:19.47,Dubtitles,,0,0,0,,to Oinky Doink Cafe again.
+Dialogue: 0,0:20:19.70,0:20:22.70,Dubtitles,,0,0,0,,I promise you we'll make\Nyou feel the moi moi kyun.
+Dialogue: 0,0:20:28.88,0:20:31.50,Dubtitles,,0,0,0,,Your name's Nagomi, right? Yes.
+Dialogue: 0,0:20:32.36,0:20:36.77,Dubtitles,,0,0,0,,You're a shitty maid who doesn't even\Ncome close to being like Miss Michio.
+Dialogue: 0,0:20:37.80,0:20:40.68,Dubtitles,,0,0,0,,Instead, you're a maid\Nwho's exactly like Ronko.
+Dialogue: 0,0:20:41.30,0:20:43.98,Dubtitles,,0,0,0,,Oh, well, that's such an honor.
+Dialogue: 0,0:20:46.54,0:20:49.72,Dubtitles,,0,0,0,,So, mistress, were you able\Nto enjoy Oinky Doink Cafe?
+Dialogue: 0,0:21:33.72,0:21:35.04,Dubtitles,,0,0,0,,I'm sorry.
 Dialogue: 1,0:21:34.69,0:21:39.69,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Another day, another chance to go moe moe kyun
 Dialogue: 2,0:21:34.69,0:21:39.69,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Another day, another chance to go moe moe kyun
 Dialogue: 1,0:21:34.69,0:21:39.69,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Kyou mo ashita mo moe moe kyun
 Dialogue: 2,0:21:34.69,0:21:39.69,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Kyou mo ashita mo moe moe kyun
+Dialogue: 0,0:21:35.12,0:21:38.96,Dubtitles,,0,0,0,,Today and tomorrow, I'm\Ngoing to play a game.
+Dialogue: 0,0:21:39.04,0:21:43.68,Dubtitles,,0,0,0,,There's a lot of food in\Nthe middle of the house.
 Dialogue: 1,0:21:40.86,0:21:45.95,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}I come to the pigsty for my moe moe kyun
 Dialogue: 2,0:21:40.86,0:21:45.95,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}I come to the pigsty for my moe moe kyun
 Dialogue: 1,0:21:40.86,0:21:45.95,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Butagoya atari de moe moe kyun
 Dialogue: 2,0:21:40.86,0:21:45.95,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Butagoya atari de moe moe kyun
+Dialogue: 0,0:21:43.76,0:21:49.98,Dubtitles,,0,0,0,,That's what I'm trying to do.
 Dialogue: 1,0:21:46.83,0:21:51.96,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}That's the sort of life I lead
 Dialogue: 2,0:21:46.83,0:21:51.96,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}That's the sort of life I lead
 Dialogue: 1,0:21:46.83,0:21:51.96,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Sorega atai no ikizama sa
 Dialogue: 2,0:21:46.83,0:21:51.96,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Sorega atai no ikizama sa
+Dialogue: 0,0:21:50.06,0:21:54.30,Dubtitles,,0,0,0,,That's what I'm trying to do.
 Dialogue: 1,0:21:53.17,0:22:01.76,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Mock me, and you just might bleed
 Dialogue: 2,0:21:53.17,0:22:01.76,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Mock me, and you just might bleed
 Dialogue: 1,0:21:53.17,0:22:01.76,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Baka ni suru yatsa chi o miruze
 Dialogue: 2,0:21:53.17,0:22:01.76,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Baka ni suru yatsa chi o miruze
-Dialogue: 0,0:22:01.50,0:22:05.18,Dubtitles,,0,0,0,,I can't wait for my heart
+Dialogue: 0,0:21:56.00,0:21:58.10,Dubtitles,,0,0,0,,I'm trying to see the blood.
 Dialogue: 1,0:22:01.76,0:22:07.89,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Is the hesitation that wells up
 Dialogue: 2,0:22:01.76,0:22:07.89,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Is the hesitation that wells up
 Dialogue: 1,0:22:01.76,0:22:07.89,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Mune o yogiru tamerai wa
 Dialogue: 2,0:22:01.76,0:22:07.89,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Mune o yogiru tamerai wa
-Dialogue: 0,0:22:05.26,0:22:09.22,Dubtitles,,0,0,0,,I can't wait for my heart
 Dialogue: 1,0:22:07.89,0:22:16.82,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}The lingering scent of a humane soul?
 Dialogue: 2,0:22:07.89,0:22:16.82,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}The lingering scent of a humane soul?
 Dialogue: 1,0:22:07.89,0:22:16.82,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Hito no kokoro no nokoriga ka
 Dialogue: 2,0:22:07.89,0:22:16.82,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Hito no kokoro no nokoriga ka
-Dialogue: 0,0:22:09.30,0:22:15.44,Dubtitles,,0,0,0,,I can't wait.
-Dialogue: 0,0:22:15.52,0:22:18.62,Dubtitles,,0,0,0,,for my life
+Dialogue: 0,0:22:13.38,0:22:14.70,Dubtitles,,0,0,0,,Thank
+Dialogue: 0,0:22:14.78,0:22:21.64,Dubtitles,,0,0,0,,you so
 Dialogue: 1,0:22:16.82,0:22:23.49,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Whether you get to live or die
 Dialogue: 2,0:22:16.82,0:22:23.49,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Whether you get to live or die
 Dialogue: 1,0:22:16.82,0:22:23.49,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Ikirutomo haterutomo
 Dialogue: 2,0:22:16.82,0:22:23.49,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Ikirutomo haterutomo
-Dialogue: 0,0:22:18.70,0:22:20.34,Dubtitles,,0,0,0,,I can't wait
-Dialogue: 0,0:22:20.42,0:22:25.82,Dubtitles,,0,0,0,,for my path
+Dialogue: 0,0:22:21.72,0:22:28.00,Dubtitles,,0,0,0,,much for watching.
 Dialogue: 1,0:22:23.49,0:22:29.08,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Tread your own path
 Dialogue: 2,0:22:23.49,0:22:29.08,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Tread your own path
 Dialogue: 1,0:22:23.49,0:22:29.08,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Onore no michi o tsuranuke
@@ -479,29 +473,28 @@ Dialogue: 1,0:22:29.08,0:22:35.92,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fa
 Dialogue: 2,0:22:29.08,0:22:35.92,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Have the guts to pull that trigger
 Dialogue: 1,0:22:29.08,0:22:35.92,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Hikigane o hiki yagare
 Dialogue: 2,0:22:29.08,0:22:35.92,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Hikigane o hiki yagare
-Dialogue: 0,0:22:29.26,0:22:32.62,Dubtitles,,0,0,0,,It's time for you to\Ntake care of yourself and
-Dialogue: 0,0:22:32.70,0:22:36.78,Dubtitles,,0,0,0,,take care of yourself and
+Dialogue: 0,0:22:35.76,0:22:38.46,Dubtitles,,0,0,0,,You are who you are?
 Dialogue: 1,0:22:35.92,0:22:41.80,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Who are you
 Dialogue: 2,0:22:35.92,0:22:41.80,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Who are you
 Dialogue: 1,0:22:35.92,0:22:41.80,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Omae ga dare nanoka
 Dialogue: 2,0:22:35.92,0:22:41.80,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Omae ga dare nanoka
-Dialogue: 0,0:22:36.86,0:22:43.74,Dubtitles,,0,0,0,,take care
 Dialogue: 1,0:22:41.80,0:22:48.72,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Show me through the pain
 Dialogue: 2,0:22:41.80,0:22:48.72,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Show me through the pain
 Dialogue: 1,0:22:41.80,0:22:48.72,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Itami de oshietokure
 Dialogue: 2,0:22:41.80,0:22:48.72,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Itami de oshietokure
-Dialogue: 0,0:22:43.82,0:22:48.50,Dubtitles,,0,0,0,,of yourself.
+Dialogue: 0,0:22:41.90,0:22:43.84,Dubtitles,,0,0,0,,Please tell me to tell you.
 Dialogue: 1,0:22:53.81,0:22:56.02,Caption,,0,0,0,,{\pos(875.33,688.67)\fnSwis721 BT\fs41}AKIHABARA
-Dialogue: 0,0:23:03.06,0:23:04.47,Dubtitles,,0,0,0,,You probably don't know,
-Dialogue: 0,0:23:04.76,0:23:09.06,Dubtitles,,0,0,0,,but Akiba used to be a really rough\Nneighborhood, with gunfights and all that.
-Dialogue: 0,0:23:09.14,0:23:10.26,Dubtitles,,0,0,0,,Gunfights in the Akiba?
-Dialogue: 0,0:23:10.34,0:23:11.26,Dubtitles,,0,0,0,,Are you serious?
+Dialogue: 0,0:23:03.04,0:23:04.45,Dubtitles,,0,0,0,,You probably don't know,
+Dialogue: 0,0:23:04.66,0:23:09.04,Dubtitles,,0,0,0,,but Akiba used to be a really rough\Nneighborhood, with gunfights and all that.
+Dialogue: 0,0:23:09.12,0:23:10.22,Dubtitles,,0,0,0,,Gunfights in the Akiba?
+Dialogue: 0,0:23:10.30,0:23:11.24,Dubtitles,,0,0,0,,Are you serious?
 Dialogue: 0,0:23:11.34,0:23:13.68,Dubtitles,,0,0,0,,Doesn't seem possible, does it? Uh, no.
 Dialogue: 1,0:23:14.58,0:23:17.92,Caption,,0,0,0,,{\pos(632,636)\fnPapyrus\fs60}New Oinky Doink Café
-Dialogue: 0,0:23:17.74,0:23:20.00,Dubtitles,,0,0,0,,So, why this cafe in particular?
-Dialogue: 0,0:23:20.26,0:23:22.50,Dubtitles,,0,0,0,,So as to see our favorite maid, of course.
+Dialogue: 0,0:23:17.72,0:23:20.00,Dubtitles,,0,0,0,,So, why this cafe in particular?
+Dialogue: 0,0:23:20.28,0:23:22.50,Dubtitles,,0,0,0,,So as to see our favorite maid, of course.
 Dialogue: 0,0:23:22.58,0:23:23.52,Dubtitles,,0,0,0,,A favorite, huh?
-Dialogue: 0,0:23:23.64,0:23:24.66,Dubtitles,,0,0,0,,What kind of maid is she?
-Dialogue: 0,0:23:24.74,0:23:28.76,Dubtitles,,0,0,0,,A 36-year-old maid. What?\NShe's 36? Here she comes.
-Dialogue: 0,0:23:35.12,0:23:37.56,Dubtitles,,0,0,0,,Hello, and welcome home, cute master.
+Dialogue: 0,0:23:23.62,0:23:24.84,Dubtitles,,0,0,0,,What kind of maid is she?
+Dialogue: 0,0:23:24.92,0:23:27.56,Dubtitles,,0,0,0,,A 36-year-old maid. What? She's 36?
+Dialogue: 0,0:23:27.64,0:23:28.74,Dubtitles,,0,0,0,,Here she comes.
+Dialogue: 0,0:23:35.12,0:23:37.56,Dubtitles,,0,0,0,,Hello and welcome home, cute master.
 
