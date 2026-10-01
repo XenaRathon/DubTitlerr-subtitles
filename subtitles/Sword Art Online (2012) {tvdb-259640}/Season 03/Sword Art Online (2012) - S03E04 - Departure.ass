@@ -3578,6 +3578,7 @@ Dialogue: 1,0:00:22.98,0:00:24.72,ADAMAS,,0,0,0,fx,{\pos(1273,90)\1c&HFFFFFF&\3c
 Dialogue: 1,0:00:22.98,0:00:24.72,ADAMAS,,0,0,0,fx,{\pos(1302,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(652,702,0.5,\fsc80\blur2\3c&ffffff&)\t(702,1052,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
 Dialogue: 1,0:00:23.33,0:00:24.72,ADAMAS,,0,0,0,fx,{\pos(1354,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(354,404,0.5,\fsc80\blur2\3c&ffffff&)\t(404,754,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:00:23.33,0:00:24.72,ADAMAS,,0,0,0,fx,{\pos(1382,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(382,432,0.5,\fsc80\blur2\3c&ffffff&)\t(432,782,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
+Dialogue: 0,0:00:23.71,0:00:25.71,Dubtitles,,0,0,0,,woah uh woah woah woah
 Dialogue: 1,0:00:25.25,0:00:25.75,ADAMAS,,0,0,0,fx,{\pos(501,90)\an5\alpha&ff&\t(0,160,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(160,240,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(240,480,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(480,720,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}shi
 Dialogue: 1,0:00:25.25,0:00:26.02,ADAMAS,,0,0,0,fx,{\pos(583,90)\an5\alpha&ff&\t(80,240,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(240,320,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(320,560,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(560,800,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}men
 Dialogue: 1,0:00:25.25,0:00:26.25,ADAMAS,,0,0,0,fx,{\pos(683,90)\an5\alpha&ff&\t(160,320,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(320,400,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(400,640,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(640,880,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}so
@@ -3592,7 +3593,6 @@ Dialogue: 1,0:00:25.25,0:00:27.59,ADAMAS,,0,0,0,fx,{\pos(1255,90)\an5\alpha&ff&\
 Dialogue: 1,0:00:25.25,0:00:27.70,ADAMAS,,0,0,0,fx,{\pos(1315,90)\an5\alpha&ff&\t(880,1040,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1040,1120,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1120,1360,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1360,1600,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ya
 Dialogue: 1,0:00:25.25,0:00:27.89,ADAMAS,,0,0,0,fx,{\pos(1372,90)\an5\alpha&ff&\t(960,1120,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1120,1200,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1200,1440,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1440,1680,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}bu
 Dialogue: 1,0:00:25.25,0:00:28.07,ADAMAS,,0,0,0,fx,{\pos(1426,90)\an5\alpha&ff&\t(1040,1200,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1200,1280,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1280,1520,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1520,1760,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}re
-Dialogue: 0,0:00:25.48,0:00:26.31,Dubtitles,,0,0,0,,Oh oh wow wow wow!
 Dialogue: 1,0:00:25.55,0:00:28.09,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Even in desperation, \Nwe'll find a way to breakthrough!
 Dialogue: 4,0:00:25.75,0:00:26.02,ADAMAS,,0,0,0,fx,{\an5\move(501,80,501,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(20.25,27,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}shi
 Dialogue: 4,0:00:26.02,0:00:26.25,ADAMAS,,0,0,0,fx,{\an5\move(583,100,583,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(17.25,23,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}men
@@ -3603,7 +3603,6 @@ Dialogue: 4,0:00:26.25,0:00:26.44,ADAMAS,,0,0,0,fx,{\an5\move(683,80,683,90)\bor
 Dialogue: 1,0:00:26.25,0:00:29.74,ADAMAS,,0,0,0,fx,{\pos(555,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1595,1645,0.5,\fsc80\blur2\3c&ffffff&)\t(1645,1995,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}m
 Dialogue: 1,0:00:26.25,0:00:29.74,ADAMAS,,0,0,0,fx,{\pos(589,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1629,1679,0.5,\fsc80\blur2\3c&ffffff&)\t(1679,2029,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
 Dialogue: 1,0:00:26.25,0:00:29.74,ADAMAS,,0,0,0,fx,{\pos(617,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1657,1707,0.5,\fsc80\blur2\3c&ffffff&)\t(1707,2057,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}n
-Dialogue: 0,0:00:26.40,0:00:29.21,Dubtitles,,0,0,0,,Arbeiten with its feet. Obsessive.
 Dialogue: 4,0:00:26.44,0:00:26.65,ADAMAS,,0,0,0,fx,{\an5\move(740,100,740,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(15.75,21,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ka
 Dialogue: 1,0:00:26.44,0:00:29.74,ADAMAS,,0,0,0,fx,{\pos(669,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1519,1569,0.5,\fsc80\blur2\3c&ffffff&)\t(1569,1919,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:00:26.44,0:00:29.74,ADAMAS,,0,0,0,fx,{\pos(697,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1547,1597,0.5,\fsc80\blur2\3c&ffffff&)\t(1597,1947,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
@@ -3669,7 +3668,6 @@ Dialogue: 1,0:00:29.02,0:00:32.22,ADAMAS,,0,0,0,fx,{\pos(691,90)\1c&HFFFFFF&\3c&
 Dialogue: 4,0:00:29.19,0:00:29.32,ADAMAS,,0,0,0,fx,{\an5\move(788,80,788,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(9.75,13,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}re
 Dialogue: 1,0:00:29.19,0:00:32.22,ADAMAS,,0,0,0,fx,{\pos(719,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1389,1439,0.5,\fsc80\blur2\3c&ffffff&)\t(1439,1789,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}z
 Dialogue: 1,0:00:29.19,0:00:32.22,ADAMAS,,0,0,0,fx,{\pos(748,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1418,1468,0.5,\fsc80\blur2\3c&ffffff&)\t(1468,1818,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
-Dialogue: 0,0:00:29.29,0:00:36.29,Dubtitles,,0,0,0,,and.
 Dialogue: 4,0:00:29.32,0:00:29.44,ADAMAS,,0,0,0,fx,{\an5\move(866,100,866,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(9,12,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ka
 Dialogue: 1,0:00:29.32,0:00:32.22,ADAMAS,,0,0,0,fx,{\pos(774,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1314,1364,0.5,\fsc80\blur2\3c&ffffff&)\t(1364,1714,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}r
 Dialogue: 1,0:00:29.32,0:00:32.22,ADAMAS,,0,0,0,fx,{\pos(800,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1340,1390,0.5,\fsc80\blur2\3c&ffffff&)\t(1390,1740,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
@@ -3970,6 +3968,7 @@ Dialogue: 1,0:00:52.98,0:00:56.24,ADAMAS,,0,0,0,fx,{\pos(1447,90)\1c&HFFFFFF&\3c
 Dialogue: 1,0:00:52.98,0:00:56.24,ADAMAS,,0,0,0,fx,{\pos(1475,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(2165,2215,0.5,\fsc80\blur2\3c&ffffff&)\t(2215,2565,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
 Dialogue: 1,0:00:54.48,0:00:56.24,ADAMAS,,0,0,0,fx,{\pos(1527,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(717,767,0.5,\fsc80\blur2\3c&ffffff&)\t(767,1117,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:00:54.48,0:00:56.24,ADAMAS,,0,0,0,fx,{\pos(1556,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(746,796,0.5,\fsc80\blur2\3c&ffffff&)\t(796,1146,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
+Dialogue: 0,0:00:54.89,0:00:57.41,Dubtitles,,0,0,0,,SHINING SOMER DIA
 Dialogue: 1,0:00:54.94,0:00:55.61,ADAMAS - Chor,,0,0,0,fx,{\pos(687,90)\an5\alpha&ff&\t(80,240,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(240,320,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(320,560,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(560,800,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Shi
 Dialogue: 1,0:00:54.94,0:00:56.15,ADAMAS - Chor,,0,0,0,fx,{\pos(751,90)\an5\alpha&ff&\t(160,320,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(320,400,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(400,640,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(640,880,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ny
 Dialogue: 1,0:00:54.94,0:00:56.41,ADAMAS - Chor,,0,0,0,fx,{\pos(840,90)\an5\alpha&ff&\t(240,400,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(400,480,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(480,720,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(720,960,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Sw
@@ -3978,7 +3977,6 @@ Dialogue: 1,0:00:54.94,0:00:56.78,ADAMAS - Chor,,0,0,0,fx,{\pos(1014,90)\an5\alp
 Dialogue: 1,0:00:54.94,0:00:57.09,ADAMAS - Chor,,0,0,0,fx,{\pos(1108,90)\an5\alpha&ff&\t(480,640,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(640,720,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(720,960,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(960,1200,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Dia
 Dialogue: 1,0:00:54.94,0:00:57.62,ADAMAS - Chor,,0,0,0,fx,{\pos(1206,90)\an5\alpha&ff&\t(560,720,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(720,800,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(800,1040,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1040,1280,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}mond
 Dialogue: 1,0:00:55.24,0:00:57.79,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Shiny Sword my Diamond
-Dialogue: 0,0:00:55.57,0:00:57.59,Dubtitles,,0,0,0,,Shine is on my diamond.
 Dialogue: 14,0:00:55.61,0:00:56.15,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(747,440)\move(687,90,687,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}Shi
 Dialogue: 14,0:00:55.61,0:00:56.15,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(747,440)\move(687,90,687,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}Shi
 Dialogue: 14,0:00:56.15,0:00:56.41,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(811,440)\move(751,90,751,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ny
@@ -4495,255 +4493,262 @@ Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(617,375,1308,378)\pos(959
 Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(617,378,1308,381)\pos(959.2,292.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8938EE&}Departure
 Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(617,381,1308,384)\pos(959.2,292.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8734EE&}Departure
 Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(617,384,1308,387)\pos(959.2,292.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8531EE&}Departure
-Dialogue: 0,0:01:37.39,0:01:38.55,Dubtitles,,0,0,0,,Come on!
-Dialogue: 0,0:01:43.93,0:01:46.37,Dubtitles,,0,0,0,,Yuchio, calm down.
-Dialogue: 0,0:01:51.51,0:01:52.75,Dubtitles,,0,0,0,,When I count three,
-Dialogue: 0,0:01:53.01,0:01:56.91,Dubtitles,,0,0,0,,we'll charge past the four guys\Ncoming and knock out their fires.
-Dialogue: 0,0:01:57.93,0:01:58.76,Dubtitles,,0,0,0,,Okay.
-Dialogue: 0,0:01:59.51,0:02:01.45,Dubtitles,,0,0,0,,You can use that thing for light.
-Dialogue: 0,0:02:04.81,0:02:07.75,Dubtitles,,0,0,0,,When the fires go out,\Nfind a sword and grab it.
-Dialogue: 0,0:02:08.33,0:02:09.74,Dubtitles,,0,0,0,,Leave the big guy to me.
-Dialogue: 0,0:02:10.11,0:02:13.59,Dubtitles,,0,0,0,,He won't go down easy, so\Nkeep the others off my back.
-Dialogue: 0,0:02:14.59,0:02:15.45,Dubtitles,,0,0,0,,But I...
-Dialogue: 0,0:02:15.53,0:02:17.89,Dubtitles,,0,0,0,,I never fought with a sword before.
-Dialogue: 0,0:02:17.97,0:02:20.09,Dubtitles,,0,0,0,,or swing it like your axe. Come on.
-Dialogue: 0,0:02:20.87,0:02:24.05,Dubtitles,,0,0,0,,One, two, three.
-Dialogue: 0,0:02:40.45,0:02:41.28,Dubtitles,,0,0,0,,Yuzhou!
-Dialogue: 0,0:02:42.19,0:02:44.31,Dubtitles,,0,0,0,,Don't think, just start swinging.
-Dialogue: 0,0:02:46.39,0:02:48.19,Dubtitles,,0,0,0,,He makes it sound so easy.
-Dialogue: 0,0:02:57.09,0:02:58.07,Dubtitles,,0,0,0,,It's the light.
-Dialogue: 0,0:02:58.81,0:03:00.46,Dubtitles,,0,0,0,,They're afraid of the light.
-Dialogue: 0,0:03:09.35,0:03:12.39,Dubtitles,,0,0,0,,I am the great Ugachi, the lizard killer.
-Dialogue: 0,0:03:12.47,0:03:14.45,Dubtitles,,0,0,0,,You dare challenge me!
-Dialogue: 0,0:03:16.49,0:03:18.81,Dubtitles,,0,0,0,,I'm not just gonna challenge you.
-Dialogue: 0,0:03:19.51,0:03:20.93,Dubtitles,,0,0,0,,I'll kill you!
-Dialogue: 0,0:03:55.61,0:03:57.23,Dubtitles,,0,0,0,,Sword skills.
+Dialogue: 0,0:01:37.11,0:01:38.53,Dubtitles,,0,0,0,,Come on!
+Dialogue: 0,0:01:44.19,0:01:46.41,Dubtitles,,0,0,0,,Eugeo, calm down.
+Dialogue: 0,0:01:51.55,0:01:55.02,Dubtitles,,0,0,0,,When I count three, we'll charge\Npast the four guys coming,
+Dialogue: 0,0:01:55.21,0:01:56.91,Dubtitles,,0,0,0,,and knock out their fires.
+Dialogue: 0,0:01:57.97,0:01:58.80,Dubtitles,,0,0,0,,Okay.
+Dialogue: 0,0:01:59.55,0:02:01.49,Dubtitles,,0,0,0,,You can use that thing for light.
+Dialogue: 0,0:02:04.85,0:02:07.75,Dubtitles,,0,0,0,,When the fires go out,\Nfind a sword and grab it.
+Dialogue: 0,0:02:08.31,0:02:09.72,Dubtitles,,0,0,0,,Leave the big guy to me.
+Dialogue: 0,0:02:10.15,0:02:13.59,Dubtitles,,0,0,0,,He won't go down easy, so\Nkeep the others off my back.
+Dialogue: 0,0:02:14.37,0:02:15.43,Dubtitles,,0,0,0,,But I...
+Dialogue: 0,0:02:15.51,0:02:17.99,Dubtitles,,0,0,0,,I never fought with a sword before.
+Dialogue: 0,0:02:18.33,0:02:19.55,Dubtitles,,0,0,0,,Swing it like your axe.
+Dialogue: 0,0:02:19.63,0:02:20.46,Dubtitles,,0,0,0,,Come on.
+Dialogue: 0,0:02:21.59,0:02:24.05,Dubtitles,,0,0,0,,One, two, three!
+Dialogue: 0,0:02:27.19,0:02:28.05,Dubtitles,,0,0,0,,Yu-Gi-Oh!
+Dialogue: 0,0:02:40.47,0:02:41.30,Dubtitles,,0,0,0,,Eugeo!
+Dialogue: 0,0:02:42.17,0:02:43.05,Dubtitles,,0,0,0,,Don't think!
+Dialogue: 0,0:02:43.27,0:02:44.45,Dubtitles,,0,0,0,,Just start swinging!
+Dialogue: 0,0:02:46.31,0:02:48.19,Dubtitles,,0,0,0,,He makes it sound so easy.
+Dialogue: 0,0:02:56.77,0:03:00.17,Dubtitles,,0,0,0,,It's the light they're\Nafraid of. The light.
+Dialogue: 0,0:03:00.25,0:03:01.73,Dubtitles,,0,0,0,,I
+Dialogue: 0,0:03:01.81,0:03:08.81,Dubtitles,,0,0,0,,am
+Dialogue: 0,0:03:10.19,0:03:11.02,Dubtitles,,0,0,0,,the great
+Dialogue: 0,0:03:11.10,0:03:11.99,Dubtitles,,0,0,0,,Ugachi the lizard
+Dialogue: 0,0:03:12.07,0:03:14.53,Dubtitles,,0,0,0,,killer you dare challenge me?
+Dialogue: 0,0:03:16.67,0:03:20.95,Dubtitles,,0,0,0,,I'm not just gonna challenge\Nyou, I'll kill you!
+Dialogue: 0,0:03:55.61,0:03:57.19,Dubtitles,,0,0,0,,Sword skill.
 Dialogue: 0,0:03:58.37,0:04:00.07,Dubtitles,,0,0,0,,Sharp nail!
-Dialogue: 0,0:04:19.93,0:04:20.93,Dubtitles,,0,0,0,,Kirito!
-Dialogue: 0,0:04:22.01,0:04:22.84,Dubtitles,,0,0,0,,God...
-Dialogue: 0,0:04:24.01,0:04:24.84,Dubtitles,,0,0,0,,VR...
-Dialogue: 0,0:04:25.01,0:04:26.33,Dubtitles,,0,0,0,,never hurt...
-Dialogue: 0,0:04:26.41,0:04:27.63,Dubtitles,,0,0,0,,like this!
-Dialogue: 0,0:04:28.27,0:04:30.67,Dubtitles,,0,0,0,,You rotten little idiot, you brat!
-Dialogue: 0,0:04:30.97,0:04:33.15,Dubtitles,,0,0,0,,Take my arm, save me!
-Dialogue: 0,0:04:40.13,0:04:43.09,Dubtitles,,0,0,0,,You pay in blood.
-Dialogue: 0,0:04:49.43,0:04:51.41,Dubtitles,,0,0,0,,I rip you in half.
-Dialogue: 0,0:04:51.79,0:04:52.89,Dubtitles,,0,0,0,,Eat your guts.
-Dialogue: 0,0:04:53.35,0:04:55.23,Dubtitles,,0,0,0,,Cheats you less than in shame.
-Dialogue: 0,0:05:15.73,0:05:16.73,Dubtitles,,0,0,0,,I'm scared.
-Dialogue: 0,0:05:19.67,0:05:20.50,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:05:20.58,0:05:21.99,Dubtitles,,0,0,0,,I can't just stand here.
-Dialogue: 0,0:05:22.87,0:05:25.69,Dubtitles,,0,0,0,,I can't make the same\Nmistake I made with Alice.
-Dialogue: 0,0:05:41.77,0:05:42.60,Dubtitles,,0,0,0,,Die.
-Dialogue: 0,0:05:43.77,0:05:44.60,Dubtitles,,0,0,0,,Die.
-Dialogue: 0,0:05:48.85,0:05:50.23,Dubtitles,,0,0,0,,It's time.
-Dialogue: 0,0:05:52.75,0:05:54.33,Dubtitles,,0,0,0,,I'll fight!
-Dialogue: 0,0:05:56.81,0:05:59.01,Dubtitles,,0,0,0,,And protect my friends!
-Dialogue: 0,0:06:00.79,0:06:02.49,Dubtitles,,0,0,0,,Run, Eugeo!
-Dialogue: 0,0:06:14.83,0:06:15.66,Dubtitles,,0,0,0,,Yujio!
-Dialogue: 0,0:06:21.31,0:06:22.14,Dubtitles,,0,0,0,,Yujio!
-Dialogue: 0,0:06:31.19,0:06:32.95,Dubtitles,,0,0,0,,Hang on, Yujio! Please!
-Dialogue: 0,0:06:35.55,0:06:37.27,Dubtitles,,0,0,0,,But we made a promise.
-Dialogue: 0,0:06:37.89,0:06:39.35,Dubtitles,,0,0,0,,You, me, and Alice.
-Dialogue: 0,0:06:39.87,0:06:43.39,Dubtitles,,0,0,0,,We promised we'd protect each other.
-Dialogue: 0,0:06:44.49,0:06:46.37,Dubtitles,,0,0,0,,I couldn't six years ago.
-Dialogue: 0,0:06:47.65,0:06:50.01,Dubtitles,,0,0,0,,But now, finally,
-Dialogue: 0,0:06:52.23,0:06:54.81,Dubtitles,,0,0,0,,I got to...
-Dialogue: 0,0:07:05.95,0:07:07.31,Dubtitles,,0,0,0,,That's right.
-Dialogue: 0,0:07:07.39,0:07:09.17,Dubtitles,,0,0,0,,I couldn't either.
-Dialogue: 0,0:07:13.35,0:07:14.89,Dubtitles,,0,0,0,,Your turn now.
-Dialogue: 0,0:07:24.13,0:07:26.39,Dubtitles,,0,0,0,,Now you die!
-Dialogue: 0,0:07:26.95,0:07:29.49,Dubtitles,,0,0,0,,I'm presenting who you are!
-Dialogue: 0,0:07:35.31,0:07:37.27,Dubtitles,,0,0,0,,My name's Kirito.
-Dialogue: 0,0:07:37.99,0:07:39.57,Dubtitles,,0,0,0,,Kirito the swordsman!
-Dialogue: 0,0:07:39.89,0:07:42.05,Dubtitles,,0,0,0,,Either way, you die!
-Dialogue: 0,0:07:43.17,0:07:45.85,Dubtitles,,0,0,0,,Maybe he's a Fluctlight,\Nlike everyone else.
-Dialogue: 0,0:07:48.33,0:07:49.21,Dubtitles,,0,0,0,,Still!
-Dialogue: 0,0:07:50.85,0:07:54.01,Dubtitles,,0,0,0,,If I don't kill him, he'll kill us!
-Dialogue: 0,0:07:54.81,0:07:56.11,Dubtitles,,0,0,0,,Sword skill!
-Dialogue: 0,0:07:57.27,0:07:59.25,Dubtitles,,0,0,0,,Sonic! Leave!
+Dialogue: 0,0:04:19.87,0:04:20.93,Dubtitles,,0,0,0,,Kirito!
+Dialogue: 0,0:04:22.43,0:04:23.41,Dubtitles,,0,0,0,,God!
+Dialogue: 0,0:04:23.49,0:04:27.73,Dubtitles,,0,0,0,,VR never hurt like this!
+Dialogue: 0,0:04:28.17,0:04:30.69,Dubtitles,,0,0,0,,You rotten little idiot, you brat!
+Dialogue: 0,0:04:30.95,0:04:33.17,Dubtitles,,0,0,0,,Take my arm, save me!
+Dialogue: 0,0:04:39.83,0:04:43.13,Dubtitles,,0,0,0,,You pay in blood!
+Dialogue: 0,0:04:49.57,0:04:51.41,Dubtitles,,0,0,0,,I'll rip you in half.
+Dialogue: 0,0:04:51.83,0:04:52.89,Dubtitles,,0,0,0,,Eat your guts.
+Dialogue: 0,0:04:53.29,0:04:55.17,Dubtitles,,0,0,0,,Cheats you less than insane.
+Dialogue: 0,0:05:15.63,0:05:16.73,Dubtitles,,0,0,0,,I'm scared.
+Dialogue: 0,0:05:19.23,0:05:20.06,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:05:20.23,0:05:22.01,Dubtitles,,0,0,0,,I can't just stand here.
+Dialogue: 0,0:05:22.77,0:05:25.59,Dubtitles,,0,0,0,,I can't make the same\Nmistake I made with Alice.
+Dialogue: 0,0:05:42.11,0:05:42.94,Dubtitles,,0,0,0,,Die!
+Dialogue: 0,0:05:43.02,0:05:43.85,Dubtitles,,0,0,0,,I...
+Dialogue: 0,0:05:43.94,0:05:45.05,Dubtitles,,0,0,0,,DETAIL!
+Dialogue: 0,0:05:49.81,0:05:50.64,Dubtitles,,0,0,0,,It's time!
+Dialogue: 0,0:05:53.81,0:05:54.64,Dubtitles,,0,0,0,,I'll fight!
+Dialogue: 0,0:05:57.81,0:05:59.16,Dubtitles,,0,0,0,,And protect my friends!
+Dialogue: 0,0:06:01.81,0:06:02.64,Dubtitles,,0,0,0,,Run, Eugeo!
+Dialogue: 0,0:06:14.21,0:06:29.33,Dubtitles,,0,0,0,,Yu-Gi-Oh!
+Dialogue: 0,0:06:30.95,0:06:32.95,Dubtitles,,0,0,0,,Hang on, Yu-Gi-Oh! Please!
+Dialogue: 0,0:06:35.73,0:06:37.29,Dubtitles,,0,0,0,,We made a promise.
+Dialogue: 0,0:06:37.65,0:06:39.33,Dubtitles,,0,0,0,,You, me, and Alice.
+Dialogue: 0,0:06:40.25,0:06:43.39,Dubtitles,,0,0,0,,Yes, we promised we'd protect each other.
+Dialogue: 0,0:06:45.41,0:06:49.05,Dubtitles,,0,0,0,,I couldn't six years ago, but now,
+Dialogue: 0,0:06:49.39,0:06:53.89,Dubtitles,,0,0,0,,finally, I got to.
+Dialogue: 0,0:07:06.63,0:07:07.65,Dubtitles,,0,0,0,,That's right.
+Dialogue: 0,0:07:07.73,0:07:09.15,Dubtitles,,0,0,0,,I couldn't either.
+Dialogue: 0,0:07:12.53,0:07:14.89,Dubtitles,,0,0,0,,Your turn now.
+Dialogue: 0,0:07:24.11,0:07:26.35,Dubtitles,,0,0,0,,Now you die!
+Dialogue: 0,0:07:26.91,0:07:29.49,Dubtitles,,0,0,0,,I'm presenting who you are!
+Dialogue: 0,0:07:35.05,0:07:37.25,Dubtitles,,0,0,0,,My name's Kirito.
+Dialogue: 0,0:07:38.25,0:07:39.71,Dubtitles,,0,0,0,,I'm Kirito the Swordsman!
+Dialogue: 0,0:07:39.79,0:07:42.07,Dubtitles,,0,0,0,,Either way, you die!
+Dialogue: 0,0:07:43.15,0:07:45.85,Dubtitles,,0,0,0,,Maybe he's a Flux Blight,\Nlike everyone else.
+Dialogue: 0,0:07:48.41,0:07:49.24,Dubtitles,,0,0,0,,Still!
+Dialogue: 0,0:07:50.91,0:07:53.99,Dubtitles,,0,0,0,,If I don't kill him, he'll kill us!
+Dialogue: 0,0:07:54.91,0:07:56.09,Dubtitles,,0,0,0,,Sword skill!
+Dialogue: 0,0:07:57.39,0:07:59.27,Dubtitles,,0,0,0,,Sonic! Leave!
 Dialogue: 0,0:08:14.91,0:08:15.74,Dubtitles,,0,0,0,,Fight's over.
 Dialogue: 0,0:08:15.83,0:08:16.89,Dubtitles,,0,0,0,,Your boss is dead.
-Dialogue: 0,0:08:17.25,0:08:19.78,Dubtitles,,0,0,0,,You want to die the\Nsame way, then step up.
+Dialogue: 0,0:08:17.29,0:08:19.82,Dubtitles,,0,0,0,,You want to die the\Nsame way, then step up.
 Dialogue: 0,0:08:19.91,0:08:23.89,Dubtitles,,0,0,0,,But if you want to live, then\Ngo back to the Dark Territory!
-Dialogue: 0,0:08:37.95,0:08:38.85,Dubtitles,,0,0,0,,Hang in there.
-Dialogue: 0,0:08:45.49,0:08:47.23,Dubtitles,,0,0,0,,Selka, come on, wake up!
+Dialogue: 0,0:08:37.97,0:08:38.85,Dubtitles,,0,0,0,,Hang in there.
+Dialogue: 0,0:08:45.49,0:08:46.32,Dubtitles,,0,0,0,,Selka!
+Dialogue: 0,0:08:46.40,0:08:47.23,Dubtitles,,0,0,0,,Come on, wake up!
 Dialogue: 0,0:08:51.23,0:08:53.11,Dubtitles,,0,0,0,,Kirito, what are you doing here?
-Dialogue: 0,0:08:53.27,0:08:54.89,Dubtitles,,0,0,0,,We came to take you back home.
-Dialogue: 0,0:08:54.97,0:08:56.95,Dubtitles,,0,0,0,,Can you walk okay? In a bit.
-Dialogue: 0,0:08:57.15,0:08:58.63,Dubtitles,,0,0,0,,My legs are numb and...
+Dialogue: 0,0:08:53.27,0:08:54.93,Dubtitles,,0,0,0,,We came to take you back home.
+Dialogue: 0,0:08:55.01,0:08:56.99,Dubtitles,,0,0,0,,Can you walk okay? In a bit.
+Dialogue: 0,0:08:57.21,0:08:58.61,Dubtitles,,0,0,0,,My legs are numb and...
 Dialogue: 0,0:09:00.77,0:09:02.15,Dubtitles,,0,0,0,,Hey, put me down!
-Dialogue: 0,0:09:02.35,0:09:05.25,Dubtitles,,0,0,0,,Yu-Gi-Oh needs you. He's\Nhurt bad. He's dying.
-Dialogue: 0,0:09:10.27,0:09:12.41,Dubtitles,,0,0,0,,My secret art skills aren't enough.
+Dialogue: 0,0:09:02.47,0:09:03.53,Dubtitles,,0,0,0,,Yuji-Oh needs you.
+Dialogue: 0,0:09:03.63,0:09:05.25,Dubtitles,,0,0,0,,He's hurt bad. He's dying!
+Dialogue: 0,0:09:10.31,0:09:12.39,Dubtitles,,0,0,0,,My secret art skills aren't enough.
 Dialogue: 0,0:09:13.05,0:09:14.93,Dubtitles,,0,0,0,,The wound is much too deep.
-Dialogue: 0,0:09:15.35,0:09:16.93,Dubtitles,,0,0,0,,But you can at least try.
-Dialogue: 0,0:09:17.29,0:09:18.55,Dubtitles,,0,0,0,,You're Alice's sister.
+Dialogue: 0,0:09:15.35,0:09:16.91,Dubtitles,,0,0,0,,But you can at least try.
+Dialogue: 0,0:09:17.35,0:09:18.55,Dubtitles,,0,0,0,,You're Alice's sister.
 Dialogue: 0,0:09:18.63,0:09:19.57,Dubtitles,,0,0,0,,You can do this.
 Dialogue: 0,0:09:20.83,0:09:23.09,Dubtitles,,0,0,0,,All I can heal are simple scratches.
 Dialogue: 0,0:09:23.59,0:09:26.94,Dubtitles,,0,0,0,,If Alice were here, she could\Nhelp him more than I could.
-Dialogue: 0,0:09:27.39,0:09:31.39,Dubtitles,,0,0,0,,Look, Yu-Gi-Oh's hurt because he\Ncame to save you, Selka, not Alice.
-Dialogue: 0,0:09:31.77,0:09:33.24,Dubtitles,,0,0,0,,He's here because of you!
-Dialogue: 0,0:09:37.21,0:09:39.74,Dubtitles,,0,0,0,,The usual healing arts\Nwould take too long.
-Dialogue: 0,0:09:40.05,0:09:43.11,Dubtitles,,0,0,0,,I'll have to try a dangerous\Nhigh-level one instead.
-Dialogue: 0,0:09:43.87,0:09:46.95,Dubtitles,,0,0,0,,Kirito, I'm going to need\Nyour help to make this work.
+Dialogue: 0,0:09:27.43,0:09:31.37,Dubtitles,,0,0,0,,Look, you Geo's hurt because he\Ncame to save you, Selka, not Alice.
+Dialogue: 0,0:09:31.69,0:09:33.16,Dubtitles,,0,0,0,,He's here because of you.
+Dialogue: 0,0:09:37.25,0:09:39.78,Dubtitles,,0,0,0,,The usual healing arts\Nwould take too long.
+Dialogue: 0,0:09:40.01,0:09:43.07,Dubtitles,,0,0,0,,I'll have to try a dangerous\Nhigh-level one instead.
+Dialogue: 0,0:09:43.63,0:09:46.81,Dubtitles,,0,0,0,,Kirito, I'm going to need\Nyour help to make this work.
 Dialogue: 0,0:09:47.03,0:09:49.29,Dubtitles,,0,0,0,,Okay, you got it. What do I do?
-Dialogue: 0,0:09:49.67,0:09:51.02,Dubtitles,,0,0,0,,Give me your left hand.
-Dialogue: 0,0:09:55.17,0:09:56.82,Dubtitles,,0,0,0,,I've never done this before.
-Dialogue: 0,0:09:57.01,0:09:59.51,Dubtitles,,0,0,0,,And if I fail, there's a\Nchance both of us will die.
-Dialogue: 0,0:09:59.59,0:10:01.30,Dubtitles,,0,0,0,,I just want you to know that.
-Dialogue: 0,0:10:01.65,0:10:04.41,Dubtitles,,0,0,0,,If that happens, make\Nsure it only kills me.
-Dialogue: 0,0:10:04.95,0:10:06.13,Dubtitles,,0,0,0,,Let's do this.
-Dialogue: 0,0:10:06.81,0:10:07.64,Dubtitles,,0,0,0,,Mm-hmm.
-Dialogue: 0,0:10:08.69,0:10:09.81,Dubtitles,,0,0,0,,System call.
-Dialogue: 0,0:10:11.09,0:10:13.45,Dubtitles,,0,0,0,,Transfer human unit durability.
+Dialogue: 0,0:09:49.71,0:09:51.06,Dubtitles,,0,0,0,,Give me your left hand.
+Dialogue: 0,0:09:55.13,0:09:56.78,Dubtitles,,0,0,0,,I've never done this before.
+Dialogue: 0,0:09:56.97,0:09:59.73,Dubtitles,,0,0,0,,And if I fail, there's a\Nchance both of us will die.
+Dialogue: 0,0:09:59.81,0:10:01.52,Dubtitles,,0,0,0,,I just want you to know that.
+Dialogue: 0,0:10:01.91,0:10:04.50,Dubtitles,,0,0,0,,If that happens, make\Nsure it only kills me.
+Dialogue: 0,0:10:05.15,0:10:06.13,Dubtitles,,0,0,0,,Let's do this.
+Dialogue: 0,0:10:06.85,0:10:07.68,Dubtitles,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:10:08.93,0:10:09.81,Dubtitles,,0,0,0,,System call.
+Dialogue: 0,0:10:10.93,0:10:13.45,Dubtitles,,0,0,0,,Transfer human unit durability.
 Dialogue: 0,0:10:14.21,0:10:15.91,Dubtitles,,0,0,0,,Right hand to left.
-Dialogue: 0,0:10:22.91,0:10:26.43,Dubtitles,,0,0,0,,She's transferring her\Nlife and mine to him.
-Dialogue: 0,0:10:30.03,0:10:33.09,Dubtitles,,0,0,0,,Kirito, can you keep going?
-Dialogue: 0,0:10:34.99,0:10:35.93,Dubtitles,,0,0,0,,I'm okay.
-Dialogue: 0,0:10:36.01,0:10:36.93,Dubtitles,,0,0,0,,Don't stop.
-Dialogue: 0,0:10:37.01,0:10:38.21,Dubtitles,,0,0,0,,Give him more.
-Dialogue: 0,0:10:46.33,0:10:49.45,Dubtitles,,0,0,0,,Kirito, Eugeo, come and find me.
-Dialogue: 0,0:10:49.69,0:10:55.21,Dubtitles,,0,0,0,,I am waiting at the top\Nof the Central Cathedral.
-Dialogue: 0,0:10:58.69,0:11:01.47,Dubtitles,,0,0,0,,I will wait there for you both.
-Dialogue: 0,0:11:02.13,0:11:03.55,Dubtitles,,0,0,0,,Who was that?
-Dialogue: 0,0:11:07.25,0:11:08.08,Dubtitles,,0,0,0,,Kirito!
-Dialogue: 0,0:11:15.13,0:11:15.96,Dubtitles,,0,0,0,,Fifty!
-Dialogue: 0,0:11:21.29,0:11:23.17,Dubtitles,,0,0,0,,How's your wound doing? Better?
-Dialogue: 0,0:11:23.59,0:11:24.45,Dubtitles,,0,0,0,,Much better.
-Dialogue: 0,0:11:25.21,0:11:28.09,Dubtitles,,0,0,0,,All I needed was a day's\Nrest, and it's almost...
-Dialogue: 0,0:11:30.23,0:11:32.89,Dubtitles,,0,0,0,,I've been wanting to ask you\Nabout something you said.
-Dialogue: 0,0:11:32.97,0:11:35.68,Dubtitles,,0,0,0,,Back in the cave, right\Nbefore you passed out?
-Dialogue: 0,0:11:36.93,0:11:38.59,Dubtitles,,0,0,0,,I don't know if you remember,
-Dialogue: 0,0:11:38.67,0:11:42.47,Dubtitles,,0,0,0,,but it sounded like you thought you,\NAlice, and me were friends before.
-Dialogue: 0,0:11:42.55,0:11:43.57,Dubtitles,,0,0,0,,Yes, I remember.
-Dialogue: 0,0:11:43.87,0:11:47.33,Dubtitles,,0,0,0,,But we only just met, so I don't\Nknow where all that came from.
+Dialogue: 0,0:10:22.73,0:10:26.45,Dubtitles,,0,0,0,,She's transferring her\Nlife and mine to him.
+Dialogue: 0,0:10:29.77,0:10:33.09,Dubtitles,,0,0,0,,Kirito, can you keep going?
+Dialogue: 0,0:10:33.47,0:10:34.65,Dubtitles,,0,0,0,,I'm okay.
+Dialogue: 0,0:10:36.23,0:10:37.06,Dubtitles,,0,0,0,,Hey, don't stop.
+Dialogue: 0,0:10:37.14,0:10:38.21,Dubtitles,,0,0,0,,Give him more.
+Dialogue: 0,0:10:46.41,0:10:49.45,Dubtitles,,0,0,0,,Kirito, Eugeo, come and find me.
+Dialogue: 0,0:10:49.71,0:10:50.65,Dubtitles,,0,0,0,,I am waiting.
+Dialogue: 0,0:10:52.67,0:10:55.21,Dubtitles,,0,0,0,,At the top of the central cathedral.
+Dialogue: 0,0:10:58.77,0:11:01.43,Dubtitles,,0,0,0,,I will wait there for you both.
+Dialogue: 0,0:11:02.25,0:11:03.55,Dubtitles,,0,0,0,,Who was that?
+Dialogue: 0,0:11:07.43,0:11:08.26,Dubtitles,,0,0,0,,Kirito!
+Dialogue: 0,0:11:15.33,0:11:16.16,Dubtitles,,0,0,0,,Fifty!
+Dialogue: 0,0:11:21.49,0:11:22.75,Dubtitles,,0,0,0,,How's your wound doing?
+Dialogue: 0,0:11:22.83,0:11:24.45,Dubtitles,,0,0,0,,Better? Much better.
+Dialogue: 0,0:11:24.85,0:11:28.03,Dubtitles,,0,0,0,,All I needed was a day's\Nrest, and it's almost...
+Dialogue: 0,0:11:30.15,0:11:33.11,Dubtitles,,0,0,0,,I've been wanting to ask you\Nabout something you said.
+Dialogue: 0,0:11:33.19,0:11:35.90,Dubtitles,,0,0,0,,Back in the cave, right\Nbefore you passed out?
+Dialogue: 0,0:11:36.93,0:11:38.39,Dubtitles,,0,0,0,,I don't know if you remember,
+Dialogue: 0,0:11:38.47,0:11:42.55,Dubtitles,,0,0,0,,but it sounded like you thought you,\NAlice, and me were friends before.
+Dialogue: 0,0:11:42.63,0:11:43.57,Dubtitles,,0,0,0,,Yes, I remember.
+Dialogue: 0,0:11:43.71,0:11:47.33,Dubtitles,,0,0,0,,But we only just met, so I don't\Nknow where all that came from.
 Dialogue: 0,0:11:47.41,0:11:50.82,Dubtitles,,0,0,0,,It's like, at that moment, I\Ncould see it as clear as day.
 Dialogue: 0,0:11:51.15,0:11:52.65,Dubtitles,,0,0,0,,You, Alice, and me.
-Dialogue: 0,0:11:53.41,0:11:56.65,Dubtitles,,0,0,0,,We were born on the same day\Nand grew up together here.
-Dialogue: 0,0:11:57.25,0:12:00.25,Dubtitles,,0,0,0,,We were even together the\Nday Alice was taken away.
-Dialogue: 0,0:12:01.57,0:12:02.40,Dubtitles,,0,0,0,,That's weird.
-Dialogue: 0,0:12:02.95,0:12:07.72,Dubtitles,,0,0,0,,By the way, when Selka was healing you,\Nyou didn't happen to hear, like, a voice,
-Dialogue: 0,0:12:07.89,0:12:08.72,Dubtitles,,0,0,0,,did you?
-Dialogue: 0,0:12:08.80,0:12:11.93,Dubtitles,,0,0,0,,No, I was totally unconscious,\Nso I didn't hear a thing.
-Dialogue: 0,0:12:12.01,0:12:13.54,Dubtitles,,0,0,0,,Why, did you hear a voice?
-Dialogue: 0,0:12:14.53,0:12:16.19,Dubtitles,,0,0,0,,I guess I dreamed it.
-Dialogue: 0,0:12:16.61,0:12:17.53,Dubtitles,,0,0,0,,Forget I asked.
-Dialogue: 0,0:12:18.05,0:12:20.03,Dubtitles,,0,0,0,,Oh well, time to get to work.
-Dialogue: 0,0:12:20.85,0:12:22.55,Dubtitles,,0,0,0,,Right. Here you go.
-Dialogue: 0,0:12:24.75,0:12:26.37,Dubtitles,,0,0,0,,I'm going to use this.
-Dialogue: 0,0:12:32.47,0:12:34.19,Dubtitles,,0,0,0,,Wait, you can...
-Dialogue: 0,0:12:34.27,0:12:36.41,Dubtitles,,0,0,0,,you can wield the sword?
-Dialogue: 0,0:12:37.93,0:12:39.73,Dubtitles,,0,0,0,,You might want to stand back.
-Dialogue: 0,0:12:46.91,0:12:50.41,Dubtitles,,0,0,0,,Because of that fight\Nwith the goblins, now my
-Dialogue: 0,0:12:50.49,0:12:53.37,Dubtitles,,0,0,0,,object control authorities\Nhigher than the swords
-Dialogue: 0,0:12:54.89,0:12:55.89,Dubtitles,,0,0,0,,Here goes!
-Dialogue: 0,0:13:08.13,0:13:08.96,Dubtitles,,0,0,0,,Nice!
-Dialogue: 0,0:13:13.57,0:13:15.93,Dubtitles,,0,0,0,,I bet you can swing it just as easy.
-Dialogue: 0,0:13:29.83,0:13:31.75,Dubtitles,,0,0,0,,Kirito, will you...
+Dialogue: 0,0:11:53.45,0:11:56.69,Dubtitles,,0,0,0,,We were born on the same day\Nand grew up together here.
+Dialogue: 0,0:11:57.29,0:12:00.29,Dubtitles,,0,0,0,,We were even together the\Nday Alice was taken away.
+Dialogue: 0,0:12:01.61,0:12:02.44,Dubtitles,,0,0,0,,That's weird.
+Dialogue: 0,0:12:03.01,0:12:06.55,Dubtitles,,0,0,0,,By the way, when Selka was healing\Nyou, you didn't happen to hear,
+Dialogue: 0,0:12:06.63,0:12:08.29,Dubtitles,,0,0,0,,like, a voice, did you?
+Dialogue: 0,0:12:08.75,0:12:12.37,Dubtitles,,0,0,0,,No, I was totally unconscious,\Nso I didn't hear a thing. Why?
+Dialogue: 0,0:12:12.55,0:12:13.79,Dubtitles,,0,0,0,,Did you hear a voice?
+Dialogue: 0,0:12:14.59,0:12:16.17,Dubtitles,,0,0,0,,I guess I dreamed it.
+Dialogue: 0,0:12:16.63,0:12:17.53,Dubtitles,,0,0,0,,Forget I asked.
+Dialogue: 0,0:12:18.05,0:12:18.88,Dubtitles,,0,0,0,,Oh, well.
+Dialogue: 0,0:12:18.96,0:12:20.13,Dubtitles,,0,0,0,,Time to get to work.
+Dialogue: 0,0:12:21.37,0:12:22.55,Dubtitles,,0,0,0,,Right. Here you go.
+Dialogue: 0,0:12:24.99,0:12:26.37,Dubtitles,,0,0,0,,I'm gonna use this.
+Dialogue: 0,0:12:32.71,0:12:36.41,Dubtitles,,0,0,0,,Wait, you can, you can wield the sword?
+Dialogue: 0,0:12:38.05,0:12:39.76,Dubtitles,,0,0,0,,You might want to stand back.
+Dialogue: 0,0:12:47.17,0:12:49.79,Dubtitles,,0,0,0,,Because of that fight\Nwith the goblins, now,
+Dialogue: 0,0:12:50.05,0:12:53.23,Dubtitles,,0,0,0,,my object control authority\Nis higher than the swords.
+Dialogue: 0,0:12:54.89,0:12:55.83,Dubtitles,,0,0,0,,Here goes.
+Dialogue: 0,0:12:56.93,0:12:57.76,Dubtitles,,0,0,0,,AHHHHHHHHH!
+Dialogue: 0,0:13:08.15,0:13:08.98,Dubtitles,,0,0,0,,Nice!
+Dialogue: 0,0:13:13.59,0:13:15.93,Dubtitles,,0,0,0,,I bet you can swing it just as easy.
+Dialogue: 0,0:13:29.83,0:13:31.79,Dubtitles,,0,0,0,,Kirito, will you...
 Dialogue: 0,0:13:35.67,0:13:37.77,Dubtitles,,0,0,0,,Will you teach me to use a sword?
 Dialogue: 0,0:13:39.07,0:13:41.63,Dubtitles,,0,0,0,,If so, I can go get Alice back.
 Dialogue: 0,0:13:42.95,0:13:43.78,Dubtitles,,0,0,0,,Yujiro.
-Dialogue: 0,0:13:44.33,0:13:46.97,Dubtitles,,0,0,0,,Alice and her family\Nhave suffered so much.
+Dialogue: 0,0:13:44.31,0:13:46.97,Dubtitles,,0,0,0,,Alice and her family\Nhave suffered so much.
 Dialogue: 0,0:13:47.39,0:13:48.89,Dubtitles,,0,0,0,,All because of me.
-Dialogue: 0,0:13:59.47,0:14:01.15,Dubtitles,,0,0,0,,I couldn't save her.
-Dialogue: 0,0:14:01.71,0:14:03.99,Dubtitles,,0,0,0,,I don't know why, but I couldn't.
-Dialogue: 0,0:14:04.15,0:14:07.56,Dubtitles,,0,0,0,,And for the past six years, I\Nnever stopped regretting it.
-Dialogue: 0,0:14:11.49,0:14:13.69,Dubtitles,,0,0,0,,I want to become strong.
-Dialogue: 0,0:14:14.07,0:14:16.37,Dubtitles,,0,0,0,,So I can fight.
-Dialogue: 0,0:14:16.79,0:14:19.32,Dubtitles,,0,0,0,,So I can keep from\Nmaking the same mistake.
+Dialogue: 0,0:13:59.53,0:14:01.15,Dubtitles,,0,0,0,,I couldn't save her.
+Dialogue: 0,0:14:01.75,0:14:03.99,Dubtitles,,0,0,0,,I don't know why, but I couldn't.
+Dialogue: 0,0:14:04.17,0:14:07.58,Dubtitles,,0,0,0,,And for the past six years, I\Nnever stopped regretting it.
+Dialogue: 0,0:14:11.57,0:14:13.69,Dubtitles,,0,0,0,,I want to become strong.
+Dialogue: 0,0:14:14.11,0:14:16.37,Dubtitles,,0,0,0,,So I can fight.
+Dialogue: 0,0:14:16.83,0:14:19.36,Dubtitles,,0,0,0,,So I can keep from\Nmaking the same mistake.
 Dialogue: 0,0:14:22.07,0:14:24.95,Dubtitles,,0,0,0,,So I can get back what I lost years ago.
-Dialogue: 0,0:14:25.91,0:14:26.79,Dubtitles,,0,0,0,,That's why.
+Dialogue: 0,0:14:25.91,0:14:26.77,Dubtitles,,0,0,0,,That's why.
 Dialogue: 0,0:14:27.75,0:14:30.10,Dubtitles,,0,0,0,,That's why I want to become a swordsman.
-Dialogue: 0,0:14:31.89,0:14:33.79,Dubtitles,,0,0,0,,Alright then, you're on!
-Dialogue: 0,0:14:34.37,0:14:36.33,Dubtitles,,0,0,0,,I'll teach you everything I know.
-Dialogue: 0,0:14:39.15,0:14:41.33,Dubtitles,,0,0,0,,The training's gonna be tough though.
-Dialogue: 0,0:14:43.79,0:14:45.14,Dubtitles,,0,0,0,,That's what I'm hoping?
-Dialogue: 0,0:14:49.47,0:14:53.35,Dubtitles,,0,0,0,,Before we start, do you remember\Nwhat your sword style is called?
-Dialogue: 0,0:14:58.23,0:14:59.59,Dubtitles,,0,0,0,,Yeah, I remember.
-Dialogue: 0,0:15:01.79,0:15:03.55,Dubtitles,,0,0,0,,It's the Aincrad style.
-Dialogue: 0,0:15:25.03,0:15:27.23,Dubtitles,,0,0,0,,All right, Eugeo, finish it.
-Dialogue: 0,0:16:12.23,0:16:14.13,Dubtitles,,0,0,0,,This is like a dream.
-Dialogue: 0,0:16:14.37,0:16:16.49,Dubtitles,,0,0,0,,I never thought this day would come.
-Dialogue: 0,0:16:17.75,0:16:23.05,Dubtitles,,0,0,0,,I didn't believe in\Ndestiny before, but now...
-Dialogue: 0,0:16:24.19,0:16:27.17,Dubtitles,,0,0,0,,Kirito, my calling wasn't my destiny.
-Dialogue: 0,0:16:27.61,0:16:31.43,Dubtitles,,0,0,0,,For the past six years, I've\Nbeen waiting for you to come.
-Dialogue: 0,0:16:33.79,0:16:35.59,Dubtitles,,0,0,0,,Yeah, maybe you were.
-Dialogue: 0,0:16:37.23,0:16:41.99,Dubtitles,,0,0,0,,But then again, maybe I woke up\Nhere just so I could meet you.
-Dialogue: 0,0:16:56.97,0:16:58.33,Dubtitles,,0,0,0,,Why are you here alone?
-Dialogue: 0,0:17:00.55,0:17:03.90,Dubtitles,,0,0,0,,Oh, Eugio's with your dad\Nsomewhere, talking about stuff.
-Dialogue: 0,0:17:04.19,0:17:05.43,Dubtitles,,0,0,0,,Oh, I see.
-Dialogue: 0,0:17:05.81,0:17:08.09,Dubtitles,,0,0,0,,I'm sure he's getting\Na lot of well-deserved
+Dialogue: 0,0:14:31.79,0:14:33.79,Dubtitles,,0,0,0,,All right, then. You're on.
+Dialogue: 0,0:14:34.37,0:14:36.31,Dubtitles,,0,0,0,,I'll teach you everything I know.
+Dialogue: 0,0:14:39.15,0:14:41.56,Dubtitles,,0,0,0,,The training's going to be tough, though.
+Dialogue: 0,0:14:43.79,0:14:45.14,Dubtitles,,0,0,0,,That's what I'm hoping.
+Dialogue: 0,0:14:49.55,0:14:53.37,Dubtitles,,0,0,0,,Before we start, do you remember\Nwhat your sword style is called?
+Dialogue: 0,0:14:58.01,0:14:59.59,Dubtitles,,0,0,0,,Yeah, I remember.
+Dialogue: 0,0:15:01.55,0:15:03.57,Dubtitles,,0,0,0,,It's the Aincrad style.
+Dialogue: 0,0:15:25.05,0:15:27.21,Dubtitles,,0,0,0,,All right, Eugeo. Finish it.
+Dialogue: 0,0:15:53.69,0:15:54.63,Dubtitles,,0,0,0,,Hey, look!
+Dialogue: 0,0:16:12.31,0:16:14.11,Dubtitles,,0,0,0,,This is like a dream.
+Dialogue: 0,0:16:14.43,0:16:16.55,Dubtitles,,0,0,0,,I never thought this day would come.
+Dialogue: 0,0:16:17.81,0:16:22.49,Dubtitles,,0,0,0,,I didn't believe in\Ndestiny before, but now...
+Dialogue: 0,0:16:24.63,0:16:27.11,Dubtitles,,0,0,0,,Kirito, my calling wasn't my destiny.
+Dialogue: 0,0:16:27.19,0:16:31.43,Dubtitles,,0,0,0,,For the past six years, I've\Nbeen waiting for you to come!
+Dialogue: 0,0:16:34.03,0:16:35.59,Dubtitles,,0,0,0,,Yeah, maybe you were.
+Dialogue: 0,0:16:37.25,0:16:42.01,Dubtitles,,0,0,0,,But then again, maybe I woke up\Nhere just so I could meet you?
+Dialogue: 0,0:16:56.95,0:16:58.33,Dubtitles,,0,0,0,,Why are you here alone?
+Dialogue: 0,0:17:00.51,0:17:03.86,Dubtitles,,0,0,0,,Oh, Eugio's with your dad\Nsomewhere, talking about stuff.
+Dialogue: 0,0:17:04.25,0:17:05.43,Dubtitles,,0,0,0,,Oh, I see.
+Dialogue: 0,0:17:05.79,0:17:08.09,Dubtitles,,0,0,0,,I'm sure he's getting\Na lot of well-deserved
 Dialogue: 0,0:17:08.17,0:17:10.52,Dubtitles,,0,0,0,,praise for chopping down the demon tree.
-Dialogue: 0,0:17:11.91,0:17:14.21,Dubtitles,,0,0,0,,After all the effort he\Nput in, he deserves it.
-Dialogue: 0,0:17:14.29,0:17:19.31,Dubtitles,,0,0,0,,I decided to study harder so I can be as\Ngood at the sacred arts as my sister was.
-Dialogue: 0,0:17:20.69,0:17:22.85,Dubtitles,,0,0,0,,Not so I can be like her, mind you.
-Dialogue: 0,0:17:25.49,0:17:28.37,Dubtitles,,0,0,0,,I wasn't trying to copy\Nher by going to the cave.
-Dialogue: 0,0:17:28.55,0:17:31.14,Dubtitles,,0,0,0,,I would never cross\Ninto the dark territory.
+Dialogue: 0,0:17:11.87,0:17:14.45,Dubtitles,,0,0,0,,After all the effort he\Nput in, he deserves it.
+Dialogue: 0,0:17:14.53,0:17:19.35,Dubtitles,,0,0,0,,I decided to study harder so I can be as\Ngood at the sacred arts as my sister was.
+Dialogue: 0,0:17:20.67,0:17:22.85,Dubtitles,,0,0,0,,Not so I can be like her, mind you.
+Dialogue: 0,0:17:25.47,0:17:28.11,Dubtitles,,0,0,0,,I wasn't trying to copy\Nher by going to the cave.
+Dialogue: 0,0:17:28.19,0:17:30.81,Dubtitles,,0,0,0,,I would never cross\Ninto the dark territory.
 Dialogue: 0,0:17:31.27,0:17:36.19,Dubtitles,,0,0,0,,But I thought by taking the same path\Nshe did, I'd get closer to her, somehow.
-Dialogue: 0,0:17:38.49,0:17:41.01,Dubtitles,,0,0,0,,I wanted to go in as far as I could.
-Dialogue: 0,0:17:41.91,0:17:42.81,Dubtitles,,0,0,0,,In a way,
-Dialogue: 0,0:17:43.13,0:17:45.51,Dubtitles,,0,0,0,,I guess the whole point\Nof going there was to
+Dialogue: 0,0:17:38.49,0:17:41.03,Dubtitles,,0,0,0,,I wanted to go in as far as I could.
+Dialogue: 0,0:17:42.03,0:17:42.86,Dubtitles,,0,0,0,,In a way,
+Dialogue: 0,0:17:43.07,0:17:45.51,Dubtitles,,0,0,0,,I guess the whole point\Nof going there was to
 Dialogue: 0,0:17:45.59,0:17:48.24,Dubtitles,,0,0,0,,prove to myself I could\Nnever take her place.
-Dialogue: 0,0:17:48.77,0:17:51.05,Dubtitles,,0,0,0,,No, but you're still amazing.
-Dialogue: 0,0:17:51.59,0:17:52.42,Dubtitles,,0,0,0,,Me?
-Dialogue: 0,0:17:52.75,0:17:56.69,Dubtitles,,0,0,0,,What other girl here could walk\Ninto that dark cave all by herself?
-Dialogue: 0,0:17:57.01,0:17:59.69,Dubtitles,,0,0,0,,I mean, that's something\Nonly you could do.
+Dialogue: 0,0:17:48.73,0:17:51.05,Dubtitles,,0,0,0,,No, but you're still amazing.
+Dialogue: 0,0:17:51.85,0:17:52.68,Dubtitles,,0,0,0,,Me?
+Dialogue: 0,0:17:52.76,0:17:56.69,Dubtitles,,0,0,0,,What other girl here could walk\Ninto that dark cave all by herself?
+Dialogue: 0,0:17:56.99,0:17:59.69,Dubtitles,,0,0,0,,I mean, that's something\Nonly you could do.
 Dialogue: 0,0:18:00.17,0:18:01.59,Dubtitles,,0,0,0,,Only I could do?
 Dialogue: 0,0:18:02.05,0:18:03.52,Dubtitles,,0,0,0,,What do you mean by that?
 Dialogue: 0,0:18:04.13,0:18:06.41,Dubtitles,,0,0,0,,You're you, not Alice's replacement.
-Dialogue: 0,0:18:06.71,0:18:09.27,Dubtitles,,0,0,0,,And you got skills no one else here has.
-Dialogue: 0,0:18:10.19,0:18:12.72,Dubtitles,,0,0,0,,With a little practice,\Nyou'll master them.
-Dialogue: 0,0:18:14.89,0:18:17.05,Dubtitles,,0,0,0,,May I have your attention, please?
-Dialogue: 0,0:18:17.83,0:18:22.11,Dubtitles,,0,0,0,,The greatest wish of Rulet's\Nfounders has been fulfilled.
-Dialogue: 0,0:18:22.53,0:18:24.97,Dubtitles,,0,0,0,,The demon tree has been felled at last.
-Dialogue: 0,0:18:26.73,0:18:31.35,Dubtitles,,0,0,0,,So let us all give thanks\Nto Eugeo, son of Oryx.
-Dialogue: 0,0:18:33.07,0:18:34.43,Dubtitles,,0,0,0,,According to the law,
-Dialogue: 0,0:18:34.75,0:18:36.69,Dubtitles,,0,0,0,,when one finishes their calling,
-Dialogue: 0,0:18:36.77,0:18:40.57,Dubtitles,,0,0,0,,They have earned the right to choose\Nwhat their next calling will be.
-Dialogue: 0,0:18:40.65,0:18:42.05,Dubtitles,,0,0,0,,Go ahead, Eugeo.
-Dialogue: 0,0:18:42.45,0:18:43.73,Dubtitles,,0,0,0,,Make your choice.
-Dialogue: 0,0:19:04.15,0:19:04.98,Dubtitles,,0,0,0,,I…
-Dialogue: 0,0:19:07.83,0:19:09.93,Dubtitles,,0,0,0,,I will become a swordsman!
-Dialogue: 0,0:19:13.27,0:19:17.45,Dubtitles,,0,0,0,,I shall train hard and journey to Senator.
-Dialogue: 0,0:19:19.07,0:19:22.49,Dubtitles,,0,0,0,,You, Gio, what could you possibly...
-Dialogue: 0,0:19:26.63,0:19:29.15,Dubtitles,,0,0,0,,No, I won't question you.
-Dialogue: 0,0:19:30.31,0:19:33.66,Dubtitles,,0,0,0,,It is your church-given right\Nto choose your next column.
-Dialogue: 0,0:19:34.81,0:19:40.81,Dubtitles,,0,0,0,,As Rulet's elder, I approve Eugeo's\Nnew calling, as swordsman! Yeah!
-Dialogue: 0,0:19:52.55,0:19:53.38,Dubtitles,,0,0,0,,Selka.
-Dialogue: 0,0:19:55.95,0:19:56.78,Dubtitles,,0,0,0,,Eugeo.
-Dialogue: 0,0:19:57.31,0:20:00.51,Dubtitles,,0,0,0,,Before I go, I wanted\Nto tell you something.
-Dialogue: 0,0:20:01.13,0:20:01.96,Dubtitles,,0,0,0,,Oh?
-Dialogue: 0,0:20:02.04,0:20:02.87,Dubtitles,,0,0,0,,What is it?
-Dialogue: 0,0:20:03.45,0:20:08.29,Dubtitles,,0,0,0,,My goal is to go to Senator\Nand bring Alice back here.
+Dialogue: 0,0:18:06.81,0:18:09.27,Dubtitles,,0,0,0,,And you got skills no one else here has.
+Dialogue: 0,0:18:09.83,0:18:12.36,Dubtitles,,0,0,0,,With a little practice,\Nyou'll master them.
+Dialogue: 0,0:18:14.99,0:18:17.07,Dubtitles,,0,0,0,,May I have your attention, please?
+Dialogue: 0,0:18:17.89,0:18:22.13,Dubtitles,,0,0,0,,The greatest wish of Rulet's\Nfounders has been fulfilled.
+Dialogue: 0,0:18:22.63,0:18:24.97,Dubtitles,,0,0,0,,The demon tree has been felled at last.
+Dialogue: 0,0:18:26.75,0:18:31.35,Dubtitles,,0,0,0,,So let us all give thanks\Nto Eugeo, son of Oryx.
+Dialogue: 0,0:18:33.13,0:18:34.43,Dubtitles,,0,0,0,,According to the law,
+Dialogue: 0,0:18:34.89,0:18:36.77,Dubtitles,,0,0,0,,when one finishes their calling,
+Dialogue: 0,0:18:37.03,0:18:40.59,Dubtitles,,0,0,0,,they have earned the right to choose\Nwhat their next calling will be.
+Dialogue: 0,0:18:40.67,0:18:42.07,Dubtitles,,0,0,0,,Go ahead, Eugeo.
+Dialogue: 0,0:18:42.43,0:18:43.71,Dubtitles,,0,0,0,,Make your choice.
+Dialogue: 0,0:19:06.41,0:19:08.73,Dubtitles,,0,0,0,,I shall
+Dialogue: 0,0:19:08.81,0:19:14.49,Dubtitles,,0,0,0,,train
+Dialogue: 0,0:19:14.57,0:19:15.95,Dubtitles,,0,0,0,,hard and
+Dialogue: 0,0:19:16.03,0:19:17.45,Dubtitles,,0,0,0,,journey to Senator.
+Dialogue: 0,0:19:19.15,0:19:22.77,Dubtitles,,0,0,0,,Uh, Eugeo, what could you possibly...
+Dialogue: 0,0:19:26.61,0:19:29.15,Dubtitles,,0,0,0,,No, I won't question you.
+Dialogue: 0,0:19:29.71,0:19:33.13,Dubtitles,,0,0,0,,It is your church-given right\Nto choose your next calling.
+Dialogue: 0,0:19:34.69,0:19:40.23,Dubtitles,,0,0,0,,As Rulet's elder, I approve\NEugeo's new calling as swordsman!
+Dialogue: 0,0:19:52.59,0:19:53.42,Dubtitles,,0,0,0,,Selka.
+Dialogue: 0,0:19:55.99,0:19:56.82,Dubtitles,,0,0,0,,Eugeo.
+Dialogue: 0,0:19:57.33,0:20:00.53,Dubtitles,,0,0,0,,Before I go, I wanted\Nto tell you something.
+Dialogue: 0,0:20:01.11,0:20:01.94,Dubtitles,,0,0,0,,Oh?
+Dialogue: 0,0:20:02.02,0:20:02.85,Dubtitles,,0,0,0,,What is it?
+Dialogue: 0,0:20:03.43,0:20:08.27,Dubtitles,,0,0,0,,My goal is to go to Senator\Nand bring Alice back here.
 Dialogue: 0,0:20:08.61,0:20:09.89,Dubtitles,,0,0,0,,I thought so.
-Dialogue: 0,0:20:10.71,0:20:14.13,Dubtitles,,0,0,0,,For the past six years, it's\Nall I've been thinking about.
-Dialogue: 0,0:20:14.53,0:20:18.99,Dubtitles,,0,0,0,,But with my calling, I had\Nno idea how I'd go about it.
-Dialogue: 0,0:20:20.53,0:20:22.73,Dubtitles,,0,0,0,,Then Kirito suddenly showed up,
-Dialogue: 0,0:20:22.83,0:20:25.79,Dubtitles,,0,0,0,,and bringing Alice back\Ndidn't seem hopeless anymore.
-Dialogue: 0,0:20:25.87,0:20:29.58,Dubtitles,,0,0,0,,For some reason, I feel like I\Ncan do anything with him around.
-Dialogue: 0,0:20:30.09,0:20:32.69,Dubtitles,,0,0,0,,You and your family have suffered so much.
-Dialogue: 0,0:20:33.13,0:20:34.37,Dubtitles,,0,0,0,,All on account of me.
-Dialogue: 0,0:20:35.07,0:20:38.37,Dubtitles,,0,0,0,,So, I'll bring Alice back\Nand make things right.
-Dialogue: 0,0:20:40.19,0:20:43.15,Dubtitles,,0,0,0,,Have faith in me, and wait for our return.
-Dialogue: 0,0:20:44.49,0:20:48.61,Dubtitles,,0,0,0,,Well, I can't stop you,\Nbut if you insist... I do.
-Dialogue: 0,0:20:51.69,0:20:53.47,Dubtitles,,0,0,0,,Okay, I shall wait.
-Dialogue: 0,0:20:55.91,0:20:58.39,Dubtitles,,0,0,0,,Just make sure the three of you come back.
-Dialogue: 0,0:21:01.73,0:21:04.57,Dubtitles,,0,0,0,,I'll make sure we all\Ncome back safe, promise.
-Dialogue: 0,0:21:04.65,0:21:05.97,Dubtitles,,0,0,0,,Good luck!
-Dialogue: 0,0:21:13.85,0:21:15.43,Dubtitles,,0,0,0,,Sorry to keep you waiting.
-Dialogue: 0,0:21:15.51,0:21:16.77,Dubtitles,,0,0,0,,No worries.
-Dialogue: 0,0:21:19.13,0:21:21.07,Dubtitles,,0,0,0,,Well then, are you ready?
-Dialogue: 0,0:21:21.67,0:21:22.50,Dubtitles,,0,0,0,,Uh-huh
-Dialogue: 0,0:21:24.09,0:21:26.13,Dubtitles,,0,0,0,,I wonder what Central will be like?
-Dialogue: 0,0:21:26.21,0:21:27.51,Dubtitles,,0,0,0,,Who knows?
-Dialogue: 0,0:21:34.45,0:21:37.21,Dubtitles,,0,0,0,,It's gotta be way bigger\Nthan Rulid, right?
-Dialogue: 0,0:21:38.75,0:21:40.35,Dubtitles,,0,0,0,,I certainly hope so.
-Dialogue: 0,0:21:45.25,0:21:47.21,Dubtitles,,0,0,0,,It looks like rain's coming.
-Dialogue: 0,0:21:47.29,0:21:49.99,Dubtitles,,0,0,0,,We should hurry before\Nwe get caught in it!
-Dialogue: 0,0:21:53.21,0:21:54.05,Dubtitles,,0,0,0,,What's wrong?
-Dialogue: 0,0:21:54.79,0:21:55.62,Dubtitles,,0,0,0,,Huh, what?
-Dialogue: 0,0:21:55.70,0:21:57.55,Dubtitles,,0,0,0,,Never mind. Shall we go?
-Dialogue: 0,0:21:58.81,0:21:59.64,Dubtitles,,0,0,0,,Yeah.
+Dialogue: 0,0:20:10.67,0:20:14.05,Dubtitles,,0,0,0,,For the past six years, it's\Nall I've been thinking about.
+Dialogue: 0,0:20:14.13,0:20:19.01,Dubtitles,,0,0,0,,But with my calling, I had\Nno idea how I'd go about it.
+Dialogue: 0,0:20:20.61,0:20:22.73,Dubtitles,,0,0,0,,Then Kirito suddenly showed up,
+Dialogue: 0,0:20:22.83,0:20:25.83,Dubtitles,,0,0,0,,and bringing Alice back\Ndidn't seem hopeless anymore.
+Dialogue: 0,0:20:25.91,0:20:29.62,Dubtitles,,0,0,0,,For some reason, I feel like I\Ncan do anything with him around.
+Dialogue: 0,0:20:30.13,0:20:34.27,Dubtitles,,0,0,0,,You and your family have suffered\Nso much, all on account of me.
+Dialogue: 0,0:20:35.33,0:20:38.37,Dubtitles,,0,0,0,,So, I'll bring Alice back\Nand make things right.
+Dialogue: 0,0:20:40.19,0:20:43.09,Dubtitles,,0,0,0,,Have faith in me, and wait for our return.
+Dialogue: 0,0:20:44.49,0:20:48.61,Dubtitles,,0,0,0,,Well, I can't stop you,\Nbut if you insist… I do.
+Dialogue: 0,0:20:51.71,0:20:53.47,Dubtitles,,0,0,0,,Okay, I shall wait.
+Dialogue: 0,0:20:55.95,0:20:58.42,Dubtitles,,0,0,0,,Just make sure the three of you come back.
+Dialogue: 0,0:21:01.69,0:21:03.87,Dubtitles,,0,0,0,,I'll make sure we all come back safe.
+Dialogue: 0,0:21:04.11,0:21:04.94,Dubtitles,,0,0,0,,Promise.
+Dialogue: 0,0:21:05.27,0:21:06.10,Dubtitles,,0,0,0,,Good luck!
+Dialogue: 0,0:21:14.13,0:21:15.66,Dubtitles,,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:21:15.87,0:21:16.73,Dubtitles,,0,0,0,,No worries.
+Dialogue: 0,0:21:19.01,0:21:21.07,Dubtitles,,0,0,0,,Well then, are you ready?
+Dialogue: 0,0:21:21.59,0:21:22.42,Dubtitles,,0,0,0,,Uh-huh.
+Dialogue: 0,0:21:23.97,0:21:26.19,Dubtitles,,0,0,0,,I wonder what Central will be like.
+Dialogue: 0,0:21:26.59,0:21:27.43,Dubtitles,,0,0,0,,Who knows?
+Dialogue: 0,0:21:34.37,0:21:37.21,Dubtitles,,0,0,0,,It's gotta be way bigger\Nthan Rulid, right?
+Dialogue: 0,0:21:38.67,0:21:40.33,Dubtitles,,0,0,0,,I certainly hope so.
+Dialogue: 0,0:21:45.59,0:21:47.27,Dubtitles,,0,0,0,,It looks like rain's coming.
+Dialogue: 0,0:21:47.87,0:21:50.40,Dubtitles,,0,0,0,,We should hurry before\Nwe get caught in it.
+Dialogue: 0,0:21:53.25,0:21:54.08,Dubtitles,,0,0,0,,What's wrong?
+Dialogue: 0,0:21:54.65,0:21:55.48,Dubtitles,,0,0,0,,Huh? What?
+Dialogue: 0,0:21:55.85,0:21:57.57,Dubtitles,,0,0,0,,Never mind. Shall we go?
+Dialogue: 0,0:21:59.01,0:21:59.84,Dubtitles,,0,0,0,,Yeah.
 Dialogue: 1,0:22:20.61,0:22:20.97,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(756,15,556,65,0,350)\fad(400,0)\be1\\fscx100\fscy100\frz360\t(0,400,\fscx100\fscy100)\frz0)\alpha&H80&}k
 Dialogue: 1,0:22:20.61,0:22:20.97,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(779,15,579,65,0,350)\fad(400,0)\be1\\fscx100\fscy100\frz360\t(0,400,\fscx100\fscy100)\frz0)\alpha&H80&}i
 Dialogue: 2,0:22:20.61,0:22:20.97,Iris,,0,0,0,fx,{\an5\blur1\bord0\shad0\move(756,15,556,65,0,350)\fad(400,0)\\fscx100\fscy100\frz360\t(0,400,\fscx100\fscy100)\frz0)\alpha&H50&}k
@@ -4857,6 +4862,7 @@ Dialogue: 3,0:22:23.50,0:22:23.87,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\m
 Dialogue: 4,0:22:23.50,0:22:23.87,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1250,60,1250,65)\blur1\bord0\\fscx100\fscy150\bord0\blur1\t(\fscx100\fscy100)}na
 Dialogue: 9,0:22:23.50,0:22:24.71,Iris,,0,0,0,fx,{\an5\pos(1191,65)\fad(0,300)\shad1\3c&HCA5F0B&\4c&H974229&\bord2\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)\t(1000,1200,\fscy100)\t(1200,1400,\fscy120)}u
 Dialogue: 10,0:22:23.50,0:22:24.71,Iris,,0,0,0,fx,{\an5\pos(1191,65)\fad(0,300)\3c&HCA5F0B&\4c&H974229&\bord0\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)\t(1000,1200,\fscy100)\t(1200,1400,\fscy120)}u
+Dialogue: 0,0:22:23.59,0:22:26.75,Dubtitles,,0,0,0,,Let's do it.
 Dialogue: 3,0:22:23.87,0:22:24.07,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1301,60,1301,65)\bord2\blur1\\fscx100\fscy150\bord2\blur1\t(\fscx100\fscy100)}ra
 Dialogue: 4,0:22:23.87,0:22:24.07,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1301,60,1301,65)\blur1\bord0\\fscx100\fscy150\bord0\blur1\t(\fscx100\fscy100)}ra
 Dialogue: 9,0:22:23.87,0:22:24.71,Iris,,0,0,0,fx,{\an5\pos(1250,65)\fad(0,300)\shad1\3c&HCA5F0B&\4c&H974229&\bord2\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)}na
@@ -5138,7 +5144,6 @@ Dialogue: 3,0:22:33.41,0:22:33.98,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\m
 Dialogue: 4,0:22:33.41,0:22:33.98,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1023,60,1023,65)\blur1\bord0\\fscx100\fscy150\bord0\blur1\t(\fscx100\fscy100)}ni
 Dialogue: 9,0:22:33.41,0:22:35.37,Iris,,0,0,0,fx,{\an5\pos(955,65)\fad(0,300)\shad1\3c&HCA5F0B&\4c&H974229&\bord2\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)\t(1000,1200,\fscy100)\t(1200,1400,\fscy120)\t(1400,1600,\fscy100)\t(1600,1800,\fscy120)\t(1800,2000,\fscy100)}yu
 Dialogue: 10,0:22:33.41,0:22:35.37,Iris,,0,0,0,fx,{\an5\pos(955,65)\fad(0,300)\3c&HCA5F0B&\4c&H974229&\bord0\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)\t(1000,1200,\fscy100)\t(1200,1400,\fscy120)\t(1400,1600,\fscy100)\t(1600,1800,\fscy120)\t(1800,2000,\fscy100)}yu
-Dialogue: 0,0:22:33.65,0:22:37.97,Dubtitles,,0,0,0,,I love you. I love you.
 Dialogue: 3,0:22:33.98,0:22:34.20,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1094,60,1094,65)\bord2\blur1\\fscx100\fscy150\bord2\blur1\t(\fscx100\fscy100)}nu
 Dialogue: 4,0:22:33.98,0:22:34.20,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1094,60,1094,65)\blur1\bord0\\fscx100\fscy150\bord0\blur1\t(\fscx100\fscy100)}nu
 Dialogue: 9,0:22:33.98,0:22:35.37,Iris,,0,0,0,fx,{\an5\pos(1023,65)\fad(0,300)\shad1\3c&HCA5F0B&\4c&H974229&\bord2\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)\t(1000,1200,\fscy100)\t(1200,1400,\fscy120)}ni
@@ -5408,6 +5413,7 @@ Dialogue: 1,0:22:44.13,0:22:46.74,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\m
 Dialogue: 1,0:22:44.13,0:22:46.74,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1569,15,1369,65,0,350)\fad(400,0)\be1\\fscx100\fscy100\frz360\t(0,400,\fscx100\fscy100)\frz0)\alpha&H80&}u
 Dialogue: 2,0:22:44.13,0:22:46.74,Iris,,0,0,0,fx,{\an5\blur1\bord0\shad0\move(1542,15,1342,65,0,350)\fad(400,0)\\fscx100\fscy100\frz360\t(0,400,\fscx100\fscy100)\frz0)\alpha&H50&}r
 Dialogue: 2,0:22:44.13,0:22:46.74,Iris,,0,0,0,fx,{\an5\blur1\bord0\shad0\move(1569,15,1369,65,0,350)\fad(400,0)\\fscx100\fscy100\frz360\t(0,400,\fscx100\fscy100)\frz0)\alpha&H50&}u
+Dialogue: 0,0:22:44.13,0:22:48.13,Dubtitles,,0,0,0,,I'm not sure if you want\Nto keep me in the same way.
 Dialogue: 3,0:22:44.22,0:22:44.54,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(817,60,817,65)\bord2\blur1\\fscx100\fscy150\bord2\blur1\t(\fscx100\fscy100)}tsu
 Dialogue: 4,0:22:44.22,0:22:44.54,Iris,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(817,60,817,65)\blur1\bord0\\fscx100\fscy150\bord0\blur1\t(\fscx100\fscy100)}tsu
 Dialogue: 9,0:22:44.22,0:22:47.14,Iris,,0,0,0,fx,{\an5\pos(773,65)\fad(0,300)\shad1\3c&HCA5F0B&\4c&H974229&\bord2\blur1\fscx100\fscy100}{\t(0,200,\fscy120)\t(200,400,\fscy100)\t(400,600,\fscy120)\t(600,800,\fscy100)\t(800,1000,\fscy120)\t(1000,1200,\fscy100)\t(1200,1400,\fscy120)\t(1400,1600,\fscy100)\t(1600,1800,\fscy120)\t(1800,2000,\fscy100)\t(2000,2200,\fscy120)\t(2200,2400,\fscy100)\t(2400,2600,\fscy120)\t(2600,2800,\fscy100)\t(2800,3000,\fscy120)}i
@@ -5588,6 +5594,7 @@ Dialogue: 2,0:22:50.79,0:22:55.72,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(1294,65)\
 Dialogue: 2,0:22:50.79,0:22:55.72,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(1316,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}e
 Dialogue: 3,0:22:50.79,0:22:55.72,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(1294,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}t
 Dialogue: 3,0:22:50.79,0:22:55.72,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(1316,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}e
+Dialogue: 0,0:22:50.81,0:22:54.79,Dubtitles,,0,0,0,,I'm not sure if I want you.
 Dialogue: 2,0:22:50.84,0:22:56.04,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(1358,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}k
 Dialogue: 2,0:22:50.84,0:22:56.04,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(1380,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}i
 Dialogue: 3,0:22:50.84,0:22:56.04,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(1358,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}k
@@ -5672,6 +5679,7 @@ Dialogue: 14,0:22:56.38,0:22:56.60,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H
 Dialogue: 15,0:22:56.38,0:22:56.60,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1409,65,1409,65)\blur1\bord0\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}ta
 Dialogue: 1,0:22:56.38,0:22:58.03,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(1365,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}ki
 Dialogue: 2,0:22:56.38,0:22:58.03,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(1365,65)\fscx100\fscy100\bord0\blur1\shad1\fad(0,300)}ki
+Dialogue: 0,0:22:56.49,0:22:57.95,Dubtitles,,0,0,0,,I'm not sure if I want you.
 Dialogue: 14,0:22:56.60,0:22:57.33,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1485,65,1485,65)\blur5\bord3\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur0\fscx100\fscy100}mu
 Dialogue: 15,0:22:56.60,0:22:57.33,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1485,65,1485,65)\blur1\bord0\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}mu
 Dialogue: 1,0:22:56.60,0:22:58.03,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(1409,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}ta
@@ -5705,6 +5713,7 @@ Dialogue: 1,0:22:58.03,0:22:58.03,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H9
 Dialogue: 2,0:22:58.03,0:22:58.03,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(1623,65)\fscx100\fscy100\bord0\blur1\shad1\fad(0,300)}ni
 Dialogue: 2,0:22:58.03,0:22:59.41,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(636,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}e
 Dialogue: 3,0:22:58.03,0:22:59.41,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(636,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}e
+Dialogue: 0,0:22:58.03,0:22:59.97,Dubtitles,,0,0,0,,I'm still not sure if I want you.
 Dialogue: 2,0:22:58.08,0:22:59.79,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(665,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}n
 Dialogue: 2,0:22:58.08,0:22:59.79,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(693,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}a
 Dialogue: 3,0:22:58.08,0:22:59.79,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(665,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}n
@@ -5793,6 +5802,7 @@ Dialogue: 14,0:23:00.69,0:23:01.33,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H
 Dialogue: 15,0:23:00.69,0:23:01.33,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(809,65,809,65)\blur1\bord0\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}zu
 Dialogue: 1,0:23:00.69,0:23:04.92,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(758,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}ki
 Dialogue: 2,0:23:00.69,0:23:04.92,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(758,65)\fscx100\fscy100\bord0\blur1\shad1\fad(0,300)}ki
+Dialogue: 0,0:23:01.01,0:23:05.07,Dubtitles,,0,0,0,,I'm not sure.
 Dialogue: 14,0:23:01.33,0:23:01.63,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(890,65,890,65)\blur5\bord3\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur0\fscx100\fscy100}wo
 Dialogue: 15,0:23:01.33,0:23:01.63,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(890,65,890,65)\blur1\bord0\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}wo
 Dialogue: 1,0:23:01.33,0:23:04.92,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(809,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}zu
@@ -5880,6 +5890,7 @@ Dialogue: 3,0:23:05.12,0:23:07.17,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0
 Dialogue: 3,0:23:05.12,0:23:07.17,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(723,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}i
 Dialogue: 14,0:23:05.15,0:23:05.38,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(253,65,253,65)\blur5\bord3\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur0\fscx100\fscy100}se
 Dialogue: 15,0:23:05.15,0:23:05.38,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(253,65,253,65)\blur1\bord0\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}se
+Dialogue: 0,0:23:05.15,0:23:11.37,Dubtitles,,0,0,0,,if I want you.
 Dialogue: 2,0:23:05.17,0:23:07.54,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(745,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}k
 Dialogue: 2,0:23:05.17,0:23:07.54,Iris - Chor:,,0,0,0,fx,{\an5\be1\pos(768,65)\3c&H77441D&\4c&H974229&\alpha&H80&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}i
 Dialogue: 3,0:23:05.17,0:23:07.54,Iris - Chor:,,0,0,0,fx,{\an5\blur1\bord0\shad0\pos(745,65)\alpha&H50&\fad(400,0)\t()\fscx0\fscy0\t(0,280,\fscx130\fscy130)\t(280,400,\fscx100\fscy100)}k
@@ -5958,7 +5969,6 @@ Dialogue: 14,0:23:06.21,0:23:06.64,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H
 Dialogue: 15,0:23:06.21,0:23:06.64,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(479,65,479,65)\blur1\bord0\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}shi
 Dialogue: 1,0:23:06.21,0:23:12.91,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(415,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}go
 Dialogue: 2,0:23:06.21,0:23:12.91,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(415,65)\fscx100\fscy100\bord0\blur1\shad1\fad(0,300)}go
-Dialogue: 0,0:23:06.39,0:23:09.19,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 14,0:23:06.64,0:23:06.85,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(560,65,560,65)\blur5\bord3\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur0\fscx100\fscy100}no
 Dialogue: 15,0:23:06.64,0:23:06.85,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(560,65,560,65)\blur1\bord0\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}no
 Dialogue: 1,0:23:06.64,0:23:12.91,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(479,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}shi
@@ -6402,5 +6412,6 @@ Dialogue: 1,0:23:34.95,0:23:42.29,Signs,,0,0,0,,{\fscx100\bord3\blur4.5\c&H00000
 Dialogue: 2,0:23:34.95,0:23:42.29,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HEDEDED&\3c&HE9E9E9&\fs160\fnBell Gothic Bold\pos(958.4,788.5)}Ocean Turtle
 Dialogue: 2,0:23:34.95,0:23:42.29,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HECECEC&\3c&HEEEEEE&\fs160\fnBell Gothic Bold\pos(958,785)}Ocean Turtle
 Dialogue: 3,0:23:34.95,0:23:42.29,Signs,,0,0,0,,{\fscx100\blur1\c&H000000&\fs160\fnBell Gothic Bold\pos(958.4,786.8)}Ocean Turtle
-Dialogue: 0,0:23:36.03,0:23:38.27,Dubtitles,,0,0,0,,Next time, Ocean Turtle.
+Dialogue: 0,0:23:36.09,0:23:38.27,Dubtitles,,0,0,0,,Next time, Ocean Turtle.
+Dialogue: 0,0:23:41.37,0:23:41.98,Dubtitles,,0,0,0,,You
 

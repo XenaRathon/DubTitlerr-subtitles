@@ -27,14 +27,14 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:01.53,Dubtitles,,0,0,0,,Ah-ha-ha-ha!
+Dialogue: 0,0:00:00.01,0:00:01.41,Dubtitles,,0,0,0,,Ha ha ha ha!
 Dialogue: 1,0:00:10.42,0:00:11.92,Signs,,0,0,0,,{\fsp-3\fscx95\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H121A21&\blur3\fs72\alpha&H40\3c&H091E1C&}Alfheim • Neutral Region
 Dialogue: 1,0:00:10.42,0:00:11.92,Signs,,0,0,0,,{\fsp-3\fscx95\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H121A21&\blur3\fs72\alpha&H40}Alfheim • Neutral Region
 Dialogue: 2,0:00:10.42,0:00:11.92,Signs,,0,0,0,,{\fscx95\fscy85\shad0\pos(960,942)\blur0.45\fs72\c&HF5F5F5&\fsp-3}Alfheim • Neutral Region
 Dialogue: 1,0:00:11.92,0:00:14.13,Signs,,0,0,0,,{\fsp-3\fscx95\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H121A21&\blur3\fs72\alpha&H40\3c&H091E1C&}Central City • Alne
 Dialogue: 1,0:00:11.92,0:00:14.13,Signs,,0,0,0,,{\fsp-3\fscx95\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H121A21&\blur3\fs72\alpha&H40}Central City • Alne
 Dialogue: 2,0:00:11.92,0:00:14.13,Signs,,0,0,0,,{\fscx95\fscy85\shad0\pos(960,942)\blur0.45\fs72\c&HF5F5F5&\fsp-3}Central City • Alne
-Dialogue: 0,0:00:27.01,0:00:27.84,Dubtitles,,0,0,0,,It's amazing.
+Dialogue: 0,0:00:27.01,0:00:27.84,Dubtitles,,0,0,0,,It's amazing!
 Dialogue: 0,0:00:29.19,0:00:30.67,Dubtitles,,0,0,0,,I know, isn't it?
 Dialogue: 0,0:00:30.91,0:00:32.23,Dubtitles,,0,0,0,,Welcome to Arun.
 Dialogue: 0,0:00:32.43,0:00:33.99,Dubtitles,,0,0,0,,It's the center of Alfheim.
@@ -53,10 +53,10 @@ Dialogue: 0,0:01:10.28,0:01:12.09,Dubtitles,,0,0,0,,I guess that does it for us 
 Dialogue: 0,0:01:12.17,0:01:14.11,Dubtitles,,0,0,0,,Let's go find an inn and log out.
 Dialogue: 0,0:01:15.23,0:01:16.06,Dubtitles,,0,0,0,,Sure.
 Dialogue: 0,0:01:18.25,0:01:22.11,Dubtitles,,0,0,0,,Well, I hope we can find someplace\Ngood, nothing too pricey.
-Dialogue: 0,0:01:22.19,0:01:25.47,Dubtitles,,0,0,0,,though i sort of blew through\Nall my cash today and why's
+Dialogue: 0,0:01:22.19,0:01:25.47,Dubtitles,,0,0,0,,though I sort of blew through\Nall my cash today and why's
 Dialogue: 0,0:01:25.55,0:01:28.05,Dubtitles,,0,0,0,,that oh right you were showing\Noff and you gave all your
 Dialogue: 0,0:01:28.13,0:01:31.78,Dubtitles,,0,0,0,,money to you should have saved\Na little for the in big spender
-Dialogue: 0,0:01:33.71,0:01:38.24,Dubtitles,,0,0,0,,your dad's financially challenged do\Nyou know if there's a cheap inn anywhere
+Dialogue: 0,0:01:33.71,0:01:38.30,Dubtitles,,0,0,0,,your dad's financially challenged do you\Nknow if there's a cheap inn anywhere?
 Dialogue: 0,0:01:40.43,0:01:43.71,Dubtitles,,0,0,0,,There's one there, and from what\NI can tell, it's super cheap.
 Dialogue: 0,0:01:43.79,0:01:45.53,Dubtitles,,0,0,0,,Great, super cheap, yay.
 Dialogue: 0,0:01:46.13,0:01:47.33,Dubtitles,,0,0,0,,Come on, let's go.
@@ -1282,6 +1282,7 @@ Dialogue: 3,0:02:34.65,0:02:35.74,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(736.
 Dialogue: 3,0:02:34.65,0:02:37.61,OP-Romaji,,0,0,0,,{\an5\move(775.5,43.5,799.5,6)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(3209,3210,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3243,3343,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 2,0:02:34.65,0:02:42.41,OP-Kanji,,0,0,0,,{\an5\pos(783,97.5)\3c&HB47432&}れ
 Dialogue: 2,0:02:34.65,0:02:42.41,OP-Romaji,,0,0,0,,{\an5\pos(688.5,43.5)\3c&HB47432&}re
+Dialogue: 0,0:02:34.79,0:02:41.17,Dubtitles,,0,0,0,,my future will never be able to see.
 Dialogue: 1,0:02:34.86,0:02:36.24,OP-Romaji,,0,0,0,,{\an5\move(724.5,43.5,681,49.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1315,1316,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1349,1449,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:34.86,0:02:37.90,OP-Kanji,,0,0,0,,{\an5\move(817.5,97.5,844.5,112.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(3495,3496,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3529,3629,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:34.90,0:02:37.11,OP-Kanji,,0,0,0,,{\an5\move(817.5,97.5,805.5,79.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2273,2274,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2307,2407,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1323,7 +1324,6 @@ Dialogue: 1,0:02:36.11,0:02:37.19,OP-Kanji,,0,0,0,,{\an5\move(888,97.5,849,67.5)
 Dialogue: 3,0:02:36.15,0:02:36.65,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,828,45)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(469,470,\fscx9\fscy9\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(503,603,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:36.28,0:02:37.07,OP-Romaji,,0,0,0,,{\an5\move(834,43.5,876,70.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1004,1005,\fscx16\fscy16\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1038,1138,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:36.32,0:02:36.82,OP-Romaji,,0,0,0,,{\an5\move(834,43.5,850.5,4.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(391,392,\fscx24\fscy24\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(425,525,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:36.37,0:02:37.97,Dubtitles,,0,0,0,,I can't see the future.
 Dialogue: 1,0:02:36.40,0:02:36.86,OP-Romaji,,0,0,0,,{\an5\move(834,43.5,796.5,45)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(339,340,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(373,473,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:36.40,0:02:36.99,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,861,13.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(564,565,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(598,698,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:36.44,0:02:37.28,OP-Kanji,,0,0,0,,{\an5\move(888,97.5,886.5,111)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(779,780,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(813,913,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1384,7 +1384,6 @@ Dialogue: 3,0:02:37.90,0:02:39.57,OP-Romaji,,0,0,0,,{\an5\move(1053,43.5,1063.5,
 Dialogue: 2,0:02:37.90,0:02:42.41,OP-Romaji,,0,0,0,,{\an5\pos(1011,43.5)\3c&HB47432&}ra
 Dialogue: 3,0:02:37.95,0:02:39.86,OP-Romaji,,0,0,0,,{\an5\move(1053,43.5,1038,72)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1915,1916,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1949,2049,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:38.03,0:02:40.28,OP-Romaji,,0,0,0,,{\an5\move(1038,43.5,1075.5,0)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(2343,2344,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2377,2477,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:38.05,0:02:44.41,Dubtitles,,0,0,0,,I can't see the next day. I'm
 Dialogue: 1,0:02:38.11,0:02:39.20,OP-Romaji,,0,0,0,,{\an5\move(1038,43.5,1011,34.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1460,1461,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1494,1594,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:38.11,0:02:39.24,OP-Kanji,,0,0,0,,{\an5\move(994.5,97.5,949.5,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(1189,1190,\fscx21\fscy21\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1223,1323,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:38.24,0:02:39.74,OP-Romaji,,0,0,0,,{\an5\move(1038,43.5,1080,84)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1403,1404,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1437,1537,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1628,6 +1627,7 @@ Dialogue: 3,0:02:42.83,0:02:43.24,OP-Romaji,,0,0,0,,{\an5\move(393,43.5,373.5,84
 Dialogue: 3,0:02:42.83,0:02:43.24,OP-Romaji,,0,0,0,,{\an5\move(393,43.5,435,21)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(370,371,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(404,504,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:42.83,0:02:44.20,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry63\frx-106\be3\blur3\fad(360,0)\move(811.5,13.5,811.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}a
 Dialogue: 1,0:02:42.83,0:02:44.37,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry241\frx-323\be3\blur3\fad(360,0)\move(837,13.5,837,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}s
+Dialogue: 0,0:02:42.83,0:02:47.31,Dubtitles,,0,0,0,,When I'm on the moon,\NI'll not be saying to you.
 Dialogue: 1,0:02:42.87,0:02:43.12,OP-Kanji,,0,0,0,,{\an5\move(651,97.5,606,72)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(252,253,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(286,386,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:42.87,0:02:43.12,OP-Romaji,,0,0,0,,{\an5\move(367.5,43.5,322.5,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(252,253,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(286,386,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:42.87,0:02:44.37,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-15\frx225\be3\blur3\fad(360,0)\move(861,13.5,861,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}o
@@ -1775,7 +1775,6 @@ Dialogue: 3,0:02:44.41,0:02:45.54,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,846,48)\
 Dialogue: 3,0:02:44.41,0:02:45.79,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,832.5,81)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1316,1317,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1350,1450,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:44.45,0:02:45.70,OP-Kanji,,0,0,0,,{\an5\move(826.5,97.5,781.5,93)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1434,1435,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1468,1568,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:44.49,0:02:44.95,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,877.5,9)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(594,595,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(628,728,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:44.49,0:02:48.01,Dubtitles,,0,0,0,,still saying that I'm\Nstill saying I'm still
 Dialogue: 3,0:02:44.54,0:02:45.08,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,880.5,49.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(485,486,\fscx15\fscy15\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(519,619,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:44.62,0:02:45.12,OP-Kanji,,0,0,0,,{\an5\move(826.5,97.5,829.5,70.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(634,635,\fscx8\fscy8\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(668,768,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:44.62,0:02:46.00,OP-Kanji,,0,0,0,,{\an5\move(826.5,97.5,853.5,133.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1716,1717,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1750,1850,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1976,6 +1975,7 @@ Dialogue: 1,0:02:47.33,0:02:48.12,OP-Kanji,,0,0,0,,{\an5\move(1233,97.5,1209,72)
 Dialogue: 1,0:02:47.37,0:02:47.91,OP-Romaji,,0,0,0,,{\an5\move(1470,43.5,1464,54)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(384,385,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(418,518,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:47.37,0:02:48.08,OP-Romaji,,0,0,0,,{\an5\move(1495.5,43.5,1465.5,24)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(915,916,\fscx9\fscy9\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(949,1049,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:47.41,0:02:47.96,OP-Romaji,,0,0,0,,{\an5\move(1470,43.5,1486.5,52.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(467,468,\fscx4\fscy4\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(501,601,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:02:47.43,0:02:51.89,Dubtitles,,0,0,0,,I'm trying to say to you,\Nand I keep on crying.
 Dialogue: 3,0:02:47.46,0:02:47.87,OP-Romaji,,0,0,0,,{\an5\move(1549.5,43.5,1542,0)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(335,336,\fscx16\fscy16\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(369,469,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:47.46,0:02:48.00,OP-Romaji,,0,0,0,,{\an5\move(1522.5,43.5,1518,63)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(611,612,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(645,745,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:47.50,0:02:48.25,OP-Romaji,,0,0,0,,{\an5\move(1522.5,43.5,1489.5,31.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(765,766,\fscx6\fscy6\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(799,899,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -2090,7 +2090,6 @@ Dialogue: 3,0:02:48.08,0:02:48.50,OP-Romaji,,0,0,0,,{\an5\move(639,43.5,681,21)\
 Dialogue: 3,0:02:48.08,0:02:48.58,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(817.5,97.5)\t(0,240,\fscy116\fscx116\shad12\be15\blur3.75)\t(0,480,\1c&HFFFFFF&\3c&HB47432&)\t(240,480,\fscy100\fscx100\shad0\be0\blur0)}心
 Dialogue: 1,0:02:48.08,0:02:49.71,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry329\frx307\be3\blur3\fad(360,0)\move(1086,13.5,1086,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}b
 Dialogue: 3,0:02:48.08,0:02:49.71,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-78\frx2\be3\blur3\fad(360,0)\move(1104,13.5,1104,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}i
-Dialogue: 0,0:02:48.09,0:02:51.21,Dubtitles,,0,0,0,,screaming in my heart I'm\Nstill screaming in my heart
 Dialogue: 1,0:02:48.12,0:02:48.33,OP-Romaji,,0,0,0,,{\an5\move(613.5,43.5,568.5,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(249,250,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(283,383,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:48.12,0:02:49.83,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-355\frx275\be3\blur3\fad(360,0)\move(1117.5,13.5,1117.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}t
 Dialogue: 3,0:02:48.12,0:02:49.83,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-345\frx189\be3\blur3\fad(360,0)\move(1138.5,13.5,1138.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}s
@@ -2327,6 +2326,7 @@ Dialogue: 3,0:02:51.88,0:02:52.13,OP-Romaji,,0,0,0,,{\an5\move(1234.5,43.5,1138.
 Dialogue: 3,0:02:51.88,0:02:52.13,OP-Romaji,,0,0,0,,{\an5\move(1260,43.5,1294.5,30)\fad(0,150)\t(\blur7.5\bord4.5\frz-231\frx-5\fry211)}e
 Dialogue: 3,0:02:51.88,0:02:52.13,OP-Romaji,,0,0,0,,{\an5\move(1282.5,43.5,1288.5,48)\fad(0,150)\t(\blur7.5\bord4.5\frz-27\frx-104\fry-155)}t
 Dialogue: 3,0:02:51.88,0:02:52.13,OP-Romaji,,0,0,0,,{\an5\move(1303.5,43.5,1429.5,27)\fad(0,150)\t(\blur7.5\bord4.5\frz-160\frx-187\fry196)}a
+Dialogue: 0,0:02:51.97,0:02:56.33,Dubtitles,,0,0,0,,I have a feeling that I can't breathe.
 Dialogue: 1,0:02:52.42,0:02:53.00,OP-Kanji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(750,84,730.5,97.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}隠
 Dialogue: 1,0:02:52.42,0:02:53.00,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(549,30,529.5,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}k
 Dialogue: 1,0:02:52.42,0:02:53.00,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(585,60,555,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}a
@@ -2519,7 +2519,6 @@ Dialogue: 13,0:02:54.92,0:02:55.42,OP-Romaji,,0,0,0,,{\1a&H63&\be2\org(0,750)\an
 Dialogue: 2,0:02:54.92,0:02:55.42,OP-Romaji,,0,0,0,,{\an5\pos(894,43.5)}jou
 Dialogue: 1,0:02:54.92,0:02:58.05,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(871.5,97.5,847.5,118.5,200,2770)\t(200,2770,\fscx50\fry420\fscy50)\t(0,2770,\alpha&HFF&)}感
 Dialogue: 1,0:02:54.92,0:02:58.05,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(850.5,43.5,828,72,200,2970)\t(200,2970,\fscx50\fry420\fscy50)\t(0,2970,\alpha&HFF&)}n
-Dialogue: 0,0:02:55.25,0:02:59.45,Dubtitles,,0,0,0,,I'll see you
 Dialogue: 3,0:02:55.42,0:02:55.67,OP-Kanji,,0,0,0,,{\org(0,750)\an5\pos(942,97.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}が
 Dialogue: 29,0:02:55.42,0:02:55.67,OP-Kanji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(942,97.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}が
 Dialogue: 29,0:02:55.42,0:02:55.67,OP-Kanji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(942,97.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}が
@@ -2595,6 +2594,7 @@ Dialogue: 17,0:02:56.26,0:02:56.55,OP-Romaji,,0,0,0,,{\1a&H63&\be2\org(0,750)\an
 Dialogue: 2,0:02:56.26,0:02:56.55,OP-Romaji,,0,0,0,,{\an5\pos(1125,43.5)}i
 Dialogue: 1,0:02:56.26,0:02:58.05,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1075.5,43.5,1057.5,27,200,1710)\t(200,1710,\fscx50\fry420\fscy50)\t(0,1710,\alpha&HFF&)}m
 Dialogue: 1,0:02:56.26,0:02:58.05,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1107,43.5,1081.5,13.5,200,1710)\t(200,1710,\fscx50\fry420\fscy50)\t(0,1710,\alpha&HFF&)}e
+Dialogue: 0,0:02:56.41,0:03:02.65,Dubtitles,,0,0,0,,I'm trying to realize\Nthat I can't breathe.
 Dialogue: 3,0:02:56.55,0:02:56.92,OP-Kanji,,0,0,0,,{\org(0,750)\an5\pos(1048.5,97.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}を
 Dialogue: 32,0:02:56.55,0:02:56.92,OP-Kanji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(1048.5,97.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}を
 Dialogue: 32,0:02:56.55,0:02:56.92,OP-Kanji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(1048.5,97.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}を
@@ -2781,7 +2781,6 @@ Dialogue: 1,0:02:59.34,0:03:03.22,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\mov
 Dialogue: 1,0:02:59.34,0:03:03.22,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(739.5,43.5,718.5,39,200,3585)\t(200,3585,\fscx50\fry420\fscy50)\t(0,3585,\alpha&HFF&)}s
 Dialogue: 1,0:02:59.34,0:03:03.22,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(763.5,43.5,748.5,49.5,200,3585)\t(200,3585,\fscx50\fry420\fscy50)\t(0,3585,\alpha&HFF&)}h
 Dialogue: 1,0:02:59.34,0:03:03.22,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(780,43.5,756,64.5,200,3585)\t(200,3585,\fscx50\fry420\fscy50)\t(0,3585,\alpha&HFF&)}i
-Dialogue: 0,0:02:59.53,0:03:03.47,Dubtitles,,0,0,0,,next time.
 Dialogue: 3,0:02:59.72,0:03:00.18,OP-Kanji,,0,0,0,,{\org(0,750)\an5\pos(906,97.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}な
 Dialogue: 49,0:02:59.72,0:03:00.18,OP-Kanji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(906,97.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}な
 Dialogue: 49,0:02:59.72,0:03:00.18,OP-Kanji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(906,97.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}な
@@ -2937,6 +2936,7 @@ Dialogue: 1,0:03:03.18,0:03:03.22,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\mo
 Dialogue: 1,0:03:03.18,0:03:03.22,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1231.5,43.5,1213.5,27,200,-485)\t(200,-485,\fscx50\fry420\fscy50)\t(0,-485,\alpha&HFF&)}i
 Dialogue: 1,0:03:03.18,0:03:04.47,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(667.5,54,652.5,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}n
 Dialogue: 1,0:03:03.18,0:03:05.89,OP-Kanji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(991.5,108,976.5,97.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}け
+Dialogue: 0,0:03:03.21,0:03:08.37,Dubtitles,,0,0,0,,If I'm just a little\Nbit, I'm gonna tell you.
 Dialogue: 1,0:03:03.22,0:03:03.22,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1083,97.5,1059,87,200,-545)\t(200,-545,\fscx50\fry420\fscy50)\t(0,-545,\alpha&HFF&)}に
 Dialogue: 1,0:03:03.22,0:03:04.47,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(697.5,55.5,678,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}o
 Dialogue: 1,0:03:03.22,0:03:06.18,OP-Kanji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(1032,109.5,1012.5,97.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}強
@@ -3377,6 +3377,7 @@ Dialogue: 3,0:03:09.02,0:03:09.48,OP-Romaji,,0,0,0,,{\an5\move(508.5,43.5,489,84
 Dialogue: 3,0:03:09.02,0:03:10.69,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry135\frx-280\be3\blur3\fad(360,0)\move(918,13.5,918,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}o
 Dialogue: 1,0:03:09.02,0:03:11.02,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry175\frx39\be3\blur3\fad(360,0)\move(943.5,13.5,943.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}n
 Dialogue: 3,0:03:09.02,0:03:11.02,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry192\frx-220\be3\blur3\fad(360,0)\move(969,13.5,969,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}o
+Dialogue: 0,0:03:09.03,0:03:11.43,Dubtitles,,0,0,0,,I'm moving to the sky.
 Dialogue: 3,0:03:09.06,0:03:09.23,OP-Romaji,,0,0,0,,{\an5\move(508.5,43.5,499.5,63)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(21,22,\fscx13\fscy13\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(55,155,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:09.06,0:03:09.31,OP-Kanji,,0,0,0,,{\an5\move(694.5,97.5,649.5,72)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(252,253,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(286,386,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:09.06,0:03:09.31,OP-Romaji,,0,0,0,,{\an5\move(475.5,43.5,430.5,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(252,253,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(286,386,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -3548,6 +3549,7 @@ Dialogue: 1,0:03:11.23,0:03:11.69,OP-Romaji,,0,0,0,,{\an5\move(1017,43.5,1029,15
 Dialogue: 3,0:03:11.35,0:03:12.65,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(1078.5,43.5)\t(0,655,\fscy143\fscx143\shad12\be15\blur3.75)\t(0,1310,\1c&HFFFFFF&\3c&HB47432&)\t(655,1310,\fscy100\fscx100\shad0\be0\blur0)}ra
 Dialogue: 2,0:03:11.35,0:03:15.11,OP-Romaji,,0,0,0,,{\an5\pos(1030.5,43.5)\3c&HB47432&}so
 Dialogue: 1,0:03:11.44,0:03:13.90,OP-Romaji,,0,0,0,,{\an5\move(1065,43.5,1071,34.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2811,2812,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2845,2945,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:03:11.51,0:03:16.97,Dubtitles,,0,0,0,,It's over the
 Dialogue: 1,0:03:11.69,0:03:14.65,OP-Kanji,,0,0,0,,{\an5\move(976.5,97.5,996,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(3233,3234,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3267,3367,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:11.77,0:03:14.23,OP-Kanji,,0,0,0,,{\an5\move(976.5,97.5,931.5,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(2947,2948,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2981,3081,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:11.98,0:03:14.11,OP-Romaji,,0,0,0,,{\an5\move(1065,43.5,1095,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(2239,2240,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2273,2373,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -3791,6 +3793,7 @@ Dialogue: 3,0:03:17.03,0:03:17.28,OP-Romaji,,0,0,0,,{\an5\move(582,43.5,594,37.5
 Dialogue: 1,0:03:17.03,0:03:17.28,OP-Romaji,,0,0,0,,{\an5\move(532.5,43.5,489,72)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(261,262,\fscx7\fscy7\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(295,395,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:03:17.03,0:03:17.32,OP-Romaji,,0,0,0,,{\an5\move(582,43.5,619.5,81)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(339,340,\fscx20\fscy20\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(373,473,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:03:17.03,0:03:19.24,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry235\frx-180\be3\blur3\fad(360,0)\move(1002,13.5,1002,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}i
+Dialogue: 0,0:03:17.05,0:03:21.91,Dubtitles,,0,0,0,,beginning of the world.
 Dialogue: 3,0:03:17.07,0:03:17.15,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(729,97.5)\t(0,40,\fscy102\fscx102\shad12\be15\blur3.75)\t(0,80,\1c&HFFFFFF&\3c&HB47432&)\t(40,80,\fscy100\fscx100\shad0\be0\blur0)}の
 Dialogue: 3,0:03:17.07,0:03:17.15,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(546,43.5)\t(0,40,\fscy102\fscx102\shad12\be15\blur3.75)\t(0,80,\1c&HFFFFFF&\3c&HB47432&)\t(40,80,\fscy100\fscx100\shad0\be0\blur0)}no
 Dialogue: 3,0:03:17.07,0:03:17.19,OP-Romaji,,0,0,0,,{\an5\move(582,43.5,613.5,36)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(12,13,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(46,146,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -4184,23 +4187,23 @@ Dialogue: 3,0:03:29.00,0:03:33.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,816,1920
 Dialogue: 3,0:03:29.00,0:03:33.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,819,1920,822)\pos(960,825)\c&HCEA717&}The Truth Of ALfheim
 Dialogue: 3,0:03:29.00,0:03:33.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,822,1920,825)\pos(960,825)\c&HCEA616&}The Truth Of ALfheim
 Dialogue: 3,0:03:29.00,0:03:33.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,825,1920,828)\pos(960,825)\c&HCEA616&}The Truth Of ALfheim
-Dialogue: 0,0:04:00.33,0:04:01.19,Dubtitles,,0,0,0,,I don't know.
-Dialogue: 0,0:04:23.17,0:04:24.67,Dubtitles,,0,0,0,,Hey, Sugu. Good morning.
-Dialogue: 0,0:04:26.07,0:04:27.11,Dubtitles,,0,0,0,,Morning, Kazutou.
-Dialogue: 0,0:04:30.25,0:04:31.90,Dubtitles,,0,0,0,,Someone looked sleepy today.
-Dialogue: 0,0:04:32.49,0:04:34.53,Dubtitles,,0,0,0,,When did you get to bed last night?
+Dialogue: 0,0:03:43.99,0:03:45.09,Dubtitles,,0,0,0,,An opening.
+Dialogue: 0,0:04:20.27,0:04:21.67,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:04:23.13,0:04:24.67,Dubtitles,,0,0,0,,Hey, Sugu. Good morning.
+Dialogue: 0,0:04:25.01,0:04:27.11,Dubtitles,,0,0,0,,Good morning, Kazutou.
+Dialogue: 0,0:04:30.21,0:04:31.86,Dubtitles,,0,0,0,,Someone looked sleepy today.
+Dialogue: 0,0:04:32.57,0:04:34.53,Dubtitles,,0,0,0,,When did you get to bed last night?
 Dialogue: 0,0:04:34.61,0:04:35.44,Dubtitles,,0,0,0,,I don't know.
-Dialogue: 0,0:04:35.85,0:04:37.55,Dubtitles,,0,0,0,,Around four, I think.
-Dialogue: 0,0:04:38.85,0:04:39.68,Dubtitles,,0,0,0,,Whoa.
-Dialogue: 0,0:04:39.76,0:04:41.25,Dubtitles,,0,0,0,,A kid like you shouldn't be up that late.
-Dialogue: 0,0:04:41.33,0:04:42.51,Dubtitles,,0,0,0,,What were you doing?
-Dialogue: 0,0:04:43.31,0:04:45.85,Dubtitles,,0,0,0,,Oh, uh, tooling around online?
-Dialogue: 0,0:04:48.09,0:04:50.09,Dubtitles,,0,0,0,,Just don't go too overboard, okay?
-Dialogue: 0,0:04:51.27,0:04:52.10,Dubtitles,,0,0,0,,Right.
-Dialogue: 0,0:04:52.21,0:04:53.47,Dubtitles,,0,0,0,,Like I'm one to talk.
-Dialogue: 0,0:04:54.87,0:04:55.81,Dubtitles,,0,0,0,,Hey, Sugu.
-Dialogue: 0,0:04:56.05,0:04:59.45,Dubtitles,,0,0,0,,Turn around for a sec.\NWhy? Go on. Turn around.
-Dialogue: 0,0:05:01.39,0:05:02.22,Dubtitles,,0,0,0,,Okay.
+Dialogue: 0,0:04:35.81,0:04:37.55,Dubtitles,,0,0,0,,Around four, I think.
+Dialogue: 0,0:04:38.77,0:04:39.60,Dubtitles,,0,0,0,,Whoa.
+Dialogue: 0,0:04:39.68,0:04:41.29,Dubtitles,,0,0,0,,A kid like you shouldn't be up that late.
+Dialogue: 0,0:04:41.37,0:04:42.55,Dubtitles,,0,0,0,,What were you doing?
+Dialogue: 0,0:04:43.27,0:04:45.85,Dubtitles,,0,0,0,,Oh, uh, tooling around online?
+Dialogue: 0,0:04:48.05,0:04:50.05,Dubtitles,,0,0,0,,Just don't go too overboard, okay?
+Dialogue: 0,0:04:51.27,0:04:53.49,Dubtitles,,0,0,0,,Right, like I'm one to talk.
+Dialogue: 0,0:04:54.89,0:04:58.05,Dubtitles,,0,0,0,,Hey, Sugou, turn around for a sec. Why?
+Dialogue: 0,0:04:58.39,0:04:59.51,Dubtitles,,0,0,0,,Go on, turn around.
+Dialogue: 0,0:05:01.41,0:05:02.24,Dubtitles,,0,0,0,,Okay.
 Dialogue: 0,0:05:19.39,0:05:21.29,Dubtitles,,0,0,0,,How far does this hallway go?
 Dialogue: 0,0:05:35.13,0:05:36.13,Dubtitles,,0,0,0,,No way.
 Dialogue: 0,0:05:36.21,0:05:37.21,Dubtitles,,0,0,0,,It's a map.
@@ -4325,11 +4328,11 @@ Dialogue: 2,0:10:45.06,0:10:46.97,Menus,,0,0,0,,{\fax0.15\blur1.5\b1\an2\fs39\c&
 Dialogue: 2,0:10:45.06,0:10:46.97,Menus,,0,0,0,,{\fax0.1\fs49.5\blur1.2\an2\c&HF4EEE2&\pos(487.5,508.5)\frz8}Cancel{\alpha&HFF&}___________________{\alpha&H00&\fax0.08\c&HF4EEE2&}Logout
 Dialogue: 1,0:10:50.02,0:10:55.36,Sign-Hospital,,0,0,0,,{\fs31.5\fscx80\fsp-1.5\c&H7E837F&\blur1.2\fry-1\move(276,511.5,276,1083.3,0,5321)}Tokorozawa General Hospital
 Dialogue: 0,0:10:52.15,0:10:54.17,Dubtitles,,0,0,0,,Wow, that's a big hospital.
-Dialogue: 0,0:10:54.25,0:10:57.07,Dubtitles,,0,0,0,,The inside's amazing too, like a hotel.
+Dialogue: 0,0:10:54.25,0:10:57.07,Dubtitles,,0,0,0,,The inside's amazing too, like a hotel!
 Dialogue: 3,0:11:15.46,0:11:18.92,Signs,,0,0,0,,{\blur1.05\frx353\fs120\fnDroid Sans\b1\c&H586169&\frz359.8\org(1230,1038)\pos(1141.5,787.001)}Y{\c&H606D79&}u{\c&H707F8E&}u{\c&H7F8F9C&}k{\c&H99A7B5&}i{\c&H97A5B3&} {\c&H7B8894&}A{\c&H6F7D8B&}s{\c&H5D6873&}u{\c&H535B65&}na
 Dialogue: 2,0:11:15.46,0:11:18.92,Signs,,0,0,0,,{\blur1.5\frx353\fs120\fnDroid Sans\b1\c&HB6C5D0&\frz359.8\org(1230,1038)\pos(1141.5,786.55)}Yuuki Asuna
 Dialogue: 1,0:11:15.46,0:11:18.92,Signs,,0,0,0,,{\alpha&H33&\fscx99\fscy99\blur1.05\frx353\fs120\fnDroid Sans\b1\c&H30353D&\frz359.8\org(1230,1038)\pos(1141.5,782.95)}Yuuki Asuna
-Dialogue: 0,0:11:17.11,0:11:18.07,Dubtitles,,0,0,0,,Asuna Yuuki.
+Dialogue: 0,0:11:17.11,0:11:18.07,Dubtitles,,0,0,0,,Asuna Yuki.
 Dialogue: 0,0:11:18.91,0:11:21.45,Dubtitles,,0,0,0,,She used her real-life\Nname for her avatar.
 Dialogue: 0,0:11:22.41,0:11:24.47,Dubtitles,,0,0,0,,That's not something a lot of people do.
 Dialogue: 0,0:11:24.55,0:11:26.32,Dubtitles,,0,0,0,,I can't believe you know that.
@@ -4530,6 +4533,8 @@ Dialogue: 0,0:21:56.07,0:21:56.90,Dubtitles,,0,0,0,,Kirito!
 Dialogue: 0,0:21:58.31,0:21:59.14,Dubtitles,,0,0,0,,Wait!
 Dialogue: 0,0:22:00.17,0:22:01.00,Dubtitles,,0,0,0,,Kirito!
 Dialogue: 0,0:22:02.39,0:22:03.22,Dubtitles,,0,0,0,,Kirito!
+Dialogue: 0,0:22:03.30,0:22:04.77,Dubtitles,,0,0,0,,Oh. Oh. Oh.
+Dialogue: 0,0:22:04.85,0:22:06.83,Dubtitles,,0,0,0,,Oh. Oh. Oh.
 Dialogue: 4,0:22:05.42,0:22:05.82,ED-Kanji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(736.5,129,747,105,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}高
 Dialogue: 4,0:22:05.42,0:22:05.82,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(535.5,48,595.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}t
 Dialogue: 4,0:22:05.43,0:22:05.82,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(577.5,63,615,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}a
@@ -4584,6 +4589,7 @@ Dialogue: 4,0:22:06.50,0:22:07.64,ED-Kanji,,0,0,0,,{\shad0\an5\pos(783,105)\be8\
 Dialogue: 4,0:22:06.50,0:22:07.64,ED-Romaji,,0,0,0,,{\shad0\an5\pos(702,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ku
 Dialogue: 3,0:22:06.50,0:22:12.58,ED-Kanji,,0,0,0,,{\an5\pos(747,105)}高
 Dialogue: 3,0:22:06.50,0:22:12.58,ED-Romaji,,0,0,0,,{\an5\pos(652.5,43.5)}ka
+Dialogue: 0,0:22:06.91,0:22:08.11,Dubtitles,,0,0,0,,Oh.
 Dialogue: 5,0:22:07.61,0:22:07.94,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(759,43.5)\t(0,165,\fscx120\fscy200)\t(165,330,\fscx100\fscy100)}ta
 Dialogue: 4,0:22:07.61,0:22:07.97,ED-Romaji,,0,0,0,,{\shad0\an5\pos(759,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ta
 Dialogue: 5,0:22:07.61,0:22:08.25,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(831,105)\t(0,320,\fscx120\fscy200)\t(320,640,\fscx100\fscy100)}高
@@ -5692,6 +5698,7 @@ Dialogue: 4,0:22:59.51,0:23:00.17,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1107,105)\be8
 Dialogue: 4,0:22:59.51,0:23:00.17,ED-Romaji,,0,0,0,,{\shad0\an5\pos(1174.5,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}mo
 Dialogue: 3,0:22:59.51,0:23:02.68,ED-Kanji,,0,0,0,,{\an5\pos(1069.5,105)}り
 Dialogue: 3,0:22:59.51,0:23:02.68,ED-Romaji,,0,0,0,,{\an5\pos(1116,43.5)}ri
+Dialogue: 0,0:22:59.86,0:23:00.89,Dubtitles,,0,0,0,,The end and the start.
 Dialogue: 5,0:23:00.14,0:23:00.34,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1245,43.5)\t(0,100,\fscx120\fscy200)\t(100,200,\fscx100\fscy100)}ha
 Dialogue: 4,0:23:00.14,0:23:00.37,ED-Romaji,,0,0,0,,{\shad0\an5\pos(1245,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ha
 Dialogue: 5,0:23:00.14,0:23:00.83,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1153.5,105)\t(0,345,\fscx120\fscy200)\t(345,690,\fscx100\fscy100)}始
@@ -5719,6 +5726,7 @@ Dialogue: 3,0:23:01.46,0:23:02.68,ED-Kanji,,0,0,0,,{\an5\pos(1227,105)}り
 Dialogue: 3,0:23:01.46,0:23:02.68,ED-Romaji,,0,0,0,,{\an5\pos(1369.5,43.5)}ri
 Dialogue: 5,0:23:01.46,0:23:02.69,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1264.5,105)\t(0,615,\fscx120\fscy200)\t(615,1230,\fscx100\fscy100)}も
 Dialogue: 4,0:23:01.46,0:23:02.72,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1264.5,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}も
+Dialogue: 0,0:23:01.49,0:23:07.63,Dubtitles,,0,0,0,,From high, high, this hand.
 Dialogue: 3,0:23:02.63,0:23:02.68,ED-Romaji,,0,0,0,,{\an5\pos(1428,43.5)}mo
 Dialogue: 2,0:23:02.67,0:23:03.70,ED-Kanji,,0,0,0,,{\an5\fscx21\fscy21\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(1153.5,105,1399.5,67.5)\fad(0,100)\p1\t(0.2,\frx-209\fry-106\frz-354\t(1038,1039,\fscx15\fscy15\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(1072,1172,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1\blur1,))}m 30 0 b 30 15 45 30 60 30 b 45 30 30 45 30 60 b 30 45 15 30 0 30 b 15 30 30 15 30 0
 Dialogue: 2,0:23:02.67,0:23:03.70,ED-Romaji,,0,0,0,,{\an5\fscx29\fscy29\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(579,43.5,790.5,46.5)\fad(0,100)\p1\t(0.2,\frx-165\fry88\frz80\t(1530,1531,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(1564,1664,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1\blur1,))}m 30 0 b 30 15 45 30 60 30 b 45 30 30 45 30 60 b 30 45 15 30 0 30 b 15 30 30 15 30 0
@@ -5885,6 +5893,7 @@ Dialogue: 4,0:23:07.58,0:23:08.03,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1024.5,105)\b
 Dialogue: 4,0:23:07.58,0:23:08.03,ED-Romaji,,0,0,0,,{\shad0\an5\pos(1084.5,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}wo
 Dialogue: 3,0:23:07.58,0:23:09.83,ED-Kanji,,0,0,0,,{\an5\pos(988.5,105)}手
 Dialogue: 3,0:23:07.58,0:23:09.83,ED-Romaji,,0,0,0,,{\an5\pos(1023,43.5)}te
+Dialogue: 0,0:23:07.71,0:23:09.77,Dubtitles,,0,0,0,,Take your hand.
 Dialogue: 5,0:23:08.00,0:23:08.24,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1062,105)\t(0,120,\fscx120\fscy200)\t(120,240,\fscx100\fscy100)}伸
 Dialogue: 5,0:23:08.00,0:23:08.24,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1153.5,43.5)\t(0,120,\fscx120\fscy200)\t(120,240,\fscx100\fscy100)}no
 Dialogue: 4,0:23:08.00,0:23:08.27,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1062,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}伸
@@ -5992,6 +6001,7 @@ Dialogue: 2,0:23:09.82,0:23:11.82,ED-Kanji,,0,0,0,,{\an5\fscx22\fscy22\bord1.5\c
 Dialogue: 2,0:23:09.82,0:23:11.82,ED-Kanji,,0,0,0,,{\an5\fscx20\fscy20\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(951,105,1179,69)\fad(0,100)\p1\t(0.2,\frx-357\fry257\frz93\t(2695,2696,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(2729,2829,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1\blur1,))}m 30 0 b 30 15 45 30 60 30 b 45 30 30 45 30 60 b 30 45 15 30 0 30 b 15 30 30 15 30 0
 Dialogue: 4,0:23:09.82,0:23:12.76,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(829.5,57,853.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}w
 Dialogue: 4,0:23:09.83,0:23:12.76,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(841.5,33,883.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}o
+Dialogue: 0,0:23:09.85,0:23:12.51,Dubtitles,,0,0,0,,The blind light.
 Dialogue: 4,0:23:09.85,0:23:14.04,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(883.5,31.5,928.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}m
 Dialogue: 4,0:23:09.86,0:23:14.04,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1018.5,52.5,960,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}e
 Dialogue: 4,0:23:09.87,0:23:14.30,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(976.5,48,985.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}z
@@ -6042,6 +6052,7 @@ Dialogue: 3,0:23:12.04,0:23:16.89,ED-Romaji,,0,0,0,,{\an5\pos(730.5,43.5)}hi
 Dialogue: 5,0:23:12.41,0:23:12.76,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(810,43.5)\t(0,175,\fscx120\fscy200)\t(175,350,\fscx100\fscy100)}ri
 Dialogue: 4,0:23:12.41,0:23:12.79,ED-Romaji,,0,0,0,,{\shad0\an5\pos(810,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ri
 Dialogue: 3,0:23:12.41,0:23:16.89,ED-Romaji,,0,0,0,,{\an5\pos(772.5,43.5)}ka
+Dialogue: 0,0:23:12.59,0:23:16.95,Dubtitles,,0,0,0,,Wait until it's like a heart.
 Dialogue: 5,0:23:12.76,0:23:14.04,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(867,105)\t(0,640,\fscx120\fscy200)\t(640,1280,\fscx100\fscy100)}を
 Dialogue: 5,0:23:12.76,0:23:14.04,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(865.5,43.5)\t(0,640,\fscx120\fscy200)\t(640,1280,\fscx100\fscy100)}wo
 Dialogue: 4,0:23:12.76,0:23:14.07,ED-Kanji,,0,0,0,,{\shad0\an5\pos(867,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}を
@@ -6196,6 +6207,7 @@ Dialogue: 4,0:23:16.98,0:23:19.91,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H00000
 Dialogue: 4,0:23:17.00,0:23:21.20,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1006.5,45,991.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}j
 Dialogue: 4,0:23:17.01,0:23:21.20,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1012.5,36,1009.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}o
 Dialogue: 4,0:23:17.02,0:23:21.20,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1060.5,31.5,1035,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}u
+Dialogue: 0,0:23:17.03,0:23:17.95,Dubtitles,,0,0,0,,Take your heart.
 Dialogue: 4,0:23:17.03,0:23:21.66,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1027.5,21,1062,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}n
 Dialogue: 4,0:23:17.04,0:23:21.66,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1131,60,1087.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}e
 Dialogue: 4,0:23:17.05,0:23:21.89,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(1126.5,42,1107,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}t
@@ -6218,6 +6230,7 @@ Dialogue: 3,0:23:17.42,0:23:24.20,ED-Romaji,,0,0,0,,{\an5\pos(594,43.5)}ko
 Dialogue: 5,0:23:17.79,0:23:18.11,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(688.5,43.5)\t(0,160,\fscx120\fscy200)\t(160,320,\fscx100\fscy100)}ro
 Dialogue: 4,0:23:17.79,0:23:18.14,ED-Romaji,,0,0,0,,{\shad0\an5\pos(688.5,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ro
 Dialogue: 3,0:23:17.79,0:23:24.20,ED-Romaji,,0,0,0,,{\an5\pos(643.5,43.5)}ko
+Dialogue: 0,0:23:18.03,0:23:19.73,Dubtitles,,0,0,0,,I use the passion for it.
 Dialogue: 5,0:23:18.11,0:23:18.98,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(811.5,105)\t(0,435,\fscx120\fscy200)\t(435,870,\fscx100\fscy100)}に
 Dialogue: 5,0:23:18.11,0:23:18.98,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(739.5,43.5)\t(0,435,\fscx120\fscy200)\t(435,870,\fscx100\fscy100)}ni
 Dialogue: 4,0:23:18.11,0:23:19.01,ED-Kanji,,0,0,0,,{\shad0\an5\pos(811.5,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}に
@@ -6580,5 +6593,5 @@ Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,857,1920
 Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,861,1920,866)\pos(960,870)\c&HC39000&}Grand Quest
 Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,866,1920,870)\pos(960,870)\c&HC18C00&}Grand Quest
 Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\bord0\blur0.75\clip(0,870,1920,875)\pos(960,870)\c&HC18C00&}Grand Quest
-Dialogue: 0,0:23:35.71,0:23:38.21,Dubtitles,,0,0,0,,Next time, the Grand Quest.
+Dialogue: 0,0:23:35.77,0:23:38.21,Dubtitles,,0,0,0,,Next time, the grand quest.
 

@@ -22,11 +22,11 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.63,0:00:19.46,Dubtitles,,0,0,0,,Ximena IX, D.
-Dialogue: 0,0:00:20.19,0:00:21.02,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:00:21.10,0:00:21.93,Dubtitles,,0,0,0,,He's tough...
-Dialogue: 0,0:00:22.02,0:00:26.37,Dubtitles,,0,0,0,,If I can slow him down, then\None second's all I need…
-Dialogue: 0,0:00:26.93,0:00:27.76,Dubtitles,,0,0,0,,Kirito!
+Dialogue: 0,0:00:02.55,0:00:03.38,Dubtitles,,0,0,0,,A
+Dialogue: 0,0:00:19.83,0:00:20.71,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:00:20.79,0:00:21.77,Dubtitles,,0,0,0,,He's tough.
+Dialogue: 0,0:00:21.85,0:00:25.75,Dubtitles,,0,0,0,,If I can slow him down,\None second's all I need!
+Dialogue: 0,0:00:26.75,0:00:27.58,Dubtitles,,0,0,0,,Kirito!
 Dialogue: 0,0:00:38.71,0:00:43.79,Dubtitles,,0,0,0,,If only I had my scope, I get it\Nnow. There are things I shouldn't
 Dialogue: 0,0:00:43.87,0:00:49.63,Dubtitles,,0,0,0,,forget what it means to kill the\Nsignificance of taking life and once i
 Dialogue: 0,0:00:49.71,0:00:54.67,Dubtitles,,0,0,0,,Accept it. Maybe then I'll be able to\Nfind some closure. That's how I see.
@@ -56,27 +56,21 @@ Dialogue: 1,0:02:12.59,0:02:15.38,OP-Rom,,0,0,0,,{\k41\fad(200,200)}Shi{\k23}tta
 Dialogue: 1,0:02:12.59,0:02:15.38,OP-English,,0,0,0,,{\fad(200,200)}The strength that I've discovered
 Dialogue: 1,0:02:15.38,0:02:22.43,OP-Rom,,0,0,0,,{\k56\fad(200,200)}Itsu{\k36}ka {\k16}mi{\k37}ra{\k34}i {\k49}wo {\k31}ya{\k50}sa{\k27}shi{\k54}ku {\k16}tsu{\k19}tsu{\k33}mu {\k37}no {\k18}na{\k192}ra
 Dialogue: 1,0:02:15.38,0:02:22.43,OP-English,,0,0,0,,{\fad(200,200)}Will someday gently envelop the future
-Dialogue: 0,0:02:17.65,0:02:18.48,Dubtitles,,0,0,0,,gentle to see the future I
-Dialogue: 0,0:02:18.56,0:02:20.97,Dubtitles,,0,0,0,,Will be happy to see the world.
-Dialogue: 0,0:02:21.05,0:02:27.75,Dubtitles,,0,0,0,,I will be happy to see the
+Dialogue: 0,0:02:16.55,0:02:18.83,Dubtitles,,0,0,0,,will be Hero of your future,
+Dialogue: 0,0:02:18.91,0:02:21.07,Dubtitles,,0,0,0,,I will be gentle to look after you.
 Dialogue: 1,0:02:22.43,0:02:25.23,OP-Rom,,0,0,0,,{\k20\fad(200,200)}May{\k32}owa{\k23}zu {\k14}ni {\k20}i{\k170}ma
 Dialogue: 1,0:02:22.43,0:02:25.23,OP-English,,0,0,0,,{\fad(200,200)}Without a second thought, right now
 Dialogue: 1,0:02:25.23,0:02:29.19,OP-Rom,,0,0,0,,{\k16\fad(200,200)}Mu{\k36}jun {\k22}da{\k15}ra{\k20}ke {\k79}no {\k76}se{\k70}kai {\k62}wo
 Dialogue: 1,0:02:25.23,0:02:29.19,OP-English,,0,0,0,,{\fad(200,200)}Take aim at this paradox-ridden world
-Dialogue: 0,0:02:27.83,0:02:33.49,Dubtitles,,0,0,0,,world. I will be happy to see
 Dialogue: 1,0:02:29.19,0:02:33.65,OP-Rom,,0,0,0,,{\k79\fad(200,200)}So{\k68}no {\k73}te {\k66}de {\k24}u{\k30}chi {\k42}ha{\k30}na{\k34}te
 Dialogue: 1,0:02:29.19,0:02:33.65,OP-English,,0,0,0,,{\fad(200,200)}And fire with your own two hands
-Dialogue: 0,0:02:33.57,0:02:37.01,Dubtitles,,0,0,0,,The red eyes. I will be happy.
 Dialogue: 1,0:02:33.65,0:02:40.45,OP-Rom,,0,0,0,,{\k19\fad(200,200)}A{\k34}kai {\k37}nami{\k17}da {\k176}de {\k35}oo{\k31}ware{\k21}ta {\k20}ka{\k78}na{\k76}shi{\k70}mi {\k66}wo
 Dialogue: 1,0:02:33.65,0:02:40.45,OP-English,,0,0,0,,{\fad(200,200)}Take this sorrow drenched with red tears
-Dialogue: 0,0:02:37.09,0:02:38.25,Dubtitles,,0,0,0,,to see
-Dialogue: 0,0:02:38.33,0:02:44.57,Dubtitles,,0,0,0,,the tears
 Dialogue: 1,0:02:40.45,0:02:45.79,OP-Rom,,0,0,0,,{\k75\fad(200,200)}So{\k62}tto {\k79}so{\k68}tto {\k24}da{\k29}ki {\k41}shi{\k32}me{\k124}te
 Dialogue: 1,0:02:40.45,0:02:45.79,OP-English,,0,0,0,,{\fad(200,200)}And embrace it tenderly
-Dialogue: 0,0:02:44.65,0:02:46.25,Dubtitles,,0,0,0,,I can't hear
+Dialogue: 0,0:02:44.65,0:02:48.27,Dubtitles,,0,0,0,,I can't hear the sound of the beginning.
 Dialogue: 1,0:02:45.96,0:02:48.46,OP-Rom,,0,0,0,,{\k15\fad(200,200)}Na{\k31}ri {\k23}hi{\k33}bii{\k27}ta {\k45}shou{\k39}dou {\k37}ga
 Dialogue: 1,0:02:45.96,0:02:48.46,OP-English,,0,0,0,,{\fad(200,200)}So that these blasts ringing out
-Dialogue: 0,0:02:46.33,0:02:48.27,Dubtitles,,0,0,0,,the sound of the beginning,
 Dialogue: 0,0:02:48.35,0:02:53.61,Dubtitles,,0,0,0,,But I can't hear the\Nsound of the beginning.
 Dialogue: 1,0:02:48.46,0:02:57.01,OP-Rom,,0,0,0,,{\k47\fad(200,200)}Ha{\k34}ji{\k21}ma{\k33}ri {\k32}no {\k37}o{\k35}to {\k35}ni {\k35}ka{\k18}wa{\k170}ru {\k41}yo{\k34}u {\k283}ni
 Dialogue: 1,0:02:48.46,0:02:57.01,OP-English,,0,0,0,,{\fad(200,200)}Will be transformed into the sounds of a new beginning
@@ -305,10 +299,15 @@ Dialogue: 0,0:11:02.35,0:11:05.17,Dubtitles,,0,0,0,,The player who should have w
 Dialogue: 0,0:11:05.25,0:11:08.60,Dubtitles,,0,0,0,,so his opponent gave him what\Nwe call a souvenir grenade.
 Dialogue: 0,0:11:08.93,0:11:10.37,Dubtitles,,0,0,0,,A souvenir grenade?
 Dialogue: 0,0:11:10.69,0:11:12.27,Dubtitles,,0,0,0,,The heck's that? This.
-Dialogue: 0,0:11:16.29,0:11:17.12,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:11:20.97,0:11:22.27,Dubtitles,,0,0,0,,OK. Adelante! Kishe?
-Dialogue: 0,0:11:32.73,0:11:36.37,Dubtitles,,0,0,0,,ha, ha,
-Dialogue: 0,0:11:36.45,0:11:43.45,Dubtitles,,0,0,0,,ha.
+Dialogue: 0,0:11:16.29,0:11:17.12,Dubtitles,,0,0,0,,AHH!
+Dialogue: 0,0:11:17.75,0:11:18.58,Dubtitles,,0,0,0,,Oh!
+Dialogue: 0,0:11:18.79,0:11:19.62,Dubtitles,,0,0,0,,Mm!
+Dialogue: 0,0:11:22.11,0:11:23.47,Dubtitles,,0,0,0,,A-a...üsht...
+Dialogue: 0,0:11:27.07,0:11:27.90,Dubtitles,,0,0,0,,-a-a
+Dialogue: 0,0:11:27.98,0:11:28.81,Dubtitles,,0,0,0,,-a
+Dialogue: 0,0:11:28.90,0:11:34.07,Dubtitles,,0,0,0,,-a...
+Dialogue: 0,0:11:35.13,0:11:36.17,Dubtitles,,0,0,0,,A-a-a
+Dialogue: 0,0:11:36.25,0:11:42.93,Dubtitles,,0,0,0,,-a-a...
 Dialogue: 1,0:11:39.07,0:11:39.11,Android,,0,0,0,,{\clip(m 826.5 130.5 l 834 130.5 834 205.5 826.5 205.5)\pos(0,0)\an7\blur1.5\bord0\shad0\fscx100\fscy100\p1\c&H4C5AA6&}m 828 165 l 1315.5 136.5 1312.5 154.5 1297.5 174 853.5 199.5 834 181.5
 Dialogue: 1,0:11:39.07,0:11:39.11,Android,,0,0,0,,{\clip(m 834 130.5 l 841.5 130.5 841.5 205.5 834 205.5)\pos(0,0)\an7\blur1.5\bord0\shad0\fscx100\fscy100\p1\c&H4C5AA8&}m 828 165 l 1315.5 136.5 1312.5 154.5 1297.5 174 853.5 199.5 834 181.5
 Dialogue: 1,0:11:39.07,0:11:39.11,Android,,0,0,0,,{\clip(m 841.5 130.5 l 849 130.5 849 205.5 841.5 205.5)\pos(0,0)\an7\blur1.5\bord0\shad0\fscx100\fscy100\p1\c&H4C59AA&}m 828 165 l 1315.5 136.5 1312.5 154.5 1297.5 174 853.5 199.5 834 181.5
@@ -6522,144 +6521,140 @@ Dialogue: 2,0:12:05.09,0:12:05.80,Android,,0,0,0,,{\pos(1158.09,71.51)\blur4.5\s
 Dialogue: 1,0:12:05.09,0:12:05.80,Android,,0,0,0,,{\pos(1158.09,71.51)\blur0.9\shad1.5\fscx133\fscy133\frz357.1\c&HB3B4B6&\4c&H24272C&\yshad-3\fax-0.15\fay-0.01}Pancho
 Dialogue: 2,0:12:05.09,0:12:05.80,Android,,0,0,0,,{\pos(1026,249)\blur4.5\shad1.5\fscx133\fscy133\frz357.1\c&HB3B4B6&\4c&H20222A&\yshad-3\fax-0.15\alpha&H60&\4a&HFF&\fay0\clip(m 130.5 969 l 1702.5 1018.5 1912.5 70.5 319.5 7.5)}Yamikaze
 Dialogue: 1,0:12:05.09,0:12:05.80,Android,,0,0,0,,{\pos(1026,249)\blur0.9\shad1.5\fscx133\fscy133\frz357.1\c&HB3B4B6&\4c&H24272C&\yshad-3\fax-0.15\fay0\clip(m 130.5 969 l 1702.5 1018.5 1912.5 70.5 319.5 7.5)}Yamikaze
-Dialogue: 0,0:12:08.51,0:12:10.97,Dubtitles,,0,0,0,,Death Gun had two victims this time.
-Dialogue: 0,0:12:11.51,0:12:14.57,Dubtitles,,0,0,0,,That means he's got at least\Ntwo others helping him.
+Dialogue: 0,0:12:08.39,0:12:10.89,Dubtitles,,0,0,0,,Death Gun had two victims this time.
+Dialogue: 0,0:12:10.97,0:12:14.33,Dubtitles,,0,0,0,,That means he's got at least\Ntwo others helping him.
 Dialogue: 2,0:12:14.73,0:12:14.98,Android,,0,0,0,,{\an6\blur1.35\frz351\fs330\fry-1\fax0.18\c&H2F2F2F&\alpha&H10&\pos(1783.5,441)}2 Seconds Left
 Dialogue: 2,0:12:14.98,0:12:15.98,Android,,0,0,0,,{\an6\blur1.35\frz351\fs330\fry-1\fax0.18\c&H2F2F2F&\alpha&H10&\pos(1783.5,441)}1 Second{\fscx173.6}\h{\fscx100} Left
 Dialogue: 2,0:12:15.98,0:12:16.94,Android,,0,0,0,,{\an6\blur1.35\frz351\fs330\fry-1\fax0.18\c&H2F2F2F&\alpha&H10&\pos(1783.5,441)}0 Seconds Left
-Dialogue: 0,0:12:35.47,0:12:38.27,Dubtitles,,0,0,0,,I don't know.
-Dialogue: 0,0:13:21.13,0:13:22.17,Dubtitles,,0,0,0,,What am I doing?
-Dialogue: 0,0:13:44.93,0:13:46.79,Dubtitles,,0,0,0,,Asura, you there?
-Dialogue: 0,0:13:47.81,0:13:49.19,Dubtitles,,0,0,0,,It's me, Asura.
-Dialogue: 0,0:13:50.43,0:13:51.26,Dubtitles,,0,0,0,,Shinkawa!
-Dialogue: 0,0:13:52.35,0:13:55.21,Dubtitles,,0,0,0,,I just wanted to\Ncongratulate you on your win.
-Dialogue: 0,0:13:55.63,0:13:57.34,Dubtitles,,0,0,0,,I even brought some pastries.
-Dialogue: 0,0:14:00.37,0:14:01.57,Dubtitles,,0,0,0,,Hey, congrats.
-Dialogue: 0,0:14:01.91,0:14:03.75,Dubtitles,,0,0,0,,You were so awesome, Asada.
-Dialogue: 0,0:14:04.35,0:14:05.85,Dubtitles,,0,0,0,,I mean, Sinon.
-Dialogue: 0,0:14:06.37,0:14:07.41,Dubtitles,,0,0,0,,You did it.
-Dialogue: 0,0:14:07.67,0:14:09.71,Dubtitles,,0,0,0,,You're the best gunner in GGO now.
-Dialogue: 0,0:14:11.13,0:14:13.33,Dubtitles,,0,0,0,,I knew all along you could do it.
-Dialogue: 0,0:14:13.69,0:14:16.46,Dubtitles,,0,0,0,,You deserve being number\None more than anybody.
-Dialogue: 0,0:14:17.03,0:14:19.59,Dubtitles,,0,0,0,,You showed them all what\Nreal strength's about.
-Dialogue: 0,0:14:19.67,0:14:20.85,Dubtitles,,0,0,0,,You should be proud.
-Dialogue: 0,0:14:22.27,0:14:23.10,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:14:25.55,0:14:26.59,Dubtitles,,0,0,0,,Um, Asada?
-Dialogue: 0,0:14:27.29,0:14:28.19,Dubtitles,,0,0,0,,What's up?
-Dialogue: 0,0:14:28.61,0:14:30.87,Dubtitles,,0,0,0,,You said, you said to wait.
-Dialogue: 0,0:14:31.29,0:14:32.25,Dubtitles,,0,0,0,,Remember that?
-Dialogue: 0,0:14:32.71,0:14:34.30,Dubtitles,,0,0,0,,What are you talking about?
-Dialogue: 0,0:14:35.07,0:14:40.11,Dubtitles,,0,0,0,,Well, you told me to wait, and if\NI did, then you'd be mine. Huh?
-Dialogue: 0,0:14:41.25,0:14:42.21,Dubtitles,,0,0,0,,I waited.
-Dialogue: 0,0:14:42.51,0:14:43.79,Dubtitles,,0,0,0,,I waited for you.
-Dialogue: 0,0:14:44.69,0:14:46.09,Dubtitles,,0,0,0,,What's gotten into you?
-Dialogue: 0,0:14:48.57,0:14:51.01,Dubtitles,,0,0,0,,From now on, I'll always be with you.
-Dialogue: 0,0:14:52.27,0:14:54.01,Dubtitles,,0,0,0,,You don't need him to protect you.
-Dialogue: 0,0:14:54.09,0:14:55.19,Dubtitles,,0,0,0,,That's my job.
-Dialogue: 0,0:14:55.51,0:14:57.31,Dubtitles,,0,0,0,,I'm gonna protect you now.
-Dialogue: 0,0:14:58.33,0:14:59.16,Dubtitles,,0,0,0,,Forever.
-Dialogue: 0,0:15:08.61,0:15:09.44,Dubtitles,,0,0,0,,Shinkawa!
-Dialogue: 0,0:15:09.52,0:15:10.69,Dubtitles,,0,0,0,,I love you, Asuna.
-Dialogue: 0,0:15:11.05,0:15:11.97,Dubtitles,,0,0,0,,You're mine.
-Dialogue: 0,0:15:12.39,0:15:13.49,Dubtitles,,0,0,0,,My Asahi.
-Dialogue: 0,0:15:15.39,0:15:17.13,Dubtitles,,0,0,0,,Xenon. Mine.
-Dialogue: 0,0:15:17.67,0:15:19.67,Dubtitles,,0,0,0,,Let go!
-Dialogue: 0,0:15:26.79,0:15:28.73,Dubtitles,,0,0,0,,Why'd you push me away like that?
-Dialogue: 0,0:15:29.25,0:15:30.69,Dubtitles,,0,0,0,,You made a promise.
-Dialogue: 0,0:15:30.99,0:15:32.05,Dubtitles,,0,0,0,,We both did.
-Dialogue: 0,0:15:34.07,0:15:34.90,Dubtitles,,0,0,0,,Shinkawa?
-Dialogue: 0,0:15:53.33,0:15:54.16,Dubtitles,,0,0,0,,Shinkawa?
-Dialogue: 0,0:15:54.24,0:15:55.07,Dubtitles,,0,0,0,,Shinkawa?
-Dialogue: 0,0:15:55.17,0:15:57.27,Dubtitles,,0,0,0,,Don't make any sudden moves, Asada.
-Dialogue: 0,0:15:58.53,0:16:00.51,Dubtitles,,0,0,0,,The syringe I'm holding's got a drug in it
+Dialogue: 0,0:12:35.39,0:12:38.19,Dubtitles,,0,0,0,,I don't know.
+Dialogue: 0,0:12:50.29,0:12:52.63,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:13:20.71,0:13:22.19,Dubtitles,,0,0,0,,What am I doing?
+Dialogue: 0,0:13:45.05,0:13:46.79,Dubtitles,,0,0,0,,Asura, you there?
+Dialogue: 0,0:13:47.95,0:13:49.19,Dubtitles,,0,0,0,,It's me, Asura.
+Dialogue: 0,0:13:50.55,0:13:51.38,Dubtitles,,0,0,0,,Shinkawa!
+Dialogue: 0,0:13:51.81,0:13:55.21,Dubtitles,,0,0,0,,I just wanted to\Ncongratulate you on your win.
+Dialogue: 0,0:13:55.55,0:13:57.29,Dubtitles,,0,0,0,,I even brought some pastries.
+Dialogue: 0,0:14:00.31,0:14:01.59,Dubtitles,,0,0,0,,Hey, congrats.
+Dialogue: 0,0:14:01.87,0:14:03.75,Dubtitles,,0,0,0,,You were so awesome, Asada.
+Dialogue: 0,0:14:04.85,0:14:07.41,Dubtitles,,0,0,0,,I mean, Sinon, you did it.
+Dialogue: 0,0:14:07.63,0:14:09.71,Dubtitles,,0,0,0,,You're the best gunner in GGO now.
+Dialogue: 0,0:14:11.09,0:14:13.33,Dubtitles,,0,0,0,,I knew all along you could do it.
+Dialogue: 0,0:14:14.09,0:14:16.86,Dubtitles,,0,0,0,,You deserve being number\None more than anybody.
+Dialogue: 0,0:14:16.97,0:14:19.74,Dubtitles,,0,0,0,,You showed them all what\Nreal strength's about.
+Dialogue: 0,0:14:19.83,0:14:21.01,Dubtitles,,0,0,0,,You should be proud.
+Dialogue: 0,0:14:21.99,0:14:23.03,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:14:25.93,0:14:26.76,Dubtitles,,0,0,0,,Asada?
+Dialogue: 0,0:14:27.23,0:14:28.19,Dubtitles,,0,0,0,,What? Yes?
+Dialogue: 0,0:14:28.59,0:14:30.87,Dubtitles,,0,0,0,,You said to wait.
+Dialogue: 0,0:14:31.23,0:14:32.27,Dubtitles,,0,0,0,,Remember that?
+Dialogue: 0,0:14:32.65,0:14:34.29,Dubtitles,,0,0,0,,What are you talking about?
+Dialogue: 0,0:14:35.01,0:14:40.11,Dubtitles,,0,0,0,,Well, you told me to wait, and if\NI did, then you'd be mine. Huh?
+Dialogue: 0,0:14:41.19,0:14:42.15,Dubtitles,,0,0,0,,I waited.
+Dialogue: 0,0:14:42.23,0:14:43.81,Dubtitles,,0,0,0,,I waited for you.
+Dialogue: 0,0:14:44.69,0:14:46.07,Dubtitles,,0,0,0,,What's gotten into you?
+Dialogue: 0,0:14:48.57,0:14:50.99,Dubtitles,,0,0,0,,From now on, I'll always be with you.
+Dialogue: 0,0:14:51.83,0:14:53.87,Dubtitles,,0,0,0,,You don't need him to protect you.
+Dialogue: 0,0:14:54.23,0:14:55.21,Dubtitles,,0,0,0,,That's my job.
+Dialogue: 0,0:14:55.79,0:14:57.32,Dubtitles,,0,0,0,,I'm gonna protect you now.
+Dialogue: 0,0:14:58.37,0:14:59.20,Dubtitles,,0,0,0,,Forever.
+Dialogue: 0,0:15:08.63,0:15:09.46,Dubtitles,,0,0,0,,Shinkawa!
+Dialogue: 0,0:15:09.54,0:15:10.69,Dubtitles,,0,0,0,,I love you, Asuna.
+Dialogue: 0,0:15:11.35,0:15:12.67,Dubtitles,,0,0,0,,You're mine.
+Dialogue: 0,0:15:12.91,0:15:14.83,Dubtitles,,0,0,0,,My Asada. My...
+Dialogue: 0,0:15:14.91,0:15:17.13,Dubtitles,,0,0,0,,Xenon. Mine.
+Dialogue: 0,0:15:17.51,0:15:19.67,Dubtitles,,0,0,0,,Let go!
+Dialogue: 0,0:15:26.45,0:15:28.65,Dubtitles,,0,0,0,,Why'd you push me away like that?
+Dialogue: 0,0:15:29.15,0:15:30.69,Dubtitles,,0,0,0,,You made a promise.
+Dialogue: 0,0:15:30.97,0:15:32.03,Dubtitles,,0,0,0,,We both did.
+Dialogue: 0,0:15:33.71,0:15:34.63,Dubtitles,,0,0,0,,Shinkawa?
+Dialogue: 0,0:15:52.85,0:15:53.68,Dubtitles,,0,0,0,,Shing...
+Dialogue: 0,0:15:53.76,0:15:54.59,Dubtitles,,0,0,0,,Shinkawa?
+Dialogue: 0,0:15:55.19,0:15:57.25,Dubtitles,,0,0,0,,Don't make any sudden moves, Asada.
+Dialogue: 0,0:15:58.39,0:16:00.51,Dubtitles,,0,0,0,,The syringe I'm holding's got a drug in it
 Dialogue: 0,0:16:00.59,0:16:03.18,Dubtitles,,0,0,0,,that'll paralyze your\Nmuscles in an instant.
-Dialogue: 0,0:16:03.43,0:16:06.41,Dubtitles,,0,0,0,,Before you know it, your lungs\Nwill stop thin your heart.
-Dialogue: 0,0:16:06.49,0:16:07.32,Dubtitles,,0,0,0,,Syringe?
-Dialogue: 0,0:16:07.87,0:16:10.81,Dubtitles,,0,0,0,,Maybe by injecting some\Nkind of drug or something?
-Dialogue: 0,0:16:11.05,0:16:12.09,Dubtitles,,0,0,0,,That's one way.
-Dialogue: 0,0:16:12.61,0:16:14.79,Dubtitles,,0,0,0,,Yeah, it is the family business.
-Dialogue: 0,0:16:15.17,0:16:18.49,Dubtitles,,0,0,0,,I promised my dad I'd go to med\Nschool, so it's a done deal.
+Dialogue: 0,0:16:03.53,0:16:06.49,Dubtitles,,0,0,0,,Before you know it, your lungs\Nwill stop, then your heart.
+Dialogue: 0,0:16:06.57,0:16:07.40,Dubtitles,,0,0,0,,Syringe?
+Dialogue: 0,0:16:07.81,0:16:10.75,Dubtitles,,0,0,0,,Maybe by injecting some\Nkind of drug or something?
+Dialogue: 0,0:16:11.09,0:16:12.09,Dubtitles,,0,0,0,,That's one way.
+Dialogue: 0,0:16:12.71,0:16:14.77,Dubtitles,,0,0,0,,Yeah, it is the family business.
+Dialogue: 0,0:16:15.21,0:16:18.49,Dubtitles,,0,0,0,,I promised my dad I'd go to med\Nschool, so it's a done deal.
 Dialogue: 0,0:16:18.57,0:16:19.63,Dubtitles,,0,0,0,,Stuck with it now.
-Dialogue: 0,0:16:20.81,0:16:22.17,Dubtitles,,0,0,0,,This is crazy.
-Dialogue: 0,0:16:23.71,0:16:25.33,Dubtitles,,0,0,0,,You're the other Death Gun.
-Dialogue: 0,0:16:27.35,0:16:29.27,Dubtitles,,0,0,0,,Ooh, I'm impressed.
-Dialogue: 0,0:16:29.69,0:16:32.16,Dubtitles,,0,0,0,,You figured out Death Gun's little secret.
-Dialogue: 0,0:16:32.75,0:16:33.65,Dubtitles,,0,0,0,,It's true.
-Dialogue: 0,0:16:33.99,0:16:36.11,Dubtitles,,0,0,0,,I'm Death Gun's partner in crime.
-Dialogue: 0,0:16:39.61,0:16:42.81,Dubtitles,,0,0,0,,Up to now, before this year's B .O .B.
-Dialogue: 0,0:16:42.89,0:16:45.53,Dubtitles,,0,0,0,,anyway, I was the one playing Sterben.
-Dialogue: 0,0:16:46.21,0:16:51.05,Dubtitles,,0,0,0,,But today, I insisted on being\Nthe one to do the job IRL.
-Dialogue: 0,0:16:52.11,0:16:52.95,Dubtitles,,0,0,0,,Don't you see?
-Dialogue: 0,0:16:53.15,0:16:55.03,Dubtitles,,0,0,0,,I had to be the one doing the deed.
-Dialogue: 0,0:16:55.11,0:16:59.37,Dubtitles,,0,0,0,,I can't let some other guy touch\Nyou, even if that guy's my brother.
-Dialogue: 0,0:16:59.89,0:17:00.99,Dubtitles,,0,0,0,,Your brother?
-Dialogue: 0,0:17:02.67,0:17:06.59,Dubtitles,,0,0,0,,So then, the player who belonged\Nto that murder guild and SAO,
-Dialogue: 0,0:17:06.79,0:17:08.99,Dubtitles,,0,0,0,,that was your older brother.
-Dialogue: 0,0:17:09.39,0:17:10.53,Dubtitles,,0,0,0,,Forget about him.
-Dialogue: 0,0:17:10.85,0:17:13.03,Dubtitles,,0,0,0,,It's just you and me now, Asada.
-Dialogue: 0,0:17:16.55,0:17:17.38,Dubtitles,,0,0,0,,Stop!
-Dialogue: 0,0:17:17.55,0:17:18.97,Dubtitles,,0,0,0,,It's not too late.
+Dialogue: 0,0:16:20.77,0:16:22.17,Dubtitles,,0,0,0,,This is crazy.
+Dialogue: 0,0:16:23.65,0:16:25.35,Dubtitles,,0,0,0,,You're the other Death Gun.
+Dialogue: 0,0:16:27.31,0:16:29.11,Dubtitles,,0,0,0,,Ooh, I'm impressed.
+Dialogue: 0,0:16:29.71,0:16:32.18,Dubtitles,,0,0,0,,You figured out Death Gun's little secret.
+Dialogue: 0,0:16:32.71,0:16:33.65,Dubtitles,,0,0,0,,It's true.
+Dialogue: 0,0:16:34.05,0:16:36.07,Dubtitles,,0,0,0,,I'm Death Gun's partner in crime.
+Dialogue: 0,0:16:40.21,0:16:43.33,Dubtitles,,0,0,0,,Up to now, before this year's B .O .B.
+Dialogue: 0,0:16:43.41,0:16:45.70,Dubtitles,,0,0,0,,anyway, I was the one playing Sterben.
+Dialogue: 0,0:16:46.23,0:16:51.07,Dubtitles,,0,0,0,,But today, I insisted on being\Nthe one to do the job IRL.
+Dialogue: 0,0:16:52.11,0:16:52.97,Dubtitles,,0,0,0,,Don't you see?
+Dialogue: 0,0:16:53.11,0:16:55.03,Dubtitles,,0,0,0,,I had to be the one doing the deed.
+Dialogue: 0,0:16:55.11,0:16:59.35,Dubtitles,,0,0,0,,I can't let some other guy touch\Nyou, even if that guy's my brother.
+Dialogue: 0,0:16:59.95,0:17:00.99,Dubtitles,,0,0,0,,Your brother?
+Dialogue: 0,0:17:02.57,0:17:06.59,Dubtitles,,0,0,0,,So then, the player who belonged\Nto that murder guild and SAO?
+Dialogue: 0,0:17:07.05,0:17:08.99,Dubtitles,,0,0,0,,That was your older brother.
+Dialogue: 0,0:17:09.43,0:17:10.53,Dubtitles,,0,0,0,,Forget about him.
+Dialogue: 0,0:17:10.87,0:17:13.03,Dubtitles,,0,0,0,,It's just you and me now, Asada.
+Dialogue: 0,0:17:15.53,0:17:16.36,Dubtitles,,0,0,0,,Stop!
+Dialogue: 0,0:17:16.53,0:17:18.03,Dubtitles,,0,0,0,,It's not too late.
 Dialogue: 0,0:17:19.05,0:17:20.95,Dubtitles,,0,0,0,,You don't have to do this.
 Dialogue: 0,0:17:21.73,0:17:23.63,Dubtitles,,0,0,0,,What about cram school, huh?
-Dialogue: 0,0:17:24.03,0:17:26.32,Dubtitles,,0,0,0,,You said you were going to be a doctor.
-Dialogue: 0,0:17:28.65,0:17:29.48,Dubtitles,,0,0,0,,Doctor?
-Dialogue: 0,0:17:29.56,0:17:31.39,Dubtitles,,0,0,0,,You think I'd give a damn about that?
-Dialogue: 0,0:17:31.47,0:17:34.81,Dubtitles,,0,0,0,,about my parents, those guys in school.
-Dialogue: 0,0:17:35.05,0:17:36.35,Dubtitles,,0,0,0,,They're all assholes.
-Dialogue: 0,0:17:37.67,0:17:39.49,Dubtitles,,0,0,0,,You know what would have made me happy?
-Dialogue: 0,0:17:39.57,0:17:41.57,Dubtitles,,0,0,0,,To be the strongest player in GGO.
-Dialogue: 0,0:17:41.91,0:17:45.97,Dubtitles,,0,0,0,,But that piece of shit Saxe lied\Nabout AGI types being the strongest.
-Dialogue: 0,0:17:46.55,0:17:48.61,Dubtitles,,0,0,0,,And I fell for it like an idiot!
-Dialogue: 0,0:17:49.71,0:17:51.11,Dubtitles,,0,0,0,,You don't know.
-Dialogue: 0,0:17:51.67,0:17:53.43,Dubtitles,,0,0,0,,GGO was everything to me.
-Dialogue: 0,0:17:53.69,0:17:57.61,Dubtitles,,0,0,0,,And I gave everything up in the\Nreal world for it, goddammit!
-Dialogue: 0,0:17:59.55,0:18:01.29,Dubtitles,,0,0,0,,You killed Saxe.
-Dialogue: 0,0:18:01.47,0:18:02.75,Dubtitles,,0,0,0,,Because he lied.
-Dialogue: 0,0:18:03.35,0:18:04.51,Dubtitles,,0,0,0,,Oh, come on.
-Dialogue: 0,0:18:04.75,0:18:06.28,Dubtitles,,0,0,0,,He was the perfect victim.
-Dialogue: 0,0:18:06.43,0:18:09.73,Dubtitles,,0,0,0,,We had to show the world Death\NGun was the strongest in GGO.
-Dialogue: 0,0:18:09.81,0:18:11.37,Dubtitles,,0,0,0,,In all the VR Miss.
-Dialogue: 0,0:18:11.49,0:18:14.26,Dubtitles,,0,0,0,,What better person to\Nsacrifice than that dork?
-Dialogue: 0,0:18:14.87,0:18:18.73,Dubtitles,,0,0,0,,And now that that's done, I\Ndon't need this reality anymore.
-Dialogue: 0,0:18:20.03,0:18:21.89,Dubtitles,,0,0,0,,Let's move on to the next one.
-Dialogue: 0,0:18:22.39,0:18:23.86,Dubtitles,,0,0,0,,Come on, just you and me.
-Dialogue: 0,0:18:24.39,0:18:25.69,Dubtitles,,0,0,0,,What are you saying?
-Dialogue: 0,0:18:26.13,0:18:28.13,Dubtitles,,0,0,0,,We can go somewhere like GGO.
-Dialogue: 0,0:18:29.49,0:18:30.32,Dubtitles,,0,0,0,,No. No.
-Dialogue: 0,0:18:30.40,0:18:32.29,Dubtitles,,0,0,0,,Someplace with a fantasy vibe instead.
-Dialogue: 0,0:18:32.37,0:18:34.66,Dubtitles,,0,0,0,,As long as it's with you, I don't care.
-Dialogue: 0,0:18:34.87,0:18:35.87,Dubtitles,,0,0,0,,We'll be reborn.
-Dialogue: 0,0:18:36.11,0:18:37.25,Dubtitles,,0,0,0,,Be husband and a wife.
-Dialogue: 0,0:18:37.33,0:18:38.16,Dubtitles,,0,0,0,,We'll get a house.
-Dialogue: 0,0:18:38.24,0:18:39.71,Dubtitles,,0,0,0,,We'll go on quests together.
-Dialogue: 0,0:18:39.79,0:18:41.49,Dubtitles,,0,0,0,,Oh, and have kids, too.
-Dialogue: 0,0:18:41.75,0:18:43.07,Dubtitles,,0,0,0,,It'll be so much fun.
-Dialogue: 0,0:18:43.81,0:18:44.95,Dubtitles,,0,0,0,,I know I will.
-Dialogue: 0,0:18:45.21,0:18:46.19,Dubtitles,,0,0,0,,Come with me.
-Dialogue: 0,0:18:48.65,0:18:49.48,Dubtitles,,0,0,0,,Asuna.
-Dialogue: 0,0:18:49.56,0:18:50.49,Dubtitles,,0,0,0,,You're so beautiful.
-Dialogue: 0,0:18:50.95,0:18:53.25,Dubtitles,,0,0,0,,You are more than anything.
-Dialogue: 0,0:18:53.93,0:18:56.51,Dubtitles,,0,0,0,,You're mine and no one else's.
-Dialogue: 0,0:18:57.31,0:18:59.87,Dubtitles,,0,0,0,,I always loved you, Asuna. Always.
-Dialogue: 0,0:19:00.43,0:19:01.26,Dubtitles,,0,0,0,,In school,
-Dialogue: 0,0:19:01.49,0:19:03.09,Dubtitles,,0,0,0,,when I heard about what happened,
-Dialogue: 0,0:19:03.17,0:19:04.85,Dubtitles,,0,0,0,,when I heard what you did,
+Dialogue: 0,0:17:24.03,0:17:26.17,Dubtitles,,0,0,0,,You said you were gonna be a doctor.
+Dialogue: 0,0:17:26.93,0:17:27.76,Dubtitles,,0,0,0,,Doctor?
+Dialogue: 0,0:17:29.25,0:17:31.47,Dubtitles,,0,0,0,,You think I'd give a damn about that?
+Dialogue: 0,0:17:32.01,0:17:33.27,Dubtitles,,0,0,0,,About my parents?
+Dialogue: 0,0:17:33.47,0:17:34.81,Dubtitles,,0,0,0,,Those guys in school?
+Dialogue: 0,0:17:35.03,0:17:36.35,Dubtitles,,0,0,0,,They're all assholes!
+Dialogue: 0,0:17:37.69,0:17:39.47,Dubtitles,,0,0,0,,You know what would have made me happy?
+Dialogue: 0,0:17:39.55,0:17:41.55,Dubtitles,,0,0,0,,To be the strongest player in GGO.
+Dialogue: 0,0:17:41.93,0:17:46.28,Dubtitles,,0,0,0,,But that piece of shit Sugou Seed lied\Nabout AGI-types being the strongest.
+Dialogue: 0,0:17:46.57,0:17:48.61,Dubtitles,,0,0,0,,And I fell for it like an idiot!
+Dialogue: 0,0:17:49.73,0:17:51.09,Dubtitles,,0,0,0,,You don't know.
+Dialogue: 0,0:17:51.69,0:17:53.39,Dubtitles,,0,0,0,,GGO was everything to me.
+Dialogue: 0,0:17:53.71,0:17:57.61,Dubtitles,,0,0,0,,And I gave everything up in the\Nreal world for it, goddammit!
+Dialogue: 0,0:17:59.57,0:18:02.85,Dubtitles,,0,0,0,,You killed Sugou Seed because he lied?
+Dialogue: 0,0:18:03.31,0:18:04.51,Dubtitles,,0,0,0,,Oh, come on.
+Dialogue: 0,0:18:04.73,0:18:06.11,Dubtitles,,0,0,0,,He was the perfect victim.
+Dialogue: 0,0:18:06.19,0:18:11.37,Dubtitles,,0,0,0,,We had to show the world Death Gun was\Nthe strongest in GGO, in all the VR Miss.
+Dialogue: 0,0:18:11.53,0:18:14.30,Dubtitles,,0,0,0,,What better person to\Nsacrifice than that dork?
+Dialogue: 0,0:18:14.87,0:18:18.75,Dubtitles,,0,0,0,,And now that that's done, I\Ndon't need this reality anymore.
+Dialogue: 0,0:18:20.05,0:18:21.89,Dubtitles,,0,0,0,,Let's move on to the next one.
+Dialogue: 0,0:18:22.33,0:18:23.80,Dubtitles,,0,0,0,,Come on, just you and me.
+Dialogue: 0,0:18:24.41,0:18:25.69,Dubtitles,,0,0,0,,What are you saying?
+Dialogue: 0,0:18:26.15,0:18:28.13,Dubtitles,,0,0,0,,We can go somewhere like GGO.
+Dialogue: 0,0:18:29.63,0:18:32.22,Dubtitles,,0,0,0,,No, someplace with the\Nfantasy vibe instead.
+Dialogue: 0,0:18:32.39,0:18:34.68,Dubtitles,,0,0,0,,As long as it's with you, I don't care.
+Dialogue: 0,0:18:38.05,0:18:39.31,Dubtitles,,0,0,0,,We'll be reborn.
+Dialogue: 0,0:18:39.63,0:18:40.69,Dubtitles,,0,0,0,,Be husband and wife.
+Dialogue: 0,0:18:40.77,0:18:41.60,Dubtitles,,0,0,0,,We'll get a house.
+Dialogue: 0,0:18:41.68,0:18:43.01,Dubtitles,,0,0,0,,We'll go on quests together.
+Dialogue: 0,0:18:43.09,0:18:44.91,Dubtitles,,0,0,0,,Oh, and have kids, too.
+Dialogue: 0,0:18:45.17,0:18:46.41,Dubtitles,,0,0,0,,It'll be so much fun.
+Dialogue: 0,0:18:46.49,0:18:47.75,Dubtitles,,0,0,0,,I know I will.
+Dialogue: 0,0:18:48.01,0:18:49.49,Dubtitles,,0,0,0,,Come with me. Asuna.
+Dialogue: 0,0:18:49.57,0:18:51.01,Dubtitles,,0,0,0,,You're so beautiful.
+Dialogue: 0,0:18:51.47,0:18:53.69,Dubtitles,,0,0,0,,You are more than anything.
+Dialogue: 0,0:18:53.77,0:18:56.49,Dubtitles,,0,0,0,,You're mine and no one else's.
+Dialogue: 0,0:18:57.29,0:18:59.87,Dubtitles,,0,0,0,,I always loved you, Asuna. Always.
+Dialogue: 0,0:19:00.45,0:19:03.04,Dubtitles,,0,0,0,,In school, when I heard\Nabout what happened,
+Dialogue: 0,0:19:03.23,0:19:04.85,Dubtitles,,0,0,0,,when I heard what you did,
 Dialogue: 0,0:19:05.09,0:19:09.01,Dubtitles,,0,0,0,,I could look all over and never\Nfind another girl like you.
-Dialogue: 0,0:19:09.35,0:19:13.95,Dubtitles,,0,0,0,,I mean, you shot a real bad guy\Nwith a real gun and killed him.
-Dialogue: 0,0:19:14.29,0:19:15.99,Dubtitles,,0,0,0,,How cool is that?
+Dialogue: 0,0:19:09.35,0:19:13.97,Dubtitles,,0,0,0,,I mean, you shot a real bad guy\Nwith a real gun and killed him.
+Dialogue: 0,0:19:14.25,0:19:15.97,Dubtitles,,0,0,0,,How cool is that?
 Dialogue: 0,0:19:16.45,0:19:17.93,Dubtitles,,0,0,0,,I told you, didn't I?
 Dialogue: 0,0:19:18.25,0:19:20.23,Dubtitles,,0,0,0,,I said you had real power.
-Dialogue: 0,0:19:22.09,0:19:24.01,Dubtitles,,0,0,0,,Then I came up with the Death Gun Legend.
-Dialogue: 0,0:19:24.09,0:19:27.11,Dubtitles,,0,0,0,,And I picked the Type 54\Nas his gun because of you.
+Dialogue: 0,0:19:22.09,0:19:24.05,Dubtitles,,0,0,0,,Then I came up with the Death Gun legend.
+Dialogue: 0,0:19:24.13,0:19:27.13,Dubtitles,,0,0,0,,And I picked the Type 54\Nas his gun because of you.
 Dialogue: 0,0:19:28.31,0:19:30.31,Dubtitles,,0,0,0,,That's how much I love you, Asuna.
 Dialogue: 0,0:19:31.19,0:19:33.01,Dubtitles,,0,0,0,,I love you so much.
 Dialogue: 0,0:19:33.63,0:19:34.93,Dubtitles,,0,0,0,,More than anything.
 Dialogue: 0,0:19:37.47,0:19:38.30,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:19:56.15,0:20:01.03,Dubtitles,,0,0,0,,I don't want to see anything\Nor feel anything anymore.
-Dialogue: 0,0:20:04.45,0:20:05.85,Dubtitles,,0,0,0,,This isn't real.
-Dialogue: 0,0:20:05.93,0:20:07.07,Dubtitles,,0,0,0,,It can't be.
-Dialogue: 0,0:20:10.83,0:20:17.13,Dubtitles,,0,0,0,,Kirito, you went to all that trouble\Nto save me, but it was all for nothing.
-Dialogue: 0,0:20:17.87,0:20:19.11,Dubtitles,,0,0,0,,How about this?
+Dialogue: 0,0:19:56.13,0:20:01.03,Dubtitles,,0,0,0,,I don't want to see anything\Nor feel anything anymore.
+Dialogue: 0,0:20:04.41,0:20:05.83,Dubtitles,,0,0,0,,This isn't real.
+Dialogue: 0,0:20:05.91,0:20:07.07,Dubtitles,,0,0,0,,It can't be.
+Dialogue: 0,0:20:10.79,0:20:17.13,Dubtitles,,0,0,0,,Kirito, you went to all that trouble\Nto save me, but it was all for nothing.
+Dialogue: 0,0:20:18.29,0:20:19.17,Dubtitles,,0,0,0,,How about this?
 Dialogue: 0,0:20:19.39,0:20:21.92,Dubtitles,,0,0,0,,After we log out, I\Ncould head over to you.
 Dialogue: 0,0:20:22.83,0:20:25.81,Dubtitles,,0,0,0,,If he comes over, he'll be in danger.
 Dialogue: 0,0:20:27.85,0:20:30.41,Dubtitles,,0,0,0,,And I can't do anything about it.

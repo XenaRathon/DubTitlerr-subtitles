@@ -28,7 +28,9 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.59,0:00:29.99,Dubtitles,,0,0,0,,SHIGEME
+Dialogue: 0,0:00:17.69,0:00:18.52,Dubtitles,,0,0,0,,His appearance is a\Ncharacteroid of A하고 Sinon.
+Dialogue: 0,0:00:18.60,0:00:19.43,Dubtitles,,0,0,0,,Oh, oh, oh.
+Dialogue: 0,0:00:29.55,0:00:31.90,Dubtitles,,0,0,0,,Well, still, then, you lay down the man.
 Dialogue: 0,0:00:52.83,0:00:56.47,Dubtitles,,0,0,0,,It's been almost two years\Nsince this game of death began.
 Dialogue: 0,0:00:57.43,0:00:59.05,Dubtitles,,0,0,0,,I'm still going it alone.
 Dialogue: 0,0:01:00.01,0:01:01.95,Dubtitles,,0,0,0,,fighting solo on the front lines.
@@ -3036,11 +3038,11 @@ Dialogue: 3,0:03:02.97,0:03:06.97,title,,0,0,0,,{\bord0\blur0.75\clip(0,816,1920
 Dialogue: 3,0:03:02.97,0:03:06.97,title,,0,0,0,,{\bord0\blur0.75\clip(0,819,1920,822)\pos(960,825)\c&HCEA717&}The Sword Dance Of Black And White
 Dialogue: 3,0:03:02.97,0:03:06.97,title,,0,0,0,,{\bord0\blur0.75\clip(0,822,1920,825)\pos(960,825)\c&HCEA616&}The Sword Dance Of Black And White
 Dialogue: 3,0:03:02.97,0:03:06.97,title,,0,0,0,,{\bord0\blur0.75\clip(0,825,1920,828)\pos(960,825)\c&HCEA616&}The Sword Dance Of Black And White
-Dialogue: 0,0:03:21.35,0:03:22.82,Dubtitles,,0,0,0,,You've got to be kidding.
+Dialogue: 0,0:03:21.51,0:03:22.98,Dubtitles,,0,0,0,,You've got to be kidding.
 Dialogue: 1,0:03:40.38,0:03:43.68,Signs,,0,0,0,,{\fad(479,479)\fsp-1.5\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H0C0E0B&\blur3\fs72\alpha&H40\3c&H091E1C&\fscx105}50{\fscx95}th Floor • Algade
 Dialogue: 1,0:03:40.38,0:03:43.68,Signs,,0,0,0,,{\fad(479,479)\fsp-1.5\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H0C0E0B&\blur3\fs72\alpha&H65\fscx105}50{\fscx95}th Floor • Algade
 Dialogue: 2,0:03:40.38,0:03:43.68,Signs,,0,0,0,,{\fad(479,479)\fsp-1.5\fscy85\shad0\pos(960,942)\blur0.45\fs72\c&HF5F5F5&\fscx105}50{\fscx95}th Floor • Algade
-Dialogue: 0,0:03:42.33,0:03:43.53,Dubtitles,,0,0,0,,No way.
+Dialogue: 0,0:03:42.51,0:03:47.63,Dubtitles,,0,0,0,,No way this is an Skills\Nrare item? Holy...
 Dialogue: 1,0:03:44.05,0:03:44.14,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur0.9\frz346.7\clip(m 780 528 l 799.5 517.5 816 510 826.5 496.5 835.5 486 856.5 480 876 478.5 892.5 463.5 910.5 454.5 936 447 958.5 450 975 459 988.5 469.5 997.5 481.5 1003.5 498 1000.5 513 999 523.5 991.5 541.5 987 553.5 973.5 573 960 589.5 951 601.5 939 609 921 619.5 910.5 631.5 880.5 643.5 868.5 652.5 847.5 660 829.5 672 823.5 697.5 940.5 742.5 1260 741 1455 474 1429.5 292.5 1248 193.5 948 177 804 217.5)\pos(790.5,516)}Lizardman Hide
 Dialogue: 1,0:03:44.05,0:03:44.14,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur0.9\frz346.1\pos(766.5,651)\clip(m 780 528 l 799.5 517.5 816 510 826.5 496.5 835.5 486 856.5 480 876 478.5 892.5 463.5 910.5 454.5 936 447 958.5 450 975 459 988.5 469.5 997.5 481.5 1003.5 498 1000.5 513 999 523.5 991.5 541.5 987 553.5 973.5 573 960 589.5 951 601.5 939 609 921 619.5 910.5 631.5 880.5 643.5 868.5 652.5 847.5 660 829.5 672 823.5 697.5 940.5 742.5 1260 741 1455 474 1429.5 292.5 1248 193.5 948 177 804 217.5)}Lizardman Scales
 Dialogue: 1,0:03:44.05,0:03:44.14,Menus,,0,0,0,,{\fax0.03\fs52.5\c&H6C7376&\blur0.9\frz346.7\clip(m 780 528 l 799.5 517.5 816 510 826.5 496.5 835.5 486 856.5 480 876 478.5 892.5 463.5 910.5 454.5 936 447 958.5 450 975 459 988.5 469.5 997.5 481.5 1003.5 498 1000.5 513 999 523.5 991.5 541.5 987 553.5 973.5 573 960 589.5 951 601.5 939 609 921 619.5 910.5 631.5 880.5 643.5 868.5 652.5 847.5 660 829.5 672 823.5 697.5 940.5 742.5 1260 741 1455 474 1429.5 292.5 1248 193.5 948 177 804 217.5)\pos(790.5,513)}Lizardman Hide
@@ -3061,7 +3063,6 @@ Dialogue: 1,0:03:44.30,0:03:44.39,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur
 Dialogue: 1,0:03:44.30,0:03:44.39,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur0.9\frz346.1\pos(766.5,651)\clip(m 786 547.5 l 805.5 537 822 529.5 832.5 516 841.5 505.5 862.5 499.5 882 498 898.5 483 916.5 474 942 466.5 964.5 469.5 981 478.5 994.5 489 1003.5 501 1009.5 520.5 1011 537 1008 549 1000.5 565.5 996 576 982.5 597 964.5 615 951 627 937.5 634.5 927 639 907.5 655.5 885 663 867 672 840 684 817.5 696 829.5 717 946.5 762 1266 760.5 1461 493.5 1435.5 312 1254 213 954 196.5 810 237)}Lizardman Scales
 Dialogue: 1,0:03:44.30,0:03:44.39,Menus,,0,0,0,,{\fax0.03\fs52.5\c&H6C7376&\blur0.9\frz346.7\pos(790.5,513)\clip(m 784.5 547.5 l 804 537 820.5 529.5 831 516 840 505.5 861 499.5 880.5 498 897 483 915 474 940.5 466.5 963 469.5 979.5 478.5 993 489 1002 501 1008 520.5 1009.5 537 1006.5 549 999 565.5 994.5 576 981 597 963 615 949.5 627 936 634.5 925.5 639 904.5 649.5 882 661.5 864 669 844.5 676.5 834 691.5 828 717 945 762 1264.5 760.5 1459.5 493.5 1434 312 1252.5 213 952.5 196.5 808.5 237)}Lizardman Hide
 Dialogue: 1,0:03:44.30,0:03:44.39,Menus,,0,0,0,,{\fax0.03\fs52.5\c&H6C7376&\blur0.9\frz346.1\pos(766.5,648)\clip(m 786 547.5 l 805.5 537 822 529.5 832.5 516 841.5 505.5 862.5 499.5 882 498 898.5 483 916.5 474 942 466.5 964.5 469.5 981 478.5 994.5 489 1003.5 501 1009.5 520.5 1011 537 1008 549 1000.5 565.5 996 576 982.5 597 964.5 615 951 627 937.5 634.5 927 639 907.5 655.5 885 663 867 672 840 684 817.5 696 829.5 717 946.5 762 1266 760.5 1461 493.5 1435.5 312 1254 213 954 196.5 810 237)}Lizardman Scales
-Dialogue: 0,0:03:44.35,0:03:46.41,Dubtitles,,0,0,0,,This is an Skills rare item.
 Dialogue: 1,0:03:44.39,0:03:44.47,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur0.9\frz346.7\pos(790.5,516)\clip(m 784.5 508.5 l 804 498 820.5 490.5 831 477 840 466.5 861 460.5 880.5 459 897 444 915 435 940.5 427.5 963 430.5 979.5 439.5 993 450 1002 462 1008 481.5 1009.5 498 1006.5 510 999 526.5 994.5 537 981 558 963 576 949.5 588 936 595.5 925.5 600 904.5 610.5 882 622.5 864 630 844.5 637.5 834 652.5 828 678 945 723 1264.5 721.5 1459.5 454.5 1434 273 1252.5 174 952.5 157.5 808.5 198)}Lizardman Hide
 Dialogue: 1,0:03:44.39,0:03:44.47,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur0.9\frz346.1\pos(766.5,651)\clip(m 787.5 502.5 l 807 492 823.5 484.5 834 471 843 460.5 864 454.5 883.5 453 900 438 918 429 943.5 421.5 966 424.5 982.5 433.5 996 444 1005 456 1011 475.5 1012.5 492 1009.5 504 1002 520.5 997.5 531 984 552 966 570 952.5 582 939 589.5 928.5 594 909 610.5 886.5 618 868.5 627 849 642 819 657 831 672 948 717 1276.5 784.5 1462.5 448.5 1437 267 1255.5 168 955.5 151.5 811.5 192)}Lizardman Scales
 Dialogue: 1,0:03:44.39,0:03:44.47,Menus,,0,0,0,,{\fax0.03\fs52.5\c&H6C7376&\blur0.9\frz346.7\pos(790.5,513)\clip(m 784.5 508.5 l 804 498 820.5 490.5 831 477 840 466.5 861 460.5 880.5 459 897 444 915 435 940.5 427.5 963 430.5 979.5 439.5 993 450 1002 462 1008 481.5 1009.5 498 1006.5 510 999 526.5 994.5 537 981 558 963 576 949.5 588 936 595.5 925.5 600 904.5 610.5 882 622.5 864 630 844.5 637.5 834 652.5 828 678 945 723 1264.5 721.5 1459.5 454.5 1434 273 1252.5 174 952.5 157.5 808.5 198)}Lizardman Hide
@@ -3198,24 +3199,21 @@ Dialogue: 1,0:03:47.14,0:03:47.22,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur
 Dialogue: 1,0:03:47.14,0:03:47.22,Menus,,0,0,0,,{\fax0.03\fs52.5\c&HE4ECED&\blur0.9\frz346.1\pos(766.5,651)\clip(m 757.5 532.5 l 777 522 793.5 514.5 804 501 813 490.5 834 484.5 853.5 483 870 468 888 459 913.5 451.5 936 454.5 952.5 463.5 966 474 975 486 981 505.5 982.5 522 979.5 534 972 550.5 967.5 561 954 582 936 600 922.5 612 909 619.5 900 625.5 879 640.5 858 651 840 660 811.5 669 789 681 801 702 918 747 1246.5 814.5 1432.5 478.5 1407 297 1225.5 198 925.5 181.5 781.5 222)}Lizardman Scales
 Dialogue: 1,0:03:47.14,0:03:47.22,Menus,,0,0,0,,{\fax0.03\fs52.5\c&H6C7376&\blur0.9\frz346.7\pos(790.5,513)\clip(m 762 528 l 781.5 517.5 798 510 808.5 496.5 817.5 486 838.5 480 858 478.5 874.5 463.5 892.5 454.5 918 447 940.5 450 957 459 970.5 469.5 979.5 481.5 985.5 501 987 517.5 984 529.5 976.5 546 972 556.5 958.5 577.5 940.5 595.5 927 607.5 913.5 615 903 619.5 882 630 859.5 642 841.5 649.5 822 657 811.5 672 805.5 697.5 922.5 742.5 1242 741 1437 474 1411.5 292.5 1230 193.5 930 177 786 217.5)}Lizardman Hide
 Dialogue: 1,0:03:47.14,0:03:47.22,Menus,,0,0,0,,{\fax0.03\fs52.5\c&H6C7376&\blur0.9\frz346.1\pos(766.5,648)\clip(m 757.5 532.5 l 777 522 793.5 514.5 804 501 813 490.5 834 484.5 853.5 483 870 468 888 459 913.5 451.5 936 454.5 952.5 463.5 966 474 975 486 981 505.5 982.5 522 979.5 534 972 550.5 967.5 561 954 582 936 600 922.5 612 909 619.5 900 625.5 879 640.5 858 651 840 660 811.5 669 789 681 801 702 918 747 1246.5 814.5 1432.5 478.5 1407 297 1225.5 198 925.5 181.5 781.5 222)}Lizardman Scales
-Dialogue: 0,0:03:47.29,0:03:50.41,Dubtitles,,0,0,0,,Holy crap, this is the first\Ntime I've ever seen one.
-Dialogue: 0,0:03:51.59,0:03:55.06,Dubtitles,,0,0,0,,Hey, Kirito, don't you already\Nhave all the money you need?
-Dialogue: 0,0:03:55.49,0:03:59.11,Dubtitles,,0,0,0,,I'll buy it, but I'm saying, wouldn't\Nyou rather have it for dinner?
-Dialogue: 0,0:03:59.19,0:04:03.33,Dubtitles,,0,0,0,,Sure, it's just, well, who knows\Nif I'll ever get another one.
-Dialogue: 0,0:04:03.43,0:04:05.27,Dubtitles,,0,0,0,,So keep it. What's the point?
-Dialogue: 0,0:04:05.95,0:04:10.72,Dubtitles,,0,0,0,,Look, to prepare an item like this, you\Nneed to have a high enough cooking skill.
-Dialogue: 0,0:04:10.83,0:04:11.95,Dubtitles,,0,0,0,,Yeah, you're right.
-Dialogue: 0,0:04:12.09,0:04:13.68,Dubtitles,,0,0,0,,If we try, we just burn it.
-Dialogue: 0,0:04:16.25,0:04:17.33,Dubtitles,,0,0,0,,Hmm... Kirito.
+Dialogue: 0,0:03:47.71,0:03:50.42,Dubtitles,,0,0,0,,crap this is the first\Ntime i've ever seen one
+Dialogue: 0,0:03:51.47,0:03:57.41,Dubtitles,,0,0,0,,hey kirito don't you already have all the\Nmoney you need i'll buy it but i'm saying
+Dialogue: 0,0:03:57.49,0:04:02.49,Dubtitles,,0,0,0,,wouldn't you rather have it for dinner\Nsure it's just well who knows if i'll ever
+Dialogue: 0,0:04:02.57,0:04:08.31,Dubtitles,,0,0,0,,get another one so keep it what's the\Npoint look to prepare an item like this you
+Dialogue: 0,0:04:08.39,0:04:14.27,Dubtitles,,0,0,0,,need to have a high enough cooking skill\Nyeah you're right if we try we just burn it
+Dialogue: 0,0:04:15.95,0:04:17.33,Dubtitles,,0,0,0,,Hmm... Kirito.
 Dialogue: 0,0:04:23.51,0:04:24.63,Dubtitles,,0,0,0,,I've got my chef.
-Dialogue: 0,0:04:24.91,0:04:26.07,Dubtitles,,0,0,0,,Uh, what chef?
+Dialogue: 0,0:04:24.93,0:04:26.09,Dubtitles,,0,0,0,,Uh, what chef?
 Dialogue: 0,0:04:29.25,0:04:30.39,Dubtitles,,0,0,0,,Hey, Asuna's here.
-Dialogue: 0,0:04:30.65,0:04:33.42,Dubtitles,,0,0,0,,Seeing you in a dump like\Nthis is beyond weird.
-Dialogue: 0,0:04:33.73,0:04:34.59,Dubtitles,,0,0,0,,Oh, save it.
-Dialogue: 0,0:04:34.73,0:04:36.53,Dubtitles,,0,0,0,,I came to see if you were still alive.
-Dialogue: 0,0:04:36.61,0:04:39.03,Dubtitles,,0,0,0,,You know, it's almost time\Nfor the next boss raid.
-Dialogue: 0,0:04:39.11,0:04:40.41,Dubtitles,,0,0,0,,I'm on your friend list.
-Dialogue: 0,0:04:40.49,0:04:42.41,Dubtitles,,0,0,0,,If you want to know I'm\Nalive, just check that.
+Dialogue: 0,0:04:30.67,0:04:33.44,Dubtitles,,0,0,0,,Seeing you in a dump like\Nthis is beyond weird.
+Dialogue: 0,0:04:33.59,0:04:34.59,Dubtitles,,0,0,0,,Oh, save it.
+Dialogue: 0,0:04:34.73,0:04:36.51,Dubtitles,,0,0,0,,I came to see if you were still alive.
+Dialogue: 0,0:04:36.59,0:04:39.01,Dubtitles,,0,0,0,,You know, it's almost time\Nfor the next boss raid.
+Dialogue: 0,0:04:39.09,0:04:40.37,Dubtitles,,0,0,0,,I'm on your friend list.
+Dialogue: 0,0:04:40.45,0:04:42.41,Dubtitles,,0,0,0,,If you want to know I'm\Nalive, just check that.
 Dialogue: 0,0:04:42.49,0:04:44.61,Dubtitles,,0,0,0,,Whatever, now I know you're alive.
 Dialogue: 0,0:04:45.15,0:04:46.74,Dubtitles,,0,0,0,,Anyway, what are you up to?
 Dialogue: 0,0:04:47.01,0:04:48.71,Dubtitles,,0,0,0,,What's all this about a chef?
@@ -3230,7 +3228,7 @@ Dialogue: 0,0:05:10.39,0:05:13.53,Dubtitles,,0,0,0,,I'll trade you all you have\
 Dialogue: 0,0:05:13.61,0:05:15.73,Dubtitles,,0,0,0,,and I'll let you have a little bite.
 Dialogue: 0,0:05:19.51,0:05:20.34,Dubtitles,,0,0,0,,Yeah.
 Dialogue: 0,0:05:28.05,0:05:29.95,Dubtitles,,0,0,0,,Sorry pal, you heard the lady?
-Dialogue: 0,0:05:30.03,0:05:33.49,Dubtitles,,0,0,0,,Guess I'm keeping it, yeah, but you\Ncould at least let me taste it right?
+Dialogue: 0,0:05:30.03,0:05:33.49,Dubtitles,,0,0,0,,Guess I'm keeping it, yeah, but you\Ncould at least let me taste it, right?
 Dialogue: 0,0:05:33.57,0:05:35.17,Dubtitles,,0,0,0,,I thought we were tight man.
 Dialogue: 0,0:05:35.25,0:05:38.49,Dubtitles,,0,0,0,,I'll write a review for you,\Nbut only two pages promise
 Dialogue: 0,0:05:40.39,0:05:41.99,Dubtitles,,0,0,0,,Damn, that is cold.
@@ -3806,8 +3804,7 @@ Dialogue: 0,0:21:12.21,0:21:13.04,Dubtitles,,0,0,0,,Okay.
 Dialogue: 0,0:21:13.43,0:21:16.31,Dubtitles,,0,0,0,,Have a teleport crystal\Nready, just in case.
 Dialogue: 0,0:21:16.89,0:21:17.72,Dubtitles,,0,0,0,,Right.
 Dialogue: 0,0:21:19.69,0:21:22.03,Dubtitles,,0,0,0,,Okay, are you ready? Mm-hmm.
-Dialogue: 0,0:22:01.65,0:22:03.71,Dubtitles,,0,0,0,,We're here. We're here. I
-Dialogue: 0,0:22:03.79,0:22:10.79,Dubtitles,,0,0,0,,heard
+Dialogue: 0,0:22:01.65,0:22:04.89,Dubtitles,,0,0,0,,I'm going to go. I'm going to go.
 Dialogue: 4,0:22:17.75,0:22:18.09,ED1-Japanese,,0,0,0,,{\pos(616.5,120)\bord6\blur4.5\1a&HFE\fscy10\fad(220,0)\t(0,200,1.2,\fscy100)}遠
 Dialogue: 5,0:22:17.75,0:22:18.09,ED1-Japanese,,0,0,0,,{\pos(616.5,120)\fscy10\fad(220,0)\t(0,200,1.2,\fscy100)}遠
 Dialogue: 4,0:22:17.75,0:22:18.09,ED1-Romaji,,0,0,0,,{\pos(273,112.5)\bord6\blur4.5\1a&HFE\fscy10\fad(220,0)\t(0,200,1.2,\fscy100)}T
@@ -5836,5 +5833,5 @@ Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,857,1920
 Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,861,1920,866)\pos(960,870)\c&HC39000&\k0}The Blue-Eyed Demon
 Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,866,1920,870)\pos(960,870)\c&HC18C00&\k0}The Blue-Eyed Demon
 Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,870,1920,875)\pos(960,870)\c&HC18C00&\k0}The Blue-Eyed Demon
-Dialogue: 0,0:23:35.53,0:23:37.87,Dubtitles,,0,0,0,,Next time, the blue-eyed demon.
+Dialogue: 0,0:23:35.45,0:23:37.87,Dubtitles,,0,0,0,,Next time, the blue-eyed demon
 

@@ -74,7 +74,7 @@ Dialogue: 0,0:02:13.77,0:02:18.42,Dubtitles,,0,0,0,,In the recesses of her soul,
 Dialogue: 0,0:02:18.97,0:02:21.91,Dubtitles,,0,0,0,,And I was obligated to correct her errors.
 Dialogue: 0,0:02:24.77,0:02:28.75,Dubtitles,,0,0,0,,For 70 long years, I\Nwaited for my opportunity.
 Dialogue: 0,0:02:30.57,0:02:33.31,Dubtitles,,0,0,0,,And finally, it had arrived!
-Dialogue: 0,0:02:34.37,0:02:35.20,Dubtitles,,0,0,0,,вод
+Dialogue: 0,0:02:39.55,0:02:46.55,Dubtitles,,0,0,0,,oh
 Dialogue: 5,0:02:47.03,0:02:47.07,Signs,,0,0,0,,{\clip(924,722,927,820)\pos(-257,102)\blur0.8\p1\an7\c&HFBFBFB&\alpha&H00&}m 1250 713 l 1186 713 1186 625 1250 625
 Dialogue: 5,0:02:47.03,0:02:47.07,Signs,,0,0,0,,{\clip(927,722,930,820)\pos(-257,102)\blur0.8\p1\an7\c&HFBF9FB&\alpha&H05&}m 1250 713 l 1186 713 1186 625 1250 625
 Dialogue: 5,0:02:47.03,0:02:47.07,Signs,,0,0,0,,{\clip(930,722,933,820)\pos(-257,102)\blur0.8\p1\an7\c&HFBF6FA&\alpha&H0B&}m 1250 713 l 1186 713 1186 625 1250 625
@@ -3329,6 +3329,7 @@ Dialogue: 1,0:02:49.41,0:02:49.45,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha
 Dialogue: 1,0:02:49.41,0:02:49.45,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\fnFutura\blur1.1\fs110\c&H2A0E2E&\pos(1208.07,796.02)\4c&HD7D7D7&}I
 Dialogue: 1,0:02:49.41,0:02:49.45,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\fnFutura\blur1.1\fs110\c&H2A0E2E&\pos(1304.05,796.02)\4c&HD7D7D7&}O
 Dialogue: 1,0:02:49.41,0:02:49.45,Signs,,0,0,0,,{\fscx99.46\fscy99.46\frz0\alpha&H00&\fnFutura\blur1.1\fs110\c&H2A0E2E&\pos(1424,796.02)\4c&HD7D7D7&}N
+Dialogue: 0,0:02:49.41,0:02:50.24,Dubtitles,,0,0,0,,oh oh
 Dialogue: 2,0:02:49.45,0:02:49.49,Signs,,0,0,0,,{\fscx99.64\fscy99.64\frz0\alpha&H00&\fnFutura\blur1.1\yshad-1.99\fs110\c&HACA861&\pos(487.12,794.47)\4c&HC7C7C7&}A
 Dialogue: 2,0:02:49.45,0:02:49.49,Signs,,0,0,0,,{\fscx99.64\fscy99.64\frz0\alpha&H00&\fnFutura\blur1.1\yshad-1.99\fs110\c&HACA861&\pos(584.47,794.47)\4c&HC7C7C7&}L
 Dialogue: 2,0:02:49.45,0:02:49.49,Signs,,0,0,0,,{\fscx99.64\fscy99.64\frz0\alpha&H00&\fnFutura\blur1.1\yshad-1.99\fs110\c&HACA861&\pos(661.39,794.47)\4c&HC7C7C7&}I
@@ -3470,6 +3471,7 @@ Dialogue: 1,0:02:50.08,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(645,90)\1c&HFFFFFF&\3c&
 Dialogue: 4,0:02:50.22,0:02:50.49,ADAMAS,,0,0,0,fx,{\an5\move(747,100,747,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(20.25,27,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}me
 Dialogue: 1,0:02:50.22,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(665,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1735,1785,0.5,\fsc80\blur2\3c&ffffff&)\t(1785,2135,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}g
 Dialogue: 1,0:02:50.22,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(685,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1755,1805,0.5,\fsc80\blur2\3c&ffffff&)\t(1805,2155,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
+Dialogue: 0,0:02:50.32,0:02:51.15,Dubtitles,,0,0,0,,oh oh...
 Dialogue: 4,0:02:50.49,0:02:50.62,ADAMAS,,0,0,0,fx,{\an5\move(787,80,787,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(9.75,13,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}i
 Dialogue: 1,0:02:50.49,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(733,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1533,1583,0.5,\fsc80\blur2\3c&ffffff&)\t(1583,1933,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}m
 Dialogue: 1,0:02:50.49,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(767,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1567,1617,0.5,\fsc80\blur2\3c&ffffff&)\t(1617,1967,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
@@ -3482,6 +3484,7 @@ Dialogue: 1,0:02:50.83,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(863,90)\1c&HFFFFFF&\3c&
 Dialogue: 4,0:02:51.03,0:02:51.24,ADAMAS,,0,0,0,fx,{\an5\move(998,100,998,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(15.75,21,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}shi
 Dialogue: 1,0:02:51.03,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(915,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1175,1225,0.5,\fsc80\blur2\3c&ffffff&)\t(1225,1575,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}n
 Dialogue: 1,0:02:51.03,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(935,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1195,1245,0.5,\fsc80\blur2\3c&ffffff&)\t(1245,1595,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
+Dialogue: 0,0:02:51.24,0:02:52.07,Dubtitles,,0,0,0,,I can't believe it will be my hands.
 Dialogue: 4,0:02:51.24,0:02:51.39,ADAMAS,,0,0,0,fx,{\an5\move(1051,80,1051,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(11.25,15,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}bi
 Dialogue: 1,0:02:51.24,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(978,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1028,1078,0.5,\fsc80\blur2\3c&ffffff&)\t(1078,1428,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:02:51.24,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(1006,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1056,1106,0.5,\fsc80\blur2\3c&ffffff&)\t(1106,1456,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}h
@@ -3517,6 +3520,7 @@ Dialogue: 1,0:02:52.04,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(1228,90)\1c&HFFFFFF&\3c
 Dialogue: 1,0:02:52.04,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(1256,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(506,556,0.5,\fsc80\blur2\3c&ffffff&)\t(556,906,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}h
 Dialogue: 1,0:02:52.04,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(1275,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(525,575,0.5,\fsc80\blur2\3c&ffffff&)\t(575,925,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
 Dialogue: 1,0:02:52.09,0:02:54.57,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Trapped in the bitterness of the dark \Nby the angry roar of a whirlpool.
+Dialogue: 0,0:02:52.15,0:02:53.17,Dubtitles,,0,0,0,,I'll see the shapes of the darkness.
 Dialogue: 4,0:02:52.29,0:02:52.45,ADAMAS,,0,0,0,fx,{\an5\move(523,80,523,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(12,16,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ku
 Dialogue: 1,0:02:52.29,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(1291,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(291,341,0.5,\fsc80\blur2\3c&ffffff&)\t(341,691,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
 Dialogue: 1,0:02:52.29,0:02:53.61,ADAMAS,,0,0,0,fx,{\pos(1315,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(315,365,0.5,\fsc80\blur2\3c&ffffff&)\t(365,715,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
@@ -3544,6 +3548,7 @@ Dialogue: 1,0:02:53.58,0:02:56.19,ADAMAS,,0,0,0,fx,{\pos(947,90)\1c&HFFFFFF&\3c&
 Dialogue: 1,0:02:53.58,0:02:56.19,ADAMAS,,0,0,0,fx,{\pos(976,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1166,1216,0.5,\fsc80\blur2\3c&ffffff&)\t(1216,1566,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
 Dialogue: 4,0:02:53.80,0:02:53.93,ADAMAS,,0,0,0,fx,{\an5\move(1071,80,1071,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(9.75,13,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}no
 Dialogue: 1,0:02:53.80,0:02:56.19,ADAMAS,,0,0,0,fx,{\pos(1005,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(975,1025,0.5,\fsc80\blur2\3c&ffffff&)\t(1025,1375,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
+Dialogue: 0,0:02:53.87,0:02:56.51,Dubtitles,,0,0,0,,A beginning of the hole was happening.
 Dialogue: 4,0:02:53.93,0:02:54.08,ADAMAS,,0,0,0,fx,{\an5\move(1137,100,1137,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(11.25,15,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}u
 Dialogue: 1,0:02:53.93,0:02:56.19,ADAMAS,,0,0,0,fx,{\pos(1057,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(897,947,0.5,\fsc80\blur2\3c&ffffff&)\t(947,1297,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}n
 Dialogue: 1,0:02:53.93,0:02:56.19,ADAMAS,,0,0,0,fx,{\pos(1085,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(925,975,0.5,\fsc80\blur2\3c&ffffff&)\t(975,1325,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
@@ -3633,6 +3638,7 @@ Dialogue: 1,0:02:59.28,0:03:01.73,ADAMAS,,0,0,0,fx,{\pos(1315,90)\an5\alpha&ff&\
 Dialogue: 1,0:02:59.28,0:03:01.92,ADAMAS,,0,0,0,fx,{\pos(1372,90)\an5\alpha&ff&\t(960,1120,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1120,1200,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1200,1440,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1440,1680,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}bu
 Dialogue: 1,0:02:59.28,0:03:02.10,ADAMAS,,0,0,0,fx,{\pos(1426,90)\an5\alpha&ff&\t(1040,1200,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1200,1280,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1280,1520,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1520,1760,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}re
 Dialogue: 1,0:02:59.58,0:03:02.12,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Even in desperation, \Nwe'll find a way to breakthrough!
+Dialogue: 0,0:02:59.73,0:03:02.47,Dubtitles,,0,0,0,,I'll be in trouble with my heart.
 Dialogue: 4,0:02:59.78,0:03:00.05,ADAMAS,,0,0,0,fx,{\an5\move(501,80,501,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(20.25,27,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}shi
 Dialogue: 4,0:03:00.05,0:03:00.28,ADAMAS,,0,0,0,fx,{\an5\move(583,100,583,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(17.25,23,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}men
 Dialogue: 1,0:03:00.05,0:03:03.77,ADAMAS,,0,0,0,fx,{\pos(482,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1752,1802,0.5,\fsc80\blur2\3c&ffffff&)\t(1802,2152,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
@@ -3694,6 +3700,7 @@ Dialogue: 1,0:03:02.12,0:03:04.69,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&
 Dialogue: 4,0:03:02.32,0:03:02.56,ADAMAS,,0,0,0,fx,{\an5\move(571,80,571,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(18,24,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ki
 Dialogue: 1,0:03:02.32,0:03:03.77,ADAMAS,,0,0,0,fx,{\pos(1412,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(412,462,0.5,\fsc80\blur2\3c&ffffff&)\t(462,812,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}r
 Dialogue: 1,0:03:02.32,0:03:03.77,ADAMAS,,0,0,0,fx,{\pos(1438,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(438,488,0.5,\fsc80\blur2\3c&ffffff&)\t(488,838,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
+Dialogue: 0,0:03:02.55,0:03:04.57,Dubtitles,,0,0,0,,I will be in pain with my friends.
 Dialogue: 4,0:03:02.56,0:03:02.88,ADAMAS,,0,0,0,fx,{\an5\move(620,100,620,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(24,32,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}tai
 Dialogue: 1,0:03:02.56,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(565,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1895,1945,0.5,\fsc80\blur2\3c&ffffff&)\t(1945,2295,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}k
 Dialogue: 1,0:03:02.56,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(584,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1914,1964,0.5,\fsc80\blur2\3c&ffffff&)\t(1964,2314,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
@@ -3748,11 +3755,11 @@ Dialogue: 1,0:03:04.45,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(1228,90)\1c&HFFFFFF&\3c
 Dialogue: 4,0:03:04.55,0:03:04.89,ADAMAS,,0,0,0,fx,{\an5\move(1340,100,1340,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(25.5,34,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}se
 Dialogue: 1,0:03:04.55,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(1263,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(603,653,0.5,\fsc80\blur2\3c&ffffff&)\t(653,1003,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}w
 Dialogue: 1,0:03:04.55,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(1298,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(638,688,0.5,\fsc80\blur2\3c&ffffff&)\t(688,1038,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
+Dialogue: 0,0:03:04.65,0:03:06.91,Dubtitles,,0,0,0,,I will push through it in my heart.
 Dialogue: 1,0:03:04.69,0:03:07.02,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Moving forward while checking
 Dialogue: 4,0:03:04.89,0:03:05.03,ADAMAS,,0,0,0,fx,{\an5\move(536,80,536,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(10.5,14,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ka
 Dialogue: 1,0:03:04.89,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(1326,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(326,376,0.5,\fsc80\blur2\3c&ffffff&)\t(376,726,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:03:04.89,0:03:06.25,ADAMAS,,0,0,0,fx,{\pos(1355,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(355,405,0.5,\fsc80\blur2\3c&ffffff&)\t(405,755,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
-Dialogue: 0,0:03:04.99,0:03:07.03,Dubtitles,,0,0,0,,I'm so sick, and I'll take the sleep.
 Dialogue: 4,0:03:05.03,0:03:05.21,ADAMAS,,0,0,0,fx,{\an5\move(592,100,592,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(13.5,18,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}so
 Dialogue: 1,0:03:05.03,0:03:08.63,ADAMAS,,0,0,0,fx,{\pos(522,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1712,1762,0.5,\fsc80\blur2\3c&ffffff&)\t(1762,2112,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}k
 Dialogue: 1,0:03:05.03,0:03:08.63,ADAMAS,,0,0,0,fx,{\pos(549,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1739,1789,0.5,\fsc80\blur2\3c&ffffff&)\t(1789,2139,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
@@ -3801,8 +3808,8 @@ Dialogue: 1,0:03:06.81,0:03:08.63,ADAMAS,,0,0,0,fx,{\pos(1313,90)\1c&HFFFFFF&\3c
 Dialogue: 4,0:03:06.95,0:03:07.22,ADAMAS,,0,0,0,fx,{\an5\move(1398,100,1398,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(20.25,27,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}u
 Dialogue: 1,0:03:06.95,0:03:08.63,ADAMAS,,0,0,0,fx,{\pos(1341,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(611,661,0.5,\fsc80\blur2\3c&ffffff&)\t(661,1011,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}d
 Dialogue: 1,0:03:06.95,0:03:08.63,ADAMAS,,0,0,0,fx,{\pos(1369,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(639,689,0.5,\fsc80\blur2\3c&ffffff&)\t(689,1039,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
+Dialogue: 0,0:03:06.99,0:03:12.11,Dubtitles,,0,0,0,,I'm ready to go. And get ready to go.
 Dialogue: 1,0:03:07.02,0:03:09.58,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}the beat of the flowing magma.
-Dialogue: 0,0:03:07.11,0:03:12.41,Dubtitles,,0,0,0,,I'm so sick, and I'll get\Nto know how to get started.
 Dialogue: 4,0:03:07.22,0:03:07.58,ADAMAS,,0,0,0,fx,{\an5\move(738,80,738,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(27,36,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ta
 Dialogue: 1,0:03:07.22,0:03:08.63,ADAMAS,,0,0,0,fx,{\pos(1398,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(398,448,0.5,\fsc80\blur2\3c&ffffff&)\t(448,798,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
 Dialogue: 4,0:03:07.58,0:03:07.92,ADAMAS,,0,0,0,fx,{\an5\move(796,100,796,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(25.5,34,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}shi
@@ -3862,7 +3869,7 @@ Dialogue: 4,0:03:11.98,0:03:13.28,ADAMAS,,0,0,0,fx,{\an5\move(664,80,664,90)\bor
 Dialogue: 1,0:03:11.98,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(635,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(5865,5915,0.5,\fsc80\blur2\3c&ffffff&)\t(5915,6265,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
 Dialogue: 1,0:03:13.28,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(650,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(4580,4630,0.5,\fsc80\blur2\3c&ffffff&)\t(4630,4980,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
 Dialogue: 1,0:03:13.28,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(674,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(4604,4654,0.5,\fsc80\blur2\3c&ffffff&)\t(4654,5004,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
-Dialogue: 0,0:03:13.35,0:03:16.87,Dubtitles,,0,0,0,,I'm so sick, and I see\Nmany pieces of death.
+Dialogue: 0,0:03:13.99,0:03:17.99,Dubtitles,,0,0,0,,I'm calling the words to you.
 Dialogue: 4,0:03:14.03,0:03:14.35,ADAMAS,,0,0,0,fx,{\an5\move(746,80,746,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(24,32,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}shi
 Dialogue: 4,0:03:14.35,0:03:14.51,ADAMAS,,0,0,0,fx,{\an5\move(799,100,799,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(12,16,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ni
 Dialogue: 1,0:03:14.35,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(726,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(3586,3636,0.5,\fsc80\blur2\3c&ffffff&)\t(3636,3986,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
@@ -3894,7 +3901,6 @@ Dialogue: 1,0:03:16.58,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(1237,90)\1c&HFFFFFF&\3c
 Dialogue: 4,0:03:16.94,0:03:17.20,ADAMAS,,0,0,0,fx,{\an5\move(1383,80,1383,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(19.5,26,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}su
 Dialogue: 1,0:03:16.94,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(1289,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1559,1609,0.5,\fsc80\blur2\3c&ffffff&)\t(1609,1959,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}g
 Dialogue: 1,0:03:16.94,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(1317,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1587,1637,0.5,\fsc80\blur2\3c&ffffff&)\t(1637,1987,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
-Dialogue: 0,0:03:16.95,0:03:19.13,Dubtitles,,0,0,0,,I'm a person who calls me to say,
 Dialogue: 4,0:03:17.20,0:03:18.21,ADAMAS,,0,0,0,fx,{\an5\move(1438,100,1438,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(75.75,101,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ru
 Dialogue: 1,0:03:17.20,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(1369,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1379,1429,0.5,\fsc80\blur2\3c&ffffff&)\t(1429,1779,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:03:17.20,0:03:19.67,ADAMAS,,0,0,0,fx,{\pos(1397,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1407,1457,0.5,\fsc80\blur2\3c&ffffff&)\t(1457,1807,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
@@ -3912,6 +3918,7 @@ Dialogue: 4,0:03:18.34,0:03:18.62,ADAMAS,,0,0,0,fx,{\an5\move(686,80,686,90)\bor
 Dialogue: 4,0:03:18.62,0:03:18.84,ADAMAS,,0,0,0,fx,{\an5\move(783,100,783,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(16.5,22,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}you
 Dialogue: 1,0:03:18.62,0:03:21.01,ADAMAS,,0,0,0,fx,{\pos(671,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(801,851,0.5,\fsc80\blur2\3c&ffffff&)\t(851,1201,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}D
 Dialogue: 1,0:03:18.62,0:03:21.01,ADAMAS,,0,0,0,fx,{\pos(702,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(832,882,0.5,\fsc80\blur2\3c&ffffff&)\t(882,1232,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
+Dialogue: 0,0:03:18.69,0:03:22.05,Dubtitles,,0,0,0,,I'm ready to go.
 Dialogue: 4,0:03:18.84,0:03:18.96,ADAMAS,,0,0,0,fx,{\an5\move(877,80,877,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(9,12,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}be
 Dialogue: 1,0:03:18.84,0:03:21.01,ADAMAS,,0,0,0,fx,{\pos(754,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(664,714,0.5,\fsc80\blur2\3c&ffffff&)\t(714,1064,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}y
 Dialogue: 1,0:03:18.84,0:03:21.01,ADAMAS,,0,0,0,fx,{\pos(783,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(693,743,0.5,\fsc80\blur2\3c&ffffff&)\t(743,1093,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
@@ -3935,7 +3942,6 @@ Dialogue: 1,0:03:19.25,0:03:21.42,ADAMAS,,0,0,0,fx,{\pos(691,90)\an5\alpha&ff&\t
 Dialogue: 1,0:03:19.25,0:03:21.97,ADAMAS,,0,0,0,fx,{\pos(759,90)\an5\alpha&ff&\t(480,640,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(640,720,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(720,960,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(960,1200,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}tta
 Dialogue: 1,0:03:19.25,0:03:23.29,ADAMAS,,0,0,0,fx,{\pos(836,90)\an5\alpha&ff&\t(640,800,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(800,880,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(880,1120,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1120,1360,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ei
 Dialogue: 1,0:03:19.25,0:03:23.89,ADAMAS,,0,0,0,fx,{\pos(884,90)\an5\alpha&ff&\t(720,880,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(880,960,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(960,1200,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1200,1440,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ko
-Dialogue: 0,0:03:19.25,0:03:24.01,Dubtitles,,0,0,0,,I'm starting to come to a new goal.
 Dialogue: 1,0:03:19.25,0:03:24.23,ADAMAS,,0,0,0,fx,{\pos(926,90)\an5\alpha&ff&\t(800,960,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(960,1040,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1040,1280,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1280,1520,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}u
 Dialogue: 1,0:03:19.25,0:03:24.56,ADAMAS,,0,0,0,fx,{\pos(992,90)\an5\alpha&ff&\t(880,1040,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1040,1120,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1120,1360,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1360,1600,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}no
 Dialogue: 1,0:03:19.25,0:03:24.84,ADAMAS,,0,0,0,fx,{\pos(1087,90)\an5\alpha&ff&\t(960,1120,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1120,1200,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1200,1440,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1440,1680,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}goo
@@ -3978,6 +3984,7 @@ Dialogue: 1,0:03:21.97,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(710,90)\1c&HFFFFFF&\3c&
 Dialogue: 1,0:03:22.96,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(735,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(5475,5525,0.5,\fsc80\blur2\3c&ffffff&)\t(5525,5875,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
 Dialogue: 1,0:03:22.96,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(754,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(5494,5544,0.5,\fsc80\blur2\3c&ffffff&)\t(5544,5894,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
 Dialogue: 1,0:03:22.96,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(778,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(5518,5568,0.5,\fsc80\blur2\3c&ffffff&)\t(5568,5918,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
+Dialogue: 0,0:03:22.99,0:03:25.19,Dubtitles,,0,0,0,,I'm going to see you on the call.
 Dialogue: 4,0:03:23.29,0:03:23.89,ADAMAS,,0,0,0,fx,{\an5\move(836,80,836,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(45,60,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ei
 Dialogue: 4,0:03:23.89,0:03:24.23,ADAMAS,,0,0,0,fx,{\an5\move(884,100,884,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(25.5,34,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ko
 Dialogue: 1,0:03:23.89,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(830,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(4640,4690,0.5,\fsc80\blur2\3c&ffffff&)\t(4690,5040,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
@@ -3997,7 +4004,6 @@ Dialogue: 1,0:03:25.35,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(1115,90)\1c&HFFFFFF&\3c
 Dialogue: 4,0:03:25.52,0:03:25.81,ADAMAS,,0,0,0,fx,{\an5\move(1241,80,1241,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(21.75,29,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}wo
 Dialogue: 1,0:03:25.52,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(1142,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(3322,3372,0.5,\fsc80\blur2\3c&ffffff&)\t(3372,3722,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}r
 Dialogue: 1,0:03:25.52,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(1168,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(3348,3398,0.5,\fsc80\blur2\3c&ffffff&)\t(3398,3748,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
-Dialogue: 0,0:03:25.77,0:03:28.53,Dubtitles,,0,0,0,,I'm a person who is looking for me.
 Dialogue: 4,0:03:25.81,0:03:26.12,ADAMAS,,0,0,0,fx,{\an5\move(1324,100,1324,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(23.25,31,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}mi
 Dialogue: 1,0:03:25.81,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(1226,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(3116,3166,0.5,\fsc80\blur2\3c&ffffff&)\t(3166,3516,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}w
 Dialogue: 1,0:03:25.81,0:03:30.27,ADAMAS,,0,0,0,fx,{\pos(1261,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(3151,3201,0.5,\fsc80\blur2\3c&ffffff&)\t(3201,3551,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
@@ -4020,8 +4026,8 @@ Dialogue: 1,0:03:28.97,0:03:30.54,ADAMAS - Chor,,0,0,0,fx,{\pos(917,90)\an5\alph
 Dialogue: 1,0:03:28.97,0:03:30.81,ADAMAS - Chor,,0,0,0,fx,{\pos(1014,90)\an5\alpha&ff&\t(400,560,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(560,640,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(640,880,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(880,1120,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}my
 Dialogue: 1,0:03:28.97,0:03:31.12,ADAMAS - Chor,,0,0,0,fx,{\pos(1108,90)\an5\alpha&ff&\t(480,640,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(640,720,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(720,960,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(960,1200,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Dia
 Dialogue: 1,0:03:28.97,0:03:31.65,ADAMAS - Chor,,0,0,0,fx,{\pos(1206,90)\an5\alpha&ff&\t(560,720,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(720,800,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(800,1040,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1040,1280,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}mond
+Dialogue: 0,0:03:29.03,0:03:31.65,Dubtitles,,0,0,0,,Chinese of my diamond.
 Dialogue: 1,0:03:29.27,0:03:31.82,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Shiny Sword my Diamond
-Dialogue: 0,0:03:29.55,0:03:31.59,Dubtitles,,0,0,0,,The shining sun is my diamond.
 Dialogue: 14,0:03:29.64,0:03:30.18,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(747,440)\move(687,90,687,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}Shi
 Dialogue: 14,0:03:29.64,0:03:30.18,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(747,440)\move(687,90,687,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}Shi
 Dialogue: 14,0:03:30.18,0:03:30.44,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(811,440)\move(751,90,751,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ny
@@ -4051,7 +4057,6 @@ Dialogue: 14,0:03:31.65,0:03:32.02,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1266,
 Dialogue: 1,0:03:31.65,0:03:33.28,ADAMAS - Chor,,0,0,0,fx,{\pos(1088,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(458,508,0.5,\fsc80\blur2\3c&ffffff&)\t(508,858,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}D
 Dialogue: 1,0:03:31.65,0:03:33.28,ADAMAS - Chor,,0,0,0,fx,{\pos(1110,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(480,530,0.5,\fsc80\blur2\3c&ffffff&)\t(530,880,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
 Dialogue: 1,0:03:31.65,0:03:33.28,ADAMAS - Chor,,0,0,0,fx,{\pos(1130,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(500,550,0.5,\fsc80\blur2\3c&ffffff&)\t(550,900,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
-Dialogue: 0,0:03:31.67,0:03:34.53,Dubtitles,,0,0,0,,Ellery, shi ni to ne\Nneen kek so yo sa jai?
 Dialogue: 1,0:03:31.71,0:03:32.21,ADAMAS - Chor,,0,0,0,fx,{\pos(550,90)\an5\alpha&ff&\t(0,160,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(160,240,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(240,480,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(480,720,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ka
 Dialogue: 1,0:03:31.71,0:03:32.44,ADAMAS - Chor,,0,0,0,fx,{\pos(607,90)\an5\alpha&ff&\t(80,240,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(240,320,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(320,560,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(560,800,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}na
 Dialogue: 1,0:03:31.71,0:03:32.53,ADAMAS - Chor,,0,0,0,fx,{\pos(669,90)\an5\alpha&ff&\t(160,320,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(320,400,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(400,640,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(640,880,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}shi
@@ -4066,6 +4071,7 @@ Dialogue: 1,0:03:31.71,0:03:33.90,ADAMAS - Chor,,0,0,0,fx,{\pos(1204,90)\an5\alp
 Dialogue: 1,0:03:31.71,0:03:34.03,ADAMAS - Chor,,0,0,0,fx,{\pos(1260,90)\an5\alpha&ff&\t(880,1040,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1040,1120,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1120,1360,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1360,1600,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}u
 Dialogue: 1,0:03:31.71,0:03:34.22,ADAMAS - Chor,,0,0,0,fx,{\pos(1304,90)\an5\alpha&ff&\t(960,1120,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1120,1200,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1200,1440,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1440,1680,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}tai
 Dialogue: 1,0:03:31.71,0:03:34.62,ADAMAS - Chor,,0,0,0,fx,{\pos(1377,90)\an5\alpha&ff&\t(1040,1200,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1200,1280,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1280,1520,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1520,1760,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ni
+Dialogue: 0,0:03:31.73,0:03:33.67,Dubtitles,,0,0,0,,I'm a dream of my dream.
 Dialogue: 1,0:03:32.01,0:03:34.78,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Both my desire and sorrow have materialized as crystal.
 Dialogue: 1,0:03:32.02,0:03:33.28,ADAMAS - Chor,,0,0,0,fx,{\pos(1164,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(164,214,0.5,\fsc80\blur2\3c&ffffff&)\t(214,564,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}m
 Dialogue: 1,0:03:32.02,0:03:33.28,ADAMAS - Chor,,0,0,0,fx,{\pos(1198,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(198,248,0.5,\fsc80\blur2\3c&ffffff&)\t(248,598,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
@@ -4132,7 +4138,6 @@ Dialogue: 1,0:03:34.48,0:03:35.84,ADAMAS - Chor,,0,0,0,fx,{\pos(1053,90)\an5\alp
 Dialogue: 1,0:03:34.48,0:03:36.05,ADAMAS - Chor,,0,0,0,fx,{\pos(1143,90)\an5\alpha&ff&\t(560,720,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(720,800,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(800,1040,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1040,1280,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}chi
 Dialogue: 1,0:03:34.48,0:03:36.19,ADAMAS - Chor,,0,0,0,fx,{\pos(1203,90)\an5\alpha&ff&\t(640,800,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(800,880,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(880,1120,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1120,1360,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ka
 Dialogue: 1,0:03:34.48,0:03:36.42,ADAMAS - Chor,,0,0,0,fx,{\pos(1245,90)\an5\alpha&ff&\t(720,880,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(880,960,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(960,1200,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1200,1440,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}u
-Dialogue: 0,0:03:34.61,0:03:36.83,Dubtitles,,0,0,0,,Bokra shikai, se cha!
 Dialogue: 14,0:03:34.62,0:03:34.98,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1437,440)\move(1377,90,1377,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ni
 Dialogue: 14,0:03:34.62,0:03:34.98,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1437,440)\move(1377,90,1377,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ni
 Dialogue: 1,0:03:34.62,0:03:36.37,ADAMAS - Chor,,0,0,0,fx,{\pos(1285,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(645,695,0.5,\fsc80\blur2\3c&ffffff&)\t(695,1045,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
@@ -4199,7 +4204,6 @@ Dialogue: 1,0:03:36.54,0:03:38.03,ADAMAS - Chor,,0,0,0,fx,{\pos(1245,90)\1c&HFFF
 Dialogue: 1,0:03:36.57,0:03:39.95,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}And must find our own individual salvation!
 Dialogue: 14,0:03:36.77,0:03:36.98,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(611,440)\move(551,90,551,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}so
 Dialogue: 14,0:03:36.77,0:03:36.98,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(611,440)\move(551,90,551,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}so
-Dialogue: 0,0:03:36.91,0:03:39.85,Dubtitles,,0,0,0,,Se zari no shikai wo Miss Sheyta ku.
 Dialogue: 14,0:03:36.98,0:03:37.14,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(665,440)\move(605,90,605,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}re
 Dialogue: 14,0:03:36.98,0:03:37.14,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(665,440)\move(605,90,605,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}re
 Dialogue: 1,0:03:36.98,0:03:41.54,ADAMAS - Chor,,0,0,0,fx,{\pos(536,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(2706,2756,0.5,\fsc80\blur2\3c&ffffff&)\t(2756,3106,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
@@ -4256,7 +4260,6 @@ Dialogue: 1,0:03:39.67,0:03:41.54,ADAMAS - Chor,,0,0,0,fx,{\pos(1317,90)\1c&HFFF
 Dialogue: 14,0:03:39.82,0:03:40.15,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1430,440)\move(1370,90,1370,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ku
 Dialogue: 14,0:03:39.82,0:03:40.15,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1430,440)\move(1370,90,1370,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ku
 Dialogue: 1,0:03:39.82,0:03:41.54,ADAMAS - Chor,,0,0,0,fx,{\pos(1336,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(666,716,0.5,\fsc80\blur2\3c&ffffff&)\t(716,1066,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}i
-Dialogue: 0,0:03:39.93,0:03:42.95,Dubtitles,,0,0,0,,Nano date Cait if a te mo.
 Dialogue: 1,0:03:40.05,0:03:40.55,ADAMAS - Chor,,0,0,0,fx,{\pos(714,90)\an5\alpha&ff&\t(0,160,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(160,240,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(240,480,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(480,720,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}nan
 Dialogue: 1,0:03:40.05,0:03:40.85,ADAMAS - Chor,,0,0,0,fx,{\pos(785,90)\an5\alpha&ff&\t(80,240,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(240,320,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(320,560,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(560,800,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}do
 Dialogue: 1,0:03:40.05,0:03:41.07,ADAMAS - Chor,,0,0,0,fx,{\pos(864,90)\an5\alpha&ff&\t(160,320,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(320,400,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(400,640,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(640,880,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}da
@@ -4284,6 +4287,7 @@ Dialogue: 14,0:03:41.33,0:03:41.79,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(986,4
 Dialogue: 14,0:03:41.33,0:03:41.79,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(986,440)\move(926,90,926,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}tte
 Dialogue: 1,0:03:41.33,0:03:44.16,ADAMAS - Chor,,0,0,0,fx,{\pos(850,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1440,1490,0.5,\fsc80\blur2\3c&ffffff&)\t(1490,1840,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}d
 Dialogue: 1,0:03:41.33,0:03:44.16,ADAMAS - Chor,,0,0,0,fx,{\pos(878,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1468,1518,0.5,\fsc80\blur2\3c&ffffff&)\t(1518,1868,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
+Dialogue: 0,0:03:41.59,0:03:44.57,Dubtitles,,0,0,0,,Daddy, dutchi akate, mon\Npa, gyo, Mito, ki-tende.
 Dialogue: 14,0:03:41.79,0:03:42.00,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1068,440)\move(1008,90,1008,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ta
 Dialogue: 14,0:03:41.79,0:03:42.00,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1068,440)\move(1008,90,1008,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ta
 Dialogue: 1,0:03:41.79,0:03:44.16,ADAMAS - Chor,,0,0,0,fx,{\pos(902,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1032,1082,0.5,\fsc80\blur2\3c&ffffff&)\t(1082,1432,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
@@ -4320,7 +4324,6 @@ Dialogue: 14,0:03:42.92,0:03:43.14,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(695,4
 Dialogue: 1,0:03:42.92,0:03:44.16,ADAMAS - Chor,,0,0,0,fx,{\pos(1191,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(191,241,0.5,\fsc80\blur2\3c&ffffff&)\t(241,591,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
 Dialogue: 1,0:03:42.92,0:03:44.16,ADAMAS - Chor,,0,0,0,fx,{\pos(1211,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(211,261,0.5,\fsc80\blur2\3c&ffffff&)\t(261,611,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}t
 Dialogue: 1,0:03:42.92,0:03:44.16,ADAMAS - Chor,,0,0,0,fx,{\pos(1235,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(235,285,0.5,\fsc80\blur2\3c&ffffff&)\t(285,635,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}e
-Dialogue: 0,0:03:43.03,0:03:44.71,Dubtitles,,0,0,0,,Bokokyo ama de ki Dyne.
 Dialogue: 14,0:03:43.14,0:03:43.27,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(751,440)\move(691,90,691,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ku
 Dialogue: 14,0:03:43.14,0:03:43.27,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(751,440)\move(691,90,691,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ku
 Dialogue: 1,0:03:43.14,0:03:46.55,ADAMAS - Chor,,0,0,0,fx,{\pos(620,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1720,1770,0.5,\fsc80\blur2\3c&ffffff&)\t(1770,2120,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}b
@@ -4367,10 +4370,10 @@ Dialogue: 1,0:03:44.74,0:03:46.68,ADAMAS - Chor,,0,0,0,fx,{\pos(1084,90)\an5\alp
 Dialogue: 1,0:03:44.74,0:03:46.84,ADAMAS - Chor,,0,0,0,fx,{\pos(1119,90)\an5\alpha&ff&\t(480,640,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(640,720,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(720,960,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(960,1200,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}no
 Dialogue: 1,0:03:44.74,0:03:47.04,ADAMAS - Chor,,0,0,0,fx,{\pos(1165,90)\an5\alpha&ff&\t(560,720,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(720,800,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(800,1040,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1040,1280,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ri
 Dialogue: 1,0:03:44.74,0:03:47.19,ADAMAS - Chor,,0,0,0,fx,{\pos(1234,90)\an5\alpha&ff&\t(640,800,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(800,880,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(880,1120,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1120,1360,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ga
-Dialogue: 0,0:03:44.79,0:03:47.81,Dubtitles,,0,0,0,,Itsunai me iku no ienoni akak?
 Dialogue: 1,0:03:45.02,0:03:46.55,ADAMAS - Chor,,0,0,0,fx,{\pos(1271,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(491,541,0.5,\fsc80\blur2\3c&ffffff&)\t(541,891,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}d
 Dialogue: 1,0:03:45.02,0:03:46.55,ADAMAS - Chor,,0,0,0,fx,{\pos(1299,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(519,569,0.5,\fsc80\blur2\3c&ffffff&)\t(569,919,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
 Dialogue: 1,0:03:45.04,0:03:47.38,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}It's time! One single prayer will
+Dialogue: 0,0:03:45.09,0:03:49.95,Dubtitles,,0,0,0,,Itsu, time, hei, kyo, no, i-nori-ga,\Nkakumei-no, dutusha, kakakakya-kei!
 Dialogue: 14,0:03:45.24,0:03:45.62,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(756,440)\move(696,90,696,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}It’s
 Dialogue: 14,0:03:45.24,0:03:45.62,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(756,440)\move(696,90,696,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}It’s
 Dialogue: 14,0:03:45.62,0:03:46.03,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(868,440)\move(808,90,808,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}time
@@ -4428,7 +4431,6 @@ Dialogue: 1,0:03:47.58,0:03:48.84,ADAMAS - Chor,,0,0,0,fx,{\pos(1249,90)\1c&HFFF
 Dialogue: 1,0:03:47.59,0:03:56.73,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}confirm our revolution! Let's shine!
 Dialogue: 14,0:03:47.79,0:03:48.00,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(590,440)\move(530,90,530,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ka
 Dialogue: 14,0:03:47.79,0:03:48.00,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(590,440)\move(530,90,530,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ka
-Dialogue: 0,0:03:47.89,0:03:50.07,Dubtitles,,0,0,0,,Kakume no tak shot sa kakakakiake!
 Dialogue: 14,0:03:48.00,0:03:48.12,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(646,440)\move(586,90,586,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ku
 Dialogue: 14,0:03:48.00,0:03:48.12,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(646,440)\move(586,90,586,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ku
 Dialogue: 1,0:03:48.00,0:03:58.34,ADAMAS - Chor,,0,0,0,fx,{\pos(516,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(8446,8496,0.5,\fsc80\blur2\3c&ffffff&)\t(8496,8846,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}k
@@ -4538,50 +4540,44 @@ Dialogue: 3,0:04:04.03,0:04:07.99,Signs,,0,0,0,,{\clip(209,386,1727,389)\pos(960
 Dialogue: 3,0:04:04.03,0:04:07.99,Signs,,0,0,0,,{\clip(209,389,1727,392)\pos(960,328.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8A39EE&}Ruler and Mediator
 Dialogue: 3,0:04:04.03,0:04:07.99,Signs,,0,0,0,,{\clip(209,392,1727,395)\pos(960,328.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8735EE&}Ruler and Mediator
 Dialogue: 3,0:04:04.03,0:04:07.99,Signs,,0,0,0,,{\clip(209,395,1727,398)\pos(960,328.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8531EE&}Ruler and Mediator
-Dialogue: 0,0:04:11.59,0:04:13.01,Dubtitles,,0,0,0,,It worked.
+Dialogue: 0,0:04:11.61,0:04:13.03,Dubtitles,,0,0,0,,It worked.
 Dialogue: 0,0:04:13.33,0:04:15.93,Dubtitles,,0,0,0,,This little girl's Fluctlight is mine now.
-Dialogue: 0,0:04:16.73,0:04:17.93,Dubtitles,,0,0,0,,System call.
-Dialogue: 0,0:04:18.73,0:04:20.69,Dubtitles,,0,0,0,,Generate luminous element.
-Dialogue: 0,0:04:21.15,0:04:22.35,Dubtitles,,0,0,0,,Lightning shape.
-Dialogue: 0,0:04:22.79,0:04:24.77,Dubtitles,,0,0,0,,Discharge! What?
-Dialogue: 0,0:04:26.95,0:04:28.29,Dubtitles,,0,0,0,,System call.
-Dialogue: 0,0:04:30.49,0:04:33.19,Dubtitles,,0,0,0,,Generate luminous element. System call.
-Dialogue: 0,0:04:33.47,0:04:35.33,Dubtitles,,0,0,0,,Generate umbra element.
-Dialogue: 0,0:04:35.57,0:04:37.81,Dubtitles,,0,0,0,,Ball shape. Discharge.
-Dialogue: 0,0:04:41.29,0:04:42.12,Dubtitles,,0,0,0,,System call.
-Dialogue: 0,0:04:42.43,0:04:43.63,Dubtitles,,0,0,0,,Redefine object.
-Dialogue: 0,0:04:45.85,0:04:47.17,Dubtitles,,0,0,0,,Sword class.
-Dialogue: 0,0:04:48.17,0:04:49.29,Dubtitles,,0,0,0,,System call.
-Dialogue: 0,0:04:49.69,0:04:50.95,Dubtitles,,0,0,0,,Redefine object.
-Dialogue: 0,0:04:51.73,0:04:52.73,Dubtitles,,0,0,0,,Rod class.
-Dialogue: 0,0:04:53.23,0:04:57.13,Dubtitles,,0,0,0,,System call. Change. Field. Attribute.
+Dialogue: 0,0:04:16.61,0:04:17.93,Dubtitles,,0,0,0,,System call.
+Dialogue: 0,0:04:18.75,0:04:20.69,Dubtitles,,0,0,0,,Generate luminous element.
+Dialogue: 0,0:04:20.99,0:04:22.35,Dubtitles,,0,0,0,,Lightning shape.
+Dialogue: 0,0:04:22.81,0:04:24.77,Dubtitles,,0,0,0,,Discharge! What?
+Dialogue: 0,0:04:26.97,0:04:28.29,Dubtitles,,0,0,0,,System call.
+Dialogue: 0,0:04:30.59,0:04:32.31,Dubtitles,,0,0,0,,Generate luminous element.
+Dialogue: 0,0:04:32.83,0:04:37.87,Dubtitles,,0,0,0,,System Call! Generate Umbra\NElement, Ball Shape! Discharge!
+Dialogue: 0,0:04:41.11,0:04:47.17,Dubtitles,,0,0,0,,System Call, Redefine Object, Sword Class!
+Dialogue: 0,0:04:49.29,0:04:52.77,Dubtitles,,0,0,0,,System Call, Redefine Object, Rod Class!
+Dialogue: 0,0:04:53.83,0:04:57.17,Dubtitles,,0,0,0,,System Call, Change, Field, Attribute!
 Dialogue: 0,0:05:00.49,0:05:01.32,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:05:01.40,0:05:04.29,Dubtitles,,0,0,0,,She made this area off-limits\Nfor System Commands!
-Dialogue: 0,0:05:19.57,0:05:21.61,Dubtitles,,0,0,0,,I can't defeat her in this body!
-Dialogue: 0,0:05:35.71,0:05:36.77,Dubtitles,,0,0,0,,System Call!
-Dialogue: 0,0:05:37.13,0:05:38.99,Dubtitles,,0,0,0,,Generate Aerial Elements!
-Dialogue: 0,0:05:39.37,0:05:40.25,Dubtitles,,0,0,0,,Stream Shape!
+Dialogue: 0,0:05:01.40,0:05:04.23,Dubtitles,,0,0,0,,She made this area off-limits\Nfor system commands!
+Dialogue: 0,0:05:20.17,0:05:22.05,Dubtitles,,0,0,0,,I can't defeat her in this body!
+Dialogue: 0,0:05:35.71,0:05:36.77,Dubtitles,,0,0,0,,System call!
+Dialogue: 0,0:05:37.13,0:05:40.23,Dubtitles,,0,0,0,,Generate aerial elements! Dream shape!
 Dialogue: 0,0:05:43.21,0:05:48.09,Dubtitles,,0,0,0,,There are only two locations in this world\Nwhich Administrator has no control over.
 Dialogue: 0,0:05:49.03,0:05:51.56,Dubtitles,,0,0,0,,One is the other side\Nof the End Mountains.
-Dialogue: 0,0:05:52.57,0:05:54.01,Dubtitles,,0,0,0,,The other is...
-Dialogue: 0,0:05:57.53,0:05:58.59,Dubtitles,,0,0,0,,System call!
-Dialogue: 0,0:05:59.55,0:06:02.01,Dubtitles,,0,0,0,,Generate Aincrad Gate! Zero-one!
-Dialogue: 0,0:06:04.33,0:06:05.83,Dubtitles,,0,0,0,,The Great Library!
-Dialogue: 0,0:06:08.99,0:06:13.17,Dubtitles,,0,0,0,,In an instant, this space was\Ncompletely isolated from the outside.
-Dialogue: 0,0:06:14.47,0:06:18.85,Dubtitles,,0,0,0,,For the past 200 years, I've\Nbeen watching and plotting.
-Dialogue: 0,0:06:19.41,0:06:24.37,Dubtitles,,0,0,0,,I waited for the perfect moment, when I\Ncould catch her off guard, then ambush her.
-Dialogue: 0,0:06:25.43,0:06:28.83,Dubtitles,,0,0,0,,She knew what I was up to\Nand was constantly on guard,
-Dialogue: 0,0:06:29.07,0:06:32.59,Dubtitles,,0,0,0,,so she created powerful and\Nloyal servants for protection.
-Dialogue: 0,0:06:33.87,0:06:36.07,Dubtitles,,0,0,0,,Through the Synthesis Ritual,
-Dialogue: 0,0:06:36.33,0:06:41.57,Dubtitles,,0,0,0,,this man will be reborn as a\Nwarrior devoted only to me,
-Dialogue: 0,0:06:42.29,0:06:44.23,Dubtitles,,0,0,0,,my Integrity Knight.
-Dialogue: 0,0:06:45.69,0:06:49.13,Dubtitles,,0,0,0,,The first one she turned into\Nan Integrity Knight was an
-Dialogue: 0,0:06:49.21,0:06:52.53,Dubtitles,,0,0,0,,exceptional swordsman who\Nhated the rule of the Church.
+Dialogue: 0,0:05:52.57,0:05:53.97,Dubtitles,,0,0,0,,The other is...
+Dialogue: 0,0:05:58.31,0:05:59.39,Dubtitles,,0,0,0,,System call!
+Dialogue: 0,0:05:59.47,0:06:01.75,Dubtitles,,0,0,0,,Generate Blizzard Gate 01!
+Dialogue: 0,0:06:04.25,0:06:05.83,Dubtitles,,0,0,0,,The Great Library!
+Dialogue: 0,0:06:08.89,0:06:13.15,Dubtitles,,0,0,0,,In an instant, this space was\Ncompletely isolated from the outside.
+Dialogue: 0,0:06:14.39,0:06:18.85,Dubtitles,,0,0,0,,For the past 200 years, I've\Nbeen watching and plotting.
+Dialogue: 0,0:06:19.23,0:06:24.35,Dubtitles,,0,0,0,,I waited for the perfect moment when I\Ncould catch her off guard, then ambush her.
+Dialogue: 0,0:06:25.37,0:06:28.83,Dubtitles,,0,0,0,,She knew what I was up to\Nand was constantly on guard,
+Dialogue: 0,0:06:29.03,0:06:32.59,Dubtitles,,0,0,0,,so she created powerful and\Nloyal servants for protection.
+Dialogue: 0,0:06:33.83,0:06:36.07,Dubtitles,,0,0,0,,Through the Synthesis Ritual,
+Dialogue: 0,0:06:36.31,0:06:41.57,Dubtitles,,0,0,0,,this man will be reborn as a\Nwarrior devoted only to me,
+Dialogue: 0,0:06:41.73,0:06:44.23,Dubtitles,,0,0,0,,my Integrity Knight.
+Dialogue: 0,0:06:45.65,0:06:49.13,Dubtitles,,0,0,0,,The first one she turned into\Nan Integrity Knight was an
+Dialogue: 0,0:06:49.21,0:06:52.55,Dubtitles,,0,0,0,,exceptional swordsman who\Nhated the rule of the Church.
 Dialogue: 0,0:06:53.33,0:06:54.85,Dubtitles,,0,0,0,,Seeking refuge from it,
 Dialogue: 0,0:06:55.23,0:06:58.82,Dubtitles,,0,0,0,,he and his companions founded\Na village in the outer regions.
-Dialogue: 0,0:06:59.07,0:07:03.23,Dubtitles,,0,0,0,,The name of this knight\Nwas Bercouli Synthesis 1.
+Dialogue: 0,0:06:59.21,0:07:03.23,Dubtitles,,0,0,0,,The name of this knight\Nwas Bercouli Synthesis 1.
 Dialogue: 0,0:07:05.55,0:07:09.09,Dubtitles,,0,0,0,,One-on-one, Administrator\Nand I are equally matched.
-Dialogue: 0,0:07:09.35,0:07:10.35,Dubtitles,,0,0,0,,At least we were.
+Dialogue: 0,0:07:09.33,0:07:10.33,Dubtitles,,0,0,0,,At least we were.
 Dialogue: 0,0:07:10.89,0:07:12.89,Dubtitles,,0,0,0,,Her knights are fast and powerful.
 Dialogue: 0,0:07:13.29,0:07:16.29,Dubtitles,,0,0,0,,They made the prospect of\Nambushing her impossible.
 Dialogue: 0,0:07:16.95,0:07:20.71,Dubtitles,,0,0,0,,So, at the risk of being spotted,\NI sought out my own allies.

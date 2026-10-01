@@ -798,7 +798,6 @@ Dialogue: 0,0:45:22.11,0:45:24.63,Dubtitles,,0,0,0,,You sure about that, Kirito?
 Dialogue: 0,0:45:25.83,0:45:26.81,Dubtitles,,0,0,0,,Death gun!
 Dialogue: 0,0:45:34.93,0:45:36.29,Dubtitles,,0,0,0,,Run! Get out of here!
 Dialogue: 0,0:46:02.61,0:46:03.44,Dubtitles,,0,0,0,,Kirito!
-Dialogue: 0,0:46:05.21,0:46:06.17,Dubtitles,,0,0,0,,Kirito!
 Dialogue: 5,0:46:18.10,0:46:18.14,Signs,,0,0,0,,{\clip(924,722,927,820)\pos(-257,102)\blur0.8\p1\an7\c&HFBFBFB&\alpha&H00&}m 1250 713 l 1186 713 1186 625 1250 625
 Dialogue: 5,0:46:18.10,0:46:18.14,Signs,,0,0,0,,{\clip(927,722,930,820)\pos(-257,102)\blur0.8\p1\an7\c&HFBF9FB&\alpha&H05&}m 1250 713 l 1186 713 1186 625 1250 625
 Dialogue: 5,0:46:18.10,0:46:18.14,Signs,,0,0,0,,{\clip(930,722,933,820)\pos(-257,102)\blur0.8\p1\an7\c&HFBF6FA&\alpha&H0B&}m 1250 713 l 1186 713 1186 625 1250 625
@@ -3116,6 +3115,7 @@ Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha
 Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha&H00&\fnFutura\blur1.08\fs110\c&H2A0E2E&\pos(1198.48,786.66)\4c&HD7D7D7&}I
 Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha&H00&\fnFutura\blur1.08\fs110\c&H2A0E2E&\pos(1290.78,786.66)\4c&HD7D7D7&}O
 Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha&H00&\fnFutura\blur1.08\fs110\c&H2A0E2E&\pos(1406.12,786.66)\4c&HD7D7D7&}N
+Dialogue: 0,0:46:19.63,0:46:21.31,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 2,0:46:19.65,0:46:19.69,Signs,,0,0,0,,{\fscx95.82\fscy95.82\frz0\alpha&H00&\fnFutura\blur1.08\yshad-1.92\fs110\c&HACA861&\pos(505.17,785.19)\4c&HC7C7C7&}A
 Dialogue: 2,0:46:19.65,0:46:19.69,Signs,,0,0,0,,{\fscx95.82\fscy95.82\frz0\alpha&H00&\fnFutura\blur1.08\yshad-1.92\fs110\c&HACA861&\pos(598.79,785.19)\4c&HC7C7C7&}L
 Dialogue: 2,0:46:19.65,0:46:19.69,Signs,,0,0,0,,{\fscx95.82\fscy95.82\frz0\alpha&H00&\fnFutura\blur1.08\yshad-1.92\fs110\c&HACA861&\pos(672.76,785.19)\4c&HC7C7C7&}I
@@ -4300,7 +4300,6 @@ Dialogue: 1,0:46:25.82,0:46:27.24,ADAMAS,,0,0,0,fx,{\pos(1383,90)\1c&HFFFFFF&\3c
 Dialogue: 1,0:46:25.82,0:46:27.24,ADAMAS,,0,0,0,fx,{\pos(1411,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(411,461,0.5,\fsc80\blur2\3c&ffffff&)\t(461,811,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
 Dialogue: 1,0:46:25.82,0:46:28.21,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}A feeling of loneliness always marked \Nthe beginning of a new encounter.
 Dialogue: 4,0:46:26.02,0:46:26.19,ADAMAS,,0,0,0,fx,{\an5\move(551,80,551,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(12.75,17,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ha
-Dialogue: 0,0:46:26.15,0:46:26.98,Dubtitles,,0,0,0,,beginning
 Dialogue: 4,0:46:26.19,0:46:26.30,ADAMAS,,0,0,0,fx,{\an5\move(591,100,591,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(8.25,11,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}ji
 Dialogue: 1,0:46:26.19,0:46:29.80,ADAMAS,,0,0,0,fx,{\pos(537,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1757,1807,0.5,\fsc80\blur2\3c&ffffff&)\t(1807,2157,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}h
 Dialogue: 1,0:46:26.19,0:46:29.80,ADAMAS,,0,0,0,fx,{\pos(565,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(1785,1835,0.5,\fsc80\blur2\3c&ffffff&)\t(1835,2185,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a

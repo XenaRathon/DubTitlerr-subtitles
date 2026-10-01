@@ -51,7 +51,7 @@ Dialogue: 0,0:01:10.81,0:01:12.58,Dubtitles,,0,0,0,,You and the second in comman
 Dialogue: 0,0:01:12.67,0:01:15.21,Dubtitles,,0,0,0,,You're always getting into\Nit, and not in the good way.
 Dialogue: 0,0:01:15.29,0:01:17.53,Dubtitles,,0,0,0,,I guess we just don't click, eh, Giel?
 Dialogue: 0,0:01:18.07,0:01:20.48,Dubtitles,,0,0,0,,You can become powerful here on your own,
-Dialogue: 0,0:01:20.65,0:01:24.33,Dubtitles,,0,0,0,,but if the day comes when someone you\Ntrust invites you to join a guild?
+Dialogue: 0,0:01:20.65,0:01:24.33,Dubtitles,,0,0,0,,but if the day comes when someone you\Ntrust invites you to join a guild,
 Dialogue: 0,0:01:24.41,0:01:25.53,Dubtitles,,0,0,0,,don't turn it down.
 Dialogue: 0,0:01:25.89,0:01:27.33,Dubtitles,,0,0,0,,Well, she took my advice,
 Dialogue: 0,0:01:27.41,0:01:31.47,Dubtitles,,0,0,0,,But who knew she'd join the top\Nguild and be a floor-clearing badass?
@@ -3095,15 +3095,22 @@ Dialogue: 0,0:06:01.09,0:06:02.79,Dubtitles,,0,0,0,,Then we'll be even. Deal?
 Dialogue: 1,0:06:05.57,0:06:08.53,Signs,,0,0,0,,{\fad(525,0)\fsp-1.5\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H132A3F&\blur3\fs72\alpha&H40\3c&H091E1C&\fscx105}57{\fscx95}th Floor • Marten
 Dialogue: 1,0:06:05.57,0:06:08.53,Signs,,0,0,0,,{\fad(525,0)\fsp-1.5\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H0B1A28&\blur3\fs72\alpha&H55\fscx105}57{\fscx95}th Floor • Marten
 Dialogue: 2,0:06:05.57,0:06:08.53,Signs,,0,0,0,,{\fad(525,0)\fsp-1.5\fscy85\shad0\pos(960,942)\blur0.45\fs72\c&HF5F5F5&\fscx105}57{\fscx95}th Floor • Marten
-Dialogue: 0,0:06:15.05,0:06:18.99,Dubtitles,,0,0,0,,that's asuna from the knights of the\Nblood oath really yeah they call her
-Dialogue: 0,0:06:19.07,0:06:24.63,Dubtitles,,0,0,0,,the lightning flash who's the shady\Nlooking guy dressed in black well anyway
-Dialogue: 0,0:06:24.71,0:06:29.77,Dubtitles,,0,0,0,,thank you for today why for keeping
-Dialogue: 0,0:06:29.85,0:06:33.53,Dubtitles,,0,0,0,,An eye on me, oh sure.\NThe towns are safe areas.
-Dialogue: 0,0:06:33.61,0:06:38.03,Dubtitles,,0,0,0,,supposed to be safe zones and unless\Nyou've agreed to a duel a player can't
-Dialogue: 0,0:06:38.11,0:06:43.91,Dubtitles,,0,0,0,,attack or kill you but when you're\Nasleep you're vulnerable yeah now
-Dialogue: 0,0:06:43.99,0:06:47.97,Dubtitles,,0,0,0,,we've got player killers who can cheat\Nthe duel system duels are normally
-Dialogue: 0,0:06:48.05,0:06:52.19,Dubtitles,,0,0,0,,supposed to be tests of strength not\Na fight to the death but even if you
-Dialogue: 0,0:06:52.27,0:06:56.80,Dubtitles,,0,0,0,,duel in a safe zone your hp is still\Ngoing to go down based on the damage you
+Dialogue: 0,0:06:15.05,0:06:17.33,Dubtitles,,0,0,0,,That's Asuna from the\NKnights of Blood Oath.
+Dialogue: 0,0:06:17.41,0:06:18.39,Dubtitles,,0,0,0,,Really? Yeah.
+Dialogue: 0,0:06:18.47,0:06:19.87,Dubtitles,,0,0,0,,They call her the Lightning Flash.
+Dialogue: 0,0:06:19.95,0:06:21.89,Dubtitles,,0,0,0,,Who's the dark-looking\Nguy dressed in black?
+Dialogue: 0,0:06:21.97,0:06:24.63,Dubtitles,,0,0,0,,Well anyway.
+Dialogue: 0,0:06:24.71,0:06:27.75,Dubtitles,,0,0,0,,Thank you for today.
+Dialogue: 0,0:06:27.83,0:06:30.53,Dubtitles,,0,0,0,,Why for keeping an eye on me?
+Dialogue: 0,0:06:30.61,0:06:31.99,Dubtitles,,0,0,0,,Oh, sure.
+Dialogue: 0,0:06:32.07,0:06:34.89,Dubtitles,,0,0,0,,The towns are supposed to be safe zones.
+Dialogue: 0,0:06:34.97,0:06:39.09,Dubtitles,,0,0,0,,And unless you've agreed to a duel,\Na player can't attack or kill you.
+Dialogue: 0,0:06:39.17,0:06:41.83,Dubtitles,,0,0,0,,But when you're asleep, you're vulnerable.
+Dialogue: 0,0:06:41.91,0:06:43.03,Dubtitles,,0,0,0,,Yeah.
+Dialogue: 0,0:06:43.11,0:06:46.55,Dubtitles,,0,0,0,,Now we've got player killers\Nwho can cheat the duel system.
+Dialogue: 0,0:06:46.63,0:06:50.75,Dubtitles,,0,0,0,,Duels are normally supposed to be tests\Nof strength, not a fight to the death.
+Dialogue: 0,0:06:50.83,0:06:53.29,Dubtitles,,0,0,0,,But even if you duel in a safe zone,
+Dialogue: 0,0:06:53.37,0:06:56.78,Dubtitles,,0,0,0,,your HP is still going to go\Ndown based on the damage you.
 Dialogue: 0,0:06:57.35,0:06:58.18,Dubtitles,,0,0,0,,take.
 Dialogue: 0,0:06:58.26,0:07:00.37,Dubtitles,,0,0,0,,All a sleepy care has\Nto do is manipulate a
 Dialogue: 0,0:07:00.45,0:07:02.87,Dubtitles,,0,0,0,,sleeping player's finger\Nto click the OK button.
@@ -3136,12 +3143,11 @@ Dialogue: 0,0:09:08.23,0:09:09.29,Dubtitles,,0,0,0,,Or maybe not.
 Dialogue: 0,0:09:10.07,0:09:12.63,Dubtitles,,0,0,0,,Either way, we can't ignore this. I know.
 Dialogue: 0,0:09:12.97,0:09:16.35,Dubtitles,,0,0,0,,As it is, a player takes huge\Nrisks going outside a safe zone.
 Dialogue: 0,0:09:16.43,0:09:18.90,Dubtitles,,0,0,0,,But if someone's found a way to PK inside,
-Dialogue: 0,0:09:19.19,0:09:22.35,Dubtitles,,0,0,0,,No one's going to be safe\Nin the towns either, yeah?
-Dialogue: 0,0:09:22.43,0:09:24.57,Dubtitles,,0,0,0,,You're right, I guess we.
-Dialogue: 0,0:09:24.65,0:09:26.69,Dubtitles,,0,0,0,,Won't be going back to the\Nfront lines anytime soon.
-Dialogue: 0,0:09:26.77,0:09:33.53,Dubtitles,,0,0,0,,Listen, you're going to work with\Nme until we solve this thing.
-Dialogue: 0,0:09:33.61,0:09:36.61,Dubtitles,,0,0,0,,Until we do, there won't\Nbe any time for napping.
-Dialogue: 0,0:09:36.69,0:09:39.69,Dubtitles,,0,0,0,,Okay, okay, but you're\Nthe one who is napping!
+Dialogue: 0,0:09:19.19,0:09:24.41,Dubtitles,,0,0,0,,No one's going to be safe in the towns\Neither. Yeah, you're right. I guess.
+Dialogue: 0,0:09:24.49,0:09:25.67,Dubtitles,,0,0,0,,we won't be going back to the front
+Dialogue: 0,0:09:25.75,0:09:31.65,Dubtitles,,0,0,0,,lines anytime soon listen you're
+Dialogue: 0,0:09:31.73,0:09:35.55,Dubtitles,,0,0,0,,going to work with me until we solve\Nthis thing until we do there won't
+Dialogue: 0,0:09:35.63,0:09:39.69,Dubtitles,,0,0,0,,be any time for napping okay okay\Nbut you're the one who is napping
 Dialogue: 0,0:09:53.03,0:09:53.93,Dubtitles,,0,0,0,,Listen up!
 Dialogue: 0,0:09:54.15,0:09:57.01,Dubtitles,,0,0,0,,Did anyone see what happened\Nbefore that player died?
 Dialogue: 0,0:09:57.09,0:09:58.97,Dubtitles,,0,0,0,,If someone did, please speak up.
@@ -3213,14 +3219,14 @@ Dialogue: 0,0:13:29.63,0:13:31.55,Dubtitles,,0,0,0,,And then there's this.
 Dialogue: 0,0:13:42.23,0:13:47.03,Dubtitles,,0,0,0,,A player made this. Really? Who\Nwas it? Can you tell? Grimlock.
 Dialogue: 0,0:13:47.11,0:13:48.82,Dubtitles,,0,0,0,,Never heard that name before.
 Dialogue: 0,0:13:48.93,0:13:51.73,Dubtitles,,0,0,0,,It's not one of the top\Nblacksmiths, that's for damn sure.
-Dialogue: 0,0:13:51.81,0:13:54.37,Dubtitles,,0,0,0,,Far as I can tell, there's\Nnothing Special about this,
-Dialogue: 0,0:13:54.45,0:13:56.57,Dubtitles,,0,0,0,,yeah, but it's something to go on, right?
-Dialogue: 0,0:13:56.65,0:13:57.97,Dubtitles,,0,0,0,,MM—Hmm, is there?
-Dialogue: 0,0:13:58.05,0:14:01.51,Dubtitles,,0,0,0,,Like an item name listed,\Nyou'll love it: guilty thorn.
-Dialogue: 0,0:14:01.59,0:14:03.59,Dubtitles,,0,0,0,,There's a name for you.
-Dialogue: 0,0:14:03.67,0:14:05.43,Dubtitles,,0,0,0,,It kind of fits, though—don't you think?
-Dialogue: 0,0:14:05.51,0:14:08.75,Dubtitles,,0,0,0,,Seriously, guilty thorn!
-Dialogue: 0,0:14:08.83,0:14:10.25,Dubtitles,,0,0,0,,guilty thorn
+Dialogue: 0,0:13:51.81,0:13:54.73,Dubtitles,,0,0,0,,Far as I can tell, there's\Nnothing Special about this, yeah?
+Dialogue: 0,0:13:54.81,0:13:56.57,Dubtitles,,0,0,0,,But it's something to go on, right?
+Dialogue: 0,0:13:56.65,0:13:57.48,Dubtitles,,0,0,0,,Mm-hmm?
+Dialogue: 0,0:13:57.56,0:13:59.79,Dubtitles,,0,0,0,,Is there like an item name listed?
+Dialogue: 0,0:13:59.87,0:14:02.15,Dubtitles,,0,0,0,,You'll love it, guilty thorn.
+Dialogue: 0,0:14:02.23,0:14:03.83,Dubtitles,,0,0,0,,There's a name for you.
+Dialogue: 0,0:14:03.91,0:14:05.75,Dubtitles,,0,0,0,,It kind of fits, though, don't you think?
+Dialogue: 0,0:14:05.83,0:14:10.25,Dubtitles,,0,0,0,,Seriously, guilty thorn.
 Dialogue: 0,0:14:20.01,0:14:20.89,Dubtitles,,0,0,0,,Here goes.
 Dialogue: 0,0:14:23.99,0:14:24.82,Dubtitles,,0,0,0,,Wait, stop!
 Dialogue: 0,0:14:28.45,0:14:29.49,Dubtitles,,0,0,0,,What's the matter?

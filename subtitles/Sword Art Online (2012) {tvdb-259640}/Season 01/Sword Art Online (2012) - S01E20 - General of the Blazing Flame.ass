@@ -25,16 +25,16 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.34,0:00:06.17,Dubtitles,,0,0,0,,Oohh!
-Dialogue: 0,0:00:06.32,0:00:07.58,Dubtitles,,0,0,0,,There's the exit!
-Dialogue: 0,0:00:25.46,0:00:28.18,Dubtitles,,0,0,0,,Are you trying to kill me?
-Dialogue: 0,0:00:29.18,0:00:31.36,Dubtitles,,0,0,0,,No, just trying to save us some time.
-Dialogue: 0,0:00:31.44,0:00:32.79,Dubtitles,,0,0,0,,You and your shortcuts.
-Dialogue: 0,0:00:49.74,0:00:50.57,Dubtitles,,0,0,0,,Wait a sec.
-Dialogue: 0,0:00:50.80,0:00:52.70,Dubtitles,,0,0,0,,Do you even know where\Nthis meeting's happening?
-Dialogue: 0,0:00:52.78,0:00:53.78,Dubtitles,,0,0,0,,Yeah, I'll check.
-Dialogue: 0,0:00:56.56,0:00:59.60,Dubtitles,,0,0,0,,Northwest inside that\Nmountain how much time we
-Dialogue: 0,0:00:59.68,0:01:03.14,Dubtitles,,0,0,0,,got 20 minutes then we're\Nnot going fast enough
+Dialogue: 0,0:00:00.49,0:00:02.13,Dubtitles,,0,0,0,,AHHHH!
+Dialogue: 0,0:00:06.67,0:00:08.09,Dubtitles,,0,0,0,,Here's the exit.
+Dialogue: 0,0:00:25.67,0:00:28.67,Dubtitles,,0,0,0,,Are you trying to kill me?
+Dialogue: 0,0:00:29.67,0:00:31.85,Dubtitles,,0,0,0,,No, just trying to save us some time.
+Dialogue: 0,0:00:31.93,0:00:33.29,Dubtitles,,0,0,0,,You and your shortcuts.
+Dialogue: 0,0:00:50.23,0:00:51.06,Dubtitles,,0,0,0,,Wait a sec.
+Dialogue: 0,0:00:51.29,0:00:53.19,Dubtitles,,0,0,0,,Do you even know where\Nthis meeting's happening?
+Dialogue: 0,0:00:53.27,0:00:54.27,Dubtitles,,0,0,0,,Yeah, I'll check.
+Dialogue: 0,0:00:57.05,0:01:00.09,Dubtitles,,0,0,0,,Northwest inside that\Nmountain how much time we
+Dialogue: 0,0:01:00.17,0:01:03.63,Dubtitles,,0,0,0,,got 20 minutes then we're\Nnot going fast enough
 Dialogue: 2,0:01:09.13,0:01:09.50,OP-Kanji,,0,0,0,,{\an5\shad0\blur3\be2\bord3.75\3c&HB47432&\c&HFFFFFF&\fad(50,0)\clip(0,195,1920,195)\pos(730.5,97.5)\t(0,400,\clip(0,0,1920,195))}隠
 Dialogue: 1,0:01:09.13,0:01:09.50,OP-Kanji,,0,0,0,,{\an5\move(730.5,117,739.5,90,0,400)\clip(0,195,1920,195)\fad(50,50)\3c&HB47432&\c&HB47432&\be2\blur3\bord2.25\p2\t(0,400,\clip(0,0,1920,195))}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:09.13,0:01:09.50,OP-Kanji,,0,0,0,,{\an5\move(730.5,117,744,90,0,400)\clip(0,195,1920,195)\fad(50,50)\3c&HB47432&\c&HB47432&\be2\blur3\bord2.25\p2\t(0,400,\clip(0,0,1920,195))}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -757,7 +757,6 @@ Dialogue: 1,0:01:31.48,0:01:32.65,OP-Kanji,,0,0,0,,{\an5\move(685.5,97.5,640.5,7
 Dialogue: 1,0:01:31.48,0:01:32.65,OP-Romaji,,0,0,0,,{\an5\move(430.5,43.5,385.5,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1243,1244,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1277,1377,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:31.48,0:01:33.90,OP-Kanji,,0,0,0,,{\an5\move(685.5,97.5,673.5,129)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(2513,2514,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2547,2647,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:31.48,0:01:33.90,OP-Romaji,,0,0,0,,{\an5\move(430.5,43.5,418.5,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(2513,2514,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2547,2647,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:01:31.50,0:01:34.94,Dubtitles,,0,0,0,,I can't wait for you to see a miracle.
 Dialogue: 3,0:01:31.73,0:01:33.65,OP-Romaji,,0,0,0,,{\an5\move(447,43.5,402,88.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1876,1877,\fscx7\fscy7\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1910,2010,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:31.86,0:01:32.44,OP-Romaji,,0,0,0,,{\an5\move(463.5,43.5,453,3)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(785,786,\fscx4\fscy4\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(819,919,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:31.90,0:01:32.36,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(477,43.5)\t(0,220,\fscy114\fscx114\shad12\be15\blur3.75)\t(0,440,\1c&HFFFFFF&\3c&HB47432&)\t(220,440,\fscy100\fscx100\shad0\be0\blur0)}se
@@ -767,6 +766,7 @@ Dialogue: 2,0:01:31.90,0:01:40.82,OP-Romaji,,0,0,0,,{\an5\pos(435,43.5)\3c&HB474
 Dialogue: 1,0:01:31.94,0:01:33.40,OP-Kanji,,0,0,0,,{\an5\move(721.5,97.5,730.5,97.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1404,1405,\fscx5\fscy5\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1438,1538,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:31.98,0:01:32.48,OP-Romaji,,0,0,0,,{\an5\move(489,43.5,462,33)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(521,522,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(555,655,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:31.98,0:01:32.82,OP-Romaji,,0,0,0,,{\an5\move(489,43.5,519,84)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(938,939,\fscx15\fscy15\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(972,1072,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:01:31.99,0:01:35.43,Dubtitles,,0,0,0,,I can't wait for you to see a miracle.
 Dialogue: 3,0:01:32.06,0:01:33.11,OP-Romaji,,0,0,0,,{\an5\move(489,43.5,484.5,85.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1091,1092,\fscx12\fscy12\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1125,1225,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:32.11,0:01:33.44,OP-Kanji,,0,0,0,,{\an5\move(721.5,97.5,721.5,57)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1470,1471,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1504,1604,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:32.11,0:01:33.48,OP-Kanji,,0,0,0,,{\an5\move(721.5,97.5,757.5,82.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1331,1332,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1365,1465,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -883,7 +883,6 @@ Dialogue: 1,0:01:35.23,0:01:37.24,OP-Kanji,,0,0,0,,{\an5\move(897,97.5,901.5,91.
 Dialogue: 3,0:01:35.28,0:01:37.15,OP-Kanji,,0,0,0,,{\an5\move(924,97.5,936,81)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2007,2008,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2041,2141,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:35.32,0:01:37.45,OP-Romaji,,0,0,0,,{\an5\move(897,43.5,930,49.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2405,2406,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2439,2539,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:35.36,0:01:36.82,OP-Romaji,,0,0,0,,{\an5\move(897,43.5,933,30)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(1717,1718,\fscx20\fscy20\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1751,1851,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:01:35.38,0:01:39.18,Dubtitles,,0,0,0,,I can't wait for you.
 Dialogue: 3,0:01:35.44,0:01:36.36,OP-Romaji,,0,0,0,,{\an5\move(954,43.5,915,37.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1129,1130,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1163,1263,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:35.44,0:01:36.94,OP-Kanji,,0,0,0,,{\an5\move(924,97.5,966,130.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1601,1602,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1635,1735,\fscx7\fscy7\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:35.44,0:01:37.45,OP-Kanji,,0,0,0,,{\an5\move(924,97.5,903,54)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(2735,2736,\fscx24\fscy24\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2769,2869,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -902,6 +901,7 @@ Dialogue: 1,0:01:35.86,0:01:36.07,OP-Romaji,,0,0,0,,{\an5\move(976.5,43.5,936,54
 Dialogue: 1,0:01:35.86,0:01:36.11,OP-Kanji,,0,0,0,,{\an5\move(951,97.5,915,135)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(242,243,\fscx12\fscy12\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(276,376,\fscx7\fscy7\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:35.86,0:01:36.24,OP-Romaji,,0,0,0,,{\an5\move(994.5,43.5,979.5,13.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(321,322,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(355,455,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:35.86,0:01:36.28,OP-Romaji,,0,0,0,,{\an5\move(976.5,43.5,1015.5,60)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(328,329,\fscx5\fscy5\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(362,462,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:01:35.87,0:01:39.67,Dubtitles,,0,0,0,,I can't wait for you.
 Dialogue: 3,0:01:35.90,0:01:36.03,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(951,97.5)\t(0,65,\fscy104\fscx104\shad12\be15\blur3.75)\t(0,130,\1c&HFFFFFF&\3c&HB47432&)\t(65,130,\fscy100\fscx100\shad0\be0\blur0)}消
 Dialogue: 3,0:01:35.90,0:01:36.03,OP-Romaji,,0,0,0,,{\an5\move(994.5,43.5,1023,13.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(53,54,\fscx6\fscy6\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(87,187,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:35.90,0:01:36.03,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(982.5,43.5)\t(0,65,\fscy104\fscx104\shad12\be15\blur3.75)\t(0,130,\1c&HFFFFFF&\3c&HB47432&)\t(65,130,\fscy100\fscx100\shad0\be0\blur0)}ki
@@ -1056,7 +1056,6 @@ Dialogue: 1,0:01:40.32,0:01:41.66,OP-Kanji,,0,0,0,,{\an5\move(1233,97.5,1273.5,1
 Dialogue: 1,0:01:40.32,0:01:42.99,OP-Kanji,,0,0,0,,{\an5\move(1233,97.5,1191,79.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(2861,2862,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2895,2995,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:40.41,0:01:42.91,OP-Romaji,,0,0,0,,{\an5\move(1488,43.5,1474.5,6)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2396,2397,\fscx8\fscy8\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2430,2530,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:40.49,0:01:42.62,OP-Romaji,,0,0,0,,{\an5\move(1462.5,43.5,1479,52.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2126,2127,\fscx24\fscy24\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2160,2260,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:01:40.52,0:01:41.76,Dubtitles,,0,0,0,,I can't wait for you.
 Dialogue: 1,0:01:40.53,0:01:41.87,OP-Romaji,,0,0,0,,{\an5\move(1437,43.5,1470,21)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1641,1642,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1675,1775,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:40.62,0:01:40.74,OP-Romaji,,0,0,0,,{\an5\move(1437,43.5,1438.5,-1.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(67,68,\fscx17\fscy17\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(101,201,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 2,0:01:40.74,0:01:40.82,OP-Romaji,,0,0,0,,{\an5\pos(1464,43.5)\3c&HB47432&}you
@@ -1136,6 +1135,7 @@ Dialogue: 3,0:01:40.99,0:01:43.33,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx
 Dialogue: 1,0:01:40.99,0:01:43.66,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry337\frx4\be3\blur3\fad(360,0)\move(724.5,13.5,724.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}b
 Dialogue: 1,0:01:40.99,0:01:46.58,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-88\frx147\be3\blur3\fad(360,0)\move(994.5,67.5,994.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}来
 Dialogue: 1,0:01:40.99,0:01:47.75,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry80\frx-44\be3\blur3\fad(360,0)\move(1030.5,67.5,1030.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}見
+Dialogue: 0,0:01:41.01,0:01:42.25,Dubtitles,,0,0,0,,I can't wait for you.
 Dialogue: 3,0:01:41.03,0:01:43.66,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry289\frx-336\be3\blur3\fad(360,0)\move(750,13.5,750,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}a
 Dialogue: 1,0:01:41.03,0:01:48.25,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry293\frx-111\be3\blur3\fad(360,0)\move(1065,67.5,1065,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}る
 Dialogue: 1,0:01:41.03,0:01:48.66,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry106\frx-166\be3\blur3\fad(360,0)\move(1101,67.5,1101,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}こ
@@ -1265,7 +1265,6 @@ Dialogue: 1,0:01:43.91,0:01:46.12,OP-Kanji,,0,0,0,,{\an5\move(817.5,97.5,805.5,7
 Dialogue: 1,0:01:43.95,0:01:46.75,OP-Kanji,,0,0,0,,{\an5\move(817.5,97.5,856.5,94.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(2925,2926,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2959,3059,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:44.08,0:01:44.79,OP-Romaji,,0,0,0,,{\an5\move(750,43.5,712.5,28.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(678,679,\fscx5\fscy5\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(712,812,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:44.12,0:01:45.58,OP-Romaji,,0,0,0,,{\an5\move(750,43.5,760.5,33)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1943,1944,\fscx24\fscy24\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1977,2077,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:01:44.24,0:01:46.54,Dubtitles,,0,0,0,,I can't wait for you to see the future.
 Dialogue: 1,0:01:44.33,0:01:46.70,OP-Romaji,,0,0,0,,{\an5\move(724.5,43.5,744,78)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2280,2281,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2314,2414,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:44.37,0:01:46.29,OP-Kanji,,0,0,0,,{\an5\move(817.5,97.5,814.5,63)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(2328,2329,\fscx12\fscy12\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2362,2462,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:44.41,0:01:46.37,OP-Romaji,,0,0,0,,{\an5\move(775.5,43.5,744,66)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1914,1915,\fscx17\fscy17\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1948,2048,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1277,6 +1276,7 @@ Dialogue: 1,0:01:44.66,0:01:45.08,OP-Kanji,,0,0,0,,{\an5\move(853.5,97.5,886.5,1
 Dialogue: 3,0:01:44.70,0:01:45.20,OP-Romaji,,0,0,0,,{\an5\move(816,43.5,804,36)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(495,496,\fscx25\fscy25\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(529,629,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:44.70,0:01:45.24,OP-Kanji,,0,0,0,,{\an5\move(853.5,97.5,864,120)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(549,550,\fscx17\fscy17\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(583,683,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:44.70,0:01:45.24,OP-Romaji,,0,0,0,,{\an5\move(798,43.5,778.5,60)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(499,500,\fscx12\fscy12\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(533,633,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:01:44.73,0:01:47.03,Dubtitles,,0,0,0,,I can't wait for you to see the future.
 Dialogue: 3,0:01:44.74,0:01:45.08,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(853.5,97.5)\t(0,160,\fscy110\fscx110\shad12\be15\blur3.75)\t(0,320,\1c&HFFFFFF&\3c&HB47432&)\t(160,320,\fscy100\fscx100\shad0\be0\blur0)}二
 Dialogue: 3,0:01:44.74,0:01:45.08,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(804,43.5)\t(0,160,\fscy110\fscx110\shad12\be15\blur3.75)\t(0,320,\1c&HFFFFFF&\3c&HB47432&)\t(160,320,\fscy100\fscx100\shad0\be0\blur0)}ni
 Dialogue: 3,0:01:44.74,0:01:45.24,OP-Romaji,,0,0,0,,{\an5\move(816,43.5,811.5,27)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(602,603,\fscx13\fscy13\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(636,736,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1366,7 +1366,6 @@ Dialogue: 1,0:01:47.12,0:01:48.25,OP-Kanji,,0,0,0,,{\an5\move(994.5,97.5,949.5,7
 Dialogue: 1,0:01:47.25,0:01:48.75,OP-Romaji,,0,0,0,,{\an5\move(1038,43.5,1080,84)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1403,1404,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1437,1537,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:47.29,0:01:48.75,OP-Romaji,,0,0,0,,{\an5\move(1053,43.5,1080,0)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(1566,1567,\fscx16\fscy16\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1600,1700,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:47.46,0:01:48.41,OP-Romaji,,0,0,0,,{\an5\move(1038,43.5,1009.5,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p1\t(1050,1051,\fscx5\fscy5\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1084,1184,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:01:47.48,0:01:50.96,Dubtitles,,0,0,0,,I can't wait for you.
 Dialogue: 1,0:01:47.62,0:01:49.67,OP-Kanji,,0,0,0,,{\an5\move(994.5,97.5,996,84)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(2301,2302,\fscx25\fscy25\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2335,2435,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:47.66,0:01:48.54,OP-Romaji,,0,0,0,,{\an5\move(1084.5,43.5,1117.5,10.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(776,777,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(810,910,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:47.75,0:01:48.25,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(1030.5,97.5)\t(0,245,\fscy116\fscx116\shad12\be15\blur3.75)\t(0,490,\1c&HFFFFFF&\3c&HB47432&)\t(245,490,\fscy100\fscx100\shad0\be0\blur0)}見
@@ -1380,6 +1379,7 @@ Dialogue: 1,0:01:47.87,0:01:48.50,OP-Kanji,,0,0,0,,{\an5\move(1030.5,97.5,1050,1
 Dialogue: 1,0:01:47.96,0:01:48.66,OP-Romaji,,0,0,0,,{\an5\move(1084.5,43.5,1042.5,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(659,660,\fscx25\fscy25\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(693,793,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:47.96,0:01:48.75,OP-Romaji,,0,0,0,,{\an5\move(1084.5,43.5,1128,81)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(997,998,\fscx12\fscy12\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1031,1131,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:01:47.96,0:01:48.79,OP-Kanji,,0,0,0,,{\an5\move(1030.5,97.5,1045.5,100.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(1177,1178,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1211,1311,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:01:47.97,0:01:51.45,Dubtitles,,0,0,0,,I can't wait for you.
 Dialogue: 1,0:01:48.00,0:01:48.66,OP-Romaji,,0,0,0,,{\an5\move(1084.5,43.5,1056,73.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(574,575,\fscx25\fscy25\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(608,708,\fscx7\fscy7\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:48.04,0:01:48.66,OP-Romaji,,0,0,0,,{\an5\move(1107,43.5,1086,58.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p2\t(781,782,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(815,915,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:01:48.04,0:01:48.92,OP-Romaji,,0,0,0,,{\an5\move(1107,43.5,1131,58.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\\p3\t(805,806,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(839,939,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -3302,7 +3302,6 @@ Dialogue: 88,0:02:17.03,0:02:17.82,OP-Kanji,,0,0,0,,{\1a&H63&\be2\org(0,750)\an5
 Dialogue: 2,0:02:17.03,0:02:17.82,OP-Kanji,,0,0,0,,{\an5\pos(1224,97.5)}ら
 Dialogue: 1,0:02:17.03,0:02:17.82,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1386,43.5,1356,16.5,200,685)\t(200,685,\fscx50\fry420\fscy50)\t(0,685,\alpha&HFF&)}n
 Dialogue: 1,0:02:17.03,0:02:17.82,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1411.5,43.5,1387.5,40.5,200,685)\t(200,685,\fscx50\fry420\fscy50)\t(0,685,\alpha&HFF&)}a
-Dialogue: 0,0:02:17.28,0:02:20.12,Dubtitles,,0,0,0,,I'll reach the sky above the sky.
 Dialogue: 1,0:02:17.65,0:02:18.03,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-108\frx-152\be3\blur3\fad(360,0)\move(694.5,67.5,694.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}目
 Dialogue: 1,0:02:17.65,0:02:18.03,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-108\frx-152\be3\blur3\fad(360,0)\move(475.5,13.5,475.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}m
 Dialogue: 3,0:02:17.65,0:02:18.03,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry300\frx34\be3\blur3\fad(360,0)\move(508.5,13.5,508.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}e
@@ -3315,6 +3314,7 @@ Dialogue: 1,0:02:17.74,0:02:17.82,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\mo
 Dialogue: 3,0:02:17.74,0:02:18.24,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry189\frx-347\be3\blur3\fad(360,0)\move(582,13.5,582,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}o
 Dialogue: 1,0:02:17.74,0:02:19.03,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-95\frx47\be3\blur3\fad(360,0)\move(835.5,67.5,835.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}あ
 Dialogue: 1,0:02:17.74,0:02:19.40,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry20\frx-232\be3\blur3\fad(360,0)\move(871.5,67.5,871.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}る
+Dialogue: 0,0:02:17.77,0:02:20.61,Dubtitles,,0,0,0,,I'll reach the sky above the sky.
 Dialogue: 1,0:02:17.78,0:02:18.40,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry115\frx136\be3\blur3\fad(360,0)\move(637.5,13.5,637.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}m
 Dialogue: 3,0:02:17.78,0:02:18.40,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-253\frx37\be3\blur3\fad(360,0)\move(669,13.5,669,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}a
 Dialogue: 1,0:02:17.78,0:02:19.70,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-183\frx-69\be3\blur3\fad(360,0)\move(906,67.5,906,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}こ
@@ -3700,7 +3700,6 @@ Dialogue: 3,0:02:24.12,0:02:24.37,OP-Romaji,,0,0,0,,{\an5\move(1378.5,43.5,1488,
 Dialogue: 3,0:02:24.12,0:02:24.37,OP-Romaji,,0,0,0,,{\an5\move(1404,43.5,1389,33)\fad(0,150)\t(\blur7.5\bord4.5\frz342\frx-264\fry192)}a
 Dialogue: 3,0:02:24.12,0:02:24.37,OP-Romaji,,0,0,0,,{\an5\move(1426.5,43.5,1485,57)\fad(0,150)\t(\blur7.5\bord4.5\frz138\frx-19\fry-2)}r
 Dialogue: 3,0:02:24.12,0:02:24.37,OP-Romaji,,0,0,0,,{\an5\move(1447.5,43.5,1323,24)\fad(0,150)\t(\blur7.5\bord4.5\frz-157\frx348\fry-168)}a
-Dialogue: 0,0:02:25.28,0:02:27.82,Dubtitles,,0,0,0,,I'll reach the future beyond here.
 Dialogue: 1,0:02:25.53,0:02:25.95,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-108\frx-152\be3\blur3\fad(360,0)\move(694.5,67.5,694.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}こ
 Dialogue: 1,0:02:25.53,0:02:25.95,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-108\frx-152\be3\blur3\fad(360,0)\move(480,13.5,480,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}k
 Dialogue: 3,0:02:25.58,0:02:25.95,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry300\frx34\be3\blur3\fad(360,0)\move(507,13.5,507,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}o
@@ -3721,6 +3720,7 @@ Dialogue: 1,0:02:25.70,0:02:28.25,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx2
 Dialogue: 1,0:02:25.74,0:02:26.74,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-127\frx-321\be3\blur3\fad(360,0)\move(712.5,13.5,712.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}n
 Dialogue: 1,0:02:25.74,0:02:29.50,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-334\frx-174\be3\blur3\fad(360,0)\move(1012.5,67.5,1012.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}手
 Dialogue: 1,0:02:25.74,0:02:29.66,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry296\frx-341\be3\blur3\fad(360,0)\move(1047,67.5,1047,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}を
+Dialogue: 0,0:02:25.77,0:02:28.31,Dubtitles,,0,0,0,,I'll reach the future beyond here.
 Dialogue: 3,0:02:25.79,0:02:26.74,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-18\frx-79\be3\blur3\fad(360,0)\move(729,13.5,729,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}i
 Dialogue: 1,0:02:25.79,0:02:30.00,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry1\frx-88\be3\blur3\fad(360,0)\move(1083,67.5,1083,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}伸
 Dialogue: 1,0:02:25.79,0:02:30.16,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-340\frx354\be3\blur3\fad(360,0)\move(1117.5,67.5,1117.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}ば
@@ -4162,258 +4162,246 @@ Dialogue: 3,0:02:38.01,0:02:42.01,title,,0,0,0,,{\bord0\blur0.75\clip(0,825,1920
 Dialogue: 1,0:02:44.51,0:02:47.06,Signs,,0,0,0,,{\fad(500,0)\fsp-3\fscx95\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H3A3734&\blur3\fs72\alpha&H40\3c&H091E1C&}Alfheim • Neutral Region • Butterfly Valley
 Dialogue: 1,0:02:44.51,0:02:47.06,Signs,,0,0,0,,{\fad(500,0)\fsp-3\fscx95\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H3A3734&\blur3\fs72\alpha&H20}Alfheim • Neutral Region • Butterfly Valley
 Dialogue: 2,0:02:44.51,0:02:47.06,Signs,,0,0,0,,{\fad(500,0)\fscx95\fscy85\shad0\pos(960,942)\blur0.45\fs72\c&HF5F5F5&\fsp-3}Alfheim • Neutral Region • Butterfly Valley
-Dialogue: 0,0:02:46.48,0:02:48.02,Dubtitles,,0,0,0,,I wish we could go faster,
-Dialogue: 0,0:02:48.18,0:02:50.80,Dubtitles,,0,0,0,,because at this rate we're not going\Nto make it before the Salamanders.
-Dialogue: 0,0:02:50.88,0:02:51.71,Dubtitles,,0,0,0,,I know.
-Dialogue: 0,0:02:51.79,0:02:55.44,Dubtitles,,0,0,0,,Even if we can warn them, it doesn't mean\Nwe'll get the Commanders out in time.
-Dialogue: 0,0:02:55.52,0:02:58.52,Dubtitles,,0,0,0,,We just might end up dying\Nwith them all in battle.
-Dialogue: 0,0:03:01.36,0:03:02.56,Dubtitles,,0,0,0,,I've got player readings!
-Dialogue: 0,0:03:02.64,0:03:04.50,Dubtitles,,0,0,0,,68 of them flying in formation!
-Dialogue: 0,0:03:05.04,0:03:08.69,Dubtitles,,0,0,0,,From what I can tell, it could\Nbe the Salamander Attack Squad!
-Dialogue: 0,0:03:14.90,0:03:17.31,Dubtitles,,0,0,0,,There are 14 more players on the plateau.
-Dialogue: 0,0:03:17.92,0:03:21.50,Dubtitles,,0,0,0,,Most likely they're the diplomats\Nfrom the Sylphs and Cats.
-Dialogue: 0,0:03:21.58,0:03:24.99,Dubtitles,,0,0,0,,The two groups of players will\Nmake contact in 50 seconds.
-Dialogue: 0,0:03:26.00,0:03:27.65,Dubtitles,,0,0,0,,We didn't make it after all.
-Dialogue: 0,0:03:30.46,0:03:32.04,Dubtitles,,0,0,0,,Thanks for trying, Kirito.
-Dialogue: 0,0:03:32.22,0:03:33.57,Dubtitles,,0,0,0,,But this is far enough.
-Dialogue: 0,0:03:33.90,0:03:35.67,Dubtitles,,0,0,0,,I'm gonna try and save Sakuya.
-Dialogue: 0,0:03:36.00,0:03:38.59,Dubtitles,,0,0,0,,Get out of here and\Nhead for the World Tree.
-Dialogue: 0,0:03:38.90,0:03:41.20,Dubtitles,,0,0,0,,We didn't get to hang out\Nfor long, but it was fun.
-Dialogue: 0,0:03:41.28,0:03:42.87,Dubtitles,,0,0,0,,Hope we meet again someday.
-Dialogue: 0,0:03:44.10,0:03:47.57,Dubtitles,,0,0,0,,Sorry, but running away from\Na fight's not really my style.
-Dialogue: 0,0:03:51.08,0:03:52.92,Dubtitles,,0,0,0,,Why are the salamanders here?
-Dialogue: 0,0:04:23.26,0:04:26.24,Dubtitles,,0,0,0,,Salamanders, stand down! Who's that?
-Dialogue: 0,0:04:28.34,0:04:29.17,Dubtitles,,0,0,0,,Sakuya!
-Dialogue: 0,0:04:30.18,0:04:32.02,Dubtitles,,0,0,0,,Letha, what are you doing here?
-Dialogue: 0,0:04:32.30,0:04:36.10,Dubtitles,,0,0,0,,It's too complicated to get into\Nnow, but you see that guy out there?
-Dialogue: 0,0:04:36.18,0:04:40.06,Dubtitles,,0,0,0,,Believe it or not, the fates of\Nour races depend on his next move.
-Dialogue: 0,0:04:40.76,0:04:42.40,Dubtitles,,0,0,0,,You have got to be kidding.
-Dialogue: 0,0:04:43.02,0:04:44.96,Dubtitles,,0,0,0,,I want to talk to your commander!
-Dialogue: 0,0:04:54.00,0:04:57.28,Dubtitles,,0,0,0,,What the hell is a Spriggan\Nlike you doing here?
-Dialogue: 0,0:05:00.54,0:05:03.25,Dubtitles,,0,0,0,,I'm gonna kill you no\Nmatter what your answer.
-Dialogue: 0,0:05:03.60,0:05:06.84,Dubtitles,,0,0,0,,But since you're brave enough to face\Nme, I might as well hear you out.
-Dialogue: 0,0:05:06.92,0:05:08.52,Dubtitles,,0,0,0,,My name is Kirito.
-Dialogue: 0,0:05:08.76,0:05:11.38,Dubtitles,,0,0,0,,I'm an ambassador for the\NSpriggan-Undine Alliance.
-Dialogue: 0,0:05:11.46,0:05:13.36,Dubtitles,,0,0,0,,Since you're on the offensive today,
-Dialogue: 0,0:05:13.44,0:05:17.32,Dubtitles,,0,0,0,,I'm assuming you want to wage a\Nfull-on war between all our races.
-Dialogue: 0,0:05:22.56,0:05:25.33,Dubtitles,,0,0,0,,The Undines are allied\Nwith the Spriggans, huh?
-Dialogue: 0,0:05:25.88,0:05:29.76,Dubtitles,,0,0,0,,And you're supposed to be their ambassador,\Nbut you've come here without a guard?
-Dialogue: 0,0:05:29.84,0:05:31.74,Dubtitles,,0,0,0,,Yeah, that's right. So what?
-Dialogue: 0,0:05:31.94,0:05:35.62,Dubtitles,,0,0,0,,I was sent here to negotiate trade\Nterms with the Sylphs and the Catseed.
-Dialogue: 0,0:05:35.70,0:05:39.84,Dubtitles,,0,0,0,,But if you interrupt our talks,\Nyou'll get to feel some serious hurt.
-Dialogue: 0,0:05:39.92,0:05:41.60,Dubtitles,,0,0,0,,All of our races are going to team up,
-Dialogue: 0,0:05:41.68,0:05:44.86,Dubtitles,,0,0,0,,and we'll bring the fight\Nstraight to the salamanders.
-Dialogue: 0,0:05:45.70,0:05:47.17,Dubtitles,,0,0,0,,You're kidding me, right?
-Dialogue: 0,0:05:47.30,0:05:49.48,Dubtitles,,0,0,0,,You're all alone, and\Nyou've got crappy gear,
-Dialogue: 0,0:05:49.56,0:05:52.56,Dubtitles,,0,0,0,,so there's no way you could\Nbe anyone's ambassador.
-Dialogue: 0,0:05:54.70,0:05:57.48,Dubtitles,,0,0,0,,If you can survive my\Nattacks for 30 seconds,
-Dialogue: 0,0:05:57.92,0:06:00.28,Dubtitles,,0,0,0,,then I'll believe you\Nare who you say you are.
-Dialogue: 0,0:06:00.36,0:06:01.22,Dubtitles,,0,0,0,,Gee, thanks.
-Dialogue: 0,0:06:01.46,0:06:02.74,Dubtitles,,0,0,0,,That's mighty generous.
-Dialogue: 0,0:06:02.82,0:06:04.64,Dubtitles,,0,0,0,,This is bad. Why?
-Dialogue: 0,0:06:05.16,0:06:07.40,Dubtitles,,0,0,0,,Do you see that salamander's sword?
-Dialogue: 0,0:06:07.48,0:06:09.19,Dubtitles,,0,0,0,,It's the demon sword, Gram.
-Dialogue: 0,0:06:09.38,0:06:12.68,Dubtitles,,0,0,0,,You need a two-handed sword\Nskill of 950 to equip it.
-Dialogue: 0,0:06:13.40,0:06:14.23,Dubtitles,,0,0,0,,950?
-Dialogue: 0,0:06:14.48,0:06:17.72,Dubtitles,,0,0,0,,Yes, and there's only one\Nperson I know who can use it.
-Dialogue: 0,0:06:17.92,0:06:18.94,Dubtitles,,0,0,0,,General Eugene.
-Dialogue: 0,0:06:19.38,0:06:20.50,Dubtitles,,0,0,0,,Have you heard of him?
-Dialogue: 0,0:06:20.58,0:06:22.18,Dubtitles,,0,0,0,,Yeah, I know the name.
-Dialogue: 0,0:06:22.72,0:06:26.34,Dubtitles,,0,0,0,,He's the younger brother of Mortimer,\Nthe leader of the salamanders.
-Dialogue: 0,0:06:26.42,0:06:28.48,Dubtitles,,0,0,0,,They're brothers in real life, too.
-Dialogue: 0,0:06:28.82,0:06:32.16,Dubtitles,,0,0,0,,Mortimer's a brilliant strategist,\Nbut in terms of sheer power,
-Dialogue: 0,0:06:32.24,0:06:34.56,Dubtitles,,0,0,0,,they say Eugene is the\Ngame's strongest player.
-Dialogue: 0,0:06:34.64,0:06:35.98,Dubtitles,,0,0,0,,Oh, no.
-Dialogue: 0,0:06:36.40,0:06:38.04,Dubtitles,,0,0,0,,He's the strongest player?
-Dialogue: 0,0:06:43.12,0:06:43.95,Dubtitles,,0,0,0,,Kirito...
-Dialogue: 0,0:06:58.44,0:07:00.10,Dubtitles,,0,0,0,,What was that?
-Dialogue: 0,0:07:00.30,0:07:01.48,Dubtitles,,0,0,0,,The ethereal shift.
-Dialogue: 0,0:07:01.66,0:07:02.80,Dubtitles,,0,0,0,,The sword's bonus skill.
-Dialogue: 0,0:07:02.88,0:07:06.14,Dubtitles,,0,0,0,,Whenever someone tries to block\Nit with a shield or sword,
-Dialogue: 0,0:07:06.22,0:07:08.56,Dubtitles,,0,0,0,,The Demonic Swordgram\Ncan phase through it!
-Dialogue: 0,0:07:08.64,0:07:09.47,Dubtitles,,0,0,0,,Really?
-Dialogue: 0,0:07:09.55,0:07:10.38,Dubtitles,,0,0,0,,No way!
-Dialogue: 0,0:07:13.02,0:07:14.52,Dubtitles,,0,0,0,,Can't believe you're not dead.
-Dialogue: 0,0:07:14.60,0:07:16.84,Dubtitles,,0,0,0,,What the hell kind of attack was this?
-Dialogue: 0,0:07:30.48,0:07:31.58,Dubtitles,,0,0,0,,Damn, he's good.
-Dialogue: 0,0:07:32.22,0:07:35.32,Dubtitles,,0,0,0,,Hey, Big Red, I think your\N30 seconds are up by now.
-Dialogue: 0,0:07:35.52,0:07:36.76,Dubtitles,,0,0,0,,I've changed my mind.
-Dialogue: 0,0:07:36.98,0:07:38.72,Dubtitles,,0,0,0,,I've decided to kill you anyway.
-Dialogue: 0,0:07:38.80,0:07:40.90,Dubtitles,,0,0,0,,Now you have to survive until I do.
-Dialogue: 0,0:07:41.24,0:07:42.36,Dubtitles,,0,0,0,,Yeah, that figures.
-Dialogue: 0,0:07:42.80,0:07:44.57,Dubtitles,,0,0,0,,But I won't go down that easy.
-Dialogue: 0,0:07:47.48,0:07:48.70,Dubtitles,,0,0,0,,This won't end well.
-Dialogue: 0,0:07:49.06,0:07:53.88,Dubtitles,,0,0,0,,They both seem like equally skilled fighters,\Nbut Eugene's weapon is far superior.
-Dialogue: 0,0:07:54.08,0:07:55.16,Dubtitles,,0,0,0,,He can do it.
-Dialogue: 0,0:07:57.26,0:07:59.08,Dubtitles,,0,0,0,,Kirito can beat him, I know it.
-Dialogue: 0,0:08:01.58,0:08:02.41,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:08:02.76,0:08:03.59,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:08:04.22,0:08:05.05,Dubtitles,,0,0,0,,Whoa!
-Dialogue: 0,0:08:07.08,0:08:07.91,Dubtitles,,0,0,0,,Whoa!
-Dialogue: 0,0:08:08.98,0:08:27.76,Dubtitles,,0,0,0,,Uh!
-Dialogue: 0,0:08:27.85,0:08:28.68,Dubtitles,,0,0,0,,Uh! Uh! Uh! Uh! Uh!
-Dialogue: 0,0:08:28.76,0:08:29.59,Dubtitles,,0,0,0,,I need to borrow this for a sec.
-Dialogue: 0,0:08:29.67,0:08:30.50,Dubtitles,,0,0,0,,Uh!
-Dialogue: 0,0:08:30.59,0:08:31.42,Dubtitles,,0,0,0,,Kirito?
-Dialogue: 0,0:08:34.00,0:08:36.92,Dubtitles,,0,0,0,,A few seconds, that's all you've bought!
-Dialogue: 0,0:08:42.86,0:08:44.28,Dubtitles,,0,0,0,,Hey, where'd he go?
-Dialogue: 0,0:08:45.60,0:08:47.46,Dubtitles,,0,0,0,,Do you think he ran away?
-Dialogue: 0,0:08:47.96,0:08:49.30,Dubtitles,,0,0,0,,Of course he didn't!
-Dialogue: 0,0:08:51.58,0:08:55.46,Dubtitles,,0,0,0,,As long as I'm alive, I'm not going\Nto let anyone in my party die.
-Dialogue: 0,0:08:55.76,0:08:57.64,Dubtitles,,0,0,0,,I won't let that happen again.
-Dialogue: 0,0:09:01.40,0:09:03.81,Dubtitles,,0,0,0,,Kirito would never run away and leave us.
-Dialogue: 0,0:09:12.24,0:09:13.07,Dubtitles,,0,0,0,,Kirito!
-Dialogue: 0,0:09:38.56,0:09:39.96,Dubtitles,,0,0,0,,Die!
-Dialogue: 0,0:09:42.90,0:09:43.73,Dubtitles,,0,0,0,,Die!
-Dialogue: 0,0:09:47.62,0:09:48.45,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:09:49.90,0:09:50.73,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:09:50.81,0:09:51.70,Dubtitles,,0,0,0,,Hyah! Hyah!
-Dialogue: 0,0:09:52.78,0:09:53.61,Dubtitles,,0,0,0,,Hyah!
-Dialogue: 0,0:09:55.00,0:09:55.83,Dubtitles,,0,0,0,,Hyah!
-Dialogue: 0,0:09:56.94,0:09:57.88,Dubtitles,,0,0,0,,Hyah! No!
-Dialogue: 0,0:10:20.38,0:10:21.21,Dubtitles,,0,0,0,,Splendid!
-Dialogue: 0,0:10:21.29,0:10:22.12,Dubtitles,,0,0,0,,Marvelous!
-Dialogue: 0,0:10:22.21,0:10:23.46,Dubtitles,,0,0,0,,It was the most amazing fight ever!
-Dialogue: 0,0:10:23.66,0:10:25.36,Dubtitles,,0,0,0,,Nice fight done, Spriggan!
-Dialogue: 0,0:10:27.70,0:10:28.53,Dubtitles,,0,0,0,,That was good!
-Dialogue: 0,0:10:28.68,0:10:29.66,Dubtitles,,0,0,0,,Yeah, seriously!
-Dialogue: 0,0:11:07.04,0:11:08.69,Dubtitles,,0,0,0,,You're an excellent fighter.
-Dialogue: 0,0:11:09.10,0:11:12.28,Dubtitles,,0,0,0,,In fact, you're the most\Npowerful player I've ever seen.
-Dialogue: 0,0:11:12.36,0:11:13.19,Dubtitles,,0,0,0,,Well done.
-Dialogue: 0,0:11:13.32,0:11:14.86,Dubtitles,,0,0,0,,You're not so bad yourself.
-Dialogue: 0,0:11:14.94,0:11:18.18,Dubtitles,,0,0,0,,I didn't know the Spriggans had\Nsomeone like you in their ranks.
-Dialogue: 0,0:11:18.26,0:11:20.44,Dubtitles,,0,0,0,,This world's a bigger\Nplace than I thought.
-Dialogue: 0,0:11:20.52,0:11:21.52,Dubtitles,,0,0,0,,Are we cool then?
-Dialogue: 0,0:11:21.64,0:11:22.70,Dubtitles,,0,0,0,,Will you withdraw?
-Dialogue: 0,0:11:33.40,0:11:35.34,Dubtitles,,0,0,0,,Eugene, may I have a word?
-Dialogue: 0,0:11:35.94,0:11:37.80,Dubtitles,,0,0,0,,Kagemune, what is it?
-Dialogue: 0,0:11:38.72,0:11:39.62,Dubtitles,,0,0,0,,Him again.
-Dialogue: 0,0:11:39.98,0:11:43.63,Dubtitles,,0,0,0,,Oh, then next time I'll make\Nsure to bring more friends along.
-Dialogue: 0,0:11:44.18,0:11:46.02,Dubtitles,,0,0,0,,You might find this interesting.
-Dialogue: 0,0:11:46.10,0:11:49.14,Dubtitles,,0,0,0,,You know how my party was\Nwiped out yesterday? So?
-Dialogue: 0,0:11:49.64,0:11:53.23,Dubtitles,,0,0,0,,Well, this Spriggan, he's the\Nsame guy who took everyone out.
-Dialogue: 0,0:11:54.04,0:11:56.54,Dubtitles,,0,0,0,,And he was traveling with an undine.
-Dialogue: 0,0:11:57.70,0:11:58.53,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:12:02.24,0:12:03.07,Dubtitles,,0,0,0,,Interesting.
-Dialogue: 0,0:12:03.86,0:12:06.12,Dubtitles,,0,0,0,,Then I guess I have to believe you.
-Dialogue: 0,0:12:06.52,0:12:08.00,Dubtitles,,0,0,0,,But just for the record,
-Dialogue: 0,0:12:08.26,0:12:13.20,Dubtitles,,0,0,0,,the last thing our leader and I want is to\Ngo to war with the Spriggans and Undines.
-Dialogue: 0,0:12:13.48,0:12:18.30,Dubtitles,,0,0,0,,We'll withdraw for now, but I'm gonna be\Nlooking forward to fighting you again.
-Dialogue: 0,0:12:18.62,0:12:20.15,Dubtitles,,0,0,0,,Then that makes two of us.
-Dialogue: 0,0:12:24.08,0:12:26.90,Dubtitles,,0,0,0,,I guess some salamanders\Ncan be cool after all.
-Dialogue: 0,0:12:26.98,0:12:27.84,Dubtitles,,0,0,0,,Who knew?
-Dialogue: 0,0:12:28.08,0:12:30.26,Dubtitles,,0,0,0,,You really are insane, you know that?
-Dialogue: 0,0:12:30.54,0:12:32.02,Dubtitles,,0,0,0,,Yeah, I get that a lot.
-Dialogue: 0,0:12:34.58,0:12:38.28,Dubtitles,,0,0,0,,Excuse me, but could either of\Nyou explain what's going on?
-Dialogue: 0,0:12:41.16,0:12:42.08,Dubtitles,,0,0,0,,I see.
-Dialogue: 0,0:12:42.44,0:12:46.00,Dubtitles,,0,0,0,,I could tell there was something off\Nabout Sigurd's attitude recently.
-Dialogue: 0,0:12:46.08,0:12:47.76,Dubtitles,,0,0,0,,He seemed so irritated.
-Dialogue: 0,0:12:48.60,0:12:49.43,Dubtitles,,0,0,0,,Irritated?
-Dialogue: 0,0:12:50.04,0:12:52.08,Dubtitles,,0,0,0,,About what? My guess?
-Dialogue: 0,0:12:52.26,0:12:54.58,Dubtitles,,0,0,0,,He was dissatisfied about\Nthe state of things.
-Dialogue: 0,0:12:54.66,0:12:59.25,Dubtitles,,0,0,0,,That in terms of power, he couldn't\Naccept we'd fallen behind the Salamanders.
-Dialogue: 0,0:13:00.50,0:13:03.15,Dubtitles,,0,0,0,,Power is very important\Nto a man like Sigurd.
-Dialogue: 0,0:13:03.38,0:13:07.67,Dubtitles,,0,0,0,,And not just for his abilities and\Ncharacter stats, but also as a player.
-Dialogue: 0,0:13:07.82,0:13:09.36,Dubtitles,,0,0,0,,He craves power.
-Dialogue: 0,0:13:10.42,0:13:14.24,Dubtitles,,0,0,0,,Yeah, but even so, why would he\Nturn spy for the Salamanders?
-Dialogue: 0,0:13:14.58,0:13:19.40,Dubtitles,,0,0,0,,It must have something to do with the 5.0\Nupdate that's going to be released soon.
-Dialogue: 0,0:13:19.62,0:13:23.50,Dubtitles,,0,0,0,,I heard a rumor that they'll be\Nputting in a reincarnation system.
-Dialogue: 0,0:13:23.98,0:13:24.92,Dubtitles,,0,0,0,,No way!
-Dialogue: 0,0:13:25.24,0:13:27.36,Dubtitles,,0,0,0,,I'm sure Mortimer made him an offer.
-Dialogue: 0,0:13:27.78,0:13:32.13,Dubtitles,,0,0,0,,Bring me the head of your leader and\NI'll reincarnate you as a salamander.
-Dialogue: 0,0:13:33.40,0:13:34.54,Dubtitles,,0,0,0,,So now what?
-Dialogue: 0,0:13:34.80,0:13:36.40,Dubtitles,,0,0,0,,What will you do, Sakuya?
-Dialogue: 0,0:13:40.16,0:13:43.80,Dubtitles,,0,0,0,,Rue, have you raised your\Ndark magic skills yet? Mm-hmm!
-Dialogue: 0,0:13:44.92,0:13:47.02,Dubtitles,,0,0,0,,Open a moonlight mirror to Sigurd.
-Dialogue: 0,0:13:57.58,0:13:58.70,Dubtitles,,0,0,0,,Sakuya!
-Dialogue: 0,0:13:58.96,0:14:00.26,Dubtitles,,0,0,0,,Nice to see you too.
-Dialogue: 0,0:14:00.76,0:14:02.58,Dubtitles,,0,0,0,,Unfortunately, I'm still alive.
-Dialogue: 0,0:14:03.18,0:14:04.01,Dubtitles,,0,0,0,,How?
-Dialogue: 0,0:14:04.09,0:14:05.54,Dubtitles,,0,0,0,,I mean, what happened at the meeting?
-Dialogue: 0,0:14:05.98,0:14:07.26,Dubtitles,,0,0,0,,It went very well.
-Dialogue: 0,0:14:07.62,0:14:10.80,Dubtitles,,0,0,0,,There's still the matter of\Nsigning the treaty though.
-Dialogue: 0,0:14:11.24,0:14:14.36,Dubtitles,,0,0,0,,By the way, we had an unexpected guest.
-Dialogue: 0,0:14:14.80,0:14:15.74,Dubtitles,,0,0,0,,What guest?
-Dialogue: 0,0:14:16.46,0:14:19.98,Dubtitles,,0,0,0,,His name is General Eugene,\Nand he sends his regards.
-Dialogue: 0,0:14:25.02,0:14:25.85,Dubtitles,,0,0,0,,Leafa.
-Dialogue: 0,0:14:25.93,0:14:26.76,Dubtitles,,0,0,0,,So that's it.
-Dialogue: 0,0:14:26.85,0:14:28.50,Dubtitles,,0,0,0,,Those incompetent lizards.
-Dialogue: 0,0:14:30.04,0:14:32.28,Dubtitles,,0,0,0,,Well, it's your move now, Sapia.
-Dialogue: 0,0:14:32.62,0:14:33.88,Dubtitles,,0,0,0,,Are you gonna find me?
-Dialogue: 0,0:14:33.96,0:14:36.43,Dubtitles,,0,0,0,,Or maybe you want to take away my command.
-Dialogue: 0,0:14:36.84,0:14:41.66,Dubtitles,,0,0,0,,If so, remember, without me running your\Nmilitary, your rule won't last very long.
-Dialogue: 0,0:14:41.80,0:14:44.98,Dubtitles,,0,0,0,,Actually, I was thinking of\Ngranting the request you made them.
-Dialogue: 0,0:14:45.06,0:14:47.76,Dubtitles,,0,0,0,,Since you can't stand being\Na self, you're free to go.
-Dialogue: 0,0:14:47.84,0:14:48.67,Dubtitles,,0,0,0,,Wait, what?
-Dialogue: 0,0:14:54.06,0:14:54.96,Dubtitles,,0,0,0,,Hold on.
-Dialogue: 0,0:14:55.18,0:14:56.76,Dubtitles,,0,0,0,,Are you crazy? Me?
+Dialogue: 0,0:02:46.97,0:02:48.51,Dubtitles,,0,0,0,,I wish we could go faster,
+Dialogue: 0,0:02:48.67,0:02:51.29,Dubtitles,,0,0,0,,because at this rate we're not going\Nto make it before the Salamanders.
+Dialogue: 0,0:02:51.37,0:02:52.20,Dubtitles,,0,0,0,,I know.
+Dialogue: 0,0:02:52.29,0:02:55.93,Dubtitles,,0,0,0,,Even if we can warn them, it doesn't mean\Nwe'll get the Commanders out in time.
+Dialogue: 0,0:02:56.01,0:02:59.01,Dubtitles,,0,0,0,,We just might end up dying\Nwith them all in battle.
+Dialogue: 0,0:03:01.85,0:03:03.05,Dubtitles,,0,0,0,,I've got player readings!
+Dialogue: 0,0:03:03.13,0:03:04.99,Dubtitles,,0,0,0,,68 of them flying in formation!
+Dialogue: 0,0:03:05.53,0:03:09.18,Dubtitles,,0,0,0,,From what I can tell, it could\Nbe the Salamander Attack Squad!
+Dialogue: 0,0:03:15.39,0:03:17.81,Dubtitles,,0,0,0,,There are 14 more players on the plateau.
+Dialogue: 0,0:03:18.41,0:03:21.99,Dubtitles,,0,0,0,,Most likely they're the diplomats\Nfrom the Sylphs and Cats.
+Dialogue: 0,0:03:22.07,0:03:25.49,Dubtitles,,0,0,0,,The two groups of players will\Nmake contact in 50 seconds.
+Dialogue: 0,0:03:26.49,0:03:28.14,Dubtitles,,0,0,0,,We didn't make it after all.
+Dialogue: 0,0:03:30.95,0:03:32.53,Dubtitles,,0,0,0,,Thanks for trying, Kirito.
+Dialogue: 0,0:03:32.71,0:03:34.07,Dubtitles,,0,0,0,,But this is far enough.
+Dialogue: 0,0:03:34.39,0:03:36.16,Dubtitles,,0,0,0,,I'm gonna try and save Sakuya.
+Dialogue: 0,0:03:36.49,0:03:39.08,Dubtitles,,0,0,0,,Get out of here and\Nhead for the World Tree.
+Dialogue: 0,0:03:39.39,0:03:41.69,Dubtitles,,0,0,0,,We didn't get to hang out\Nfor long, but it was fun.
+Dialogue: 0,0:03:41.77,0:03:43.36,Dubtitles,,0,0,0,,Hope we meet again someday.
+Dialogue: 0,0:03:44.59,0:03:48.07,Dubtitles,,0,0,0,,Sorry, but running away from\Na fight's not really my style.
+Dialogue: 0,0:03:51.57,0:03:53.41,Dubtitles,,0,0,0,,Why are the salamanders here?
+Dialogue: 0,0:04:23.75,0:04:26.73,Dubtitles,,0,0,0,,Salamanders, stand down! Who's that?
+Dialogue: 0,0:04:28.83,0:04:29.66,Dubtitles,,0,0,0,,Sakuya!
+Dialogue: 0,0:04:30.67,0:04:32.51,Dubtitles,,0,0,0,,Letha, what are you doing here?
+Dialogue: 0,0:04:32.79,0:04:36.59,Dubtitles,,0,0,0,,It's too complicated to get into\Nnow, but you see that guy out there?
+Dialogue: 0,0:04:36.67,0:04:40.56,Dubtitles,,0,0,0,,Believe it or not, the fates of\Nour races depend on his next move.
+Dialogue: 0,0:04:41.25,0:04:42.89,Dubtitles,,0,0,0,,You have got to be kidding.
+Dialogue: 0,0:04:43.51,0:04:45.46,Dubtitles,,0,0,0,,I want to talk to your commander!
+Dialogue: 0,0:04:54.49,0:04:57.77,Dubtitles,,0,0,0,,What the hell is a Spriggan\Nlike you doing here?
+Dialogue: 0,0:05:01.03,0:05:03.74,Dubtitles,,0,0,0,,I'm gonna kill you no\Nmatter what your answer.
+Dialogue: 0,0:05:04.09,0:05:07.33,Dubtitles,,0,0,0,,But since you're brave enough to face\Nme, I might as well hear you out.
+Dialogue: 0,0:05:07.41,0:05:09.01,Dubtitles,,0,0,0,,My name is Kirito.
+Dialogue: 0,0:05:09.25,0:05:11.87,Dubtitles,,0,0,0,,I'm an ambassador for the\NSpriggan-Undine Alliance.
+Dialogue: 0,0:05:11.95,0:05:13.85,Dubtitles,,0,0,0,,Since you're on the offensive today,
+Dialogue: 0,0:05:13.93,0:05:17.82,Dubtitles,,0,0,0,,I'm assuming you want to wage a\Nfull-on war between all our races.
+Dialogue: 0,0:05:23.05,0:05:25.82,Dubtitles,,0,0,0,,The Undines are allied\Nwith the Spriggans, huh?
+Dialogue: 0,0:05:26.37,0:05:30.25,Dubtitles,,0,0,0,,And you're supposed to be their ambassador,\Nbut you've come here without a guard?
+Dialogue: 0,0:05:30.33,0:05:32.23,Dubtitles,,0,0,0,,Yeah, that's right. So what?
+Dialogue: 0,0:05:32.43,0:05:36.11,Dubtitles,,0,0,0,,I was sent here to negotiate trade\Nterms with the Sylphs and the Catseed.
+Dialogue: 0,0:05:36.19,0:05:40.33,Dubtitles,,0,0,0,,But if you interrupt our talks,\Nyou'll get to feel some serious hurt.
+Dialogue: 0,0:05:40.41,0:05:42.09,Dubtitles,,0,0,0,,All of our races are going to team up,
+Dialogue: 0,0:05:42.17,0:05:45.35,Dubtitles,,0,0,0,,and we'll bring the fight\Nstraight to the salamanders.
+Dialogue: 0,0:05:46.19,0:05:47.67,Dubtitles,,0,0,0,,You're kidding me, right?
+Dialogue: 0,0:05:47.79,0:05:49.97,Dubtitles,,0,0,0,,You're all alone, and\Nyou've got crappy gear,
+Dialogue: 0,0:05:50.05,0:05:53.05,Dubtitles,,0,0,0,,so there's no way you could\Nbe anyone's ambassador.
+Dialogue: 0,0:05:55.19,0:05:57.97,Dubtitles,,0,0,0,,If you can survive my\Nattacks for 30 seconds,
+Dialogue: 0,0:05:58.41,0:06:00.77,Dubtitles,,0,0,0,,then I'll believe you\Nare who you say you are.
+Dialogue: 0,0:06:00.85,0:06:01.71,Dubtitles,,0,0,0,,Gee, thanks.
+Dialogue: 0,0:06:01.95,0:06:03.23,Dubtitles,,0,0,0,,That's mighty generous.
+Dialogue: 0,0:06:03.31,0:06:05.13,Dubtitles,,0,0,0,,This is bad. Why?
+Dialogue: 0,0:06:05.65,0:06:07.89,Dubtitles,,0,0,0,,Do you see that salamander's sword?
+Dialogue: 0,0:06:07.97,0:06:09.68,Dubtitles,,0,0,0,,It's the demon sword, Graham.
+Dialogue: 0,0:06:09.87,0:06:13.17,Dubtitles,,0,0,0,,You need a two-handed sword\Nskill of 950 to equip it.
+Dialogue: 0,0:06:13.89,0:06:14.72,Dubtitles,,0,0,0,,950?
+Dialogue: 0,0:06:14.97,0:06:18.21,Dubtitles,,0,0,0,,Yes, and there's only one\Nperson I know who can use it.
+Dialogue: 0,0:06:18.41,0:06:19.43,Dubtitles,,0,0,0,,General Eugene.
+Dialogue: 0,0:06:19.87,0:06:20.99,Dubtitles,,0,0,0,,Have you heard of him?
+Dialogue: 0,0:06:21.07,0:06:22.67,Dubtitles,,0,0,0,,Yeah, I know the name.
+Dialogue: 0,0:06:23.21,0:06:26.83,Dubtitles,,0,0,0,,He's the younger brother of Mortimer,\Nthe leader of the salamanders.
+Dialogue: 0,0:06:26.91,0:06:28.97,Dubtitles,,0,0,0,,They're brothers in real life, too.
+Dialogue: 0,0:06:29.31,0:06:32.65,Dubtitles,,0,0,0,,Mortimer's a brilliant strategist,\Nbut in terms of sheer power,
+Dialogue: 0,0:06:32.73,0:06:35.05,Dubtitles,,0,0,0,,they say Eugene is the\Ngame's strongest player.
+Dialogue: 0,0:06:35.13,0:06:36.47,Dubtitles,,0,0,0,,Oh, no.
+Dialogue: 0,0:06:36.89,0:06:38.53,Dubtitles,,0,0,0,,He's the strongest player?
+Dialogue: 0,0:06:43.61,0:06:44.44,Dubtitles,,0,0,0,,Kirito...
+Dialogue: 0,0:06:58.93,0:07:00.59,Dubtitles,,0,0,0,,What was that?
+Dialogue: 0,0:07:00.79,0:07:01.97,Dubtitles,,0,0,0,,The ethereal shift.
+Dialogue: 0,0:07:02.15,0:07:03.29,Dubtitles,,0,0,0,,The sword's bonus skill.
+Dialogue: 0,0:07:03.37,0:07:06.63,Dubtitles,,0,0,0,,Whenever someone tries to block\Nit with a shield or sword,
+Dialogue: 0,0:07:06.71,0:07:09.05,Dubtitles,,0,0,0,,The Demonic Swordgram\Ncan phase through it!
+Dialogue: 0,0:07:09.13,0:07:09.96,Dubtitles,,0,0,0,,Really?
+Dialogue: 0,0:07:10.05,0:07:10.88,Dubtitles,,0,0,0,,No way!
+Dialogue: 0,0:07:13.51,0:07:15.01,Dubtitles,,0,0,0,,Can't believe you're not dead.
+Dialogue: 0,0:07:15.09,0:07:17.33,Dubtitles,,0,0,0,,What the hell kind of attack was this?
+Dialogue: 0,0:07:30.97,0:07:32.07,Dubtitles,,0,0,0,,Damn, he's good.
+Dialogue: 0,0:07:32.71,0:07:35.81,Dubtitles,,0,0,0,,Hey, Big Red, I think your\N30 seconds are up by now.
+Dialogue: 0,0:07:36.01,0:07:37.25,Dubtitles,,0,0,0,,I've changed my mind.
+Dialogue: 0,0:07:37.47,0:07:39.21,Dubtitles,,0,0,0,,I've decided to kill you anyway.
+Dialogue: 0,0:07:39.29,0:07:41.39,Dubtitles,,0,0,0,,Now you have to survive until I do.
+Dialogue: 0,0:07:41.73,0:07:42.85,Dubtitles,,0,0,0,,Yeah, that figures.
+Dialogue: 0,0:07:43.29,0:07:45.06,Dubtitles,,0,0,0,,But I won't go down that easy.
+Dialogue: 0,0:07:47.97,0:07:49.19,Dubtitles,,0,0,0,,This won't end well.
+Dialogue: 0,0:07:49.55,0:07:54.38,Dubtitles,,0,0,0,,They both seem like equally skilled fighters,\Nbut Eugene's weapon is far superior.
+Dialogue: 0,0:07:54.57,0:07:55.65,Dubtitles,,0,0,0,,He can do it.
+Dialogue: 0,0:07:57.75,0:07:59.58,Dubtitles,,0,0,0,,Kirito can beat him, I know it.
+Dialogue: 0,0:08:02.07,0:08:02.90,Dubtitles,,0,0,0,,Uh!
+Dialogue: 0,0:08:04.53,0:08:05.36,Dubtitles,,0,0,0,,Whoa!
+Dialogue: 0,0:08:06.05,0:08:06.88,Dubtitles,,0,0,0,,Uh!
+Dialogue: 0,0:08:07.73,0:08:08.56,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:08:09.45,0:08:10.28,Dubtitles,,0,0,0,,Uh!
+Dialogue: 0,0:08:22.85,0:08:23.68,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:08:25.45,0:08:26.28,Dubtitles,,0,0,0,,What the?
+Dialogue: 0,0:08:27.25,0:08:29.14,Dubtitles,,0,0,0,,I need to borrow this for a sec.
+Dialogue: 0,0:08:30.01,0:08:31.11,Dubtitles,,0,0,0,,Kirito?
+Dialogue: 0,0:08:34.45,0:08:37.53,Dubtitles,,0,0,0,,A few seconds, that's all you've lost!
+Dialogue: 0,0:08:43.29,0:08:44.77,Dubtitles,,0,0,0,,Hey, where'd he go?
+Dialogue: 0,0:08:46.05,0:08:47.95,Dubtitles,,0,0,0,,Do you think he ran away?
+Dialogue: 0,0:08:48.41,0:08:49.79,Dubtitles,,0,0,0,,Of course he didn't!
+Dialogue: 0,0:08:52.01,0:08:55.90,Dubtitles,,0,0,0,,As long as I'm alive, I'm not going\Nto let anyone in my party die.
+Dialogue: 0,0:08:56.25,0:08:58.15,Dubtitles,,0,0,0,,I won't let that happen again.
+Dialogue: 0,0:09:01.93,0:09:04.35,Dubtitles,,0,0,0,,Kirito would never run away and leave us.
+Dialogue: 0,0:09:12.77,0:09:13.60,Dubtitles,,0,0,0,,Kirito!
+Dialogue: 0,0:09:38.99,0:09:40.39,Dubtitles,,0,0,0,,Die!
+Dialogue: 0,0:09:43.41,0:09:44.24,Dubtitles,,0,0,0,,Die!
+Dialogue: 0,0:09:47.01,0:09:47.84,Dubtitles,,0,0,0,,Die!
+Dialogue: 0,0:09:47.93,0:09:49.83,Dubtitles,,0,0,0,,ITERA!
+Dialogue: 0,0:10:20.39,0:10:21.81,Dubtitles,,0,0,0,,Splendid! Marvelous!
+Dialogue: 0,0:10:21.89,0:10:24.01,Dubtitles,,0,0,0,,That was the most amazing fight ever!
+Dialogue: 0,0:10:24.09,0:10:26.23,Dubtitles,,0,0,0,,Nice fight done, Spriggan! Yeah!
+Dialogue: 0,0:10:27.55,0:10:28.83,Dubtitles,,0,0,0,,That was good!
+Dialogue: 0,0:10:29.15,0:10:30.15,Dubtitles,,0,0,0,,Yeah, seriously.
+Dialogue: 0,0:11:07.39,0:11:09.15,Dubtitles,,0,0,0,,You're an excellent fighter.
+Dialogue: 0,0:11:09.53,0:11:13.49,Dubtitles,,0,0,0,,In fact, you're the most powerful\Nplayer I've ever seen. Well done.
+Dialogue: 0,0:11:13.81,0:11:14.99,Dubtitles,,0,0,0,,You're not so bad yourself.
+Dialogue: 0,0:11:15.07,0:11:18.67,Dubtitles,,0,0,0,,I didn't know the Spriggans had\Nsomeone like you in their ranks.
+Dialogue: 0,0:11:18.75,0:11:20.89,Dubtitles,,0,0,0,,This world's a bigger\Nplace than I thought.
+Dialogue: 0,0:11:20.97,0:11:21.97,Dubtitles,,0,0,0,,Are we cool then?
+Dialogue: 0,0:11:22.13,0:11:23.19,Dubtitles,,0,0,0,,Will you withdraw?
+Dialogue: 0,0:11:33.87,0:11:35.83,Dubtitles,,0,0,0,,Eugene, may I have a word?
+Dialogue: 0,0:11:36.45,0:11:38.29,Dubtitles,,0,0,0,,Kagemune, what is it?
+Dialogue: 0,0:11:39.23,0:11:40.13,Dubtitles,,0,0,0,,Him again.
+Dialogue: 0,0:11:40.47,0:11:44.12,Dubtitles,,0,0,0,,Oh, then next time I'll make\Nsure to bring more friends along.
+Dialogue: 0,0:11:44.55,0:11:46.44,Dubtitles,,0,0,0,,You might find this interesting.
+Dialogue: 0,0:11:46.57,0:11:49.61,Dubtitles,,0,0,0,,You know how my party was\Nwiped out yesterday? So?
+Dialogue: 0,0:11:50.23,0:11:53.82,Dubtitles,,0,0,0,,Well, this Spriggan, he's the\Nsame guy who took everyone out.
+Dialogue: 0,0:11:54.65,0:11:57.03,Dubtitles,,0,0,0,,And he was traveling with an undine.
+Dialogue: 0,0:12:02.55,0:12:03.38,Dubtitles,,0,0,0,,Interesting.
+Dialogue: 0,0:12:04.37,0:12:06.63,Dubtitles,,0,0,0,,Then I guess I have to believe you.
+Dialogue: 0,0:12:07.05,0:12:08.47,Dubtitles,,0,0,0,,But just for the record,
+Dialogue: 0,0:12:08.75,0:12:13.70,Dubtitles,,0,0,0,,the last thing our leader and I want is to\Ngo to war with the Spriggans and Undines.
+Dialogue: 0,0:12:13.93,0:12:18.81,Dubtitles,,0,0,0,,We'll withdraw for now, but I'm gonna be\Nlooking forward to fighting you again.
+Dialogue: 0,0:12:19.11,0:12:20.64,Dubtitles,,0,0,0,,Then that makes two of us.
+Dialogue: 0,0:12:24.53,0:12:28.31,Dubtitles,,0,0,0,,I guess some salamanders can\Nbe cool after all. Who knew?
+Dialogue: 0,0:12:28.55,0:12:30.73,Dubtitles,,0,0,0,,You really are insane, you know that?
+Dialogue: 0,0:12:31.03,0:12:32.51,Dubtitles,,0,0,0,,Yeah, I get that a lot.
+Dialogue: 0,0:12:35.11,0:12:38.75,Dubtitles,,0,0,0,,Excuse me, but could either of\Nyou explain what's going on?
+Dialogue: 0,0:12:41.61,0:12:46.45,Dubtitles,,0,0,0,,I see. I could tell there was something\Noff about Sigurd's attitude recently.
+Dialogue: 0,0:12:46.53,0:12:51.47,Dubtitles,,0,0,0,,He seemed so irritated\Nirritated about what
+Dialogue: 0,0:12:51.55,0:12:54.59,Dubtitles,,0,0,0,,my guess he was\Ndissatisfied about the state
+Dialogue: 0,0:12:54.67,0:12:57.39,Dubtitles,,0,0,0,,of Things that in terms\Nof power he couldn't
+Dialogue: 0,0:12:57.47,0:12:59.95,Dubtitles,,0,0,0,,accept we'd fallen behind the Salamanders.
+Dialogue: 0,0:13:00.89,0:13:04.31,Dubtitles,,0,0,0,,Power is very important\Nto a man like Sigurd and
+Dialogue: 0,0:13:04.39,0:13:06.55,Dubtitles,,0,0,0,,not just for his abilities\Nand character stats.
+Dialogue: 0,0:13:06.63,0:13:08.01,Dubtitles,,0,0,0,,but also as a player.
+Dialogue: 0,0:13:08.39,0:13:09.87,Dubtitles,,0,0,0,,He craves power.
+Dialogue: 0,0:13:10.93,0:13:14.71,Dubtitles,,0,0,0,,Yeah, but even so, why would he\Nturn spy for the salamanders?
+Dialogue: 0,0:13:15.09,0:13:19.92,Dubtitles,,0,0,0,,It must have something to do with the 5.0\Nupdate that's going to be released soon.
+Dialogue: 0,0:13:20.13,0:13:24.02,Dubtitles,,0,0,0,,I heard a rumor that they'll be\Nputting in a reincarnation system.
+Dialogue: 0,0:13:24.59,0:13:25.43,Dubtitles,,0,0,0,,No way!
+Dialogue: 0,0:13:25.67,0:13:27.79,Dubtitles,,0,0,0,,I'm sure Mortimer made him an offer.
+Dialogue: 0,0:13:28.21,0:13:32.57,Dubtitles,,0,0,0,,Bring me the head of your leader and\NI'll reincarnate you as a salamander.
+Dialogue: 0,0:13:33.89,0:13:35.01,Dubtitles,,0,0,0,,So now what?
+Dialogue: 0,0:13:35.29,0:13:36.87,Dubtitles,,0,0,0,,What will you do, Sakuya?
+Dialogue: 0,0:13:40.67,0:13:44.29,Dubtitles,,0,0,0,,Rue, have you raised your\Ndark magic skill yet? Mm-hmm.
+Dialogue: 0,0:13:45.43,0:13:47.49,Dubtitles,,0,0,0,,Open a moonlight mirror to Sigurd.
+Dialogue: 0,0:13:56.39,0:13:57.22,Dubtitles,,0,0,0,,Sigurd!
+Dialogue: 0,0:13:58.59,0:13:59.42,Dubtitles,,0,0,0,,Sakuya!
+Dialogue: 0,0:13:59.51,0:14:00.69,Dubtitles,,0,0,0,,Nice to see you, too.
+Dialogue: 0,0:14:00.77,0:14:06.97,Dubtitles,,0,0,0,,Unfortunately I'm still alive. How I mean\Nwhat happened at the meeting? It went.
+Dialogue: 0,0:14:07.05,0:14:13.27,Dubtitles,,0,0,0,,Very well there's still the matter of\Nsigning the treaty though by the way we
+Dialogue: 0,0:14:13.35,0:14:19.97,Dubtitles,,0,0,0,,had an unexpected guest what guest his\Nname is General Eugene and he sends his.
+Dialogue: 0,0:14:25.55,0:14:26.38,Dubtitles,,0,0,0,,Leafa.
+Dialogue: 0,0:14:26.47,0:14:27.30,Dubtitles,,0,0,0,,So that's it.
+Dialogue: 0,0:14:27.38,0:14:28.99,Dubtitles,,0,0,0,,Those incompetent lizards.
+Dialogue: 0,0:14:31.11,0:14:33.35,Dubtitles,,0,0,0,,Well, it's your move now, Sapia.
+Dialogue: 0,0:14:33.71,0:14:34.95,Dubtitles,,0,0,0,,Are you going to find me?
+Dialogue: 0,0:14:35.03,0:14:37.23,Dubtitles,,0,0,0,,Or maybe you want to take away my command.
+Dialogue: 0,0:14:37.31,0:14:42.14,Dubtitles,,0,0,0,,If so, remember, without me running your\Nmilitary, your rule won't last very long.
+Dialogue: 0,0:14:42.27,0:14:45.51,Dubtitles,,0,0,0,,Actually, I was thinking of\Ngranting the request you made them.
+Dialogue: 0,0:14:45.59,0:14:47.97,Dubtitles,,0,0,0,,Since you can't stand being\Na self, you're free to go.
+Dialogue: 0,0:14:48.05,0:14:49.13,Dubtitles,,0,0,0,,Wait, what?
+Dialogue: 0,0:14:53.67,0:14:54.57,Dubtitles,,0,0,0,,Hold on.
+Dialogue: 0,0:14:54.77,0:14:55.65,Dubtitles,,0,0,0,,Are you crazy?
 Dialogue: 1,0:14:55.79,0:14:59.21,Menus,,0,0,0,,{\b1\blur0.9\c&HE3ECF4&\fs43.5\pos(397.5,577.5)\frz329.5}You have a notification from your leader stating the revocation of your rights as a Sylph and banishment from the territory.
 Dialogue: 1,0:14:55.79,0:14:59.21,Menus,,0,0,0,,{\b1\blur1.05\c&H6F7E8A&\fs43.5\pos(396,573)\frz329.5}You have a notification from your leader stating the revocation of your rights as a Sylph and banishment from the territory.
-Dialogue: 0,0:14:56.84,0:14:58.28,Dubtitles,,0,0,0,,You're banishing me?
-Dialogue: 0,0:14:58.58,0:15:02.52,Dubtitles,,0,0,0,,I'm letting you live to wander the\Nneutral territory as a renegade.
-Dialogue: 0,0:15:02.76,0:15:07.29,Dubtitles,,0,0,0,,With any luck, you'll find something\Nthere that'll occupy your precious time.
-Dialogue: 0,0:15:08.50,0:15:09.80,Dubtitles,,0,0,0,,You bi -
-Dialogue: 0,0:15:25.02,0:15:25.85,Dubtitles,,0,0,0,,Sakuya?
-Dialogue: 0,0:15:25.93,0:15:27.66,Dubtitles,,0,0,0,,Thank you for saving us, Leafa.
-Dialogue: 0,0:15:27.84,0:15:30.84,Dubtitles,,0,0,0,,You've no idea how grateful\NI am having you around.
-Dialogue: 0,0:15:30.96,0:15:33.24,Dubtitles,,0,0,0,,Oh, well, I didn't really do anything.
-Dialogue: 0,0:15:33.54,0:15:35.84,Dubtitles,,0,0,0,,If you want to thank\Nsomeone, thank Kirito.
-Dialogue: 0,0:15:35.92,0:15:36.75,Dubtitles,,0,0,0,,She's right.
-Dialogue: 0,0:15:36.83,0:15:38.94,Dubtitles,,0,0,0,,Whoever you are, you have my thanks.
-Dialogue: 0,0:15:39.16,0:15:39.99,Dubtitles,,0,0,0,,Hey, handsome.
-Dialogue: 0,0:15:40.34,0:15:42.94,Dubtitles,,0,0,0,,About the Spriggan undine\Nambassador business.
-Dialogue: 0,0:15:43.02,0:15:44.30,Dubtitles,,0,0,0,,You aren't, are you?
-Dialogue: 0,0:15:50.72,0:15:52.40,Dubtitles,,0,0,0,,Yeah, that was a big fat lie.
-Dialogue: 0,0:15:52.48,0:15:55.25,Dubtitles,,0,0,0,,I was bluffing, conning,\Nyou know, negotiating.
-Dialogue: 0,0:15:56.14,0:15:57.80,Dubtitles,,0,0,0,,Oh god, you must be insane.
-Dialogue: 0,0:15:58.22,0:16:01.00,Dubtitles,,0,0,0,,You have to be to make all that\Nstuff up at the last minute.
-Dialogue: 0,0:16:01.08,0:16:02.46,Dubtitles,,0,0,0,,Yeah, but it worked, didn't it?
-Dialogue: 0,0:16:02.54,0:16:05.44,Dubtitles,,0,0,0,,Whenever I'm dealt a bad\Nhand, I always raise the pot.
-Dialogue: 0,0:16:05.52,0:16:09.12,Dubtitles,,0,0,0,,You know, for a big fat liar, you're\Npretty freaking strong, handsome.
-Dialogue: 0,0:16:09.20,0:16:11.14,Dubtitles,,0,0,0,,You're like the MVP of Spriggans.
-Dialogue: 0,0:16:11.30,0:16:12.52,Dubtitles,,0,0,0,,Are you their secret weapon?
-Dialogue: 0,0:16:12.60,0:16:13.94,Dubtitles,,0,0,0,,Nah, of course not.
-Dialogue: 0,0:16:14.18,0:16:17.06,Dubtitles,,0,0,0,,All I am is your friendly\Nneighborhood mercenary.
-Dialogue: 0,0:16:20.06,0:16:21.60,Dubtitles,,0,0,0,,I like the wandering type.
-Dialogue: 0,0:16:22.00,0:16:24.76,Dubtitles,,0,0,0,,Have you ever thought about\Nbeing a merc for the cat scene?
-Dialogue: 0,0:16:24.84,0:16:27.66,Dubtitles,,0,0,0,,You get three meals a day\Nplus snacks and a nap.
-Dialogue: 0,0:16:28.88,0:16:33.58,Dubtitles,,0,0,0,,So, Kirito, I was thinking, how about we\Nget to know each other a little better?
-Dialogue: 0,0:16:33.66,0:16:36.42,Dubtitles,,0,0,0,,I know a cute little pub\Nin Sylvain. My treat.
-Dialogue: 0,0:16:37.58,0:16:38.41,Dubtitles,,0,0,0,,Wait!
-Dialogue: 0,0:16:38.49,0:16:39.58,Dubtitles,,0,0,0,,Aw, come on, Sakuya!
-Dialogue: 0,0:16:39.78,0:16:40.61,Dubtitles,,0,0,0,,That's not fair!
-Dialogue: 0,0:16:40.69,0:16:43.52,Dubtitles,,0,0,0,,You're totally seducing\Nhim with those things.
-Dialogue: 0,0:16:44.02,0:16:45.36,Dubtitles,,0,0,0,,I'm seducing him.
-Dialogue: 0,0:16:45.44,0:16:48.44,Dubtitles,,0,0,0,,If you were any closer to\Nhim, he'd be wearing you.
-Dialogue: 0,0:16:51.30,0:16:52.94,Dubtitles,,0,0,0,,Would you guys chill out?
-Dialogue: 0,0:16:53.14,0:16:55.14,Dubtitles,,0,0,0,,For your information, he's my...
-Dialogue: 0,0:16:57.02,0:16:58.66,Dubtitles,,0,0,0,,I mean, he's...
-Dialogue: 0,0:17:00.96,0:17:01.79,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:17:02.18,0:17:03.72,Dubtitles,,0,0,0,,He's my...
-Dialogue: 0,0:17:03.80,0:17:05.30,Dubtitles,,0,0,0,,Never mind.
-Dialogue: 0,0:17:10.66,0:17:12.90,Dubtitles,,0,0,0,,Look, I appreciate the offers, really.
-Dialogue: 0,0:17:13.20,0:17:18.78,Dubtitles,,0,0,0,,But the thing is, she promised to take\Nme to the World Tree, so... sorry.
-Dialogue: 0,0:17:20.80,0:17:21.63,Dubtitles,,0,0,0,,Really?
-Dialogue: 0,0:17:21.71,0:17:23.62,Dubtitles,,0,0,0,,Oh well, that is a shame.
-Dialogue: 0,0:17:24.02,0:17:26.60,Dubtitles,,0,0,0,,Are you going there for a\Nlittle sightseeing, Leafa?
-Dialogue: 0,0:17:26.68,0:17:27.68,Dubtitles,,0,0,0,,Or what?
-Dialogue: 0,0:17:28.12,0:17:29.70,Dubtitles,,0,0,0,,I'm leaving the Sylphs.
-Dialogue: 0,0:17:30.20,0:17:31.80,Dubtitles,,0,0,0,,Or planning on it anyway.
-Dialogue: 0,0:17:32.10,0:17:34.66,Dubtitles,,0,0,0,,But I want to return to\NSylvain at some point.
-Dialogue: 0,0:17:34.74,0:17:36.70,Dubtitles,,0,0,0,,I just don't know when that's gonna be.
-Dialogue: 0,0:17:36.78,0:17:38.43,Dubtitles,,0,0,0,,Not a problem, I understand.
-Dialogue: 0,0:17:38.72,0:17:40.56,Dubtitles,,0,0,0,,Just make sure you come back, okay?
-Dialogue: 0,0:17:40.64,0:17:41.93,Dubtitles,,0,0,0,,And bring your friend.
-Dialogue: 0,0:17:42.12,0:17:44.00,Dubtitles,,0,0,0,,On the way back, stop by my place.
-Dialogue: 0,0:17:44.08,0:17:45.49,Dubtitles,,0,0,0,,We'll throw you a party.
-Dialogue: 0,0:17:50.44,0:17:53.72,Dubtitles,,0,0,0,,Thank you so much for\Ncoming today, Leafa, Kirito.
-Dialogue: 0,0:17:54.40,0:17:56.52,Dubtitles,,0,0,0,,If you hadn't been here to stop them,
-Dialogue: 0,0:17:56.60,0:17:59.80,Dubtitles,,0,0,0,,the salamanders would have become\Neven more powerful than ever.
-Dialogue: 0,0:17:59.88,0:18:01.82,Dubtitles,,0,0,0,,I'd like to pay you back somehow.
-Dialogue: 0,0:18:02.04,0:18:03.34,Dubtitles,,0,0,0,,Oh no, it was nothing.
-Dialogue: 0,0:18:04.36,0:18:06.02,Dubtitles,,0,0,0,,Hey, Sakuya, Alicia,
-Dialogue: 0,0:18:06.10,0:18:09.86,Dubtitles,,0,0,0,,wasn't the point of you guys getting\Ntogether to make a try for the World Tree?
-Dialogue: 0,0:18:09.94,0:18:12.12,Dubtitles,,0,0,0,,Ultimately, yes, that was our goal.
+Dialogue: 0,0:14:56.87,0:14:57.70,Dubtitles,,0,0,0,,Me?
+Dialogue: 0,0:14:57.79,0:14:58.77,Dubtitles,,0,0,0,,You're banishing me?
+Dialogue: 0,0:14:59.07,0:15:03.02,Dubtitles,,0,0,0,,I'm letting you live to wander the\Nneutral territory as a renegade.
+Dialogue: 0,0:15:03.29,0:15:07.82,Dubtitles,,0,0,0,,With any luck, you'll find something\Nthere that'll occupy your precious time.
+Dialogue: 0,0:15:08.99,0:15:10.29,Dubtitles,,0,0,0,,You bi -
+Dialogue: 0,0:15:25.53,0:15:26.36,Dubtitles,,0,0,0,,Sakuya?
+Dialogue: 0,0:15:26.45,0:15:28.16,Dubtitles,,0,0,0,,Thank you for saving us, Leafa.
+Dialogue: 0,0:15:28.35,0:15:31.29,Dubtitles,,0,0,0,,You've no idea how grateful\NI am having you around.
+Dialogue: 0,0:15:31.37,0:15:33.73,Dubtitles,,0,0,0,,Oh, well, I didn't really do anything.
+Dialogue: 0,0:15:34.03,0:15:36.31,Dubtitles,,0,0,0,,If you want to thank\Nsomeone, thank Kirito.
+Dialogue: 0,0:15:36.39,0:15:37.22,Dubtitles,,0,0,0,,She's right.
+Dialogue: 0,0:15:37.33,0:15:39.45,Dubtitles,,0,0,0,,Whoever you are, you have my thanks.
+Dialogue: 0,0:15:39.71,0:15:40.54,Dubtitles,,0,0,0,,Hey, handsome.
+Dialogue: 0,0:15:40.87,0:15:43.55,Dubtitles,,0,0,0,,About the Spriggan and\NDean ambassador business...
+Dialogue: 0,0:15:43.63,0:15:44.81,Dubtitles,,0,0,0,,You aren't, are you?
+Dialogue: 0,0:15:46.83,0:15:47.66,Dubtitles,,0,0,0,,Uh...
+Dialogue: 0,0:15:51.23,0:15:52.89,Dubtitles,,0,0,0,,Yeah, that was a big fat lie.
+Dialogue: 0,0:15:52.97,0:15:55.74,Dubtitles,,0,0,0,,I was bluffing, conning,\Nyou know, negotiating.
+Dialogue: 0,0:15:56.63,0:15:58.29,Dubtitles,,0,0,0,,Oh god, you must be insane.
+Dialogue: 0,0:15:58.57,0:16:01.45,Dubtitles,,0,0,0,,You have to be to make all that\Nstuff up at the last minute.
+Dialogue: 0,0:16:01.53,0:16:02.95,Dubtitles,,0,0,0,,Yeah, but it worked, didn't it?
+Dialogue: 0,0:16:03.03,0:16:05.95,Dubtitles,,0,0,0,,Whenever I'm dealt a bad\Nhand, I always raise the pot.
+Dialogue: 0,0:16:06.03,0:16:09.61,Dubtitles,,0,0,0,,You know, for a big fat liar, you're\Npretty freaking strong, handsome.
+Dialogue: 0,0:16:09.69,0:16:11.64,Dubtitles,,0,0,0,,You're like the MVP of Spriggans.
+Dialogue: 0,0:16:11.79,0:16:13.33,Dubtitles,,0,0,0,,Are you their secret weapon?
+Dialogue: 0,0:16:13.41,0:16:14.53,Dubtitles,,0,0,0,,Nah, of course not.
+Dialogue: 0,0:16:14.67,0:16:17.56,Dubtitles,,0,0,0,,All I am is your friendly\Nneighborhood mercenary.
+Dialogue: 0,0:16:20.51,0:16:22.09,Dubtitles,,0,0,0,,I like the wandering type.
+Dialogue: 0,0:16:22.49,0:16:25.23,Dubtitles,,0,0,0,,Have you ever thought about\Nbeing a merc for the cat scene?
+Dialogue: 0,0:16:25.31,0:16:28.14,Dubtitles,,0,0,0,,You get three meals a day\Nplus snacks and a nap.
+Dialogue: 0,0:16:29.33,0:16:34.04,Dubtitles,,0,0,0,,So, Kirito, I was thinking, how about we\Nget to know each other a little better?
+Dialogue: 0,0:16:34.17,0:16:36.93,Dubtitles,,0,0,0,,I know a cute little pub\Nin Sylvain. My treat.
+Dialogue: 0,0:16:37.57,0:16:38.40,Dubtitles,,0,0,0,,Wait!
+Dialogue: 0,0:16:38.49,0:16:40.09,Dubtitles,,0,0,0,,Aw, come on, Sakuya!
+Dialogue: 0,0:16:40.25,0:16:41.20,Dubtitles,,0,0,0,,That's not fair!
+Dialogue: 0,0:16:41.45,0:16:44.16,Dubtitles,,0,0,0,,You're totally seducing\Nhim with those things!
+Dialogue: 0,0:16:44.75,0:16:45.83,Dubtitles,,0,0,0,,I'm seducing him!
+Dialogue: 0,0:16:45.91,0:16:48.91,Dubtitles,,0,0,0,,If you were any closer to\Nhim, he'd be wearing you.
+Dialogue: 0,0:16:51.79,0:16:53.43,Dubtitles,,0,0,0,,Would you guys chill out?
+Dialogue: 0,0:16:53.63,0:16:55.63,Dubtitles,,0,0,0,,For your information, he's my...
+Dialogue: 0,0:16:57.51,0:16:59.21,Dubtitles,,0,0,0,,I mean, he's...
+Dialogue: 0,0:17:01.45,0:17:02.28,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:17:02.67,0:17:04.21,Dubtitles,,0,0,0,,He's my...
+Dialogue: 0,0:17:04.29,0:17:05.79,Dubtitles,,0,0,0,,Uh, never mind.
+Dialogue: 0,0:17:10.91,0:17:13.19,Dubtitles,,0,0,0,,Look, I appreciate the offers, really.
+Dialogue: 0,0:17:13.73,0:17:19.27,Dubtitles,,0,0,0,,But the thing is, she promised to\Ntake me to the World Tree, so sorry.
+Dialogue: 0,0:17:22.03,0:17:22.86,Dubtitles,,0,0,0,,Really?
+Dialogue: 0,0:17:22.95,0:17:24.63,Dubtitles,,0,0,0,,Oh well, that is a shame.
+Dialogue: 0,0:17:24.71,0:17:27.13,Dubtitles,,0,0,0,,Are you going there for a\Nlittle sightseeing, Leafa?
+Dialogue: 0,0:17:27.21,0:17:28.21,Dubtitles,,0,0,0,,Or what?
+Dialogue: 0,0:17:29.17,0:17:30.65,Dubtitles,,0,0,0,,I'm leaving the sylphs.
+Dialogue: 0,0:17:30.73,0:17:32.29,Dubtitles,,0,0,0,,Or planning on it anyway.
+Dialogue: 0,0:17:32.59,0:17:35.19,Dubtitles,,0,0,0,,But I want to return to\NSylvain at some point.
+Dialogue: 0,0:17:35.27,0:17:37.35,Dubtitles,,0,0,0,,I just don't know when that's gonna be.
+Dialogue: 0,0:17:37.43,0:17:39.08,Dubtitles,,0,0,0,,Not a problem, I understand.
+Dialogue: 0,0:17:39.25,0:17:41.05,Dubtitles,,0,0,0,,Just make sure you come back, okay?
+Dialogue: 0,0:17:41.13,0:17:42.27,Dubtitles,,0,0,0,,And bring your friend.
+Dialogue: 0,0:17:42.35,0:17:44.45,Dubtitles,,0,0,0,,On the way back, stop by my place.
+Dialogue: 0,0:17:44.59,0:17:46.01,Dubtitles,,0,0,0,,We'll throw you a party.
+Dialogue: 0,0:17:50.91,0:17:54.21,Dubtitles,,0,0,0,,Thank you so much for\Ncoming today, Leafa, Kirito.
+Dialogue: 0,0:17:54.89,0:17:57.03,Dubtitles,,0,0,0,,If you hadn't been here to stop them,
+Dialogue: 0,0:17:57.11,0:18:00.31,Dubtitles,,0,0,0,,the salamanders would have become\Neven more powerful than ever.
+Dialogue: 0,0:18:00.39,0:18:02.34,Dubtitles,,0,0,0,,I'd like to pay you back somehow.
+Dialogue: 0,0:18:02.55,0:18:03.85,Dubtitles,,0,0,0,,Oh no, it was nothing.
+Dialogue: 0,0:18:04.97,0:18:06.51,Dubtitles,,0,0,0,,Hey, Sakuya, Alicia,
+Dialogue: 0,0:18:06.59,0:18:10.31,Dubtitles,,0,0,0,,wasn't the point of you guys getting\Ntogether to make a try for the world tree?
 Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\alpha10\blur7.5\c&H96BDCC&\p1\fscx110\fscy40\pos(1362,101)}m 0 0 l 150 0 150 150 0 150
 Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\fs30\c&H1A262E&\b1\blur0.9\pos(1363.14,89.43)\fn@HiraginoGyoDS}World Tree
 Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\alpha10\blur7.5\c&H96BDCC&\p1\fscx170\fscy60\pos(513.5,684.5)}m 0 0 l 150 0 150 150 0 150
@@ -4422,67 +4410,67 @@ Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\fn@HiraginoGyoDS\fs30\c&H10151
 Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\alpha10\blur7.5\c&H96BDCC&\p1\fscx180\fscy60\pos(407.51,184.01)}m 0 0 l 150 0 150 150 0 150
 Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\fn@HiraginoGyoDS\fs30\c&H0D1725&\b1\blur0.9\pos(408.05,137.93)}Cait Sith Territory
 Dialogue: 1,0:18:09.94,0:18:19.41,Signs,,0,0,0,,{\fn@HiraginoGyoDS\fs30\c&H0D1725&\b1\blur0.9\pos(407.04,169.94)}Capital Freelia
-Dialogue: 0,0:18:12.60,0:18:16.36,Dubtitles,,0,0,0,,If you're okay with it and it's no\Ntrouble, we'd like to go with you.
-Dialogue: 0,0:18:16.44,0:18:19.15,Dubtitles,,0,0,0,,We're kind of in a hurry\Nto get there, though.
-Dialogue: 0,0:18:22.52,0:18:24.26,Dubtitles,,0,0,0,,Well, I can't see why not.
-Dialogue: 0,0:18:24.54,0:18:27.94,Dubtitles,,0,0,0,,In fact, the truth is, we'd\Nbe grateful to have you along.
-Dialogue: 0,0:18:28.02,0:18:30.67,Dubtitles,,0,0,0,,But why are you in such\Na hurry to get there?
-Dialogue: 0,0:18:34.44,0:18:35.42,Dubtitles,,0,0,0,,She's not in a hurry.
-Dialogue: 0,0:18:35.50,0:18:38.32,Dubtitles,,0,0,0,,I'm the one who has to get\Nto the top of the tree.
-Dialogue: 0,0:18:38.40,0:18:41.40,Dubtitles,,0,0,0,,I think someone I know is\Nup there, waiting for me.
-Dialogue: 0,0:18:42.60,0:18:43.43,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:18:43.51,0:18:44.96,Dubtitles,,0,0,0,,Is it Oberon, the fairy king?
-Dialogue: 0,0:18:46.24,0:18:47.07,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:18:47.15,0:18:47.98,Dubtitles,,0,0,0,,It's not him.
-Dialogue: 0,0:18:48.78,0:18:51.13,Dubtitles,,0,0,0,,It's someone I can't reach in real life.
-Dialogue: 0,0:18:52.36,0:18:54.48,Dubtitles,,0,0,0,,But in here, I might be able to.
-Dialogue: 0,0:18:54.94,0:18:58.46,Dubtitles,,0,0,0,,We want to help, but storming the tree\Nis going to take some time to set up.
-Dialogue: 0,0:18:58.54,0:19:00.76,Dubtitles,,0,0,0,,We gotta gear up the\Nraiding party and stuff
-Dialogue: 0,0:19:00.84,0:19:03.49,Dubtitles,,0,0,0,,and that'll take us way\Nmore than a few days.
-Dialogue: 0,0:19:03.70,0:19:04.53,Dubtitles,,0,0,0,,I see
-Dialogue: 0,0:19:05.96,0:19:08.96,Dubtitles,,0,0,0,,Never mind that I don't want\Nto raid the tree like you
-Dialogue: 0,0:19:09.04,0:19:11.72,Dubtitles,,0,0,0,,I just want to get to the base\Nof it as soon as possible.
-Dialogue: 0,0:19:11.80,0:19:12.70,Dubtitles,,0,0,0,,So it's cool.
-Dialogue: 0,0:19:12.86,0:19:13.76,Dubtitles,,0,0,0,,We'll figure it out.
-Dialogue: 0,0:19:13.84,0:19:14.94,Dubtitles,,0,0,0,,Oh, by the way
-Dialogue: 0,0:19:17.10,0:19:20.69,Dubtitles,,0,0,0,,Maybe this will help you guys\Nget some new gear for your raid
-Dialogue: 0,0:19:30.38,0:19:33.58,Dubtitles,,0,0,0,,A-a hundred thousand\Npieces of mithril yuild?!
-Dialogue: 0,0:19:33.66,0:19:35.08,Dubtitles,,0,0,0,,You don't want it?
-Dialogue: 0,0:19:35.20,0:19:37.66,Dubtitles,,0,0,0,,You could build a castle\Non prime land with this!
-Dialogue: 0,0:19:37.74,0:19:38.62,Dubtitles,,0,0,0,,No, it's yours.
-Dialogue: 0,0:19:38.92,0:19:40.33,Dubtitles,,0,0,0,,I don't need it anymore.
-Dialogue: 0,0:19:40.52,0:19:41.72,Dubtitles,,0,0,0,,You are so awesome!
-Dialogue: 0,0:19:41.98,0:19:45.08,Dubtitles,,0,0,0,,With this bag of loot, we've got\Njust about enough for new gear!
-Dialogue: 0,0:19:45.16,0:19:47.16,Dubtitles,,0,0,0,,We'll get ready as fast as we can.
-Dialogue: 0,0:19:47.38,0:19:50.00,Dubtitles,,0,0,0,,When we're set to go,\Nwe'll message you, okay?
-Dialogue: 0,0:19:50.08,0:19:51.30,Dubtitles,,0,0,0,,Yeah, you got it.
-Dialogue: 0,0:19:54.48,0:19:55.36,Dubtitles,,0,0,0,,Thanks, guys!
-Dialogue: 0,0:19:55.62,0:19:56.74,Dubtitles,,0,0,0,,We'll be seeing ya!
-Dialogue: 0,0:20:02.48,0:20:06.30,Dubtitles,,0,0,0,,I don't know about you, but I\Ncan't believe you pulled that off.
-Dialogue: 0,0:20:11.78,0:20:12.92,Dubtitles,,0,0,0,,Oh, honestly.
-Dialogue: 0,0:20:13.30,0:20:16.02,Dubtitles,,0,0,0,,I thought I told you no\Nmore flirting, Daddy.
-Dialogue: 0,0:20:17.02,0:20:19.10,Dubtitles,,0,0,0,,But I wasn't flirting with anyone.
-Dialogue: 0,0:20:19.46,0:20:23.30,Dubtitles,,0,0,0,,When those girls were clinging to you, I\Nnoticed that your heart rate increased.
-Dialogue: 0,0:20:23.38,0:20:24.21,Dubtitles,,0,0,0,,I'm a guy.
-Dialogue: 0,0:20:24.29,0:20:26.44,Dubtitles,,0,0,0,,That's what happens when\Ngirls get too close.
-Dialogue: 0,0:20:26.52,0:20:27.35,Dubtitles,,0,0,0,,Seriously.
-Dialogue: 0,0:20:27.46,0:20:28.44,Dubtitles,,0,0,0,,What about me?
-Dialogue: 0,0:20:29.22,0:20:30.05,Dubtitles,,0,0,0,,I'm a girl.
-Dialogue: 0,0:20:30.13,0:20:31.12,Dubtitles,,0,0,0,,Isn't that a problem?
-Dialogue: 0,0:20:31.60,0:20:33.94,Dubtitles,,0,0,0,,No, you seem pretty safe to me, Leafa.
-Dialogue: 0,0:20:34.26,0:20:35.61,Dubtitles,,0,0,0,,What do you mean, safe?
-Dialogue: 0,0:20:38.78,0:20:43.44,Dubtitles,,0,0,0,,I think what she means is most of the time,\Nyou don't really seem much like a girl.
-Dialogue: 0,0:20:43.52,0:20:44.38,Dubtitles,,0,0,0,,Okay, whoa!
-Dialogue: 0,0:20:44.46,0:20:46.06,Dubtitles,,0,0,0,,Say that again, I dare you!
-Dialogue: 0,0:20:46.38,0:20:49.02,Dubtitles,,0,0,0,,No, like, like you're\Neasy to get along with.
-Dialogue: 0,0:20:49.10,0:20:50.52,Dubtitles,,0,0,0,,I meant it in a good way.
-Dialogue: 0,0:20:50.60,0:20:52.24,Dubtitles,,0,0,0,,Yeah, come on!
-Dialogue: 0,0:20:52.44,0:20:54.98,Dubtitles,,0,0,0,,We still got a ways to\Ngo before we get to Arun.
-Dialogue: 0,0:20:55.06,0:20:56.28,Dubtitles,,0,0,0,,The sun's starting to go down.
-Dialogue: 0,0:20:56.36,0:20:58.70,Dubtitles,,0,0,0,,Okay, I'm coming! Wait up!
-Dialogue: 0,0:21:23.92,0:21:28.54,Dubtitles,,0,0,0,,Oh, my God.
-Dialogue: 0,0:21:34.34,0:21:37.84,Dubtitles,,0,0,0,,Kirito, I promise you, I won't give up.
-Dialogue: 0,0:21:58.70,0:21:59.53,Dubtitles,,0,0,0,,you
+Dialogue: 0,0:18:10.39,0:18:12.61,Dubtitles,,0,0,0,,Ultimately, yes, that was our goal.
+Dialogue: 0,0:18:13.11,0:18:16.87,Dubtitles,,0,0,0,,If you're okay with it and it's no\Ntrouble, we'd like to go with you.
+Dialogue: 0,0:18:16.95,0:18:19.66,Dubtitles,,0,0,0,,We're kind of in a hurry\Nto get there, though.
+Dialogue: 0,0:18:23.03,0:18:24.77,Dubtitles,,0,0,0,,Well, I can't see why not.
+Dialogue: 0,0:18:25.03,0:18:28.45,Dubtitles,,0,0,0,,In fact, the truth is, we'd\Nbe grateful to have you along.
+Dialogue: 0,0:18:28.55,0:18:31.20,Dubtitles,,0,0,0,,But why are you in such\Na hurry to get there?
+Dialogue: 0,0:18:34.39,0:18:35.63,Dubtitles,,0,0,0,,She's not in a hurry.
+Dialogue: 0,0:18:36.05,0:18:38.75,Dubtitles,,0,0,0,,I'm the one who has to get\Nto the top of the tree.
+Dialogue: 0,0:18:38.83,0:18:41.87,Dubtitles,,0,0,0,,I think someone I know is\Nup there, waiting for me.
+Dialogue: 0,0:18:43.07,0:18:43.90,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:18:43.99,0:18:45.43,Dubtitles,,0,0,0,,Is it Oberon, the Fairy King?
+Dialogue: 0,0:18:46.65,0:18:47.48,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:18:47.57,0:18:48.40,Dubtitles,,0,0,0,,It's not him.
+Dialogue: 0,0:18:49.25,0:18:51.61,Dubtitles,,0,0,0,,It's someone I can't reach in real life.
+Dialogue: 0,0:18:52.79,0:18:54.97,Dubtitles,,0,0,0,,But in here, I might be able to.
+Dialogue: 0,0:18:55.41,0:18:59.09,Dubtitles,,0,0,0,,We want to help, but storming the tree\Nis going to take some time to set up.
+Dialogue: 0,0:18:59.17,0:19:01.51,Dubtitles,,0,0,0,,We've got to gear up the\Nraiding party and stuff.
+Dialogue: 0,0:19:01.59,0:19:04.89,Dubtitles,,0,0,0,,And that'll take us way\Nmore than a few days. I see.
+Dialogue: 0,0:19:06.41,0:19:07.37,Dubtitles,,0,0,0,,Never mind then.
+Dialogue: 0,0:19:07.45,0:19:09.59,Dubtitles,,0,0,0,,I don't want to raid the tree like you.
+Dialogue: 0,0:19:09.67,0:19:12.23,Dubtitles,,0,0,0,,I just want to get to the base\Nof it as soon as possible.
+Dialogue: 0,0:19:12.31,0:19:13.17,Dubtitles,,0,0,0,,So it's cool.
+Dialogue: 0,0:19:13.33,0:19:14.29,Dubtitles,,0,0,0,,We'll figure it out.
+Dialogue: 0,0:19:14.37,0:19:15.73,Dubtitles,,0,0,0,,Oh, by the way...
+Dialogue: 0,0:19:17.61,0:19:21.14,Dubtitles,,0,0,0,,Maybe this'll help you guys get\Nsome new gear for your raid.
+Dialogue: 0,0:19:26.35,0:19:27.18,Dubtitles,,0,0,0,,Whoa!
+Dialogue: 0,0:19:27.27,0:19:28.35,Dubtitles,,0,0,0,,Saffia, look! Check it out!
+Dialogue: 0,0:19:31.13,0:19:33.81,Dubtitles,,0,0,0,,A hundred thousand pieces of mithril yuld?
+Dialogue: 0,0:19:34.49,0:19:35.49,Dubtitles,,0,0,0,,You don't want it?
+Dialogue: 0,0:19:35.57,0:19:38.17,Dubtitles,,0,0,0,,You could build a castle\Non Prime Land with this.
+Dialogue: 0,0:19:38.25,0:19:39.14,Dubtitles,,0,0,0,,No, it's yours.
+Dialogue: 0,0:19:39.43,0:19:40.85,Dubtitles,,0,0,0,,I don't need it anymore.
+Dialogue: 0,0:19:41.03,0:19:42.19,Dubtitles,,0,0,0,,You are so awesome!
+Dialogue: 0,0:19:42.49,0:19:45.59,Dubtitles,,0,0,0,,With this bag of loot, we've got\Njust about enough for new gear!
+Dialogue: 0,0:19:45.67,0:19:47.67,Dubtitles,,0,0,0,,We'll get ready as fast as we can.
+Dialogue: 0,0:19:47.89,0:19:50.51,Dubtitles,,0,0,0,,When we're set to go,\Nwe'll message you, okay?
+Dialogue: 0,0:19:50.59,0:19:51.81,Dubtitles,,0,0,0,,Yeah, you got it.
+Dialogue: 0,0:19:54.99,0:19:55.85,Dubtitles,,0,0,0,,Thanks, guys!
+Dialogue: 0,0:19:56.11,0:19:57.23,Dubtitles,,0,0,0,,We'll be seeing ya!
+Dialogue: 0,0:20:02.97,0:20:06.81,Dubtitles,,0,0,0,,I don't know about you, but I\Ncan't believe you pulled that off.
+Dialogue: 0,0:20:12.27,0:20:16.51,Dubtitles,,0,0,0,,Oh, honestly, I thought I told\Nyou no more flirting, Daddy.
+Dialogue: 0,0:20:17.47,0:20:19.59,Dubtitles,,0,0,0,,But I wasn't flirting with anyone.
+Dialogue: 0,0:20:19.95,0:20:23.79,Dubtitles,,0,0,0,,When those girls were clinging to you, I\Nnoticed that your heart rate increased.
+Dialogue: 0,0:20:23.87,0:20:24.70,Dubtitles,,0,0,0,,I'm a guy.
+Dialogue: 0,0:20:24.79,0:20:27.42,Dubtitles,,0,0,0,,That's what happens when\Ngirls get too close.
+Dialogue: 0,0:20:28.01,0:20:30.27,Dubtitles,,0,0,0,,Seriously, what about me? I'm a girl.
+Dialogue: 0,0:20:30.35,0:20:31.59,Dubtitles,,0,0,0,,Isn't that a problem?
+Dialogue: 0,0:20:32.13,0:20:34.45,Dubtitles,,0,0,0,,No, you seem pretty safe to me, Leafa.
+Dialogue: 0,0:20:34.75,0:20:36.05,Dubtitles,,0,0,0,,What do you mean safe?
+Dialogue: 0,0:20:39.23,0:20:43.89,Dubtitles,,0,0,0,,I think what she means is most of the time\Nyou don't really seem much like a girl.
+Dialogue: 0,0:20:43.97,0:20:44.83,Dubtitles,,0,0,0,,Okay, whoa!
+Dialogue: 0,0:20:44.91,0:20:46.55,Dubtitles,,0,0,0,,Say that again, I dare you!
+Dialogue: 0,0:20:46.87,0:20:49.51,Dubtitles,,0,0,0,,No, like, like you're\Neasy to get along with.
+Dialogue: 0,0:20:49.59,0:20:50.97,Dubtitles,,0,0,0,,I meant it in a good way.
+Dialogue: 0,0:20:51.05,0:20:52.73,Dubtitles,,0,0,0,,Yeah, come on!
+Dialogue: 0,0:20:52.93,0:20:55.25,Dubtitles,,0,0,0,,We still got a ways to\Ngo before we get to Arun.
+Dialogue: 0,0:20:55.33,0:20:56.99,Dubtitles,,0,0,0,,The sun's starting to go down.
+Dialogue: 0,0:20:57.07,0:20:59.11,Dubtitles,,0,0,0,,Okay, I'm coming. Wait up!
+Dialogue: 0,0:20:59.19,0:21:00.39,Dubtitles,,0,0,0,,Ha, ha, ha!
+Dialogue: 0,0:21:24.27,0:21:26.35,Dubtitles,,0,0,0,,8, 1, 1,
+Dialogue: 0,0:21:34.79,0:21:38.33,Dubtitles,,0,0,0,,Kirito, I promise you, I won't give up.
 Dialogue: 4,0:22:05.48,0:22:05.88,ED-Kanji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(736.5,129,747,105,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}高
 Dialogue: 4,0:22:05.48,0:22:05.88,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(535.5,48,595.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}t
 Dialogue: 4,0:22:05.49,0:22:05.88,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(577.5,63,615,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}a
@@ -4841,6 +4829,7 @@ Dialogue: 2,0:22:22.52,0:22:24.51,ED-Kanji,,0,0,0,,{\an5\fscx17\fscy17\bord1.5\c
 Dialogue: 2,0:22:22.52,0:22:24.53,ED-Kanji,,0,0,0,,{\an5\fscx26\fscy26\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(1167,105,1365,114)\fad(0,100)\p1)\t(0.2,\frx34\fry282\frz266\t(2412,2413,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(2446,2546,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 39 55.5 l 57 40.5 l 67.5 28.5 l 78 16.5 l 85.5 10.5 b 99 0 108 13.5 96 43.5 l 88.5 39 l 93 46.5 b 87 54 78 64.5 69 70.5 l 61.5 66 l 66 72 b 61.5 78 55.5 84 49.5 87 l 42 78 l 45 87 l 40.5 91.5 l 36 87 l 36 91.5 l 31.5 87 l 25.5 91.5 l 25.5 88.5 b 16.5 93 9 96 0 96 l 0 90 b 7.5 90 18 85.5 24 81 l 21 76.5 l 27 76.5 l 25.5 70.5 l 30 75 l 30 63 l 36 57 l 37.5 67.5
 Dialogue: 2,0:22:22.52,0:22:24.53,ED-Romaji,,0,0,0,,{\an5\fscx21\fscy21\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(1209,43.5,1261.5,22.5)\fad(0,100)\p1)\t(0.2,\frx-341\fry135\frz-174\t(2007,2008,\fscx15\fscy15\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(2041,2141,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 39 55.5 l 57 40.5 l 67.5 28.5 l 78 16.5 l 85.5 10.5 b 99 0 108 13.5 96 43.5 l 88.5 39 l 93 46.5 b 87 54 78 64.5 69 70.5 l 61.5 66 l 66 72 b 61.5 78 55.5 84 49.5 87 l 42 78 l 45 87 l 40.5 91.5 l 36 87 l 36 91.5 l 31.5 87 l 25.5 91.5 l 25.5 88.5 b 16.5 93 9 96 0 96 l 0 90 b 7.5 90 18 85.5 24 81 l 21 76.5 l 27 76.5 l 25.5 70.5 l 30 75 l 30 63 l 36 57 l 37.5 67.5
 Dialogue: 2,0:22:22.52,0:22:24.54,ED-Romaji,,0,0,0,,{\an5\fscx25\fscy25\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(1119,43.5,1290,34.5)\fad(0,100)\p1)\t(0.2,\frx68\fry67\frz-220\t(2294,2295,\fscx8\fscy8\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(2328,2428,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 39 55.5 l 57 40.5 l 67.5 28.5 l 78 16.5 l 85.5 10.5 b 99 0 108 13.5 96 43.5 l 88.5 39 l 93 46.5 b 87 54 78 64.5 69 70.5 l 61.5 66 l 66 72 b 61.5 78 55.5 84 49.5 87 l 42 78 l 45 87 l 40.5 91.5 l 36 87 l 36 91.5 l 31.5 87 l 25.5 91.5 l 25.5 88.5 b 16.5 93 9 96 0 96 l 0 90 b 7.5 90 18 85.5 24 81 l 21 76.5 l 27 76.5 l 25.5 70.5 l 30 75 l 30 63 l 36 57 l 37.5 67.5
+Dialogue: 0,0:22:30.41,0:22:32.49,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 4,0:22:33.68,0:22:34.08,ED-Kanji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(714,87,702,105,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}止
 Dialogue: 4,0:22:33.68,0:22:34.08,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(540,51,549,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}t
 Dialogue: 4,0:22:33.69,0:22:34.08,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(592.5,43.5,568.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}o
@@ -5201,7 +5190,6 @@ Dialogue: 3,0:22:47.24,0:22:47.74,ED-Kanji,,0,0,0,,{\an5\pos(1180.5,105)}い
 Dialogue: 3,0:22:47.24,0:22:47.74,ED-Romaji,,0,0,0,,{\an5\pos(1351.5,43.5)}i
 Dialogue: 5,0:22:47.24,0:22:47.75,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1236,105)\t(0,255,\fscx120\fscy200)\t(255,510,\fscx100\fscy100)}って
 Dialogue: 4,0:22:47.24,0:22:47.78,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1236,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}って
-Dialogue: 0,0:22:47.24,0:22:48.84,Dubtitles,,0,0,0,,Oh, wow.
 Dialogue: 3,0:22:47.70,0:22:47.74,ED-Romaji,,0,0,0,,{\an5\pos(1383,43.5)}tte
 Dialogue: 2,0:22:47.73,0:22:48.76,ED-Romaji,,0,0,0,,{\an5\fscx24\fscy24\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(1104,43.5,1300.5,34.5)\fad(0,100)\p1)\t(0.2,\frx171\fry324\frz213\t(984,985,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(1018,1118,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 39 55.5 l 57 40.5 l 67.5 28.5 l 78 16.5 l 85.5 10.5 b 99 0 108 13.5 96 43.5 l 88.5 39 l 93 46.5 b 87 54 78 64.5 69 70.5 l 61.5 66 l 66 72 b 61.5 78 55.5 84 49.5 87 l 42 78 l 45 87 l 40.5 91.5 l 36 87 l 36 91.5 l 31.5 87 l 25.5 91.5 l 25.5 88.5 b 16.5 93 9 96 0 96 l 0 90 b 7.5 90 18 85.5 24 81 l 21 76.5 l 27 76.5 l 25.5 70.5 l 30 75 l 30 63 l 36 57 l 37.5 67.5
 Dialogue: 2,0:22:47.73,0:22:48.77,ED-Kanji,,0,0,0,,{\an5\fscx27\fscy27\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(811.5,105,937.5,109.5)\fad(0,100)\p1)\t(0.2,\frx-185\fry-118\frz-319\t(979,980,\fscx16\fscy16\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(1013,1113,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 39 55.5 l 57 40.5 l 67.5 28.5 l 78 16.5 l 85.5 10.5 b 99 0 108 13.5 96 43.5 l 88.5 39 l 93 46.5 b 87 54 78 64.5 69 70.5 l 61.5 66 l 66 72 b 61.5 78 55.5 84 49.5 87 l 42 78 l 45 87 l 40.5 91.5 l 36 87 l 36 91.5 l 31.5 87 l 25.5 91.5 l 25.5 88.5 b 16.5 93 9 96 0 96 l 0 90 b 7.5 90 18 85.5 24 81 l 21 76.5 l 27 76.5 l 25.5 70.5 l 30 75 l 30 63 l 36 57 l 37.5 67.5
@@ -6193,7 +6181,6 @@ Dialogue: 4,0:23:19.54,0:23:20.00,ED-Kanji,,0,0,0,,{\shad0\an5\pos(885,105)\be8\
 Dialogue: 4,0:23:19.54,0:23:20.00,ED-Romaji,,0,0,0,,{\shad0\an5\pos(904.5,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}shi
 Dialogue: 3,0:23:19.54,0:23:24.26,ED-Kanji,,0,0,0,,{\an5\pos(849,105)}灯
 Dialogue: 3,0:23:19.54,0:23:24.26,ED-Romaji,,0,0,0,,{\an5\pos(843,43.5)}mo
-Dialogue: 0,0:23:19.86,0:23:22.60,Dubtitles,,0,0,0,,I'll see you
 Dialogue: 5,0:23:19.97,0:23:21.26,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(922.5,105)\t(0,645,\fscx120\fscy200)\t(645,1290,\fscx100\fscy100)}た
 Dialogue: 5,0:23:19.97,0:23:21.26,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(954,43.5)\t(0,645,\fscx120\fscy200)\t(645,1290,\fscx100\fscy100)}ta
 Dialogue: 4,0:23:19.97,0:23:21.29,ED-Kanji,,0,0,0,,{\shad0\an5\pos(922.5,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}た
@@ -6227,7 +6214,6 @@ Dialogue: 4,0:23:22.61,0:23:23.05,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1069.5,105)\b
 Dialogue: 4,0:23:22.61,0:23:23.05,ED-Romaji,,0,0,0,,{\shad0\an5\pos(1273.5,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}da
 Dialogue: 3,0:23:22.61,0:23:24.26,ED-Kanji,,0,0,0,,{\an5\pos(1033.5,105)}を
 Dialogue: 3,0:23:22.61,0:23:24.26,ED-Romaji,,0,0,0,,{\an5\pos(1206,43.5)}wo
-Dialogue: 0,0:23:22.68,0:23:28.68,Dubtitles,,0,0,0,,next time.
 Dialogue: 5,0:23:23.02,0:23:23.53,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1107,105)\t(0,255,\fscx120\fscy200)\t(255,510,\fscx100\fscy100)}い
 Dialogue: 5,0:23:23.02,0:23:23.53,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1305,43.5)\t(0,255,\fscx120\fscy200)\t(255,510,\fscx100\fscy100)}i
 Dialogue: 4,0:23:23.02,0:23:23.56,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1107,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}い
@@ -6536,5 +6522,5 @@ Dialogue: 3,0:23:35.01,0:23:40.02,title,,0,0,0,,{\bord0\blur0.75\clip(0,857,1920
 Dialogue: 3,0:23:35.01,0:23:40.02,title,,0,0,0,,{\bord0\blur0.75\clip(0,861,1920,866)\pos(960,870)\c&HC39000&}The Truth Of ALfheim
 Dialogue: 3,0:23:35.01,0:23:40.02,title,,0,0,0,,{\bord0\blur0.75\clip(0,866,1920,870)\pos(960,870)\c&HC18C00&}The Truth Of ALfheim
 Dialogue: 3,0:23:35.01,0:23:40.02,title,,0,0,0,,{\bord0\blur0.75\clip(0,870,1920,875)\pos(960,870)\c&HC18C00&}The Truth Of ALfheim
-Dialogue: 0,0:23:35.36,0:23:38.02,Dubtitles,,0,0,0,,Next time, the truth about Alfheim.
+Dialogue: 0,0:23:35.87,0:23:38.51,Dubtitles,,0,0,0,,Next time, the truth about Alfheim.
 
