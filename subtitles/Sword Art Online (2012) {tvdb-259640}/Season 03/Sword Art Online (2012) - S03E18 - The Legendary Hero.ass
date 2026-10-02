@@ -31,7 +31,6 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:01.79,Dubtitles,,0,0,0,,Karenai
 Dialogue: 2,0:00:00.60,0:00:01.07,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(456,67.5,441,52.5,100,400)}ka
 Dialogue: 2,0:00:00.65,0:00:01.27,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(511.5,67.5,496.5,52.5,100,400)}re
 Dialogue: 2,0:00:00.70,0:00:01.59,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(570,67.5,555,52.5,100,400)}na
@@ -298,7 +297,6 @@ Dialogue: 2,0:00:32.68,0:00:32.89,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:00:32.68,0:00:33.72,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(646.5,52.5,496.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,210,\bord3\blur6\fscx85\fscy85)}ka
 Dialogue: 2,0:00:32.89,0:00:33.15,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(696,52.5,774,52.5,0,260)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,260,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:00:32.89,0:00:33.98,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(735,52.5,585,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,260,\bord3\blur6\fscx85\fscy85)}wo
-Dialogue: 0,0:00:33.05,0:00:35.85,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 2,0:00:33.15,0:00:33.41,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(790.5,52.5,853.5,52.5,0,260)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,260,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:00:33.15,0:00:34.24,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(822,52.5,672,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,260,\bord3\blur6\fscx85\fscy85)}sa
 Dialogue: 2,0:00:33.41,0:00:33.63,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(853.5,52.5,919.5,52.5,0,220)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,220,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -465,6 +463,7 @@ Dialogue: 2,0:00:52.54,0:00:52.90,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:00:52.54,0:00:53.73,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1429.5,52.5,1279.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,360,\bord3\blur6\fscx85\fscy85)}I
 Dialogue: 2,0:00:52.90,0:00:54.02,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1437,52.5,1512,52.5,0,1120)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,1120,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:00:52.90,0:00:54.85,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1474.5,52.5,1324.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,1120,\bord3\blur6\fscx85\fscy85)}DO
+Dialogue: 0,0:00:53.53,0:00:54.97,Dubtitles,,0,0,0,,I
 Dialogue: 2,0:00:53.66,0:00:54.13,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(382.5,67.5,367.5,52.5,100,400)}do
 Dialogue: 2,0:00:53.71,0:00:54.35,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(433.5,67.5,418.5,52.5,100,400)}n
 Dialogue: 2,0:00:53.76,0:00:54.52,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(483,67.5,468,52.5,100,400)}na
@@ -500,6 +499,7 @@ Dialogue: 2,0:00:54.80,0:00:55.00,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:00:54.80,0:00:55.83,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(555,52.5,405,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,200,\bord3\blur6\fscx85\fscy85)}ta
 Dialogue: 2,0:00:55.00,0:00:55.18,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(579,52.5,634.5,52.5,0,180)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,180,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:00:55.00,0:00:56.01,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(607.5,52.5,457.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,180,\bord3\blur6\fscx85\fscy85)}mi
+Dialogue: 0,0:00:55.05,0:01:02.05,Dubtitles,,0,0,0,,don't
 Dialogue: 2,0:00:55.18,0:00:55.49,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(652.5,52.5,697.5,52.5,0,310)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,310,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:00:55.18,0:00:56.32,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(675,52.5,525,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,310,\bord3\blur6\fscx85\fscy85)}ni
 Dialogue: 2,0:00:55.49,0:00:55.64,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(715.5,52.5,763.5,52.5,0,150)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,150,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -724,6 +724,10 @@ Dialogue: 2,0:01:21.02,0:01:21.36,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:01:21.02,0:01:22.19,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(945,52.5,795,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}OF
 Dialogue: 2,0:01:21.36,0:01:22.94,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(997.5,52.5,1210.5,52.5,0,1580)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,1580,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:01:21.36,0:01:23.77,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1104,52.5,954,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,1580,\bord3\blur6\fscx85\fscy85)}MYSELF
+Dialogue: 0,0:01:21.65,0:01:22.48,Dubtitles,,0,0,0,,know
+Dialogue: 0,0:01:22.56,0:01:23.39,Dubtitles,,0,0,0,,what's going on,
+Dialogue: 0,0:01:23.48,0:01:24.31,Dubtitles,,0,0,0,,but I don't know what's going on.
+Dialogue: 0,0:01:24.39,0:01:25.22,Dubtitles,,0,0,0,,HAAAAAAA!
 Dialogue: 1,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\fscx100\bord4\blur2\c&H444142&\3c&H4A4A4A&\fs200\fnBell Gothic Bold\pos(956.8,351)}The Legendary Hero
 Dialogue: 1,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\fscx100\bord4\blur4\c&H000000&\3c&H2C2C2C&\fs200\fnBell Gothic Bold\pos(956.8,351)}The Legendary Hero
 Dialogue: 2,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HEAEAEA&\3c&HE6E6E6&\fs200\fnBell Gothic Bold\pos(956.8,353)}The Legendary Hero
@@ -783,83 +787,79 @@ Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(238,434,1675,437)\pos(956
 Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(238,437,1675,440)\pos(956.8,351)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8938EE&}The Legendary Hero
 Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(238,440,1675,443)\pos(956.8,351)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8734EE&}The Legendary Hero
 Dialogue: 3,0:01:30.00,0:01:34.01,Signs,,0,0,0,,{\clip(238,443,1675,446)\pos(956.8,351)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8531EE&}The Legendary Hero
-Dialogue: 0,0:01:41.29,0:01:42.41,Dubtitles,,0,0,0,,I'll be right back.
-Dialogue: 0,0:01:50.97,0:01:51.80,Dubtitles,,0,0,0,,There.
-Dialogue: 0,0:01:52.07,0:01:53.07,Dubtitles,,0,0,0,,Now I'm ready.
-Dialogue: 0,0:01:56.13,0:01:57.23,Dubtitles,,0,0,0,,Alright, kid.
-Dialogue: 0,0:01:57.51,0:02:01.43,Dubtitles,,0,0,0,,Before we get into it, there's\Nsomething I want to ask you.
-Dialogue: 0,0:02:01.95,0:02:02.78,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:02:04.97,0:02:09.29,Dubtitles,,0,0,0,,You didn't, you know, kill Vice\NCommander Fanatio, did you?
-Dialogue: 0,0:02:09.85,0:02:11.03,Dubtitles,,0,0,0,,She's alive.
-Dialogue: 0,0:02:12.21,0:02:14.25,Dubtitles,,0,0,0,,She's being healed as we speak.
-Dialogue: 0,0:02:16.07,0:02:16.95,Dubtitles,,0,0,0,,That's good.
-Dialogue: 0,0:02:17.25,0:02:21.31,Dubtitles,,0,0,0,,Since you spared her life, I'll\Nreturn the favor and spare yours.
-Dialogue: 0,0:02:23.31,0:02:24.51,Dubtitles,,0,0,0,,How disrespectful.
-Dialogue: 0,0:02:26.77,0:02:28.13,Dubtitles,,0,0,0,,Why do you think that?
-Dialogue: 0,0:02:29.03,0:02:31.38,Dubtitles,,0,0,0,,If you're this high up in the Cathedral,
-Dialogue: 0,0:02:31.65,0:02:34.65,Dubtitles,,0,0,0,,you must be the commander\Nof the Integrity Knights.
-Dialogue: 0,0:02:34.99,0:02:35.82,Dubtitles,,0,0,0,,Yeah?
-Dialogue: 0,0:02:35.90,0:02:36.87,Dubtitles,,0,0,0,,What if I am?
-Dialogue: 0,0:02:37.61,0:02:39.09,Dubtitles,,0,0,0,,What about the others?
-Dialogue: 0,0:02:39.41,0:02:41.18,Dubtitles,,0,0,0,,Fanatio isn't the only knight.
-Dialogue: 0,0:02:42.59,0:02:45.53,Dubtitles,,0,0,0,,Eldrie, the four Whirling Blades, Alice.
-Dialogue: 0,0:02:46.05,0:02:47.31,Dubtitles,,0,0,0,,What about them?
+Dialogue: 0,0:01:50.61,0:01:52.03,Dubtitles,,0,0,0,,AVAILABLE NOW
+Dialogue: 0,0:01:55.97,0:01:57.21,Dubtitles,,0,0,0,,All right, kid.
+Dialogue: 0,0:01:57.55,0:02:02.65,Dubtitles,,0,0,0,,Before we get into it, there's\Nsomething I want to ask you. What?
+Dialogue: 0,0:02:04.81,0:02:09.29,Dubtitles,,0,0,0,,You didn't, you know, kill Vice\NCommander Fanatio, did you?
+Dialogue: 0,0:02:10.97,0:02:12.01,Dubtitles,,0,0,0,,She's alive.
+Dialogue: 0,0:02:12.09,0:02:14.23,Dubtitles,,0,0,0,,She's being healed as we speak.
+Dialogue: 0,0:02:15.93,0:02:16.93,Dubtitles,,0,0,0,,That's good.
+Dialogue: 0,0:02:17.31,0:02:21.31,Dubtitles,,0,0,0,,Since you spared her life, I'll\Nreturn the favor and spare yours.
+Dialogue: 0,0:02:23.25,0:02:24.53,Dubtitles,,0,0,0,,How disrespectful.
+Dialogue: 0,0:02:26.71,0:02:28.13,Dubtitles,,0,0,0,,Why do you think that?
+Dialogue: 0,0:02:28.97,0:02:31.32,Dubtitles,,0,0,0,,If you're this high up in the cathedral,
+Dialogue: 0,0:02:31.61,0:02:34.61,Dubtitles,,0,0,0,,you must be the commander\Nof the Integrity Knights.
+Dialogue: 0,0:02:34.97,0:02:35.80,Dubtitles,,0,0,0,,Yeah?
+Dialogue: 0,0:02:35.88,0:02:36.85,Dubtitles,,0,0,0,,What if I am?
+Dialogue: 0,0:02:39.11,0:02:40.45,Dubtitles,,0,0,0,,What about the others?
+Dialogue: 0,0:02:40.89,0:02:42.43,Dubtitles,,0,0,0,,Venatio isn't the only knight.
+Dialogue: 0,0:02:42.51,0:02:43.34,Dubtitles,,0,0,0,,Eldrie.
+Dialogue: 0,0:02:43.42,0:02:45.59,Dubtitles,,0,0,0,,The Four Whirling Blades. Alice.
+Dialogue: 0,0:02:46.07,0:02:47.29,Dubtitles,,0,0,0,,What about them?
 Dialogue: 0,0:02:47.49,0:02:48.55,Dubtitles,,0,0,0,,Don't they matter?
-Dialogue: 0,0:02:48.81,0:02:49.89,Dubtitles,,0,0,0,,I see.
-Dialogue: 0,0:02:50.19,0:02:51.60,Dubtitles,,0,0,0,,You're taking that road.
-Dialogue: 0,0:02:52.23,0:02:53.83,Dubtitles,,0,0,0,,How do I put this?
-Dialogue: 0,0:02:54.39,0:02:56.10,Dubtitles,,0,0,0,,Eldrie is Alice's apprentice.
-Dialogue: 0,0:02:56.55,0:03:02.49,Dubtitles,,0,0,0,,The four Whirling Blades, Dakira, Jace,\NHolvren, and Jiro, they're Fanatios.
-Dialogue: 0,0:03:03.03,0:03:03.97,Dubtitles,,0,0,0,,And her?
-Dialogue: 0,0:03:04.31,0:03:06.55,Dubtitles,,0,0,0,,Well, she happens to be my apprentice.
+Dialogue: 0,0:02:49.31,0:02:50.14,Dubtitles,,0,0,0,,I see.
+Dialogue: 0,0:02:50.22,0:02:51.59,Dubtitles,,0,0,0,,You're taking that road.
+Dialogue: 0,0:02:52.11,0:02:53.83,Dubtitles,,0,0,0,,How do I put this?
+Dialogue: 0,0:02:54.53,0:02:56.24,Dubtitles,,0,0,0,,Eldrie is Alice's apprentice.
+Dialogue: 0,0:02:56.53,0:03:02.45,Dubtitles,,0,0,0,,The four whirling blades, Dakira, Jace,\NHolverin, and Jiro, they're Fanatios.
+Dialogue: 0,0:03:03.09,0:03:03.97,Dubtitles,,0,0,0,,And her?
+Dialogue: 0,0:03:04.25,0:03:06.49,Dubtitles,,0,0,0,,Well, she happens to be my apprentice.
 Dialogue: 0,0:03:07.05,0:03:09.51,Dubtitles,,0,0,0,,It's not that I don't\Ncare about the others.
-Dialogue: 0,0:03:09.59,0:03:12.91,Dubtitles,,0,0,0,,It's just, I'm invested in Aincrad.
-Dialogue: 0,0:03:13.33,0:03:16.80,Dubtitles,,0,0,0,,That's why if you killed her,\NI'd be obliged to avenge her.
-Dialogue: 0,0:03:17.07,0:03:18.75,Dubtitles,,0,0,0,,That's all there is to it.
+Dialogue: 0,0:03:09.59,0:03:12.93,Dubtitles,,0,0,0,,It's just, I'm invested in Aincrad.
+Dialogue: 0,0:03:13.27,0:03:16.74,Dubtitles,,0,0,0,,That's why if you killed her,\NI'd be obliged to avenge her.
+Dialogue: 0,0:03:17.21,0:03:18.77,Dubtitles,,0,0,0,,That's all there is to it.
 Dialogue: 0,0:03:20.27,0:03:22.27,Dubtitles,,0,0,0,,Though, now that I think about it,
 Dialogue: 0,0:03:22.41,0:03:25.59,Dubtitles,,0,0,0,,I guess little Alice does\Nlook up to me as her mentor.
-Dialogue: 0,0:03:26.11,0:03:28.53,Dubtitles,,0,0,0,,She's not the same as\Nshe was six years ago,
+Dialogue: 0,0:03:26.09,0:03:28.53,Dubtitles,,0,0,0,,She's not the same as\Nshe was six years ago,
 Dialogue: 0,0:03:28.61,0:03:31.14,Dubtitles,,0,0,0,,when she first became\Nan apprentice knight.
 Dialogue: 0,0:03:31.93,0:03:35.85,Dubtitles,,0,0,0,,If me and her went at it now, I\Ndon't know who'd come out on top.
-Dialogue: 0,0:03:38.81,0:03:41.45,Dubtitles,,0,0,0,,Anyway, seeing as how\NAlice is as strong as me,
-Dialogue: 0,0:03:41.53,0:03:43.71,Dubtitles,,0,0,0,,you must have snuck past her somehow.
-Dialogue: 0,0:03:43.93,0:03:46.19,Dubtitles,,0,0,0,,But you won't be so lucky with me.
-Dialogue: 0,0:03:47.15,0:03:49.95,Dubtitles,,0,0,0,,Come to think of it,\Nshouldn't there be two of you?
-Dialogue: 0,0:03:50.03,0:03:52.47,Dubtitles,,0,0,0,,The Prime Senator said you had a partner.
+Dialogue: 0,0:03:38.81,0:03:41.41,Dubtitles,,0,0,0,,Anyway, seeing as how\NAlice is as strong as me,
+Dialogue: 0,0:03:41.49,0:03:43.67,Dubtitles,,0,0,0,,you must have snuck past her somehow.
+Dialogue: 0,0:03:43.93,0:03:46.21,Dubtitles,,0,0,0,,But you won't be so lucky with me.
+Dialogue: 0,0:03:47.15,0:03:49.91,Dubtitles,,0,0,0,,Come to think of it,\Nshouldn't there be two of you?
+Dialogue: 0,0:03:49.99,0:03:52.47,Dubtitles,,0,0,0,,The Prime Senator said you had a partner.
 Dialogue: 0,0:03:53.07,0:03:55.11,Dubtitles,,0,0,0,,I guess if he's not here with you,
-Dialogue: 0,0:03:55.31,0:03:58.60,Dubtitles,,0,0,0,,that means he's off somewhere\Nkeeping little Alice busy.
-Dialogue: 0,0:03:59.57,0:04:01.55,Dubtitles,,0,0,0,,Yeah, he probably is.
-Dialogue: 0,0:04:02.57,0:04:03.43,Dubtitles,,0,0,0,,I'm ready.
-Dialogue: 0,0:04:04.01,0:04:05.37,Dubtitles,,0,0,0,,Let's get this over with.
-Dialogue: 0,0:04:05.45,0:04:08.01,Dubtitles,,0,0,0,,I'm curious to see who will avenge you.
-Dialogue: 0,0:04:09.71,0:04:10.89,Dubtitles,,0,0,0,,No one, kid.
-Dialogue: 0,0:04:11.27,0:04:12.97,Dubtitles,,0,0,0,,I don't have a mentor.
-Dialogue: 0,0:04:24.51,0:04:25.51,Dubtitles,,0,0,0,,Norkia style.
-Dialogue: 0,0:04:25.83,0:04:26.81,Dubtitles,,0,0,0,,Lightning Slash.
-Dialogue: 0,0:04:27.07,0:04:29.15,Dubtitles,,0,0,0,,Or it's something like it.
-Dialogue: 0,0:04:29.47,0:04:31.03,Dubtitles,,0,0,0,,With his sword like that,
-Dialogue: 0,0:04:31.23,0:04:34.88,Dubtitles,,0,0,0,,it'll take him an extra move or\Ntwo to activate the technique.
-Dialogue: 0,0:04:35.45,0:04:39.71,Dubtitles,,0,0,0,,But if I use the Aincrad-style\NSonic Leap, I can strike him first.
-Dialogue: 0,0:04:41.89,0:04:44.07,Dubtitles,,0,0,0,,Ah, now that's an interesting stance.
-Dialogue: 0,0:04:44.61,0:04:46.14,Dubtitles,,0,0,0,,I've never seen it before.
-Dialogue: 0,0:04:46.41,0:04:48.01,Dubtitles,,0,0,0,,Do you use combo attacks?
-Dialogue: 0,0:04:49.41,0:04:50.35,Dubtitles,,0,0,0,,Maybe I do.
-Dialogue: 0,0:04:50.59,0:04:51.61,Dubtitles,,0,0,0,,Maybe I don't.
-Dialogue: 0,0:04:51.77,0:04:52.79,Dubtitles,,0,0,0,,Why do you care?
-Dialogue: 0,0:04:53.29,0:04:54.17,Dubtitles,,0,0,0,,I don't.
-Dialogue: 0,0:04:54.39,0:04:59.21,Dubtitles,,0,0,0,,It's just that there was a knight from the\NDark Territory who liked to use him, too.
-Dialogue: 0,0:04:59.29,0:05:01.53,Dubtitles,,0,0,0,,I fought him a couple of times before.
-Dialogue: 0,0:05:01.71,0:05:04.45,Dubtitles,,0,0,0,,I didn't like the\Nexperience, to be honest.
-Dialogue: 0,0:05:05.45,0:05:06.51,Dubtitles,,0,0,0,,My style's simple.
-Dialogue: 0,0:05:06.77,0:05:10.13,Dubtitles,,0,0,0,,Doing all them flashy moves\Nis way too complicated.
-Dialogue: 0,0:05:10.61,0:05:11.61,Dubtitles,,0,0,0,,Is that so?
-Dialogue: 0,0:05:11.87,0:05:13.91,Dubtitles,,0,0,0,,Do you want me to fight like you then?
-Dialogue: 0,0:05:13.99,0:05:17.19,Dubtitles,,0,0,0,,Using only conventional moves? Hell no.
-Dialogue: 0,0:05:17.69,0:05:19.01,Dubtitles,,0,0,0,,You want to use combo attacks?
+Dialogue: 0,0:03:55.33,0:03:58.62,Dubtitles,,0,0,0,,that means he's off somewhere\Nkeeping little Alice busy.
+Dialogue: 0,0:04:01.17,0:04:03.07,Dubtitles,,0,0,0,,Yeah, he probably is.
+Dialogue: 0,0:04:03.15,0:04:03.98,Dubtitles,,0,0,0,,I'm ready.
+Dialogue: 0,0:04:04.06,0:04:05.48,Dubtitles,,0,0,0,,Let's get this over with.
+Dialogue: 0,0:04:05.65,0:04:07.99,Dubtitles,,0,0,0,,I'm curious to see who will avenge you.
+Dialogue: 0,0:04:09.79,0:04:10.89,Dubtitles,,0,0,0,,No one, kid.
+Dialogue: 0,0:04:11.27,0:04:12.99,Dubtitles,,0,0,0,,I don't have a mentor.
+Dialogue: 0,0:04:24.53,0:04:28.81,Dubtitles,,0,0,0,,Norkia style lightning\Nslash or it's something like
+Dialogue: 0,0:04:28.89,0:04:32.33,Dubtitles,,0,0,0,,it with his sword like that\Nit'll take him an extra
+Dialogue: 0,0:04:32.41,0:04:36.03,Dubtitles,,0,0,0,,move or two to activate\Nthe technique but if I use
+Dialogue: 0,0:04:36.11,0:04:39.61,Dubtitles,,0,0,0,,the Aincrad style sonic\Nleap I can strike him first.
+Dialogue: 0,0:04:39.69,0:04:45.99,Dubtitles,,0,0,0,,Ah, now that's an interesting\Nstance. I've never seen it before.
+Dialogue: 0,0:04:46.07,0:04:48.05,Dubtitles,,0,0,0,,Do you use combo attacks?
+Dialogue: 0,0:04:49.35,0:04:51.55,Dubtitles,,0,0,0,,Maybe I do maybe I don't.
+Dialogue: 0,0:04:51.63,0:04:52.71,Dubtitles,,0,0,0,,Why do you care?
+Dialogue: 0,0:04:52.79,0:04:54.09,Dubtitles,,0,0,0,,I don't.
+Dialogue: 0,0:04:54.17,0:04:58.77,Dubtitles,,0,0,0,,It's just that there was a knight from the\Ndark territory who like to use him too.
+Dialogue: 0,0:04:58.85,0:05:01.17,Dubtitles,,0,0,0,,I fought him a couple of times before.
+Dialogue: 0,0:05:01.25,0:05:03.35,Dubtitles,,0,0,0,,I didn't like the experience.
+Dialogue: 0,0:05:03.43,0:05:04.45,Dubtitles,,0,0,0,,to be honest.
+Dialogue: 0,0:05:05.05,0:05:06.51,Dubtitles,,0,0,0,,My style's simple.
+Dialogue: 0,0:05:06.91,0:05:10.13,Dubtitles,,0,0,0,,Doing all them flashy moves\Nis way too complicated.
+Dialogue: 0,0:05:10.59,0:05:11.61,Dubtitles,,0,0,0,,Is that so?
+Dialogue: 0,0:05:11.83,0:05:13.95,Dubtitles,,0,0,0,,Do you want me to fight like you then?
+Dialogue: 0,0:05:14.03,0:05:17.19,Dubtitles,,0,0,0,,Using only conventional moves? Hell no.
+Dialogue: 0,0:05:17.63,0:05:19.01,Dubtitles,,0,0,0,,You want to use combo attacks?
 Dialogue: 0,0:05:19.09,0:05:19.92,Dubtitles,,0,0,0,,Go ahead.
-Dialogue: 0,0:05:20.17,0:05:22.63,Dubtitles,,0,0,0,,I can handle anything you dish out, kid.
-Dialogue: 0,0:05:23.75,0:05:25.07,Dubtitles,,0,0,0,,I should warn you, though.
-Dialogue: 0,0:05:25.15,0:05:29.61,Dubtitles,,0,0,0,,I'm going to use my best move\Nfirst, and you ain't ready for it.
+Dialogue: 0,0:05:20.07,0:05:22.63,Dubtitles,,0,0,0,,I can handle anything you dish out, kid.
+Dialogue: 0,0:05:23.21,0:05:24.68,Dubtitles,,0,0,0,,I should warn you though.
+Dialogue: 0,0:05:24.95,0:05:27.37,Dubtitles,,0,0,0,,I'm gonna use my best move first.
+Dialogue: 0,0:05:27.63,0:05:29.61,Dubtitles,,0,0,0,,And you ain't ready for it.
 Dialogue: 0,0:05:32.33,0:05:37.01,Dubtitles,,0,0,0,,If his sword's already in perfect\Ncontrol, then I've only got one chance.
 Dialogue: 0,0:05:37.39,0:05:41.35,Dubtitles,,0,0,0,,As he activates his move,\NI'll attack with Sonic Leap.
 Dialogue: 0,0:05:42.33,0:05:45.41,Dubtitles,,0,0,0,,Taste the blade of Bercouli Synthesis 1.
