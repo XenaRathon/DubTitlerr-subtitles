@@ -19,15 +19,14 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.83,Dubtitles,,0,0,0,,Theے
 Dialogue: 1,0:00:28.59,0:00:31.88,op_eng,Claire,0,0,0,,{\blur3\fade(240,0)}Must you tell me every thought that crosses your mind?
 Dialogue: 1,0:00:32.18,0:00:34.85,op_eng,Rae,0,0,0,,{\blur3\fade(240,0)}I've gotta tell you how I feel!
 Dialogue: 1,0:00:35.01,0:00:37.81,op_eng,Claire,0,0,0,,{\blur3\fade(240,0)}Are you so unaware of how different our worlds are?
 Dialogue: 1,0:00:38.10,0:00:40.99,op_eng,Rae,0,0,0,,{\blur3\fade(240,240)}Then let's bring up a revolution!
-Dialogue: 0,0:00:39.48,0:00:43.26,Dubtitles,,0,0,0,,Do you want me to know what
 Dialogue: 1,0:00:40.99,0:00:43.95,op_eng,Claire,0,0,0,,{\blur3\fade(240,240)}Do you know? Who I am
-Dialogue: 0,0:00:43.34,0:00:44.17,Dubtitles,,0,0,0,,you
 Dialogue: 1,0:00:43.95,0:00:46.98,op_eng,Rae,0,0,0,,{\blur3\fade(240,240)}Yes, I know! That sky-high pride of yours
-Dialogue: 0,0:00:44.25,0:00:51.22,Dubtitles,,0,0,0,,want?
+Dialogue: 0,0:00:46.26,0:00:48.02,Dubtitles,,0,0,0,,Thank you so much.
 Dialogue: 1,0:00:46.98,0:00:50.00,op_eng,Claire,0,0,0,,{\blur3\fade(240,240)}What you want? Tell me now!
 Dialogue: 1,0:00:50.00,0:00:52.32,op_eng,Rae,0,0,0,,{\blur3\fade(240,0)}All I want! Only you!
 Dialogue: 1,0:00:52.32,0:00:56.21,op_eng,Rae,0,0,0,,{\blur3\fade(0,240)}No matter how immersive this game may be,
@@ -42,81 +41,80 @@ Dialogue: 1,0:01:14.18,0:01:16.60,op_eng,Claire,0,0,0,,{\blur3\fade(240,0)}I can
 Dialogue: 1,0:01:16.81,0:01:18.47,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(240,240)}Love and hate both,
 Dialogue: 1,0:01:18.47,0:01:24.71,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(240,240)}Without a partner, those feelings can never start!
 Dialogue: 1,0:01:25.35,0:01:27.32,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(0,0)}So raise your hands!
+Dialogue: 0,0:01:27.10,0:01:30.02,Dubtitles,,0,0,0,,I'm just a happy one.
 Dialogue: 1,0:01:27.32,0:01:31.11,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(0,0)}It's time to give in to happiness!
-Dialogue: 0,0:01:30.56,0:01:36.80,Dubtitles,,0,0,0,,I'm Tentakushin wa Dede hitotsu dei Kocoro
 Dialogue: 1,0:01:31.11,0:01:36.07,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(0,0)}There's only one right choice here:
+Dialogue: 0,0:01:31.32,0:01:34.24,Dubtitles,,0,0,0,,The only one choice is only one.
 Dialogue: 1,0:01:36.07,0:01:37.95,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(0,240)}from the bottom of your heart, hold up and
-Dialogue: 0,0:01:36.88,0:01:40.58,Dubtitles,,0,0,0,,kara hold up Raise your\Nhands Kukukuku naai
+Dialogue: 0,0:01:36.26,0:01:38.04,Dubtitles,,0,0,0,,From the heart of the heart.
 Dialogue: 1,0:01:37.95,0:01:40.70,op_eng,Claire,0,0,0,,{\blur3\fade(240,0)}Raise your hands! Surrender already!
-Dialogue: 0,0:01:40.66,0:01:44.22,Dubtitles,,0,0,0,,Raise your hands Melia te de fangai Raise
+Dialogue: 0,0:01:38.12,0:01:47.70,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 1,0:01:40.70,0:01:44.00,op_eng,Rae,0,0,0,,{\blur3\fade(0,0)}Raise your hands! Throw 'em up and celebrate!
 Dialogue: 1,0:01:44.00,0:01:46.79,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(0,0)}Raise your hands! One more time!
-Dialogue: 0,0:01:44.30,0:01:49.46,Dubtitles,,0,0,0,,Your hands, Mou yai. Raise\Nyour hands, Iiisakai.
 Dialogue: 1,0:01:46.79,0:01:49.42,op_eng,Claire & Rae,0,0,0,,{\blur3\fade(0,0)}Raise your hands! For this fantastic world!
+Dialogue: 0,0:01:48.10,0:01:49.44,Dubtitles,,0,0,0,,I can't wait.
 Dialogue: 1,0:01:49.42,0:01:53.30,op_eng,Claire,0,0,0,,{\blur3\fade(0,0)}I won't give up until you tell me what you're planning!
+Dialogue: 0,0:01:49.52,0:01:51.98,Dubtitles,,0,0,0,,Don't you give me a chance?
+Dialogue: 0,0:01:52.98,0:01:53.88,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 1,0:01:53.30,0:01:56.14,op_eng,Rae,0,0,0,,{\blur3\fade(0,240)}You're so awesome! I love you!
-Dialogue: 0,0:01:53.32,0:01:55.58,Dubtitles,,0,0,0,,Omoshiroi desu. I love you.
+Dialogue: 0,0:01:53.96,0:01:55.64,Dubtitles,,0,0,0,,I love you!
 Dialogue: 1,0:01:58.01,0:02:03.02,Signs_EpTitle,Mask,0,0,0,,{\an7\bord0\shad0\blur1\pos(0,0)\c&HFDFCF9&\fscx100\fscy100\p1}m 77 354 l 207 242 209 175 225 162 270 199 318 218 352 208 398 173 411 146 436 148 449 136 434 125 428 111 444 101 477 90 510 78 511 93 495 109 508 122 537 129 561 117 570 100 591 114 607 115 620 95 623 82 633 88 631 102 631 110 624 120 620 131 628 133 640 128 674 109 682 96 686 89 704 91 717 87 722 103 732 117 747 127 763 126 785 124 798 117 812 108 823 97 828 85 829 68 848 71 877 67 879 80 886 93 892 99 906 104 916 105 931 97 931 107 933 115 939 116 943 123 945 133 957 139 970 138 975 128 977 118 985 113 990 99 1008 100 1035 96 1040 74 1046 65 1067 67 1072 71 1082 67 1090 69 1091 84 1098 98 1105 104 1114 113 1125 119 1154 126 1175 123 1187 117 1197 101 1198 87 1212 89 1233 89 1239 98 1247 108 1255 113 1262 114 1272 126 1281 133 1289 135 1299 127 1294 116 1288 107 1295 99 1305 105 1313 110 1327 110 1342 100 1349 99 1361 110 1379 124 1396 126 1413 120 1421 111 1411 105 1399 98 1400 87 1415 82 1442 85 1463 92 1479 101 1488 109 1487 121 1479 136 1476 141 1477 145 1490 144 1509 133 1518 122 1522 122 1523 108 1520 92 1508 70 1527 68 1535 78 1532 94 1531 104 1524 138 1522 150 1528 168 1537 178 1544 189 1553 201 1572 206 1593 210 1608 211 1634 207 1651 199 1660 188 1678 173 1687 162 1699 158 1715 151 1733 148 1724 162 1710 183 1706 192 1705 208 1711 228 1722 247 1745 260 1768 266 1780 273 1788 294 1808 309 1829 311 1831 327 1837 357 1833 376 1832 391 1833 415 1838 435 1834 469 1822 486 1804 500 1809 517 1825 538 1817 553 1811 576 1812 591 1833 604 1847 617 1853 639 1836 651 1830 672 1835 691 1834 710 1833 739 1830 765 1809 774 1786 787 1780 805 1771 818 1732 820 1724.57 830.86 1707.43 856 1699.43 873.14 1709.71 898.29 1713.14 916.57 1699.43 916.57 1683.43 913.14 1664 893.71 1613.71 872 1574.86 873.14 1544 893.71 1525.71 920 1515.43 953.14 1489.14 936 1474.29 939.43 1482.29 949.71 1486.67 960 1481.33 978.67 1457.33 988 1417.33 998.67 1397.33 978.67 1416 974.67 1414.67 965.33 1390.67 956 1369.33 960 1349.33 973.33 1338.67 978.67 1314.67 972 1297.33 958.67 1290.67 952 1274.67 954.67 1266.67 968 1249.33 970.67 1238.67 982.67 1229.33 992 1205.33 992 1196 976 1181.33 961.33 1156 956 1136 958.67 1122.67 968 1105.33 973.33 1093.33 990.67 1088 1006.67 1062.67 1013.33 1041.33 1004 1030.67 988 1005.33 980 980 962.67 965.33 948 942.67 948 940 961.33 926.67 974.67 901.33 982.67 878.67 997.33 878.67 1013.33 834.67 1010.67 825.33 994.67 806.67 972 794.67 962.67 774.67 958.67 752 956 733.33 961.33 724 974.67 716 989.33 697.33 993.33 680 986.67 654.67 962.67 634.67 956 621.33 952 626.67 968 632 985.33 629.33 998.67 605.33 974.67 584 972 574.67 981.33 557.33 974.67 536 960 516 956 498.67 961.33 497.33 976 512 977.33 530.67 977.33 516 989.33 502.67 1000 473.33 996 453.33 989.33 434.67 977.33 426.67 962.67 436 949.33 442.67 941.33 430.67 933.33 417.33 937.33 409.33 945.33 401.33 954.67 394.67 948 392 925.33 376 896 361.33 884 338.67 873.33 312 873.33 276 881.33 261.33 890.67 238.67 908 232 921.33 210.67 928 189.33 930.67 204 906.67 212 884 201.33 849.33 188 829.33 174.67 821.33 156 817.33 137.33 816 129.33 784 113.33 774.67 94.67 769.33 85.33 761.33 81.33 656 81.33 609.33 97.33 598.67 105.33 581.33 105.33 565.33 97.33 550.67 86.67 538.67 100 525.33 104 505.33 97.33 488 89.33 482.67 80 478.67 82.67 421.33 86.67 393.33
 Dialogue: 2,0:01:58.01,0:02:03.02,Signs_EpTitle,Title,0,0,0,,{\fnMasqualero\fs135\an8\blur0.8\bord0\b1\pos(960,156)}Episode {\c&H5151DF&}12
 Dialogue: 2,0:01:58.01,0:02:03.02,Signs_EpTitle,Title,0,0,0,,{\fnMasqualero\fs180\an8\blur0.8\bord0\b1\pos(960,360)\c&H5B595E&}The {\c&H5151DF&}Villainess{\c&H5B595E&} and I {\c&H5151DF&}A{\c&H5B595E&}re {\c&H5151DF&}i{\c&H5B595E&}n {\c&H5151DF&}L{\c&H5B595E&}o{\c&H5151DF&}v{\c&H5B595E&}e
-Dialogue: 0,0:02:05.82,0:02:07.08,Dubtitles,,0,0,0,,I misjudged you.
-Dialogue: 0,0:02:07.34,0:02:08.93,Dubtitles,,0,0,0,,What are you talking about?
-Dialogue: 0,0:02:09.44,0:02:10.85,Dubtitles,,0,0,0,,Don't play dumb with me.
-Dialogue: 0,0:02:11.06,0:02:12.53,Dubtitles,,0,0,0,,I'm talking about Claire.
-Dialogue: 0,0:02:16.26,0:02:18.28,Dubtitles,,0,0,0,,She cried all day yesterday.
-Dialogue: 0,0:02:20.84,0:02:23.49,Dubtitles,,0,0,0,,I'm leaving Miss Claire\Nto you now, Princess.
-Dialogue: 0,0:02:23.68,0:02:24.76,Dubtitles,,0,0,0,,Please take care of her.
-Dialogue: 0,0:02:24.84,0:02:26.37,Dubtitles,,0,0,0,,I'm sure she'll be lonely.
-Dialogue: 0,0:02:26.78,0:02:27.92,Dubtitles,,0,0,0,,Because of you!
+Dialogue: 0,0:02:23.96,0:02:26.74,Dubtitles,,0,0,0,,Please take care of her,\NI'm sure she'll be lonely.
+Dialogue: 0,0:02:26.82,0:02:27.92,Dubtitles,,0,0,0,,Because of you!
 Dialogue: 0,0:02:28.56,0:02:31.20,Dubtitles,,0,0,0,,Maybe so, but I still lost our duel.
-Dialogue: 0,0:02:31.66,0:02:35.58,Dubtitles,,0,0,0,,And I quit as her maid, so there's\Nnothing I can do for her now.
-Dialogue: 0,0:02:35.84,0:02:37.76,Dubtitles,,0,0,0,,You're really giving up just like that?
-Dialogue: 0,0:02:37.84,0:02:40.55,Dubtitles,,0,0,0,,Did you ever even love\Nher in the first place?
+Dialogue: 0,0:02:31.64,0:02:35.58,Dubtitles,,0,0,0,,And I quit as her maid, so there's\Nnothing I can do for her now.
+Dialogue: 0,0:02:35.84,0:02:37.74,Dubtitles,,0,0,0,,You're really giving up just like that?
+Dialogue: 0,0:02:37.82,0:02:40.53,Dubtitles,,0,0,0,,Did you ever even love\Nher in the first place?
 Dialogue: 0,0:02:41.76,0:02:44.11,Dubtitles,,0,0,0,,Who do you think you are asking me that?
-Dialogue: 0,0:02:44.54,0:02:46.60,Dubtitles,,0,0,0,,You're the one who started all this.
-Dialogue: 0,0:02:46.68,0:02:48.52,Dubtitles,,0,0,0,,You took Miss Claire away from me.
-Dialogue: 0,0:02:48.60,0:02:50.16,Dubtitles,,0,0,0,,You turned tail and ran.
-Dialogue: 0,0:02:50.60,0:02:52.00,Dubtitles,,0,0,0,,I'm just your excuse.
-Dialogue: 0,0:02:52.32,0:02:54.14,Dubtitles,,0,0,0,,You were always going to give up on her.
-Dialogue: 0,0:02:54.22,0:02:55.34,Dubtitles,,0,0,0,,What do you mean I was always...
-Dialogue: 0,0:02:55.42,0:02:57.84,Dubtitles,,0,0,0,,Did you really think\NI'd buy your little act?
-Dialogue: 0,0:02:57.92,0:03:00.28,Dubtitles,,0,0,0,,I don't expect her to return my feelings.
-Dialogue: 0,0:03:00.36,0:03:02.10,Dubtitles,,0,0,0,,I'm putting her happiness first.
-Dialogue: 0,0:03:02.18,0:03:04.77,Dubtitles,,0,0,0,,Those are lies you tell\Nto protect yourself.
-Dialogue: 0,0:03:05.04,0:03:07.98,Dubtitles,,0,0,0,,The truth is you're terrified\Nof her rejecting you.
-Dialogue: 0,0:03:08.06,0:03:13.08,Dubtitles,,0,0,0,,So you run and hide and you pretend\Nit's all for her sake. You're wrong!
-Dialogue: 0,0:03:13.32,0:03:14.72,Dubtitles,,0,0,0,,No, she's right.
-Dialogue: 0,0:03:15.10,0:03:17.48,Dubtitles,,0,0,0,,I don't care if my love is unrequited.
-Dialogue: 0,0:03:18.12,0:03:20.24,Dubtitles,,0,0,0,,That's a lie. I do.
-Dialogue: 0,0:03:20.68,0:03:21.56,Dubtitles,,0,0,0,,I do.
-Dialogue: 0,0:03:22.14,0:03:23.62,Dubtitles,,0,0,0,,The truth is...
-Dialogue: 0,0:03:23.70,0:03:26.56,Dubtitles,,0,0,0,,I want her to love me back.
-Dialogue: 0,0:03:27.28,0:03:30.10,Dubtitles,,0,0,0,,Look, I want to be hers,\Nand I want her to be mine.
+Dialogue: 0,0:02:44.54,0:02:46.60,Dubtitles,,0,0,0,,You're the one who started all this!
+Dialogue: 0,0:02:46.68,0:02:48.52,Dubtitles,,0,0,0,,You took Miss Claire away from me!
+Dialogue: 0,0:02:48.60,0:02:50.18,Dubtitles,,0,0,0,,You turned tail and ran!
+Dialogue: 0,0:02:50.62,0:02:51.92,Dubtitles,,0,0,0,,I'm just your excuse.
+Dialogue: 0,0:02:52.00,0:02:54.14,Dubtitles,,0,0,0,,You were always going to give up on her.
+Dialogue: 0,0:02:54.22,0:02:56.04,Dubtitles,,0,0,0,,What do you mean I was always...
+Dialogue: 0,0:02:56.12,0:02:57.92,Dubtitles,,0,0,0,,Did you really think\NI'd buy your little act?
+Dialogue: 0,0:02:58.00,0:03:00.16,Dubtitles,,0,0,0,,I don't expect her to return my feelings.
+Dialogue: 0,0:03:00.24,0:03:02.12,Dubtitles,,0,0,0,,I'm putting her happiness first.
+Dialogue: 0,0:03:02.22,0:03:04.81,Dubtitles,,0,0,0,,Those are lies you tell\Nto protect yourself.
+Dialogue: 0,0:03:04.92,0:03:07.92,Dubtitles,,0,0,0,,The truth is you're terrified\Nof her rejecting you.
+Dialogue: 0,0:03:08.04,0:03:13.08,Dubtitles,,0,0,0,,So you run and hide and you pretend\Nit's all for her sake. You're wrong!
+Dialogue: 0,0:03:13.34,0:03:14.72,Dubtitles,,0,0,0,,No, she's right.
+Dialogue: 0,0:03:15.20,0:03:17.48,Dubtitles,,0,0,0,,I don't care if my love is unrequited.
+Dialogue: 0,0:03:18.20,0:03:20.24,Dubtitles,,0,0,0,,That's a lie. I do.
+Dialogue: 0,0:03:20.76,0:03:21.59,Dubtitles,,0,0,0,,I do.
+Dialogue: 0,0:03:22.26,0:03:26.52,Dubtitles,,0,0,0,,The truth is, I want her to love me back.
+Dialogue: 0,0:03:27.02,0:03:29.92,Dubtitles,,0,0,0,,I want to be hers, and\NI want her to be mine.
 Dialogue: 0,0:03:30.18,0:03:32.64,Dubtitles,,0,0,0,,I want it so much, and yet...
 Dialogue: 0,0:03:33.38,0:03:36.09,Dubtitles,,0,0,0,,I'm not stupid enough\Nto indulge in a fantasy.
 Dialogue: 0,0:03:36.36,0:03:37.60,Dubtitles,,0,0,0,,We can't be together.
 Dialogue: 0,0:03:37.80,0:03:41.04,Dubtitles,,0,0,0,,We're both girls, and she's\Nin love with someone else.
-Dialogue: 0,0:03:41.24,0:03:42.82,Dubtitles,,0,0,0,,So you just cut and run, then?
-Dialogue: 0,0:03:42.90,0:03:45.82,Dubtitles,,0,0,0,,You think you'll be happy keeping\Nup this farce and not even trying?
-Dialogue: 0,0:03:45.90,0:03:47.46,Dubtitles,,0,0,0,,I've made it this far, right?
+Dialogue: 0,0:03:41.24,0:03:42.80,Dubtitles,,0,0,0,,So you just cut and run, then?
+Dialogue: 0,0:03:42.88,0:03:45.90,Dubtitles,,0,0,0,,You think you'll be happy keeping\Nup this farce and not even trying?
+Dialogue: 0,0:03:45.98,0:03:47.46,Dubtitles,,0,0,0,,I've made it this far, right?
 Dialogue: 0,0:03:47.54,0:03:51.48,Dubtitles,,0,0,0,,I can swallow my feelings because\Nit's what's best for Miss Claire!
-Dialogue: 0,0:03:52.74,0:03:53.70,Dubtitles,,0,0,0,,You're a fool.
-Dialogue: 0,0:03:54.52,0:03:57.05,Dubtitles,,0,0,0,,Relationships like that\Nare doomed to fail.
-Dialogue: 0,0:04:00.24,0:04:04.30,Dubtitles,,0,0,0,,I know better than anyone,\Nbecause it happened to me.
-Dialogue: 0,0:04:05.12,0:04:08.20,Dubtitles,,0,0,0,,There was someone whom I\Nloved with all my heart,
-Dialogue: 0,0:04:08.42,0:04:10.48,Dubtitles,,0,0,0,,just as you love Claire with all of yours.
-Dialogue: 0,0:04:10.56,0:04:13.40,Dubtitles,,0,0,0,,I told myself I was fine\Nso long as she was happy,
-Dialogue: 0,0:04:13.48,0:04:15.40,Dubtitles,,0,0,0,,even if we didn't end up together.
-Dialogue: 0,0:04:15.48,0:04:19.34,Dubtitles,,0,0,0,,I shoved my feelings down until\NI couldn't contain them anymore.
-Dialogue: 0,0:04:20.32,0:04:22.52,Dubtitles,,0,0,0,,Then I made a terrible mistake.
-Dialogue: 0,0:04:23.52,0:04:26.26,Dubtitles,,0,0,0,,Considering the difference\Nin our statuses she
-Dialogue: 0,0:04:26.34,0:04:29.20,Dubtitles,,0,0,0,,would never have turned\Nme down even still i
-Dialogue: 0,0:04:30.94,0:04:34.82,Dubtitles,,0,0,0,,Before long she vanished from the\Npalace and i never saw her again
-Dialogue: 0,0:04:35.56,0:04:38.26,Dubtitles,,0,0,0,,Feelings that seek nothing\Nin return will always
-Dialogue: 0,0:04:38.34,0:04:41.26,Dubtitles,,0,0,0,,become twisted the heart\Nisn't strong or pure
-Dialogue: 0,0:04:41.34,0:04:44.92,Dubtitles,,0,0,0,,Enough to withstand them\Nwhat happened changed me
-Dialogue: 0,0:04:45.00,0:04:47.78,Dubtitles,,0,0,0,,i started going to brothels\Nand disguise Otherwise,
-Dialogue: 0,0:04:47.86,0:04:51.60,Dubtitles,,0,0,0,,I thought keeping relationships\Ntransactional would prevent heartache,
+Dialogue: 0,0:03:52.68,0:03:53.70,Dubtitles,,0,0,0,,You're a fool.
+Dialogue: 0,0:03:54.46,0:03:56.99,Dubtitles,,0,0,0,,Relationships like that\Nare doomed to fail.
+Dialogue: 0,0:04:00.28,0:04:01.98,Dubtitles,,0,0,0,,I know better than anyone.
+Dialogue: 0,0:04:02.66,0:04:04.28,Dubtitles,,0,0,0,,Because it happened to me.
+Dialogue: 0,0:04:05.14,0:04:08.20,Dubtitles,,0,0,0,,There was someone whom I\Nloved with all my heart.
+Dialogue: 0,0:04:08.40,0:04:10.46,Dubtitles,,0,0,0,,Just as you love Claire with all of yours.
+Dialogue: 0,0:04:10.54,0:04:13.40,Dubtitles,,0,0,0,,I told myself I was fine\Nso long as she was happy.
+Dialogue: 0,0:04:13.48,0:04:15.42,Dubtitles,,0,0,0,,Even if we didn't end up together.
+Dialogue: 0,0:04:15.50,0:04:19.32,Dubtitles,,0,0,0,,I shoved my feelings down until\NI couldn't contain them anymore.
+Dialogue: 0,0:04:20.28,0:04:22.48,Dubtitles,,0,0,0,,Then I made a terrible mistake.
+Dialogue: 0,0:04:23.54,0:04:25.80,Dubtitles,,0,0,0,,Considering the difference\Nin our statuses.
+Dialogue: 0,0:04:25.88,0:04:27.50,Dubtitles,,0,0,0,,She would never have turned me down.
+Dialogue: 0,0:04:27.58,0:04:29.22,Dubtitles,,0,0,0,,Even still, I.
+Dialogue: 0,0:04:30.96,0:04:33.20,Dubtitles,,0,0,0,,Before long, she vanished from the palace.
+Dialogue: 0,0:04:33.28,0:04:34.81,Dubtitles,,0,0,0,,And I never saw her again.
+Dialogue: 0,0:04:35.66,0:04:39.14,Dubtitles,,0,0,0,,Feelings that seek nothing in\Nreturn Will always become twisted.
+Dialogue: 0,0:04:39.22,0:04:42.62,Dubtitles,,0,0,0,,The heart isn't strong or\Npure enough to withstand them.
+Dialogue: 0,0:04:43.28,0:04:44.90,Dubtitles,,0,0,0,,What happened changed me.
+Dialogue: 0,0:04:44.98,0:04:47.40,Dubtitles,,0,0,0,,I started going to brothels and disguise.
+Dialogue: 0,0:04:47.48,0:04:48.31,Dubtitles,,0,0,0,,Otherwise,
+Dialogue: 0,0:04:48.39,0:04:51.60,Dubtitles,,0,0,0,,I thought keeping relationships\Ntransactional would prevent heartache,
 Dialogue: 0,0:04:51.68,0:04:53.36,Dubtitles,,0,0,0,,for them and for me.
 Dialogue: 0,0:04:55.14,0:04:57.34,Dubtitles,,0,0,0,,But I never felt fulfilled.
 Dialogue: 0,0:04:58.88,0:05:02.60,Dubtitles,,0,0,0,,I wish I could take it back,\Nbut I can't. It's too late.
