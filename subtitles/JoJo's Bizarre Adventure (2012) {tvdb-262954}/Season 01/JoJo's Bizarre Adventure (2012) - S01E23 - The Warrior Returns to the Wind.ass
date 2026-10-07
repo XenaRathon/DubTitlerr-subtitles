@@ -79,7 +79,6 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:06.48,Dubtitles,,0,0,0,,Nkʂ Spider E su
 Dialogue: 1,0:00:06.28,0:00:13.74,Lyrics OP2 Jap,,0,0,0,,Shijima no soko kara
 Dialogue: 1,0:00:06.28,0:00:13.74,Lyrics OP2 Eng,,0,0,0,,From out of the stillness
 Dialogue: 1,0:00:14.37,0:00:17.58,Lyrics OP2 Jap,,0,0,0,,Mezameru sono hashira tachi
@@ -117,17 +116,17 @@ Dialogue: 1,0:01:30.49,0:01:35.49,Title2,,0,0,0,,{\fad(0,640)\pos(1247,865)\fscx
 Dialogue: 1,0:01:30.49,0:01:35.49,Title2,,0,0,0,,{\fad(0,640)\pos(1230,865)}Episode 23: "The Warrior of Wind" {Toni, Check that the title matches the preview at the end of 22 -Fadeout4}
 Dialogue: 0,0:01:33.38,0:01:34.82,Dubtitles,,0,0,0,,All of the air!
 Dialogue: 0,0:01:35.20,0:01:37.78,Dubtitles,,0,0,0,,It seems to be flowing toward Wamuu!
-Dialogue: 0,0:01:40.02,0:01:42.10,Dubtitles,,0,0,0,,My ultimate mastery!
-Dialogue: 0,0:01:42.90,0:01:44.38,Dubtitles,,0,0,0,,Atmospheric rift!
-Dialogue: 0,0:01:51.34,0:01:52.78,Dubtitles,,0,0,0,,That's only wind!
-Dialogue: 0,0:01:53.22,0:01:54.96,Dubtitles,,0,0,0,,I know you're near the flame.
-Dialogue: 0,0:01:55.04,0:01:59.02,Dubtitles,,0,0,0,,I sense it, though I can't\Nsee exactly where that is.
-Dialogue: 0,0:01:59.16,0:02:01.54,Dubtitles,,0,0,0,,But I am going to find you eventually.
-Dialogue: 0,0:02:01.96,0:02:05.56,Dubtitles,,0,0,0,,Now that I've prevented you from\Ngathering your Hormone energy,
-Dialogue: 0,0:02:05.64,0:02:07.35,Dubtitles,,0,0,0,,I'm going to cut you in half!
-Dialogue: 0,0:02:08.84,0:02:12.32,Dubtitles,,0,0,0,,Atmospheric Rift is Wamuu's\Nsupreme final weapon.
-Dialogue: 0,0:02:12.70,0:02:17.12,Dubtitles,,0,0,0,,The pipes he uses to cloak himself\Ntake in huge amounts of air,
-Dialogue: 0,0:02:17.28,0:02:19.68,Dubtitles,,0,0,0,,and then unbelievably compress it.
+Dialogue: 0,0:01:40.00,0:01:42.10,Dubtitles,,0,0,0,,My ultimate mastery!
+Dialogue: 0,0:01:42.88,0:01:44.38,Dubtitles,,0,0,0,,Atmospheric rift!
+Dialogue: 0,0:01:51.32,0:01:52.78,Dubtitles,,0,0,0,,That's only wind!
+Dialogue: 0,0:01:53.24,0:01:54.98,Dubtitles,,0,0,0,,I know you're near the flame.
+Dialogue: 0,0:01:55.06,0:01:59.00,Dubtitles,,0,0,0,,I sense it, though I can't\Nsee exactly where that is.
+Dialogue: 0,0:01:59.16,0:02:01.58,Dubtitles,,0,0,0,,But I am going to find you eventually.
+Dialogue: 0,0:02:01.96,0:02:05.58,Dubtitles,,0,0,0,,Now that I've prevented you from\Ngathering your Hormone energy,
+Dialogue: 0,0:02:05.66,0:02:07.37,Dubtitles,,0,0,0,,I'm going to cut you in half!
+Dialogue: 0,0:02:08.88,0:02:12.32,Dubtitles,,0,0,0,,Atmospheric Rift is Wamuu's\Nsupreme final weapon.
+Dialogue: 0,0:02:12.74,0:02:17.12,Dubtitles,,0,0,0,,The pipes he uses to cloak himself\Ntake in huge amounts of air,
+Dialogue: 0,0:02:17.30,0:02:19.68,Dubtitles,,0,0,0,,and then unbelievably compress it.
 Dialogue: 0,0:02:20.02,0:02:23.49,Dubtitles,,0,0,0,,The air is then blasted from\Nan orifice thinner than paper.
 Dialogue: 0,0:02:24.28,0:02:26.06,Dubtitles,,0,0,0,,It is a razor made of wind.
 Dialogue: 0,0:02:26.76,0:02:32.10,Dubtitles,,0,0,0,,But it creates heat and friction\Nat levels terrible even for Wamuu.
@@ -2753,11 +2752,9 @@ Dialogue: 0,0:20:33.00,0:20:36.00,Dubtitles,,0,0,0,,Now I've tied her feet\Ntoge
 Dialogue: 0,0:20:36.24,0:20:37.54,Dubtitles,,0,0,0,,And do you know why?
 Dialogue: 0,0:20:38.12,0:20:40.60,Dubtitles,,0,0,0,,Why would I do such a thing as this?
 Dialogue: 0,0:20:41.82,0:20:43.02,Dubtitles,,0,0,0,,This is why!
-Dialogue: 0,0:20:44.04,0:20:45.30,Dubtitles,,0,0,0,,Lisa Lisa! No!
-Dialogue: 0,0:20:45.38,0:20:46.50,Dubtitles,,0,0,0,,Off you go.
-Dialogue: 0,0:20:47.58,0:20:49.87,Dubtitles,,0,0,0,,If she hits the ground, she'll be dead.
-Dialogue: 0,0:20:50.74,0:20:55.78,Dubtitles,,0,0,0,,If you don't save her in a few seconds,\Nshe'll be a Lisa-Lisa-shaped splatter.
-Dialogue: 0,0:20:56.94,0:20:57.77,Dubtitles,,0,0,0,,Mhahaha.
+Dialogue: 0,0:20:44.04,0:20:46.50,Dubtitles,,0,0,0,,Lisa Lisa no! Off you go!
+Dialogue: 0,0:20:46.86,0:20:49.58,Dubtitles,,0,0,0,,If she hits the ground, she'll be dead.
+Dialogue: 0,0:20:50.22,0:20:55.80,Dubtitles,,0,0,0,,If you don't save her in a few seconds,\Nshe'll be a Lisa-Lisa-shaped splatter!
 Dialogue: 1,0:20:59.40,0:20:59.45,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord13.11\fscx189.38\fscy145.68\frz48.94\pos(1983.29,331.71)\c&H412D48&}B{*\1a&H6B&}a{*\1a&H5F&}n{\1a&H54&}g
 Dialogue: 2,0:20:59.40,0:20:59.45,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord0\fscx189.38\fscy145.68\frz48.94\pos(1983.29,331.71)\4a&HFF&}B{*\c&HE9A4DF&\1a&H6B&}a{*\c&HD478C3&\1a&H5F&}n{\c&HC04DA7&\1a&H54&}g
 Dialogue: 1,0:20:59.45,0:20:59.49,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord8.97\fscx129.56\fscy99.66\frz44.94\pos(1682.74,390.22)\c&H412D48&}B{*\1a&H6B&}a{*\1a&H5F&}n{\1a&H54&}g
@@ -2830,34 +2827,32 @@ Dialogue: 1,0:21:00.82,0:21:00.86,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord8.97\fsc
 Dialogue: 2,0:21:00.82,0:21:00.86,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord0\fscx129.61\fscy99.7\frz44.7\pos(1693.54,422.11)\4a&HFF&}B{*\c&HE9A4DF&\1a&H6B&}a{*\c&HD478C3&\1a&H5F&}n{\c&HC04DA7&\1a&H54&}g
 Dialogue: 1,0:21:00.86,0:21:00.91,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord8.97\fscx129.61\fscy99.7\frz44.7\pos(1674.02,425.11)\c&H412D48&}B{*\1a&H6B&}a{*\1a&H5F&}n{\1a&H54&}g
 Dialogue: 2,0:21:00.86,0:21:00.91,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord0\fscx129.61\fscy99.7\frz44.7\pos(1674.02,425.11)\4a&HFF&}B{*\c&HE9A4DF&\1a&H6B&}a{*\c&HD478C3&\1a&H5F&}n{\c&HC04DA7&\1a&H54&}g
+Dialogue: 0,0:21:00.86,0:21:01.69,Dubtitles,,0,0,0,,Huh?
 Dialogue: 1,0:21:00.91,0:21:00.95,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord9\fscx130\fscy100\frz44.7\pos(1701,423.2)\c&H412D48&}B{*\1a&H6B&}a{*\1a&H5F&}n{\1a&H54&}g
 Dialogue: 2,0:21:00.91,0:21:00.95,SFXGhost,20,0,0,0,,{=76}{\blur0.8\bord0\fscx130\fscy100\frz44.7\pos(1701,423.2)\4a&HFF&}B{*\c&HE9A4DF&\1a&H6B&}a{*\c&HD478C3&\1a&H5F&}n{\c&HC04DA7&\1a&H54&}g
-Dialogue: 0,0:21:02.34,0:21:03.17,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:21:03.52,0:21:04.35,Dubtitles,,0,0,0,,JoJo!
-Dialogue: 0,0:21:04.46,0:21:05.32,Dubtitles,,0,0,0,,Lisa-Lisa!
-Dialogue: 0,0:21:05.78,0:21:06.92,Dubtitles,,0,0,0,,Lisa-Lisa?
-Dialogue: 0,0:21:07.18,0:21:08.46,Dubtitles,,0,0,0,,That Lisa-Lisa?
-Dialogue: 0,0:21:08.68,0:21:13.54,Dubtitles,,0,0,0,,Do you mean to say she's the baby on\Nthe ship Granny Arena told us about?
-Dialogue: 0,0:21:16.06,0:21:19.30,Dubtitles,,0,0,0,,Then that means she is Jojo's.
-Dialogue: 0,0:21:20.94,0:21:26.52,Dubtitles,,0,0,0,,Now that you can't move from that spot,\Nhere's how efficient battle can be, Jojo.
-Dialogue: 0,0:21:27.18,0:21:33.06,Dubtitles,,0,0,0,,I'll very calmly walk right up to you and\Nslice you to pieces while you can't move.
-Dialogue: 0,0:21:40.42,0:21:41.48,Dubtitles,,0,0,0,,Cars, you bastard!
-Dialogue: 0,0:21:42.48,0:21:44.83,Dubtitles,,0,0,0,,There's a place waiting for you in hell!
-Dialogue: 0,0:21:45.76,0:21:47.00,Dubtitles,,0,0,0,,Jojo doesn't know.
-Dialogue: 0,0:21:47.34,0:21:51.36,Dubtitles,,0,0,0,,He doesn't know the woman he's\Ntrying to save is his mother.
-Dialogue: 0,0:22:05.62,0:22:08.64,Dubtitles,,0,0,0,,I'll be the roundabout.
+Dialogue: 0,0:21:02.40,0:21:04.14,Dubtitles,,0,0,0,,What? JoJo!
+Dialogue: 0,0:21:04.44,0:21:06.90,Dubtitles,,0,0,0,,Lisa-Lisa! Huh? Lisa-Lisa?
+Dialogue: 0,0:21:07.14,0:21:08.46,Dubtitles,,0,0,0,,That Lisa-Lisa?
+Dialogue: 0,0:21:08.68,0:21:11.00,Dubtitles,,0,0,0,,Do you mean to say she's the baby?
+Dialogue: 0,0:21:11.24,0:21:13.54,Dubtitles,,0,0,0,,On the ship Granny Arena told us about?
+Dialogue: 0,0:21:16.00,0:21:19.30,Dubtitles,,0,0,0,,then that means she is JoJo's.
+Dialogue: 0,0:21:20.88,0:21:26.50,Dubtitles,,0,0,0,,Now that you can't move from that spot,\Nhere's how efficient battle can be, JoJo.
+Dialogue: 0,0:21:27.14,0:21:33.06,Dubtitles,,0,0,0,,I'll very calmly walk right up to you and\Nslice you to pieces while you can't move.
+Dialogue: 0,0:21:40.38,0:21:41.82,Dubtitles,,0,0,0,,Cars, you bastard!
+Dialogue: 0,0:21:41.90,0:21:44.70,Dubtitles,,0,0,0,,There's a place waiting for you in hell!
+Dialogue: 0,0:21:45.74,0:21:46.98,Dubtitles,,0,0,0,,JoJo doesn't know.
+Dialogue: 0,0:21:47.46,0:21:51.36,Dubtitles,,0,0,0,,He doesn't know the woman he's\Ntrying to save is his mother.
 Dialogue: 1,0:22:05.76,0:22:09.35,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:22:09.10,0:22:12.70,Dubtitles,,0,0,0,,The words will make you out and out.
 Dialogue: 1,0:22:09.35,0:22:12.81,Lyrics 2,Yes,0,0,0,,The words will make you out 'n' out
-Dialogue: 0,0:22:12.78,0:22:16.66,Dubtitles,,0,0,0,,I'll spend the day your way.
+Dialogue: 0,0:22:12.56,0:22:15.60,Dubtitles,,0,0,0,,I'll spend the day away.
 Dialogue: 1,0:22:12.81,0:22:18.15,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:22:17.86,0:22:20.82,Dubtitles,,0,0,0,,Call it morning, driving through the sun.
+Dialogue: 0,0:22:17.90,0:22:20.82,Dubtitles,,0,0,0,,Call it morning. Driving through the sun.
 Dialogue: 1,0:22:18.15,0:22:20.82,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
 Dialogue: 1,0:22:20.82,0:22:25.37,Lyrics 2,Yes,0,0,0,,In and out the valley
 Dialogue: 0,0:22:20.90,0:22:22.50,Dubtitles,,0,0,0,,And in and out the valley.
-Dialogue: 0,0:22:32.30,0:22:35.60,Dubtitles,,0,0,0,,The music dance and sing.
+Dialogue: 0,0:22:32.32,0:22:35.58,Dubtitles,,0,0,0,,The music dance and sing.
 Dialogue: 1,0:22:32.87,0:22:36.46,Lyrics 2,Yes,0,0,0,,The music dance and sing
-Dialogue: 0,0:22:35.68,0:22:39.76,Dubtitles,,0,0,0,,They make the children really ring.
+Dialogue: 0,0:22:35.66,0:22:39.76,Dubtitles,,0,0,0,,They make the chill and drum really ring.
 Dialogue: 1,0:22:36.46,0:22:39.92,Lyrics 2,Yes,0,0,0,,They make the children really ring
 Dialogue: 0,0:22:39.84,0:22:43.84,Dubtitles,,0,0,0,,I'll spend the day your way.
 Dialogue: 1,0:22:39.92,0:22:45.26,Lyrics 2,Yes,0,0,0,,I'll spend the day your way

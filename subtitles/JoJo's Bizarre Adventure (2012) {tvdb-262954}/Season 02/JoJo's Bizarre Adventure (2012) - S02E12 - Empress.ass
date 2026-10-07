@@ -157,10 +157,9 @@ Dialogue: 0,0:02:45.94,0:02:47.26,Dubtitles,,0,0,0,,Thank
 Dialogue: 0,0:02:47.34,0:02:48.66,Dubtitles,,0,0,0,,you
 Dialogue: 0,0:02:48.74,0:02:55.74,Dubtitles,,0,0,0,,so
 Dialogue: 0,0:02:59.98,0:03:00.81,Dubtitles,,0,0,0,,much for watching.
-Dialogue: 0,0:03:00.89,0:03:02.80,Dubtitles,,0,0,0,,You're the one who's going to die.
-Dialogue: 0,0:03:03.44,0:03:05.30,Dubtitles,,0,0,0,,The one who's going to die.
-Dialogue: 0,0:03:05.38,0:03:06.90,Dubtitles,,0,0,0,,We're the one who's going to die.
-Dialogue: 0,0:03:06.98,0:03:07.81,Dubtitles,,0,0,0,,JoJo!
+Dialogue: 0,0:03:00.89,0:03:01.72,Dubtitles,,0,0,0,,Let's go.
+Dialogue: 0,0:03:01.81,0:03:02.64,Dubtitles,,0,0,0,,Finding
+Dialogue: 0,0:03:02.72,0:03:08.66,Dubtitles,,0,0,0,,out
 Dialogue: 1,0:03:25.05,0:03:25.10,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,0,0,4760,5760)\fscx876.42\fscy876.42\pos(977.87,365.53)\frz-1.46}Varanasi
 Dialogue: 1,0:03:25.05,0:03:25.10,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,0,0,4760,5760)\fscx876.66\fscy876.66\pos(1244.2,559.96)\frz-0.02}Calcutta
 Dialogue: 1,0:03:25.10,0:03:25.14,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-50,-50,4710,5710)\fscx874.79\fscy874.79\pos(975.92,366.58)\frz-1.2}Varanasi
@@ -316,6 +315,7 @@ Dialogue: 1,0:03:27.14,0:03:27.18,SC12 Map,map,0,0,0,,{=43}{\fscx1043.84\fscy104
 Dialogue: 1,0:03:27.18,0:03:27.22,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-2130,-2130,2630,3630)\fscx1044.63\fscy1044.63\pos(876.91,425.03)\frz3.6}Varanasi
 Dialogue: 1,0:03:27.18,0:03:27.22,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-2130,-2130,2630,3630)\fscx1047.47\fscy1047.47\pos(1211.18,630.43)\frz4.74}Calcutta
 Dialogue: 1,0:03:27.18,0:03:27.22,SC12 Map,map,0,0,0,,{=43}{\fscx1047.66\fscy1047.66\fs6.5\frz4.94\pos(757.88,832.55)}India
+Dialogue: 0,0:03:27.18,0:03:28.12,Dubtitles,,0,0,0,,JoJo
 Dialogue: 1,0:03:27.22,0:03:27.27,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-2170,-2170,2590,3590)\fscx1048.43\fscy1048.43\pos(874.8,426.58)\frz3.72}Varanasi
 Dialogue: 1,0:03:27.22,0:03:27.27,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-2170,-2170,2590,3590)\fscx1051.28\fscy1051.28\pos(1210.54,632.16)\frz4.82}Calcutta
 Dialogue: 1,0:03:27.22,0:03:27.27,SC12 Map,map,0,0,0,,{=43}{\fscx1051.49\fscy1051.49\fs6.5\frz5.02\pos(755.89,835.7)}India
@@ -340,7 +340,6 @@ Dialogue: 1,0:03:27.47,0:03:27.52,SC12 Map,map,0,0,0,,{=43}{\fscx1073.88\fscy107
 Dialogue: 1,0:03:27.52,0:03:27.56,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-2470,-2470,2290,3290)\fscx1073.86\fscy1073.86\pos(859.4,437.51)\frz4.28}Varanasi
 Dialogue: 1,0:03:27.52,0:03:27.56,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-2470,-2470,2290,3290)\fscx1079.52\fscy1079.52\pos(1206.22,644.74)\frz5.51}Calcutta
 Dialogue: 1,0:03:27.52,0:03:27.56,SC12 Map,map,0,0,0,,{=43}{\fscx1077.73\fscy1077.73\fs6.5\frz5.59\pos(741.89,858.44)}India
-Dialogue: 0,0:03:27.54,0:03:31.14,Dubtitles,,0,0,0,,JoJo and crew, head to\Nthe sacred city Varanasi.
 Dialogue: 1,0:03:27.56,0:03:27.60,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-2510,-2510,2250,3250)\fscx1077.49\fscy1077.49\pos(857.24,439.17)\frz4.35}Varanasi
 Dialogue: 1,0:03:27.56,0:03:27.60,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-2510,-2510,2250,3250)\fscx1083.11\fscy1083.11\pos(1205.59,646.66)\frz5.58}Calcutta
 Dialogue: 1,0:03:27.56,0:03:27.60,SC12 Map,map,0,0,0,,{=43}{\fscx1081.63\fscy1081.63\fs6.5\frz5.67\pos(739.86,861.78)}India
@@ -389,6 +388,7 @@ Dialogue: 1,0:03:28.14,0:03:28.18,SC12 Map,map,0,0,0,,{=43}{\fscx1137.94\fscy113
 Dialogue: 1,0:03:28.18,0:03:28.22,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-3130,-3130,1630,2630)\fscx1140.45\fscy1140.45\pos(823.46,465.04)\frz5.75}Varanasi
 Dialogue: 1,0:03:28.18,0:03:28.22,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-3130,-3130,1630,2630)\fscx1146.3\fscy1146.3\pos(1196.7,676.5)\frz6.94}Calcutta
 Dialogue: 1,0:03:28.18,0:03:28.22,SC12 Map,map,0,0,0,,{=43}{\fscx1141.88\fscy1141.88\fs6.5\frz6.94\pos(709.21,914.49)}India
+Dialogue: 0,0:03:28.20,0:03:29.18,Dubtitles,,0,0,0,,and crew Head
 Dialogue: 1,0:03:28.22,0:03:28.27,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-3170,-3170,1590,2590)\fscx1145.02\fscy1145.02\pos(821.1,466.91)\frz5.8}Varanasi
 Dialogue: 1,0:03:28.22,0:03:28.27,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-3170,-3170,1590,2590)\fscx1151.08\fscy1151.08\pos(1196.12,678.63)\frz7}Calcutta
 Dialogue: 1,0:03:28.22,0:03:28.27,SC12 Map,map,0,0,0,,{=43}{\fscx1145.85\fscy1145.85\fs6.5\frz7.02\pos(707.14,918.18)}India
@@ -464,6 +464,7 @@ Dialogue: 1,0:03:29.18,0:03:29.23,SC12 Map,map,0,0,0,,{=43}{\fscx1245.57\fscy124
 Dialogue: 1,0:03:29.23,0:03:29.27,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-4180,-4180,580,1580)\fscx1251.39\fscy1251.39\pos(765.6,514.37)\frz7.68}Varanasi
 Dialogue: 1,0:03:29.23,0:03:29.27,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-4180,-4180,580,1580)\fscx1259.99\fscy1259.99\pos(1183.35,732.61)\frz8.98}Calcutta
 Dialogue: 1,0:03:29.23,0:03:29.27,SC12 Map,map,0,0,0,,{=43}{\fscx1250.08\fscy1250.08\fs6.5\frz8.88\pos(657.38,1011.01)}India
+Dialogue: 0,0:03:29.26,0:03:31.12,Dubtitles,,0,0,0,,to the Sacred City Varanasi.
 Dialogue: 1,0:03:29.27,0:03:29.31,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-4220,-4220,540,1540)\fscx1256.13\fscy1256.13\pos(763.34,516.41)\frz7.77}Varanasi
 Dialogue: 1,0:03:29.27,0:03:29.31,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-4220,-4220,540,1540)\fscx1264.6\fscy1264.6\pos(1182.89,734.93)\frz9.03}Calcutta
 Dialogue: 1,0:03:29.27,0:03:29.31,SC12 Map,map,0,0,0,,{=43}{\fscx1254.72\fscy1254.72\fs6.5\frz8.95\pos(655.3,1014.98)}India
@@ -576,38 +577,38 @@ Dialogue: 1,0:03:30.77,0:03:30.81,SC12 Map,map,0,0,0,,{=50}{\fade(255,0,255,-572
 Dialogue: 1,0:03:30.77,0:03:30.81,SC12 Map,map,0,0,0,,{=45}{\fade(255,0,255,-5720,-5720,-960,40)\fscx1406.66\fscy1406.66\pos(1170.93,803.66)\frz11.1}Calcutta
 Dialogue: 1,0:03:30.77,0:03:30.81,SC12 Map,map,0,0,0,,{=43}{\fscx1296.53\fscy1296.53\fs6.5\frz7.44\pos(594.99,1115.04)}India
 Dialogue: 2,0:03:32.40,0:03:36.82,Title 3,ep,0,0,0,,{\fad(740,668)\pos(192,815)}Episode 12: The Empress
-Dialogue: 0,0:03:32.74,0:03:33.58,Dubtitles,,0,0,0,,Listen up.
-Dialogue: 0,0:03:33.84,0:03:38.96,Dubtitles,,0,0,0,,I don't usually get on a soapbox like\Nthis, but stupid people are just that.
-Dialogue: 0,0:03:39.18,0:03:42.78,Dubtitles,,0,0,0,,You could repeat something a million\Ntimes over and they still won't listen.
+Dialogue: 0,0:03:32.72,0:03:33.58,Dubtitles,,0,0,0,,Listen up.
+Dialogue: 0,0:03:33.78,0:03:38.92,Dubtitles,,0,0,0,,I don't usually get on a soapbox like\Nthis, but stupid people are just that.
+Dialogue: 0,0:03:39.22,0:03:42.78,Dubtitles,,0,0,0,,You could repeat something a million\Ntimes over and they still won't listen.
 Dialogue: 0,0:03:42.86,0:03:44.30,Dubtitles,,0,0,0,,You know the type, don't you?
 Dialogue: 0,0:03:44.38,0:03:46.58,Dubtitles,,0,0,0,,There's just no helping the poor souls.
-Dialogue: 0,0:03:46.66,0:03:48.88,Dubtitles,,0,0,0,,But you know, uh, hold on.
-Dialogue: 0,0:03:49.12,0:03:51.10,Dubtitles,,0,0,0,,I never got your name, did I?
-Dialogue: 0,0:03:52.22,0:03:53.05,Dubtitles,,0,0,0,,Nena.
-Dialogue: 0,0:03:53.18,0:03:54.71,Dubtitles,,0,0,0,,Nena, that's a great name.
-Dialogue: 0,0:03:54.92,0:03:58.82,Dubtitles,,0,0,0,,Daughter of a wealthy family in the sacred\Ncity Varanasi that we're passing through,
-Dialogue: 0,0:03:58.90,0:03:59.73,Dubtitles,,0,0,0,,right?
-Dialogue: 0,0:03:59.81,0:04:03.26,Dubtitles,,0,0,0,,You're good looking, and you've got an\Nequally good head on your shoulders.
-Dialogue: 0,0:04:03.34,0:04:06.76,Dubtitles,,0,0,0,,I have an eye for people,\Nwhich leads me to my point.
-Dialogue: 0,0:04:07.94,0:04:10.94,Dubtitles,,0,0,0,,Hole Horse is a horrible\Nlying bastard, understand?
-Dialogue: 0,0:04:11.10,0:04:12.90,Dubtitles,,0,0,0,,He was manipulating you.
-Dialogue: 0,0:04:13.18,0:04:15.18,Dubtitles,,0,0,0,,Think how your parents would feel.
+Dialogue: 0,0:03:46.66,0:03:48.82,Dubtitles,,0,0,0,,But you know, uh, hold on.
+Dialogue: 0,0:03:49.14,0:03:51.10,Dubtitles,,0,0,0,,I never got your name, did I?
+Dialogue: 0,0:03:52.20,0:03:53.03,Dubtitles,,0,0,0,,Nena.
+Dialogue: 0,0:03:53.11,0:03:54.70,Dubtitles,,0,0,0,,Nena, that's a great name.
+Dialogue: 0,0:03:54.94,0:03:58.76,Dubtitles,,0,0,0,,Daughter of a wealthy family in the Sacred\NCity Varanasi that we're passing through.
+Dialogue: 0,0:03:58.84,0:03:59.67,Dubtitles,,0,0,0,,right?
+Dialogue: 0,0:03:59.75,0:04:03.24,Dubtitles,,0,0,0,,You're good looking, and you've got an\Nequally good head on your shoulders.
+Dialogue: 0,0:04:03.32,0:04:04.15,Dubtitles,,0,0,0,,I have an
+Dialogue: 0,0:04:05.12,0:04:07.76,Dubtitles,,0,0,0,,eye for people, which\Nleads me to my point.
+Dialogue: 0,0:04:07.84,0:04:10.88,Dubtitles,,0,0,0,,Paul Horse is a horrible\Nlying bastard, understand?
+Dialogue: 0,0:04:12.04,0:04:13.60,Dubtitles,,0,0,0,,He was manipulating you.
+Dialogue: 0,0:04:13.88,0:04:15.32,Dubtitles,,0,0,0,,Think how your parents would feel.
 Dialogue: 0,0:04:15.40,0:04:16.50,Dubtitles,,0,0,0,,You hear me?
-Dialogue: 0,0:04:16.82,0:04:18.82,Dubtitles,,0,0,0,,You can't end up like this, okay?
-Dialogue: 0,0:04:18.90,0:04:21.02,Dubtitles,,0,0,0,,I know it's easy when you're in love,
+Dialogue: 0,0:04:16.82,0:04:18.92,Dubtitles,,0,0,0,,You can't end up like this, okay?
+Dialogue: 0,0:04:19.12,0:04:21.02,Dubtitles,,0,0,0,,I know it's easy when you're in love,
 Dialogue: 0,0:04:21.10,0:04:24.46,Dubtitles,,0,0,0,,but you can't afford to see the\Nworld with such a narrow view.
-Dialogue: 0,0:04:24.54,0:04:27.12,Dubtitles,,0,0,0,,Take a step back and look\Nat the whole picture.
-Dialogue: 0,0:04:27.20,0:04:29.72,Dubtitles,,0,0,0,,Hey, we're almost there.
-Dialogue: 0,0:04:31.14,0:04:33.26,Dubtitles,,0,0,0,,The city of Varanasi.
-Dialogue: 0,0:04:36.10,0:04:39.06,Dubtitles,,0,0,0,,The sacred river, the Ganges.
-Dialogue: 0,0:04:40.20,0:04:42.22,Dubtitles,,0,0,0,,A place for holy men,
-Dialogue: 0,0:04:42.44,0:04:46.80,Dubtitles,,0,0,0,,the old and the sick, where domestic\Nanimals and food for human consumption?
-Dialogue: 0,0:04:46.88,0:04:50.98,Dubtitles,,0,0,0,,lie alongside human waste\Nand corpses for cremation.
-Dialogue: 0,0:04:51.82,0:04:54.68,Dubtitles,,0,0,0,,The river embraces all.
-Dialogue: 0,0:04:56.18,0:05:01.60,Dubtitles,,0,0,0,,From birth unto death, its holy\Nwaters form a microcosm of life.
+Dialogue: 0,0:04:24.54,0:04:27.31,Dubtitles,,0,0,0,,Take a step back and look\Nat the whole picture.
+Dialogue: 0,0:04:27.56,0:04:29.72,Dubtitles,,0,0,0,,Hey, we're almost there.
+Dialogue: 0,0:04:31.28,0:04:33.26,Dubtitles,,0,0,0,,The city of Varanasi.
+Dialogue: 0,0:04:37.54,0:04:40.26,Dubtitles,,0,0,0,,The sacred river, the Ganges.
+Dialogue: 0,0:04:40.34,0:04:45.12,Dubtitles,,0,0,0,,A place for holy men, the old and\Nthe sick, where domestic animals
+Dialogue: 0,0:04:46.10,0:04:51.88,Dubtitles,,0,0,0,,and food for human consumption lie alongside\Nhuman waste and corpses for cremation.
+Dialogue: 0,0:04:51.96,0:04:54.66,Dubtitles,,0,0,0,,The river, Embraces all.
+Dialogue: 0,0:04:56.16,0:05:01.56,Dubtitles,,0,0,0,,From birth unto death, its holy\Nwaters form a microcosm of life.
 Dialogue: 0,0:05:02.76,0:05:08.06,Dubtitles,,0,0,0,,It is said that visitors of the sacred\Ncity of Varanasi remain transfixed,
-Dialogue: 0,0:05:08.46,0:05:09.81,Dubtitles,,0,0,0,,never wanting to leave.
-Dialogue: 0,0:05:10.14,0:05:16.02,Dubtitles,,0,0,0,,Perhaps the landscape that is this\Nsacred land is a mirror unto the soul.
+Dialogue: 0,0:05:08.48,0:05:09.83,Dubtitles,,0,0,0,,never wanting to leave.
+Dialogue: 0,0:05:10.18,0:05:16.02,Dubtitles,,0,0,0,,Perhaps the landscape that is this\Nsacred land is a mirror unto the soul.
 Dialogue: 1,0:05:26.43,0:05:26.47,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord4.39\fscx81.48\fscy62.68\pos(843.12,483.94)\frz37.67\c&H100D47&}Chomp
 Dialogue: 2,0:05:26.43,0:05:26.47,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord0\fscx81.48\fscy62.68\pos(843.12,483.94)\frz37.67\4a&HFF&}Chomp
 Dialogue: 1,0:05:26.47,0:05:26.55,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord4.85\fscx90.14\fscy69.34\pos(760.23,414.93)\frz37.67\c&H100D47&}Chomp
@@ -650,24 +651,20 @@ Dialogue: 1,0:05:27.72,0:05:27.76,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord7\fscx130\f
 Dialogue: 2,0:05:27.72,0:05:27.76,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord0\fscx130\fscy100\pos(554.96,214.2)\frz37.67\4a&HFF&}Chomp
 Dialogue: 1,0:05:27.76,0:05:27.80,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord7\fscx130\fscy100\pos(556.53,214.99)\frz37.67\c&H100D47&}Chomp
 Dialogue: 2,0:05:27.76,0:05:27.80,SFXRed,2,0,0,0,,{=27}{\blur0.9\bord0\fscx130\fscy100\pos(556.53,214.99)\frz37.67\4a&HFF&}Chomp
-Dialogue: 0,0:05:29.28,0:05:30.11,Dubtitles,,0,0,0,,Hmm?
-Dialogue: 0,0:05:31.06,0:05:33.76,Dubtitles,,0,0,0,,Man, this thing isn't getting any better.
-Dialogue: 0,0:05:38.84,0:05:40.13,Dubtitles,,0,0,0,,What's wrong, Gramps?
-Dialogue: 0,0:05:40.40,0:05:41.58,Dubtitles,,0,0,0,,You don't look well.
-Dialogue: 0,0:05:42.22,0:05:43.05,Dubtitles,,0,0,0,,Uh-uh.
-Dialogue: 0,0:05:43.13,0:05:45.59,Dubtitles,,0,0,0,,Looks like my bug bite\Njust got a lot worse.
-Dialogue: 0,0:05:45.80,0:05:47.45,Dubtitles,,0,0,0,,This thing must be infected.
-Dialogue: 0,0:05:47.74,0:05:49.16,Dubtitles,,0,0,0,,It's definitely swollen.
-Dialogue: 0,0:05:49.56,0:05:52.44,Dubtitles,,0,0,0,,It would be best to have a doctor\Nlook at it before it gets worse.
-Dialogue: 0,0:05:52.52,0:05:56.20,Dubtitles,,0,0,0,,Hey, doesn't that sort of\Nlook like a person's face?
+Dialogue: 0,0:05:30.58,0:05:33.80,Dubtitles,,0,0,0,,Hmm, man, this thing\Nisn't getting any better.
+Dialogue: 0,0:05:38.90,0:05:41.48,Dubtitles,,0,0,0,,What's wrong, old man?\NYou don't look well?
+Dialogue: 0,0:05:41.56,0:05:45.44,Dubtitles,,0,0,0,,Uh-uh. Looks like my bug\Nbite just got a lot worse.
+Dialogue: 0,0:05:45.52,0:05:49.12,Dubtitles,,0,0,0,,This thing must be infected\Nit's definitely swollen.
+Dialogue: 0,0:05:49.20,0:05:53.08,Dubtitles,,0,0,0,,It would be best to have a doctor\Nlook at it before it gets worse!
+Dialogue: 0,0:05:53.38,0:05:56.44,Dubtitles,,0,0,0,,Hey, doesn't that sort of\Nlook like a person's face?
 Dialogue: 0,0:05:56.62,0:05:58.56,Dubtitles,,0,0,0,,Stop kidding around, Polnareff.
 Dialogue: 0,0:05:58.64,0:05:59.47,Dubtitles,,0,0,0,,That's creepy.
-Dialogue: 0,0:06:00.02,0:06:01.16,Dubtitles,,0,0,0,,Sorry about that.
-Dialogue: 0,0:06:01.44,0:06:03.18,Dubtitles,,0,0,0,,Want me to go to the hospital with you?
+Dialogue: 0,0:06:00.00,0:06:01.16,Dubtitles,,0,0,0,,Sorry about that.
+Dialogue: 0,0:06:01.46,0:06:03.18,Dubtitles,,0,0,0,,Want me to go to the hospital with you?
 Dialogue: 0,0:06:03.26,0:06:04.09,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:06:04.17,0:06:05.78,Dubtitles,,0,0,0,,Stop treating me like an old man.
-Dialogue: 0,0:06:11.56,0:06:12.39,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:06:12.47,0:06:14.58,Dubtitles,,0,0,0,,I'll just lance this. Huh?
+Dialogue: 0,0:06:04.17,0:06:05.82,Dubtitles,,0,0,0,,Stop treating me like an old man.
+Dialogue: 0,0:06:11.52,0:06:12.35,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:06:12.43,0:06:14.58,Dubtitles,,0,0,0,,I'll just lance this. Huh?
 Dialogue: 0,0:06:14.78,0:06:15.90,Dubtitles,,0,0,0,,What did you say?
 Dialogue: 0,0:06:16.08,0:06:17.88,Dubtitles,,0,0,0,,It's definitely infected now.
 Dialogue: 0,0:06:18.20,0:06:20.32,Dubtitles,,0,0,0,,It'll get worse if we\Ndon't drain the fluid.

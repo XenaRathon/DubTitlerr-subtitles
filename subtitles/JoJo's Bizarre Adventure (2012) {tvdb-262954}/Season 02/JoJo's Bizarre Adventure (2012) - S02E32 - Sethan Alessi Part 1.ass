@@ -48,46 +48,45 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:02.48,0:00:05.31,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,953)}Seeking out...
-Dialogue: 0,0:00:29.44,0:00:33.38,Dubtitles,,0,0,0,,but I don't care what's going on\NWe're still looking at the place,
-Dialogue: 0,0:00:33.68,0:00:40.12,Dubtitles,,0,0,0,,but we're still looking at the time.\NWe're still looking at the end of the game
-Dialogue: 0,0:00:40.64,0:00:44.56,Dubtitles,,0,0,0,,We're still looking at\Nthe end of the game.
-Dialogue: 0,0:00:45.60,0:00:46.43,Dubtitles,,0,0,0,,Stop, it's now
-Dialogue: 0,0:00:48.62,0:00:53.58,Dubtitles,,0,0,0,,It's the beginning of the story.\NIt's the moment that we've been in.
-Dialogue: 0,0:00:59.62,0:01:01.02,Dubtitles,,0,0,0,,Oh
-Dialogue: 0,0:01:04.34,0:01:05.74,Dubtitles,,0,0,0,,Oh
-Dialogue: 0,0:01:30.76,0:01:32.50,Dubtitles,,0,0,0,,Let's rewind a little bit.
+Dialogue: 0,0:00:54.94,0:00:58.90,Dubtitles,,0,0,0,,ozigeru tame Aruki tuzukeru kunseiders
+Dialogue: 0,0:01:00.10,0:01:04.46,Dubtitles,,0,0,0,,Huu haku no last page ni So
+Dialogue: 0,0:01:04.54,0:01:07.38,Dubtitles,,0,0,0,,No kobushi wo ta Diego Cameo
+Dialogue: 0,0:01:08.40,0:01:09.90,Dubtitles,,0,0,0,,End of the world
+Dialogue: 0,0:01:11.66,0:01:14.12,Dubtitles,,0,0,0,,So no Africa Kick
+Dialogue: 0,0:01:30.74,0:01:32.50,Dubtitles,,0,0,0,,Let's rewind a little bit.
 Dialogue: 1,0:01:31.52,0:01:36.49,Title 3,title,0,0,0,,{\fad(488,478)\pos(151,850)}Episode 32: Set's Alessi, Part 1 {Japanese pronounciation is "Seto" which is Set, but from what I can see Seto-shin is always romanized as "Sethan" (even in the card in this episode)}
-Dialogue: 0,0:01:33.12,0:01:37.62,Dubtitles,,0,0,0,,While Joseph and Avdol were battling\NMariah, Jotaro and Polnareff were.
-Dialogue: 0,0:01:40.24,0:01:41.96,Dubtitles,,0,0,0,,And here's your drink, ma 'am.
-Dialogue: 0,0:01:42.04,0:01:45.90,Dubtitles,,0,0,0,,A super-duper-tall glass of whiskey\Nand soda on the rocks. Enjoy!
-Dialogue: 0,0:01:46.34,0:01:47.80,Dubtitles,,0,0,0,,It looks delicious!
-Dialogue: 0,0:01:51.96,0:01:55.78,Dubtitles,,0,0,0,,Oh my, somebody's dying to quench\Nyour thirst early this morning.
-Dialogue: 0,0:01:55.90,0:01:56.73,Dubtitles,,0,0,0,,Scandalous.
-Dialogue: 0,0:01:56.81,0:01:58.30,Dubtitles,,0,0,0,,Darling, how you do go on.
+Dialogue: 0,0:01:33.10,0:01:37.62,Dubtitles,,0,0,0,,While Joseph and Avdol were battling\NMariah, Jotaro and Polnareff were.
+Dialogue: 0,0:01:40.22,0:01:41.96,Dubtitles,,0,0,0,,And here's your drink, ma 'am.
+Dialogue: 0,0:01:42.04,0:01:45.90,Dubtitles,,0,0,0,,A super duper tall glass of whiskey\Nand soda on the rocks. Enjoy!
+Dialogue: 0,0:01:46.30,0:01:47.80,Dubtitles,,0,0,0,,It looks delicious!
+Dialogue: 0,0:01:52.12,0:01:55.78,Dubtitles,,0,0,0,,Oh, my, somebody's dying to quench\Nyour thirst early this morning.
+Dialogue: 0,0:01:55.86,0:01:56.69,Dubtitles,,0,0,0,,Scandalous.
+Dialogue: 0,0:01:56.77,0:01:58.28,Dubtitles,,0,0,0,,Darling, how you do go on.
 Dialogue: 0,0:01:58.44,0:02:02.91,Dubtitles,,0,0,0,,My husband's gone away on a business\Ntrip and won't return for another week.
 Dialogue: 0,0:02:03.46,0:02:06.28,Dubtitles,,0,0,0,,In that case, how about\Nenjoying a piece of cake?
 Dialogue: 0,0:02:06.36,0:02:08.02,Dubtitles,,0,0,0,,Oh, don't trouble yourself, dear.
 Dialogue: 0,0:02:08.10,0:02:09.28,Dubtitles,,0,0,0,,I'm quite all right.
 Dialogue: 0,0:02:11.24,0:02:12.48,Dubtitles,,0,0,0,,Kids are great, huh?
 Dialogue: 0,0:02:12.60,0:02:13.44,Dubtitles,,0,0,0,,So innocent.
-Dialogue: 0,0:02:13.90,0:02:15.78,Dubtitles,,0,0,0,,Hey, it's almost 9 a .m.
+Dialogue: 0,0:02:13.90,0:02:15.76,Dubtitles,,0,0,0,,Hey, it's almost 9 a .m.
 Dialogue: 0,0:02:17.90,0:02:20.61,Dubtitles,,0,0,0,,The old man and Avdol\Nare taking way too long.
-Dialogue: 0,0:02:22.10,0:02:24.22,Dubtitles,,0,0,0,,They may have had a run-in with the enemy.
-Dialogue: 0,0:02:24.30,0:02:26.64,Dubtitles,,0,0,0,,You think we should see\Nwhere they ran off to?
-Dialogue: 0,0:02:26.72,0:02:27.55,Dubtitles,,0,0,0,,I guess.
-Dialogue: 0,0:02:27.84,0:02:28.78,Dubtitles,,0,0,0,,Good grief.
-Dialogue: 0,0:02:29.48,0:02:30.77,Dubtitles,,0,0,0,,It's time to go, Iggy.
-Dialogue: 0,0:02:32.88,0:02:34.80,Dubtitles,,0,0,0,,Yeah, yeah, I know you're hungry.
+Dialogue: 0,0:02:22.08,0:02:24.20,Dubtitles,,0,0,0,,They may have had a run-in with the enemy.
+Dialogue: 0,0:02:24.28,0:02:26.62,Dubtitles,,0,0,0,,You think we should see\Nwhere they ran off to?
+Dialogue: 0,0:02:26.70,0:02:27.53,Dubtitles,,0,0,0,,I guess.
+Dialogue: 0,0:02:27.84,0:02:28.80,Dubtitles,,0,0,0,,Good grief.
+Dialogue: 0,0:02:29.46,0:02:30.76,Dubtitles,,0,0,0,,It's time to go, Iggy.
+Dialogue: 0,0:02:32.94,0:02:34.80,Dubtitles,,0,0,0,,Yeah, yeah, I know you're hungry.
 Dialogue: 0,0:02:34.88,0:02:37.14,Dubtitles,,0,0,0,,You're not the only one. Believe me.
 Dialogue: 0,0:02:39.38,0:02:41.98,Dubtitles,,0,0,0,,Hey, Iggy, where in the world\Ndo you think you're going?
-Dialogue: 0,0:02:42.06,0:02:44.88,Dubtitles,,0,0,0,,Jeez, what a stupid mutt. Let's go.
-Dialogue: 0,0:02:50.52,0:02:51.35,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:02:52.42,0:02:53.86,Dubtitles,,0,0,0,,Make some room, would you?
+Dialogue: 0,0:02:42.06,0:02:43.64,Dubtitles,,0,0,0,,Jeez, what a stupid mutt.
+Dialogue: 0,0:02:44.24,0:02:45.07,Dubtitles,,0,0,0,,Let's go.
+Dialogue: 0,0:02:50.58,0:02:51.41,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:02:52.40,0:02:53.86,Dubtitles,,0,0,0,,Make some room, would you?
 Dialogue: 0,0:02:53.94,0:02:55.12,Dubtitles,,0,0,0,,I want to play, too.
-Dialogue: 0,0:02:55.40,0:02:57.93,Dubtitles,,0,0,0,,No way we'd ever play\Nwith a jerk like you.
-Dialogue: 0,0:02:58.36,0:02:59.19,Dubtitles,,0,0,0,,Oh, yeah?
-Dialogue: 0,0:02:59.27,0:03:00.73,Dubtitles,,0,0,0,,You guys are the jerks...
-Dialogue: 0,0:03:02.12,0:03:04.06,Dubtitles,,0,0,0,,Oh, man, that really hurt.
+Dialogue: 0,0:02:55.40,0:02:59.10,Dubtitles,,0,0,0,,No way we'd ever play with\Na jerk like you. Oh, yeah?
+Dialogue: 0,0:02:59.26,0:03:00.73,Dubtitles,,0,0,0,,You guys are the jerks...
+Dialogue: 0,0:03:02.02,0:03:04.06,Dubtitles,,0,0,0,,Oh, man, that really hurt.
+Dialogue: 0,0:03:09.58,0:03:10.41,Dubtitles,,0,0,0,,Huh?
 Dialogue: 1,0:03:10.92,0:03:10.96,SFX2 - Copy,1,0,0,0,,{=7}{\blur0.8\fade(255,0,255,0,1,3639,3640)\frz3.815\org(48.893,30.881)\pos(48.893,30.881)\c&H171617&}Menacing
 Dialogue: 2,0:03:10.92,0:03:10.96,SFX2 - Copy,1,0,0,0,,{=7}{\bord0\blur0.8\fade(255,0,255,0,1,3639,3640)\frz3.815\org(48.893,30.881)\pos(48.893,30.881)\4a&HFF&}Menacing
 Dialogue: 1,0:03:10.96,0:03:11.00,SFX2 - Copy,1,0,0,0,,{=7}{\blur0.8\fade(255,0,255,-40,-39,3599,3600)\frz3.815\org(48.893,30.881)\pos(48.893,30.881)\c&H171617&}Menacing
@@ -522,58 +521,59 @@ Dialogue: 1,0:03:19.88,0:03:19.92,SFX,3,0,0,0,,{=10}{\blur0.7\fade(255,0,255,-32
 Dialogue: 2,0:03:19.88,0:03:19.92,SFX,3,0,0,0,,{=10}{\bord0\blur0.7\fade(255,0,255,-3250,-3249,89,90)\frz3.815\org(41.232,22.767)\pos(41.232,22.767)\4a&HFF&}Menacing
 Dialogue: 1,0:03:19.92,0:03:19.97,SFX,3,0,0,0,,{=10}{\blur0.7\fade(255,0,255,-3290,-3289,49,50)\frz3.815\org(41.232,22.767)\pos(41.232,22.767)\c&H0B0407&}Menacing
 Dialogue: 2,0:03:19.92,0:03:19.97,SFX,3,0,0,0,,{=10}{\bord0\blur0.7\fade(255,0,255,-3290,-3289,49,50)\frz3.815\org(41.232,22.767)\pos(41.232,22.767)\4a&HFF&}Menacing
-Dialogue: 0,0:03:24.30,0:03:25.22,Dubtitles,,0,0,0,,Atta boy.
-Dialogue: 0,0:03:25.68,0:03:27.38,Dubtitles,,0,0,0,,You didn't shed a single tear.
-Dialogue: 0,0:03:27.46,0:03:28.29,Dubtitles,,0,0,0,,That's impressive.
-Dialogue: 0,0:03:28.37,0:03:29.48,Dubtitles,,0,0,0,,You sure you're okay?
-Dialogue: 0,0:03:31.10,0:03:33.32,Dubtitles,,0,0,0,,So, kid, how old are you?
-Dialogue: 0,0:03:35.66,0:03:37.50,Dubtitles,,0,0,0,,Four years old, hmm?
-Dialogue: 0,0:03:39.56,0:03:40.52,Dubtitles,,0,0,0,,Atta boy.
-Dialogue: 0,0:03:40.60,0:03:42.04,Dubtitles,,0,0,0,,What about your daddy?
-Dialogue: 0,0:03:42.34,0:03:43.32,Dubtitles,,0,0,0,,Where is he now?
-Dialogue: 0,0:03:44.40,0:03:46.64,Dubtitles,,0,0,0,,Uh, he's at work. I see.
-Dialogue: 0,0:03:46.72,0:03:48.56,Dubtitles,,0,0,0,,So your daddy's at work, is he?
-Dialogue: 0,0:03:48.72,0:03:50.06,Dubtitles,,0,0,0,,Atta boy to you.
-Dialogue: 0,0:03:50.68,0:03:52.12,Dubtitles,,0,0,0,,And where's your mommy?
+Dialogue: 0,0:03:24.26,0:03:25.09,Dubtitles,,0,0,0,,Atta boy.
+Dialogue: 0,0:03:25.17,0:03:26.76,Dubtitles,,0,0,0,,You didn't shed a single tear.
+Dialogue: 0,0:03:26.84,0:03:27.90,Dubtitles,,0,0,0,,That's impressive.
+Dialogue: 0,0:03:28.10,0:03:29.34,Dubtitles,,0,0,0,,You sure you're okay?
+Dialogue: 0,0:03:31.16,0:03:33.34,Dubtitles,,0,0,0,,So, kid, how old are you?
+Dialogue: 0,0:03:35.70,0:03:37.50,Dubtitles,,0,0,0,,Four years old, hmm?
+Dialogue: 0,0:03:40.02,0:03:40.85,Dubtitles,,0,0,0,,Atta.
+Dialogue: 0,0:03:40.93,0:03:42.04,Dubtitles,,0,0,0,,What about your daddy?
+Dialogue: 0,0:03:42.36,0:03:43.32,Dubtitles,,0,0,0,,Where is he now?
+Dialogue: 0,0:03:44.90,0:03:45.92,Dubtitles,,0,0,0,,He's at work.
+Dialogue: 0,0:03:46.00,0:03:48.56,Dubtitles,,0,0,0,,I see, so your daddy's at work, is he?
+Dialogue: 0,0:03:48.90,0:03:50.04,Dubtitles,,0,0,0,,Atta boy to you.
+Dialogue: 0,0:03:50.68,0:03:52.10,Dubtitles,,0,0,0,,And where's your mommy?
 Dialogue: 0,0:03:52.60,0:03:54.25,Dubtitles,,0,0,0,,She's at home doing laundry.
-Dialogue: 0,0:03:55.22,0:03:56.05,Dubtitles,,0,0,0,,Atta boy.
-Dialogue: 0,0:03:56.64,0:03:58.72,Dubtitles,,0,0,0,,So, you came here all by yourself?
-Dialogue: 0,0:03:59.28,0:04:00.11,Dubtitles,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:03:55.08,0:03:55.91,Dubtitles,,0,0,0,,Atta boy.
+Dialogue: 0,0:03:56.62,0:03:59.72,Dubtitles,,0,0,0,,So, you came here all by yourself? Mm-hmm.
 Dialogue: 0,0:04:01.42,0:04:02.25,Dubtitles,,0,0,0,,Good!
 Dialogue: 0,0:04:02.33,0:04:03.52,Dubtitles,,0,0,0,,Then there's no one around to stop me from
-Dialogue: 0,0:04:03.60,0:04:05.92,Dubtitles,,0,0,0,,bashing your face and\Nfor ruining my pants!
-Dialogue: 0,0:04:06.00,0:04:07.72,Dubtitles,,0,0,0,,You gonna pay to get the mud cleaned off?
-Dialogue: 0,0:04:07.80,0:04:10.22,Dubtitles,,0,0,0,,Or maybe you're gonna get a job\Nfor the cash to pay me back?
-Dialogue: 0,0:04:10.30,0:04:12.60,Dubtitles,,0,0,0,,Because you think I have years\Nto wait for some little punk!
-Dialogue: 0,0:04:12.68,0:04:14.08,Dubtitles,,0,0,0,,to work his way through debt!
-Dialogue: 0,0:04:14.16,0:04:15.52,Dubtitles,,0,0,0,,You little shit stain!
-Dialogue: 0,0:04:21.56,0:04:22.39,Dubtitles,,0,0,0,,Mama!
-Dialogue: 0,0:04:27.82,0:04:31.53,Dubtitles,,0,0,0,,Joseph and Avdol are in the middle\Nof doing battle with Mariah.
-Dialogue: 0,0:04:31.74,0:04:36.21,Dubtitles,,0,0,0,,So I, Alessi, shall take on the great\Nhonor of killing Jotaro and Polnareff.
-Dialogue: 0,0:04:36.86,0:04:41.51,Dubtitles,,0,0,0,,They're tenacious to be sure, but I'll\Ndo whatever it takes to achieve victory.
-Dialogue: 0,0:04:42.92,0:04:44.74,Dubtitles,,0,0,0,,Atta boy, Alessi. Alessi.
-Dialogue: 0,0:04:47.72,0:04:51.12,Dubtitles,,0,0,0,,Enemy's name, Alessi. Stand. Set.
-Dialogue: 0,0:04:51.46,0:04:53.32,Dubtitles,,0,0,0,,God of storms and chaos.
+Dialogue: 0,0:04:03.60,0:04:05.90,Dubtitles,,0,0,0,,bashing your face and\Nfor ruining my pants!
+Dialogue: 0,0:04:05.98,0:04:07.74,Dubtitles,,0,0,0,,You gonna pay to get the mud cleaned off?
+Dialogue: 0,0:04:07.82,0:04:10.80,Dubtitles,,0,0,0,,Or maybe you're gonna get a job for\Nthe cash to pay me back because you
+Dialogue: 0,0:04:10.88,0:04:14.06,Dubtitles,,0,0,0,,think I have years to wait for some\Nlittle punk to work his way through debt!
+Dialogue: 0,0:04:14.14,0:04:15.52,Dubtitles,,0,0,0,,You little shit stain!
+Dialogue: 0,0:04:16.92,0:04:17.75,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:04:18.22,0:04:19.40,Dubtitles,,0,0,0,,Ah! Ah!
+Dialogue: 0,0:04:20.16,0:04:25.77,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:04:27.62,0:04:31.33,Dubtitles,,0,0,0,,Joseph and Avdol are in the middle\Nof doing battle with Mariah.
+Dialogue: 0,0:04:31.66,0:04:36.64,Dubtitles,,0,0,0,,So I, Alessi, shall take on the great\Nhonor of killing Jotaro and Polnareff.
+Dialogue: 0,0:04:36.82,0:04:41.47,Dubtitles,,0,0,0,,They're tenacious to be sure, but I'll\Ndo whatever it takes to achieve victory.
+Dialogue: 0,0:04:42.80,0:04:44.68,Dubtitles,,0,0,0,,Atta boy, Alessi.
+Dialogue: 0,0:04:48.24,0:04:50.10,Dubtitles,,0,0,0,,Enemies name, Alessi.
+Dialogue: 0,0:04:50.32,0:04:51.72,Dubtitles,,0,0,0,,Stand, set.
+Dialogue: 0,0:04:52.16,0:04:53.92,Dubtitles,,0,0,0,,God of storms and chaos.
 Dialogue: 0,0:04:54.40,0:04:55.96,Dubtitles,,0,0,0,,Favorite phrase, attaboy.
 Dialogue: 0,0:05:08.24,0:05:10.32,Dubtitles,,0,0,0,,Polnareff, keep your guard up.
 Dialogue: 0,0:05:10.62,0:05:13.03,Dubtitles,,0,0,0,,Have you forgotten who you're talking to?
-Dialogue: 0,0:05:20.34,0:05:21.17,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:05:21.25,0:05:22.08,Dubtitles,,0,0,0,,Seems Mr.
-Dialogue: 0,0:05:22.17,0:05:23.70,Dubtitles,,0,0,0,,Joestar and Avdol already left,
+Dialogue: 0,0:05:20.26,0:05:21.09,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:05:21.17,0:05:22.00,Dubtitles,,0,0,0,,Seems Mr.
+Dialogue: 0,0:05:22.09,0:05:23.70,Dubtitles,,0,0,0,,Joestar and Avdol already left,
 Dialogue: 0,0:05:23.88,0:05:27.00,Dubtitles,,0,0,0,,and it doesn't really look\Nlike there was a struggle.
-Dialogue: 0,0:05:29.74,0:05:31.94,Dubtitles,,0,0,0,,Old man, Avdol, you here?
-Dialogue: 0,0:05:34.30,0:05:38.00,Dubtitles,,0,0,0,,Hey, Jotaro, I'm starting to\Nget a bad feeling about this.
-Dialogue: 0,0:05:38.54,0:05:39.37,Dubtitles,,0,0,0,,Me too.
-Dialogue: 0,0:05:51.24,0:05:52.52,Dubtitles,,0,0,0,,That looks good!
-Dialogue: 0,0:05:53.00,0:05:54.68,Dubtitles,,0,0,0,,Come on, let me have a bite.
-Dialogue: 0,0:05:54.88,0:05:56.84,Dubtitles,,0,0,0,,All right, just leave me some.
-Dialogue: 0,0:06:00.58,0:06:02.29,Dubtitles,,0,0,0,,That ducked with my sandwich!
+Dialogue: 0,0:05:29.70,0:05:31.94,Dubtitles,,0,0,0,,Old man, Avdol, you here?
+Dialogue: 0,0:05:34.26,0:05:38.00,Dubtitles,,0,0,0,,Hey, Jotaro, I'm starting to\Nget a bad feeling about this.
+Dialogue: 0,0:05:38.52,0:05:39.35,Dubtitles,,0,0,0,,Me too.
+Dialogue: 0,0:05:50.70,0:05:52.54,Dubtitles,,0,0,0,,Ah, that looks yummy.
+Dialogue: 0,0:05:53.02,0:05:54.68,Dubtitles,,0,0,0,,Come on, let me have a bite.
+Dialogue: 0,0:05:54.90,0:05:56.84,Dubtitles,,0,0,0,,All right, just leave me some.
+Dialogue: 0,0:06:00.60,0:06:02.31,Dubtitles,,0,0,0,,That ducked with my sandwich!
 Dialogue: 0,0:06:02.58,0:06:05.46,Dubtitles,,0,0,0,,Hey, get back in this\Ninstant, you mangy fleabag!
-Dialogue: 0,0:06:28.84,0:06:30.74,Dubtitles,,0,0,0,,So you think I have nowhere to go?
-Dialogue: 0,0:06:30.82,0:06:33.78,Dubtitles,,0,0,0,,You boys truly haven't\Nrealized it yet, have you?
+Dialogue: 0,0:06:28.88,0:06:30.70,Dubtitles,,0,0,0,,So you think I have nowhere to go?
+Dialogue: 0,0:06:30.78,0:06:33.78,Dubtitles,,0,0,0,,You boys truly haven't\Nrealized it yet, have you?
 Dialogue: 0,0:06:33.86,0:06:36.50,Dubtitles,,0,0,0,,You only thought you were hunting me when
 Dialogue: 0,0:06:36.58,0:06:39.23,Dubtitles,,0,0,0,,really I was luring you\Nhere the entire time!
-Dialogue: 0,0:06:40.68,0:06:43.62,Dubtitles,,0,0,0,,I'm afraid you're going\Nto fry this time, Joestar.
+Dialogue: 0,0:06:40.72,0:06:43.66,Dubtitles,,0,0,0,,I'm afraid you're going\Nto fry this time, Joestar.
 Dialogue: 0,0:06:44.60,0:06:46.10,Dubtitles,,0,0,0,,But you should run!
 Dialogue: 0,0:06:49.80,0:06:50.88,Dubtitles,,0,0,0,,Hermit Purple!
 Dialogue: 0,0:06:53.30,0:06:57.70,Dubtitles,,0,0,0,,Adol might be able to defend himself\Nfor now with his place, but not you.
@@ -2003,14 +2003,14 @@ Dialogue: 0,0:20:11.36,0:20:12.77,Dubtitles,,0,0,0,,You be a good boy, okay?
 Dialogue: 0,0:20:13.22,0:20:14.05,Dubtitles,,0,0,0,,Okay!
 Dialogue: 0,0:20:21.66,0:20:23.62,Dubtitles,,0,0,0,,The fool's delirious.
 Dialogue: 0,0:20:23.84,0:20:28.44,Dubtitles,,0,0,0,,Enjoy your stupor while you can, because\NI'm going to chop your face in tow!
-Dialogue: 0,0:20:46.38,0:20:49.20,Dubtitles,,0,0,0,,What could you be grinning\Nabout, you silly boy?
+Dialogue: 0,0:20:46.40,0:20:49.22,Dubtitles,,0,0,0,,What could you be grinning\Nabout, you silly boy?
 Dialogue: 0,0:20:49.46,0:20:52.44,Dubtitles,,0,0,0,,Now, I think it's time\Nwe wash your hair. Huh?
 Dialogue: 0,0:20:54.88,0:20:56.34,Dubtitles,,0,0,0,,I hate using shampoo!
-Dialogue: 0,0:20:57.76,0:20:59.16,Dubtitles,,0,0,0,,It gets into my eyes and I hate it!
+Dialogue: 0,0:20:57.78,0:20:59.16,Dubtitles,,0,0,0,,It gets into my eyes and I hate it!
 Dialogue: 0,0:20:59.24,0:21:00.76,Dubtitles,,0,0,0,,Rock, paper, scissors, go!
-Dialogue: 0,0:21:05.40,0:21:06.60,Dubtitles,,0,0,0,,Monkey, monkey, do!
-Dialogue: 0,0:21:07.38,0:21:08.86,Dubtitles,,0,0,0,,Oh, I lost!
-Dialogue: 0,0:21:10.56,0:21:12.28,Dubtitles,,0,0,0,,All right, sit still!
+Dialogue: 0,0:21:05.42,0:21:06.60,Dubtitles,,0,0,0,,Monkey, monkey, do!
+Dialogue: 0,0:21:07.40,0:21:08.88,Dubtitles,,0,0,0,,Oh, I lost!
+Dialogue: 0,0:21:10.76,0:21:12.28,Dubtitles,,0,0,0,,Alright, sit still!
 Dialogue: 0,0:21:22.18,0:21:23.58,Dubtitles,,0,0,0,,Does it sting?
 Dialogue: 0,0:21:23.66,0:21:26.08,Dubtitles,,0,0,0,,Yeah, it stings a lot.
 Dialogue: 0,0:21:26.16,0:21:29.96,Dubtitles,,0,0,0,,Can you wash your hair\Nall by yourself? Uh-huh.

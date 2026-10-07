@@ -31,14 +31,13 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.18,0:00:03.01,Dubtitles,,0,0,0,,Wow!
-Dialogue: 0,0:00:03.09,0:00:03.92,Dubtitles,,0,0,0,,Wow!
-Dialogue: 0,0:00:04.01,0:00:04.84,Dubtitles,,0,0,0,,Wow! Wow! Aah!
-Dialogue: 0,0:00:08.66,0:00:09.49,Dubtitles,,0,0,0,,Wow!
-Dialogue: 0,0:00:09.57,0:00:10.40,Dubtitles,,0,0,0,,Wow!
-Dialogue: 0,0:00:11.72,0:00:14.08,Dubtitles,,0,0,0,,The Tommen Unit of Lens.
-Dialogue: 0,0:00:14.16,0:00:19.54,Dubtitles,,0,0,0,,The Tommen Unit of Lens.
-Dialogue: 0,0:00:19.62,0:00:24.52,Dubtitles,,0,0,0,,All the Tommen Unit of Lens.
+Dialogue: 0,0:00:00.84,0:00:01.67,Dubtitles,,0,0,0,,Oh!
+Dialogue: 0,0:00:01.75,0:00:02.66,Dubtitles,,0,0,0,,Oh!
+Dialogue: 0,0:00:02.98,0:00:04.56,Dubtitles,,0,0,0,,Oh! Oh!
+Dialogue: 0,0:00:08.96,0:00:15.96,Dubtitles,,0,0,0,,of
+Dialogue: 0,0:00:18.84,0:00:19.67,Dubtitles,,0,0,0,,the
+Dialogue: 0,0:00:19.75,0:00:20.58,Dubtitles,,0,0,0,,game is playing.
+Dialogue: 0,0:00:23.40,0:00:25.26,Dubtitles,,0,0,0,,Give me the three titles and\Nmy children to be convinced.
 Dialogue: 3,0:00:24.34,0:00:24.46,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Welcome home, Master
 Dialogue: 2,0:00:24.34,0:00:24.46,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Welcome home, Master
 Dialogue: 1,0:00:24.34,0:00:24.46,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Welcome home, Master
@@ -51,19 +50,22 @@ Dialogue: 1,0:00:24.46,0:00:26.21,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\bl
 Dialogue: 3,0:00:24.46,0:00:26.21,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Okaerinasaimase goshujinsama
 Dialogue: 2,0:00:24.46,0:00:26.21,Neo OR,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Okaerinasaimase goshujinsama
 Dialogue: 1,0:00:24.46,0:00:26.21,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Okaerinasaimase goshujinsama
+Dialogue: 0,0:00:25.34,0:00:26.17,Dubtitles,,0,0,0,,Let me know the ones who\Nare playing together.
 Dialogue: 3,0:00:26.13,0:00:26.34,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Welcome home, Mistress
 Dialogue: 2,0:00:26.13,0:00:26.34,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Welcome home, Mistress
 Dialogue: 1,0:00:26.13,0:00:26.34,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Welcome home, Mistress
 Dialogue: 3,0:00:26.13,0:00:26.34,Neo OR,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Okaerinasaimase ojousama
 Dialogue: 2,0:00:26.13,0:00:26.34,Neo OR,,0,0,0,,{\move(1160,80,960,80,0,120)\shad0\blur1.5\fad(120,0)}Okaerinasaimase ojousama
 Dialogue: 1,0:00:26.13,0:00:26.34,Neo OR,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\blur0.3\fad(120,0)}Okaerinasaimase ojousama
+Dialogue: 0,0:00:26.25,0:00:27.08,Dubtitles,,0,0,0,,This is Akiba Maid War\NWelcome to Akiba Maid War,
 Dialogue: 3,0:00:26.34,0:00:28.30,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.5\c&HFFFFFF&)}Welcome home, Mistress
 Dialogue: 2,0:00:26.34,0:00:28.30,Neo OE,,0,0,0,,{\move(960,20,920,20)\shad0\blur1.5\fad(0,120)}Welcome home, Mistress
 Dialogue: 1,0:00:26.34,0:00:28.30,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\blur0.5\fad(0,120)}Welcome home, Mistress
 Dialogue: 3,0:00:26.34,0:00:28.30,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Okaerinasaimase ojousama
 Dialogue: 2,0:00:26.34,0:00:28.30,Neo OR,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Okaerinasaimase ojousama
 Dialogue: 1,0:00:26.34,0:00:28.30,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Okaerinasaimase ojousama
-Dialogue: 0,0:00:31.34,0:00:33.32,Dubtitles,,0,0,0,,Will. Bye. Come on!
+Dialogue: 0,0:00:27.17,0:00:28.00,Dubtitles,,0,0,0,,a Japanese anime character,\Na Japanese character.
+Dialogue: 0,0:00:28.08,0:00:29.96,Dubtitles,,0,0,0,,Welcome to Akiba Maid War,\Na Japanese anime character.
 Dialogue: 3,0:00:31.39,0:00:31.59,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Welcome home, Master
 Dialogue: 2,0:00:31.39,0:00:31.59,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Welcome home, Master
 Dialogue: 1,0:00:31.39,0:00:31.59,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Welcome home, Master
@@ -88,8 +90,6 @@ Dialogue: 1,0:00:33.39,0:00:35.06,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\blu
 Dialogue: 3,0:00:33.39,0:00:35.06,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Okaerinasaimase ojousama
 Dialogue: 2,0:00:33.39,0:00:35.06,Neo OR,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Okaerinasaimase ojousama
 Dialogue: 1,0:00:33.39,0:00:35.06,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Okaerinasaimase ojousama
-Dialogue: 0,0:00:33.40,0:00:34.34,Dubtitles,,0,0,0,,Come on!
-Dialogue: 0,0:00:35.16,0:00:37.92,Dubtitles,,0,0,0,,You are my friend!
 Dialogue: 3,0:00:35.56,0:00:35.72,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Welcome home, Master
 Dialogue: 2,0:00:35.56,0:00:35.72,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Welcome home, Master
 Dialogue: 1,0:00:35.56,0:00:35.72,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Welcome home, Master
@@ -102,7 +102,6 @@ Dialogue: 1,0:00:35.72,0:00:38.14,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\bl
 Dialogue: 3,0:00:35.72,0:00:38.14,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Okaerinasaimase goshujinsama
 Dialogue: 2,0:00:35.72,0:00:38.14,Neo OR,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Okaerinasaimase goshujinsama
 Dialogue: 1,0:00:35.72,0:00:38.14,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Okaerinasaimase goshujinsama
-Dialogue: 0,0:00:38.00,0:00:40.38,Dubtitles,,0,0,0,,There are a lot of food!
 Dialogue: 3,0:00:38.60,0:00:38.81,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Omelet fully loaded with chicken and rice
 Dialogue: 2,0:00:38.60,0:00:38.81,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Omelet fully loaded with chicken and rice
 Dialogue: 1,0:00:38.60,0:00:38.81,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Omelet fully loaded with chicken and rice
@@ -121,26 +120,26 @@ Dialogue: 1,0:00:40.44,0:00:40.60,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bor
 Dialogue: 3,0:00:40.44,0:00:40.60,Neo OR,,0,0,0,,{\move(760,80,960,80,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Oishikunaare moe moe kyun
 Dialogue: 2,0:00:40.44,0:00:40.60,Neo OR,,0,0,0,,{\move(760,80,960,80,0,120)\shad0\blur1.5\fad(120,0)}Oishikunaare moe moe kyun
 Dialogue: 1,0:00:40.44,0:00:40.60,Neo OR,,0,0,0,,{\move(760,80,960,80,0,120)\bord0\blur0.3\fad(120,0)}Oishikunaare moe moe kyun
-Dialogue: 0,0:00:40.46,0:00:41.40,Dubtitles,,0,0,0,,It's delicious!
 Dialogue: 3,0:00:40.60,0:00:42.36,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.5\c&HFFFFFF&)}Make it yummy, moe moe kyun
 Dialogue: 2,0:00:40.60,0:00:42.36,Neo OE,,0,0,0,,{\move(960,20,1000,20)\shad0\blur1.5\fad(0,120)}Make it yummy, moe moe kyun
 Dialogue: 1,0:00:40.60,0:00:42.36,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\blur0.5\fad(0,120)}Make it yummy, moe moe kyun
 Dialogue: 3,0:00:40.60,0:00:42.36,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Oishikunaare moe moe kyun
 Dialogue: 2,0:00:40.60,0:00:42.36,Neo OR,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Oishikunaare moe moe kyun
 Dialogue: 1,0:00:40.60,0:00:42.36,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Oishikunaare moe moe kyun
-Dialogue: 0,0:00:41.48,0:00:47.92,Dubtitles,,0,0,0,,A big deal! You can't\Nfind it! It's so good
 Dialogue: 3,0:00:45.90,0:00:46.11,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}With plenty of milk and plenty of love
 Dialogue: 2,0:00:45.90,0:00:46.11,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}With plenty of milk and plenty of love
 Dialogue: 1,0:00:45.90,0:00:46.11,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}With plenty of milk and plenty of love
 Dialogue: 3,0:00:45.90,0:00:46.11,Neo OR,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Milk tappuri aijou tappuri
 Dialogue: 2,0:00:45.90,0:00:46.11,Neo OR,,0,0,0,,{\move(1160,80,960,80,0,120)\shad0\blur1.5\fad(120,0)}Milk tappuri aijou tappuri
 Dialogue: 1,0:00:45.90,0:00:46.11,Neo OR,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\blur0.3\fad(120,0)}Milk tappuri aijou tappuri
+Dialogue: 0,0:00:45.94,0:00:46.77,Dubtitles,,0,0,0,,Thank you so much
 Dialogue: 3,0:00:46.11,0:00:47.61,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.5\c&HFFFFFF&)}With plenty of milk and plenty of love
 Dialogue: 2,0:00:46.11,0:00:47.61,Neo OE,,0,0,0,,{\move(960,20,920,20)\shad0\blur1.5\fad(0,120)}With plenty of milk and plenty of love
 Dialogue: 1,0:00:46.11,0:00:47.61,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\blur0.5\fad(0,120)}With plenty of milk and plenty of love
 Dialogue: 3,0:00:46.11,0:00:47.61,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Milk tappuri aijou tappuri
 Dialogue: 2,0:00:46.11,0:00:47.61,Neo OR,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Milk tappuri aijou tappuri
 Dialogue: 1,0:00:46.11,0:00:47.61,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Milk tappuri aijou tappuri
+Dialogue: 0,0:00:46.85,0:00:53.50,Dubtitles,,0,0,0,,for
 Dialogue: 3,0:00:47.53,0:00:47.69,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Let's cast a spell, moe moe kyun
 Dialogue: 2,0:00:47.53,0:00:47.69,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Let's cast a spell, moe moe kyun
 Dialogue: 1,0:00:47.53,0:00:47.69,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Let's cast a spell, moe moe kyun
@@ -153,7 +152,6 @@ Dialogue: 1,0:00:47.69,0:00:49.28,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\bl
 Dialogue: 3,0:00:47.69,0:00:49.28,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Mahou o kakemasho moe moe kyun
 Dialogue: 2,0:00:47.69,0:00:49.28,Neo OR,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Mahou o kakemasho moe moe kyun
 Dialogue: 1,0:00:47.69,0:00:49.28,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Mahou o kakemasho moe moe kyun
-Dialogue: 0,0:00:48.00,0:00:55.00,Dubtitles,,0,0,0,,!
 Dialogue: 3,0:00:52.91,0:00:53.07,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Seeing sooo many masters here
 Dialogue: 2,0:00:52.91,0:00:53.07,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Seeing sooo many masters here
 Dialogue: 1,0:00:52.91,0:00:53.07,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Seeing sooo many masters here
@@ -178,7 +176,6 @@ Dialogue: 1,0:00:54.83,0:00:56.62,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\bl
 Dialogue: 3,0:00:54.83,0:00:56.62,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Ga kite kurete shiawase ippai da buu
 Dialogue: 2,0:00:54.83,0:00:56.62,Neo OR,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Ga kite kurete shiawase ippai da buu
 Dialogue: 1,0:00:54.83,0:00:56.62,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Ga kite kurete shiawase ippai da buu
-Dialogue: 0,0:00:55.14,0:00:56.66,Dubtitles,,0,0,0,,Changi. Kyu, you hold
 Dialogue: 3,0:00:56.54,0:00:56.74,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Fresh out of Moe Moe Forest
 Dialogue: 2,0:00:56.54,0:00:56.74,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Fresh out of Moe Moe Forest
 Dialogue: 1,0:00:56.54,0:00:56.74,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Fresh out of Moe Moe Forest
@@ -203,6 +200,7 @@ Dialogue: 1,0:00:58.33,0:00:59.71,Neo OE,,0,0,0,,{\move(960,20,1000,20)\bord0\bl
 Dialogue: 3,0:00:58.33,0:00:59.71,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Tokoton ganbaru maid da buu
 Dialogue: 2,0:00:58.33,0:00:59.71,Neo OR,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Tokoton ganbaru maid da buu
 Dialogue: 1,0:00:58.33,0:00:59.71,Neo OR,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Tokoton ganbaru maid da buu
+Dialogue: 0,0:00:58.98,0:00:59.81,Dubtitles,,0,0,0,,joining us.
 Dialogue: 3,0:00:59.62,0:00:59.83,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Welcome home, Master
 Dialogue: 2,0:00:59.62,0:00:59.83,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Welcome home, Master
 Dialogue: 1,0:00:59.62,0:00:59.83,Neo OE,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Welcome home, Master
@@ -215,6 +213,7 @@ Dialogue: 1,0:00:59.83,0:01:02.29,Neo OE,,0,0,0,,{\move(960,20,920,20)\bord0\blu
 Dialogue: 3,0:00:59.83,0:01:02.29,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&HFFFFFF&)}Dobro pozhalovat' domoy, uvazhayemyy Gospodin
 Dialogue: 2,0:00:59.83,0:01:02.29,Neo OR,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Dobro pozhalovat' domoy, uvazhayemyy Gospodin
 Dialogue: 1,0:00:59.83,0:01:02.29,Neo OR,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Dobro pozhalovat' domoy, uvazhayemyy Gospodin
+Dialogue: 0,0:00:59.96,0:01:00.79,Dubtitles,,0,0,0,,Why?
 Dialogue: 3,0:01:02.21,0:01:02.38,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Kawaii is justice, oink!
 Dialogue: 2,0:01:02.21,0:01:02.38,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Kawaii is justice, oink!
 Dialogue: 1,0:01:02.21,0:01:02.38,Neo OE,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Kawaii is justice, oink!
@@ -275,6 +274,7 @@ Dialogue: 1,0:01:14.55,0:01:16.93,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\b
 Dialogue: 3,0:01:14.55,0:01:16.93,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Hey! (Yeah!) Watashi no maid way! (Fuu!)
 Dialogue: 2,0:01:14.55,0:01:16.93,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Hey! (Yeah!) Watashi no maid way! (Fuu!)
 Dialogue: 1,0:01:14.55,0:01:16.93,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Hey! (Yeah!) Watashi no maid way! (Fuu!)
+Dialogue: 0,0:01:14.60,0:01:16.62,Dubtitles,,0,0,0,,Hey, I'm made way.
 Dialogue: 3,0:01:16.85,0:01:17.02,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Shot through your heart like, Boom! Boom! Boom! (Alright!)
 Dialogue: 2,0:01:16.85,0:01:17.02,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Shot through your heart like, Boom! Boom! Boom! (Alright!)
 Dialogue: 1,0:01:16.85,0:01:17.02,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Shot through your heart like, Boom! Boom! Boom! (Alright!)
@@ -287,6 +287,9 @@ Dialogue: 1,0:01:17.02,0:01:19.77,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:17.02,0:01:19.77,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Kimi no heart ni Doon! Doon! Doon! (Alright!)
 Dialogue: 2,0:01:17.02,0:01:19.77,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Kimi no heart ni Doon! Doon! Doon! (Alright!)
 Dialogue: 1,0:01:17.02,0:01:19.77,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Kimi no heart ni Doon! Doon! Doon! (Alright!)
+Dialogue: 0,0:01:17.16,0:01:17.99,Dubtitles,,0,0,0,,B감 minstress.
+Dialogue: 0,0:01:18.07,0:01:18.90,Dubtitles,,0,0,0,,I'm using a Georgia.
+Dialogue: 0,0:01:18.99,0:01:19.82,Dubtitles,,0,0,0,,I'm gonna burn burn burn!
 Dialogue: 3,0:01:19.73,0:01:19.89,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Take an instax with the scumbag
 Dialogue: 2,0:01:19.73,0:01:19.89,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Take an instax with the scumbag
 Dialogue: 1,0:01:19.73,0:01:19.89,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Take an instax with the scumbag
@@ -299,7 +302,8 @@ Dialogue: 1,0:01:19.89,0:01:21.60,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\b
 Dialogue: 3,0:01:19.89,0:01:21.60,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Anchikushou to cheki cheki cheki
 Dialogue: 2,0:01:19.89,0:01:21.60,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Anchikushou to cheki cheki cheki
 Dialogue: 1,0:01:19.89,0:01:21.60,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Anchikushou to cheki cheki cheki
-Dialogue: 0,0:01:20.78,0:01:22.00,Dubtitles,,0,0,0,,Shake, shake. Hey,
+Dialogue: 0,0:01:19.90,0:01:20.73,Dubtitles,,0,0,0,,I'm amazing. Take
+Dialogue: 0,0:01:20.81,0:01:21.64,Dubtitles,,0,0,0,,a
 Dialogue: 3,0:01:21.52,0:01:21.69,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Hey! (Yeah!) Maid princesses from Hell! (Whoo!)
 Dialogue: 2,0:01:21.52,0:01:21.69,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Hey! (Yeah!) Maid princesses from Hell! (Whoo!)
 Dialogue: 1,0:01:21.52,0:01:21.69,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Hey! (Yeah!) Maid princesses from Hell! (Whoo!)
@@ -312,7 +316,7 @@ Dialogue: 1,0:01:21.69,0:01:24.19,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:21.69,0:01:24.19,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Hey! (Yeah!) Meido no princess! (Fuu!)
 Dialogue: 2,0:01:21.69,0:01:24.19,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Hey! (Yeah!) Meido no princess! (Fuu!)
 Dialogue: 1,0:01:21.69,0:01:24.19,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Hey! (Yeah!) Meido no princess! (Fuu!)
-Dialogue: 0,0:01:22.40,0:01:24.50,Dubtitles,,0,0,0,,mate, don't feel the sense Oh, stick,
+Dialogue: 0,0:01:21.73,0:01:28.68,Dubtitles,,0,0,0,,look
 Dialogue: 3,0:01:24.15,0:01:24.31,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Stan for me or, Blam! Blam! Blam! (Okay)
 Dialogue: 2,0:01:24.15,0:01:24.31,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Stan for me or, Blam! Blam! Blam! (Okay)
 Dialogue: 1,0:01:24.15,0:01:24.31,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Stan for me or, Blam! Blam! Blam! (Okay)
@@ -325,7 +329,6 @@ Dialogue: 1,0:01:24.31,0:01:26.94,Neo OE2,,0,0,0,,{\move(960,20,1000,20)\bord0\b
 Dialogue: 3,0:01:24.31,0:01:26.94,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\shad0\c&HFEC4FF&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Oshite kunnakya Baan! Baan! Baan! (Okay)
 Dialogue: 2,0:01:24.31,0:01:26.94,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\shad0\blur1.5\fad(0,120)}Oshite kunnakya Baan! Baan! Baan! (Okay)
 Dialogue: 1,0:01:24.31,0:01:26.94,Neo OR2,,0,0,0,,{\move(960,80,1000,80)\bord0\blur0.3\fad(0,120)}Oshite kunnakya Baan! Baan! Baan! (Okay)
-Dialogue: 0,0:01:24.58,0:01:28.50,Dubtitles,,0,0,0,,Roll up your sleeves. Oh\Nyeah, wait, wait, wait, wait,
 Dialogue: 3,0:01:26.86,0:01:27.03,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Petticoats whirl in a scuffle
 Dialogue: 2,0:01:26.86,0:01:27.03,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Petticoats whirl in a scuffle
 Dialogue: 1,0:01:26.86,0:01:27.03,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Petticoats whirl in a scuffle
@@ -338,7 +341,6 @@ Dialogue: 1,0:01:27.03,0:01:28.74,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\bl
 Dialogue: 3,0:01:27.03,0:01:28.74,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.3\c&H000000&)}Pannier mau daikaiten
 Dialogue: 2,0:01:27.03,0:01:28.74,Neo OR2,,0,0,0,,{\move(960,80,920,80)\shad0\blur1.5\fad(0,120)}Pannier mau daikaiten
 Dialogue: 1,0:01:27.03,0:01:28.74,Neo OR2,,0,0,0,,{\move(960,80,920,80)\bord0\blur0.3\fad(0,120)}Pannier mau daikaiten
-Dialogue: 0,0:01:28.58,0:01:30.62,Dubtitles,,0,0,0,,wait Rated with my heart I'll be\Nback in the morning I'll be back in
 Dialogue: 3,0:01:28.65,0:01:28.86,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HFEC4FF&)}Hide-and-seek at the maid café
 Dialogue: 2,0:01:28.65,0:01:28.86,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\shad0\blur1.5\fad(120,0)}Hide-and-seek at the maid café
 Dialogue: 1,0:01:28.65,0:01:28.86,Neo OE2,,0,0,0,,{\move(760,20,960,20,0,120)\bord0\blur0.5\fad(120,0)}Hide-and-seek at the maid café
@@ -357,7 +359,6 @@ Dialogue: 1,0:01:30.57,0:01:30.74,Neo OE2,,0,0,0,,{\move(1160,20,960,20,0,120)\b
 Dialogue: 3,0:01:30.57,0:01:30.74,Neo OR2,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\shad0\blur2\fad(120,0)\t(\blur2\c&HF0DBAC&)}Nice okyuuji daiseikyou
 Dialogue: 2,0:01:30.57,0:01:30.74,Neo OR2,,0,0,0,,{\move(1160,80,960,80,0,120)\shad0\blur1.5\fad(120,0)}Nice okyuuji daiseikyou
 Dialogue: 1,0:01:30.57,0:01:30.74,Neo OR2,,0,0,0,,{\move(1160,80,960,80,0,120)\bord0\blur0.3\fad(120,0)}Nice okyuuji daiseikyou
-Dialogue: 0,0:01:30.70,0:01:35.52,Dubtitles,,0,0,0,,the morning I'll be back in the\Nmorning I'll be back in the morning
 Dialogue: 3,0:01:30.74,0:01:32.20,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\shad0\c&HF0DBAC&\blur2\fad(0,120)\t(0,500,\blur0.5\c&H000000&)}Nice service for booming sales
 Dialogue: 2,0:01:30.74,0:01:32.20,Neo OE2,,0,0,0,,{\move(960,20,920,20)\shad0\blur1.5\fad(0,120)}Nice service for booming sales
 Dialogue: 1,0:01:30.74,0:01:32.20,Neo OE2,,0,0,0,,{\move(960,20,920,20)\bord0\blur0.5\fad(0,120)}Nice service for booming sales
@@ -396,10 +397,11 @@ Dialogue: 1,0:01:39.33,0:01:40.66,Caption,,0,0,0,,{\pos(998,540)\fnSwis721 BT\fs
 Dialogue: 1,0:01:40.66,0:01:42.67,Caption,,0,0,0,,{\pos(825.2,512.6)\fnSwis721 BT\fs41}CREATURELAND
 Dialogue: 1,0:01:40.66,0:01:44.67,Caption,,0,0,0,,{\pos(653,666)\fnPapyrus\fs60}The Inside Story!
 Dialogue: 1,0:01:40.66,0:01:44.67,Caption,,0,0,0,,{\pos(653,764)\fnPapyrus\fs60}A Drillmaster for the Swine!!
-Dialogue: 0,0:01:45.08,0:01:48.94,Dubtitles,,0,0,0,,Hey, take a look over there.\NIt's oinky-doink. What about him?
-Dialogue: 0,0:01:49.20,0:01:51.38,Dubtitles,,0,0,0,,I hear Ronko Menon just\Njoined their group.
-Dialogue: 0,0:01:51.46,0:01:52.29,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:01:52.37,0:01:54.00,Dubtitles,,0,0,0,,The one who got busted 15 years ago?
+Dialogue: 0,0:01:46.38,0:01:47.21,Dubtitles,,0,0,0,,over there.
+Dialogue: 0,0:01:47.29,0:01:48.94,Dubtitles,,0,0,0,,It's Oinkidoink. What about him?
+Dialogue: 0,0:01:49.20,0:01:51.26,Dubtitles,,0,0,0,,I hear Ronko Menon just\Njoined their group.
+Dialogue: 0,0:01:51.34,0:01:52.17,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:01:52.25,0:01:54.00,Dubtitles,,0,0,0,,The one who got busted 15 years ago?
 Dialogue: 0,0:01:54.18,0:01:56.54,Dubtitles,,0,0,0,,She's back working in Akiba? She is.
 Dialogue: 0,0:01:56.66,0:01:58.12,Dubtitles,,0,0,0,,And as a novice maid.
 Dialogue: 0,0:01:58.58,0:02:01.86,Dubtitles,,0,0,0,,They've been going around crushing\Nplaces ever since she joined.
@@ -808,38 +810,44 @@ Dialogue: 1,0:22:24.66,0:22:29.66,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fa
 Dialogue: 2,0:22:24.66,0:22:29.66,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Another day, another chance to go moe moe kyun
 Dialogue: 1,0:22:24.66,0:22:29.66,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Kyou mo ashita mo moe moe kyun
 Dialogue: 2,0:22:24.66,0:22:29.66,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Kyou mo ashita mo moe moe kyun
+Dialogue: 0,0:22:29.26,0:22:31.58,Dubtitles,,0,0,0,,In your house?
 Dialogue: 1,0:22:30.83,0:22:35.92,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}I come to the pigsty for my moe moe kyun
 Dialogue: 2,0:22:30.83,0:22:35.92,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}I come to the pigsty for my moe moe kyun
 Dialogue: 1,0:22:30.83,0:22:35.92,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Butagoya atari de moe moe kyun
 Dialogue: 2,0:22:30.83,0:22:35.92,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Butagoya atari de moe moe kyun
+Dialogue: 0,0:22:31.66,0:22:33.31,Dubtitles,,0,0,0,,You're finally transitioned!
+Dialogue: 0,0:22:35.68,0:22:37.82,Dubtitles,,0,0,0,,This bill is based.
 Dialogue: 1,0:22:36.79,0:22:41.92,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}That's the sort of life I lead
 Dialogue: 2,0:22:36.79,0:22:41.92,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}That's the sort of life I lead
 Dialogue: 1,0:22:36.79,0:22:41.92,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Sorega atai no ikizama sa
 Dialogue: 2,0:22:36.79,0:22:41.92,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Sorega atai no ikizama sa
+Dialogue: 0,0:22:37.90,0:22:41.02,Dubtitles,,0,0,0,,Highly intelligent?
+Dialogue: 0,0:22:41.10,0:22:46.28,Dubtitles,,0,0,0,,Do I see
 Dialogue: 1,0:22:43.13,0:22:51.73,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Mock me, and you just might bleed
 Dialogue: 2,0:22:43.13,0:22:51.73,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Mock me, and you just might bleed
 Dialogue: 1,0:22:43.13,0:22:51.73,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Baka ni suru yatsa chi o miruze
 Dialogue: 2,0:22:43.13,0:22:51.73,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Baka ni suru yatsa chi o miruze
+Dialogue: 0,0:22:46.36,0:22:49.34,Dubtitles,,0,0,0,,the sky?
 Dialogue: 1,0:22:51.73,0:22:57.86,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Is the hesitation that wells up
 Dialogue: 2,0:22:51.73,0:22:57.86,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Is the hesitation that wells up
 Dialogue: 1,0:22:51.73,0:22:57.86,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Mune o yogiru tamerai wa
 Dialogue: 2,0:22:51.73,0:22:57.86,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Mune o yogiru tamerai wa
+Dialogue: 0,0:22:52.06,0:22:54.06,Dubtitles,,0,0,0,,It's the end of the day,
+Dialogue: 0,0:22:54.14,0:22:57.90,Dubtitles,,0,0,0,,but it's the
 Dialogue: 1,0:22:57.86,0:23:06.78,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}The lingering scent of a humane soul?
 Dialogue: 2,0:22:57.86,0:23:06.78,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}The lingering scent of a humane soul?
 Dialogue: 1,0:22:57.86,0:23:06.78,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Hito no kokoro no nokoriga ka
 Dialogue: 2,0:22:57.86,0:23:06.78,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Hito no kokoro no nokoriga ka
-Dialogue: 0,0:22:59.56,0:23:02.24,Dubtitles,,0,0,0,,Oh, my heart is still alive.
-Dialogue: 0,0:23:02.70,0:23:09.56,Dubtitles,,0,0,0,,I can live with my heart,
+Dialogue: 0,0:22:57.98,0:23:01.20,Dubtitles,,0,0,0,,end of the day.
+Dialogue: 0,0:23:06.06,0:23:12.58,Dubtitles,,0,0,0,,It's the end of the day,\Nand it's the end of the day.
 Dialogue: 1,0:23:06.78,0:23:13.46,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Whether you get to live or die
 Dialogue: 2,0:23:06.78,0:23:13.46,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Whether you get to live or die
 Dialogue: 1,0:23:06.78,0:23:13.46,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Ikirutomo haterutomo
 Dialogue: 2,0:23:06.78,0:23:13.46,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Ikirutomo haterutomo
-Dialogue: 0,0:23:09.64,0:23:16.20,Dubtitles,,0,0,0,,but I can do it again,
 Dialogue: 1,0:23:13.46,0:23:19.04,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Tread your own path
 Dialogue: 2,0:23:13.46,0:23:19.04,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Tread your own path
 Dialogue: 1,0:23:13.46,0:23:19.04,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Onore no michi o tsuranuke
 Dialogue: 2,0:23:13.46,0:23:19.04,ED Lyrics - Romaji,,0,0,0,,{\bord0\blur0.6\fad(200,200)}Onore no michi o tsuranuke
-Dialogue: 0,0:23:16.28,0:23:19.10,Dubtitles,,0,0,0,,and I can do it again,
 Dialogue: 1,0:23:19.04,0:23:25.88,ED Lyrics - English,,0,0,0,,{\1a&HF1&\blur6\fad(200,200)}Have the guts to pull that trigger
 Dialogue: 2,0:23:19.04,0:23:25.88,ED Lyrics - English,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Have the guts to pull that trigger
 Dialogue: 1,0:23:19.04,0:23:25.88,ED Lyrics - Romaji,,0,0,0,,{\1a&HF3&\blur4\fad(200,200)}Hikigane o hiki yagare

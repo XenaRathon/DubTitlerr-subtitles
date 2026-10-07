@@ -46,39 +46,40 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.93,0:00:31.60,Dubtitles,,0,0,0,,I love you.
+Dialogue: 0,0:01:09.80,0:01:13.54,Dubtitles,,0,0,0,,Chain of vision, start and come
 Dialogue: 2,0:01:30.82,0:01:35.45,Title 3,ep,0,0,0,,{\fad(776,642)\pos(197,810)\fscx(86)}Episode 15: Justice, Part 2
-Dialogue: 0,0:01:31.82,0:01:35.54,Dubtitles,,0,0,0,,Oh, Neref, I shall savor killing you.
+Dialogue: 0,0:01:31.76,0:01:35.54,Dubtitles,,0,0,0,,Oh, Polnareff, I shall savor killing you.
 Dialogue: 0,0:01:35.80,0:01:40.34,Dubtitles,,0,0,0,,To avenge my dear son, I shall rip\Nout your insides while you watch.
 Dialogue: 0,0:01:40.66,0:01:45.16,Dubtitles,,0,0,0,,And I can't let him find Whole Horse's\Nbody or else my chance will be lost.
-Dialogue: 0,0:01:45.34,0:01:47.46,Dubtitles,,0,0,0,,She's not behind the counter either.
+Dialogue: 0,0:01:45.34,0:01:47.52,Dubtitles,,0,0,0,,She's not behind the counter, either.
 Dialogue: 0,0:01:47.72,0:01:50.49,Dubtitles,,0,0,0,,It'll be even worse if\Nthe other three show up.
-Dialogue: 0,0:01:50.58,0:01:53.08,Dubtitles,,0,0,0,,I need to kill them one by one, damn it.
-Dialogue: 0,0:01:53.60,0:01:55.50,Dubtitles,,0,0,0,,Stay back. Go away.
-Dialogue: 0,0:01:56.74,0:01:58.70,Dubtitles,,0,0,0,,Oh, madame, are you here?
-Dialogue: 0,0:01:59.02,0:02:02.66,Dubtitles,,0,0,0,,I thought I heard some kind of\Ncrash back here. Are you okay?
-Dialogue: 0,0:02:08.70,0:02:10.36,Dubtitles,,0,0,0,,I'm coming in, madame.
-Dialogue: 0,0:02:10.82,0:02:16.88,Dubtitles,,0,0,0,,Oh, no! What happened?
-Dialogue: 0,0:02:17.92,0:02:19.30,Dubtitles,,0,0,0,,Oh, it's nothing.
+Dialogue: 0,0:01:50.58,0:01:53.08,Dubtitles,,0,0,0,,I need to kill them one by one, dammit.
+Dialogue: 0,0:01:53.60,0:01:55.52,Dubtitles,,0,0,0,,Stay back. Go away.
+Dialogue: 0,0:01:56.78,0:01:58.70,Dubtitles,,0,0,0,,Oh, Madame, are you here?
+Dialogue: 0,0:01:59.08,0:02:01.76,Dubtitles,,0,0,0,,I thought I heard some\Nkind of crash back here.
+Dialogue: 0,0:02:01.84,0:02:02.67,Dubtitles,,0,0,0,,Are you okay?
+Dialogue: 0,0:02:08.74,0:02:10.14,Dubtitles,,0,0,0,,I'm coming in, Madame.
+Dialogue: 0,0:02:14.86,0:02:16.88,Dubtitles,,0,0,0,,Oh, no! What happened?
+Dialogue: 0,0:02:17.94,0:02:19.30,Dubtitles,,0,0,0,,Oh, it's nothing.
 Dialogue: 0,0:02:19.54,0:02:21.18,Dubtitles,,0,0,0,,It's only a tiny fall.
-Dialogue: 0,0:02:21.36,0:02:23.30,Dubtitles,,0,0,0,,Just bruised my hip a little bit.
-Dialogue: 0,0:02:23.72,0:02:24.98,Dubtitles,,0,0,0,,You fell down?
-Dialogue: 0,0:02:25.16,0:02:26.38,Dubtitles,,0,0,0,,You can't be falling now.
-Dialogue: 0,0:02:26.46,0:02:27.96,Dubtitles,,0,0,0,,And you burned your left hand?
+Dialogue: 0,0:02:21.38,0:02:23.32,Dubtitles,,0,0,0,,Just bruised my hip a little bit.
+Dialogue: 0,0:02:23.76,0:02:24.98,Dubtitles,,0,0,0,,You fell down?
+Dialogue: 0,0:02:25.16,0:02:26.40,Dubtitles,,0,0,0,,You can't be falling now.
+Dialogue: 0,0:02:26.48,0:02:27.96,Dubtitles,,0,0,0,,And you burned your left hand?
 Dialogue: 0,0:02:28.04,0:02:30.22,Dubtitles,,0,0,0,,You're being much, much too careless.
-Dialogue: 0,0:02:30.40,0:02:33.82,Dubtitles,,0,0,0,,Oh, thank you, dear boy. I'm fine.
-Dialogue: 0,0:02:34.08,0:02:35.68,Dubtitles,,0,0,0,,No problem, I promise.
+Dialogue: 0,0:02:30.40,0:02:32.60,Dubtitles,,0,0,0,,Oh, thank you, dear boy.
+Dialogue: 0,0:02:32.96,0:02:33.86,Dubtitles,,0,0,0,,I'm fine.
+Dialogue: 0,0:02:34.14,0:02:35.68,Dubtitles,,0,0,0,,No problem, I promise.
 Dialogue: 0,0:02:37.74,0:02:40.15,Dubtitles,,0,0,0,,Who said you could come in here, damn it!
-Dialogue: 0,0:02:48.82,0:02:52.92,Dubtitles,,0,0,0,,I'll spare you my wrath for\Nnow, But when the time is right,
-Dialogue: 0,0:02:53.10,0:02:56.22,Dubtitles,,0,0,0,,I'll kill you just like I\Nkilled that bastard Abbacchio.
-Dialogue: 0,0:02:56.30,0:03:00.24,Dubtitles,,0,0,0,,All it takes is just a tiny little\Nwound, and then you're finished.
-Dialogue: 0,0:03:00.40,0:03:03.28,Dubtitles,,0,0,0,,I'll turn you into my very\Nown puppet of justice!
-Dialogue: 0,0:03:07.92,0:03:08.75,Dubtitles,,0,0,0,,Cool.
-Dialogue: 0,0:03:08.83,0:03:09.66,Dubtitles,,0,0,0,,Here, your staff.
-Dialogue: 0,0:03:10.24,0:03:13.34,Dubtitles,,0,0,0,,Madame, you seem to be\Nsweating a lot. It's nothing.
-Dialogue: 0,0:03:13.50,0:03:14.90,Dubtitles,,0,0,0,,Don't concern yourself with me.
-Dialogue: 0,0:03:14.98,0:03:15.81,Dubtitles,,0,0,0,,I'm fine.
-Dialogue: 0,0:03:15.89,0:03:17.98,Dubtitles,,0,0,0,,Just go to your room and get some rest.
-Dialogue: 0,0:03:18.06,0:03:19.28,Dubtitles,,0,0,0,,Well, if you insist.
+Dialogue: 0,0:02:48.86,0:02:52.84,Dubtitles,,0,0,0,,I'll spare you my wrath for\Nnow, but when the time is right,
+Dialogue: 0,0:02:52.92,0:02:56.22,Dubtitles,,0,0,0,,I'll kill you just like I\Nkilled that bastard Abbacchio.
+Dialogue: 0,0:02:56.30,0:02:58.76,Dubtitles,,0,0,0,,All it takes is just a tiny little wound,
+Dialogue: 0,0:02:58.92,0:03:03.30,Dubtitles,,0,0,0,,and then you're finished I'll turn you\Ninto my very own puppet of justice?
+Dialogue: 0,0:03:07.74,0:03:09.58,Dubtitles,,0,0,0,,Cool. Here your staff!
+Dialogue: 0,0:03:10.18,0:03:13.34,Dubtitles,,0,0,0,,Madame, you seem to be\Nsweating a lot. It's nothing.
+Dialogue: 0,0:03:13.46,0:03:14.92,Dubtitles,,0,0,0,,Don't concern yourself with me.
+Dialogue: 0,0:03:15.00,0:03:19.28,Dubtitles,,0,0,0,,I'm fine Just go to your room and\Nget some rest Well, if you insist.
 Dialogue: 0,0:03:19.60,0:03:23.44,Dubtitles,,0,0,0,,So, I was wondering, are you running\Nthe entire hotel all by yourself?
 Dialogue: 0,0:03:23.52,0:03:26.02,Dubtitles,,0,0,0,,Don't you have any family around to help?
 Dialogue: 0,0:03:26.34,0:03:27.36,Dubtitles,,0,0,0,,Like a son?
@@ -1302,20 +1303,19 @@ Dialogue: 0,0:14:36.70,0:14:38.38,Dubtitles,,0,0,0,,Which could only mean...
 Dialogue: 0,0:14:40.60,0:14:42.32,Dubtitles,,0,0,0,,Cut the crap, you old hag!
 Dialogue: 0,0:14:42.88,0:14:46.32,Dubtitles,,0,0,0,,I already know you're one of\Nthe stand users that's after us.
 Dialogue: 0,0:14:46.40,0:14:47.23,Dubtitles,,0,0,0,,The jig is up.
-Dialogue: 0,0:14:53.04,0:14:54.48,Dubtitles,,0,0,0,,What's the matter now?
-Dialogue: 0,0:14:54.98,0:14:57.86,Dubtitles,,0,0,0,,Aren't you going to show\Nme your stand and fight?
-Dialogue: 0,0:14:57.96,0:15:00.12,Dubtitles,,0,0,0,,You're looking right at it!
-Dialogue: 0,0:15:10.46,0:15:15.54,Dubtitles,,0,0,0,,whoa, whoa!
-Dialogue: 0,0:15:24.74,0:15:28.04,Dubtitles,,0,0,0,,My stand justice always prevails!
-Dialogue: 0,0:15:28.38,0:15:33.14,Dubtitles,,0,0,0,,All it needs is one small scratch, and\Nthen your life is as good as forfeit.
-Dialogue: 0,0:15:33.64,0:15:36.18,Dubtitles,,0,0,0,,You've fallen into my trap, Jotaro!
-Dialogue: 0,0:15:39.36,0:15:40.40,Dubtitles,,0,0,0,,Pull the riff!
-Dialogue: 0,0:15:40.84,0:15:42.20,Dubtitles,,0,0,0,,Jotaro, it's me!
-Dialogue: 0,0:15:42.28,0:15:43.57,Dubtitles,,0,0,0,,Whole Horse, remember?
-Dialogue: 0,0:15:43.74,0:15:46.33,Dubtitles,,0,0,0,,The Yabba stand is made\Nentirely out of fog.
+Dialogue: 0,0:14:53.08,0:14:54.48,Dubtitles,,0,0,0,,What's the matter now?
+Dialogue: 0,0:14:55.02,0:14:57.90,Dubtitles,,0,0,0,,Aren't you going to show\Nme your stand and fight?
+Dialogue: 0,0:14:58.00,0:15:00.12,Dubtitles,,0,0,0,,You're looking right at it!
+Dialogue: 0,0:15:16.64,0:15:17.68,Dubtitles,,0,0,0,,Oh, God!
+Dialogue: 0,0:15:24.88,0:15:28.04,Dubtitles,,0,0,0,,My stand justice always prevails!
+Dialogue: 0,0:15:28.38,0:15:33.12,Dubtitles,,0,0,0,,All it needs is one small scratch, and\Nthen your life is as good as forfeit.
+Dialogue: 0,0:15:33.68,0:15:36.16,Dubtitles,,0,0,0,,You've fallen into my trap, Jotaro!
+Dialogue: 0,0:15:39.50,0:15:40.40,Dubtitles,,0,0,0,,Pull the riff!
+Dialogue: 0,0:15:40.96,0:15:43.40,Dubtitles,,0,0,0,,Jotaro, it's me, Haw Horse, remember?
+Dialogue: 0,0:15:43.72,0:15:46.37,Dubtitles,,0,0,0,,And Yaba's stand is made\Nentirely out of fog!
 Dialogue: 0,0:15:46.54,0:15:49.58,Dubtitles,,0,0,0,,It'll split your wound right open\Nand start flowing through your body.
-Dialogue: 0,0:15:49.66,0:15:51.16,Dubtitles,,0,0,0,,That's how she controls you with it.
-Dialogue: 0,0:15:51.24,0:15:52.92,Dubtitles,,0,0,0,,It'll even control corpses.
+Dialogue: 0,0:15:49.66,0:15:50.86,Dubtitles,,0,0,0,,That's how she controls you with it.
+Dialogue: 0,0:15:50.94,0:15:52.96,Dubtitles,,0,0,0,,It'll even control corpses!
 Dialogue: 1,0:15:52.72,0:15:52.76,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(957.031,18.387)\fade(255,0,255,0,500,5159,5160)\c&H100708&}Menacing
 Dialogue: 2,0:15:52.72,0:15:52.76,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(957.031,18.387)\fade(255,0,255,0,500,5159,5160)\4a&HFF&}Menacing
 Dialogue: 1,0:15:52.76,0:15:52.80,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(957.031,18.387)\fade(255,0,255,-40,460,5119,5120)\c&H100708&}Menacing
@@ -1374,11 +1374,11 @@ Dialogue: 1,0:15:53.84,0:15:53.89,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(963.475,14.3
 Dialogue: 2,0:15:53.84,0:15:53.89,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(963.475,14.356)\fade(255,0,255,-1120,-620,4039,4040)\4a&HFF&}Menacing
 Dialogue: 1,0:15:53.89,0:15:53.93,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(954.942,23.464)\fade(255,0,255,-1170,-670,3989,3990)\c&H100708&}Menacing
 Dialogue: 2,0:15:53.89,0:15:53.93,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(954.942,23.464)\fade(255,0,255,-1170,-670,3989,3990)\4a&HFF&}Menacing
+Dialogue: 0,0:15:53.90,0:15:55.80,Dubtitles,,0,0,0,,Shut your mouth, whole horse!
 Dialogue: 1,0:15:53.93,0:15:53.97,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(954.942,23.464)\fade(255,0,255,-1210,-710,3949,3950)\c&H100708&}Menacing
 Dialogue: 2,0:15:53.93,0:15:53.97,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(954.942,23.464)\fade(255,0,255,-1210,-710,3949,3950)\4a&HFF&}Menacing
 Dialogue: 1,0:15:53.97,0:15:54.01,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(963.167,24.888)\fade(255,0,255,-1250,-750,3909,3910)\c&H100708&}Menacing
 Dialogue: 2,0:15:53.97,0:15:54.01,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(963.167,24.888)\fade(255,0,255,-1250,-750,3909,3910)\4a&HFF&}Menacing
-Dialogue: 0,0:15:54.00,0:15:55.80,Dubtitles,,0,0,0,,Shut your mouth, Whole Horse!
 Dialogue: 1,0:15:54.01,0:15:54.05,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(963.167,24.888)\fade(255,0,255,-1290,-790,3869,3870)\c&H100708&}Menacing
 Dialogue: 2,0:15:54.01,0:15:54.05,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(963.167,24.888)\fade(255,0,255,-1290,-790,3869,3870)\4a&HFF&}Menacing
 Dialogue: 1,0:15:54.05,0:15:54.09,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(963.272,15.654)\fade(255,0,255,-1330,-830,3829,3830)\c&H100708&}Menacing
@@ -1565,59 +1565,56 @@ Dialogue: 1,0:15:57.81,0:15:57.85,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(965.299,16.7
 Dialogue: 2,0:15:57.81,0:15:57.85,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(965.299,16.759)\fade(255,0,255,-5090,-4590,69,70)\4a&HFF&}Menacing
 Dialogue: 1,0:15:57.85,0:15:57.89,SFXBlue2,4,0,0,0,,{=3}{\blur1\pos(965.299,16.759)\fade(255,0,255,-5130,-4630,29,30)\c&H100708&}Menacing
 Dialogue: 2,0:15:57.85,0:15:57.89,SFXBlue2,4,0,0,0,,{=3}{\bord0\blur1\pos(965.299,16.759)\fade(255,0,255,-5130,-4630,29,30)\4a&HFF&}Menacing
-Dialogue: 0,0:16:04.52,0:16:07.02,Dubtitles,,0,0,0,,Can you punch the fog with your fist?
-Dialogue: 0,0:16:07.18,0:16:08.74,Dubtitles,,0,0,0,,Or cut the fog with your sword?
-Dialogue: 0,0:16:08.82,0:16:09.74,Dubtitles,,0,0,0,,Or shoot it with a gun?
-Dialogue: 0,0:16:09.82,0:16:10.98,Dubtitles,,0,0,0,,I don't think so.
-Dialogue: 0,0:16:11.06,0:16:12.68,Dubtitles,,0,0,0,,Absolutely futile!
-Dialogue: 0,0:16:13.82,0:16:16.64,Dubtitles,,0,0,0,,There's nothing you can\Ndo but accept your fate!
-Dialogue: 0,0:16:17.48,0:16:20.48,Dubtitles,,0,0,0,,It's the biggest, toughest,\Nfiercest stand there is!
-Dialogue: 0,0:16:20.56,0:16:23.56,Dubtitles,,0,0,0,,Ours are puny by comparison,\Nwe're no match for it!
-Dialogue: 0,0:16:24.24,0:16:27.28,Dubtitles,,0,0,0,,Nothing stands a chance\Nagainst justice! Lovely!
-Dialogue: 0,0:16:27.58,0:16:29.24,Dubtitles,,0,0,0,,Keep it coming, whole horse!
-Dialogue: 0,0:16:29.50,0:16:32.24,Dubtitles,,0,0,0,,Your fearful praise is music to my ears!
-Dialogue: 0,0:16:33.50,0:16:36.54,Dubtitles,,0,0,0,,Now I'll control you too, Jotaro!
-Dialogue: 0,0:16:37.62,0:16:38.45,Dubtitles,,0,0,0,,Quick!
-Dialogue: 0,0:16:38.58,0:16:39.66,Dubtitles,,0,0,0,,Run away, Jotaro!
-Dialogue: 0,0:16:39.74,0:16:41.98,Dubtitles,,0,0,0,,She's going to turn you into a puppet!
-Dialogue: 0,0:16:42.56,0:16:43.58,Dubtitles,,0,0,0,,Good grief.
-Dialogue: 0,0:16:44.20,0:16:45.40,Dubtitles,,0,0,0,,I don't need to run.
-Dialogue: 0,0:16:46.92,0:16:49.04,Dubtitles,,0,0,0,,Before that old hag takes another breath,
-Dialogue: 0,0:16:49.12,0:16:52.12,Dubtitles,,0,0,0,,I'll defeat that stand\Nand send her packing. Huh?
-Dialogue: 0,0:16:52.58,0:16:53.46,Dubtitles,,0,0,0,,What was that?
-Dialogue: 0,0:16:53.70,0:16:57.58,Dubtitles,,0,0,0,,I could have sworn you just made some\Nidiotic proclamation about defeating me,
-Dialogue: 0,0:16:57.66,0:16:58.60,Dubtitles,,0,0,0,,you little brat.
-Dialogue: 0,0:16:58.68,0:17:01.26,Dubtitles,,0,0,0,,Before I take another\Nbreath, is that right?
-Dialogue: 0,0:17:01.34,0:17:02.60,Dubtitles,,0,0,0,,Well, I'll do that!
-Dialogue: 0,0:17:05.40,0:17:07.06,Dubtitles,,0,0,0,,I'll do that right!
-Dialogue: 0,0:17:13.26,0:17:15.24,Dubtitles,,0,0,0,,What did you do...
-Dialogue: 0,0:17:15.32,0:17:16.48,Dubtitles,,0,0,0,,to me?
-Dialogue: 0,0:17:20.28,0:17:23.56,Dubtitles,,0,0,0,,Totoro's star platinum is\Nsucking in her entire stand!
-Dialogue: 0,0:17:24.16,0:17:24.99,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:17:25.10,0:17:26.24,Dubtitles,,0,0,0,,No, please stop!
+Dialogue: 0,0:16:04.44,0:16:07.02,Dubtitles,,0,0,0,,Can you punch the fog with your fist?
+Dialogue: 0,0:16:07.18,0:16:08.78,Dubtitles,,0,0,0,,Or cut the fog with your sword?
+Dialogue: 0,0:16:08.86,0:16:09.80,Dubtitles,,0,0,0,,Or shoot it with a gun?
+Dialogue: 0,0:16:09.88,0:16:11.06,Dubtitles,,0,0,0,,I don't think so.
+Dialogue: 0,0:16:11.40,0:16:12.68,Dubtitles,,0,0,0,,Absolutely futile!
+Dialogue: 0,0:16:13.90,0:16:16.72,Dubtitles,,0,0,0,,There's nothing you can\Ndo but accept your fate!
+Dialogue: 0,0:16:17.56,0:16:20.32,Dubtitles,,0,0,0,,It's the biggest, toughest,\Nfiercest stand there is!
+Dialogue: 0,0:16:20.40,0:16:22.22,Dubtitles,,0,0,0,,Ours are puny, by comparison.
+Dialogue: 0,0:16:22.44,0:16:23.73,Dubtitles,,0,0,0,,We're no match for it.
+Dialogue: 0,0:16:24.22,0:16:27.24,Dubtitles,,0,0,0,,Nothing stands a chance\Nagainst justice. Lovely.
+Dialogue: 0,0:16:27.60,0:16:29.25,Dubtitles,,0,0,0,,Keep it coming, whole horse.
+Dialogue: 0,0:16:29.50,0:16:32.24,Dubtitles,,0,0,0,,Your fearful praise is music to my ears.
+Dialogue: 0,0:16:33.54,0:16:36.52,Dubtitles,,0,0,0,,Now I'll control you too, Jotaro.
+Dialogue: 0,0:16:37.74,0:16:39.74,Dubtitles,,0,0,0,,Quick, run away, Jotaro.
+Dialogue: 0,0:16:40.04,0:16:42.10,Dubtitles,,0,0,0,,She's gonna turn you into a puppet.
+Dialogue: 0,0:16:43.06,0:16:44.10,Dubtitles,,0,0,0,,Good grief.
+Dialogue: 0,0:16:44.18,0:16:45.40,Dubtitles,,0,0,0,,I don't need to run.
+Dialogue: 0,0:16:46.88,0:16:48.98,Dubtitles,,0,0,0,,Before that old hag takes another breath,
+Dialogue: 0,0:16:49.06,0:16:53.46,Dubtitles,,0,0,0,,I'll defeat that stand and send\Nher back in. Huh? What was that?
+Dialogue: 0,0:16:53.70,0:16:57.56,Dubtitles,,0,0,0,,I could have sworn you just made some\Nidiotic proclamation about defeating me,
+Dialogue: 0,0:16:57.64,0:16:58.58,Dubtitles,,0,0,0,,you little brat.
+Dialogue: 0,0:16:58.72,0:17:01.26,Dubtitles,,0,0,0,,Before I take another\Nbreath, is that right?
+Dialogue: 0,0:17:01.34,0:17:02.58,Dubtitles,,0,0,0,,Well, I'll do that.
+Dialogue: 0,0:17:05.46,0:17:07.06,Dubtitles,,0,0,0,,I'll do that right.
+Dialogue: 0,0:17:13.44,0:17:16.54,Dubtitles,,0,0,0,,What did you do to me?
+Dialogue: 0,0:17:20.32,0:17:23.56,Dubtitles,,0,0,0,,Totoro's star platinum is\Nsucking in her entire stand!
+Dialogue: 0,0:17:24.14,0:17:24.97,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:17:25.08,0:17:26.22,Dubtitles,,0,0,0,,No, please stop!
 Dialogue: 0,0:17:26.70,0:17:28.32,Dubtitles,,0,0,0,,I can't breathe!
-Dialogue: 0,0:17:29.30,0:17:30.56,Dubtitles,,0,0,0,,And he's holding it in!
-Dialogue: 0,0:17:30.64,0:17:33.00,Dubtitles,,0,0,0,,He's suffocating that bitch!
-Dialogue: 0,0:17:49.54,0:17:50.52,Dubtitles,,0,0,0,,You see that?
-Dialogue: 0,0:17:51.48,0:17:53.80,Dubtitles,,0,0,0,,Looks like her head is in a bit of a fog.
-Dialogue: 0,0:17:53.88,0:17:56.34,Dubtitles,,0,0,0,,You ask me, that's justice at its finest.
+Dialogue: 0,0:17:28.62,0:17:30.02,Dubtitles,,0,0,0,,And he's holding it in!
+Dialogue: 0,0:17:30.68,0:17:33.00,Dubtitles,,0,0,0,,He's suffocating that bitch!
+Dialogue: 0,0:17:49.06,0:17:50.50,Dubtitles,,0,0,0,,Hmph, you see that?
+Dialogue: 0,0:17:51.40,0:17:53.81,Dubtitles,,0,0,0,,Looks like her head is in a bit of a fog.
+Dialogue: 0,0:17:53.90,0:17:56.34,Dubtitles,,0,0,0,,You ask me, that's justice at its finest.
 Dialogue: 0,0:17:56.60,0:17:58.48,Dubtitles,,0,0,0,,I'm so angry!
-Dialogue: 0,0:18:04.28,0:18:06.40,Dubtitles,,0,0,0,,What do you mean, what\Nhave I been licking?
-Dialogue: 0,0:18:06.48,0:18:07.96,Dubtitles,,0,0,0,,You ask such stupid questions.
-Dialogue: 0,0:18:08.04,0:18:10.36,Dubtitles,,0,0,0,,I honestly don't see why that matters.
-Dialogue: 0,0:18:11.64,0:18:12.50,Dubtitles,,0,0,0,,The toilet.
-Dialogue: 0,0:18:13.82,0:18:14.65,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:18:14.74,0:18:16.14,Dubtitles,,0,0,0,,You were licking what again?
-Dialogue: 0,0:18:16.22,0:18:17.76,Dubtitles,,0,0,0,,I couldn't hear you very well.
-Dialogue: 0,0:18:17.84,0:18:18.94,Dubtitles,,0,0,0,,Who cares what it was?
-Dialogue: 0,0:18:19.02,0:18:21.24,Dubtitles,,0,0,0,,Now I need to disinfect my tongue, okay?
-Dialogue: 0,0:18:21.32,0:18:22.94,Dubtitles,,0,0,0,,Give me the medicine already.
-Dialogue: 0,0:18:23.02,0:18:25.08,Dubtitles,,0,0,0,,I thought I just heard the word toilet.
+Dialogue: 0,0:18:04.20,0:18:06.38,Dubtitles,,0,0,0,,What do you mean, what\Nhave I been licking?
+Dialogue: 0,0:18:06.46,0:18:08.23,Dubtitles,,0,0,0,,You ask such stupid questions.
+Dialogue: 0,0:18:08.36,0:18:10.60,Dubtitles,,0,0,0,,I honestly don't see why that matters.
+Dialogue: 0,0:18:11.68,0:18:12.52,Dubtitles,,0,0,0,,The toilet.
+Dialogue: 0,0:18:14.02,0:18:15.98,Dubtitles,,0,0,0,,You were licking what again?
+Dialogue: 0,0:18:16.20,0:18:17.62,Dubtitles,,0,0,0,,I couldn't hear you very well.
+Dialogue: 0,0:18:17.70,0:18:18.94,Dubtitles,,0,0,0,,Who cares what it was?
+Dialogue: 0,0:18:19.02,0:18:21.22,Dubtitles,,0,0,0,,Now I need to disinfect my tongue, okay?
+Dialogue: 0,0:18:21.30,0:18:22.98,Dubtitles,,0,0,0,,Give me the medicine already!
+Dialogue: 0,0:18:23.06,0:18:25.08,Dubtitles,,0,0,0,,I thought I just heard the word toilet.
 Dialogue: 0,0:18:25.16,0:18:26.81,Dubtitles,,0,0,0,,What are you giggling about?
-Dialogue: 0,0:18:27.46,0:18:29.64,Dubtitles,,0,0,0,,Actually, I already knew about that.
-Dialogue: 0,0:18:29.76,0:18:32.66,Dubtitles,,0,0,0,,But I couldn't resist picking\Non him about this first.
-Dialogue: 0,0:18:32.74,0:18:33.74,Dubtitles,,0,0,0,,Hold on.
-Dialogue: 0,0:18:34.30,0:18:36.62,Dubtitles,,0,0,0,,Jotaro already told you\Nwhat happened, didn't he?
+Dialogue: 0,0:18:27.48,0:18:29.64,Dubtitles,,0,0,0,,Actually, I already knew about that,
+Dialogue: 0,0:18:29.74,0:18:32.92,Dubtitles,,0,0,0,,but I couldn't resist picking\Non him about this first.
+Dialogue: 0,0:18:33.34,0:18:34.22,Dubtitles,,0,0,0,,Hold on!
+Dialogue: 0,0:18:34.30,0:18:36.80,Dubtitles,,0,0,0,,Jotaro already told you\Nwhat happened, didn't he?
 Dialogue: 3,0:18:35.42,0:18:35.46,SFXBlue3,5,0,0,0,,{=5}{\blur10\bord16.27\fscx325.43\fscy271.19\shad13.56\fade(255,0,255,0,0,2410,3210)\pos(673,309.04)\frz5.646\alpha&H80&}Whoosh {I love this}
 Dialogue: 4,0:18:35.42,0:18:35.46,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\bord16.27\fscx325.43\fscy271.19\shad13.56\fade(255,0,255,0,0,2410,3210)\pos(673,309.04)\frz5.646\c&H644E22&}Whoosh {I love this}
 Dialogue: 5,0:18:35.42,0:18:35.46,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\bord0\fscx325.43\fscy271.19\fade(255,0,255,0,0,2410,3210)\pos(673,309.04)\frz5.646\shad13.56\4a&HFF&}Whoosh {I love this}
@@ -1711,7 +1708,6 @@ Dialogue: 5,0:18:36.63,0:18:36.67,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255
 Dialogue: 3,0:18:36.67,0:18:36.72,SFXBlue3,5,0,0,0,,{=5}{\blur10\fade(255,0,255,-1250,-1250,1160,1960)\pos(752.82,548.29)\frz5.646\alpha&H80&}Whoosh {I love this}
 Dialogue: 4,0:18:36.67,0:18:36.72,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\fade(255,0,255,-1250,-1250,1160,1960)\pos(752.82,548.29)\frz5.646\c&H644E22&}Whoosh {I love this}
 Dialogue: 5,0:18:36.67,0:18:36.72,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255,0,255,-1250,-1250,1160,1960)\pos(752.82,548.29)\frz5.646\shad5\4a&HFF&}Whoosh {I love this}
-Dialogue: 0,0:18:36.70,0:18:38.42,Dubtitles,,0,0,0,,You shitty old man!
 Dialogue: 3,0:18:36.72,0:18:36.76,SFXBlue3,5,0,0,0,,{=5}{\blur10\fade(255,0,255,-1300,-1300,1110,1910)\pos(759.09,587.28)\frz5.646\alpha&H80&}Whoosh {I love this}
 Dialogue: 4,0:18:36.72,0:18:36.76,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\fade(255,0,255,-1300,-1300,1110,1910)\pos(759.09,587.28)\frz5.646\c&H644E22&}Whoosh {I love this}
 Dialogue: 5,0:18:36.72,0:18:36.76,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255,0,255,-1300,-1300,1110,1910)\pos(759.09,587.28)\frz5.646\shad5\4a&HFF&}Whoosh {I love this}
@@ -1727,6 +1723,7 @@ Dialogue: 5,0:18:36.84,0:18:36.88,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255
 Dialogue: 3,0:18:36.88,0:18:36.92,SFXBlue3,5,0,0,0,,{=5}{\blur10\fade(255,0,255,-1460,-1460,950,1750)\pos(752.27,570.37)\frz5.646\alpha&H80&}Whoosh {I love this}
 Dialogue: 4,0:18:36.88,0:18:36.92,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\fade(255,0,255,-1460,-1460,950,1750)\pos(752.27,570.37)\frz5.646\c&H644E22&}Whoosh {I love this}
 Dialogue: 5,0:18:36.88,0:18:36.92,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255,0,255,-1460,-1460,950,1750)\pos(752.27,570.37)\frz5.646\shad5\4a&HFF&}Whoosh {I love this}
+Dialogue: 0,0:18:36.88,0:18:38.44,Dubtitles,,0,0,0,,You shitty old man!
 Dialogue: 3,0:18:36.92,0:18:36.97,SFXBlue3,5,0,0,0,,{=5}{\blur10\fade(255,0,255,-1500,-1500,910,1710)\pos(746,584.01)\frz5.646\alpha&H80&}Whoosh {I love this}
 Dialogue: 4,0:18:36.92,0:18:36.97,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\fade(255,0,255,-1500,-1500,910,1710)\pos(746,584.01)\frz5.646\c&H644E22&}Whoosh {I love this}
 Dialogue: 5,0:18:36.92,0:18:36.97,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255,0,255,-1500,-1500,910,1710)\pos(746,584.01)\frz5.646\shad5\4a&HFF&}Whoosh {I love this}
@@ -1850,43 +1847,46 @@ Dialogue: 5,0:18:38.55,0:18:38.59,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255
 Dialogue: 3,0:18:38.59,0:18:38.63,SFXBlue3,5,0,0,0,,{=5}{\blur10\fade(255,0,255,-3170,-3170,-760,40)\pos(754.67,590.9)\frz5.646\alpha&H80&}Whoosh {I love this}
 Dialogue: 4,0:18:38.59,0:18:38.63,SFXBlue3,5,0,0,0,,{=5}{\blur1.1\fade(255,0,255,-3170,-3170,-760,40)\pos(754.67,590.9)\frz5.646\c&H644E22&}Whoosh {I love this}
 Dialogue: 5,0:18:38.59,0:18:38.63,SFXBlue3,5,0,0,0,,{=5}{\bord0\blur1.1\fade(255,0,255,-3170,-3170,-760,40)\pos(754.67,590.9)\frz5.646\shad5\4a&HFF&}Whoosh {I love this}
-Dialogue: 0,0:18:38.68,0:18:40.45,Dubtitles,,0,0,0,,You were just messing with me!
-Dialogue: 0,0:18:40.54,0:18:41.72,Dubtitles,,0,0,0,,Forget the medicine!
-Dialogue: 0,0:18:41.98,0:18:43.86,Dubtitles,,0,0,0,,All right, all right, I'm sorry.
-Dialogue: 0,0:18:43.94,0:18:45.94,Dubtitles,,0,0,0,,Come here and I'll fix you up, Polnareff.
-Dialogue: 0,0:18:46.02,0:18:49.02,Dubtitles,,0,0,0,,If you don't take care of\Nthat, it'll get infected.
-Dialogue: 0,0:18:50.54,0:18:51.42,Dubtitles,,0,0,0,,Ahem! Toilet.
-Dialogue: 0,0:18:52.14,0:18:52.97,Dubtitles,,0,0,0,,Ahem!
-Dialogue: 0,0:18:53.05,0:18:54.21,Dubtitles,,0,0,0,,You licked it real good.
-Dialogue: 0,0:18:56.22,0:18:57.38,Dubtitles,,0,0,0,,Jotaro, cocky-wee!
-Dialogue: 0,0:18:57.50,0:18:59.36,Dubtitles,,0,0,0,,Come on, let's just get\Nthe hell out of here!
-Dialogue: 0,0:18:59.44,0:19:01.50,Dubtitles,,0,0,0,,Everyone, come outside. Huh?
-Dialogue: 0,0:19:07.92,0:19:09.08,Dubtitles,,0,0,0,,What on earth?
-Dialogue: 0,0:19:09.68,0:19:14.34,Dubtitles,,0,0,0,,We step outside of the\Nhotel, and this place is a...
-Dialogue: 0,0:19:15.04,0:19:16.26,Dubtitles,,0,0,0,,It's a graveyard.
-Dialogue: 0,0:19:16.70,0:19:21.48,Dubtitles,,0,0,0,,She was using her stand's fog to make this\Ngraveyard look like a town and a hotel.
-Dialogue: 0,0:19:21.56,0:19:26.21,Dubtitles,,0,0,0,,So the whole time we were here, we were\Ntalking to some corpses six feet under?
-Dialogue: 0,0:19:36.08,0:19:38.96,Dubtitles,,0,0,0,,You want to take her\Nwith us? Are you serious?
-Dialogue: 0,0:19:39.04,0:19:40.82,Dubtitles,,0,0,0,,Sure, I am.
-Dialogue: 0,0:19:40.90,0:19:44.04,Dubtitles,,0,0,0,,We need to know how many more\NStan users are out there.
-Dialogue: 0,0:19:44.12,0:19:45.48,Dubtitles,,0,0,0,,What their powers are,
-Dialogue: 0,0:19:45.56,0:19:51.34,Dubtitles,,0,0,0,,and wherever deals dug a hole for himself\Nin Egypt as well as what his power is.
-Dialogue: 0,0:19:51.42,0:19:56.12,Dubtitles,,0,0,0,,If we get the Hag to tell us, it might\Nfinally give us the edge that we need.
-Dialogue: 0,0:19:56.20,0:19:58.72,Dubtitles,,0,0,0,,That's worth the risk\Nof dragging her around.
-Dialogue: 0,0:19:58.80,0:20:03.36,Dubtitles,,0,0,0,,I highly doubt she'll be willing\Nto share that information though.
-Dialogue: 0,0:20:03.44,0:20:05.66,Dubtitles,,0,0,0,,We just need to use my hermit purple.
-Dialogue: 0,0:20:05.74,0:20:09.00,Dubtitles,,0,0,0,,I'll project everything she's\Nthinking onto a tv screen.
-Dialogue: 0,0:20:09.08,0:20:10.50,Dubtitles,,0,0,0,,Great idea.
-Dialogue: 0,0:20:10.58,0:20:13.84,Dubtitles,,0,0,0,,We'll hop over to the next\Ntown and use a tv there.
-Dialogue: 0,0:20:16.60,0:20:19.06,Dubtitles,,0,0,0,,Haul Horse, you slide ball!
-Dialogue: 0,0:20:19.30,0:20:20.18,Dubtitles,,0,0,0,,That's our car!
-Dialogue: 0,0:20:21.20,0:20:23.79,Dubtitles,,0,0,0,,Sorry boys, I'm sticking\Nwith Dio after all.
-Dialogue: 0,0:20:23.94,0:20:25.06,Dubtitles,,0,0,0,,Catch y 'all later!
-Dialogue: 0,0:20:25.34,0:20:27.94,Dubtitles,,0,0,0,,Provided you all don't\Ndie before then, that is!
-Dialogue: 0,0:20:28.02,0:20:29.60,Dubtitles,,0,0,0,,A little advice for y 'all!
-Dialogue: 0,0:20:29.68,0:20:32.24,Dubtitles,,0,0,0,,You better put a bullet between\Nthat old lady's eyes real
-Dialogue: 0,0:20:32.32,0:20:36.40,Dubtitles,,0,0,0,,soon or else you'll find out just\Nhow terrifying Dio really is!
-Dialogue: 0,0:20:36.50,0:20:37.97,Dubtitles,,0,0,0,,And you do not want that!
+Dialogue: 0,0:18:38.70,0:18:40.40,Dubtitles,,0,0,0,,You were just messing with me!
+Dialogue: 0,0:18:40.48,0:18:41.66,Dubtitles,,0,0,0,,Forget the medicine!
+Dialogue: 0,0:18:41.80,0:18:43.68,Dubtitles,,0,0,0,,All right, all right, I'm sorry.
+Dialogue: 0,0:18:43.94,0:18:45.82,Dubtitles,,0,0,0,,Come here and I'll fix you up, Polnareff.
+Dialogue: 0,0:18:45.90,0:18:48.90,Dubtitles,,0,0,0,,If you don't take care of\Nthat, it'll get infected.
+Dialogue: 0,0:18:49.64,0:18:50.47,Dubtitles,,0,0,0,,Ahem!
+Dialogue: 0,0:18:50.84,0:18:51.67,Dubtitles,,0,0,0,,Toilet.
+Dialogue: 0,0:18:52.04,0:18:52.87,Dubtitles,,0,0,0,,Ahem!
+Dialogue: 0,0:18:52.95,0:18:54.27,Dubtitles,,0,0,0,,You licked it real good.
+Dialogue: 0,0:18:56.10,0:18:57.32,Dubtitles,,0,0,0,,Jojaro, cocky-wee!
+Dialogue: 0,0:18:57.54,0:18:59.34,Dubtitles,,0,0,0,,Come on, let's just get\Nthe hell out of here.
+Dialogue: 0,0:18:59.42,0:19:01.50,Dubtitles,,0,0,0,,Everyone, come outside. Huh?
+Dialogue: 0,0:19:07.96,0:19:09.08,Dubtitles,,0,0,0,,What on earth?
+Dialogue: 0,0:19:09.74,0:19:14.14,Dubtitles,,0,0,0,,We step outside of the\Nhotel and this place is a...
+Dialogue: 0,0:19:15.08,0:19:16.26,Dubtitles,,0,0,0,,It's a graveyard.
+Dialogue: 0,0:19:16.66,0:19:21.48,Dubtitles,,0,0,0,,She was using her stand's fog to make this\Ngraveyard look like a town and a hotel.
+Dialogue: 0,0:19:21.58,0:19:26.23,Dubtitles,,0,0,0,,So the whole time we were here, we were\Ntalking to some corpses six feet under?
+Dialogue: 0,0:19:36.02,0:19:37.84,Dubtitles,,0,0,0,,You wanna take her with us?
+Dialogue: 0,0:19:37.98,0:19:39.02,Dubtitles,,0,0,0,,Are you serious?
+Dialogue: 0,0:19:39.94,0:19:40.80,Dubtitles,,0,0,0,,Sure, am.
+Dialogue: 0,0:19:41.50,0:19:44.26,Dubtitles,,0,0,0,,We need to know how many more\NStan users are out there?
+Dialogue: 0,0:19:44.34,0:19:45.63,Dubtitles,,0,0,0,,What their powers are?
+Dialogue: 0,0:19:45.80,0:19:48.80,Dubtitles,,0,0,0,,And wherever Dio's dug a\Nhole for himself in Egypt?
+Dialogue: 0,0:19:49.30,0:19:51.42,Dubtitles,,0,0,0,,as well as what his power is.
+Dialogue: 0,0:19:51.66,0:19:56.26,Dubtitles,,0,0,0,,If we get the hag to tell us, it might\Nfinally give us the edge that we need.
+Dialogue: 0,0:19:56.52,0:19:59.17,Dubtitles,,0,0,0,,That's worth the risk\Nof dragging her around.
+Dialogue: 0,0:20:00.28,0:20:03.64,Dubtitles,,0,0,0,,I highly doubt she'll be willing\Nto share that information, though.
+Dialogue: 0,0:20:03.72,0:20:05.62,Dubtitles,,0,0,0,,We just need to use my hermit, Purple.
+Dialogue: 0,0:20:05.70,0:20:09.10,Dubtitles,,0,0,0,,I'll project everything she's\Nthinking onto a TV screen.
+Dialogue: 0,0:20:09.62,0:20:10.58,Dubtitles,,0,0,0,,Great idea.
+Dialogue: 0,0:20:11.02,0:20:14.02,Dubtitles,,0,0,0,,We'll hop over to the next\Ntown and use a TV there.
+Dialogue: 0,0:20:16.56,0:20:20.12,Dubtitles,,0,0,0,,Hull horse, you slide\Nball! That's our car!
+Dialogue: 0,0:20:21.20,0:20:22.06,Dubtitles,,0,0,0,,Sorry, boys.
+Dialogue: 0,0:20:22.20,0:20:23.86,Dubtitles,,0,0,0,,I'm sticking with Dio after all.
+Dialogue: 0,0:20:23.94,0:20:25.06,Dubtitles,,0,0,0,,Catch y 'all later.
+Dialogue: 0,0:20:25.32,0:20:27.94,Dubtitles,,0,0,0,,Provided you all don't\Ndie before then, that is.
+Dialogue: 0,0:20:28.02,0:20:29.61,Dubtitles,,0,0,0,,A little advice for y 'all.
+Dialogue: 0,0:20:29.70,0:20:32.26,Dubtitles,,0,0,0,,You better put a bullet between\Nthat old lady's eyes real
+Dialogue: 0,0:20:32.34,0:20:36.40,Dubtitles,,0,0,0,,soon or else you'll find out just\Nhow terrifying Dio really is!
+Dialogue: 0,0:20:36.58,0:20:38.05,Dubtitles,,0,0,0,,And you do not want that!
 Dialogue: 1,0:20:36.59,0:20:36.63,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:20:36.59,0:20:36.63,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:20:36.59,0:20:36.63,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -2007,6 +2007,7 @@ Dialogue: 3,0:20:38.34,0:20:38.46,Eyecatch1 SP,sign top,0,0,0,,{\bord0\blur0.6\p
 Dialogue: 1,0:20:38.46,0:20:38.59,Eyecatch1 SP,sign top,0,0,0,,{\blur13\pos(80,348)\alpha&H80&\3c&HFFFEFF&}Star Platin
 Dialogue: 2,0:20:38.46,0:20:38.59,Eyecatch1 SP,sign top,0,0,0,,{\blur0.6\pos(80,348)\c&H151718&}Star Platin
 Dialogue: 3,0:20:38.46,0:20:38.59,Eyecatch1 SP,sign top,0,0,0,,{\bord0\blur0.6\pos(80,348)\shad2\4a&HFF&}Star Platin
+Dialogue: 0,0:20:38.54,0:20:39.37,Dubtitles,,0,0,0,,Hm?
 Dialogue: 1,0:20:38.55,0:20:38.75,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\blur13\pos(1509,817)\alpha&H80&\3c&HFFFEFF&}Jo
 Dialogue: 2,0:20:38.55,0:20:38.75,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\blur0.6\pos(1509,817)\c&H151718&}Jo
 Dialogue: 3,0:20:38.55,0:20:38.75,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\bord0\blur0.6\pos(1509,817)\shad2\4a&HFF&}Jo
@@ -2025,46 +2026,48 @@ Dialogue: 3,0:20:39.21,0:20:39.42,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\bord0\bl
 Dialogue: 1,0:20:39.42,0:20:40.51,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\blur13\alpha&H80&\3c&HFFFEFF&\pos(1509,817)}Jotaro Kujo
 Dialogue: 2,0:20:39.42,0:20:40.51,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\blur0.6\c&H151718&\pos(1509,817)}Jotaro Kujo
 Dialogue: 3,0:20:39.42,0:20:40.51,Eyecatch2 - Top JoJo,signbot,0,0,0,,{\bord0\blur0.6\shad2\4a&HFF&\pos(1509,817)}Jotaro Kujo
-Dialogue: 0,0:20:39.56,0:20:40.39,Dubtitles,,0,0,0,,See ya!
-Dialogue: 0,0:20:42.64,0:20:44.80,Dubtitles,,0,0,0,,Does anyone know what he's talking about?
-Dialogue: 0,0:20:44.88,0:20:45.82,Dubtitles,,0,0,0,,Because I don't.
-Dialogue: 0,0:21:07.42,0:21:10.02,Dubtitles,,0,0,0,,All the old paintings on the tomb?
-Dialogue: 0,0:21:10.10,0:21:12.06,Dubtitles,,0,0,0,,They do the sand dance, don't you know!
-Dialogue: 0,0:21:12.14,0:21:14.32,Dubtitles,,0,0,0,,If you move too quick, go away!
-Dialogue: 0,0:21:14.40,0:21:16.72,Dubtitles,,0,0,0,,They're falling down like a domino!
-Dialogue: 0,0:21:16.80,0:21:19.40,Dubtitles,,0,0,0,,All the boys are men by the Nile!
-Dialogue: 0,0:21:19.48,0:21:21.46,Dubtitles,,0,0,0,,They got the money on a bed!
-Dialogue: 0,0:21:21.54,0:21:23.04,Dubtitles,,0,0,0,,Called crocodiles!
-Dialogue: 0,0:21:23.12,0:21:26.02,Dubtitles,,0,0,0,,They might snap their\Nteeth on your cigarette!
-Dialogue: 0,0:21:26.10,0:21:28.38,Dubtitles,,0,0,0,,Foreign types with a hookah! Walk
-Dialogue: 0,0:21:28.46,0:21:35.46,Dubtitles,,0,0,0,,like
-Dialogue: 0,0:21:36.52,0:21:37.35,Dubtitles,,0,0,0,,an Egyptian!
-Dialogue: 0,0:21:49.08,0:21:52.02,Dubtitles,,0,0,0,,The blonde waitresses take their trays!
-Dialogue: 0,0:21:52.10,0:21:54.02,Dubtitles,,0,0,0,,Spin around and they cross the floor!
-Dialogue: 0,0:21:54.10,0:21:55.54,Dubtitles,,0,0,0,,They've got the moves!
-Dialogue: 0,0:21:55.62,0:21:58.68,Dubtitles,,0,0,0,,You drop your drink then\Nthey bring you more!
-Dialogue: 0,0:21:58.76,0:22:01.32,Dubtitles,,0,0,0,,All the school kids so sick of folks!
-Dialogue: 0,0:22:01.40,0:22:03.38,Dubtitles,,0,0,0,,They're like the punk and the metal band!
-Dialogue: 0,0:22:03.46,0:22:04.94,Dubtitles,,0,0,0,,When the buzzer rings!
-Dialogue: 0,0:22:05.68,0:22:07.62,Dubtitles,,0,0,0,,They're walking like an Egyptian!
-Dialogue: 0,0:22:07.70,0:22:10.28,Dubtitles,,0,0,0,,All the kids in the marketplace say!
+Dialogue: 0,0:20:39.45,0:20:40.38,Dubtitles,,0,0,0,,See ya!
+Dialogue: 0,0:20:42.54,0:20:44.76,Dubtitles,,0,0,0,,Does anyone know what he's talking about?
+Dialogue: 0,0:20:44.84,0:20:45.70,Dubtitles,,0,0,0,,Cause I don't!
+Dialogue: 0,0:21:07.30,0:21:10.02,Dubtitles,,0,0,0,,All the old paintings on the tomb.
+Dialogue: 0,0:21:10.10,0:21:12.06,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
+Dialogue: 0,0:21:12.14,0:21:13.62,Dubtitles,,0,0,0,,If they move too quick.
+Dialogue: 0,0:21:13.70,0:21:16.72,Dubtitles,,0,0,0,,They're falling down like a domino.
+Dialogue: 0,0:21:16.80,0:21:19.40,Dubtitles,,0,0,0,,All the birds are men by the Nile.
+Dialogue: 0,0:21:19.48,0:21:21.42,Dubtitles,,0,0,0,,They've got the money on a bed.
+Dialogue: 0,0:21:21.50,0:21:23.04,Dubtitles,,0,0,0,,Called crocodiles.
+Dialogue: 0,0:21:23.12,0:21:26.02,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
+Dialogue: 0,0:21:26.10,0:21:28.28,Dubtitles,,0,0,0,,Foreign types with a hookah. I say.
+Dialogue: 0,0:21:34.68,0:21:37.24,Dubtitles,,0,0,0,,Walk like an Egyptian.
+Dialogue: 0,0:21:48.92,0:21:52.02,Dubtitles,,0,0,0,,The blonde waitresses take their trays.
+Dialogue: 0,0:21:52.10,0:21:54.02,Dubtitles,,0,0,0,,Spin around and they cross the floor.
+Dialogue: 0,0:21:54.10,0:21:56.54,Dubtitles,,0,0,0,,They've got the moves, oh-hey-oh.
+Dialogue: 0,0:21:56.62,0:21:58.68,Dubtitles,,0,0,0,,You drop your drink,\Nthen they bring you more.
+Dialogue: 0,0:21:58.76,0:22:01.32,Dubtitles,,0,0,0,,All the school kids are so sick of books.
+Dialogue: 0,0:22:01.40,0:22:03.38,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:22:03.46,0:22:04.94,Dubtitles,,0,0,0,,When the buzzer rings.
+Dialogue: 0,0:22:05.76,0:22:07.62,Dubtitles,,0,0,0,,They're walking like an Egyptian.
+Dialogue: 0,0:22:07.70,0:22:10.28,Dubtitles,,0,0,0,,All the kids in the marketplace say.
+Dialogue: 0,0:22:10.36,0:22:11.19,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:22:11.27,0:22:18.24,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:12.64,0:22:15.06,Lyrics 2,,0,0,0,,All the old paintings on the tomb
 Dialogue: 1,0:22:15.06,0:22:17.31,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
 Dialogue: 1,0:22:17.31,0:22:18.77,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:17.52,0:22:19.16,Dubtitles,,0,0,0,,Walk like an Egyptian!
+Dialogue: 0,0:22:18.44,0:22:19.27,Dubtitles,,0,0,0,,an Egyptian.
 Dialogue: 1,0:22:19.56,0:22:22.02,Lyrics 2,,0,0,0,,They're falling down like a domino
 Dialogue: 1,0:22:22.02,0:22:24.36,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:22:22.84,0:22:24.06,Dubtitles,,0,0,0,,Why are you here?
-Dialogue: 0,0:22:24.20,0:22:25.30,Dubtitles,,0,0,0,,What could you want with me?
+Dialogue: 0,0:22:22.76,0:22:24.06,Dubtitles,,0,0,0,,Why are you here?
+Dialogue: 0,0:22:24.20,0:22:25.26,Dubtitles,,0,0,0,,What could you want with me?
 Dialogue: 1,0:22:24.36,0:22:26.70,Lyrics 2,,0,0,0,,They got the money on a bet
-Dialogue: 0,0:22:25.38,0:22:27.22,Dubtitles,,0,0,0,,Lord Dio truly trusts no one.
+Dialogue: 0,0:22:25.34,0:22:27.18,Dubtitles,,0,0,0,,Lord Dio truly trusts no one.
 Dialogue: 1,0:22:26.70,0:22:28.20,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:22:27.30,0:22:28.40,Dubtitles,,0,0,0,,He should be able to become smaller.
-Dialogue: 0,0:22:28.48,0:22:31.58,Dubtitles,,0,0,0,,When I say I'm gonna do something,\Nhe went flying like the other guy.
+Dialogue: 0,0:22:27.26,0:22:28.42,Dubtitles,,0,0,0,,He should be able to become smaller.
+Dialogue: 0,0:22:28.50,0:22:30.06,Dubtitles,,0,0,0,,When I say I'm gonna do something...
 Dialogue: 1,0:22:28.86,0:22:31.32,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
+Dialogue: 0,0:22:30.14,0:22:31.56,Dubtitles,,0,0,0,,He went flying like the other guy.
 Dialogue: 1,0:22:31.32,0:22:33.54,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:31.66,0:22:32.96,Dubtitles,,0,0,0,,Oh my god!
-Dialogue: 0,0:22:33.58,0:22:37.46,Dubtitles,,0,0,0,,Power isn't necessary if all you\Nwant to do is kill your opponent.
+Dialogue: 0,0:22:31.64,0:22:32.92,Dubtitles,,0,0,0,,Oh my god!
+Dialogue: 0,0:22:33.56,0:22:37.44,Dubtitles,,0,0,0,,Power isn't necessary if all you\Nwant to do is kill your opponent.
 Dialogue: 1,0:22:40.54,0:22:43.09,Lyrics 2,,0,0,0,,Walk like an Egyptian
 Dialogue: 1,0:22:54.47,0:22:56.93,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
 Dialogue: 1,0:22:56.93,0:22:59.31,Lyrics 2,,0,0,0,,They spin around and they cross the floor
