@@ -524,10 +524,10 @@ Dialogue: 3,0:00:25.84,0:00:26.06,OPR,,0,0,0,fx,{\pos(397,80)\fscx140\fscy140\al
 Dialogue: 2,0:00:26.06,0:00:26.23,OPR,,0,0,0,fx,{\pos(461,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ku
 Dialogue: 3,0:00:26.06,0:00:26.23,OPR,,0,0,0,fx,{\pos(461,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ku
 Dialogue: 2,0:00:26.06,0:00:31.48,OPR,,0,0,0,fx,{\pos(397,80)\c&HE9AFFB&\fad(0,300)}to
+Dialogue: 0,0:00:26.19,0:00:28.87,Dubtitles,,0,0,0,,do I'm not a special\Nhuman being I don't know
 Dialogue: 2,0:00:26.23,0:00:26.37,OPR,,0,0,0,fx,{\pos(530,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}be
 Dialogue: 3,0:00:26.23,0:00:26.37,OPR,,0,0,0,fx,{\pos(530,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}be
 Dialogue: 2,0:00:26.23,0:00:31.48,OPR,,0,0,0,fx,{\pos(461,80)\c&HE9AFFB&\fad(0,300)}ku
-Dialogue: 0,0:00:26.29,0:00:27.87,Dubtitles,,0,0,0,,a special human being.
 Dialogue: 2,0:00:26.37,0:00:26.54,OPR,,0,0,0,fx,{\pos(607,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}tsu
 Dialogue: 3,0:00:26.37,0:00:26.54,OPR,,0,0,0,fx,{\pos(607,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}tsu
 Dialogue: 2,0:00:26.37,0:00:31.48,OPR,,0,0,0,fx,{\pos(530,80)\c&HE9AFFB&\fad(0,300)}be
@@ -549,7 +549,6 @@ Dialogue: 2,0:00:27.56,0:00:31.48,OPR,,0,0,0,fx,{\pos(878,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:00:27.76,0:00:28.02,OPR,,0,0,0,fx,{\pos(993,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ni
 Dialogue: 3,0:00:27.76,0:00:28.02,OPR,,0,0,0,fx,{\pos(993,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ni
 Dialogue: 2,0:00:27.76,0:00:31.48,OPR,,0,0,0,fx,{\pos(930,80)\c&HE9AFFB&\fad(0,300)}n
-Dialogue: 0,0:00:27.95,0:00:30.81,Dubtitles,,0,0,0,,but I don't want to be\Na special human being.
 Dialogue: 2,0:00:28.02,0:00:31.48,OPR,,0,0,0,fx,{\pos(993,80)\c&HE9AFFB&\fad(0,300)}ni
 Dialogue: 2,0:00:28.21,0:00:28.44,OPR,,0,0,0,fx,{\pos(1071,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:00:28.21,0:00:28.44,OPR,,0,0,0,fx,{\pos(1071,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
@@ -562,6 +561,7 @@ Dialogue: 2,0:00:28.56,0:00:31.48,OPR,,0,0,0,fx,{\pos(1127,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:00:28.88,0:00:29.07,OPR,,0,0,0,fx,{\pos(1210,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
 Dialogue: 3,0:00:28.88,0:00:29.07,OPR,,0,0,0,fx,{\pos(1210,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}i
 Dialogue: 2,0:00:28.88,0:00:31.48,OPR,,0,0,0,fx,{\pos(1174,80)\c&HE9AFFB&\fad(0,300)}ta
+Dialogue: 0,0:00:28.95,0:00:33.85,Dubtitles,,0,0,0,,Why I'm not aizo. I'm not a hero.
 Dialogue: 2,0:00:29.07,0:00:29.58,OPR,,0,0,0,fx,{\pos(1277,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}wa
 Dialogue: 3,0:00:29.07,0:00:29.58,OPR,,0,0,0,fx,{\pos(1277,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}wa
 Dialogue: 2,0:00:29.07,0:00:31.48,OPR,,0,0,0,fx,{\pos(1210,80)\c&HE9AFFB&\fad(0,300)}i
@@ -607,7 +607,6 @@ Dialogue: 2,0:00:31.48,0:00:36.52,OPR,,0,0,0,fx,{\pos(316,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:00:31.65,0:00:31.82,OPR,,0,0,0,fx,{\pos(399,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}zo
 Dialogue: 3,0:00:31.65,0:00:31.82,OPR,,0,0,0,fx,{\pos(399,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}zo
 Dialogue: 2,0:00:31.65,0:00:36.52,OPR,,0,0,0,fx,{\pos(350,80)\c&HE9AFFB&\fad(0,300)}o
-Dialogue: 0,0:00:31.79,0:00:35.21,Dubtitles,,0,0,0,,I'm a light bulb, and I'm going\Nto be a little before you.
 Dialogue: 2,0:00:31.82,0:00:31.99,OPR,,0,0,0,fx,{\pos(459,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ra
 Dialogue: 3,0:00:31.82,0:00:31.99,OPR,,0,0,0,fx,{\pos(459,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ra
 Dialogue: 2,0:00:31.82,0:00:36.52,OPR,,0,0,0,fx,{\pos(399,80)\c&HE9AFFB&\fad(0,300)}zo
@@ -631,6 +630,7 @@ Dialogue: 3,0:00:33.19,0:00:33.65,OPR,,0,0,0,fx,{\pos(926,80)\fscx140\fscy140\al
 Dialogue: 2,0:00:33.19,0:00:36.52,OPR,,0,0,0,fx,{\pos(864,80)\c&HE9AFFB&\fad(0,300)}ku
 Dialogue: 2,0:00:33.65,0:00:36.52,OPR,,0,0,0,fx,{\pos(926,80)\c&HE9AFFB&\fad(0,300)}te
 Dialogue: 2,0:00:33.67,0:00:36.52,OPE,,0,0,0,fx,{\pos(960,1035)\fad(300,300)}I try my hardest to keep looking ahead of me,
+Dialogue: 0,0:00:33.93,0:00:35.89,Dubtitles,,0,0,0,,I'm not
 Dialogue: 2,0:00:33.98,0:00:34.22,OPR,,0,0,0,fx,{\pos(997,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}hi
 Dialogue: 3,0:00:33.98,0:00:34.22,OPR,,0,0,0,fx,{\pos(997,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}hi
 Dialogue: 2,0:00:34.22,0:00:34.32,OPR,,0,0,0,fx,{\pos(1037,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}s
@@ -660,6 +660,7 @@ Dialogue: 2,0:00:35.62,0:00:36.52,OPR,,0,0,0,fx,{\pos(1503,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:00:35.83,0:00:36.24,OPR,,0,0,0,fx,{\pos(1592,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}te
 Dialogue: 3,0:00:35.83,0:00:36.24,OPR,,0,0,0,fx,{\pos(1592,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}te
 Dialogue: 2,0:00:35.83,0:00:36.52,OPR,,0,0,0,fx,{\pos(1557,80)\c&HE9AFFB&\fad(0,300)}i
+Dialogue: 0,0:00:35.97,0:00:37.79,Dubtitles,,0,0,0,,a
 Dialogue: 2,0:00:36.24,0:00:36.52,OPR,,0,0,0,fx,{\pos(1592,80)\c&HE9AFFB&\fad(0,300)}te
 Dialogue: 1,0:00:36.30,0:00:36.60,OPR,,0,0,0,fx,{\pos(359, 80)\fad(300,0)}su
 Dialogue: 1,0:00:36.30,0:00:36.84,OPR,,0,0,0,fx,{\pos(425, 80)\fad(300,0)}ko
@@ -697,6 +698,7 @@ Dialogue: 2,0:00:37.35,0:00:42.36,OPR,,0,0,0,fx,{\pos(573,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:00:37.72,0:00:37.88,OPR,,0,0,0,fx,{\pos(743,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}zu
 Dialogue: 3,0:00:37.72,0:00:37.88,OPR,,0,0,0,fx,{\pos(743,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}zu
 Dialogue: 2,0:00:37.72,0:00:42.36,OPR,,0,0,0,fx,{\pos(649,80)\c&HE9AFFB&\fad(0,300)}tsu
+Dialogue: 0,0:00:37.87,0:00:43.17,Dubtitles,,0,0,0,,hero
 Dialogue: 2,0:00:37.88,0:00:38.03,OPR,,0,0,0,fx,{\pos(803,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}re
 Dialogue: 3,0:00:37.88,0:00:38.03,OPR,,0,0,0,fx,{\pos(803,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}re
 Dialogue: 2,0:00:37.88,0:00:42.36,OPR,,0,0,0,fx,{\pos(743,80)\c&HE9AFFB&\fad(0,300)}zu
@@ -709,7 +711,6 @@ Dialogue: 2,0:00:38.33,0:00:42.36,OPR,,0,0,0,fx,{\pos(859,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:00:38.55,0:00:38.89,OPR,,0,0,0,fx,{\pos(938,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ku
 Dialogue: 3,0:00:38.55,0:00:38.89,OPR,,0,0,0,fx,{\pos(938,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ku
 Dialogue: 2,0:00:38.55,0:00:42.36,OPR,,0,0,0,fx,{\pos(894,80)\c&HE9AFFB&\fad(0,300)}i
-Dialogue: 0,0:00:38.71,0:00:43.93,Dubtitles,,0,0,0,,I'm going to be a little\Nbit more than the future.
 Dialogue: 2,0:00:38.72,0:00:42.36,OPE,,0,0,0,fx,{\pos(960,1035)\fad(300,300)}that's slowly slipping out of place.
 Dialogue: 2,0:00:38.89,0:00:42.36,OPR,,0,0,0,fx,{\pos(938,80)\c&HE9AFFB&\fad(0,300)}ku
 Dialogue: 2,0:00:39.05,0:00:39.21,OPR,,0,0,0,fx,{\pos(1023,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ke
@@ -777,10 +778,10 @@ Dialogue: 2,0:00:44.28,0:00:46.41,OPR,,0,0,0,fx,{\pos(1070,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:00:44.58,0:00:45.41,OPR,,0,0,0,fx,{\pos(1172,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:00:44.58,0:00:45.41,OPR,,0,0,0,fx,{\pos(1172,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
 Dialogue: 2,0:00:44.58,0:00:46.41,OPR,,0,0,0,fx,{\pos(1111,80)\c&HE9AFFB&\fad(0,300)}i
+Dialogue: 0,0:00:44.81,0:00:49.07,Dubtitles,,0,0,0,,I'm not a hero. I love you. I love you.
 Dialogue: 2,0:00:45.41,0:00:46.10,OPR,,0,0,0,fx,{\pos(1234,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ra
 Dialogue: 3,0:00:45.41,0:00:46.10,OPR,,0,0,0,fx,{\pos(1234,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ra
 Dialogue: 2,0:00:45.41,0:00:46.41,OPR,,0,0,0,fx,{\pos(1172,80)\c&HE9AFFB&\fad(0,300)}na
-Dialogue: 0,0:00:45.91,0:00:48.21,Dubtitles,,0,0,0,,I'm going to be a perfect world for this.
 Dialogue: 2,0:00:46.10,0:00:46.41,OPR,,0,0,0,fx,{\pos(1234,80)\c&HE9AFFB&\fad(0,300)}ra
 Dialogue: 1,0:00:46.73,0:00:47.03,OPR,,0,0,0,fx,{\pos(461, 80)\fad(300,0)}ko
 Dialogue: 1,0:00:46.73,0:00:47.31,OPR,,0,0,0,fx,{\pos(531, 80)\fad(300,0)}no
@@ -819,7 +820,6 @@ Dialogue: 2,0:00:47.98,0:00:52.62,OPR,,0,0,0,fx,{\pos(705,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:00:48.15,0:00:48.74,OPR,,0,0,0,fx,{\pos(868,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}wo
 Dialogue: 3,0:00:48.15,0:00:48.74,OPR,,0,0,0,fx,{\pos(868,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}wo
 Dialogue: 2,0:00:48.15,0:00:52.62,OPR,,0,0,0,fx,{\pos(766,80)\c&HE9AFFB&\fad(0,300)}tsu
-Dialogue: 0,0:00:48.29,0:00:50.19,Dubtitles,,0,0,0,,I'm going to live this way. Thank
 Dialogue: 2,0:00:48.74,0:00:48.99,OPR,,0,0,0,fx,{\pos(936,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
 Dialogue: 3,0:00:48.74,0:00:48.99,OPR,,0,0,0,fx,{\pos(936,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}i
 Dialogue: 2,0:00:48.74,0:00:52.62,OPR,,0,0,0,fx,{\pos(868,80)\c&HE9AFFB&\fad(0,300)}wo
@@ -841,7 +841,6 @@ Dialogue: 2,0:00:50.04,0:00:52.62,OPR,,0,0,0,fx,{\pos(1189,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:00:50.21,0:00:50.55,OPR,,0,0,0,fx,{\pos(1359,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:00:50.21,0:00:50.55,OPR,,0,0,0,fx,{\pos(1359,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
 Dialogue: 2,0:00:50.21,0:00:52.62,OPR,,0,0,0,fx,{\pos(1283,80)\c&HE9AFFB&\fad(0,300)}ja
-Dialogue: 0,0:00:50.27,0:00:57.27,Dubtitles,,0,0,0,,you.
 Dialogue: 2,0:00:50.55,0:00:50.69,OPR,,0,0,0,fx,{\pos(1402,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
 Dialogue: 3,0:00:50.55,0:00:50.69,OPR,,0,0,0,fx,{\pos(1402,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}i
 Dialogue: 2,0:00:50.55,0:00:52.62,OPR,,0,0,0,fx,{\pos(1359,80)\c&HE9AFFB&\fad(0,300)}na
@@ -962,6 +961,7 @@ Dialogue: 2,0:01:00.15,0:01:03.76,OPR,,0,0,0,fx,{\pos(935,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:01:00.45,0:01:00.79,OPR,,0,0,0,fx,{\pos(1047,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:01:00.45,0:01:00.79,OPR,,0,0,0,fx,{\pos(1047,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
 Dialogue: 2,0:01:00.45,0:01:03.76,OPR,,0,0,0,fx,{\pos(987,80)\c&HE9AFFB&\fad(0,300)}i
+Dialogue: 0,0:01:00.77,0:01:01.60,Dubtitles,,0,0,0,,Thank you
 Dialogue: 2,0:01:00.79,0:01:00.97,OPR,,0,0,0,fx,{\pos(1115,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}a
 Dialogue: 3,0:01:00.79,0:01:00.97,OPR,,0,0,0,fx,{\pos(1115,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}a
 Dialogue: 2,0:01:00.79,0:01:03.76,OPR,,0,0,0,fx,{\pos(1047,80)\c&HE9AFFB&\fad(0,300)}na
@@ -977,6 +977,7 @@ Dialogue: 2,0:01:01.43,0:01:03.76,OPR,,0,0,0,fx,{\pos(1214,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:01:01.62,0:01:01.83,OPR,,0,0,0,fx,{\pos(1332,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
 Dialogue: 3,0:01:01.62,0:01:01.83,OPR,,0,0,0,fx,{\pos(1332,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}i
 Dialogue: 2,0:01:01.62,0:01:03.76,OPR,,0,0,0,fx,{\pos(1283,80)\c&HE9AFFB&\fad(0,300)}shi
+Dialogue: 0,0:01:01.69,0:01:08.55,Dubtitles,,0,0,0,,for
 Dialogue: 2,0:01:01.83,0:01:02.13,OPR,,0,0,0,fx,{\pos(1384,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}hi
 Dialogue: 3,0:01:01.83,0:01:02.13,OPR,,0,0,0,fx,{\pos(1384,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}hi
 Dialogue: 2,0:01:01.83,0:01:03.76,OPR,,0,0,0,fx,{\pos(1332,80)\c&HE9AFFB&\fad(0,300)}i
@@ -1222,6 +1223,7 @@ Dialogue: 2,0:01:18.70,0:01:20.28,OPR,,0,0,0,fx,{\pos(1351,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:01:18.96,0:01:19.32,OPR,,0,0,0,fx,{\pos(1446,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ji
 Dialogue: 3,0:01:18.96,0:01:19.32,OPR,,0,0,0,fx,{\pos(1446,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ji
 Dialogue: 2,0:01:18.96,0:01:20.28,OPR,,0,0,0,fx,{\pos(1410,80)\c&HE9AFFB&\fad(0,300)}n
+Dialogue: 0,0:01:18.97,0:01:19.80,Dubtitles,,0,0,0,,listening.
 Dialogue: 2,0:01:19.32,0:01:20.00,OPR,,0,0,0,fx,{\pos(1490,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}te
 Dialogue: 3,0:01:19.32,0:01:20.00,OPR,,0,0,0,fx,{\pos(1490,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}te
 Dialogue: 2,0:01:19.32,0:01:20.28,OPR,,0,0,0,fx,{\pos(1446,80)\c&HE9AFFB&\fad(0,300)}ji
@@ -1299,13 +1301,9 @@ Dialogue: 2,0:01:25.23,0:01:27.85,OPR,,0,0,0,fx,{\pos(1503,80)\fscx140\fscy140\t
 Dialogue: 3,0:01:25.23,0:01:27.85,OPR,,0,0,0,fx,{\pos(1503,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}u
 Dialogue: 2,0:01:25.23,0:01:28.16,OPR,,0,0,0,fx,{\pos(1440,80)\c&HE9AFFB&\fad(0,300)}mo
 Dialogue: 2,0:01:27.85,0:01:28.16,OPR,,0,0,0,fx,{\pos(1503,80)\c&HE9AFFB&\fad(0,300)}u
-Dialogue: 0,0:01:37.27,0:01:39.57,Dubtitles,,0,0,0,,That thing is huge!
-Dialogue: 0,0:01:40.21,0:01:41.87,Dubtitles,,0,0,0,,Wait, is that my goddess?
-Dialogue: 0,0:01:42.47,0:01:43.47,Dubtitles,,0,0,0,,Your goddess?
-Dialogue: 0,0:01:43.77,0:01:47.13,Dubtitles,,0,0,0,,Does that mean you used one\Nof your skills to summon her?
-Dialogue: 0,0:01:49.55,0:01:51.55,Dubtitles,,0,0,0,,Fear me, you insignificant humans.
-Dialogue: 0,0:01:51.85,0:01:54.35,Dubtitles,,0,0,0,,One of the twelve goddesses\Nstands before you.
-Dialogue: 0,0:01:54.43,0:01:56.21,Dubtitles,,0,0,0,,I am the goddess of night.
+Dialogue: 0,0:01:49.31,0:01:51.55,Dubtitles,,0,0,0,,Fear me, you insignificant humans.
+Dialogue: 0,0:01:51.83,0:01:54.35,Dubtitles,,0,0,0,,One of the twelve goddesses\Nstands before you.
+Dialogue: 0,0:01:54.43,0:01:56.23,Dubtitles,,0,0,0,,I am the goddess of night.
 Dialogue: 1,0:01:58.55,0:02:03.56,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H0B0A0A&}m 275 315 l 543 315 543 401 275 401
 Dialogue: 1,0:01:58.55,0:02:03.56,Signs,text,0,0,0,,{\c&HF5F5F5&\fnFree Pixel\\fs70\b1\blur0.7\pos(405,393)}Chapter 6
 Dialogue: 1,0:01:59.34,0:01:59.39,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(406,493)\p1\c&H0A0A0A&\clip(379,470,1526,538)}m 34 24 l 1063 24 1063 130 34 130
@@ -1314,19 +1312,20 @@ Dialogue: 1,0:01:59.39,0:01:59.43,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx
 Dialogue: 2,0:01:59.39,0:01:59.43,Signs,text,0,0,0,,{\an7\c&HF5F5F5&\fnFree Pixel\\fs70\b1\blur0.7\clip(385,473,1515,612)\pos(411,497)}A Guy Who Reincarnated as a \NFantasy Knockout and a Free Spirit
 Dialogue: 1,0:01:59.43,0:02:03.56,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(406,493)\p1\c&H0A0A0A&}m 34 24 l 1063 24 1063 130 34 130
 Dialogue: 2,0:01:59.43,0:02:03.56,Signs,text,0,0,0,,{\an7\c&HF5F5F5&\fnFree Pixel\\fs70\b1\blur0.7\pos(411,497)}A Guy Who Reincarnated as a \NFantasy Knockout and a Free Spirit
-Dialogue: 0,0:02:03.97,0:02:06.77,Dubtitles,,0,0,0,,I am so sorry. Were you sleeping?
-Dialogue: 0,0:02:07.31,0:02:12.26,Dubtitles,,0,0,0,,When all the lands beyond the veil awaken,\Nthis world shall be filled with darkness.
+Dialogue: 0,0:02:03.95,0:02:06.75,Dubtitles,,0,0,0,,I am so sorry. Were you sleeping?
+Dialogue: 0,0:02:08.23,0:02:12.79,Dubtitles,,0,0,0,,When all the lands beyond the veil awaken,\Nthis world shall be filled with darkness.
 Dialogue: 0,0:02:12.87,0:02:14.40,Dubtitles,,0,0,0,,Specifically, my darkness.
-Dialogue: 0,0:02:20.31,0:02:24.45,Dubtitles,,0,0,0,,I think she's basically saying\NI'm sleepy leave me alone because
-Dialogue: 0,0:02:24.53,0:02:28.03,Dubtitles,,0,0,0,,it isn't my time yet speech so\Nflowery She needs a translator.
+Dialogue: 0,0:02:20.41,0:02:22.29,Dubtitles,,0,0,0,,I think she's basically saying,
+Dialogue: 0,0:02:22.61,0:02:25.31,Dubtitles,,0,0,0,,I'm sleepy, leave me alone,\Nbecause it isn't my time yet.
 Dialogue: 2,0:02:25.24,0:02:27.79,right,text,0,0,0,,{\fad(279,0)\c&HF1EFEF&\blur0.65\fs150\bord9\fnCandy Cake\3c&HF1EFEF&\pos(1546.82,28.76)\1a&HFF&}Right...
 Dialogue: 3,0:02:25.24,0:02:27.79,right,text,0,0,0,,{\fad(279,0)\c&H835A40&\blur0.65\fs150\bord1\fnCandy Cake\3c&H835A40&\pos(1546.82,28.76)\1a&HFF&}Right...
 Dialogue: 4,0:02:25.24,0:02:27.79,right,text,0,0,0,,{\fad(279,0)\c&HB36D40&\blur0.65\fs150\bord0\fnCandy Cake\3c&H835A40&\pos(1546.82,28.76)}Right...
-Dialogue: 0,0:02:28.11,0:02:33.09,Dubtitles,,0,0,0,,Oh Raven dark servant of mine for what\Nreason have you manifested me this night?
-Dialogue: 0,0:02:33.53,0:02:34.36,Dubtitles,,0,0,0,,Well,
-Dialogue: 0,0:02:34.45,0:02:38.43,Dubtitles,,0,0,0,,it might be called a miracle\Nor maybe destiny or to
-Dialogue: 0,0:02:38.51,0:02:40.85,Dubtitles,,0,0,0,,put it bluntly you might say\NI called you by accident.
-Dialogue: 0,0:02:40.93,0:02:46.57,Dubtitles,,0,0,0,,So I didn't really have a reason per\Nse to invite me unknowingly on a whim!
+Dialogue: 0,0:02:25.39,0:02:27.87,Dubtitles,,0,0,0,,Speech so flowery, she needs a translator.
+Dialogue: 0,0:02:28.57,0:02:33.40,Dubtitles,,0,0,0,,Oh, raven dark servant of mine, for what\Nreason have you manifested me this night?
+Dialogue: 0,0:02:33.63,0:02:37.21,Dubtitles,,0,0,0,,Well, it might be called a\Nmiracle, or maybe destiny.
+Dialogue: 0,0:02:37.87,0:02:41.17,Dubtitles,,0,0,0,,Or to put it bluntly, you might\Nsay I called you by accident.
+Dialogue: 0,0:02:41.25,0:02:44.01,Dubtitles,,0,0,0,,So, I didn't really have a reason per se?
+Dialogue: 0,0:02:44.57,0:02:46.57,Dubtitles,,0,0,0,,To invite me unknowingly on a whim.
 Dialogue: 0,0:02:46.65,0:02:50.48,Dubtitles,,0,0,0,,I must admit, such daring is truly\Nfitting for a servant of mine.
 Dialogue: 0,0:02:51.89,0:02:52.72,Dubtitles,,0,0,0,,Interesting.
 Dialogue: 0,0:02:52.81,0:02:55.89,Dubtitles,,0,0,0,,Is it just me, or do Schwartz and\Nthis goddess have the same vibe?
@@ -10857,6 +10856,7 @@ Dialogue: 1,0:23:04.03,0:23:07.03,EDE,,0,0,0,fx,{\pos(960,1040)\bord0\fad(300,30
 Dialogue: 1,0:23:04.07,0:23:04.36,EDR,,0,0,0,fx,{\pos(1140.6,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}to
 Dialogue: 1,0:23:04.07,0:23:04.36,EDR,,0,0,0,fx,{\pos(1140.6,10)\bord0\fad(0,300)\c&HAAAAAA&}to
 Dialogue: 1,0:23:04.07,0:23:04.57,EDR,,0,0,0,fx,{\move(0,13,703.5,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0bu
+Dialogue: 0,0:23:04.09,0:23:06.21,Dubtitles,,0,0,0,,Love like love, junk.
 Dialogue: 1,0:23:04.32,0:23:04.57,EDR,,0,0,0,fx,{\pos(674.6,10)\bord3\1a&HFF&\3c&HFAF9FF&}ra
 Dialogue: 1,0:23:04.32,0:23:04.57,EDR,,0,0,0,fx,{\pos(674.6,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ra
 Dialogue: 1,0:23:04.32,0:23:04.61,EDR,,0,0,0,fx,{\move(645.7,58, 634.7, 47)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ra
@@ -11097,6 +11097,7 @@ Dialogue: 2,0:23:06.20,0:23:06.74,EDR - Copy,,0,0,0,fx,{\pos(996.1,88)\bord0\fad
 Dialogue: 1,0:23:06.20,0:23:07.20,EDE - Copy,,0,0,0,fx,{\pos(960,962)\bord3\1a&HFF&\fad(300,300)\3c&HFAF9FF&}(It's not!)
 Dialogue: 1,0:23:06.20,0:23:07.20,EDE - Copy,,0,0,0,fx,{\pos(960,962)\bord0\fad(300,300)}(It's not!)
 Dialogue: 1,0:23:06.24,0:23:06.74,EDR - Copy,,0,0,0,fx,{\move(0,181,945.6,128)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0
+Dialogue: 0,0:23:06.29,0:23:07.59,Dubtitles,,0,0,0,,humum.
 Dialogue: 1,0:23:06.36,0:23:06.61,EDR,,0,0,0,fx,{\pos(1223.7,10)\bord3\1a&HFF&\3c&HFAF9FF&}na
 Dialogue: 1,0:23:06.36,0:23:06.61,EDR,,0,0,0,fx,{\pos(1223.7,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}na
 Dialogue: 1,0:23:06.36,0:23:06.66,EDR,,0,0,0,fx,{\move(1194.8,41, 1151.8, 51)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2na
@@ -11255,7 +11256,6 @@ Dialogue: 1,0:23:07.03,0:23:07.32,EDR,,0,0,0,fx,{\move(593.3,46, 565.3, 34)\p1\b
 Dialogue: 1,0:23:07.03,0:23:07.32,EDR,,0,0,0,fx,{\move(593.3,47, 575.3, 56)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2su
 Dialogue: 1,0:23:07.03,0:23:07.53,EDR,,0,0,0,fx,{\move(0,19,752.3,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0na
 Dialogue: 1,0:23:07.03,0:23:07.61,EDR,,0,0,0,fx,{\move(622.2,10,614.2,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP17
-Dialogue: 0,0:23:07.09,0:23:11.43,Dubtitles,,0,0,0,,You know, man is like,\Nyeah, Fantasy, and you can
 Dialogue: 1,0:23:07.20,0:23:07.36,EDR,,0,0,0,fx,{\pos(680,10)\bord3\1a&HFF&\3c&HFAF9FF&}na
 Dialogue: 1,0:23:07.20,0:23:07.36,EDR,,0,0,0,fx,{\pos(680,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}na
 Dialogue: 1,0:23:07.20,0:23:07.53,EDR,,0,0,0,fx,{\move(651.1,52, 619.1, 48)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2na
@@ -11439,6 +11439,7 @@ Dialogue: 1,0:23:08.53,0:23:09.66,EDR,,0,0,0,fx,{\pos(936.5,10)\bord3\1a&HFF&\fa
 Dialogue: 1,0:23:08.53,0:23:09.66,EDR,,0,0,0,fx,{\pos(936.5,10)\bord0\fad(0,300)\c&HAAAAAA&}na
 Dialogue: 1,0:23:08.57,0:23:09.07,EDR,,0,0,0,fx,{\move(0,30,1174.9,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0na
 Dialogue: 1,0:23:08.66,0:23:09.16,EDR,,0,0,0,fx,{\move(0,95,1232.7,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0i
+Dialogue: 0,0:23:08.71,0:23:10.11,Dubtitles,,0,0,0,,Yeah, fantasy.
 Dialogue: 1,0:23:08.74,0:23:08.87,EDR,,0,0,0,fx,{\pos(1106.3,10)\bord3\1a&HFF&\3c&HFAF9FF&}i
 Dialogue: 1,0:23:08.74,0:23:08.87,EDR,,0,0,0,fx,{\pos(1106.3,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}i
 Dialogue: 1,0:23:08.74,0:23:09.03,EDR,,0,0,0,fx,{\move(1095.5,54, 1071.5, 42)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2i
@@ -11702,6 +11703,7 @@ Dialogue: 1,0:23:10.08,0:23:10.41,EDR,,0,0,0,fx,{\move(634.9,48, 605.9, 61)\p1\b
 Dialogue: 1,0:23:10.08,0:23:10.66,EDR,,0,0,0,fx,{\move(662,10,674,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP57
 Dialogue: 1,0:23:10.08,0:23:13.37,EDR,,0,0,0,fx,{\pos(591.5,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}Fan
 Dialogue: 1,0:23:10.08,0:23:13.37,EDR,,0,0,0,fx,{\pos(591.5,10)\bord0\fad(0,300)\c&HAAAAAA&}Fan
+Dialogue: 0,0:23:10.19,0:23:11.19,Dubtitles,,0,0,0,,Mechanic.
 Dialogue: 1,0:23:10.24,0:23:10.58,EDR,,0,0,0,fx,{\move(689.1,41, 651.1, 68)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2sy
 Dialogue: 1,0:23:10.24,0:23:10.58,EDR,,0,0,0,fx,{\move(689.1,44, 670.1, 68)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2sy
 Dialogue: 1,0:23:10.24,0:23:10.58,EDR,,0,0,0,fx,{\move(689.1,45, 654.1, 37)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2sy
@@ -11834,7 +11836,6 @@ Dialogue: 1,0:23:11.45,0:23:11.95,EDR,,0,0,0,fx,{\move(0,119,1137,50)\p1\fscx100
 Dialogue: 1,0:23:11.45,0:23:12.04,EDR,,0,0,0,fx,{\move(976.3,10,966.3,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP88
 Dialogue: 1,0:23:11.45,0:23:13.37,EDR,,0,0,0,fx,{\pos(907.6,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}mi
 Dialogue: 1,0:23:11.45,0:23:13.37,EDR,,0,0,0,fx,{\pos(907.6,10)\bord0\fad(0,300)\c&HAAAAAA&}mi
-Dialogue: 0,0:23:11.51,0:23:14.09,Dubtitles,,0,0,0,,go You can go You can\Ngo Girl is like a saint
 Dialogue: 1,0:23:11.62,0:23:11.79,EDR,,0,0,0,fx,{\pos(1043.1,10)\bord3\1a&HFF&\3c&HFAF9FF&}ki
 Dialogue: 1,0:23:11.62,0:23:11.79,EDR,,0,0,0,fx,{\pos(1043.1,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ki
 Dialogue: 1,0:23:11.62,0:23:11.95,EDR,,0,0,0,fx,{\move(1017.8,46, 992.8, 55)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ki
@@ -12200,7 +12201,6 @@ Dialogue: 1,0:23:14.08,0:23:14.75,EDR,,0,0,0,fx,{\move(999.7,10,972.7,-10)\fs32\
 Dialogue: 1,0:23:14.08,0:23:15.21,EDR,,0,0,0,fx,{\pos(931.1,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}se
 Dialogue: 1,0:23:14.08,0:23:15.21,EDR,,0,0,0,fx,{\pos(931.1,10)\bord0\fad(0,300)\c&HAAAAAA&}se
 Dialogue: 1,0:23:14.16,0:23:14.66,EDR,,0,0,0,fx,{\move(0,98,1162.3,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0to
-Dialogue: 0,0:23:14.17,0:23:18.09,Dubtitles,,0,0,0,,List, Love is like a black\Ngirl. You can go. Ah,
 Dialogue: 1,0:23:14.33,0:23:14.54,EDR,,0,0,0,fx,{\pos(1079.2,10)\bord3\1a&HFF&\3c&HFAF9FF&}ri
 Dialogue: 1,0:23:14.33,0:23:14.54,EDR,,0,0,0,fx,{\pos(1079.2,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ri
 Dialogue: 1,0:23:14.33,0:23:14.62,EDR,,0,0,0,fx,{\move(1053.9,41, 1008.9, 40)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ri
@@ -12681,7 +12681,6 @@ Dialogue: 1,0:23:18.42,0:23:18.92,EDR,,0,0,0,fx,{\move(0,117,1043.1,50)\p1\fscx1
 Dialogue: 1,0:23:18.42,0:23:19.17,EDR,,0,0,0,fx,{\move(902.2,10,880.2,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP9
 Dialogue: 1,0:23:18.42,0:23:19.34,EDR,,0,0,0,fx,{\pos(833.6,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}a
 Dialogue: 1,0:23:18.42,0:23:19.34,EDR,,0,0,0,fx,{\pos(833.6,10)\bord0\fad(0,300)\c&HAAAAAA&}a
-Dialogue: 0,0:23:18.51,0:23:21.75,Dubtitles,,0,0,0,,Which can you? Just for\Nyou, I'll try it. You
 Dialogue: 1,0:23:18.71,0:23:19.21,EDR - Copy,,0,0,0,fx,{\move(0,91,786.6,128)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0
 Dialogue: 1,0:23:18.75,0:23:18.92,EDR,,0,0,0,fx,{\pos(999.7,10)\bord3\1a&HFF&\3c&HFAF9FF&}ka
 Dialogue: 1,0:23:18.75,0:23:18.92,EDR,,0,0,0,fx,{\pos(999.7,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ka
@@ -13045,7 +13044,6 @@ Dialogue: 1,0:23:21.63,0:23:22.21,EDR,,0,0,0,fx,{\pos(1158.7,10)\c&H0000C5&\bord
 Dialogue: 1,0:23:21.63,0:23:22.50,EDR,,0,0,0,fx,{\pos(1086.4,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}da
 Dialogue: 1,0:23:21.63,0:23:22.50,EDR,,0,0,0,fx,{\pos(1086.4,10)\bord0\fad(0,300)\c&HAAAAAA&}da
 Dialogue: 1,0:23:21.63,0:23:22.59,EDR,,0,0,0,fx,{\move(1158.7,10,1175.7,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP84
-Dialogue: 0,0:23:21.83,0:23:25.91,Dubtitles,,0,0,0,,Can go. I will take you.\NI'll take you. I'll take
 Dialogue: 1,0:23:21.96,0:23:22.46,EDR,,0,0,0,fx,{\move(0,43,842.6,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ta
 Dialogue: 1,0:23:22.13,0:23:22.63,EDR,,0,0,0,fx,{\move(0,64,896.8,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0i
 Dialogue: 1,0:23:22.17,0:23:22.46,EDR,,0,0,0,fx,{\pos(869.7,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}ta
@@ -14745,7 +14743,6 @@ Dialogue: 1,0:23:31.10,0:23:31.64,EDR,,0,0,0,fx,{\pos(1095.5,10)\bord3\1a&HFF&\f
 Dialogue: 1,0:23:31.10,0:23:31.64,EDR,,0,0,0,fx,{\pos(1095.5,10)\bord0\fad(0,300)\c&HAAAAAA&}ja
 Dialogue: 1,0:23:31.10,0:23:31.68,EDR,,0,0,0,fx,{\move(1167.7,10,1194.7,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP2
 Dialogue: 1,0:23:31.14,0:23:31.64,EDR,,0,0,0,fx,{\move(0,36,640.3,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0fan
-Dialogue: 0,0:23:31.25,0:23:33.71,Dubtitles,,0,0,0,,Fantasy. You can't. I can't.
 Dialogue: 1,0:23:31.26,0:23:31.35,EDR,,0,0,0,fx,{\pos(1207.5,10)\bord3\1a&HFF&\3c&HFAF9FF&}i
 Dialogue: 1,0:23:31.26,0:23:31.35,EDR,,0,0,0,fx,{\pos(1207.5,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}i
 Dialogue: 1,0:23:31.26,0:23:31.56,EDR,,0,0,0,fx,{\move(1196.6,47, 1181.6, 63)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2i
@@ -15055,12 +15052,17 @@ Dialogue: 1,0:23:33.52,0:23:34.18,EDR,,0,0,0,fx,{\move(1252.6,10,1250.6,-10)\fs3
 Dialogue: 1,0:23:33.77,0:23:34.06,EDR,,0,0,0,fx,{\pos(1252.6,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}to
 Dialogue: 1,0:23:33.77,0:23:34.06,EDR,,0,0,0,fx,{\pos(1252.6,10)\bord0\fad(0,300)\c&HAAAAAA&}to
 Dialogue: 1,0:23:33.77,0:23:34.14,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
-Dialogue: 0,0:23:36.15,0:23:40.15,Dubtitles,,0,0,0,,This year's festival is upon\Nus and the Squid will dance.
-Dialogue: 0,0:23:40.23,0:23:42.81,Dubtitles,,0,0,0,,all young and lively young\Nand lively and the sacrifice
-Dialogue: 0,0:23:42.89,0:23:46.59,Dubtitles,,0,0,0,,is blinding young and lively\Nyoung and lively squid squid
+Dialogue: 0,0:23:36.35,0:23:40.85,Dubtitles,,0,0,0,,This year's festival is upon us and the\Nsquid will dance all young and lively.
+Dialogue: 0,0:23:40.93,0:23:41.76,Dubtitles,,0,0,0,,Young and Lively.
+Dialogue: 0,0:23:41.85,0:23:43.69,Dubtitles,,0,0,0,,And the sacrifice is dazzling.
+Dialogue: 0,0:23:43.77,0:23:44.60,Dubtitles,,0,0,0,,Young and Lively.
+Dialogue: 0,0:23:44.69,0:23:46.65,Dubtitles,,0,0,0,,Young and Lively. Squid! Squid!
 Dialogue: 1,0:23:44.74,0:23:50.99,Signs,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs70\bord5\blur0.7\3c&HFDFAFC&\c&HFDFAFC&\pos(369.9,467.04)\1a&HFF&\t(477,478,\1a&H00&)}Chapter 7
 Dialogue: 1,0:23:44.74,0:23:50.99,Signs,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs70\bord0\blur0.7\3c&HFFFDF2&\c&H3ABF00&\pos(369.9,467.04)}Chapter 7
 Dialogue: 1,0:23:44.74,0:23:50.99,Signs,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs75\bord6\blur0.7\3c&HFDFAFC&\c&HFDFAFC&\pos(1026.08,750.55)\1a&HFF&\t(477,478,\1a&H00&)}Guy Who Reincarnated as a Fantasy Knockout and a Squid Fire
 Dialogue: 1,0:23:44.74,0:23:50.99,Signs,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs75\bord0\blur0.7\3c&HFFFDF2&\c&H3ABF00&\pos(1026.08,750.55)}Guy Who Reincarnated as a Fantasy Knockout and a Squid Fire
-Dialogue: 0,0:23:46.67,0:23:50.39,Dubtitles,,0,0,0,,young and lively squid squid\Nyoung and lively squid squid
+Dialogue: 0,0:23:46.87,0:23:48.23,Dubtitles,,0,0,0,,Young and Lively Squid!
+Dialogue: 0,0:23:48.41,0:23:49.24,Dubtitles,,0,0,0,,Squid!
+Dialogue: 0,0:23:49.33,0:23:50.17,Dubtitles,,0,0,0,,Young and Lively Squid!
+Dialogue: 0,0:23:50.25,0:23:51.07,Dubtitles,,0,0,0,,Squid!
 

@@ -3304,6 +3304,7 @@ Dialogue: 1,0:22:21.07,0:22:21.57,EDR - Copy,,0,0,0,fx,{\move(0,146,1104.5,128)\
 Dialogue: 1,0:22:21.07,0:22:21.61,EDR - Copy,,0,0,0,fx,{\move(913,88,875,68)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP77
 Dialogue: 1,0:22:21.07,0:22:21.94,EDR - Copy,,0,0,0,fx,{\pos(830,88)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}cho
 Dialogue: 1,0:22:21.07,0:22:21.94,EDR - Copy,,0,0,0,fx,{\pos(830,88)\bord0\fad(0,300)\c&HAAAAAA&}cho
+Dialogue: 0,0:22:21.09,0:22:24.43,Dubtitles,,0,0,0,,It's a man. It's a man.
 Dialogue: 1,0:22:21.19,0:22:21.40,EDR - Copy,,0,0,0,fx,{\pos(1007,88)\bord3\1a&HFF&\3c&HFAF9FF&}chi
 Dialogue: 1,0:22:21.19,0:22:21.40,EDR - Copy,,0,0,0,fx,{\pos(1007,88)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}chi
 Dialogue: 1,0:22:21.19,0:22:21.49,EDR - Copy,,0,0,0,fx,{\move(967.2,138, 917.2, 143)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2chi
@@ -3693,6 +3694,8 @@ Dialogue: 1,0:22:24.82,0:22:26.70,EDR,,0,0,0,fx,{\pos(996.1,10)\bord0\fad(0,300)
 Dialogue: 1,0:22:24.82,0:22:26.82,EDR,,0,0,0,fx,{\move(1053.9,10,1024.9,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP69
 Dialogue: 1,0:22:26.41,0:22:26.70,EDR,,0,0,0,fx,{\pos(1053.9,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}da
 Dialogue: 1,0:22:26.41,0:22:26.70,EDR,,0,0,0,fx,{\pos(1053.9,10)\bord0\fad(0,300)\c&HAAAAAA&}da
+Dialogue: 0,0:22:26.55,0:22:27.53,Dubtitles,,0,0,0,,It's a man.
+Dialogue: 0,0:22:29.13,0:22:30.29,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 1,0:22:29.37,0:22:29.87,EDR,,0,0,0,fx,{\move(0,55,846.2,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0Let's
 Dialogue: 1,0:22:29.54,0:22:30.04,EDR,,0,0,0,fx,{\move(0,102,994.3,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0go!
 Dialogue: 1,0:22:29.58,0:22:29.87,EDR,,0,0,0,fx,{\pos(913,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}Let's
@@ -3752,6 +3755,8 @@ Dialogue: 1,0:22:30.04,0:22:30.58,EDR,,0,0,0,fx,{\move(1034.1,10,1000.1,-10)\fs3
 Dialogue: 1,0:22:30.20,0:22:30.49,EDR,,0,0,0,fx,{\pos(1034.1,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}go!
 Dialogue: 1,0:22:30.20,0:22:30.49,EDR,,0,0,0,fx,{\pos(1034.1,10)\bord0\fad(0,300)\c&HAAAAAA&}go!
 Dialogue: 1,0:22:30.20,0:22:30.62,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
+Dialogue: 0,0:22:32.41,0:22:33.67,Dubtitles,,0,0,0,,Let's go.
+Dialogue: 0,0:22:33.75,0:22:36.01,Dubtitles,,0,0,0,,Let's go. Let's go. Yeah! It's a man.
 Dialogue: 1,0:22:33.79,0:22:34.29,EDR,,0,0,0,fx,{\move(0,22,750.5,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0Fan
 Dialogue: 1,0:22:34.00,0:22:34.29,EDR,,0,0,0,fx,{\pos(793.8,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}Fan
 Dialogue: 2,0:22:34.00,0:22:34.29,EDR,,0,0,0,fx,{\pos(793.8,10)\bord0\fad(300,0)}Fan
@@ -3974,6 +3979,7 @@ Dialogue: 1,0:22:36.00,0:22:36.50,EDR,,0,0,0,fx,{\move(0,23,712.5,50)\p1\fscx100
 Dialogue: 1,0:22:36.00,0:22:36.54,EDR,,0,0,0,fx,{\move(560.8,10,544.8,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP25
 Dialogue: 1,0:22:36.00,0:22:38.79,EDR,,0,0,0,fx,{\pos(504.8,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}fa
 Dialogue: 1,0:22:36.00,0:22:38.79,EDR,,0,0,0,fx,{\pos(504.8,10)\bord0\fad(0,300)\c&HAAAAAA&}fa
+Dialogue: 0,0:22:36.09,0:22:38.37,Dubtitles,,0,0,0,,You'll have to say it.
 Dialogue: 1,0:22:36.17,0:22:36.46,EDR,,0,0,0,fx,{\move(589.7,47, 579.7, 32)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2lous
 Dialogue: 1,0:22:36.17,0:22:36.46,EDR,,0,0,0,fx,{\move(589.7,50, 559.7, 46)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2lous
 Dialogue: 1,0:22:36.17,0:22:36.46,EDR,,0,0,0,fx,{\move(589.7,46, 559.7, 42)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2lous
@@ -4280,6 +4286,7 @@ Dialogue: 1,0:22:38.38,0:22:38.79,EDR,,0,0,0,fx,{\pos(1384.5,10)\bord3\1a&HFF&\f
 Dialogue: 1,0:22:38.38,0:22:38.79,EDR,,0,0,0,fx,{\pos(1384.5,10)\bord0\fad(0,300)\c&HAAAAAA&}ge
 Dialogue: 1,0:22:38.38,0:22:38.88,EDR,,0,0,0,fx,{\move(1427.8,10,1403.8,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP65
 Dialogue: 1,0:22:38.38,0:22:38.88,EDR,,0,0,0,fx,{\move(0,81,764.9,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ta
+Dialogue: 0,0:22:38.45,0:22:40.89,Dubtitles,,0,0,0,,I'm happy.
 Dialogue: 1,0:22:38.46,0:22:38.79,EDR,,0,0,0,fx,{\pos(1427.8,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}n
 Dialogue: 1,0:22:38.46,0:22:38.79,EDR,,0,0,0,fx,{\pos(1427.8,10)\bord0\fad(0,300)\c&HAAAAAA&}n
 Dialogue: 1,0:22:38.54,0:22:38.84,EDR,,0,0,0,fx,{\move(681.8,60, 660.8, 60)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2fan
@@ -4619,6 +4626,7 @@ Dialogue: 1,0:22:40.96,0:22:45.84,EDR,,0,0,0,fx,{\pos(1592.2,10)\bord3\1a&HFF&\f
 Dialogue: 2,0:22:40.96,0:22:45.84,EDR,,0,0,0,fx,{\pos(1592.2,10)\bord0\fad(300,0)}tta
 Dialogue: 1,0:22:40.96,0:22:46.01,EDR,,0,0,0,fx,{\pos(1675.3,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}no
 Dialogue: 2,0:22:40.96,0:22:46.01,EDR,,0,0,0,fx,{\pos(1675.3,10)\bord0\fad(300,0)}no
+Dialogue: 0,0:22:40.97,0:22:42.41,Dubtitles,,0,0,0,,You're satisfied.
 Dialogue: 1,0:22:41.05,0:22:41.38,EDR - Copy,,0,0,0,fx,{\pos(1010.6,88)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}desu
 Dialogue: 1,0:22:41.05,0:22:41.38,EDR - Copy,,0,0,0,fx,{\pos(1010.6,88)\bord0\fad(0,300)\c&HAAAAAA&}desu
 Dialogue: 1,0:22:41.09,0:22:41.59,EDR,,0,0,0,fx,{\move(0,69,353.1,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ness
@@ -4775,6 +4783,7 @@ Dialogue: 1,0:22:42.26,0:22:46.43,EDR,,0,0,0,fx,{\pos(595.1,10)\bord3\1a&HFF&\fa
 Dialogue: 1,0:22:42.26,0:22:46.43,EDR,,0,0,0,fx,{\pos(595.1,10)\bord0\fad(0,300)\c&HAAAAAA&}pi
 Dialogue: 1,0:22:42.30,0:22:42.80,EDR,,0,0,0,fx,{\move(0,72,750.5,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ki
 Dialogue: 1,0:22:42.46,0:22:42.97,EDR,,0,0,0,fx,{\move(0,41,801.1,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ki
+Dialogue: 0,0:22:42.49,0:22:45.41,Dubtitles,,0,0,0,,You can't stop.
 Dialogue: 1,0:22:42.63,0:22:43.13,EDR,,0,0,0,fx,{\move(0,96,851.6,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0te
 Dialogue: 1,0:22:42.80,0:22:42.97,EDR,,0,0,0,fx,{\pos(775.8,10)\bord3\1a&HFF&\3c&HFAF9FF&}ki
 Dialogue: 1,0:22:42.80,0:22:42.97,EDR,,0,0,0,fx,{\pos(775.8,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ki
@@ -6280,6 +6289,7 @@ Dialogue: 1,0:22:53.56,0:22:53.85,EDR,,0,0,0,fx,{\move(1035.9,52, 986.9, 35)\p1\
 Dialogue: 1,0:22:53.56,0:22:54.18,EDR,,0,0,0,fx,{\move(1064.8,10,1056.8,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP93
 Dialogue: 1,0:22:53.56,0:22:54.89,EDR,,0,0,0,fx,{\pos(981.7,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}tte
 Dialogue: 1,0:22:53.56,0:22:54.89,EDR,,0,0,0,fx,{\pos(981.7,10)\bord0\fad(0,300)\c&HAAAAAA&}tte
+Dialogue: 0,0:22:53.59,0:22:55.11,Dubtitles,,0,0,0,,Thank you
 Dialogue: 1,0:22:53.64,0:22:54.14,EDR,,0,0,0,fx,{\move(0,101,1281.5,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0pas
 Dialogue: 1,0:22:53.81,0:22:53.98,EDR,,0,0,0,fx,{\pos(1146,10)\bord3\1a&HFF&\3c&HFAF9FF&}tive
 Dialogue: 1,0:22:53.81,0:22:53.98,EDR,,0,0,0,fx,{\pos(1146,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}tive
@@ -6505,6 +6515,7 @@ Dialogue: 1,0:22:55.14,0:22:55.64,EDR,,0,0,0,fx,{\move(0,123,967.2,50)\p1\fscx10
 Dialogue: 1,0:22:55.14,0:22:55.69,EDR,,0,0,0,fx,{\move(866.1,10,903.1,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP44
 Dialogue: 1,0:22:55.14,0:22:57.52,EDR,,0,0,0,fx,{\pos(797.4,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}ki
 Dialogue: 1,0:22:55.14,0:22:57.52,EDR,,0,0,0,fx,{\pos(797.4,10)\bord0\fad(0,300)\c&HAAAAAA&}ki
+Dialogue: 0,0:22:55.19,0:23:02.19,Dubtitles,,0,0,0,,so
 Dialogue: 1,0:22:55.27,0:22:55.60,EDR,,0,0,0,fx,{\move(909.4,53, 896.4, 65)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2su
 Dialogue: 1,0:22:55.27,0:22:55.60,EDR,,0,0,0,fx,{\move(909.4,49, 882.4, 69)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2su
 Dialogue: 1,0:22:55.27,0:22:55.60,EDR,,0,0,0,fx,{\move(909.4,60, 885.4, 51)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2su
@@ -8545,6 +8556,7 @@ Dialogue: 1,0:23:13.62,0:23:13.91,EDR,,0,0,0,fx,{\move(830,40, 816, 47)\p1\bord0
 Dialogue: 1,0:23:13.62,0:23:14.20,EDR,,0,0,0,fx,{\move(858.9,10,843.9,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP44
 Dialogue: 1,0:23:13.62,0:23:15.16,EDR,,0,0,0,fx,{\pos(788.4,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}mi
 Dialogue: 1,0:23:13.62,0:23:15.16,EDR,,0,0,0,fx,{\pos(788.4,10)\bord0\fad(0,300)\c&HAAAAAA&}mi
+Dialogue: 0,0:23:13.67,0:23:14.77,Dubtitles,,0,0,0,,much.
 Dialogue: 1,0:23:13.79,0:23:14.04,EDR,,0,0,0,fx,{\pos(931.1,10)\bord3\1a&HFF&\3c&HFAF9FF&}se
 Dialogue: 1,0:23:13.79,0:23:14.04,EDR,,0,0,0,fx,{\pos(931.1,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}se
 Dialogue: 1,0:23:13.79,0:23:14.08,EDR,,0,0,0,fx,{\move(902.2,58, 867.2, 58)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2se
@@ -11449,16 +11461,15 @@ Dialogue: 1,0:23:33.47,0:23:34.14,EDR,,0,0,0,fx,{\move(1252.6,10,1250.6,-10)\fs3
 Dialogue: 1,0:23:33.72,0:23:34.02,EDR,,0,0,0,fx,{\pos(1252.6,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}to
 Dialogue: 1,0:23:33.72,0:23:34.02,EDR,,0,0,0,fx,{\pos(1252.6,10)\bord0\fad(0,300)\c&HAAAAAA&}to
 Dialogue: 1,0:23:33.72,0:23:34.10,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
-Dialogue: 0,0:23:36.35,0:23:38.49,Dubtitles,,0,0,0,,So what was your end goal, really?
-Dialogue: 0,0:23:38.75,0:23:40.81,Dubtitles,,0,0,0,,I just wanted to squeeze a cute girl,
-Dialogue: 0,0:23:40.89,0:23:43.97,Dubtitles,,0,0,0,,is all And now you understand that's super\Nnot cool and the reason you got punished?
-Dialogue: 0,0:23:44.05,0:23:44.88,Dubtitles,,0,0,0,,Yes.
+Dialogue: 0,0:23:36.31,0:23:38.49,Dubtitles,,0,0,0,,So what was your end goal, really?
+Dialogue: 0,0:23:38.75,0:23:41.25,Dubtitles,,0,0,0,,I just wanted to squeeze\Na cute girl, is all.
+Dialogue: 0,0:23:41.33,0:23:44.37,Dubtitles,,0,0,0,,And now you understand that's super not\Ncool and the reason you got punished?
+Dialogue: 0,0:23:44.45,0:23:45.28,Dubtitles,,0,0,0,,Yes.
 Dialogue: 1,0:23:44.78,0:23:50.95,Next Ep,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs70\bord5\blur0.7\3c&HFDFAFC&\c&HFDFAFC&\1a&HFF&\t(477,478,\1a&H00&)\pos(428.57,401.04)}Chapter 8
 Dialogue: 1,0:23:44.78,0:23:50.95,Next Ep,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs70\bord0\blur0.7\3c&HFFFDF2&\c&H005AFF&\pos(428.57,401.04)}Chapter 8
 Dialogue: 1,0:23:44.78,0:23:50.95,Signs,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs75\bord6\blur0.7\3c&HFDFAFC&\c&HFDFAFC&\pos(1026.08,750.55)\1a&HFF&\t(477,478,\1a&H00&)}Guy Who Reincarnated as a \NFantasy Knockout and a Choice
 Dialogue: 1,0:23:44.78,0:23:50.95,Signs,text,0,0,0,,{\fad(474,0)\fnFree Pixel\b1\fs75\bord0\blur0.7\3c&HFFFDF2&\c&H005AFF&\pos(1026.08,750.55)}Guy Who Reincarnated as a \NFantasy Knockout and a Choice
-Dialogue: 0,0:23:45.29,0:23:46.49,Dubtitles,,0,0,0,,So have you learned your lesson?
-Dialogue: 0,0:23:46.57,0:23:47.40,Dubtitles,,0,0,0,,Yes.
-Dialogue: 0,0:23:47.49,0:23:49.41,Dubtitles,,0,0,0,,I didn't know there was any squid luck.
-Dialogue: 0,0:23:49.49,0:23:50.33,Dubtitles,,0,0,0,,Oh, good.
+Dialogue: 0,0:23:45.37,0:23:46.71,Dubtitles,,0,0,0,,So have you learned your lesson?
+Dialogue: 0,0:23:46.79,0:23:49.09,Dubtitles,,0,0,0,,I didn't know there was any squid left.
+Dialogue: 0,0:23:49.21,0:23:50.53,Dubtitles,,0,0,0,,You're so good.
 

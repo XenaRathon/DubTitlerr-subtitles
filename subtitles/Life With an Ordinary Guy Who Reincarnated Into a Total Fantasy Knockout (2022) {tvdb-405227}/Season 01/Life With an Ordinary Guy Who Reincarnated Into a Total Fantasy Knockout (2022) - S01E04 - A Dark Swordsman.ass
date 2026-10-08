@@ -563,6 +563,7 @@ Dialogue: 2,0:00:30.10,0:00:31.48,OPR,,0,0,0,fx,{\pos(1350,80)\c&HE9AFFB&\fad(0,
 Dialogue: 2,0:00:30.62,0:00:30.98,OPR,,0,0,0,fx,{\pos(1500,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:00:30.62,0:00:30.98,OPR,,0,0,0,fx,{\pos(1500,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
 Dialogue: 2,0:00:30.62,0:00:31.48,OPR,,0,0,0,fx,{\pos(1424,80)\c&HE9AFFB&\fad(0,300)}ja
+Dialogue: 0,0:00:30.79,0:00:31.62,Dubtitles,,0,0,0,,I'll
 Dialogue: 2,0:00:30.98,0:00:31.18,OPR,,0,0,0,fx,{\pos(1543,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
 Dialogue: 3,0:00:30.98,0:00:31.18,OPR,,0,0,0,fx,{\pos(1543,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}i
 Dialogue: 2,0:00:30.98,0:00:31.48,OPR,,0,0,0,fx,{\pos(1500,80)\c&HE9AFFB&\fad(0,300)}na
@@ -593,10 +594,10 @@ Dialogue: 3,0:00:31.30,0:00:31.48,OPR,,0,0,0,fx,{\pos(316,80)\fscx140\fscy140\al
 Dialogue: 2,0:00:31.48,0:00:31.65,OPR,,0,0,0,fx,{\pos(350,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}o
 Dialogue: 3,0:00:31.48,0:00:31.65,OPR,,0,0,0,fx,{\pos(350,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}o
 Dialogue: 2,0:00:31.48,0:00:36.52,OPR,,0,0,0,fx,{\pos(316,80)\c&HE9AFFB&\fad(0,300)}a
-Dialogue: 0,0:00:31.57,0:00:32.49,Dubtitles,,0,0,0,,See.
 Dialogue: 2,0:00:31.65,0:00:31.82,OPR,,0,0,0,fx,{\pos(399,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}zo
 Dialogue: 3,0:00:31.65,0:00:31.82,OPR,,0,0,0,fx,{\pos(399,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}zo
 Dialogue: 2,0:00:31.65,0:00:36.52,OPR,,0,0,0,fx,{\pos(350,80)\c&HE9AFFB&\fad(0,300)}o
+Dialogue: 0,0:00:31.71,0:00:32.54,Dubtitles,,0,0,0,,see
 Dialogue: 2,0:00:31.82,0:00:31.99,OPR,,0,0,0,fx,{\pos(459,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ra
 Dialogue: 3,0:00:31.82,0:00:31.99,OPR,,0,0,0,fx,{\pos(459,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ra
 Dialogue: 2,0:00:31.82,0:00:36.52,OPR,,0,0,0,fx,{\pos(399,80)\c&HE9AFFB&\fad(0,300)}zo
@@ -609,7 +610,7 @@ Dialogue: 2,0:00:32.36,0:00:36.52,OPR,,0,0,0,fx,{\pos(538,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:00:32.54,0:00:32.67,OPR,,0,0,0,fx,{\pos(712,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}bu
 Dialogue: 3,0:00:32.54,0:00:32.67,OPR,,0,0,0,fx,{\pos(712,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}bu
 Dialogue: 2,0:00:32.54,0:00:36.52,OPR,,0,0,0,fx,{\pos(632,80)\c&HE9AFFB&\fad(0,300)}ma
-Dialogue: 0,0:00:32.57,0:00:39.57,Dubtitles,,0,0,0,,you
+Dialogue: 0,0:00:32.62,0:00:39.57,Dubtitles,,0,0,0,,you
 Dialogue: 2,0:00:32.67,0:00:33.07,OPR,,0,0,0,fx,{\pos(788,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}shi
 Dialogue: 3,0:00:32.67,0:00:33.07,OPR,,0,0,0,fx,{\pos(788,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}shi
 Dialogue: 2,0:00:32.67,0:00:36.52,OPR,,0,0,0,fx,{\pos(712,80)\c&HE9AFFB&\fad(0,300)}bu
@@ -1816,14 +1817,14 @@ Dialogue: 0,0:12:26.21,0:12:27.10,Dubtitles,,0,0,0,,How's it going?
 Dialogue: 0,0:12:28.45,0:12:30.87,Dubtitles,,0,0,0,,Audrey, tell me, are you from this world?
 Dialogue: 0,0:12:31.01,0:12:32.17,Dubtitles,,0,0,0,,No, not exactly.
 Dialogue: 0,0:12:34.05,0:12:36.05,Dubtitles,,0,0,0,,Let's see, how can I explain this?
-Dialogue: 0,0:12:41.17,0:12:43.93,Dubtitles,,0,0,0,,I'm so sorry for staring\Nat your face like that.
-Dialogue: 0,0:12:44.01,0:12:47.29,Dubtitles,,0,0,0,,To be able to extricate yourself\Nfrom that state on your own,
-Dialogue: 0,0:12:47.37,0:12:49.37,Dubtitles,,0,0,0,,you certainly aren't the average person.
-Dialogue: 0,0:12:49.45,0:12:52.07,Dubtitles,,0,0,0,,That's the standard you\Nwant to judge him by?
-Dialogue: 0,0:12:52.15,0:12:54.29,Dubtitles,,0,0,0,,Um, I have a question for you.
-Dialogue: 0,0:12:54.95,0:12:55.78,Dubtitles,,0,0,0,,Uh-huh.
-Dialogue: 0,0:12:56.71,0:12:59.79,Dubtitles,,0,0,0,,Are you two, like, a couple? Or what?
-Dialogue: 0,0:13:04.89,0:13:05.72,Dubtitles,,0,0,0,,What happened?
+Dialogue: 0,0:12:39.63,0:12:43.79,Dubtitles,,0,0,0,,Ah, I'm so sorry for staring\Nat your face like that!
+Dialogue: 0,0:12:44.09,0:12:47.33,Dubtitles,,0,0,0,,To be able to extricate yourself\Nfrom that state on your own,
+Dialogue: 0,0:12:47.41,0:12:49.37,Dubtitles,,0,0,0,,you certainly aren't the average person.
+Dialogue: 0,0:12:49.45,0:12:52.05,Dubtitles,,0,0,0,,That's the standard you\Nwant to judge him by?
+Dialogue: 0,0:12:52.13,0:12:54.31,Dubtitles,,0,0,0,,Um, I have a question for you.
+Dialogue: 0,0:12:54.95,0:12:55.78,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:12:56.53,0:12:59.79,Dubtitles,,0,0,0,,Are you two, like, a couple? Or what?
+Dialogue: 0,0:13:04.87,0:13:05.70,Dubtitles,,0,0,0,,What happened?
 Dialogue: 0,0:13:05.99,0:13:07.52,Dubtitles,,0,0,0,,Did I ask something weird?
 Dialogue: 0,0:13:08.03,0:13:09.01,Dubtitles,,0,0,0,,Oh, wait.
 Dialogue: 0,0:13:09.55,0:13:11.99,Dubtitles,,0,0,0,,Yeah, she's obviously\Nmuch younger than him.

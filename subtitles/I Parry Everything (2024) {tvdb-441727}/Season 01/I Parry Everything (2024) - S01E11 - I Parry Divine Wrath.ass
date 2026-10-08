@@ -21,8 +21,9 @@ Style: Dubtitles,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.45,0:00:23.85,Dubtitles,,0,0,0,,I am vexing!
-Dialogue: 0,0:00:24.13,0:00:26.27,Dubtitles,,0,0,0,,This is absolutely vexing!
+Dialogue: 0,0:00:00.01,0:00:03.13,Dubtitles,,0,0,0,,Ah, ah, ah, ah.
+Dialogue: 0,0:00:22.97,0:00:23.81,Dubtitles,,0,0,0,,Infuriating!
+Dialogue: 0,0:00:24.15,0:00:26.27,Dubtitles,,0,0,0,,This is absolutely vexing.
 Dialogue: 0,0:00:33.57,0:00:35.41,Dubtitles,,0,0,0,,Majesty, you're covered in filth.
 Dialogue: 0,0:00:35.49,0:00:36.32,Dubtitles,,0,0,0,,What happened to you?
 Dialogue: 0,0:00:36.40,0:00:38.45,Dubtitles,,0,0,0,,Moreover, where are all the others?
@@ -424,9 +425,9 @@ Dialogue: 0,0:22:36.65,0:22:37.48,Dubtitles,,0,0,0,,I do?
 Dialogue: 0,0:22:38.17,0:22:39.00,Dubtitles,,0,0,0,,What can I do?
 Dialogue: 0,0:22:39.51,0:22:40.34,Dubtitles,,0,0,0,,What can I do?
 Dialogue: 0,0:22:40.73,0:22:43.85,Dubtitles,,0,0,0,,I have left my heart.\NI have left my heart.
-Dialogue: 0,0:23:12.43,0:23:13.77,Dubtitles,,0,0,0,,Oh?
-Dialogue: 0,0:23:13.85,0:23:16.35,Dubtitles,,0,0,0,,Thank
-Dialogue: 0,0:23:16.43,0:23:23.43,Dubtitles,,0,0,0,,you
+Dialogue: 0,0:23:10.63,0:23:13.51,Dubtitles,,0,0,0,,In a way.
+Dialogue: 0,0:23:22.45,0:23:23.77,Dubtitles,,0,0,0,,Thank
+Dialogue: 0,0:23:23.85,0:23:25.17,Dubtitles,,0,0,0,,you
 Dialogue: 0,0:23:25.25,0:23:32.25,Dubtitles,,0,0,0,,so
 Dialogue: 0,0:23:39.75,0:23:40.81,Dubtitles,,0,0,0,,much for watching.
 

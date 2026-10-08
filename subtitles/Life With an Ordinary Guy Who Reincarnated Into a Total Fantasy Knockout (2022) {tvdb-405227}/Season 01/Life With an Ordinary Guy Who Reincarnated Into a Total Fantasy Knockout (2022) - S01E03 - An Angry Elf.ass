@@ -95,13 +95,14 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:30.97,0:00:34.47,Dubtitles,,0,0,0,,The sun is shining. and the sun is shining
-Dialogue: 0,0:00:34.55,0:00:37.95,Dubtitles,,0,0,0,,And the sun is shining.\NAnd the sun is shining.
+Dialogue: 0,0:00:31.57,0:00:32.40,Dubtitles,,0,0,0,,no, no
+Dialogue: 0,0:00:32.49,0:00:39.39,Dubtitles,,0,0,0,,no,
 Dialogue: 1,0:00:36.52,0:00:42.44,EDR,,0,0,0,fx,{\pos(960,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}-----
 Dialogue: 2,0:00:42.44,0:00:48.36,EDR,,0,0,0,fx,{\pos(960,10)\bord0\fad(300,0)}-----
-Dialogue: 0,0:00:46.23,0:00:50.79,Dubtitles,,0,0,0,,Let's live this real, real life.
+Dialogue: 0,0:00:44.41,0:00:45.24,Dubtitles,,0,0,0,,no,
+Dialogue: 0,0:00:45.33,0:00:46.23,Dubtitles,,0,0,0,,no, no, no,
+Dialogue: 0,0:00:46.37,0:00:53.37,Dubtitles,,0,0,0,,no.
 Dialogue: 1,0:00:48.36,0:00:54.28,EDR,,0,0,0,fx,{\pos(960,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}-----
-Dialogue: 0,0:00:52.17,0:00:54.87,Dubtitles,,0,0,0,,I love you. I love you.
 Dialogue: 1,0:00:54.28,0:01:00.20,EDR,,0,0,0,fx,{\pos(960,10)\bord0\fad(0,300)\c&HAAAAAA&}-----
 Dialogue: 1,0:01:00.20,0:01:06.12,EDR,,0,0,0,fx,{\pos(960,10)\bord3\1a&HFF&\3c&HFAF9FF&}-----
 Dialogue: 2,0:01:06.12,0:01:06.20,OPR,,0,0,0,fx,{\pos(773,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
@@ -1170,6 +1171,7 @@ Dialogue: 3,0:01:20.18,0:01:20.48,OPR,,0,0,0,fx,{\pos(442,80)\fscx140\fscy140\al
 Dialogue: 2,0:01:20.48,0:01:20.73,OPR,,0,0,0,fx,{\pos(519,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}yo
 Dialogue: 3,0:01:20.48,0:01:20.73,OPR,,0,0,0,fx,{\pos(519,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}yo
 Dialogue: 2,0:01:20.48,0:01:28.15,OPR,,0,0,0,fx,{\pos(442,80)\c&HE9AFFB&\fad(0,300)}ma
+Dialogue: 0,0:01:20.61,0:01:23.33,Dubtitles,,0,0,0,,See you
 Dialogue: 2,0:01:20.73,0:01:21.02,OPR,,0,0,0,fx,{\pos(563,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}t
 Dialogue: 3,0:01:20.73,0:01:21.02,OPR,,0,0,0,fx,{\pos(563,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}t
 Dialogue: 2,0:01:20.73,0:01:28.15,OPR,,0,0,0,fx,{\pos(519,80)\c&HE9AFFB&\fad(0,300)}yo
@@ -1179,7 +1181,6 @@ Dialogue: 2,0:01:21.02,0:01:28.15,OPR,,0,0,0,fx,{\pos(563,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:01:21.52,0:01:21.85,OPR,,0,0,0,fx,{\pos(681,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:01:21.52,0:01:21.85,OPR,,0,0,0,fx,{\pos(681,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
 Dialogue: 2,0:01:21.52,0:01:28.15,OPR,,0,0,0,fx,{\pos(602,80)\c&HE9AFFB&\fad(0,300)}te
-Dialogue: 0,0:01:21.65,0:01:25.18,Dubtitles,,0,0,0,,I'm not going to talk to you.\NI'm not going to talk to you.!
 Dialogue: 2,0:01:21.85,0:01:22.10,OPR,,0,0,0,fx,{\pos(747,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}ya
 Dialogue: 3,0:01:21.85,0:01:22.10,OPR,,0,0,0,fx,{\pos(747,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}ya
 Dialogue: 2,0:01:21.85,0:01:28.15,OPR,,0,0,0,fx,{\pos(681,80)\c&HE9AFFB&\fad(0,300)}na
@@ -1198,6 +1199,7 @@ Dialogue: 2,0:01:23.23,0:01:28.15,OPR,,0,0,0,fx,{\pos(942,80)\c&HE9AFFB&\fad(0,3
 Dialogue: 2,0:01:23.40,0:01:23.73,OPR,,0,0,0,fx,{\pos(1047,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}i
 Dialogue: 3,0:01:23.40,0:01:23.73,OPR,,0,0,0,fx,{\pos(1047,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}i
 Dialogue: 2,0:01:23.40,0:01:28.15,OPR,,0,0,0,fx,{\pos(1011,80)\c&HE9AFFB&\fad(0,300)}ra
+Dialogue: 0,0:01:23.41,0:01:30.41,Dubtitles,,0,0,0,,next
 Dialogue: 2,0:01:23.73,0:01:24.06,OPR,,0,0,0,fx,{\pos(1090,80)\fscx140\fscy140\t(\fscx100\fscy100)\c&HE9AFFB&}na
 Dialogue: 3,0:01:23.73,0:01:24.06,OPR,,0,0,0,fx,{\pos(1090,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}na
 Dialogue: 2,0:01:23.73,0:01:28.15,OPR,,0,0,0,fx,{\pos(1047,80)\c&HE9AFFB&\fad(0,300)}i
@@ -1220,6 +1222,9 @@ Dialogue: 2,0:01:25.23,0:01:27.86,OPR,,0,0,0,fx,{\pos(1503,80)\fscx140\fscy140\t
 Dialogue: 3,0:01:25.23,0:01:27.86,OPR,,0,0,0,fx,{\pos(1503,80)\fscx140\fscy140\alpha&H11&\t(\fscx190\fscy190\alpha&HFF&)\c&HE9AFFB&\bord0}u
 Dialogue: 2,0:01:25.23,0:01:28.15,OPR,,0,0,0,fx,{\pos(1440,80)\c&HE9AFFB&\fad(0,300)}mo
 Dialogue: 2,0:01:27.86,0:01:28.15,OPR,,0,0,0,fx,{\pos(1503,80)\c&HE9AFFB&\fad(0,300)}u
+Dialogue: 0,0:01:30.63,0:01:31.46,Dubtitles,,0,0,0,,time.
+Dialogue: 0,0:01:31.75,0:01:33.95,Dubtitles,,0,0,0,,Did you really beat that thing, mister?
+Dialogue: 0,0:01:34.03,0:01:35.55,Dubtitles,,0,0,0,,Yes, with one punch.
 Dialogue: 1,0:01:34.69,0:01:34.74,Signs,Track,0,0,0,,{=35}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&H191415&\pos(820.86,241.81)\clip(563.11,230.22,845.33,287.11)}m 0 0 b 12 -2 10 4 10 18 b 10 38 10 58 10 78 b 12 84 5 84 2 84 b -80 84 -163 84 -245 84 b -248 84 -251 83 -251 79 b -251 54 -250 30 -250 5 b -250 2 -248 0 -245 1
 Dialogue: 2,0:01:34.69,0:01:34.74,Signs,Track,0,0,0,,{=34}{\fscx100\fscy100\an7\fnFree Pixel\b1\blur5\fs40\c&HEDEBEB&\frz-0.11\fax0.01\clip(563.11,230.22,845.33,287.11)\pos(591.97,242.99)\alpha&HB0&}Huntsman {\fs30}LV1 \N{\fs40}Acquired
 Dialogue: 3,0:01:34.69,0:01:34.74,Signs,Track,0,0,0,,{=33}{\fscx100\fscy100\alpha&H00&\an7\fnFree Pixel\b1\blur0.7\fs40\c&HEDEBEB&\frz-0.11\fax0.01\clip(563.11,230.22,845.33,287.11)\pos(591.97,242.99)}Huntsman {\fs30}LV1 \N{\fs40}Acquired
@@ -1304,6 +1309,7 @@ Dialogue: 3,0:01:35.78,0:01:35.82,Signs,Track,0,0,0,,{=33}{\fscx100\fscy100\alph
 Dialogue: 1,0:01:35.82,0:01:35.86,Signs,Track,0,0,0,,{=35}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&H191415&\pos(820.85,273.76)}m 0 0 b 12 -2 10 4 10 18 b 10 38 10 58 10 78 b 12 84 5 84 2 84 b -80 84 -163 84 -245 84 b -248 84 -251 83 -251 79 b -251 54 -250 30 -250 5 b -250 2 -248 0 -245 1
 Dialogue: 2,0:01:35.82,0:01:35.86,Signs,Track,0,0,0,,{=34}{\fscx100\fscy100\an7\fnFree Pixel\b1\blur5\fs40\c&HEDEBEB&\frz-0.11\fax0.01\pos(591.96,274.94)\alpha&HB0&}Huntsman {\fs30}LV1 \N{\fs40}Acquired
 Dialogue: 3,0:01:35.82,0:01:35.86,Signs,Track,0,0,0,,{=33}{\fscx100\fscy100\alpha&H00&\an7\fnFree Pixel\b1\blur0.7\fs40\c&HEDEBEB&\frz-0.11\fax0.01\pos(591.96,274.94)}Huntsman {\fs30}LV1 \N{\fs40}Acquired
+Dialogue: 0,0:01:35.83,0:01:37.29,Dubtitles,,0,0,0,,Wow, that's insane.
 Dialogue: 1,0:01:35.86,0:01:35.90,Signs,Track,0,0,0,,{=35}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&H191415&\pos(820.85,274.92)}m 0 0 b 12 -2 10 4 10 18 b 10 38 10 58 10 78 b 12 84 5 84 2 84 b -80 84 -163 84 -245 84 b -248 84 -251 83 -251 79 b -251 54 -250 30 -250 5 b -250 2 -248 0 -245 1
 Dialogue: 2,0:01:35.86,0:01:35.90,Signs,Track,0,0,0,,{=34}{\fscx100\fscy100\an7\fnFree Pixel\b1\blur5\fs40\c&HEDEBEB&\frz-0.11\fax0.01\pos(591.96,276.1)\alpha&HB0&}Huntsman {\fs30}LV1 \N{\fs40}Acquired
 Dialogue: 3,0:01:35.86,0:01:35.90,Signs,Track,0,0,0,,{=33}{\fscx100\fscy100\alpha&H00&\an7\fnFree Pixel\b1\blur0.7\fs40\c&HEDEBEB&\frz-0.11\fax0.01\pos(591.96,276.1)}Huntsman {\fs30}LV1 \N{\fs40}Acquired
@@ -1421,21 +1427,26 @@ Dialogue: 3,0:01:37.40,0:01:37.45,Signs,Track,0,0,0,,{=33}{\fscx100\fscy100\alph
 Dialogue: 1,0:01:37.45,0:01:37.49,Signs,Track,0,0,0,,{=35}{\frz0\alpha&H00&\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&H191415&\pos(820.85,319.62)}m 0 0 b 12 -2 10 4 10 18 b 10 38 10 58 10 78 b 12 84 5 84 2 84 b -80 84 -163 84 -245 84 b -248 84 -251 83 -251 79 b -251 54 -250 30 -250 5 b -250 2 -248 0 -245 1
 Dialogue: 2,0:01:37.45,0:01:37.49,Signs,Track,0,0,0,,{=34}{\fscx100\fscy100\an7\fnFree Pixel\b1\blur5\fs40\c&HEDEBEB&\frz-0.11\fax0.01\pos(591.96,320.8)\alpha&HB0&}Huntsman {\fs30}LV1 \N{\fs40}Acquired
 Dialogue: 3,0:01:37.45,0:01:37.49,Signs,Track,0,0,0,,{=33}{\fscx100\fscy100\alpha&H00&\an7\fnFree Pixel\b1\blur0.7\fs40\c&HEDEBEB&\frz-0.11\fax0.01\pos(591.96,320.8)}Huntsman {\fs30}LV1 \N{\fs40}Acquired
-Dialogue: 0,0:01:51.25,0:01:52.08,Dubtitles,,0,0,0,,That's...
-Dialogue: 0,0:01:52.17,0:01:53.41,Dubtitles,,0,0,0,,Oh, do you recognize it, Chief?
-Dialogue: 0,0:01:53.49,0:01:55.91,Dubtitles,,0,0,0,,That's the guardian deity of this forest.
-Dialogue: 0,0:01:56.25,0:01:57.23,Dubtitles,,0,0,0,,Guardian deity?
-Dialogue: 0,0:01:57.73,0:01:59.50,Dubtitles,,0,0,0,,So is it bad that I killed it?
-Dialogue: 0,0:02:00.01,0:02:01.91,Dubtitles,,0,0,0,,Oh, no need to worry about that.
-Dialogue: 0,0:02:02.05,0:02:03.63,Dubtitles,,0,0,0,,It's not like it's one of ours.
-Dialogue: 0,0:02:03.71,0:02:05.47,Dubtitles,,0,0,0,,Please don't think anything of it.
-Dialogue: 0,0:02:05.55,0:02:07.47,Dubtitles,,0,0,0,,I doubt it's as simple as that.
-Dialogue: 0,0:02:07.77,0:02:09.83,Dubtitles,,0,0,0,,Hey, mister, where's the goddess at?
-Dialogue: 0,0:02:09.91,0:02:11.33,Dubtitles,,0,0,0,,Oh, still fast asleep.
-Dialogue: 0,0:02:12.09,0:02:14.15,Dubtitles,,0,0,0,,Though it is about time to wake up.
-Dialogue: 0,0:02:15.35,0:02:16.75,Dubtitles,,0,0,0,,You up, Tachibana?
-Dialogue: 0,0:02:20.79,0:02:22.25,Dubtitles,,0,0,0,,Oh, hey, good morning.
-Dialogue: 0,0:02:22.71,0:02:26.24,Dubtitles,,0,0,0,,I swear, my hair is so annoying,\Nit's taking forever to dry.
+Dialogue: 0,0:01:37.87,0:01:40.63,Dubtitles,,0,0,0,,Not too bad for your first\Ntime skinning an animal.
+Dialogue: 0,0:01:40.71,0:01:42.25,Dubtitles,,0,0,0,,Well, you're a great teacher.
+Dialogue: 0,0:01:42.33,0:01:45.89,Dubtitles,,0,0,0,,Do you think it might be worth\Nanything if I brought it to a big town?
+Dialogue: 0,0:01:45.97,0:01:47.49,Dubtitles,,0,0,0,,Probably, but I'm not sure.
+Dialogue: 0,0:01:47.57,0:01:50.22,Dubtitles,,0,0,0,,I've never seen a beast\Nlike this one before.
+Dialogue: 0,0:01:50.83,0:01:51.71,Dubtitles,,0,0,0,,Huh, that's...
+Dialogue: 0,0:01:51.79,0:01:53.43,Dubtitles,,0,0,0,,Oh, do you recognize it, Chief?
+Dialogue: 0,0:01:53.51,0:01:55.93,Dubtitles,,0,0,0,,That's the guardian deity of this forest.
+Dialogue: 0,0:01:56.31,0:01:57.27,Dubtitles,,0,0,0,,Guardian deity?
+Dialogue: 0,0:01:57.77,0:01:59.54,Dubtitles,,0,0,0,,So is it bad that I killed it?
+Dialogue: 0,0:01:59.93,0:02:01.93,Dubtitles,,0,0,0,,Oh, no need to worry about that.
+Dialogue: 0,0:02:02.09,0:02:03.61,Dubtitles,,0,0,0,,It's not like it's one of ours.
+Dialogue: 0,0:02:03.69,0:02:05.53,Dubtitles,,0,0,0,,Please don't think anything of it.
+Dialogue: 0,0:02:05.61,0:02:07.45,Dubtitles,,0,0,0,,I doubt it's as simple as that.
+Dialogue: 0,0:02:07.73,0:02:09.85,Dubtitles,,0,0,0,,Hey, mister, where's the goddess at?
+Dialogue: 0,0:02:09.93,0:02:11.33,Dubtitles,,0,0,0,,Oh, still fast asleep.
+Dialogue: 0,0:02:12.05,0:02:14.11,Dubtitles,,0,0,0,,Though it is about time to wake up.
+Dialogue: 0,0:02:15.39,0:02:16.75,Dubtitles,,0,0,0,,You up, Tachibana?
+Dialogue: 0,0:02:20.87,0:02:22.21,Dubtitles,,0,0,0,,Oh, hey, good morning.
+Dialogue: 0,0:02:22.81,0:02:26.29,Dubtitles,,0,0,0,,I swear, my hair is so annoying\Nit's taking forever to dry.
 Dialogue: 1,0:02:30.50,0:02:35.50,Signs,text; top,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H0B0A0A&}m 275 315 l 543 315 543 401 275 401
 Dialogue: 1,0:02:30.50,0:02:35.50,Signs,text; top,0,0,0,,{\c&HF5F5F5&\fnFree Pixel\\fs70\b1\blur0.7\pos(405,393)}Chapter 3
 Dialogue: 1,0:02:31.30,0:02:31.34,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(330.67,503.66)\p1\clip(288.91,474.18,1598,537.45)\c&H0B0A0A&}m -20 14 l 1171 14 1171 119 -20 119
@@ -1446,44 +1457,43 @@ Dialogue: 2,0:02:31.34,0:02:31.38,Signs,text,0,0,0,,{\an7\c&HF5F5F5&\fnFree Pixe
 Dialogue: 1,0:02:31.38,0:02:35.50,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(330.67,503.66)\p1\c&H0B0A0A&}m -20 14 l 1171 14 1171 119 -20 119
 Dialogue: 1,0:02:31.38,0:02:35.50,Signs,text,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(330.67,491.66)\p1\c&H0A0A0A&}m 1151 23 l 1280 23 1280 126 1151 126
 Dialogue: 2,0:02:31.38,0:02:35.50,Signs,text,0,0,0,,{\an7\c&HF5F5F5&\fnFree Pixel\\fs75\b1\blur0.7\pos(330.67,491.66)}A Guy Who Reincarnated as a \NFantasy Knockout and an Angry Elf
-Dialogue: 0,0:02:37.49,0:02:38.32,Dubtitles,,0,0,0,,Sorry.
-Dialogue: 0,0:02:38.41,0:02:40.37,Dubtitles,,0,0,0,,I promise I'll be more careful next time.
-Dialogue: 0,0:02:40.45,0:02:41.28,Dubtitles,,0,0,0,,Appreciate it.
-Dialogue: 0,0:02:41.51,0:02:45.51,Dubtitles,,0,0,0,,It's bad enough the first naked female\Nbody I've seen happen to be yours.
-Dialogue: 0,0:02:45.59,0:02:47.23,Dubtitles,,0,0,0,,Not too thrilled about that.
-Dialogue: 0,0:02:47.31,0:02:49.35,Dubtitles,,0,0,0,,I can't believe I'm\Nyour first naked woman.
-Dialogue: 0,0:02:49.43,0:02:51.27,Dubtitles,,0,0,0,,It's as sad as it is weird.
-Dialogue: 0,0:02:51.93,0:02:53.85,Dubtitles,,0,0,0,,Might as well get used to seeing it,
-Dialogue: 0,0:02:53.93,0:02:56.59,Dubtitles,,0,0,0,,since we'll be sharing a bathroom\Nfor however long we're here.
-Dialogue: 0,0:02:56.67,0:02:59.03,Dubtitles,,0,0,0,,You could be careful so I don't have to.
-Dialogue: 0,0:02:59.79,0:03:00.67,Dubtitles,,0,0,0,,This sucks.
-Dialogue: 0,0:03:00.93,0:03:03.55,Dubtitles,,0,0,0,,I was actually kind of\Nlooking forward to, you know,
-Dialogue: 0,0:03:03.63,0:03:06.52,Dubtitles,,0,0,0,,getting some one-on-one\Nbath time with this body.
-Dialogue: 0,0:03:06.97,0:03:10.86,Dubtitles,,0,0,0,,But I saw just how much freaking\Nyounger it is than my actual age.
-Dialogue: 0,0:03:11.11,0:03:13.33,Dubtitles,,0,0,0,,And I kind of look like my little sister.
-Dialogue: 0,0:03:13.41,0:03:16.21,Dubtitles,,0,0,0,,So, yeah, it's happening.
-Dialogue: 0,0:03:16.57,0:03:18.40,Dubtitles,,0,0,0,,Well, it can't be all that bad.
-Dialogue: 0,0:03:19.99,0:03:21.19,Dubtitles,,0,0,0,,Uh, what is it?
-Dialogue: 0,0:03:22.03,0:03:25.71,Dubtitles,,0,0,0,,Yunguji, please don't tell me you've\Ngot a thing for childlike blondes.
-Dialogue: 0,0:03:25.79,0:03:26.77,Dubtitles,,0,0,0,,I will hit you.
+Dialogue: 0,0:02:37.11,0:02:37.94,Dubtitles,,0,0,0,,Sorry.
+Dialogue: 0,0:02:38.05,0:02:40.39,Dubtitles,,0,0,0,,I promise I'll be more careful next time.
+Dialogue: 0,0:02:40.47,0:02:41.30,Dubtitles,,0,0,0,,Appreciate it.
+Dialogue: 0,0:02:41.49,0:02:45.69,Dubtitles,,0,0,0,,It's bad enough the first naked female\Nbody I've seen happen to be yours.
+Dialogue: 0,0:02:45.77,0:02:47.23,Dubtitles,,0,0,0,,Not too thrilled about that.
+Dialogue: 0,0:02:47.31,0:02:49.67,Dubtitles,,0,0,0,,I can't believe I'm\Nyour first naked woman.
+Dialogue: 0,0:02:49.75,0:02:51.34,Dubtitles,,0,0,0,,It's as sad as it is weird.
+Dialogue: 0,0:02:52.07,0:02:54.17,Dubtitles,,0,0,0,,Might as well get used\Nto seeing it since we'll
+Dialogue: 0,0:02:54.25,0:02:56.57,Dubtitles,,0,0,0,,be sharing a bathroom for\Nhowever long we're here.
+Dialogue: 0,0:02:56.65,0:02:59.01,Dubtitles,,0,0,0,,You could be careful so I don't have to.
+Dialogue: 0,0:02:59.71,0:03:00.67,Dubtitles,,0,0,0,,This sucks.
+Dialogue: 0,0:03:00.91,0:03:03.63,Dubtitles,,0,0,0,,I was actually kind of\Nlooking forward to, you know,
+Dialogue: 0,0:03:03.71,0:03:08.69,Dubtitles,,0,0,0,,Getting some one-on-one bath time with\Nthis body. But I saw just how much
+Dialogue: 0,0:03:08.77,0:03:13.27,Dubtitles,,0,0,0,,freaking younger it is than my actual age\Nand I kind of look like my little sister.
+Dialogue: 0,0:03:13.35,0:03:14.75,Dubtitles,,0,0,0,,So yeah, it's
+Dialogue: 0,0:03:16.05,0:03:18.09,Dubtitles,,0,0,0,,Well, it can't be all that bad.
+Dialogue: 0,0:03:20.25,0:03:21.31,Dubtitles,,0,0,0,,What is it?
+Dialogue: 0,0:03:22.01,0:03:25.73,Dubtitles,,0,0,0,,Yunguji, please don't tell me you've\Ngot a thing for child-like blondes.
+Dialogue: 0,0:03:25.81,0:03:26.77,Dubtitles,,0,0,0,,I will hit you.
 Dialogue: 0,0:03:27.71,0:03:28.54,Dubtitles,,0,0,0,,Truthfully,
 Dialogue: 0,0:03:28.63,0:03:30.61,Dubtitles,,0,0,0,,your appearance is\Nterrifying because of how it
 Dialogue: 0,0:03:30.69,0:03:33.58,Dubtitles,,0,0,0,,warps the preferences of\Nanyone who looks at you.
 Dialogue: 0,0:03:33.79,0:03:36.21,Dubtitles,,0,0,0,,It changes what you're into?
 Dialogue: 0,0:03:37.37,0:03:38.75,Dubtitles,,0,0,0,,As best I can tell,
-Dialogue: 0,0:03:38.99,0:03:43.03,Dubtitles,,0,0,0,,there's some kind of magic embedded in\Nyour appearance that supersedes your looks.
-Dialogue: 0,0:03:43.11,0:03:46.69,Dubtitles,,0,0,0,,Knowing that it can change my thinking\Nagainst my will is terrifying.
+Dialogue: 0,0:03:38.99,0:03:43.05,Dubtitles,,0,0,0,,there's some kind of magic embedded in\Nyour appearance that supersedes your looks.
+Dialogue: 0,0:03:43.13,0:03:46.69,Dubtitles,,0,0,0,,Knowing that it can change my thinking\Nagainst my will is terrifying.
 Dialogue: 0,0:03:46.77,0:03:48.77,Dubtitles,,0,0,0,,You need to change back, and soon.
 Dialogue: 0,0:03:48.87,0:03:49.81,Dubtitles,,0,0,0,,Yeah, I don't know.
 Dialogue: 0,0:03:49.89,0:03:51.95,Dubtitles,,0,0,0,,I gotta admit, I'm starting to have fun.
-Dialogue: 0,0:03:52.03,0:03:53.99,Dubtitles,,0,0,0,,I mean, I could never get\Nunder your skin before,
-Dialogue: 0,0:03:54.07,0:03:56.31,Dubtitles,,0,0,0,,and now it's like it's almost too easy.
-Dialogue: 0,0:03:56.39,0:03:59.69,Dubtitles,,0,0,0,,Then there's the fact I have the\Nwhole village fawning all over me.
+Dialogue: 0,0:03:52.03,0:03:54.01,Dubtitles,,0,0,0,,I mean, I could never get\Nunder your skin before,
+Dialogue: 0,0:03:54.09,0:03:56.29,Dubtitles,,0,0,0,,and now it's like it's almost too easy.
+Dialogue: 0,0:03:56.37,0:03:59.69,Dubtitles,,0,0,0,,Then there's the fact I have the\Nwhole village fawning all over me.
 Dialogue: 0,0:03:59.77,0:04:02.73,Dubtitles,,0,0,0,,Yep, the attention is doing\Nwonders for my ego, and...
 Dialogue: 0,0:04:02.81,0:04:06.15,Dubtitles,,0,0,0,,And you can't wait to go back\Nto being a man again, right?
 Dialogue: 0,0:04:06.23,0:04:08.29,Dubtitles,,0,0,0,,Yes, yes, yes, as soon as possible!
 Dialogue: 0,0:04:08.61,0:04:10.89,Dubtitles,,0,0,0,,Well, alrighty then. It's settled.
-Dialogue: 0,0:04:11.11,0:04:12.73,Dubtitles,,0,0,0,,I'll help you in any way I can.
+Dialogue: 0,0:04:11.13,0:04:12.73,Dubtitles,,0,0,0,,I'll help you in any way I can.
 Dialogue: 0,0:04:12.81,0:04:14.87,Dubtitles,,0,0,0,,And you said that I was terrifying.
 Dialogue: 0,0:04:15.75,0:04:16.99,Dubtitles,,0,0,0,,So, what's the plan?
 Dialogue: 0,0:04:17.75,0:04:19.07,Dubtitles,,0,0,0,,I've been asking around,
@@ -9518,7 +9528,6 @@ Dialogue: 1,0:23:10.24,0:23:10.91,EDR,,0,0,0,fx,{\pos(718,10)\c&H0000C5&\bord0\t
 Dialogue: 1,0:23:10.24,0:23:11.33,EDR,,0,0,0,fx,{\move(718,10,682,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP65
 Dialogue: 1,0:23:10.24,0:23:13.33,EDR,,0,0,0,fx,{\pos(662,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}ta
 Dialogue: 1,0:23:10.24,0:23:13.33,EDR,,0,0,0,fx,{\pos(662,10)\bord0\fad(0,300)\c&HAAAAAA&}ta
-Dialogue: 0,0:23:10.38,0:23:11.21,Dubtitles,,0,0,0,,True love, Hinata! Dag shy\NHappiness CJ outstanding
 Dialogue: 1,0:23:10.41,0:23:10.91,EDR,,0,0,0,fx,{\move(0,82,761,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0to
 Dialogue: 1,0:23:10.58,0:23:11.08,EDR,,0,0,0,fx,{\move(0,125,830,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ki
 Dialogue: 1,0:23:10.74,0:23:11.24,EDR,,0,0,0,fx,{\move(0,36,881,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0mi
@@ -9600,6 +9609,7 @@ Dialogue: 1,0:23:11.24,0:23:11.74,EDR,,0,0,0,fx,{\move(0,36,1068,50)\p1\fscx1000
 Dialogue: 1,0:23:11.24,0:23:11.83,EDR,,0,0,0,fx,{\move(908,10,892,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP96
 Dialogue: 1,0:23:11.24,0:23:13.33,EDR,,0,0,0,fx,{\pos(855,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}ki
 Dialogue: 1,0:23:11.24,0:23:13.33,EDR,,0,0,0,fx,{\pos(855,10)\bord0\fad(0,300)\c&HAAAAAA&}ki
+Dialogue: 0,0:23:11.30,0:23:12.13,Dubtitles,,0,0,0,,Days unquote finalist?
 Dialogue: 1,0:23:11.41,0:23:11.62,EDR,,0,0,0,fx,{\pos(976,10)\bord3\1a&HFF&\3c&HFAF9FF&}to
 Dialogue: 1,0:23:11.41,0:23:11.62,EDR,,0,0,0,fx,{\pos(976,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}to
 Dialogue: 1,0:23:11.41,0:23:11.70,EDR,,0,0,0,fx,{\move(949,42, 924, 59)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2to
@@ -9703,6 +9713,7 @@ Dialogue: 1,0:23:11.91,0:23:12.66,EDR,,0,0,0,fx,{\move(1164,10,1175,-10)\fs32\bo
 Dialogue: 1,0:23:11.91,0:23:13.33,EDR,,0,0,0,fx,{\pos(1095,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}mi
 Dialogue: 1,0:23:11.91,0:23:13.33,EDR,,0,0,0,fx,{\pos(1095,10)\bord0\fad(0,300)\c&HAAAAAA&}mi
 Dialogue: 1,0:23:12.12,0:23:12.62,EDR,,0,0,0,fx,{\move(0,92,1292,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0tto
+Dialogue: 0,0:23:12.21,0:23:13.04,Dubtitles,,0,0,0,,Love like that. Love Л어.
 Dialogue: 1,0:23:12.24,0:23:12.58,EDR,,0,0,0,fx,{\move(1206,44, 1162, 39)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2gyu
 Dialogue: 1,0:23:12.24,0:23:12.58,EDR,,0,0,0,fx,{\move(1206,49, 1175, 65)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2gyu
 Dialogue: 1,0:23:12.24,0:23:12.58,EDR,,0,0,0,fx,{\move(1206,56, 1156, 69)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2gyu
@@ -9753,7 +9764,6 @@ Dialogue: 1,0:23:12.62,0:23:13.04,EDR,,0,0,0,fx,{\pos(1332,10)\c&H0000C5&\bord0\
 Dialogue: 1,0:23:12.62,0:23:13.33,EDR,,0,0,0,fx,{\pos(1249,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}gyu
 Dialogue: 1,0:23:12.62,0:23:13.33,EDR,,0,0,0,fx,{\pos(1249,10)\bord0\fad(0,300)\c&HAAAAAA&}gyu
 Dialogue: 1,0:23:12.62,0:23:13.41,EDR,,0,0,0,fx,{\move(1332,10,1301,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP50
-Dialogue: 0,0:23:12.67,0:23:15.51,Dubtitles,,0,0,0,,Dammit, Audrey. Sexta find
 Dialogue: 1,0:23:12.79,0:23:13.29,EDR,,0,0,0,fx,{\move(0,128,696,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ka
 Dialogue: 1,0:23:12.95,0:23:13.45,EDR,,0,0,0,fx,{\move(0,31,754,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0mi
 Dialogue: 1,0:23:13.00,0:23:13.29,EDR,,0,0,0,fx,{\pos(725,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}ka
@@ -9777,6 +9787,7 @@ Dialogue: 1,0:23:13.00,0:23:15.21,EDE,,0,0,0,fx,{\pos(960,1040)\bord0\fad(300,0)
 Dialogue: 1,0:23:13.04,0:23:13.33,EDR,,0,0,0,fx,{\pos(1332,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}tto
 Dialogue: 1,0:23:13.04,0:23:13.33,EDR,,0,0,0,fx,{\pos(1332,10)\bord0\fad(0,300)\c&HAAAAAA&}tto
 Dialogue: 1,0:23:13.12,0:23:13.62,EDR,,0,0,0,fx,{\move(0,15,823,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0no
+Dialogue: 0,0:23:13.12,0:23:13.95,Dubtitles,,0,0,0,,So honestанти.
 Dialogue: 1,0:23:13.29,0:23:13.45,EDR,,0,0,0,fx,{\pos(725,10)\bord3\1a&HFF&\3c&HFAF9FF&}ka
 Dialogue: 1,0:23:13.29,0:23:13.45,EDR,,0,0,0,fx,{\pos(725,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ka
 Dialogue: 1,0:23:13.29,0:23:13.58,EDR,,0,0,0,fx,{\move(696,52, 665, 49)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ka
@@ -9879,6 +9890,7 @@ Dialogue: 1,0:23:13.79,0:23:14.46,EDR,,0,0,0,fx,{\move(924,10,885,-10)\fs32\bord
 Dialogue: 1,0:23:13.79,0:23:15.21,EDR,,0,0,0,fx,{\pos(852,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}no
 Dialogue: 1,0:23:13.79,0:23:15.21,EDR,,0,0,0,fx,{\pos(852,10)\bord0\fad(0,300)\c&HAAAAAA&}no
 Dialogue: 1,0:23:14.00,0:23:14.50,EDR,,0,0,0,fx,{\move(0,67,1112,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0su
+Dialogue: 0,0:23:14.04,0:23:14.87,Dubtitles,,0,0,0,,You go. So.
 Dialogue: 1,0:23:14.04,0:23:14.29,EDR,,0,0,0,fx,{\pos(993,10)\bord3\1a&HFF&\3c&HFAF9FF&}tto
 Dialogue: 1,0:23:14.04,0:23:14.29,EDR,,0,0,0,fx,{\pos(993,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}tto
 Dialogue: 1,0:23:14.04,0:23:14.33,EDR,,0,0,0,fx,{\move(953,57, 911, 69)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2tto
@@ -10006,6 +10018,7 @@ Dialogue: 1,0:23:14.79,0:23:17.79,EDE,,0,0,0,fx,{\pos(960,1040)\bord0\fad(300,0)
 Dialogue: 1,0:23:14.87,0:23:15.21,EDR,,0,0,0,fx,{\pos(1197,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}ta
 Dialogue: 1,0:23:14.87,0:23:15.21,EDR,,0,0,0,fx,{\pos(1197,10)\bord0\fad(0,300)\c&HAAAAAA&}ta
 Dialogue: 1,0:23:14.93,0:23:15.33,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
+Dialogue: 0,0:23:14.95,0:23:15.78,Dubtitles,,0,0,0,,you can go Come
 Dialogue: 1,0:23:14.96,0:23:15.46,EDR,,0,0,0,fx,{\move(0,106,716,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ku
 Dialogue: 1,0:23:15.08,0:23:15.37,EDR,,0,0,0,fx,{\move(658,42, 616, 65)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ra
 Dialogue: 1,0:23:15.08,0:23:15.37,EDR,,0,0,0,fx,{\move(658,60, 614, 57)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ra
@@ -10057,7 +10070,6 @@ Dialogue: 1,0:23:15.46,0:23:16.04,EDR,,0,0,0,fx,{\move(745,10,721,-10)\fs32\bord
 Dialogue: 1,0:23:15.46,0:23:17.79,EDR,,0,0,0,fx,{\pos(687,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}ra
 Dialogue: 1,0:23:15.46,0:23:17.79,EDR,,0,0,0,fx,{\pos(687,10)\bord0\fad(0,300)\c&HAAAAAA&}ra
 Dialogue: 1,0:23:15.50,0:23:16.00,EDR,,0,0,0,fx,{\move(0,86,846,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0no
-Dialogue: 0,0:23:15.59,0:23:20.19,Dubtitles,,0,0,0,,A oh five. Cause this is
 Dialogue: 1,0:23:15.62,0:23:15.96,EDR,,0,0,0,fx,{\move(774,49, 736, 31)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2en
 Dialogue: 1,0:23:15.62,0:23:15.96,EDR,,0,0,0,fx,{\move(774,40, 760, 42)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2en
 Dialogue: 1,0:23:15.62,0:23:15.96,EDR,,0,0,0,fx,{\move(774,46, 750, 35)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2en
@@ -10084,6 +10096,7 @@ Dialogue: 1,0:23:15.62,0:23:16.42,EDR,,0,0,0,fx,{\move(803,10,797,-10)\fs32\bord
 Dialogue: 1,0:23:15.62,0:23:17.79,EDR,,0,0,0,fx,{\pos(745,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}ku
 Dialogue: 1,0:23:15.62,0:23:17.79,EDR,,0,0,0,fx,{\pos(745,10)\bord0\fad(0,300)\c&HAAAAAA&}ku
 Dialogue: 1,0:23:15.83,0:23:16.33,EDR,,0,0,0,fx,{\move(0,91,918,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0to
+Dialogue: 0,0:23:15.86,0:23:19.55,Dubtitles,,0,0,0,,On it's lonely. Let's\Ngo. Be almost. That's.
 Dialogue: 1,0:23:16.00,0:23:16.29,EDR,,0,0,0,fx,{\move(846,47, 822, 56)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2no
 Dialogue: 1,0:23:16.00,0:23:16.29,EDR,,0,0,0,fx,{\move(846,49, 836, 57)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2no
 Dialogue: 1,0:23:16.00,0:23:16.29,EDR,,0,0,0,fx,{\move(846,45, 828, 48)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2no
@@ -10472,6 +10485,7 @@ Dialogue: 1,0:23:19.54,0:23:20.04,EDR,,0,0,0,fx,{\move(0,43,732,50)\p1\fscx1000\
 Dialogue: 1,0:23:19.54,0:23:20.13,EDR - Copy,,0,0,0,fx,{\move(1007,88,1002,68)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP16
 Dialogue: 1,0:23:19.54,0:23:20.34,EDR - Copy,,0,0,0,fx,{\pos(913,88)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}tto
 Dialogue: 1,0:23:19.54,0:23:20.34,EDR - Copy,,0,0,0,fx,{\pos(913,88)\bord0\fad(0,300)\c&HAAAAAA&}tto
+Dialogue: 0,0:23:19.63,0:23:21.11,Dubtitles,,0,0,0,,Good. Ready?
 Dialogue: 1,0:23:19.71,0:23:19.88,EDR - Copy,,0,0,0,fx,{\pos(1076,88)\bord3\1a&HFF&\3c&HFAF9FF&}ga
 Dialogue: 1,0:23:19.71,0:23:19.88,EDR - Copy,,0,0,0,fx,{\pos(1076,88)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ga
 Dialogue: 1,0:23:19.71,0:23:20.04,EDR - Copy,,0,0,0,fx,{\move(1047,137, 1022, 145)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ga
@@ -10564,7 +10578,6 @@ Dialogue: 1,0:23:20.04,0:23:20.38,EDR,,0,0,0,fx,{\move(732,47, 685, 59)\p1\bord0
 Dialogue: 1,0:23:20.04,0:23:20.79,EDR,,0,0,0,fx,{\move(758,10,767,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP75
 Dialogue: 1,0:23:20.09,0:23:20.49,EDR - Copy,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
 Dialogue: 1,0:23:20.09,0:23:20.59,EDR,,0,0,0,fx,{\move(0,73,877,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ko
-Dialogue: 0,0:23:20.27,0:23:24.39,Dubtitles,,0,0,0,,My yeah trust them I go\NI recognize that don't
 Dialogue: 1,0:23:20.38,0:23:20.59,EDR,,0,0,0,fx,{\pos(823,10)\bord3\1a&HFF&\3c&HFAF9FF&}tto
 Dialogue: 1,0:23:20.38,0:23:20.59,EDR,,0,0,0,fx,{\pos(823,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}tto
 Dialogue: 1,0:23:20.38,0:23:20.71,EDR,,0,0,0,fx,{\move(783,60, 754, 67)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2tto
@@ -10991,6 +11004,7 @@ Dialogue: 1,0:23:23.80,0:23:24.09,EDR,,0,0,0,fx,{\move(875,58, 836, 68)\p1\bord0
 Dialogue: 1,0:23:23.80,0:23:24.34,EDR,,0,0,0,fx,{\move(904,10,880,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP38
 Dialogue: 1,0:23:23.80,0:23:24.92,EDR,,0,0,0,fx,{\pos(846,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}n
 Dialogue: 1,0:23:23.80,0:23:24.92,EDR,,0,0,0,fx,{\pos(846,10)\bord0\fad(0,300)\c&HAAAAAA&}n
+Dialogue: 0,0:23:23.83,0:23:24.66,Dubtitles,,0,0,0,,Was it you okay?
 Dialogue: 1,0:23:23.84,0:23:24.34,EDR,,0,0,0,fx,{\move(0,98,1135,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0i
 Dialogue: 1,0:23:23.96,0:23:24.09,EDR,,0,0,0,fx,{\pos(962,10)\bord3\1a&HFF&\3c&HFAF9FF&}ke
 Dialogue: 1,0:23:23.96,0:23:24.09,EDR,,0,0,0,fx,{\pos(962,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ke
@@ -11121,7 +11135,6 @@ Dialogue: 1,0:23:24.47,0:23:24.92,EDR,,0,0,0,fx,{\pos(1146,10)\bord3\1a&HFF&\fad
 Dialogue: 1,0:23:24.47,0:23:24.92,EDR,,0,0,0,fx,{\pos(1146,10)\bord0\fad(0,300)\c&HAAAAAA&}i
 Dialogue: 1,0:23:24.47,0:23:24.97,EDR,,0,0,0,fx,{\move(0,51,801,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ru
 Dialogue: 1,0:23:24.47,0:23:25.05,EDR,,0,0,0,fx,{\move(1200,10,1169,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP41
-Dialogue: 0,0:23:24.47,0:23:26.25,Dubtitles,,0,0,0,,Ni fini. Don't trust you
 Dialogue: 1,0:23:24.51,0:23:24.80,EDR,,0,0,0,fx,{\pos(740,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}i
 Dialogue: 2,0:23:24.51,0:23:24.80,EDR,,0,0,0,fx,{\pos(740,10)\bord0\fad(300,0)}i
 Dialogue: 1,0:23:24.51,0:23:24.88,EDR,,0,0,0,fx,{\pos(776,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}ki
@@ -11146,6 +11159,7 @@ Dialogue: 1,0:23:24.63,0:23:24.92,EDR,,0,0,0,fx,{\pos(1200,10)\bord3\1a&HFF&\fad
 Dialogue: 1,0:23:24.63,0:23:24.92,EDR,,0,0,0,fx,{\pos(1200,10)\bord0\fad(0,300)\c&HAAAAAA&}no
 Dialogue: 1,0:23:24.67,0:23:25.07,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
 Dialogue: 1,0:23:24.72,0:23:25.22,EDR,,0,0,0,fx,{\move(0,13,873,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0i
+Dialogue: 0,0:23:24.75,0:23:25.91,Dubtitles,,0,0,0,,Wait you Be okay, Littleле?
 Dialogue: 1,0:23:24.76,0:23:25.26,EDR,,0,0,0,fx,{\move(0,109,895,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ki
 Dialogue: 1,0:23:24.80,0:23:24.88,EDR,,0,0,0,fx,{\pos(740,10)\bord3\1a&HFF&\3c&HFAF9FF&}i
 Dialogue: 1,0:23:24.80,0:23:24.88,EDR,,0,0,0,fx,{\pos(740,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}i
@@ -11398,6 +11412,7 @@ Dialogue: 1,0:23:25.84,0:23:27.59,EDE,,0,0,0,fx,{\pos(960,1040)\bord3\1a&HFF&\fa
 Dialogue: 1,0:23:25.84,0:23:27.59,EDE,,0,0,0,fx,{\pos(960,1040)\bord0\fad(300,0)}This doesn't mean I like you!
 Dialogue: 1,0:23:25.97,0:23:26.26,EDR,,0,0,0,fx,{\pos(1162,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}no
 Dialogue: 1,0:23:25.97,0:23:26.26,EDR,,0,0,0,fx,{\pos(1162,10)\bord0\fad(0,300)\c&HAAAAAA&}no
+Dialogue: 0,0:23:25.99,0:23:26.82,Dubtitles,,0,0,0,,Like it!
 Dialogue: 1,0:23:26.01,0:23:26.41,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
 Dialogue: 1,0:23:26.01,0:23:26.51,EDR,,0,0,0,fx,{\move(0,70,799,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0tte
 Dialogue: 1,0:23:26.09,0:23:26.59,EDR,,0,0,0,fx,{\move(0,104,893,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ko
@@ -11450,7 +11465,6 @@ Dialogue: 1,0:23:26.26,0:23:26.55,EDR,,0,0,0,fx,{\move(734,59, 721, 45)\p1\bord0
 Dialogue: 1,0:23:26.26,0:23:26.88,EDR,,0,0,0,fx,{\move(760,10,725,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP61
 Dialogue: 1,0:23:26.26,0:23:27.59,EDR,,0,0,0,fx,{\pos(705,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}su
 Dialogue: 1,0:23:26.26,0:23:27.59,EDR,,0,0,0,fx,{\pos(705,10)\bord0\fad(0,300)\c&HAAAAAA&}su
-Dialogue: 0,0:23:26.33,0:23:29.81,Dubtitles,,0,0,0,,De I You De largo I You
 Dialogue: 1,0:23:26.34,0:23:26.84,EDR,,0,0,0,fx,{\move(0,30,1020,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ja
 Dialogue: 1,0:23:26.51,0:23:26.59,EDR,,0,0,0,fx,{\pos(839,10)\bord3\1a&HFF&\3c&HFAF9FF&}tte
 Dialogue: 1,0:23:26.51,0:23:26.59,EDR,,0,0,0,fx,{\pos(839,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}tte
@@ -11555,6 +11569,7 @@ Dialogue: 1,0:23:26.84,0:23:27.13,EDR,,0,0,0,fx,{\move(1020,50, 994, 38)\p1\bord
 Dialogue: 1,0:23:26.84,0:23:27.43,EDR,,0,0,0,fx,{\move(1049,10,1024,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP88
 Dialogue: 1,0:23:26.84,0:23:27.59,EDR,,0,0,0,fx,{\pos(978,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}to
 Dialogue: 1,0:23:26.84,0:23:27.59,EDR,,0,0,0,fx,{\pos(978,10)\bord0\fad(0,300)\c&HAAAAAA&}to
+Dialogue: 0,0:23:26.91,0:23:27.99,Dubtitles,,0,0,0,,Come!
 Dialogue: 1,0:23:27.01,0:23:27.09,EDR,,0,0,0,fx,{\pos(1121,10)\bord3\1a&HFF&\3c&HFAF9FF&}na
 Dialogue: 1,0:23:27.01,0:23:27.09,EDR,,0,0,0,fx,{\pos(1121,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}na
 Dialogue: 1,0:23:27.01,0:23:27.30,EDR,,0,0,0,fx,{\move(1092,47, 1066, 50)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2na
@@ -12114,7 +12129,6 @@ Dialogue: 1,0:23:29.89,0:23:30.35,EDR,,0,0,0,fx,{\pos(1177,10)\bord3\1a&HFF&\fad
 Dialogue: 1,0:23:29.89,0:23:30.35,EDR,,0,0,0,fx,{\pos(1177,10)\bord0\fad(0,300)\c&HAAAAAA&}i
 Dialogue: 1,0:23:29.89,0:23:30.39,EDR,,0,0,0,fx,{\move(0,50,767,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0ga
 Dialogue: 1,0:23:29.89,0:23:30.47,EDR,,0,0,0,fx,{\move(1231,10,1201,-10)\fs32\bord1\3c&H000000&\alphaH00\fad(0,200)}+XP60
-Dialogue: 0,0:23:29.89,0:23:33.61,Dubtitles,,0,0,0,,Aikana imake ja noin\NFantasy to Kimi to Kimi to
 Dialogue: 1,0:23:29.93,0:23:30.22,EDR,,0,0,0,fx,{\pos(716,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}a
 Dialogue: 2,0:23:29.93,0:23:30.22,EDR,,0,0,0,fx,{\pos(716,10)\bord0\fad(300,0)}a
 Dialogue: 1,0:23:29.93,0:23:30.30,EDR,,0,0,0,fx,{\pos(741,10)\bord3\1a&HFF&\fad(300,0)\3c&HFAF9FF&}i
@@ -12445,6 +12459,7 @@ Dialogue: 1,0:23:31.60,0:23:31.93,EDR,,0,0,0,fx,{\pos(682,10)\bord3\1a&HFF&\3c&H
 Dialogue: 1,0:23:31.60,0:23:31.93,EDR,,0,0,0,fx,{\pos(682,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}fan
 Dialogue: 1,0:23:31.60,0:23:32.10,EDR,,0,0,0,fx,{\move(0,99,778,50)\p1\fscx1000\bord2\blur2\c&H000000&}m 0 0 l 0 4 l 2 4 l 2 0sy
 Dialogue: 1,0:23:31.60,0:23:32.31,EDR,,0,0,0,fx,{\move(682,10,662,-10)\fs32\bord1\3c&H000000&\alphaHFF\fad(0,200)}+XP20
+Dialogue: 0,0:23:31.85,0:23:32.68,Dubtitles,,0,0,0,,Come!
 Dialogue: 1,0:23:31.93,0:23:32.10,EDR,,0,0,0,fx,{\pos(750,10)\bord3\1a&HFF&\3c&HFAF9FF&}ta
 Dialogue: 1,0:23:31.93,0:23:32.10,EDR,,0,0,0,fx,{\pos(750,10)\c&H0000C5&\bord0\t(\c&HAAAAAA&)}ta
 Dialogue: 1,0:23:31.93,0:23:32.22,EDR,,0,0,0,fx,{\move(723,44, 700, 50)\p1\bord0\blur2\c&H0000C5&}m 0 0 l 2 0 l 2 2 l 0 2ta
@@ -12680,8 +12695,13 @@ Dialogue: 1,0:23:33.43,0:23:34.10,EDR,,0,0,0,fx,{\move(1253,10,1285,-10)\fs32\bo
 Dialogue: 1,0:23:33.72,0:23:34.02,EDR,,0,0,0,fx,{\pos(1253,10)\bord3\1a&HFF&\fad(0,300)\3c&HFAF9FF&}to
 Dialogue: 1,0:23:33.72,0:23:34.02,EDR,,0,0,0,fx,{\pos(1253,10)\bord0\fad(0,300)\c&HAAAAAA&}to
 Dialogue: 1,0:23:33.76,0:23:34.16,EDR,,0,0,0,fx,{\move(1860, 50, 1860, 70)\fs32}Lvl Up!
+Dialogue: 0,0:23:37.95,0:23:41.25,Dubtitles,,0,0,0,,Hey, Jinguji, the elf lady\Nis eating her guardian deity.
+Dialogue: 0,0:23:41.63,0:23:43.99,Dubtitles,,0,0,0,,You think maybe we should step\Nin and tell her the truth?
 Dialogue: 1,0:23:43.98,0:23:50.94,Signs,text,0,0,0,,{\fad(484,0)\fnFree Pixel\b1\fs70\bord4\blur0.7\3c&HFFFDF2&\c&HFFFDF2&\pos(487.9,467.04)\1a&HFF&\t(483,484,\1a&H00&)}Chapter 4
 Dialogue: 1,0:23:43.98,0:23:50.94,Signs,text,0,0,0,,{\fad(484,0)\fnFree Pixel\b1\fs70\bord0\blur0.7\3c&HFFFDF2&\c&H3FBB01&\pos(487.9,467.04)}Chapter 4
 Dialogue: 1,0:23:43.98,0:23:50.94,Signs,text,0,0,0,,{\fad(484,0)\fnFree Pixel\b1\fs75\bord5\blur0.7\3c&HFFFDF2&\c&HFFFDF2&\pos(1026.08,750.55)\1a&HFF&\t(483,484,\1a&H00&)}A Guy Who Reincarnated as a \NFantasy Knockout and a Dark Swordsman
 Dialogue: 1,0:23:43.98,0:23:50.94,Signs,text,0,0,0,,{\fad(484,0)\fnFree Pixel\b1\fs75\bord0\blur0.7\3c&HFFFDF2&\c&H3FBB01&\pos(1026.08,750.55)}A Guy Who Reincarnated as a \NFantasy Knockout and a Dark Swordsman
+Dialogue: 0,0:23:44.07,0:23:44.90,Dubtitles,,0,0,0,,Probably not.
+Dialogue: 0,0:23:45.17,0:23:47.23,Dubtitles,,0,0,0,,Not knowing is to be as\NBuddha, or so they say.
+Dialogue: 0,0:23:47.31,0:23:50.20,Dubtitles,,0,0,0,,In her case, it's more\Nlike her terrible goddess.
 
