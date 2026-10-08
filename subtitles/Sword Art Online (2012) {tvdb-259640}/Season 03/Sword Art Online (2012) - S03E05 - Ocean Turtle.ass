@@ -36,9 +36,10 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:11.85,0:00:15.11,Dubtitles,,0,0,0,,Nagaskohe 91, Asuna!
-Dialogue: 0,0:00:18.41,0:00:19.77,Dubtitles,,0,0,0,,Watch out!
-Dialogue: 0,0:00:24.61,0:00:26.35,Dubtitles,,0,0,0,,Run! Get outta here!
+Dialogue: 0,0:00:14.27,0:00:15.10,Dubtitles,,0,0,0,,Asuna!
+Dialogue: 0,0:00:15.81,0:00:16.64,Dubtitles,,0,0,0,,Asuna!
+Dialogue: 0,0:00:18.63,0:00:19.75,Dubtitles,,0,0,0,,Watch out!
+Dialogue: 0,0:00:24.77,0:00:26.35,Dubtitles,,0,0,0,,Run! Get out of here!
 Dialogue: 0,0:00:31.49,0:00:34.63,Dubtitles,,0,0,0,,I don't know.
 Dialogue: 3,0:00:46.75,0:00:47.04,Signs,TEXT,0,0,0,,{\fnCorpid-Bold\fax-0.04\blur0.7\fs36\pos(966.4,267.6)\c&HDCE1F5&\fscy95}O{*\fax-0.036}P{*\fax-0.032}E{*\fax-0.028}R{*\fax-0.024}A{*\fax-0.02}T{*\fax-0.016}I{*\fax-0.012}O{*\fax-0.008}N {*\fax0}I{*\fax0.004}N {*\fax0.012}P{*\fax0.016}R{*\fax0.02}O{*\fax0.024}G{*\fax0.028}R{*\fax0.032}E{*\fax0.036}S{\fax0.04}S
 Dialogue: 1,0:00:46.75,0:00:47.04,Signs,TEXT,0,0,0,,{\pos(0,0)\an7\p1\c&H4E4894&\clip(m 808 265 l 1120 265 1120 268 808 268)\blur1}m 761 230 l 1168 231 1176 311 756 308

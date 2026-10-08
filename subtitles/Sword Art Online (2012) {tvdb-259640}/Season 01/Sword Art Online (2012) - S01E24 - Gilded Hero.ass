@@ -445,6 +445,7 @@ Dialogue: 3,0:01:55.99,0:01:56.15,OP-Kanji,,0,0,0,,{\an5\org(1151,89)\pos(1153.5
 Dialogue: 3,0:01:55.99,0:01:56.15,OP-Romaji,,0,0,0,,{\an5\org(1332,45)\pos(1336.5,43.5)\t(0,80,\fscy105\fscx105\shad12\be15\blur3.75)\t(0,160,\1c&HFFFFFF&\3c&HB47432&)\t(80,160,\fscy100\fscx100\shad0\be0\blur0)}te
 Dialogue: 3,0:01:55.99,0:01:56.61,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1119,97.5)\t(0,620,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}げ
 Dialogue: 3,0:01:55.99,0:01:56.61,OP-Romaji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1287,43.5)\t(0,620,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}ge
+Dialogue: 0,0:01:56.03,0:01:59.71,Dubtitles,,0,0,0,,I'll give you a true promise.
 Dialogue: 3,0:01:56.15,0:01:56.57,OP-Romaji,,0,0,0,,{\an5\org(1383,33)\pos(1380,43.5)\t(0,225,\fscy115\fscx115\shad12\be15\blur3.75)\t(0,450,\1c&HFFFFFF&\3c&HB47432&)\t(225,450,\fscy100\fscx100\shad0\be0\blur0)}ru
 Dialogue: 3,0:01:56.15,0:01:56.61,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1153.5,97.5)\t(0,460,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}て
 Dialogue: 3,0:01:56.15,0:01:56.61,OP-Kanji,,0,0,0,,{\an5\org(1205,83)\pos(1189.5,97.5)\t(0,230,\fscy115\fscx115\shad12\be15\blur3.75)\t(0,460,\1c&HFFFFFF&\3c&HB47432&)\t(230,460,\fscy100\fscx100\shad0\be0\blur0)}る
@@ -689,7 +690,6 @@ Dialogue: 3,0:01:59.53,0:02:00.36,OP-Kanji,,0,0,0,,{\an5\org(981,92)\pos(976.5,9
 Dialogue: 3,0:01:59.53,0:02:00.36,OP-Romaji,,0,0,0,,{\an5\org(1010,35)\pos(1024.5,43.5)\t(0,410,\fscy127\fscx127\shad12\be15\blur3.75)\t(0,820,\1c&HFFFFFF&\3c&HB47432&)\t(410,820,\fscy100\fscx100\shad0\be0\blur0)}i
 Dialogue: 3,0:01:59.53,0:02:02.16,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(942,97.5)\t(0,2630,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}誓
 Dialogue: 3,0:01:59.53,0:02:02.16,OP-Romaji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(994.5,43.5)\t(0,2630,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}ka
-Dialogue: 0,0:02:00.13,0:02:00.96,Dubtitles,,0,0,0,,I'm standing on my heart.
 Dialogue: 3,0:02:00.36,0:02:00.53,OP-Kanji,,0,0,0,,{\an5\org(1007,108)\pos(1012.5,97.5)\t(0,75,\fscy105\fscx105\shad12\be15\blur3.75)\t(0,150,\1c&HFFFFFF&\3c&HB47432&)\t(75,150,\fscy100\fscx100\shad0\be0\blur0)}を
 Dialogue: 3,0:02:00.36,0:02:00.53,OP-Romaji,,0,0,0,,{\an5\org(1068,51)\pos(1083,43.5)\t(0,75,\fscy105\fscx105\shad12\be15\blur3.75)\t(0,150,\1c&HFFFFFF&\3c&HB47432&)\t(75,150,\fscy100\fscx100\shad0\be0\blur0)}wo
 Dialogue: 3,0:02:00.36,0:02:02.16,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(976.5,97.5)\t(0,1810,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}い
@@ -698,17 +698,15 @@ Dialogue: 3,0:02:00.53,0:02:00.66,OP-Kanji,,0,0,0,,{\an5\org(1049,98)\pos(1047,9
 Dialogue: 3,0:02:00.53,0:02:00.66,OP-Romaji,,0,0,0,,{\an5\org(1143,36)\pos(1156.5,43.5)\t(0,70,\fscy104\fscx104\shad12\be15\blur3.75)\t(0,140,\1c&HFFFFFF&\3c&HB47432&)\t(70,140,\fscy100\fscx100\shad0\be0\blur0)}te
 Dialogue: 3,0:02:00.53,0:02:02.16,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1012.5,97.5)\t(0,1660,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}を
 Dialogue: 3,0:02:00.53,0:02:02.16,OP-Romaji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1083,43.5)\t(0,1660,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}wo
+Dialogue: 0,0:02:00.61,0:02:01.44,Dubtitles,,0,0,0,,I'll give
 Dialogue: 3,0:02:00.66,0:02:02.16,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1047,97.5)\t(0,1520,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}手
 Dialogue: 3,0:02:00.66,0:02:02.16,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(1083,97.5)\t(0,760,\fscy150\fscx150\shad12\be15\blur3.75)\t(0,1520,\1c&HFFFFFF&\3c&HB47432&)\t(760,1520,\fscy100\fscx100\shad0\be0\blur0)}に
 Dialogue: 3,0:02:00.66,0:02:02.16,OP-Romaji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1156.5,43.5)\t(0,1520,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}te
 Dialogue: 3,0:02:00.66,0:02:02.16,OP-Romaji,,0,0,0,,{\an5\org(1227,42)\pos(1218,43.5)\t(0,740,\fscy149\fscx149\shad12\be15\blur3.75)\t(0,1480,\1c&HFFFFFF&\3c&HB47432&)\t(740,1480,\fscy100\fscx100\shad0\be0\blur0)}ni
-Dialogue: 0,0:02:01.04,0:02:03.07,Dubtitles,,0,0,0,,I'm standing on my hand.
+Dialogue: 0,0:02:01.52,0:02:02.35,Dubtitles,,0,0,0,,you
 Dialogue: 3,0:02:02.16,0:02:02.16,OP-Kanji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1083,97.5)\t(0,0,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}に
 Dialogue: 3,0:02:02.16,0:02:12.25,OP-Romaji,,0,0,0,,{\an5\blur3\be2\bord3.75\c&HFFFFFF&\3c&HB47432&\fad(0,360)\pos(1218,43.5)\t(0,40,\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}ni
-Dialogue: 0,0:02:03.15,0:02:04.67,Dubtitles,,0,0,0,,I'm standing on my heart.
-Dialogue: 0,0:02:04.75,0:02:07.19,Dubtitles,,0,0,0,,I'm standing on my heart.
-Dialogue: 0,0:02:07.27,0:02:10.43,Dubtitles,,0,0,0,,And now I'm standing on my heart?
-Dialogue: 0,0:02:10.51,0:02:11.98,Dubtitles,,0,0,0,,I'm standing on my heart.
+Dialogue: 0,0:02:02.44,0:02:07.69,Dubtitles,,0,0,0,,a
 Dialogue: 1,0:02:12.25,0:02:12.67,OP-Kanji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-108\frx-152\be3\blur3\fad(360,0)\move(685.5,67.5,685.5,97.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}奇
 Dialogue: 1,0:02:12.25,0:02:12.67,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry-108\frx-152\be3\blur3\fad(360,0)\move(430.5,13.5,430.5,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}k
 Dialogue: 3,0:02:12.29,0:02:12.67,OP-Romaji,,0,0,0,,{\3c&HFFFFFF&\shad0\an5\fscx200\fscy200\fry70\frx-7\be3\blur3\fad(360,0)\move(447,13.5,447,43.5,0,400)\t(0,400,\fscx100\fscy100\3c&H000000&\frx0\fry0)}i
@@ -775,9 +773,9 @@ Dialogue: 1,0:02:13.46,0:02:14.63,OP-Kanji,,0,0,0,,{\an5\move(685.5,97.5,640.5,7
 Dialogue: 1,0:02:13.46,0:02:14.63,OP-Romaji,,0,0,0,,{\an5\move(430.5,43.5,385.5,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1243,1244,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1277,1377,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:13.46,0:02:15.88,OP-Kanji,,0,0,0,,{\an5\move(685.5,97.5,673.5,129)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2513,2514,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2547,2647,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:13.46,0:02:15.88,OP-Romaji,,0,0,0,,{\an5\move(430.5,43.5,418.5,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2513,2514,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2547,2647,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:13.65,0:02:14.99,Dubtitles,,0,0,0,,If I don't have any trouble!
 Dialogue: 3,0:02:13.71,0:02:15.63,OP-Romaji,,0,0,0,,{\an5\move(447,43.5,402,88.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(1876,1877,\fscx7\fscy7\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1910,2010,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:13.84,0:02:14.42,OP-Romaji,,0,0,0,,{\an5\move(463.5,43.5,453,3)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(785,786,\fscx4\fscy4\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(819,919,\fscx13\fscy13\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:02:13.87,0:02:14.70,Dubtitles,,0,0,0,,miracle.
 Dialogue: 3,0:02:13.88,0:02:14.34,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(477,43.5)\t(0,220,\fscy114\fscx114\shad12\be15\blur3.75)\t(0,440,\1c&HFFFFFF&\3c&HB47432&)\t(220,440,\fscy100\fscx100\shad0\be0\blur0)}se
 Dialogue: 3,0:02:13.88,0:02:14.50,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(721.5,97.5)\t(0,305,\fscy120\fscx120\shad12\be15\blur3.75)\t(0,610,\1c&HFFFFFF&\3c&HB47432&)\t(305,610,\fscy100\fscx100\shad0\be0\blur0)}跡
 Dialogue: 2,0:02:13.88,0:02:22.80,OP-Kanji,,0,0,0,,{\an5\pos(685.5,97.5)\3c&HB47432&}奇
@@ -844,12 +842,12 @@ Dialogue: 1,0:02:15.00,0:02:15.34,OP-Romaji,,0,0,0,,{\an5\move(624,43.5,649.5,70
 Dialogue: 1,0:02:15.00,0:02:15.46,OP-Kanji,,0,0,0,,{\an5\move(792,97.5,816,61.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(417,418,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(451,551,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:15.00,0:02:15.50,OP-Romaji,,0,0,0,,{\an5\move(675,43.5,691.5,13.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(388,389,\fscx25\fscy25\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(422,522,\fscx7\fscy7\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:15.00,0:02:17.09,OP-Romaji,,0,0,0,,{\an5\move(703.5,43.5,727.5,84)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1997,1998,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2031,2131,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:15.07,0:02:17.29,Dubtitles,,0,0,0,,I'll never shoot you.
 Dialogue: 3,0:02:15.13,0:02:16.21,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(826.5,97.5)\t(0,555,\fscy137\fscx137\shad12\be15\blur3.75)\t(0,1110,\1c&HFFFFFF&\3c&HB47432&)\t(555,1110,\fscy100\fscx100\shad0\be0\blur0)}を
 Dialogue: 3,0:02:15.13,0:02:16.21,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(717,43.5)\t(0,555,\fscy137\fscx137\shad12\be15\blur3.75)\t(0,1110,\1c&HFFFFFF&\3c&HB47432&)\t(555,1110,\fscy100\fscx100\shad0\be0\blur0)}wo
 Dialogue: 2,0:02:15.13,0:02:22.80,OP-Kanji,,0,0,0,,{\an5\pos(792,97.5)\3c&HB47432&}け
 Dialogue: 2,0:02:15.13,0:02:22.80,OP-Romaji,,0,0,0,,{\an5\pos(637.5,43.5)\3c&HB47432&}ke
 Dialogue: 1,0:02:15.21,0:02:16.34,OP-Kanji,,0,0,0,,{\an5\move(826.5,97.5,844.5,105)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1180,1181,\fscx12\fscy12\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1214,1314,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
+Dialogue: 0,0:02:15.31,0:02:19.77,Dubtitles,,0,0,0,,I don't want to be a miracle.
 Dialogue: 1,0:02:15.34,0:02:16.84,OP-Romaji,,0,0,0,,{\an5\move(703.5,43.5,714,25.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(1754,1755,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1788,1888,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:15.38,0:02:16.59,OP-Romaji,,0,0,0,,{\an5\move(733.5,43.5,768,36)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(1519,1520,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1553,1653,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:15.38,0:02:17.01,OP-Romaji,,0,0,0,,{\an5\move(757.5,43.5,739.5,57)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1640,1641,\fscx4\fscy4\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1674,1774,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -902,7 +900,6 @@ Dialogue: 1,0:02:17.21,0:02:19.22,OP-Kanji,,0,0,0,,{\an5\move(897,97.5,901.5,91.
 Dialogue: 3,0:02:17.26,0:02:19.13,OP-Kanji,,0,0,0,,{\an5\move(924,97.5,936,81)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(2007,2008,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2041,2141,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:17.30,0:02:19.43,OP-Romaji,,0,0,0,,{\an5\move(897,43.5,930,49.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(2405,2406,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2439,2539,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:17.34,0:02:18.80,OP-Romaji,,0,0,0,,{\an5\move(897,43.5,933,30)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(1717,1718,\fscx20\fscy20\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1751,1851,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:17.37,0:02:22.87,Dubtitles,,0,0,0,,I'm not there yet, but I'm not there yet.
 Dialogue: 3,0:02:17.42,0:02:18.34,OP-Romaji,,0,0,0,,{\an5\move(954,43.5,915,37.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1129,1130,\fscx18\fscy18\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1163,1263,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:17.42,0:02:18.93,OP-Kanji,,0,0,0,,{\an5\move(924,97.5,966,130.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1601,1602,\fscx19\fscy19\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1635,1735,\fscx7\fscy7\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:17.42,0:02:19.43,OP-Kanji,,0,0,0,,{\an5\move(924,97.5,903,54)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(2735,2736,\fscx24\fscy24\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2769,2869,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1201,7 +1198,6 @@ Dialogue: 1,0:02:24.01,0:02:25.31,OP-Kanji,,0,0,0,,{\an5\move(642,97.5,597,72)\f
 Dialogue: 1,0:02:24.01,0:02:25.31,OP-Romaji,,0,0,0,,{\an5\move(486,43.5,441,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1316,1317,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1350,1450,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:24.01,0:02:26.64,OP-Kanji,,0,0,0,,{\an5\move(642,97.5,630,129)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2692,2693,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2726,2826,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:24.01,0:02:26.64,OP-Romaji,,0,0,0,,{\an5\move(486,43.5,474,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2692,2693,\fscx22\fscy22\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2726,2826,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:24.07,0:02:28.93,Dubtitles,,0,0,0,,If I'm here, I'll never see the future.
 Dialogue: 3,0:02:24.31,0:02:26.39,OP-Romaji,,0,0,0,,{\an5\move(513,43.5,468,88.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(1979,1980,\fscx7\fscy7\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2013,2113,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:24.39,0:02:24.89,OP-Romaji,,0,0,0,,{\an5\move(538.5,43.5,528,3)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(412,413,\fscx5\fscy5\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(446,546,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:24.39,0:02:25.39,OP-Romaji,,0,0,0,,{\an5\move(538.5,43.5,577.5,0)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(1382,1383,\fscx16\fscy16\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1416,1516,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1457,7 +1453,6 @@ Dialogue: 3,0:02:31.35,0:02:31.81,OP-Romaji,,0,0,0,,{\an5\move(1260,43.5,1294.5,
 Dialogue: 1,0:02:31.35,0:02:31.94,OP-Kanji,,0,0,0,,{\an5\move(1135.5,97.5,1090.5,58.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(457,458,\fscx7\fscy7\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(491,591,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:31.40,0:02:31.77,OP-Romaji,,0,0,0,,{\an5\move(1260,43.5,1239,64.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(346,347,\fscx17\fscy17\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(380,480,\fscx6\fscy6\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:31.40,0:02:32.40,OP-Romaji,,0,0,0,,{\an5\move(1285.5,43.5,1276.5,37.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(872,873,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(906,1006,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:31.41,0:02:34.45,Dubtitles,,0,0,0,,I'm not there yet, but I'm not there yet.
 Dialogue: 3,0:02:31.48,0:02:31.94,OP-Kanji,,0,0,0,,{\an5\org(1068,101)\pos(1171.5,97.5)\t(0,220,\fscy114\fscx114\shad12\be15\blur3.75)\t(0,440,\1c&HFFFFFF&\3c&HB47432&)\t(220,440,\fscy100\fscx100\shad0\be0\blur0)}で
 Dialogue: 3,0:02:31.48,0:02:31.94,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(1323,43.5)\t(0,220,\fscy114\fscx114\shad12\be15\blur3.75)\t(0,440,\1c&HFFFFFF&\3c&HB47432&)\t(220,440,\fscy100\fscx100\shad0\be0\blur0)}de
 Dialogue: 3,0:02:31.48,0:02:32.19,OP-Romaji,,0,0,0,,{\an5\move(1336.5,43.5,1297.5,12)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(565,566,\fscx8\fscy8\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(599,699,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -1768,7 +1763,6 @@ Dialogue: 1,0:02:35.36,0:02:36.11,OP-Romaji,,0,0,0,,{\an5\move(837,43.5,880.5,64
 Dialogue: 2,0:02:35.36,0:02:38.86,OP-Romaji,,0,0,0,,{\an5\pos(799.5,43.5)\3c&HB47432&}sa
 Dialogue: 3,0:02:35.40,0:02:36.53,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,846,48)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(1005,1006,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1039,1139,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:35.40,0:02:36.78,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,832.5,81)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1316,1317,\fscx10\fscy10\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1350,1450,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:35.41,0:02:38.27,Dubtitles,,0,0,0,,I'm not there yet, but I'm not there yet.
 Dialogue: 1,0:02:35.44,0:02:36.69,OP-Kanji,,0,0,0,,{\an5\move(826.5,97.5,781.5,93)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1434,1435,\fscx23\fscy23\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1468,1568,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:35.48,0:02:35.94,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,877.5,9)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(594,595,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(628,728,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:02:35.52,0:02:36.07,OP-Romaji,,0,0,0,,{\an5\move(861,43.5,880.5,49.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(485,486,\fscx15\fscy15\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(519,619,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -2275,7 +2269,6 @@ Dialogue: 3,0:02:41.86,0:02:44.45,OP-Romaji,,0,0,0,,{\an5\move(1303.5,43.5,1345.
 Dialogue: 3,0:02:41.86,0:02:45.24,OP-Romaji,,0,0,0,,{\an5\move(1303.5,43.5,1336.5,18)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(3416,3417,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3450,3550,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:41.91,0:02:43.37,OP-Romaji,,0,0,0,,{\an5\move(1282.5,43.5,1276.5,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1430,1431,\fscx20\fscy20\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1464,1564,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:41.91,0:02:44.83,OP-Kanji,,0,0,0,,{\an5\move(1101,97.5,1120.5,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(3175,3176,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3209,3309,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:02:41.95,0:02:43.23,Dubtitles,,0,0,0,,I'm still crying.
 Dialogue: 1,0:02:41.99,0:02:44.41,OP-Kanji,,0,0,0,,{\an5\move(1101,97.5,1056,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2897,2898,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2931,3031,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:42.32,0:02:44.53,OP-Kanji,,0,0,0,,{\an5\move(1101,97.5,1086,139.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(2208,2209,\fscx16\fscy16\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2242,2342,\fscx10\fscy10\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:02:42.41,0:02:44.58,OP-Romaji,,0,0,0,,{\an5\move(1282.5,43.5,1275,33)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2479,2480,\fscx20\fscy20\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2513,2613,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -2514,7 +2507,6 @@ Dialogue: 13,0:02:45.91,0:02:46.41,OP-Romaji,,0,0,0,,{\1a&H63&\be2\org(0,750)\an
 Dialogue: 2,0:02:45.91,0:02:46.41,OP-Romaji,,0,0,0,,{\an5\pos(894,43.5)}jou
 Dialogue: 1,0:02:45.91,0:02:49.04,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(871.5,97.5,847.5,118.5,200,2770)\t(200,2770,\fscx50\fry420\fscy50)\t(0,2770,\alpha&HFF&)}感
 Dialogue: 1,0:02:45.91,0:02:49.04,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(850.5,43.5,828,72,200,2970)\t(200,2970,\fscx50\fry420\fscy50)\t(0,2970,\alpha&HFF&)}n
-Dialogue: 0,0:02:46.29,0:02:47.69,Dubtitles,,0,0,0,,Channeling by the right word!
 Dialogue: 3,0:02:46.41,0:02:46.66,OP-Kanji,,0,0,0,,{\org(0,750)\an5\pos(942,97.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}が
 Dialogue: 29,0:02:46.41,0:02:46.66,OP-Kanji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(942,97.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}が
 Dialogue: 29,0:02:46.41,0:02:46.66,OP-Kanji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(942,97.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}が
@@ -2610,7 +2602,6 @@ Dialogue: 18,0:02:47.54,0:02:47.91,OP-Romaji,,0,0,0,,{\1a&H63&\be2\org(0,750)\an
 Dialogue: 2,0:02:47.54,0:02:47.91,OP-Romaji,,0,0,0,,{\an5\pos(1182,43.5)}wo
 Dialogue: 1,0:02:47.54,0:02:49.04,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1012.5,97.5,993,117,200,1260)\t(200,1260,\fscx50\fry420\fscy50)\t(0,1260,\alpha&HFF&)}鳴
 Dialogue: 1,0:02:47.54,0:02:49.04,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1125,43.5,1098,67.5,200,1340)\t(200,1340,\fscx50\fry420\fscy50)\t(0,1340,\alpha&HFF&)}i
-Dialogue: 0,0:02:47.77,0:02:53.03,Dubtitles,,0,0,0,,I'm making you a little bit.
 Dialogue: 3,0:02:47.91,0:02:48.20,OP-Kanji,,0,0,0,,{\org(0,750)\an5\pos(1083,97.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}あ
 Dialogue: 33,0:02:47.91,0:02:48.20,OP-Kanji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(1083,97.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}あ
 Dialogue: 33,0:02:47.91,0:02:48.20,OP-Kanji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(1083,97.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}あ
@@ -2893,7 +2884,6 @@ Dialogue: 2,0:02:52.96,0:02:53.13,OP-Romaji,,0,0,0,,{\an5\pos(1156.5,43.5)}te
 Dialogue: 1,0:02:52.96,0:02:54.21,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1012.5,97.5,991.5,126,200,1160)\t(200,1160,\fscx50\fry420\fscy50)\t(0,1160,\alpha&HFF&)}を
 Dialogue: 1,0:02:52.96,0:02:54.21,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1069.5,43.5,1051.5,31.5,200,1160)\t(200,1160,\fscx50\fry420\fscy50)\t(0,1160,\alpha&HFF&)}w
 Dialogue: 1,0:02:52.96,0:02:54.21,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(1099.5,43.5,1075.5,58.5,200,1160)\t(200,1160,\fscx50\fry420\fscy50)\t(0,1160,\alpha&HFF&)}o
-Dialogue: 0,0:02:53.11,0:02:54.53,Dubtitles,,0,0,0,,You'll be thinking about?
 Dialogue: 3,0:02:53.13,0:02:54.17,OP-Romaji,,0,0,0,,{\org(0,750)\an5\pos(1218,43.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}ni
 Dialogue: 46,0:02:53.13,0:02:54.17,OP-Romaji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(1218,43.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}ni
 Dialogue: 46,0:02:53.13,0:02:54.17,OP-Romaji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(1218,43.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}ni
@@ -2967,7 +2957,6 @@ Dialogue: 1,0:02:54.46,0:02:56.34,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&
 Dialogue: 1,0:02:54.46,0:02:59.01,OP-Kanji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(1239,109.5,1224,97.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}ら
 Dialogue: 1,0:02:54.50,0:02:56.34,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(877.5,30,850.5,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}h
 Dialogue: 1,0:02:54.54,0:02:56.34,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(897,67.5,868.5,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}i
-Dialogue: 0,0:02:54.61,0:02:55.44,Dubtitles,,0,0,0,,I'm in front.
 Dialogue: 3,0:02:54.63,0:02:54.92,OP-Kanji,,0,0,0,,{\org(0,750)\an5\pos(729,97.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}と
 Dialogue: 74,0:02:54.63,0:02:54.92,OP-Kanji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(729,97.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}と
 Dialogue: 74,0:02:54.63,0:02:54.92,OP-Kanji,,0,0,0,,{\1a&H18&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(729,97.5)\frz0.1\t(0.1\fscx130\fscy130\alpha&HFF&)}と
@@ -3070,7 +3059,6 @@ Dialogue: 1,0:02:55.46,0:02:58.84,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&
 Dialogue: 1,0:02:55.46,0:02:59.80,OP-Kanji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(801,97.5,786,103.5,200,4155)\t(200,4155,\fscx50\fry420\fscy50)\t(0,4155,\alpha&HFF&)}ん
 Dialogue: 1,0:02:55.46,0:02:59.80,OP-Romaji,,0,0,0,,{\an5\bord2.1\blur1.5\be2\move(606,43.5,577.5,21,200,4155)\t(200,4155,\fscx50\fry420\fscy50)\t(0,4155,\alpha&HFF&)}n
 Dialogue: 1,0:02:55.50,0:02:59.01,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(1452,46.5,1434,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}r
-Dialogue: 0,0:02:55.52,0:03:02.41,Dubtitles,,0,0,0,,of the sky.
 Dialogue: 1,0:02:55.54,0:02:59.01,OP-Romaji,,0,0,0,,{\an5\fad(200,0)\3c&H000000&\c&HFFFFFF&\bord3\blur7.5\move(1483.5,15,1456.5,43.5,0,400)\fscy100\frx90\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\1c&HFFFFFF&\3c&H000000&\blur0\be0\bord2.1)}a
 Dialogue: 3,0:02:55.71,0:02:56.13,OP-Romaji,,0,0,0,,{\org(0,750)\an5\pos(738,43.5)\bord3\fscx110\fscy110\frz0.1\t(\frz0\fscx100\fscy100)}su
 Dialogue: 60,0:02:55.71,0:02:56.13,OP-Romaji,,0,0,0,,{\1a&H9&\be2\org(0,750)\an5\shad0\bord0\c&HFFFFFF&\pos(738,43.5)\frz0.1\t(0.1\fscx110\fscy110\alpha&HFF&)}su
@@ -3546,7 +3534,6 @@ Dialogue: 1,0:03:02.22,0:03:02.68,OP-Romaji,,0,0,0,,{\an5\move(1017,43.5,1029,15
 Dialogue: 3,0:03:02.34,0:03:03.64,OP-Romaji,,0,0,0,,{\an5\org(1068,101)\pos(1078.5,43.5)\t(0,655,\fscy143\fscx143\shad12\be15\blur3.75)\t(0,1310,\1c&HFFFFFF&\3c&HB47432&)\t(655,1310,\fscy100\fscx100\shad0\be0\blur0)}ra
 Dialogue: 2,0:03:02.34,0:03:06.10,OP-Romaji,,0,0,0,,{\an5\pos(1030.5,43.5)\3c&HB47432&}so
 Dialogue: 1,0:03:02.43,0:03:04.89,OP-Romaji,,0,0,0,,{\an5\move(1065,43.5,1071,34.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(2811,2812,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2845,2945,\fscx4\fscy4\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:03:02.49,0:03:05.39,Dubtitles,,0,0,0,,It will go through the sky!
 Dialogue: 1,0:03:02.68,0:03:05.64,OP-Kanji,,0,0,0,,{\an5\move(976.5,97.5,996,75)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(3233,3234,\fscx14\fscy14\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3267,3367,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:02.76,0:03:05.22,OP-Kanji,,0,0,0,,{\an5\move(976.5,97.5,931.5,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2947,2948,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2981,3081,\fscx5\fscy5\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:02.97,0:03:05.10,OP-Romaji,,0,0,0,,{\an5\move(1065,43.5,1095,76.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(2239,2240,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2273,2373,\fscx1\fscy1\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -3669,7 +3656,6 @@ Dialogue: 1,0:03:04.97,0:03:06.85,OP-Kanji,,0,0,0,,{\an5\move(1224,97.5,1237.5,7
 Dialogue: 3,0:03:05.10,0:03:08.18,OP-Romaji,,0,0,0,,{\an5\move(1447.5,43.5,1480.5,4.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(3960,3961,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(3994,4094,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:05.14,0:03:06.43,OP-Romaji,,0,0,0,,{\an5\move(1426.5,43.5,1401,1.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(1397,1398,\fscx5\fscy5\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1431,1531,\fscx9\fscy9\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 3,0:03:05.14,0:03:06.43,OP-Romaji,,0,0,0,,{\an5\move(1447.5,43.5,1455,64.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p2\t(1608,1609,\fscx9\fscy9\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(1642,1742,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
-Dialogue: 0,0:03:05.47,0:03:10.15,Dubtitles,,0,0,0,,This moment in the future,
 Dialogue: 1,0:03:05.55,0:03:08.18,OP-Kanji,,0,0,0,,{\an5\move(1224,97.5,1248,82.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(2765,2766,\fscx3\fscy3\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2799,2899,\fscx8\fscy8\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:05.72,0:03:07.93,OP-Kanji,,0,0,0,,{\an5\move(1224,97.5,1212,120)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p3\t(2233,2234,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(2267,2367,\fscx11\fscy11\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
 Dialogue: 1,0:03:05.85,0:03:06.60,OP-Romaji,,0,0,0,,{\an5\move(1426.5,43.5,1441.5,25.5)\fad(150,150)\3c&HB47432&\blur3\bord1.5\p1\t(803,804,\fscx11\fscy11\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5)\t(837,937,\fscx12\fscy12\1c&HFFFFFF&\3c&H000000&\bord1.5\blur1.5)}m 0 0 l 0 4.5 l 4.5 4.5 b 6 3 6 1.5 4.5 0 l 4.5 0 b 3 -1.5 1.5 -1.5 0 0 l 0 0 b -1.5 1.5 -1.5 3 0 4.5 b 1.5 6 3 6 4.5 4.5
@@ -4130,7 +4116,6 @@ Dialogue: 3,0:03:14.23,0:03:14.48,OP-Romaji,,0,0,0,,{\an5\move(1366.5,43.5,1338,
 Dialogue: 3,0:03:14.23,0:03:14.48,OP-Romaji,,0,0,0,,{\an5\move(1392,43.5,1378.5,52.5)\fad(0,150)\t(\blur7.5\bord4.5\frz202\frx-96\fry-172)}a
 Dialogue: 3,0:03:14.23,0:03:14.48,OP-Romaji,,0,0,0,,{\an5\move(1414.5,43.5,1489.5,34.5)\fad(0,150)\t(\blur7.5\bord4.5\frz-242\frx303\fry325)}r
 Dialogue: 3,0:03:14.23,0:03:14.48,OP-Romaji,,0,0,0,,{\an5\move(1437,43.5,1572,66)\fad(0,150)\t(\blur7.5\bord4.5\frz-360\frx221\fry-59)}a
-Dialogue: 0,0:03:18.01,0:03:20.19,Dubtitles,,0,0,0,,I'll show you next time.
 Dialogue: 1,0:03:19.99,0:03:23.99,title,,0,0,0,,{\pos(960,825)\bord6.75\blur3.75\3c&H000000&\3a&H44}Gilded Hero
 Dialogue: 2,0:03:19.99,0:03:23.99,title,,0,0,0,,{\pos(960,825.45)\ybord3.45\xbord0.75\blur1.8\c&HFFFFFF&\3c&HFFF4C3&}Gilded Hero
 Dialogue: 3,0:03:19.99,0:03:23.99,title,,0,0,0,,{\bord0\blur0.75\clip(0,672,1920,675)\pos(960,825)\c&HE0E7AE&}Gilded Hero
@@ -4185,208 +4170,207 @@ Dialogue: 3,0:03:19.99,0:03:23.99,title,,0,0,0,,{\bord0\blur0.75\clip(0,816,1920
 Dialogue: 3,0:03:19.99,0:03:23.99,title,,0,0,0,,{\bord0\blur0.75\clip(0,819,1920,822)\pos(960,825)\c&HCEA717&}Gilded Hero
 Dialogue: 3,0:03:19.99,0:03:23.99,title,,0,0,0,,{\bord0\blur0.75\clip(0,822,1920,825)\pos(960,825)\c&HCEA616&}Gilded Hero
 Dialogue: 3,0:03:19.99,0:03:23.99,title,,0,0,0,,{\bord0\blur0.75\clip(0,825,1920,828)\pos(960,825)\c&HCEA616&}Gilded Hero
-Dialogue: 0,0:03:37.73,0:03:39.81,Dubtitles,,0,0,0,,Mommy! Mommy!
-Dialogue: 0,0:03:50.47,0:03:51.30,Dubtitles,,0,0,0,,Mama!
-Dialogue: 0,0:03:52.27,0:03:53.67,Dubtitles,,0,0,0,,Yui!
+Dialogue: 0,0:03:34.33,0:03:35.73,Dubtitles,,0,0,0,,Mama!
+Dialogue: 0,0:03:38.47,0:03:39.87,Dubtitles,,0,0,0,,Mama!
+Dialogue: 0,0:03:49.77,0:03:51.13,Dubtitles,,0,0,0,,Mama!
+Dialogue: 0,0:03:52.41,0:03:53.81,Dubtitles,,0,0,0,,Huey!
 Dialogue: 0,0:03:54.27,0:03:55.67,Dubtitles,,0,0,0,,Mommy!
-Dialogue: 0,0:03:56.37,0:03:57.45,Dubtitles,,0,0,0,,Yui!
-Dialogue: 0,0:04:00.13,0:04:01.53,Dubtitles,,0,0,0,,Mommy!
-Dialogue: 0,0:04:16.39,0:04:17.22,Dubtitles,,0,0,0,,Kirito
-Dialogue: 0,0:04:19.49,0:04:20.32,Dubtitles,,0,0,0,,Asuna
-Dialogue: 0,0:04:25.55,0:04:27.87,Dubtitles,,0,0,0,,Hey, sorry I took so long?
-Dialogue: 0,0:04:27.95,0:04:29.67,Dubtitles,,0,0,0,,No, it's okay.
-Dialogue: 0,0:04:29.75,0:04:30.67,Dubtitles,,0,0,0,,Really?
-Dialogue: 0,0:04:30.75,0:04:33.17,Dubtitles,,0,0,0,,I always knew you'd save me.
-Dialogue: 0,0:04:39.33,0:04:40.97,Dubtitles,,0,0,0,,Well, ready to go home?
-Dialogue: 0,0:04:44.05,0:04:47.11,Dubtitles,,0,0,0,,Hey, Yui, can you log Asuna out from here?
-Dialogue: 0,0:04:47.85,0:04:48.68,Dubtitles,,0,0,0,,Uh-uh.
-Dialogue: 0,0:04:48.83,0:04:52.53,Dubtitles,,0,0,0,,Her status is locked by complicated\Ncodes that I don't have access to.
-Dialogue: 0,0:04:52.61,0:04:55.45,Dubtitles,,0,0,0,,We'll need to find a system\Nconsole to bypass them.
-Dialogue: 0,0:04:55.53,0:04:57.49,Dubtitles,,0,0,0,,I found a console in the laboratory.
-Dialogue: 0,0:04:57.57,0:04:58.40,Dubtitles,,0,0,0,,I can...
-Dialogue: 0,0:05:01.65,0:05:02.48,Dubtitles,,0,0,0,,What's that?
-Dialogue: 0,0:05:08.23,0:05:10.51,Dubtitles,,0,0,0,,Yui, what's happening?
-Dialogue: 0,0:05:14.11,0:05:16.89,Dubtitles,,0,0,0,,Daddy, Mommy, be careful.
-Dialogue: 0,0:05:17.37,0:05:19.75,Dubtitles,,0,0,0,,Something, something bad's coming.
-Dialogue: 0,0:05:21.35,0:05:22.25,Dubtitles,,0,0,0,,Yui!
-Dialogue: 0,0:05:28.23,0:05:29.06,Dubtitles,,0,0,0,,Asuna.
+Dialogue: 0,0:03:56.33,0:03:57.71,Dubtitles,,0,0,0,,Huey!
+Dialogue: 0,0:04:00.17,0:04:01.57,Dubtitles,,0,0,0,,Mommy!
+Dialogue: 0,0:04:02.39,0:04:03.22,Dubtitles,,0,0,0,,Mommy!
+Dialogue: 0,0:04:16.01,0:04:17.41,Dubtitles,,0,0,0,,Kirito...
+Dialogue: 0,0:04:19.77,0:04:20.60,Dubtitles,,0,0,0,,Asuna.
+Dialogue: 0,0:04:25.57,0:04:27.91,Dubtitles,,0,0,0,,Hey, sorry I took so long.
+Dialogue: 0,0:04:28.41,0:04:30.79,Dubtitles,,0,0,0,,No, it's okay. Really.
+Dialogue: 0,0:04:31.21,0:04:33.17,Dubtitles,,0,0,0,,I always knew you'd save me.
+Dialogue: 0,0:04:39.05,0:04:40.97,Dubtitles,,0,0,0,,Well, ready to go home?
+Dialogue: 0,0:04:43.91,0:04:44.87,Dubtitles,,0,0,0,,Hey, Yui.
+Dialogue: 0,0:04:45.29,0:04:47.17,Dubtitles,,0,0,0,,Can you log Asuna out from here?
+Dialogue: 0,0:04:47.87,0:04:48.70,Dubtitles,,0,0,0,,Uh-uh.
+Dialogue: 0,0:04:48.83,0:04:52.65,Dubtitles,,0,0,0,,Her status is locked by complicated\Ncodes that I don't have access to.
+Dialogue: 0,0:04:52.73,0:04:55.43,Dubtitles,,0,0,0,,We'll need to find a system\Nconsole to bypass them.
+Dialogue: 0,0:04:55.51,0:04:58.17,Dubtitles,,0,0,0,,I found a console in\Nthe laboratory. I can...
+Dialogue: 0,0:05:01.55,0:05:02.38,Dubtitles,,0,0,0,,What's that?
+Dialogue: 0,0:05:08.83,0:05:09.66,Dubtitles,,0,0,0,,Yui!
+Dialogue: 0,0:05:09.74,0:05:10.57,Dubtitles,,0,0,0,,What's happening?
+Dialogue: 0,0:05:13.21,0:05:15.43,Dubtitles,,0,0,0,,Daddy! Mommy!
+Dialogue: 0,0:05:15.85,0:05:18.01,Dubtitles,,0,0,0,,Be careful! Something...
+Dialogue: 0,0:05:18.09,0:05:19.73,Dubtitles,,0,0,0,,Something bad is coming!
+Dialogue: 0,0:05:21.07,0:05:21.90,Dubtitles,,0,0,0,,Julie!
+Dialogue: 0,0:05:27.53,0:05:28.87,Dubtitles,,0,0,0,,Asuna!
 Dialogue: 0,0:05:38.21,0:05:39.61,Dubtitles,,0,0,0,,What a surprise.
-Dialogue: 0,0:05:40.29,0:05:45.03,Dubtitles,,0,0,0,,The last thing I expected to find was\Na cockroach in my little bird's cage.
+Dialogue: 0,0:05:40.31,0:05:44.91,Dubtitles,,0,0,0,,The last thing I expected to find was\Na cockroach in my little bird's cage.
 Dialogue: 0,0:05:45.31,0:05:47.81,Dubtitles,,0,0,0,,You've got to be kidding! It's Sugou!
-Dialogue: 0,0:05:49.41,0:05:50.33,Dubtitles,,0,0,0,,Mama.
-Dialogue: 0,0:05:50.73,0:05:53.71,Dubtitles,,0,0,0,,I'd prefer it if you didn't\Ncall me that name in this world.
-Dialogue: 0,0:05:53.79,0:05:57.63,Dubtitles,,0,0,0,,You should address me as His\NHighness, the Fairy King Oberon!
-Dialogue: 0,0:05:59.23,0:06:00.06,Dubtitles,,0,0,0,,Kiriko!
-Dialogue: 0,0:06:00.67,0:06:02.03,Dubtitles,,0,0,0,,How do you like it?
-Dialogue: 0,0:06:02.33,0:06:04.05,Dubtitles,,0,0,0,,Want to know why you can't move?
-Dialogue: 0,0:06:04.13,0:06:08.05,Dubtitles,,0,0,0,,It's a little something called gravity\Nmagic coming out in the next update.
-Dialogue: 0,0:06:08.13,0:06:10.13,Dubtitles,,0,0,0,,You think the players will go for it?
-Dialogue: 0,0:06:10.21,0:06:12.33,Dubtitles,,0,0,0,,Leave him alone, you coward!
-Dialogue: 0,0:06:12.93,0:06:14.77,Dubtitles,,0,0,0,,Tell me something, Kirigaya.
-Dialogue: 0,0:06:15.17,0:06:17.79,Dubtitles,,0,0,0,,Or should I call you Kirito instead?
-Dialogue: 0,0:06:18.61,0:06:21.49,Dubtitles,,0,0,0,,How did you manage to\Nget all the way up here?
-Dialogue: 0,0:06:22.17,0:06:25.23,Dubtitles,,0,0,0,,I saw a strange program\Nrunning, is that how?
-Dialogue: 0,0:06:25.73,0:06:28.71,Dubtitles,,0,0,0,,I flew up here with my wings!
-Dialogue: 0,0:06:29.59,0:06:30.42,Dubtitles,,0,0,0,,Ha!
-Dialogue: 0,0:06:30.50,0:06:31.33,Dubtitles,,0,0,0,,Suit yourself.
-Dialogue: 0,0:06:31.59,0:06:33.65,Dubtitles,,0,0,0,,If you don't want to tell me, that's fine.
-Dialogue: 0,0:06:33.73,0:06:36.69,Dubtitles,,0,0,0,,I'll just go ask your mind instead. What?
-Dialogue: 0,0:06:37.27,0:06:38.25,Dubtitles,,0,0,0,,Oh, please.
-Dialogue: 0,0:06:38.61,0:06:40.69,Dubtitles,,0,0,0,,You don't really think I went to all that
-Dialogue: 0,0:06:40.77,0:06:43.31,Dubtitles,,0,0,0,,trouble setting this whole\Nthing up just for fun,
+Dialogue: 0,0:05:49.39,0:05:50.39,Dubtitles,,0,0,0,,Mama.
+Dialogue: 0,0:05:50.73,0:05:53.73,Dubtitles,,0,0,0,,I'd prefer it if you didn't\Ncall me that name in this world.
+Dialogue: 0,0:05:53.81,0:05:57.65,Dubtitles,,0,0,0,,You should address me as His\NHighness, the Fairy King Oberon!
+Dialogue: 0,0:05:59.35,0:06:00.18,Dubtitles,,0,0,0,,Kirito!
+Dialogue: 0,0:06:00.71,0:06:02.01,Dubtitles,,0,0,0,,How do you like it?
+Dialogue: 0,0:06:02.31,0:06:04.03,Dubtitles,,0,0,0,,Wanna know why you can't move?
+Dialogue: 0,0:06:04.11,0:06:08.21,Dubtitles,,0,0,0,,It's a little something called gravity\Nmagic coming out in the next update.
+Dialogue: 0,0:06:08.29,0:06:10.13,Dubtitles,,0,0,0,,You think the players will go for it?
+Dialogue: 0,0:06:10.21,0:06:12.35,Dubtitles,,0,0,0,,Leave him alone, you coward!
+Dialogue: 0,0:06:12.97,0:06:14.79,Dubtitles,,0,0,0,,Tell me something, Kirigaya.
+Dialogue: 0,0:06:15.21,0:06:17.79,Dubtitles,,0,0,0,,Or should I call you Kirito instead?
+Dialogue: 0,0:06:18.65,0:06:21.49,Dubtitles,,0,0,0,,How did you manage to\Nget all the way up here?
+Dialogue: 0,0:06:22.21,0:06:25.23,Dubtitles,,0,0,0,,I saw a strange program\Nrunning, is that how?
+Dialogue: 0,0:06:25.93,0:06:28.73,Dubtitles,,0,0,0,,I flew up here with my wings!
+Dialogue: 0,0:06:29.67,0:06:31.01,Dubtitles,,0,0,0,,Ha! Suit yourself.
+Dialogue: 0,0:06:31.55,0:06:33.67,Dubtitles,,0,0,0,,If you don't want to tell me, that's fine.
+Dialogue: 0,0:06:33.75,0:06:36.67,Dubtitles,,0,0,0,,I'll just go ask your mind instead. What?
+Dialogue: 0,0:06:37.21,0:06:38.23,Dubtitles,,0,0,0,,Oh, please.
+Dialogue: 0,0:06:38.61,0:06:40.67,Dubtitles,,0,0,0,,You don't really think I went to all that
+Dialogue: 0,0:06:40.75,0:06:43.31,Dubtitles,,0,0,0,,trouble setting this whole\Nthing up just for fun,
 Dialogue: 0,0:06:43.39,0:06:44.22,Dubtitles,,0,0,0,,did you?
-Dialogue: 0,0:06:44.85,0:06:48.43,Dubtitles,,0,0,0,,I have 300 former players\Nof SAO under my thumb,
-Dialogue: 0,0:06:48.51,0:06:51.28,Dubtitles,,0,0,0,,and now, thanks to their\Ndedicated cooperation,
-Dialogue: 0,0:06:51.43,0:06:54.09,Dubtitles,,0,0,0,,the technology I developed\Nfor total control
+Dialogue: 0,0:06:44.81,0:06:48.45,Dubtitles,,0,0,0,,I have 300 former players\Nof SAO under my thumb,
+Dialogue: 0,0:06:48.53,0:06:51.24,Dubtitles,,0,0,0,,and now thanks to their\Ndedicated cooperation,
+Dialogue: 0,0:06:51.71,0:06:54.09,Dubtitles,,0,0,0,,The technology I developed\Nfor total control
 Dialogue: 0,0:06:54.17,0:06:56.73,Dubtitles,,0,0,0,,of emotions and thought is 80 % complete.
-Dialogue: 0,0:06:57.57,0:07:00.04,Dubtitles,,0,0,0,,I'm about to achieve what no one else has,
-Dialogue: 0,0:07:00.25,0:07:03.65,Dubtitles,,0,0,0,,the total control of the human\Nsoul, the power of a god.
-Dialogue: 0,0:07:03.91,0:07:06.09,Dubtitles,,0,0,0,,It's so close, I can almost taste it.
+Dialogue: 0,0:06:57.53,0:06:59.89,Dubtitles,,0,0,0,,I'm about to achieve what no one else has.
+Dialogue: 0,0:06:59.97,0:07:02.33,Dubtitles,,0,0,0,,The total control of the human soul.
+Dialogue: 0,0:07:02.59,0:07:03.71,Dubtitles,,0,0,0,,The power of a god.
+Dialogue: 0,0:07:03.91,0:07:06.09,Dubtitles,,0,0,0,,It's so close I can almost taste it.
 Dialogue: 0,0:07:06.57,0:07:09.28,Dubtitles,,0,0,0,,Seriously, thank god for\Nvirtual reality, huh?
-Dialogue: 0,0:07:13.69,0:07:14.52,Dubtitles,,0,0,0,,Sugou!
-Dialogue: 0,0:07:14.87,0:07:17.29,Dubtitles,,0,0,0,,You're never going to get\Naway with this, you hear?
-Dialogue: 0,0:07:17.37,0:07:18.23,Dubtitles,,0,0,0,,You monster!
-Dialogue: 0,0:07:19.23,0:07:21.35,Dubtitles,,0,0,0,,Who do you think's going to stop me?
-Dialogue: 0,0:07:21.43,0:07:22.73,Dubtitles,,0,0,0,,Oh, maybe a god.
-Dialogue: 0,0:07:22.93,0:07:24.77,Dubtitles,,0,0,0,,But sadly, there's none in this world.
-Dialogue: 0,0:07:24.85,0:07:29.25,Dubtitles,,0,0,0,,Except for yours truly, I know!
-Dialogue: 0,0:07:29.55,0:07:32.17,Dubtitles,,0,0,0,,Before I start tinkering\Nwith your little souls,
-Dialogue: 0,0:07:32.25,0:07:34.66,Dubtitles,,0,0,0,,why don't we have ourselves a little fun?
-Dialogue: 0,0:07:43.97,0:07:45.27,Dubtitles,,0,0,0,,You bastard!
-Dialogue: 0,0:07:45.71,0:07:46.71,Dubtitles,,0,0,0,,Leave her alone!
-Dialogue: 0,0:08:05.51,0:08:06.34,Dubtitles,,0,0,0,,Yes!
-Dialogue: 0,0:08:09.47,0:08:10.30,Dubtitles,,0,0,0,,Great!
-Dialogue: 0,0:08:11.65,0:08:13.35,Dubtitles,,0,0,0,,That's what I was hoping for.
+Dialogue: 0,0:07:13.65,0:07:14.48,Dubtitles,,0,0,0,,Sugou!
+Dialogue: 0,0:07:14.83,0:07:17.27,Dubtitles,,0,0,0,,You're never going to get\Naway with this, you hear?
+Dialogue: 0,0:07:17.35,0:07:18.25,Dubtitles,,0,0,0,,You monster!
+Dialogue: 0,0:07:19.05,0:07:21.37,Dubtitles,,0,0,0,,And who do you think's going to stop me?
+Dialogue: 0,0:07:21.45,0:07:22.65,Dubtitles,,0,0,0,,Oh, maybe a god.
+Dialogue: 0,0:07:22.91,0:07:25.03,Dubtitles,,0,0,0,,But sadly, there's none in this world.
+Dialogue: 0,0:07:25.11,0:07:26.67,Dubtitles,,0,0,0,,Except for yours truly!
+Dialogue: 0,0:07:28.37,0:07:29.25,Dubtitles,,0,0,0,,I know!
+Dialogue: 0,0:07:29.59,0:07:32.11,Dubtitles,,0,0,0,,Before I start tinkering\Nwith your little souls,
+Dialogue: 0,0:07:32.19,0:07:34.60,Dubtitles,,0,0,0,,why don't we have ourselves a little fun?
+Dialogue: 0,0:07:44.13,0:07:45.25,Dubtitles,,0,0,0,,You bastard!
+Dialogue: 0,0:07:45.67,0:07:46.71,Dubtitles,,0,0,0,,Leave her alone!
+Dialogue: 0,0:08:05.59,0:08:06.42,Dubtitles,,0,0,0,,Yes!
+Dialogue: 0,0:08:09.55,0:08:10.38,Dubtitles,,0,0,0,,Great!
+Dialogue: 0,0:08:11.73,0:08:13.35,Dubtitles,,0,0,0,,That's what I was hoping for.
 Dialogue: 0,0:08:13.43,0:08:16.25,Dubtitles,,0,0,0,,You can't get NPC girls\Nto make faces like that.
-Dialogue: 0,0:08:20.77,0:08:22.19,Dubtitles,,0,0,0,,You smell lovely.
-Dialogue: 0,0:08:22.99,0:08:27.52,Dubtitles,,0,0,0,,Figuring out how to replicate the way\Nyou smell in real life was a challenge.
-Dialogue: 0,0:08:28.37,0:08:31.53,Dubtitles,,0,0,0,,And don't even get me\Nstarted on how hard it was to
-Dialogue: 0,0:08:31.61,0:08:34.69,Dubtitles,,0,0,0,,get an analyzer into your\Nhospital room undetected.
-Dialogue: 0,0:08:35.67,0:08:37.05,Dubtitles,,0,0,0,,Get away from her!
-Dialogue: 0,0:08:42.63,0:08:44.47,Dubtitles,,0,0,0,,Give me a break.
-Dialogue: 0,0:08:44.75,0:08:48.59,Dubtitles,,0,0,0,,Why don't you stay down and\Ngrovel like a good little doggy?
-Dialogue: 0,0:08:52.19,0:08:53.02,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:08:58.83,0:09:03.57,Dubtitles,,0,0,0,,System command, change the pain\Nabsorber from level 10 to level 8.
-Dialogue: 0,0:09:08.29,0:09:09.35,Dubtitles,,0,0,0,,Hurts, doesn't it?
-Dialogue: 0,0:09:09.61,0:09:13.73,Dubtitles,,0,0,0,,I'll increase the pain gradually to\Ngive you something to look forward to.
-Dialogue: 0,0:09:13.81,0:09:14.77,Dubtitles,,0,0,0,,By the way,
-Dialogue: 0,0:09:15.03,0:09:19.68,Dubtitles,,0,0,0,,once it drops below level 3, it'll start\Naffecting your body in the real world.
-Dialogue: 0,0:09:20.11,0:09:21.23,Dubtitles,,0,0,0,,As for you...
-Dialogue: 0,0:09:26.09,0:09:27.09,Dubtitles,,0,0,0,,Stop it!
-Dialogue: 0,0:09:27.87,0:09:28.70,Dubtitles,,0,0,0,,Shuko!
-Dialogue: 0,0:09:29.31,0:09:30.95,Dubtitles,,0,0,0,,It's okay, Kirito.
+Dialogue: 0,0:08:20.19,0:08:22.17,Dubtitles,,0,0,0,,Ah, you smell lovely.
+Dialogue: 0,0:08:22.95,0:08:27.48,Dubtitles,,0,0,0,,Figuring out how to replicate the way\Nyou smell in real life was a challenge.
+Dialogue: 0,0:08:28.05,0:08:31.53,Dubtitles,,0,0,0,,And don't even get me\Nstarted on how hard it was to
+Dialogue: 0,0:08:31.61,0:08:34.71,Dubtitles,,0,0,0,,get an analyzer into your\Nhospital room undetected.
+Dialogue: 0,0:08:35.63,0:08:37.01,Dubtitles,,0,0,0,,Get away from her!
+Dialogue: 0,0:08:37.79,0:08:38.85,Dubtitles,,0,0,0,,She's so cool!
+Dialogue: 0,0:08:42.79,0:08:44.39,Dubtitles,,0,0,0,,Give me a break.
+Dialogue: 0,0:08:44.47,0:08:48.59,Dubtitles,,0,0,0,,Why don't you stay down and\Ngrovel like a good little doggy?
+Dialogue: 0,0:08:58.75,0:09:03.59,Dubtitles,,0,0,0,,System command, chase the pain\Nabsorber from level 10 to level 8.
+Dialogue: 0,0:09:08.21,0:09:09.35,Dubtitles,,0,0,0,,Hurts, doesn't it?
+Dialogue: 0,0:09:09.67,0:09:13.67,Dubtitles,,0,0,0,,I'll increase the pain gradually to\Ngive you something to look forward to.
+Dialogue: 0,0:09:13.75,0:09:14.79,Dubtitles,,0,0,0,,By the way,
+Dialogue: 0,0:09:15.21,0:09:20.03,Dubtitles,,0,0,0,,once it drops below level three, it'll\Nstart affecting your body in the real world.
+Dialogue: 0,0:09:20.11,0:09:21.37,Dubtitles,,0,0,0,,As for you.
+Dialogue: 0,0:09:26.11,0:09:27.09,Dubtitles,,0,0,0,,Stop it!
+Dialogue: 0,0:09:28.11,0:09:28.94,Dubtitles,,0,0,0,,Sugou!
+Dialogue: 0,0:09:29.31,0:09:30.93,Dubtitles,,0,0,0,,It's okay, Kirito.
 Dialogue: 0,0:09:31.43,0:09:34.09,Dubtitles,,0,0,0,,Whatever he does, he's\Nnot really hurting me.
-Dialogue: 0,0:09:35.83,0:09:37.65,Dubtitles,,0,0,0,,I was hoping you'd say that.
-Dialogue: 0,0:09:37.77,0:09:42.45,Dubtitles,,0,0,0,,But I wonder how long your pride's\Ngoing to last. 30 minutes? An hour?
-Dialogue: 0,0:09:42.81,0:09:46.21,Dubtitles,,0,0,0,,Why don't we see how long\Nyou can hang on to it?
-Dialogue: 0,0:10:03.61,0:10:07.90,Dubtitles,,0,0,0,,Now that that's out of the way, would\Nyou like to know what I'm thinking?
-Dialogue: 0,0:10:07.99,0:10:12.71,Dubtitles,,0,0,0,,Once we've had our fun here, I'm going\Nto pay you a visit at the hospital.
-Dialogue: 0,0:10:13.65,0:10:17.05,Dubtitles,,0,0,0,,I'll set up a big monitor and\Nplay back a recording of this.
-Dialogue: 0,0:10:17.13,0:10:20.29,Dubtitles,,0,0,0,,And we can enjoy ourselves all over again.
-Dialogue: 0,0:10:21.29,0:10:24.65,Dubtitles,,0,0,0,,But this time, with your real body.
-Dialogue: 0,0:10:38.33,0:10:39.25,Dubtitles,,0,0,0,,Yummy.
-Dialogue: 0,0:10:39.65,0:10:40.49,Dubtitles,,0,0,0,,How sweet.
-Dialogue: 0,0:10:41.47,0:10:42.30,Dubtitles,,0,0,0,,Go!
-Dialogue: 0,0:10:42.39,0:10:43.55,Dubtitles,,0,0,0,,You bastard!
-Dialogue: 0,0:10:44.07,0:10:45.45,Dubtitles,,0,0,0,,You bastard!
-Dialogue: 0,0:10:53.59,0:10:56.31,Dubtitles,,0,0,0,,I'll kill you! You hear?
-Dialogue: 0,0:10:56.65,0:10:58.59,Dubtitles,,0,0,0,,I'm going to kill you! No!
-Dialogue: 0,0:11:12.45,0:11:14.05,Dubtitles,,0,0,0,,Why is this happening?
-Dialogue: 0,0:11:15.19,0:11:18.93,Dubtitles,,0,0,0,,Am I being punished for thinking\NI was some kind of hero?
-Dialogue: 0,0:11:19.69,0:11:23.05,Dubtitles,,0,0,0,,For thinking I was the only\None who could save Asuna?
-Dialogue: 0,0:11:24.07,0:11:27.95,Dubtitles,,0,0,0,,For thinking I was strong\Nenough even though I'm not?
-Dialogue: 0,0:11:33.99,0:11:35.45,Dubtitles,,0,0,0,,Are you giving up?
-Dialogue: 0,0:11:38.25,0:11:39.65,Dubtitles,,0,0,0,,Are you giving up?
-Dialogue: 0,0:11:41.07,0:11:41.90,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:11:41.98,0:11:43.51,Dubtitles,,0,0,0,,I'm facing reality.
-Dialogue: 0,0:11:44.17,0:11:45.53,Dubtitles,,0,0,0,,Then you are giving up.
-Dialogue: 0,0:11:45.73,0:11:48.25,Dubtitles,,0,0,0,,To the power of a system you once defied.
-Dialogue: 0,0:11:49.03,0:11:50.91,Dubtitles,,0,0,0,,What choice do I have?
-Dialogue: 0,0:11:51.15,0:11:52.59,Dubtitles,,0,0,0,,I'm just a player.
-Dialogue: 0,0:11:52.91,0:11:54.45,Dubtitles,,0,0,0,,And he's the GM.
-Dialogue: 0,0:11:55.11,0:11:58.31,Dubtitles,,0,0,0,,Then our battle was... what? A joke?
-Dialogue: 0,0:11:59.25,0:12:01.59,Dubtitles,,0,0,0,,Do you remember how\Nyou showed me the power
+Dialogue: 0,0:09:35.83,0:09:40.43,Dubtitles,,0,0,0,,I was hoping you'd say that, but I wonder\Nhow long your pride's going to last.
+Dialogue: 0,0:09:40.67,0:09:42.45,Dubtitles,,0,0,0,,30 minutes? An hour?
+Dialogue: 0,0:09:43.05,0:09:46.21,Dubtitles,,0,0,0,,Why don't we see how long\Nyou can hang on to it?
+Dialogue: 0,0:10:03.57,0:10:07.86,Dubtitles,,0,0,0,,Now that that's out of the way, would\Nyou like to know what I'm thinking?
+Dialogue: 0,0:10:07.95,0:10:12.71,Dubtitles,,0,0,0,,Once we've had our fun here, I'm going\Nto pay you a visit at the hospital.
+Dialogue: 0,0:10:13.47,0:10:17.97,Dubtitles,,0,0,0,,I'll set up a big monitor and play\Nback a recording of this and we
+Dialogue: 0,0:10:18.05,0:10:24.69,Dubtitles,,0,0,0,,can enjoy ourselves all over again\Nbut this time with your real body?
+Dialogue: 0,0:10:38.17,0:10:40.57,Dubtitles,,0,0,0,,Yummy, how sweet.
+Dialogue: 0,0:10:41.63,0:10:43.57,Dubtitles,,0,0,0,,Go, you bastard!
+Dialogue: 0,0:10:44.13,0:10:45.77,Dubtitles,,0,0,0,,You bastard! Run!
+Dialogue: 0,0:10:54.15,0:10:56.29,Dubtitles,,0,0,0,,I'll kill you! You hear?
+Dialogue: 0,0:10:56.67,0:10:58.49,Dubtitles,,0,0,0,,I'm gonna kill you!
+Dialogue: 0,0:11:12.95,0:11:14.24,Dubtitles,,0,0,0,,Why is this happening?
+Dialogue: 0,0:11:15.45,0:11:18.91,Dubtitles,,0,0,0,,Am I being punished for thinking\NI was some kind of hero?
+Dialogue: 0,0:11:19.57,0:11:23.05,Dubtitles,,0,0,0,,For thinking I was the only\None who could save Asuna?
+Dialogue: 0,0:11:23.95,0:11:27.97,Dubtitles,,0,0,0,,For thinking I was strong\Nenough, even though I'm not?
+Dialogue: 0,0:11:33.97,0:11:35.45,Dubtitles,,0,0,0,,Are you giving up?
+Dialogue: 0,0:11:38.21,0:11:39.65,Dubtitles,,0,0,0,,Are you giving up?
+Dialogue: 0,0:11:41.01,0:11:41.84,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:11:41.92,0:11:43.45,Dubtitles,,0,0,0,,I'm facing reality.
+Dialogue: 0,0:11:43.53,0:11:48.27,Dubtitles,,0,0,0,,Then you are giving up to the\Npower of a system you once defied.
+Dialogue: 0,0:11:49.23,0:11:50.91,Dubtitles,,0,0,0,,What choice do I have?
+Dialogue: 0,0:11:51.17,0:11:52.59,Dubtitles,,0,0,0,,I'm just a player.
+Dialogue: 0,0:11:52.93,0:11:54.45,Dubtitles,,0,0,0,,And he's the GM.
+Dialogue: 0,0:11:55.29,0:11:58.35,Dubtitles,,0,0,0,,Then our battle was... what? A joke?
+Dialogue: 0,0:11:59.17,0:12:01.59,Dubtitles,,0,0,0,,Do you remember how\Nyou showed me the power
 Dialogue: 0,0:12:01.67,0:12:04.32,Dubtitles,,0,0,0,,of the human will was\Nsuperior to the system?
-Dialogue: 0,0:12:04.61,0:12:07.55,Dubtitles,,0,0,0,,How you showed me the\Npossibilities of the future?
-Dialogue: 0,0:12:08.15,0:12:08.98,Dubtitles,,0,0,0,,You're...
-Dialogue: 0,0:12:11.01,0:12:13.47,Dubtitles,,0,0,0,,Get up, Kirito. Get up!
-Dialogue: 0,0:12:26.91,0:12:31.85,Dubtitles,,0,0,0,,Your attacks are weak. The blades in SAO.
-Dialogue: 0,0:12:31.93,0:12:36.83,Dubtitles,,0,0,0,,hit way harder and they hurt way more
-Dialogue: 0,0:12:45.41,0:12:46.24,Dubtitles,,0,0,0,,Unbelievable.
-Dialogue: 0,0:12:46.32,0:12:48.61,Dubtitles,,0,0,0,,I've got a few bugs left to deal with.
-Dialogue: 0,0:12:51.59,0:12:52.99,Dubtitles,,0,0,0,,System login.
-Dialogue: 0,0:12:53.07,0:12:54.73,Dubtitles,,0,0,0,,ID Heathcliff.
-Dialogue: 0,0:12:56.39,0:12:57.22,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:12:57.30,0:12:58.69,Dubtitles,,0,0,0,,Whose ID are you using?
-Dialogue: 0,0:12:59.71,0:13:00.77,Dubtitles,,0,0,0,,System command.
-Dialogue: 0,0:13:01.09,0:13:02.85,Dubtitles,,0,0,0,,Enable administrator privileges.
-Dialogue: 0,0:13:02.93,0:13:04.91,Dubtitles,,0,0,0,,Set ID Oberon to level one.
-Dialogue: 0,0:13:07.03,0:13:09.17,Dubtitles,,0,0,0,,An ID that outranks mine?
-Dialogue: 0,0:13:09.55,0:13:10.75,Dubtitles,,0,0,0,,That's impossible!
-Dialogue: 0,0:13:10.83,0:13:13.31,Dubtitles,,0,0,0,,This is my world. I'm the creator.
-Dialogue: 0,0:13:13.63,0:13:16.03,Dubtitles,,0,0,0,,I'm its ruler. It's king. It's God.
-Dialogue: 0,0:13:16.21,0:13:17.45,Dubtitles,,0,0,0,,No, I don't think so.
+Dialogue: 0,0:12:04.57,0:12:07.51,Dubtitles,,0,0,0,,How you showed me the\Npossibilities of the future?
+Dialogue: 0,0:12:08.11,0:12:08.94,Dubtitles,,0,0,0,,You're...
+Dialogue: 0,0:12:10.69,0:12:13.47,Dubtitles,,0,0,0,,Get up, Kirito. Get up!
+Dialogue: 0,0:12:26.97,0:12:29.39,Dubtitles,,0,0,0,,Your attacks are weak.
+Dialogue: 0,0:12:30.53,0:12:33.11,Dubtitles,,0,0,0,,The blades in SAO hit way harder.
+Dialogue: 0,0:12:34.67,0:12:36.83,Dubtitles,,0,0,0,,And they hurt way more.
+Dialogue: 0,0:12:44.57,0:12:45.43,Dubtitles,,0,0,0,,Unbelievable.
+Dialogue: 0,0:12:46.23,0:12:48.61,Dubtitles,,0,0,0,,I've got a few bugs left to deal with.
+Dialogue: 0,0:12:50.87,0:12:52.37,Dubtitles,,0,0,0,,System login.
+Dialogue: 0,0:12:53.07,0:12:55.85,Dubtitles,,0,0,0,,ID Heathcliff. What?
+Dialogue: 0,0:12:56.81,0:12:58.69,Dubtitles,,0,0,0,,Whose ID are you using?
+Dialogue: 0,0:12:58.99,0:13:00.05,Dubtitles,,0,0,0,,System command.
+Dialogue: 0,0:13:00.37,0:13:02.25,Dubtitles,,0,0,0,,Enable administrator privileges.
+Dialogue: 0,0:13:02.95,0:13:04.91,Dubtitles,,0,0,0,,Set ID Oberon to level one.
+Dialogue: 0,0:13:07.27,0:13:09.17,Dubtitles,,0,0,0,,An ID that outranks mine?
+Dialogue: 0,0:13:09.79,0:13:10.87,Dubtitles,,0,0,0,,That's impossible!
+Dialogue: 0,0:13:11.23,0:13:13.33,Dubtitles,,0,0,0,,This is my world. I'm the creator.
+Dialogue: 0,0:13:13.61,0:13:16.07,Dubtitles,,0,0,0,,I'm its ruler, its king, its god!
+Dialogue: 0,0:13:16.19,0:13:17.43,Dubtitles,,0,0,0,,No, I don't think so.
 Dialogue: 0,0:13:17.97,0:13:20.17,Dubtitles,,0,0,0,,You stole everything in this world.
 Dialogue: 0,0:13:20.43,0:13:22.49,Dubtitles,,0,0,0,,Everything, including its people.
-Dialogue: 0,0:13:22.91,0:13:27.26,Dubtitles,,0,0,0,,You're nothing but a king of thieves,\Nsitting alone on your stolen throne.
-Dialogue: 0,0:13:27.91,0:13:29.21,Dubtitles,,0,0,0,,You little punk.
+Dialogue: 0,0:13:22.77,0:13:27.12,Dubtitles,,0,0,0,,You're nothing but a king of thieves,\Nsitting alone on your stolen throne.
+Dialogue: 0,0:13:27.33,0:13:28.73,Dubtitles,,0,0,0,,You little punk.
 Dialogue: 0,0:13:29.29,0:13:30.35,Dubtitles,,0,0,0,,You dare?
-Dialogue: 0,0:13:30.57,0:13:32.61,Dubtitles,,0,0,0,,You dare talk to me like that?
-Dialogue: 0,0:13:33.65,0:13:34.75,Dubtitles,,0,0,0,,System command.
-Dialogue: 0,0:13:35.21,0:13:36.25,Dubtitles,,0,0,0,,Generate object.
-Dialogue: 0,0:13:36.69,0:13:38.11,Dubtitles,,0,0,0,,ID Excalibur.
-Dialogue: 0,0:13:39.91,0:13:45.79,Dubtitles,,0,0,0,,Do as I say, you piece of crap! System,\Nyour God is ordering you to comply.
-Dialogue: 0,0:13:45.87,0:13:50.39,Dubtitles,,0,0,0,,Think you can wait a little bit\Nlonger this will only take a sec.
-Dialogue: 0,0:13:53.91,0:13:59.29,Dubtitles,,0,0,0,,System command generate\Nobject id excalibur.
-Dialogue: 0,0:14:01.09,0:14:04.93,Dubtitles,,0,0,0,,A simple command summons a\Nlegendary weapon who knew.
-Dialogue: 0,0:14:14.21,0:14:16.23,Dubtitles,,0,0,0,,It's time to settle the score.
-Dialogue: 0,0:14:16.67,0:14:19.87,Dubtitles,,0,0,0,,The King of Thieves\Nversus the Gilded Hero.
-Dialogue: 0,0:14:21.27,0:14:24.43,Dubtitles,,0,0,0,,System Command. Set Pain\NAbsorber to Level 0.
-Dialogue: 0,0:14:25.69,0:14:27.27,Dubtitles,,0,0,0,,No, not that.
-Dialogue: 0,0:14:27.57,0:14:28.83,Dubtitles,,0,0,0,,Did you just flinch?
-Dialogue: 0,0:14:29.11,0:14:32.85,Dubtitles,,0,0,0,,Because the other guy never flinched,\Nno matter how bad things got.
-Dialogue: 0,0:14:32.93,0:14:33.76,Dubtitles,,0,0,0,,You know him.
-Dialogue: 0,0:14:34.15,0:14:35.25,Dubtitles,,0,0,0,,Akihiko Kayaba.
-Dialogue: 0,0:14:35.53,0:14:37.15,Dubtitles,,0,0,0,,Oh my God. God.
-Dialogue: 0,0:14:37.75,0:14:38.58,Dubtitles,,0,0,0,,Kayaba?
-Dialogue: 0,0:14:38.66,0:14:39.71,Dubtitles,,0,0,0,,Oh, I get it.
-Dialogue: 0,0:14:39.87,0:14:40.97,Dubtitles,,0,0,0,,That was his ID.
-Dialogue: 0,0:14:41.65,0:14:42.48,Dubtitles,,0,0,0,,Why?
-Dialogue: 0,0:14:42.63,0:14:44.21,Dubtitles,,0,0,0,,You're supposed to be dead.
-Dialogue: 0,0:14:44.29,0:14:46.27,Dubtitles,,0,0,0,,Why are you still getting in my way?
-Dialogue: 0,0:14:46.35,0:14:48.31,Dubtitles,,0,0,0,,You are always doing this.
-Dialogue: 0,0:14:48.51,0:14:51.28,Dubtitles,,0,0,0,,Acting all high and\Nmighty, like some big shot,
-Dialogue: 0,0:14:51.39,0:14:53.91,Dubtitles,,0,0,0,,taking everything that\Nwas rightfully mine.
-Dialogue: 0,0:14:53.99,0:14:56.81,Dubtitles,,0,0,0,,Sugo, in a way, I get\Nwhere you're coming from.
-Dialogue: 0,0:14:57.11,0:14:58.47,Dubtitles,,0,0,0,,I lost to him, too.
-Dialogue: 0,0:14:58.81,0:15:00.81,Dubtitles,,0,0,0,,And then I had to go work for him.
-Dialogue: 0,0:15:02.51,0:15:05.45,Dubtitles,,0,0,0,,But whatever happened, I\Nnever wanted to be him.
-Dialogue: 0,0:15:05.53,0:15:07.15,Dubtitles,,0,0,0,,Unlike you.
-Dialogue: 0,0:15:08.57,0:15:09.51,Dubtitles,,0,0,0,,Damn you!
-Dialogue: 0,0:15:09.59,0:15:10.65,Dubtitles,,0,0,0,,Goddamn you!
-Dialogue: 0,0:15:27.31,0:15:28.73,Dubtitles,,0,0,0,,Hurts, doesn't it?
-Dialogue: 0,0:15:29.23,0:15:32.27,Dubtitles,,0,0,0,,But it's nothing like the\Npain you made Asuna feel.
-Dialogue: 0,0:15:32.63,0:15:33.59,Dubtitles,,0,0,0,,Not even close!
-Dialogue: 0,0:16:05.53,0:16:06.36,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:16:06.79,0:16:08.51,Dubtitles,,0,0,0,,Ah! Ah!
-Dialogue: 0,0:16:10.89,0:16:11.93,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:16:35.53,0:16:36.77,Dubtitles,,0,0,0,,I had faith in you.
-Dialogue: 0,0:16:38.07,0:16:39.37,Dubtitles,,0,0,0,,I have faith in you.
+Dialogue: 0,0:13:30.59,0:13:32.61,Dubtitles,,0,0,0,,You dare talk to me like that?
+Dialogue: 0,0:13:33.63,0:13:34.67,Dubtitles,,0,0,0,,System command!
+Dialogue: 0,0:13:34.91,0:13:36.15,Dubtitles,,0,0,0,,Generate Object!
+Dialogue: 0,0:13:36.49,0:13:38.13,Dubtitles,,0,0,0,,ID Excalibur!
+Dialogue: 0,0:13:39.99,0:13:42.75,Dubtitles,,0,0,0,,Do as I say, you piece of crap!
+Dialogue: 0,0:13:43.01,0:13:45.81,Dubtitles,,0,0,0,,System, your God is\Nordering you to comply!
+Dialogue: 0,0:13:46.75,0:13:48.69,Dubtitles,,0,0,0,,Think you can wait a little bit longer?
+Dialogue: 0,0:13:48.77,0:13:50.35,Dubtitles,,0,0,0,,This will only take a sec.
+Dialogue: 0,0:13:54.73,0:13:55.79,Dubtitles,,0,0,0,,System Command!
+Dialogue: 0,0:13:55.87,0:13:56.99,Dubtitles,,0,0,0,,Generate Object!
+Dialogue: 0,0:13:57.49,0:13:59.29,Dubtitles,,0,0,0,,ID Excalibur!
+Dialogue: 0,0:14:01.07,0:14:04.91,Dubtitles,,0,0,0,,A simple command summons a\Nlegendary weapon. Who knew?
+Dialogue: 0,0:14:14.01,0:14:16.23,Dubtitles,,0,0,0,,It's time to settle the score.
+Dialogue: 0,0:14:16.67,0:14:19.89,Dubtitles,,0,0,0,,The King of Thieves\Nversus the Gilded Hero.
+Dialogue: 0,0:14:21.07,0:14:24.43,Dubtitles,,0,0,0,,System command. Set Pain\NAbsorber to Level 0.
+Dialogue: 0,0:14:25.67,0:14:27.31,Dubtitles,,0,0,0,,No, not that. What?
+Dialogue: 0,0:14:27.47,0:14:28.83,Dubtitles,,0,0,0,,Did you just flinch?
+Dialogue: 0,0:14:29.03,0:14:32.89,Dubtitles,,0,0,0,,Because the other guy never flinched,\Nno matter how bad things got.
+Dialogue: 0,0:14:32.97,0:14:33.80,Dubtitles,,0,0,0,,You know him.
+Dialogue: 0,0:14:34.15,0:14:35.23,Dubtitles,,0,0,0,,Akihiko Kayaba!
+Dialogue: 0,0:14:35.53,0:14:36.77,Dubtitles,,0,0,0,,Oh my god.
+Dialogue: 0,0:14:37.71,0:14:38.54,Dubtitles,,0,0,0,,Kayaba?
+Dialogue: 0,0:14:38.71,0:14:39.69,Dubtitles,,0,0,0,,Oh, I get it.
+Dialogue: 0,0:14:39.83,0:14:40.97,Dubtitles,,0,0,0,,That was his ID.
+Dialogue: 0,0:14:41.55,0:14:42.38,Dubtitles,,0,0,0,,Why?
+Dialogue: 0,0:14:42.53,0:14:44.12,Dubtitles,,0,0,0,,You're supposed to be dead.
+Dialogue: 0,0:14:44.29,0:14:46.25,Dubtitles,,0,0,0,,Why are you still getting in my way?
+Dialogue: 0,0:14:46.33,0:14:48.31,Dubtitles,,0,0,0,,You are always doing this!
+Dialogue: 0,0:14:48.59,0:14:51.36,Dubtitles,,0,0,0,,Acting all high and\Nmighty, like some big shot!
+Dialogue: 0,0:14:51.49,0:14:53.61,Dubtitles,,0,0,0,,Taking everything that\Nwas rightfully mine!
+Dialogue: 0,0:14:53.69,0:14:59.31,Dubtitles,,0,0,0,,Sugou, in a way, I get where you're\Ncoming from. I lost to him too, and then I
+Dialogue: 0,0:14:59.39,0:15:03.97,Dubtitles,,0,0,0,,had to go work for. But whatever happened
+Dialogue: 0,0:15:04.05,0:15:07.13,Dubtitles,,0,0,0,,I never wanted to be him unlike you
+Dialogue: 0,0:15:07.95,0:15:08.85,Dubtitles,,0,0,0,,damn you?
+Dialogue: 0,0:15:26.55,0:15:28.73,Dubtitles,,0,0,0,,It hurts, doesn't it?
+Dialogue: 0,0:15:29.21,0:15:32.29,Dubtitles,,0,0,0,,But it's nothing like the\Npain you made Asuna feel.
+Dialogue: 0,0:15:32.55,0:15:33.57,Dubtitles,,0,0,0,,Not even close!
+Dialogue: 0,0:15:39.87,0:15:41.07,Dubtitles,,0,0,0,,My hand!
+Dialogue: 0,0:15:41.31,0:15:43.11,Dubtitles,,0,0,0,,My hand! My hand!
+Dialogue: 0,0:15:58.15,0:16:01.01,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:16:34.95,0:16:36.77,Dubtitles,,0,0,0,,I had faith in you.
+Dialogue: 0,0:16:37.47,0:16:39.37,Dubtitles,,0,0,0,,I have faith in you.
 Dialogue: 0,0:16:40.13,0:16:41.85,Dubtitles,,0,0,0,,Always have, always will.
-Dialogue: 0,0:16:42.77,0:16:44.71,Dubtitles,,0,0,0,,And I know you'll always save me,
-Dialogue: 0,0:16:45.31,0:16:46.66,Dubtitles,,0,0,0,,because you're my hero.
-Dialogue: 0,0:16:48.07,0:16:50.37,Dubtitles,,0,0,0,,I don't have any power.
-Dialogue: 0,0:16:50.87,0:16:52.45,Dubtitles,,0,0,0,,I'm not a hero.
-Dialogue: 0,0:16:57.43,0:17:00.65,Dubtitles,,0,0,0,,But I'll do my best to be one.
-Dialogue: 0,0:17:04.13,0:17:04.96,Dubtitles,,0,0,0,,Come on.
-Dialogue: 0,0:17:05.04,0:17:06.05,Dubtitles,,0,0,0,,Let's go home.
-Dialogue: 0,0:17:08.99,0:17:11.52,Dubtitles,,0,0,0,,It's gotta be nighttime\Nalready back there.
+Dialogue: 0,0:16:42.23,0:16:44.55,Dubtitles,,0,0,0,,And I know you'll always save me.
+Dialogue: 0,0:16:44.91,0:16:46.63,Dubtitles,,0,0,0,,Because you're my hero.
+Dialogue: 0,0:16:48.07,0:16:50.35,Dubtitles,,0,0,0,,I don't have any power.
+Dialogue: 0,0:16:50.87,0:16:52.41,Dubtitles,,0,0,0,,I'm not a hero.
+Dialogue: 0,0:16:57.83,0:17:00.67,Dubtitles,,0,0,0,,But I'll do my best to be one.
+Dialogue: 0,0:17:04.27,0:17:06.05,Dubtitles,,0,0,0,,Come on, let's go home.
+Dialogue: 0,0:17:09.01,0:17:11.60,Dubtitles,,0,0,0,,It's got to be nighttime\Nalready back there.
 Dialogue: 0,0:17:11.87,0:17:14.81,Dubtitles,,0,0,0,,But I'll see you at the\Nhospital as soon as I can.
-Dialogue: 0,0:17:15.13,0:17:16.54,Dubtitles,,0,0,0,,I'll be waiting for you.
-Dialogue: 0,0:17:16.79,0:17:20.03,Dubtitles,,0,0,0,,I want you to be the first\Nperson I see when I wake up.
-Dialogue: 0,0:17:22.63,0:17:24.47,Dubtitles,,0,0,0,,It's finally over, isn't it?
-Dialogue: 0,0:17:24.71,0:17:25.81,Dubtitles,,0,0,0,,We're going home.
-Dialogue: 0,0:17:26.67,0:17:28.13,Dubtitles,,0,0,0,,Back to the real world.
+Dialogue: 0,0:17:15.11,0:17:16.52,Dubtitles,,0,0,0,,I'll be waiting for you.
+Dialogue: 0,0:17:16.77,0:17:20.01,Dubtitles,,0,0,0,,I want you to be the first\Nperson I see when I wake up.
+Dialogue: 0,0:17:22.55,0:17:25.31,Dubtitles,,0,0,0,,It's finally over, isn't it? We're going.
+Dialogue: 0,0:17:25.39,0:17:30.17,Dubtitles,,0,0,0,,home back to the real world that's right
 Dialogue: 1,0:17:28.21,0:17:28.29,GameMessage2,,0,0,0,,{\c&HF8F7F2&\alpha&H55\blur0.75\b1\fs28.5\frx8\fay0.02\frz5.12\pos(1403.89,685.05)\clip(m 1465.5 685.5 l 1387.5 648 1585.5 634.5 1596 682.5)}Move Within Virtual Lab
 Dialogue: 1,0:17:28.21,0:17:29.21,Menus,,0,0,0,,{\alpha&H44&\blur1.2\fax0.02\fs46.5\b1\an2\pos(242.25,350.25)\frz3.3\c&HDDD8CF&}All services will be terminated upon logging out.
 Dialogue: 2,0:17:28.21,0:17:29.21,Menus,,0,0,0,,{\alpha&H44&\blur1.2\fax0.02\fs46.5\b1\an2\pos(243,348)\frz3.3\c&H201C17&}All services will be terminated u{\c&H2F271A&}pon logging out.
@@ -4401,83 +4385,76 @@ Dialogue: 1,0:17:28.46,0:17:28.58,GameMessage2,,0,0,0,,{\c&HF8F7F2&\alpha&H55\bl
 Dialogue: 1,0:17:28.46,0:17:29.21,GameMessage2,,0,0,0,,{\c&HF8F7F2&\alpha&H55\blur0.75\b1\fs28.5\frx12\fay0.02\frz5.12\pos(1407.38,788.4)}Move Between Floors
 Dialogue: 1,0:17:28.58,0:17:29.21,GameMessage2,,0,0,0,,{\c&HF8F7F2&\alpha&H55\blur0.75\b1\fs30\frx14\fay0.02\frz5.72\pos(1414.37,894.76)\clip(m 1396.5 900 l 1371 856.5 1554 853.5 1563 892.5)}Move Within Area
 Dialogue: 1,0:17:28.58,0:17:29.21,GameMessage2,,0,0,0,,{\c&HF8F7F2&\alpha&H55\blur0.75\b1\fs31.5\frx10\fay0.03\frz5.72\pos(1429.52,999.28)\clip(m 1435.5 961.5 l 1458 1003.5 1612.5 994.5 1599 960)}Leave Virtual Lab
-Dialogue: 0,0:17:29.35,0:17:30.18,Dubtitles,,0,0,0,,That's right.
-Dialogue: 0,0:17:31.17,0:17:33.82,Dubtitles,,0,0,0,,But a lot's changed, so\Ntry not to freak out.
-Dialogue: 0,0:17:34.99,0:17:37.19,Dubtitles,,0,0,0,,Let's go places and do fun things.
-Dialogue: 0,0:17:37.39,0:17:39.45,Dubtitles,,0,0,0,,Just the two of us. Sound good?
-Dialogue: 0,0:17:39.77,0:17:41.19,Dubtitles,,0,0,0,,Yeah, real good.
-Dialogue: 0,0:18:09.41,0:18:10.43,Dubtitles,,0,0,0,,That's it.
-Dialogue: 0,0:18:10.87,0:18:11.93,Dubtitles,,0,0,0,,Game over.
-Dialogue: 0,0:18:12.89,0:18:14.09,Dubtitles,,0,0,0,,Or is it?
-Dialogue: 0,0:18:16.35,0:18:18.33,Dubtitles,,0,0,0,,What do you think, Heathcliff?
-Dialogue: 0,0:18:20.17,0:18:22.69,Dubtitles,,0,0,0,,Good to see you again, Kirito.
-Dialogue: 0,0:18:22.99,0:18:24.43,Dubtitles,,0,0,0,,So you are alive.
-Dialogue: 0,0:18:24.89,0:18:27.47,Dubtitles,,0,0,0,,You could say I'm alive, in a way.
-Dialogue: 0,0:18:28.55,0:18:32.49,Dubtitles,,0,0,0,,Ultimately, I'm the afterimage of\Nthe mind that was Akihiko Kayaba.
-Dialogue: 0,0:18:32.83,0:18:33.89,Dubtitles,,0,0,0,,An echo.
-Dialogue: 0,0:18:34.51,0:18:37.80,Dubtitles,,0,0,0,,And, as usual, I have no idea\Nwhat you're talking about.
-Dialogue: 0,0:18:38.07,0:18:40.13,Dubtitles,,0,0,0,,I guess I should thank you, though.
-Dialogue: 0,0:18:40.93,0:18:42.17,Dubtitles,,0,0,0,,That's not necessary.
-Dialogue: 0,0:18:42.55,0:18:43.55,Dubtitles,,0,0,0,,What do you mean?
-Dialogue: 0,0:18:43.73,0:18:48.02,Dubtitles,,0,0,0,,We're not exactly friends, so we\Nshouldn't expect favors from each other.
-Dialogue: 0,0:18:48.49,0:18:49.63,Dubtitles,,0,0,0,,There's always a price.
-Dialogue: 0,0:18:49.71,0:18:50.54,Dubtitles,,0,0,0,,Always.
-Dialogue: 0,0:18:50.85,0:18:52.73,Dubtitles,,0,0,0,,Okay, what do you want me to do?
-Dialogue: 0,0:19:02.39,0:19:03.22,Dubtitles,,0,0,0,,What's this?
-Dialogue: 0,0:19:03.30,0:19:04.92,Dubtitles,,0,0,0,,The beginnings of a new world.
-Dialogue: 0,0:19:05.17,0:19:06.51,Dubtitles,,0,0,0,,I call it the seed.
-Dialogue: 0,0:19:08.37,0:19:10.83,Dubtitles,,0,0,0,,Once it sprouts, you'll know what it is.
-Dialogue: 0,0:19:11.25,0:19:13.19,Dubtitles,,0,0,0,,What you do with it is up to you.
-Dialogue: 0,0:19:13.43,0:19:15.49,Dubtitles,,0,0,0,,You can even delete it if you want.
-Dialogue: 0,0:19:16.13,0:19:16.96,Dubtitles,,0,0,0,,However,
-Dialogue: 0,0:19:17.04,0:19:20.55,Dubtitles,,0,0,0,,if you still have a tiny bit of\Nfondness left for the virtual world,
+Dialogue: 0,0:17:31.09,0:17:36.05,Dubtitles,,0,0,0,,But a lot's changed so try not\Nto freak out let's go places
+Dialogue: 0,0:17:36.13,0:17:41.21,Dubtitles,,0,0,0,,and do fun things Just the two\Nof us sound good yeah real good
+Dialogue: 0,0:18:09.37,0:18:14.03,Dubtitles,,0,0,0,,That's it. Game over or is it?
+Dialogue: 0,0:18:14.11,0:18:18.33,Dubtitles,,0,0,0,,what do you think Heathcliff?
+Dialogue: 0,0:18:20.33,0:18:22.69,Dubtitles,,0,0,0,,Good to see you again, Kirito.
+Dialogue: 0,0:18:23.09,0:18:24.43,Dubtitles,,0,0,0,,So you are alive.
+Dialogue: 0,0:18:24.95,0:18:27.47,Dubtitles,,0,0,0,,You could say I'm alive, in a way.
+Dialogue: 0,0:18:28.49,0:18:32.43,Dubtitles,,0,0,0,,Ultimately, I'm the afterimage of\Nthe mind that was Akihiko Kayaba.
+Dialogue: 0,0:18:32.91,0:18:33.85,Dubtitles,,0,0,0,,An echo.
+Dialogue: 0,0:18:34.39,0:18:37.71,Dubtitles,,0,0,0,,And, as usual, I have no idea\Nwhat you're talking about.
+Dialogue: 0,0:18:38.03,0:18:40.09,Dubtitles,,0,0,0,,I guess I should thank you, though.
+Dialogue: 0,0:18:40.85,0:18:42.13,Dubtitles,,0,0,0,,That's not necessary.
+Dialogue: 0,0:18:42.53,0:18:43.53,Dubtitles,,0,0,0,,What do you mean?
+Dialogue: 0,0:18:43.73,0:18:47.77,Dubtitles,,0,0,0,,We're not exactly friends, so we\Nshouldn't expect favors from each other.
+Dialogue: 0,0:18:47.85,0:18:49.20,Dubtitles,,0,0,0,,There's always a price.
+Dialogue: 0,0:18:50.41,0:18:52.65,Dubtitles,,0,0,0,,Always okay what do you want me to do?
+Dialogue: 0,0:19:02.47,0:19:06.55,Dubtitles,,0,0,0,,What's this the beginnings of\Na new world i call it the seed!
+Dialogue: 0,0:19:08.41,0:19:11.81,Dubtitles,,0,0,0,,Once it sprouts you'll\Nknow what it is what you
+Dialogue: 0,0:19:11.89,0:19:14.91,Dubtitles,,0,0,0,,do with it is up to you\Nyou can even delete it if?
+Dialogue: 0,0:19:16.57,0:19:20.55,Dubtitles,,0,0,0,,However, if you still have a tiny bit\Nof fondness left for the virtual world,
 Dialogue: 0,0:19:20.63,0:19:21.98,Dubtitles,,0,0,0,,you'll take care of it.
-Dialogue: 0,0:19:24.93,0:19:26.31,Dubtitles,,0,0,0,,I should get going now.
-Dialogue: 0,0:19:26.81,0:19:29.07,Dubtitles,,0,0,0,,I do hope we meet again, Kirito.
-Dialogue: 0,0:19:37.01,0:19:37.84,Dubtitles,,0,0,0,,Yui!
-Dialogue: 0,0:19:37.93,0:19:40.95,Dubtitles,,0,0,0,,Are you okay? Where are you? Daddy!
-Dialogue: 0,0:19:42.07,0:19:42.91,Dubtitles,,0,0,0,,Thank God.
-Dialogue: 0,0:19:43.27,0:19:44.17,Dubtitles,,0,0,0,,You're safe.
-Dialogue: 0,0:19:44.87,0:19:45.70,Dubtitles,,0,0,0,,Uh-huh.
-Dialogue: 0,0:19:45.78,0:19:49.28,Dubtitles,,0,0,0,,I hid myself inside the local\Nmemory of your nerve carrier egg.
-Dialogue: 0,0:19:49.51,0:19:52.19,Dubtitles,,0,0,0,,Where's Mommy? Don't worry. She's safe.
-Dialogue: 0,0:19:52.67,0:19:55.09,Dubtitles,,0,0,0,,She's back home now. Mommy's back?
-Dialogue: 0,0:19:55.83,0:19:56.99,Dubtitles,,0,0,0,,Thank goodness!
-Dialogue: 0,0:19:57.47,0:19:59.63,Dubtitles,,0,0,0,,I'm so happy! Really!
-Dialogue: 0,0:20:00.21,0:20:02.61,Dubtitles,,0,0,0,,I promise we'll be back to visit soon.
-Dialogue: 0,0:20:03.63,0:20:07.01,Dubtitles,,0,0,0,,Although, I don't know how much\Nlonger this world's gonna be around.
-Dialogue: 0,0:20:07.09,0:20:10.91,Dubtitles,,0,0,0,,It doesn't matter because my core\Nprogram's inside your nerve gear now.
+Dialogue: 0,0:19:24.87,0:19:26.31,Dubtitles,,0,0,0,,I should get going now.
+Dialogue: 0,0:19:26.75,0:19:29.09,Dubtitles,,0,0,0,,I do hope we meet again, Kirito.
+Dialogue: 0,0:19:37.13,0:19:37.96,Dubtitles,,0,0,0,,Yui!
+Dialogue: 0,0:19:38.04,0:19:39.95,Dubtitles,,0,0,0,,Are you okay? Where are you?
+Dialogue: 0,0:19:42.03,0:19:42.95,Dubtitles,,0,0,0,,Thank God.
+Dialogue: 0,0:19:43.31,0:19:44.15,Dubtitles,,0,0,0,,You're safe.
+Dialogue: 0,0:19:45.43,0:19:46.26,Dubtitles,,0,0,0,,Uh-huh.
+Dialogue: 0,0:19:46.34,0:19:49.32,Dubtitles,,0,0,0,,I hid myself inside the local\Nmemory of your nerve gear rig.
+Dialogue: 0,0:19:49.53,0:19:52.19,Dubtitles,,0,0,0,,Where's Mama? Don't worry. She's safe.
+Dialogue: 0,0:19:52.67,0:19:53.91,Dubtitles,,0,0,0,,She's back home now.
+Dialogue: 0,0:19:54.25,0:19:55.11,Dubtitles,,0,0,0,,Mommy's back?
+Dialogue: 0,0:19:55.93,0:19:57.01,Dubtitles,,0,0,0,,Thank goodness.
+Dialogue: 0,0:19:57.45,0:19:59.63,Dubtitles,,0,0,0,,I'm so happy. Really.
+Dialogue: 0,0:20:00.29,0:20:02.63,Dubtitles,,0,0,0,,I promise we'll be back to visit soon.
+Dialogue: 0,0:20:03.55,0:20:06.95,Dubtitles,,0,0,0,,Although, I don't know how much longer\Nthis world's going to be around.
+Dialogue: 0,0:20:07.03,0:20:10.91,Dubtitles,,0,0,0,,It doesn't matter because my core\Nprogram's inside your nerve gear now.
 Dialogue: 0,0:20:10.99,0:20:12.64,Dubtitles,,0,0,0,,So we'll always be together.
-Dialogue: 0,0:20:13.81,0:20:15.57,Dubtitles,,0,0,0,,Alright, I better head out.
-Dialogue: 0,0:20:15.81,0:20:17.16,Dubtitles,,0,0,0,,I'm gonna go see Mommy.
-Dialogue: 0,0:20:18.71,0:20:19.54,Dubtitles,,0,0,0,,Okay, Daddy.
-Dialogue: 0,0:20:19.62,0:20:20.45,Dubtitles,,0,0,0,,I love you!
+Dialogue: 0,0:20:13.75,0:20:15.57,Dubtitles,,0,0,0,,All right. I better head out.
+Dialogue: 0,0:20:15.81,0:20:17.34,Dubtitles,,0,0,0,,I'm going to go see Mommy.
+Dialogue: 0,0:20:18.77,0:20:19.60,Dubtitles,,0,0,0,,Okay, Daddy.
+Dialogue: 0,0:20:19.68,0:20:20.51,Dubtitles,,0,0,0,,I love you.
 Dialogue: 1,0:20:35.44,0:20:36.69,Menus,,0,0,0,,{\alpha&H44&\fs57\blur1.2\pos(1014,189.75)\frz352.2\c&HE6E5E9&}Are you sure you want to log out?
 Dialogue: 2,0:20:35.44,0:20:36.69,Menus,,0,0,0,,{\alpha&H44&\fs57\blur1.2\pos(1012.5,187.5)\frz352.2\c&HA296BC&}Are you sure you want to log out?
-Dialogue: 0,0:20:47.03,0:20:47.89,Dubtitles,,0,0,0,,I'm sorry!
-Dialogue: 0,0:20:48.29,0:20:52.06,Dubtitles,,0,0,0,,When you didn't log out right\Naway, I got worried, and then I...
-Dialogue: 0,0:20:52.95,0:20:54.95,Dubtitles,,0,0,0,,Sorry I took so long to come back.
-Dialogue: 0,0:20:55.55,0:20:57.15,Dubtitles,,0,0,0,,Is it really over now?
-Dialogue: 0,0:20:58.07,0:20:59.19,Dubtitles,,0,0,0,,Yeah, it is.
-Dialogue: 0,0:20:59.83,0:21:00.91,Dubtitles,,0,0,0,,It's all over.
-Dialogue: 0,0:21:02.47,0:21:03.35,Dubtitles,,0,0,0,,That's great!
-Dialogue: 0,0:21:07.63,0:21:08.46,Dubtitles,,0,0,0,,Hey, Sugu.
-Dialogue: 0,0:21:08.54,0:21:10.69,Dubtitles,,0,0,0,,Thank you for all the help you gave me.
-Dialogue: 0,0:21:10.77,0:21:12.77,Dubtitles,,0,0,0,,I couldn't have done it on my own.
-Dialogue: 0,0:21:12.91,0:21:15.05,Dubtitles,,0,0,0,,You're the reason I was able to finish it.
-Dialogue: 0,0:21:15.13,0:21:15.96,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:21:20.17,0:21:22.31,Dubtitles,,0,0,0,,You don't have to thank me for a thing.
-Dialogue: 0,0:21:22.39,0:21:26.39,Dubtitles,,0,0,0,,I'm just happy I got the chance to\Nhelp my big brother in his world.
-Dialogue: 0,0:21:34.09,0:21:35.67,Dubtitles,,0,0,0,,What happened with Asuna?
-Dialogue: 0,0:21:36.11,0:21:37.35,Dubtitles,,0,0,0,,Did you get her back?
-Dialogue: 0,0:21:38.13,0:21:39.11,Dubtitles,,0,0,0,,Uh-huh. Finally.
-Dialogue: 0,0:21:39.89,0:21:41.69,Dubtitles,,0,0,0,,She's back in the real world.
-Dialogue: 0,0:21:42.89,0:21:46.09,Dubtitles,,0,0,0,,Sugu, I... uh... No. You get going.
-Dialogue: 0,0:21:46.79,0:21:49.67,Dubtitles,,0,0,0,,She's got to be wondering\Nwhere you're at by now.
-Dialogue: 0,0:21:56.69,0:21:58.25,Dubtitles,,0,0,0,,Oh, it's cold.
-Dialogue: 0,0:21:58.93,0:22:00.51,Dubtitles,,0,0,0,,Look, snow.
-Dialogue: 0,0:22:03.97,0:22:08.03,Dubtitles,,0,0,0,,Be careful out there, and say\Nhi to Asuna for me. You got it.
-Dialogue: 0,0:22:08.21,0:22:10.74,Dubtitles,,0,0,0,,I can't wait for you\Nguys to meet for real.
+Dialogue: 0,0:20:47.07,0:20:47.90,Dubtitles,,0,0,0,,I'm sorry!
+Dialogue: 0,0:20:48.31,0:20:52.08,Dubtitles,,0,0,0,,When you didn't log out right\Naway, I got worried, and then I...
+Dialogue: 0,0:20:52.99,0:20:54.99,Dubtitles,,0,0,0,,Sorry I took so long to come back.
+Dialogue: 0,0:20:55.59,0:20:57.15,Dubtitles,,0,0,0,,Is it really over now?
+Dialogue: 0,0:20:57.55,0:20:59.23,Dubtitles,,0,0,0,,Yeah, it is.
+Dialogue: 0,0:20:59.87,0:21:00.91,Dubtitles,,0,0,0,,It's all over.
+Dialogue: 0,0:21:02.33,0:21:03.25,Dubtitles,,0,0,0,,That's great!
+Dialogue: 0,0:21:06.87,0:21:07.77,Dubtitles,,0,0,0,,Hey, Sugu.
+Dialogue: 0,0:21:08.35,0:21:10.64,Dubtitles,,0,0,0,,Thank you for all the help you gave me.
+Dialogue: 0,0:21:10.99,0:21:12.99,Dubtitles,,0,0,0,,I couldn't have done it on my own.
+Dialogue: 0,0:21:13.15,0:21:15.09,Dubtitles,,0,0,0,,You're the reason I was able to finish it.
+Dialogue: 0,0:21:15.17,0:21:16.00,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:21:20.07,0:21:22.23,Dubtitles,,0,0,0,,You don't have to thank me for a thing.
+Dialogue: 0,0:21:22.31,0:21:26.31,Dubtitles,,0,0,0,,I'm just happy I got the chance to\Nhelp my big brother in his world.
+Dialogue: 0,0:21:34.23,0:21:35.70,Dubtitles,,0,0,0,,What happened with Asuna?
+Dialogue: 0,0:21:36.13,0:21:38.11,Dubtitles,,0,0,0,,Did you get her back? Uh-huh.
+Dialogue: 0,0:21:38.63,0:21:39.46,Dubtitles,,0,0,0,,Finally.
+Dialogue: 0,0:21:40.01,0:21:41.73,Dubtitles,,0,0,0,,She's back in the real world.
+Dialogue: 0,0:21:43.01,0:21:44.93,Dubtitles,,0,0,0,,Sugu, I... Uh-uh.
+Dialogue: 0,0:21:45.21,0:21:46.09,Dubtitles,,0,0,0,,You get going.
+Dialogue: 0,0:21:46.89,0:21:49.71,Dubtitles,,0,0,0,,She's gotta be wondering\Nwhere you're at by now.
+Dialogue: 0,0:21:56.81,0:21:58.23,Dubtitles,,0,0,0,,Oh, it's cold.
+Dialogue: 0,0:21:59.47,0:22:00.51,Dubtitles,,0,0,0,,Look, snow.
+Dialogue: 0,0:22:03.87,0:22:05.21,Dubtitles,,0,0,0,,Be careful out there.
+Dialogue: 0,0:22:05.47,0:22:07.93,Dubtitles,,0,0,0,,And say hi to Asuna for me. You got it.
+Dialogue: 0,0:22:08.01,0:22:10.54,Dubtitles,,0,0,0,,I can't wait for you\Nguys to meet for real.
 Dialogue: 4,0:22:33.45,0:22:33.85,ED-Kanji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(714,87,702,105,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}止
 Dialogue: 4,0:22:33.45,0:22:33.85,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(540,51,549,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}t
 Dialogue: 4,0:22:33.46,0:22:33.85,ED-Romaji,,0,0,0,,{\an5\bord0.3\be15\3c&H000000&\c&HFFFFFF&\fad(200,0)\move(592.5,43.5,568.5,43.5,0,400)\fscy100\fry360\fscx100\t(0,400,\fscx120\frz0\fry0\frx0\fscy170)\t(400,800,\fscx100\fscy100\be0\bord3\3c&H000000&)}o
@@ -5309,6 +5286,7 @@ Dialogue: 3,0:23:01.29,0:23:02.51,ED-Kanji,,0,0,0,,{\an5\pos(1227,105)}り
 Dialogue: 3,0:23:01.29,0:23:02.51,ED-Romaji,,0,0,0,,{\an5\pos(1369.5,43.5)}ri
 Dialogue: 5,0:23:01.29,0:23:02.52,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1264.5,105)\t(0,615,\fscx120\fscy200)\t(615,1230,\fscx100\fscy100)}も
 Dialogue: 4,0:23:01.29,0:23:02.55,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1264.5,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}も
+Dialogue: 0,0:23:02.01,0:23:04.11,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 3,0:23:02.46,0:23:02.51,ED-Romaji,,0,0,0,,{\an5\pos(1428,43.5)}mo
 Dialogue: 2,0:23:02.50,0:23:03.53,ED-Kanji,,0,0,0,,{\an5\fscx21\fscy21\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(1153.5,105,1399.5,67.5))\fad(0,100)\p1\t(0.2,\frx-209\fry-106\frz-354\t(1038,1039,\fscx15\fscy15\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(1072,1172,\fscx2\fscy2\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 30 0 b 30 15 45 30 60 30 b 45 30 30 45 30 60 b 30 45 15 30 0 30 b 15 30 30 15 30 0
 Dialogue: 2,0:23:02.50,0:23:03.53,ED-Romaji,,0,0,0,,{\an5\fscx29\fscy29\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\shad0\blur3\move(579,43.5,790.5,46.5))\fad(0,100)\p1\t(0.2,\frx-165\fry88\frz80\t(1530,1531,\fscx2\fscy2\1c&HFFFFFF&\3c&HFFFFFF&\bord3\blur4.5))\t(1564,1664,\fscx3\fscy3\1c&HFFFFFF&\3c&H000000&\bord1\blur1,)}m 30 0 b 30 15 45 30 60 30 b 45 30 30 45 30 60 b 30 45 15 30 0 30 b 15 30 30 15 30 0
@@ -5436,7 +5414,6 @@ Dialogue: 4,0:23:03.62,0:23:04.74,ED-Kanji,,0,0,0,,{\shad0\an5\pos(783,105)\be8\
 Dialogue: 4,0:23:03.62,0:23:04.74,ED-Romaji,,0,0,0,,{\shad0\an5\pos(702,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ku
 Dialogue: 3,0:23:03.62,0:23:09.66,ED-Kanji,,0,0,0,,{\an5\pos(747,105)}高
 Dialogue: 3,0:23:03.62,0:23:09.66,ED-Romaji,,0,0,0,,{\an5\pos(652.5,43.5)}ka
-Dialogue: 0,0:23:04.39,0:23:07.45,Dubtitles,,0,0,0,,Highly, highly, with this hand!
 Dialogue: 5,0:23:04.71,0:23:05.06,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(759,43.5)\t(0,175,\fscx120\fscy200)\t(175,350,\fscx100\fscy100)}ta
 Dialogue: 4,0:23:04.71,0:23:05.09,ED-Romaji,,0,0,0,,{\shad0\an5\pos(759,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ta
 Dialogue: 5,0:23:04.71,0:23:05.41,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(831,105)\t(0,350,\fscx120\fscy200)\t(350,700,\fscx100\fscy100)}高
@@ -5482,7 +5459,6 @@ Dialogue: 4,0:23:07.83,0:23:08.10,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1062,105)\be8
 Dialogue: 4,0:23:07.83,0:23:08.10,ED-Romaji,,0,0,0,,{\shad0\an5\pos(1153.5,43.5)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}no
 Dialogue: 3,0:23:07.83,0:23:09.66,ED-Kanji,,0,0,0,,{\an5\pos(1024.5,105)}を
 Dialogue: 3,0:23:07.83,0:23:09.66,ED-Romaji,,0,0,0,,{\an5\pos(1084.5,43.5)}wo
-Dialogue: 0,0:23:07.85,0:23:12.11,Dubtitles,,0,0,0,,With the light of the light.
 Dialogue: 5,0:23:08.07,0:23:08.40,ED-Kanji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1098,105)\t(0,165,\fscx120\fscy200)\t(165,330,\fscx100\fscy100)}ば
 Dialogue: 5,0:23:08.07,0:23:08.40,ED-Romaji,,0,0,0,,{\3c&HB47432&\c&HFFFFFF&\an5\bord3.75\blur7.5\pos(1206,43.5)\t(0,165,\fscx120\fscy200)\t(165,330,\fscx100\fscy100)}ba
 Dialogue: 4,0:23:08.07,0:23:08.43,ED-Kanji,,0,0,0,,{\shad0\an5\pos(1098,105)\be8\c&HFFFFFF&\bord0\t(\fscy150)\t(\fscx150\fscy350)\t(\alpha&HFF&)}ば
@@ -6172,5 +6148,6 @@ Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,857,1920
 Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,861,1920,866)\pos(960,870)\c&HC39000&}The World Seed
 Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,866,1920,870)\pos(960,870)\c&HC18C00&}The World Seed
 Dialogue: 3,0:23:34.95,0:23:39.96,title,,0,0,0,,{\bord0\blur0.75\clip(0,870,1920,875)\pos(960,870)\c&HC18C00&}The World Seed
-Dialogue: 0,0:23:35.95,0:23:38.75,Dubtitles,,0,0,0,,Next time, the world's seed.
+Dialogue: 0,0:23:35.91,0:23:36.85,Dubtitles,,0,0,0,,Next time.
+Dialogue: 0,0:23:36.93,0:23:38.83,Dubtitles,,0,0,0,,The World Seed.
 

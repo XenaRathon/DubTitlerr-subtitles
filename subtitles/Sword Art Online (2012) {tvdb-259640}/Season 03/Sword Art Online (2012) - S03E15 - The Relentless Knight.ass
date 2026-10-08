@@ -30,9 +30,10 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.83,0:00:19.01,Dubtitles,,0,0,0,,Legend of the church
-Dialogue: 0,0:00:21.13,0:00:22.23,Dubtitles,,0,0,0,,We are…
-Dialogue: 0,0:00:22.31,0:00:27.07,Dubtitles,,0,0,0,,I mean, I am Vice, a sister in\Ntraining of the church. How do?
+Dialogue: 0,0:00:17.79,0:00:18.62,Dubtitles,,0,0,0,,Tatoo's
+Dialogue: 0,0:00:21.11,0:00:21.94,Dubtitles,,0,0,0,,Hello!
+Dialogue: 0,0:00:22.02,0:00:23.13,Dubtitles,,0,0,0,,We are… I mean…
+Dialogue: 0,0:00:23.21,0:00:27.07,Dubtitles,,0,0,0,,I am Fiezel, a Sister in\NTraining of the Church. How do?
 Dialogue: 0,0:00:27.87,0:00:30.91,Dubtitles,,0,0,0,,and this timid little thing\Nis my fellow sister in
 Dialogue: 0,0:00:30.99,0:00:35.49,Dubtitles,,0,0,0,,training i'm lino we heard\Nthere were intruders from
 Dialogue: 0,0:00:35.57,0:00:42.27,Dubtitles,,0,0,0,,the dark territory lurking\Nabout are you they huh i
@@ -164,7 +165,6 @@ Dialogue: 2,0:03:04.89,0:03:05.83,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\f
 Dialogue: 2,0:03:04.94,0:03:06.13,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(700.5,67.5,685.5,52.5,100,400)}ko
 Dialogue: 2,0:03:04.99,0:03:06.52,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(750,67.5,735,52.5,100,400)}e
 Dialogue: 2,0:03:05.04,0:03:06.83,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(816,67.5,801,52.5,100,400)}ga
-Dialogue: 0,0:03:05.07,0:03:06.77,Dubtitles,,0,0,0,,You're the voice of your voice.
 Dialogue: 2,0:03:05.09,0:03:07.13,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(891,67.5,876,52.5,100,400)}to
 Dialogue: 2,0:03:05.14,0:03:07.50,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(948,67.5,933,52.5,100,400)}do
 Dialogue: 2,0:03:05.19,0:03:07.77,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(1014,67.5,999,52.5,100,400)}ka
@@ -187,7 +187,6 @@ Dialogue: 2,0:03:06.52,0:03:06.83,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:06.52,0:03:07.66,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(735,52.5,585,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,310,\bord3\blur6\fscx85\fscy85)}e
 Dialogue: 2,0:03:06.83,0:03:07.13,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(768,52.5,835.5,52.5,0,300)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,300,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:06.83,0:03:07.96,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(801,52.5,651,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,300,\bord3\blur6\fscx85\fscy85)}ga
-Dialogue: 0,0:03:06.85,0:03:09.23,Dubtitles,,0,0,0,,I didn't know where you were.
 Dialogue: 2,0:03:07.13,0:03:07.50,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(852,52.5,900,52.5,0,370)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,370,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:07.13,0:03:08.33,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(876,52.5,726,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,370,\bord3\blur6\fscx85\fscy85)}to
 Dialogue: 2,0:03:07.50,0:03:07.77,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(900,52.5,966,52.5,0,270)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,270,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -206,7 +205,6 @@ Dialogue: 2,0:03:08.77,0:03:08.94,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:08.77,0:03:09.77,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1341,52.5,1191,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,170,\bord3\blur6\fscx85\fscy85)}de
 Dialogue: 2,0:03:08.94,0:03:10.11,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1390.5,52.5,1468.5,52.5,0,1170)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,1170,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:08.94,0:03:10.94,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1429.5,52.5,1279.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,1170,\bord3\blur6\fscx85\fscy85)}wa
-Dialogue: 0,0:03:09.91,0:03:12.17,Dubtitles,,0,0,0,,I didn't know where you were.
 Dialogue: 2,0:03:09.92,0:03:10.39,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(423,67.5,408,52.5,100,400)}da
 Dialogue: 2,0:03:09.97,0:03:10.56,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(480,67.5,465,52.5,100,400)}re
 Dialogue: 2,0:03:10.02,0:03:10.69,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(543,67.5,528,52.5,100,400)}mo
@@ -245,7 +243,6 @@ Dialogue: 2,0:03:12.05,0:03:12.18,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:12.05,0:03:13.01,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(876,52.5,726,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,130,\bord3\blur6\fscx85\fscy85)}re
 Dialogue: 2,0:03:12.18,0:03:12.37,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(900,52.5,967.5,52.5,0,190)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,190,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:12.18,0:03:13.20,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(933,52.5,783,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,190,\bord3\blur6\fscx85\fscy85)}na
-Dialogue: 0,0:03:12.25,0:03:14.27,Dubtitles,,0,0,0,,I didn't know where you were.
 Dialogue: 2,0:03:12.37,0:03:12.71,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(967.5,52.5,1032,52.5,0,340)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,340,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:12.37,0:03:13.54,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(999,52.5,849,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}ka
 Dialogue: 2,0:03:12.71,0:03:13.03,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1032,52.5,1093.5,52.5,0,320)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,320,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -262,7 +259,6 @@ Dialogue: 2,0:03:14.35,0:03:15.48,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:14.35,0:03:16.31,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1509,52.5,1359,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,1130,\bord3\blur6\fscx85\fscy85)}RU
 Dialogue: 2,0:03:15.31,0:03:15.78,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(589.5,67.5,574.5,52.5,100,400)}o
 Dialogue: 2,0:03:15.36,0:03:16.03,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(637.5,67.5,622.5,52.5,100,400)}sa
-Dialogue: 0,0:03:15.37,0:03:17.27,Dubtitles,,0,0,0,,I was a young girl.
 Dialogue: 2,0:03:15.41,0:03:16.47,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(702,67.5,687,52.5,100,400)}na
 Dialogue: 2,0:03:15.46,0:03:16.80,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(741,67.5,726,52.5,100,400)}i
 Dialogue: 2,0:03:15.51,0:03:16.97,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(798,67.5,783,52.5,100,400)}ko
@@ -288,7 +284,6 @@ Dialogue: 2,0:03:16.97,0:03:17.31,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:16.97,0:03:18.14,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(783,52.5,633,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}ko
 Dialogue: 2,0:03:17.31,0:03:17.63,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(814.5,52.5,864,52.5,0,320)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,320,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:17.31,0:03:18.46,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(840,52.5,690,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,320,\bord3\blur6\fscx85\fscy85)}ro
-Dialogue: 0,0:03:17.35,0:03:18.43,Dubtitles,,0,0,0,,I was a proud.
 Dialogue: 2,0:03:17.63,0:03:17.94,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(880.5,52.5,927,52.5,0,310)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,310,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:17.63,0:03:18.77,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(904.5,52.5,754.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,310,\bord3\blur6\fscx85\fscy85)}ni
 Dialogue: 2,0:03:17.94,0:03:18.24,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(943.5,52.5,1020,52.5,0,300)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,300,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -297,7 +292,6 @@ Dialogue: 2,0:03:18.24,0:03:18.43,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:18.24,0:03:19.26,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1053,52.5,903,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,190,\bord3\blur6\fscx85\fscy85)}yo
 Dialogue: 2,0:03:18.43,0:03:18.77,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1087.5,52.5,1152,52.5,0,340)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,340,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:18.43,0:03:19.60,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1119,52.5,969,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}ku
-Dialogue: 0,0:03:18.51,0:03:20.97,Dubtitles,,0,0,0,,I was the dream.
 Dialogue: 2,0:03:18.77,0:03:18.96,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1168.5,52.5,1234.5,52.5,0,190)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,190,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:18.77,0:03:19.79,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1201.5,52.5,1051.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,190,\bord3\blur6\fscx85\fscy85)}ne
 Dialogue: 2,0:03:18.96,0:03:19.24,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1234.5,52.5,1302,52.5,0,280)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,280,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -325,7 +319,6 @@ Dialogue: 2,0:03:20.99,0:03:23.19,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\f
 Dialogue: 2,0:03:21.04,0:03:23.53,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(1252.5,67.5,1237.5,52.5,100,400)}ha
 Dialogue: 2,0:03:21.05,0:03:21.20,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(375,52.5,451.5,52.5,0,150)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,150,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:21.05,0:03:22.03,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(414,52.5,264,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,150,\bord3\blur6\fscx85\fscy85)}me
-Dialogue: 0,0:03:21.05,0:03:23.05,Dubtitles,,0,0,0,,I was looking for the dreams.
 Dialogue: 2,0:03:21.09,0:03:23.64,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(1299,67.5,1284,52.5,100,400)}ji
 Dialogue: 2,0:03:21.14,0:03:24.03,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(1350,67.5,1335,52.5,100,400)}ma
 Dialogue: 2,0:03:21.19,0:03:24.36,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(1395,67.5,1380,52.5,100,400)}t
@@ -353,7 +346,6 @@ Dialogue: 2,0:03:22.86,0:03:23.03,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:22.86,0:03:23.86,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1023,52.5,873,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,170,\bord3\blur6\fscx85\fscy85)}ta
 Dialogue: 2,0:03:23.03,0:03:23.19,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1047,52.5,1092,52.5,0,160)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,160,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:23.03,0:03:24.02,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1069.5,52.5,919.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,160,\bord3\blur6\fscx85\fscy85)}bi
-Dialogue: 0,0:03:23.13,0:03:24.71,Dubtitles,,0,0,0,,I was going to come.
 Dialogue: 2,0:03:23.19,0:03:23.53,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1110,52.5,1186.5,52.5,0,340)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,340,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:23.19,0:03:24.36,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1147.5,52.5,997.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}wa
 Dialogue: 2,0:03:23.53,0:03:23.64,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1203,52.5,1270.5,52.5,0,110)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,110,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -368,7 +360,6 @@ Dialogue: 2,0:03:24.65,0:03:24.99,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:24.65,0:03:25.82,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1410,52.5,1260,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}ta
 Dialogue: 2,0:03:24.99,0:03:25.32,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1450.5,52.5,1518,52.5,0,330)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,330,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:24.99,0:03:26.15,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1485,52.5,1335,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,330,\bord3\blur6\fscx85\fscy85)}ba
-Dialogue: 0,0:03:25.23,0:03:27.97,Dubtitles,,0,0,0,,I was looking for the time.
 Dialogue: 2,0:03:25.32,0:03:25.59,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1518,52.5,1584,52.5,0,270)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,270,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:25.32,0:03:26.42,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1551,52.5,1401,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,270,\bord3\blur6\fscx85\fscy85)}ka
 Dialogue: 2,0:03:25.59,0:03:26.32,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1584,52.5,1611,52.5,0,730)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,730,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -572,6 +563,7 @@ Dialogue: 2,0:03:46.61,0:03:46.98,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:46.61,0:03:47.81,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1380,52.5,1230,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,370,\bord3\blur6\fscx85\fscy85)}na
 Dialogue: 2,0:03:46.98,0:03:47.27,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1413,52.5,1426.5,52.5,0,290)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,290,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:46.98,0:03:48.10,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1419,52.5,1269,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,290,\bord3\blur6\fscx85\fscy85)}i
+Dialogue: 0,0:03:47.05,0:03:49.25,Dubtitles,,0,0,0,,I open the eyes of the eyes.
 Dialogue: 2,0:03:47.27,0:03:47.51,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1443,52.5,1486.5,52.5,0,240)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,240,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:47.27,0:03:48.34,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1465.5,52.5,1315.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,240,\bord3\blur6\fscx85\fscy85)}ki
 Dialogue: 2,0:03:47.51,0:03:47.77,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1486.5,52.5,1521,52.5,0,260)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,260,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -604,6 +596,7 @@ Dialogue: 2,0:03:49.06,0:03:49.29,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:49.06,0:03:50.12,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(499.5,52.5,349.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,230,\bord3\blur6\fscx85\fscy85)}ka
 Dialogue: 2,0:03:49.29,0:03:49.46,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(532.5,52.5,544.5,52.5,0,170)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,170,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:49.29,0:03:50.29,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(538.5,52.5,388.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,170,\bord3\blur6\fscx85\fscy85)}i
+Dialogue: 0,0:03:49.33,0:03:52.23,Dubtitles,,0,0,0,,I open the eyes of my eyes.
 Dialogue: 2,0:03:49.46,0:03:49.73,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(561,52.5,639,52.5,0,270)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,270,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:49.46,0:03:50.56,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(600,52.5,450,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,270,\bord3\blur6\fscx85\fscy85)}wo
 Dialogue: 2,0:03:49.73,0:03:49.90,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(655.5,52.5,702,52.5,0,170)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,170,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -630,6 +623,7 @@ Dialogue: 2,0:03:51.91,0:03:52.21,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:51.91,0:03:53.04,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1285.5,52.5,1135.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,300,\bord3\blur6\fscx85\fscy85)}i
 Dialogue: 2,0:03:52.21,0:03:52.53,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1308,52.5,1386,52.5,0,320)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,320,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:52.21,0:03:53.36,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1347,52.5,1197,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,320,\bord3\blur6\fscx85\fscy85)}wo
+Dialogue: 0,0:03:52.31,0:03:54.47,Dubtitles,,0,0,0,,I'm with my eyes.
 Dialogue: 2,0:03:52.53,0:03:52.92,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1402.5,52.5,1468.5,52.5,0,390)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,390,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:52.53,0:03:53.75,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1435.5,52.5,1285.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,390,\bord3\blur6\fscx85\fscy85)}da
 Dialogue: 2,0:03:52.92,0:03:53.03,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1468.5,52.5,1482,52.5,0,110)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,110,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -671,6 +665,7 @@ Dialogue: 2,0:03:54.32,0:03:54.50,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:54.32,0:03:55.33,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(511.5,52.5,361.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,180,\bord3\blur6\fscx85\fscy85)}ki
 Dialogue: 2,0:03:54.50,0:03:54.67,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(550.5,52.5,625.5,52.5,0,170)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,170,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:54.50,0:03:55.50,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(588,52.5,438,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,170,\bord3\blur6\fscx85\fscy85)}me
+Dialogue: 0,0:03:54.55,0:03:56.25,Dubtitles,,0,0,0,,I'm going to connect you.
 Dialogue: 2,0:03:54.67,0:03:55.00,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(643.5,52.5,708,52.5,0,330)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,330,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:54.67,0:03:55.83,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(675,52.5,525,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,330,\bord3\blur6\fscx85\fscy85)}de
 Dialogue: 2,0:03:55.00,0:03:55.14,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(726,52.5,757.5,52.5,0,140)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,140,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -703,6 +698,7 @@ Dialogue: 2,0:03:58.41,0:03:59.08,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:03:58.41,0:03:59.91,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1603.5,52.5,1453.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,670,\bord3\blur6\fscx85\fscy85)}ka
 Dialogue: 2,0:03:59.08,0:03:59.80,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1636.5,52.5,1684.5,52.5,0,720)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,720,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:03:59.08,0:04:00.63,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1660.5,52.5,1510.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,720,\bord3\blur6\fscx85\fscy85)}ra
+Dialogue: 0,0:03:59.19,0:04:00.90,Dubtitles,,0,0,0,,I'm going to hear your voice.
 Dialogue: 2,0:03:59.55,0:04:00.02,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(466.5,67.5,451.5,52.5,100,400)}ko
 Dialogue: 2,0:03:59.60,0:04:00.46,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(514.5,67.5,499.5,52.5,100,400)}e
 Dialogue: 2,0:03:59.65,0:04:01.06,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(586.5,67.5,571.5,52.5,100,400)}wo
@@ -739,6 +735,7 @@ Dialogue: 2,0:04:03.13,0:04:03.30,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:04:03.13,0:04:04.13,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(814.5,52.5,664.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,170,\bord3\blur6\fscx85\fscy85)}se
 Dialogue: 2,0:04:03.30,0:04:04.29,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(846,52.5,892.5,52.5,0,990)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,990,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:04:03.30,0:04:05.12,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(868.5,52.5,718.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,990,\bord3\blur6\fscx85\fscy85)}te
+Dialogue: 0,0:04:03.89,0:04:06.53,Dubtitles,,0,0,0,,I'm going to fight you.
 Dialogue: 2,0:04:04.29,0:04:04.44,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(909,52.5,942,52.5,0,150)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,150,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:04:04.29,0:04:05.27,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(925.5,52.5,775.5,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,150,\bord3\blur6\fscx85\fscy85)}u
 Dialogue: 2,0:04:04.44,0:04:04.60,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(942,52.5,976.5,52.5,0,160)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,160,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
@@ -761,7 +758,7 @@ Dialogue: 2,0:04:06.46,0:04:06.81,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:04:06.46,0:04:07.64,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1404,52.5,1254,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,350,\bord3\blur6\fscx85\fscy85)}yu
 Dialogue: 2,0:04:06.81,0:04:09.25,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(1437,52.5,1501.5,52.5,0,2440)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,2440,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:04:06.81,0:04:10.08,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1470,52.5,1320,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,2440,\bord3\blur6\fscx85\fscy85)}ke
-Dialogue: 0,0:04:07.83,0:04:11.05,Dubtitles,,0,0,0,,I got myself.
+Dialogue: 0,0:04:08.85,0:04:11.13,Dubtitles,,0,0,0,,I'm going to go myself.
 Dialogue: 2,0:04:09.10,0:04:09.57,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(816,67.5,801,52.5,100,400)}PROUD
 Dialogue: 2,0:04:09.15,0:04:10.03,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(960,67.5,945,52.5,100,400)}OF
 Dialogue: 2,0:04:09.20,0:04:10.37,OpCima,,0,0,0,fx,{\an5\org(-7499,60)\fscx130\fscy130\t(0,150,\t(0,300,\fscx100\fscy100))\t(0,100,\frz0.2\t(100,200,\frz0))\move(1119,67.5,1104,52.5,100,400)}MYSELF
@@ -771,7 +768,6 @@ Dialogue: 2,0:04:10.03,0:04:10.37,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\f
 Dialogue: 2,0:04:10.03,0:04:11.20,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(945,52.5,795,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,340,\bord3\blur6\fscx85\fscy85)}OF
 Dialogue: 2,0:04:10.37,0:04:11.95,OpCima,,0,0,0,fx,{\an5\fad(0,100)\c&HFFFFFF&\fscx100\fscy200\bord3\blur22.5\shad0\move(997.5,52.5,1210.5,52.5,0,1580)\t(0,100,\bord7.5\blur37.5\fscx300\fscy300)\t(100,1580,\bord3\blur22.5\fscx100\fscy100)\p1}m 30 30 b 31.5 31.5 31.5 31.5 30 30 b 37.5 33 36 30 37.5 0 b 37.5 33 39 30 45 30 b 42 37.5 46.5 36 66 37.5 b 46.5 39 42 37.5 45 45 b 37.5 42 39 49.5 37.5 75 b 36 49.5 37.5 42 30 45 b 33 37.5 28.5 39 10.5 37.5 b 28.5 36 33 37.5 30 30
 Dialogue: 2,0:04:10.37,0:04:12.78,OpCima,,0,0,0,fx,{\an5\fscx100\fscy100\fad(0,500)\c&H00FFFFFF&\bord3\shad0\move(1104,52.5,954,48,0,3000)\t(0,30,\c&HFFFFFF&\3c&HFFFFFF&\bord7.5\blur12\fscx200\fscy200)\t(30,1580,\bord3\blur6\fscx85\fscy85)}MYSELF
-Dialogue: 0,0:04:11.83,0:04:12.66,Dubtitles,,0,0,0,,Ah
 Dialogue: 1,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\fscx100\bord4\blur2\c&H444142&\3c&H4A4A4A&\fs200\fnBell Gothic Bold\pos(960,360.6)}The Scorcher Knight
 Dialogue: 1,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\fscx100\bord4\blur4\c&H000000&\3c&H2C2C2C&\fs200\fnBell Gothic Bold\pos(960,360.6)}The Scorcher Knight
 Dialogue: 2,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HEAEAEA&\3c&HE6E6E6&\fs200\fnBell Gothic Bold\pos(960,362.6)}The Scorcher Knight
@@ -829,61 +825,64 @@ Dialogue: 3,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\clip(241,438,1682,441)\pos(960
 Dialogue: 3,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\clip(241,441,1682,444)\pos(960,360.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8938EE&}The Scorcher Knight
 Dialogue: 3,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\clip(241,444,1682,447)\pos(960,360.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8735EE&}The Scorcher Knight
 Dialogue: 3,0:04:19.00,0:04:23.01,Signs,,0,0,0,,{\clip(241,447,1682,450)\pos(960,360.6)\fscx100\blur0.8\fs200\fnBell Gothic Bold\c&H8531EE&}The Scorcher Knight
-Dialogue: 0,0:04:30.57,0:04:32.79,Dubtitles,,0,0,0,,Yosia! Yosia!
-Dialogue: 0,0:04:37.97,0:04:40.89,Dubtitles,,0,0,0,,My name is Beezel Synthesis 29.
-Dialogue: 0,0:04:42.35,0:04:43.19,Dubtitles,,0,0,0,,You're...
-Dialogue: 0,0:04:45.75,0:04:46.83,Dubtitles,,0,0,0,,In-tech...
-Dialogue: 0,0:04:53.65,0:04:56.57,Dubtitles,,0,0,0,,Don't fret, Eugeo, without a last name.
-Dialogue: 0,0:04:56.89,0:04:58.35,Dubtitles,,0,0,0,,You're ours now.
-Dialogue: 0,0:05:04.93,0:05:07.11,Dubtitles,,0,0,0,,It's a paralysis poison.
-Dialogue: 0,0:05:07.83,0:05:09.63,Dubtitles,,0,0,0,,We don't want you to die yet.
-Dialogue: 0,0:05:09.89,0:05:12.66,Dubtitles,,0,0,0,,Not until we get you to\Nthe 50th floor, anyway.
-Dialogue: 0,0:05:13.51,0:05:15.33,Dubtitles,,0,0,0,,I'm sure you must be wondering.
-Dialogue: 0,0:05:16.65,0:05:20.71,Dubtitles,,0,0,0,,How in the world did these two little\Ngirls become Integrity Knights?
-Dialogue: 0,0:05:23.81,0:05:27.01,Dubtitles,,0,0,0,,We were born and raised\Ninside the Central Cathedral.
-Dialogue: 0,0:05:29.09,0:05:33.95,Dubtitles,,0,0,0,,One day, Administrator herself ordered\Nthe monks and nuns here to create us.
-Dialogue: 0,0:05:34.89,0:05:38.39,Dubtitles,,0,0,0,,She needed test subjects\Nfor a sacred arch she was
+Dialogue: 0,0:04:30.59,0:04:31.99,Dubtitles,,0,0,0,,Yuxia!
+Dialogue: 0,0:04:34.93,0:04:36.33,Dubtitles,,0,0,0,,Yuxia!
+Dialogue: 0,0:04:37.81,0:04:40.91,Dubtitles,,0,0,0,,Heh, my name is Beezel Synthesis 29.
+Dialogue: 0,0:04:41.87,0:04:43.95,Dubtitles,,0,0,0,,You're... Pfft!
+Dialogue: 0,0:04:45.19,0:04:46.02,Dubtitles,,0,0,0,,In...
+Dialogue: 0,0:04:46.10,0:04:46.93,Dubtitles,,0,0,0,,Te...
+Dialogue: 0,0:04:53.81,0:04:56.57,Dubtitles,,0,0,0,,Don't fret, Eugeo. Without a last name.
+Dialogue: 0,0:04:56.95,0:04:58.33,Dubtitles,,0,0,0,,You're ours now.
+Dialogue: 0,0:05:05.09,0:05:07.07,Dubtitles,,0,0,0,,It's a paralysis poison.
+Dialogue: 0,0:05:08.27,0:05:09.87,Dubtitles,,0,0,0,,We don't want you to die yet.
+Dialogue: 0,0:05:09.95,0:05:12.66,Dubtitles,,0,0,0,,Not until we get you to\Nthe 50th floor anyway.
+Dialogue: 0,0:05:13.31,0:05:15.23,Dubtitles,,0,0,0,,I'm sure you must be wondering,
+Dialogue: 0,0:05:15.57,0:05:20.51,Dubtitles,,0,0,0,,how in the world did these two little\Ngirls become Integrity Knights?
+Dialogue: 0,0:05:23.77,0:05:27.07,Dubtitles,,0,0,0,,We were born and raised\Ninside the Central Cathedral.
+Dialogue: 0,0:05:29.21,0:05:33.99,Dubtitles,,0,0,0,,One day, Administrator herself ordered\Nthe monks and nuns here to create us.
+Dialogue: 0,0:05:34.81,0:05:38.39,Dubtitles,,0,0,0,,She needed test subjects\Nfor a sacred arch she was
 Dialogue: 0,0:05:38.47,0:05:41.35,Dubtitles,,0,0,0,,experimenting with that\Ncould resurrect the dead.
-Dialogue: 0,0:05:42.89,0:05:47.25,Dubtitles,,0,0,0,,We received our callings when we were\Nfive, earlier than other children.
-Dialogue: 0,0:05:47.83,0:05:50.09,Dubtitles,,0,0,0,,Our job was to kill each other.
-Dialogue: 0,0:05:51.17,0:05:53.83,Dubtitles,,0,0,0,,We were given little swords\Nthat looked like toys.
-Dialogue: 0,0:05:53.91,0:05:57.17,Dubtitles,,0,0,0,,Then we'd peer off and take\Nturns stabbing each other.
-Dialogue: 0,0:06:28.55,0:06:32.69,Dubtitles,,0,0,0,,At first, administrators'\Nattempts at resurrection were...
-Dialogue: 0,0:06:32.77,0:06:35.03,Dubtitles,,0,0,0,,How shall I say, not so good.
-Dialogue: 0,0:06:36.05,0:06:38.29,Dubtitles,,0,0,0,,There were some children who exploded.
-Dialogue: 0,0:06:39.69,0:06:42.71,Dubtitles,,0,0,0,,And others who ended up\Nas weird blobs of flesh.
-Dialogue: 0,0:06:43.07,0:06:46.61,Dubtitles,,0,0,0,,And still others who returned,\Nbut were... different.
+Dialogue: 0,0:05:43.27,0:05:47.51,Dubtitles,,0,0,0,,We received our callings when we were\Nfive, earlier than other children.
+Dialogue: 0,0:05:47.89,0:05:50.09,Dubtitles,,0,0,0,,Our job was to kill each other.
+Dialogue: 0,0:05:51.21,0:05:54.15,Dubtitles,,0,0,0,,We were given little swords\Nthat looked like toys.
+Dialogue: 0,0:05:54.27,0:05:57.45,Dubtitles,,0,0,0,,Then we'd peer off and take\Nturns stabbing each other.
+Dialogue: 0,0:06:28.71,0:06:30.57,Dubtitles,,0,0,0,,At first, administrators'
+Dialogue: 0,0:06:30.95,0:06:35.03,Dubtitles,,0,0,0,,attempts at resurrection were,\Nhow shall I say, not so good.
+Dialogue: 0,0:06:35.97,0:06:38.29,Dubtitles,,0,0,0,,There were some children who exploded,
+Dialogue: 0,0:06:38.59,0:06:42.73,Dubtitles,,0,0,0,,and others who ended up\Nas weird blobs of flesh.
+Dialogue: 0,0:06:43.27,0:06:45.67,Dubtitles,,0,0,0,,And still others who returned, but were...
+Dialogue: 0,0:06:45.75,0:06:46.59,Dubtitles,,0,0,0,,different.
 Dialogue: 0,0:06:47.33,0:06:51.68,Dubtitles,,0,0,0,,We were being resurrected over and\Nover, but we didn't like dying in pain.
-Dialogue: 0,0:06:51.89,0:06:54.99,Dubtitles,,0,0,0,,So the two of us researched\Nhow to kill with one strike.
-Dialogue: 0,0:06:55.07,0:06:58.35,Dubtitles,,0,0,0,,We found that if we killed\Ncleanly, it didn't hurt as much.
-Dialogue: 0,0:06:58.43,0:07:01.90,Dubtitles,,0,0,0,,And the odds of being successfully\Nresurrected were higher.
-Dialogue: 0,0:07:03.57,0:07:04.40,Dubtitles,,0,0,0,,But...
-Dialogue: 0,0:07:04.48,0:07:07.39,Dubtitles,,0,0,0,,the problem was deciding\Nwhich strike worked the best.
-Dialogue: 0,0:07:08.69,0:07:12.98,Dubtitles,,0,0,0,,We narrowed it down to lopping off\Nthe head or a quick stab to the heart.
-Dialogue: 0,0:07:13.15,0:07:15.05,Dubtitles,,0,0,0,,They both worked equally well.
-Dialogue: 0,0:07:17.63,0:07:18.81,Dubtitles,,0,0,0,,In the end, though,
-Dialogue: 0,0:07:19.13,0:07:21.13,Dubtitles,,0,0,0,,Administrator decided it was too difficult
-Dialogue: 0,0:07:21.21,0:07:23.55,Dubtitles,,0,0,0,,to master this sacred art of resurrection.
-Dialogue: 0,0:07:23.63,0:07:27.40,Dubtitles,,0,0,0,,We were about eight years old\Nwhen she abandoned the experiment.
-Dialogue: 0,0:07:27.93,0:07:33.09,Dubtitles,,0,0,0,,When it started, there were 30 of us,\Nbut Seal and I were the only survivors.
-Dialogue: 0,0:07:38.03,0:07:42.25,Dubtitles,,0,0,0,,Then, Administrator made a special\Nexception and made us Integrity Knights.
-Dialogue: 0,0:07:42.33,0:07:44.05,Dubtitles,,0,0,0,,Well, to a certain degree.
-Dialogue: 0,0:07:44.61,0:07:48.87,Dubtitles,,0,0,0,,She said we hadn't learned enough to go\Non guard duty like the other knights,
-Dialogue: 0,0:07:48.95,0:07:51.87,Dubtitles,,0,0,0,,so we've been studying\Nthe laws and sacred arts
+Dialogue: 0,0:06:51.89,0:06:54.97,Dubtitles,,0,0,0,,So the two of us researched\Nhow to kill with one strike.
+Dialogue: 0,0:06:55.05,0:06:58.33,Dubtitles,,0,0,0,,We found that if we killed\Ncleanly, it didn't hurt as much.
+Dialogue: 0,0:06:58.41,0:07:01.88,Dubtitles,,0,0,0,,And the odds of being successfully\Nresurrected were higher.
+Dialogue: 0,0:07:03.23,0:07:04.06,Dubtitles,,0,0,0,,But...
+Dialogue: 0,0:07:04.14,0:07:07.39,Dubtitles,,0,0,0,,The problem was deciding\Nwhich strike worked the best.
+Dialogue: 0,0:07:08.75,0:07:12.99,Dubtitles,,0,0,0,,We narrowed it down to lopping up the\Nhead or a quick stab to the heart.
+Dialogue: 0,0:07:13.27,0:07:15.05,Dubtitles,,0,0,0,,They both worked equally well.
+Dialogue: 0,0:07:17.65,0:07:18.81,Dubtitles,,0,0,0,,In the end, though,
+Dialogue: 0,0:07:19.13,0:07:23.57,Dubtitles,,0,0,0,,Administrator decided it was too difficult\Nto master the Sacred Art of Resurrection.
+Dialogue: 0,0:07:23.65,0:07:27.42,Dubtitles,,0,0,0,,We were about eight years old\Nwhen she abandoned the experiment.
+Dialogue: 0,0:07:27.99,0:07:30.40,Dubtitles,,0,0,0,,When it started, there were thirty of us.
+Dialogue: 0,0:07:30.67,0:07:33.07,Dubtitles,,0,0,0,,But Seal and I were the only survivors.
+Dialogue: 0,0:07:38.11,0:07:41.87,Dubtitles,,0,0,0,,Then, Administrator made a special\Nexception and made us Integrity Knights.
+Dialogue: 0,0:07:41.95,0:07:44.07,Dubtitles,,0,0,0,,Well, to a certain degree.
+Dialogue: 0,0:07:44.69,0:07:48.89,Dubtitles,,0,0,0,,She said we hadn't learned enough to go\Non guard duty like the other knights,
+Dialogue: 0,0:07:48.97,0:07:51.87,Dubtitles,,0,0,0,,so we've been studying\Nthe laws and sacred arts
 Dialogue: 0,0:07:51.95,0:07:54.89,Dubtitles,,0,0,0,,with the other apprentices\Nfor the past two years.
-Dialogue: 0,0:07:55.27,0:07:57.71,Dubtitles,,0,0,0,,To be honest, we're tired of it.
-Dialogue: 0,0:07:59.05,0:08:00.11,Dubtitles,,0,0,0,,Earlier today,
-Dialogue: 0,0:08:00.35,0:08:04.73,Dubtitles,,0,0,0,,we were discussing ways to earn our\Ndragons and divine objects more quickly.
-Dialogue: 0,0:08:04.81,0:08:09.28,Dubtitles,,0,0,0,,We heard that minions from the Dark\NTerritory had infiltrated the Cathedral.
-Dialogue: 0,0:08:09.89,0:08:14.69,Dubtitles,,0,0,0,,So we thought if we could capture and\Nexecute them before the other knights could,
-Dialogue: 0,0:08:14.77,0:08:16.81,Dubtitles,,0,0,0,,it would show Administrator how capable we
-Dialogue: 0,0:08:16.89,0:08:19.15,Dubtitles,,0,0,0,,were and she would make\Nus full-fledged knights.
-Dialogue: 0,0:08:19.23,0:08:20.82,Dubtitles,,0,0,0,,So we waited on the stairs.
-Dialogue: 0,0:08:23.51,0:08:26.29,Dubtitles,,0,0,0,,We're truly sorry for using poison on you.
-Dialogue: 0,0:08:26.37,0:08:30.39,Dubtitles,,0,0,0,,it was our only option\Nyou see we wanted to
-Dialogue: 0,0:08:30.47,0:08:32.91,Dubtitles,,0,0,0,,bring you to the 50th\Nfloor alive if possible
-Dialogue: 0,0:08:32.99,0:08:36.57,Dubtitles,,0,0,0,,oh and when we do get\Nthere don't you worry?
-Dialogue: 0,0:08:36.65,0:08:39.00,Dubtitles,,0,0,0,,Fiesel and I are really good at killing.
+Dialogue: 0,0:07:55.37,0:07:57.73,Dubtitles,,0,0,0,,To be honest, we're tired of it.
+Dialogue: 0,0:07:59.01,0:08:00.09,Dubtitles,,0,0,0,,Earlier today,
+Dialogue: 0,0:08:00.33,0:08:04.75,Dubtitles,,0,0,0,,we were discussing ways to earn our\Ndragons and divine objects more quickly.
+Dialogue: 0,0:08:04.83,0:08:09.30,Dubtitles,,0,0,0,,We heard that minions from the Dark\NTerritory had infiltrated the Cathedral.
+Dialogue: 0,0:08:09.85,0:08:14.57,Dubtitles,,0,0,0,,So we thought, if we could capture and\Nexecute them before the other knights could,
+Dialogue: 0,0:08:14.65,0:08:17.13,Dubtitles,,0,0,0,,it would show Administrator\Nhow capable we were,
+Dialogue: 0,0:08:17.21,0:08:19.19,Dubtitles,,0,0,0,,and she would make us\Nfull-bledged knights.
+Dialogue: 0,0:08:19.27,0:08:20.92,Dubtitles,,0,0,0,,So, we waited on the stairs.
+Dialogue: 0,0:08:23.53,0:08:26.37,Dubtitles,,0,0,0,,We're truly sorry for using poison on you.
+Dialogue: 0,0:08:26.87,0:08:28.63,Dubtitles,,0,0,0,,It was our only option.
+Dialogue: 0,0:08:29.01,0:08:33.01,Dubtitles,,0,0,0,,You see, we wanted to bring you to\Nthe 50th floor alive if possible.
+Dialogue: 0,0:08:33.37,0:08:36.55,Dubtitles,,0,0,0,,Oh, and when we do get\Nthere, don't you worry.
+Dialogue: 0,0:08:36.63,0:08:38.98,Dubtitles,,0,0,0,,Fiesel and I are really good at killing.
 Dialogue: 0,0:08:39.29,0:08:40.87,Dubtitles,,0,0,0,,It won't hurt at all!
 Dialogue: 1,0:08:41.60,0:08:47.48,Signs,,0,0,0,,{\fs62\fnQuadraat-Bold\blur0.5\pos(956.98,857.6)\c&HF5F5F5&\alpha&HFF&\t(0,120,\alpha&H00&)\t(4920,5040,\alpha&HFF&)}C{\alpha&HFF&\t(15,135,\alpha&H00&)\t(4937,5057,\alpha&HFF&)}e{\alpha&HFF&\t(31,151,\alpha&H00&)\t(4954,5074,\alpha&HFF&)}n{\alpha&HFF&\t(47,167,\alpha&H00&)\t(4971,5091,\alpha&HFF&)}t{\alpha&HFF&\t(63,183,\alpha&H00&)\t(4988,5108,\alpha&HFF&)}r{\alpha&HFF&\t(79,199,\alpha&H00&)\t(5005,5125,\alpha&HFF&)}a{\alpha&HFF&\t(95,215,\alpha&H00&)\t(5022,5142,\alpha&HFF&)}l {\alpha&HFF&\t(111,231,\alpha&H00&)\t(5040,5160,\alpha&HFF&)}C{\alpha&HFF&\t(127,247,\alpha&H00&)\t(5057,5177,\alpha&HFF&)}a{\alpha&HFF&\t(143,263,\alpha&H00&)\t(5074,5194,\alpha&HFF&)}t{\alpha&HFF&\t(159,279,\alpha&H00&)\t(5091,5211,\alpha&HFF&)}h{\alpha&HFF&\t(175,295,\alpha&H00&)\t(5108,5228,\alpha&HFF&)}e{\alpha&HFF&\t(191,311,\alpha&H00&)\t(5125,5245,\alpha&HFF&)}d{\alpha&HFF&\t(206,326,\alpha&H00&)\t(5142,5262,\alpha&HFF&)}r{\alpha&HFF&\t(222,342,\alpha&H00&)\t(5160,5280,\alpha&HFF&)}a{\alpha&HFF&\t(238,358,\alpha&H00&)\t(5177,5297,\alpha&HFF&)}l{\alpha&HFF&\t(254,374,\alpha&H00&)\t(5194,5314,\alpha&HFF&)}, {\alpha&HFF&\t(270,390,\alpha&H00&)\t(5211,5331,\alpha&HFF&)}5{\alpha&HFF&\t(286,406,\alpha&H00&)\t(5228,5348,\alpha&HFF&)}0{\alpha&HFF&\t(302,422,\alpha&H00&)\t(5245,5365,\alpha&HFF&)}t{\alpha&HFF&\t(318,438,\alpha&H00&)\t(5262,5382,\alpha&HFF&)}h {\alpha&HFF&\t(334,454,\alpha&H00&)\t(5280,5400,\alpha&HFF&)}F{\alpha&HFF&\t(350,470,\alpha&H00&)\t(5297,5417,\alpha&HFF&)}l{\alpha&HFF&\t(366,486,\alpha&H00&)\t(5314,5434,\alpha&HFF&)}o{\alpha&HFF&\t(382,502,\alpha&H00&)\t(5331,5451,\alpha&HFF&)}o{\alpha&HFF&\t(397,517,\alpha&H00&)\t(5348,5468,\alpha&HFF&)}r{\alpha&HFF&\t(413,533,\alpha&H00&)\t(5365,5485,\alpha&HFF&)}, {\alpha&HFF&\t(429,549,\alpha&H00&)\t(5382,5502,\alpha&HFF&)}G{\alpha&HFF&\t(445,565,\alpha&H00&)\t(5400,5520,\alpha&HFF&)}r{\alpha&HFF&\t(461,581,\alpha&H00&)\t(5417,5537,\alpha&HFF&)}e{\alpha&HFF&\t(477,597,\alpha&H00&)\t(5434,5554,\alpha&HFF&)}a{\alpha&HFF&\t(493,613,\alpha&H00&)\t(5451,5571,\alpha&HFF&)}t {\alpha&HFF&\t(509,629,\alpha&H00&)\t(5468,5588,\alpha&HFF&)}H{\alpha&HFF&\t(525,645,\alpha&H00&)\t(5485,5605,\alpha&HFF&)}a{\alpha&HFF&\t(541,661,\alpha&H00&)\t(5502,5622,\alpha&HFF&)}l{\alpha&HFF&\t(557,677,\alpha&H00&)\t(5520,5640,\alpha&HFF&)}l {\alpha&HFF&\t(573,693,\alpha&H00&)\t(5537,5657,\alpha&HFF&)}o{\alpha&HFF&\t(588,708,\alpha&H00&)\t(5554,5674,\alpha&HFF&)}f {\alpha&HFF&\t(604,724,\alpha&H00&)\t(5571,5691,\alpha&HFF&)}G{\alpha&HFF&\t(620,740,\alpha&H00&)\t(5588,5708,\alpha&HFF&)}h{\alpha&HFF&\t(636,756,\alpha&H00&)\t(5605,5725,\alpha&HFF&)}o{\alpha&HFF&\t(652,772,\alpha&H00&)\t(5622,5742,\alpha&HFF&)}s{\alpha&HFF&\t(668,788,\alpha&H00&)\t(5640,5760,\alpha&HFF&)}t{\alpha&HFF&\t(684,804,\alpha&H00&)\t(5657,5777,\alpha&HFF&)}l{\alpha&HFF&\t(700,820,\alpha&H00&)\t(5674,5794,\alpha&HFF&)}y {\alpha&HFF&\t(716,836,\alpha&H00&)\t(5691,5811,\alpha&HFF&)}L{\alpha&HFF&\t(732,852,\alpha&H00&)\t(5708,5828,\alpha&HFF&)}i{\alpha&HFF&\t(748,868,\alpha&H00&)\t(5725,5845,\alpha&HFF&)}g{\alpha&HFF&\t(764,884,\alpha&H00&)\t(5742,5862,\alpha&HFF&)}h{\alpha&HFF&\t(780,900,\alpha&H00&)\t(5760,5880,\alpha&HFF&)}t
 Dialogue: 0,0:08:57.19,0:09:00.71,Dubtitles,,0,0,0,,Well, well, if it isn't all\Nfour of the Whirling Blades.
@@ -1039,8 +1038,10 @@ Dialogue: 0,0:21:42.01,0:21:44.45,Dubtitles,,0,0,0,,You, Alice, even this night.
 Dialogue: 0,0:21:45.21,0:21:48.81,Dubtitles,,0,0,0,,We're so close, and we\Ncan't afford to give up now.
 Dialogue: 0,0:21:51.41,0:21:53.29,Dubtitles,,0,0,0,,Ain't that right, Yu-Gi-Oh?
 Dialogue: 0,0:22:02.09,0:22:03.61,Dubtitles,,0,0,0,,Enhance Armaments!
+Dialogue: 0,0:22:23.01,0:22:25.31,Dubtitles,,0,0,0,,Hope you had another question.
 Dialogue: 2,0:22:25.39,0:22:26.29,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(633,88.5,558,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}S
 Dialogue: 2,0:22:25.39,0:22:26.79,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(558,21,505.5,132)\fad(230,0)\t(0,1400,\fscy8\fscx8\fad(0,500))\p1)}m 7.5 4.5 b 15 -4.5 37.5 -4.5 46.5 3 b 55.5 10.5 57 30 48 37.5 b 40.5 45 15 43.5 7.5 36 b -1.5 30 -3 12 7.5 4.5
+Dialogue: 0,0:22:25.39,0:22:27.63,Dubtitles,,0,0,0,,So this is me.
 Dialogue: 2,0:22:25.41,0:22:26.81,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(588,21,525,112.5)\fad(230,0)\t(0,1405,\fscy8\fscx8\fad(0,500))\p1)}m 7.5 4.5 b 15 -4.5 37.5 -4.5 46.5 3 b 55.5 10.5 57 30 48 37.5 b 40.5 45 15 43.5 7.5 36 b -1.5 30 -3 12 7.5 4.5
 Dialogue: 2,0:22:25.42,0:22:26.29,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(663,88.5,588,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}o
 Dialogue: 2,0:22:25.43,0:22:26.84,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(610.5,21,564,127.5)\fad(230,0)\t(0,1410,\fscy8\fscx8\fad(0,500))\p1)}m 39 -1.5 b -13.5 -1.5 -13.5 75 39 75 b 97.5 75 97.5 -1.5 39 -1.5
@@ -1103,7 +1104,6 @@ Dialogue: 2,0:22:26.37,0:22:29.91,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5
 Dialogue: 2,0:22:26.40,0:22:30.30,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(1369.5,88.5,1294.5,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}i
 Dialogue: 2,0:22:26.47,0:22:30.52,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(1407,88.5,1332,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}d
 Dialogue: 2,0:22:26.51,0:22:30.52,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(1437,88.5,1362,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}e
-Dialogue: 0,0:22:26.55,0:22:29.35,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 2,0:22:26.85,0:22:27.34,EndCima,,0,0,0,fx,{\an5\fad(0,300)\blur0.75\bord1.5\move(664.5,58.5,646.5,123)\bord1.5\blur3\t(\bord15\blur7.5)\t(0,100,\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\blur7.5)}this
 Dialogue: 2,0:22:26.85,0:22:27.79,EndCima,,0,0,0,fx,{\fscx15\fscy15\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(664.5,58.5,690,156)\(0,200,\alpha0\3c&HFFFFFF&)\t(200,250,\1a&HFF&)\t(250,350,\alpha0\3c&HFFFFFF&)\t(350,400,\1a&HFF&)\t(400,420,\alpha0\alpha0\3c&HFFFFFF&)\t(420,480,\1a&HFF&)\t(480,500,\alpha0\3c&HFFFFFF&)\t(500,550,\1a&HFF&)\t(550,600,\alpha0\3c&HFFFFFF&)\t(600,650,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
 Dialogue: 2,0:22:26.85,0:22:27.94,EndCima,,0,0,0,fx,{\fscx40\fscy40\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(664.5,58.5,637.5,142.5)\(0,100,\alpha0\3c&HFFFFFF&)\t(100,200,\1a&HFF&)\t(200,300,\alpha0\3c&HFFFFFF&)\t(300,350,\1a&HFF&)\t(350,400,\alpha0\alpha0\3c&HFFFFFF&)\t(400,420,\1a&HFF&)\t(500,580,\alpha0\3c&HFFFFFF&)\t(580,720,\1a&HFF&)\t(750,800,\alpha0\3c&HFFFFFF&)\t(800,920,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
@@ -1608,6 +1608,7 @@ Dialogue: 2,0:22:51.78,0:22:53.40,EndCima,,0,0,0,fx,{\an5\fad(0,300)\blur0.75\bo
 Dialogue: 2,0:22:51.78,0:22:53.85,EndCima,,0,0,0,fx,{\fscx15\fscy15\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(685.5,58.5,706.5,190.5)\(0,200,\alpha0\3c&HFFFFFF&)\t(200,250,\1a&HFF&)\t(250,350,\alpha0\3c&HFFFFFF&)\t(350,400,\1a&HFF&)\t(400,420,\alpha0\alpha0\3c&HFFFFFF&)\t(420,480,\1a&HFF&)\t(480,500,\alpha0\3c&HFFFFFF&)\t(500,550,\1a&HFF&)\t(550,600,\alpha0\3c&HFFFFFF&)\t(600,650,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
 Dialogue: 2,0:22:51.78,0:22:54.00,EndCima,,0,0,0,fx,{\fscx40\fscy40\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(685.5,58.5,658.5,172.5)\(0,100,\alpha0\3c&HFFFFFF&)\t(100,200,\1a&HFF&)\t(200,300,\alpha0\3c&HFFFFFF&)\t(300,350,\1a&HFF&)\t(350,400,\alpha0\alpha0\3c&HFFFFFF&)\t(400,420,\1a&HFF&)\t(500,580,\alpha0\3c&HFFFFFF&)\t(580,720,\1a&HFF&)\t(750,800,\alpha0\3c&HFFFFFF&)\t(800,920,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
 Dialogue: 2,0:22:51.78,0:22:54.00,EndCima,,0,0,0,fx,{\fscx20\fscy20\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(685.5,58.5,634.5,135)\(0,50,\alpha0\3c&HFFFFFF&)\t(50,100,\1a&HFF&)\t(100,200,\alpha0\3c&HFFFFFF&)\t(200,250,\1a&HFF&)\t(250,350,\alpha0\alpha0\3c&HFFFFFF&)\t(350,400,\1a&HFF&)\t(400,500,\alpha0\3c&HFFFFFF&)\t(500,620,\1a&HFF&)\t(620,700,\alpha0\3c&HFFFFFF&)\t(700,900,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
+Dialogue: 0,0:22:53.03,0:22:57.23,Dubtitles,,0,0,0,,Thank you so much for watching.
 Dialogue: 2,0:22:53.20,0:22:53.61,EndCima,,0,0,0,fx,{\an5\fad(0,300)\blur0.75\bord1.5\move(739.5,58.5,714,105)\bord1.5\blur3\t(\bord15\blur7.5)\t(0,100,\bord1.5\c&HFFFFFF&\3c&HFFFFFF&\blur7.5)}i
 Dialogue: 2,0:22:53.20,0:22:54.06,EndCima,,0,0,0,fx,{\fscx15\fscy15\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(739.5,58.5,789,184.5)\(0,200,\alpha0\3c&HFFFFFF&)\t(200,250,\1a&HFF&)\t(250,350,\alpha0\3c&HFFFFFF&)\t(350,400,\1a&HFF&)\t(400,420,\alpha0\alpha0\3c&HFFFFFF&)\t(420,480,\1a&HFF&)\t(480,500,\alpha0\3c&HFFFFFF&)\t(500,550,\1a&HFF&)\t(550,600,\alpha0\3c&HFFFFFF&)\t(600,650,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
 Dialogue: 2,0:22:53.20,0:22:54.21,EndCima,,0,0,0,fx,{\fscx40\fscy40\alpha0\an5\c&HFFFFFF&\bord0\blur0\move(739.5,58.5,699,189)\(0,100,\alpha0\3c&HFFFFFF&)\t(100,200,\1a&HFF&)\t(200,300,\alpha0\3c&HFFFFFF&)\t(300,350,\1a&HFF&)\t(350,400,\alpha0\alpha0\3c&HFFFFFF&)\t(400,420,\1a&HFF&)\t(500,580,\alpha0\3c&HFFFFFF&)\t(580,720,\1a&HFF&)\t(750,800,\alpha0\3c&HFFFFFF&)\t(800,920,\1a&HFF&)\p1}m -75 0 b -25.5 -1.5 -9 -1.5 -12 -9 b -1.5 -9 -1.5 -25.5 0 -75 b 1.5 -25.5 1.5 -9 12 -9 b 9 -1.5 25.5 -1.5 75 0 b 25.5 1.5 9 1.5 12 9 b 1.5 9 1.5 25.5 0 75 b -1.5 25.5 -1.5 9 -12 9 b -10.5 0 -25.5 1.5 -75 0
@@ -2312,8 +2313,8 @@ Dialogue: 2,0:23:22.51,0:23:23.94,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord
 Dialogue: 2,0:23:22.53,0:23:23.97,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(1020,21,1080,117)\fad(230,0)\t(0,1440,\fscy8\fscx8\fad(0,500))\p1)}m 7.5 4.5 b 15 -4.5 37.5 -4.5 46.5 3 b 55.5 10.5 57 30 48 37.5 b 40.5 45 15 43.5 7.5 36 b -1.5 30 -3 12 7.5 4.5
 Dialogue: 2,0:23:22.54,0:23:23.27,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(1002,88.5,927,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}t
 Dialogue: 2,0:23:22.55,0:23:23.99,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(1044,21,1035,84)\fad(230,0)\t(0,1445,\fscy8\fscx8\fad(0,500))\p1)}m 60 0 b -25.5 0 -25.5 121.5 61.5 121.5 b 151.5 121.5 151.5 1.5 60 0
-Dialogue: 0,0:23:22.55,0:23:24.39,Dubtitles,,0,0,0,,Forgive me now?
 Dialogue: 2,0:23:22.57,0:23:24.02,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(1069.5,21,1033.5,141)\fad(230,0)\t(0,1450,\fscy8\fscx8\fad(0,500))\p1)}m 39 -1.5 b -13.5 -1.5 -13.5 75 39 75 b 97.5 75 97.5 -1.5 39 -1.5
+Dialogue: 0,0:23:22.57,0:23:24.73,Dubtitles,,0,0,0,,So give me no more
 Dialogue: 2,0:23:22.58,0:23:23.27,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(1021.5,88.5,946.5,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}-
 Dialogue: 2,0:23:22.59,0:23:24.04,EndCima,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord3\3c&HFFFFFF&\blur6\fscx10\fscy10\an5\move(1101,21,1143,76.5)\fad(230,0)\t(0,1455,\fscy8\fscx8\fad(0,500))\p1)}m 39 -1.5 b -13.5 -1.5 -13.5 75 39 75 b 97.5 75 97.5 -1.5 39 -1.5
 Dialogue: 2,0:23:22.61,0:23:23.27,EndCima,,0,0,0,fx,{\frz100\be2\fscx0\fscy0\an5\1a&HFF&\3a&HFF&\move(1056,88.5,981,58.5,0,500)\t(0,500,\fscx100\fscy100\frz0\alpha&H00)}m
@@ -2335,5 +2336,5 @@ Dialogue: 1,0:23:35.03,0:23:40.04,Signs,,0,0,0,,{\fscx100\bord3\blur4.5\c&H00000
 Dialogue: 2,0:23:35.03,0:23:40.04,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HEDEDED&\3c&HE9E9E9&\fs160\fnBell Gothic Bold\pos(958.4,788.5)}The Osmanthus Knight
 Dialogue: 2,0:23:35.03,0:23:40.04,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HECECEC&\3c&HEEEEEE&\fs160\fnBell Gothic Bold\pos(958,785)}The Osmanthus Knight
 Dialogue: 3,0:23:35.03,0:23:40.04,Signs,,0,0,0,,{\fscx100\blur1\c&H000000&\fs160\fnBell Gothic Bold\pos(958.4,786.8)}The Osmanthus Knight
-Dialogue: 0,0:23:36.09,0:23:38.59,Dubtitles,,0,0,0,,Next time, the Osmanthus Knight.
+Dialogue: 0,0:23:35.59,0:23:38.59,Dubtitles,,0,0,0,,Next time, the Osmanthus Knight!
 

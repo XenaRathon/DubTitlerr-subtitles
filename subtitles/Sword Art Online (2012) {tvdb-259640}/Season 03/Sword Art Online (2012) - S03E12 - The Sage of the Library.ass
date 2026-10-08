@@ -3886,7 +3886,7 @@ Dialogue: 1,0:01:50.10,0:01:51.51,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&
 Dialogue: 1,0:01:50.17,0:01:51.63,ADAMAS,,0,0,0,fx,{\pos(1424,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(424,474,0.5,\fsc80\blur2\3c&ffffff&)\t(474,824,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}r
 Dialogue: 1,0:01:50.17,0:01:51.63,ADAMAS,,0,0,0,fx,{\pos(1450,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(450,500,0.5,\fsc80\blur2\3c&ffffff&)\t(500,850,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
 Dialogue: 4,0:01:50.30,0:01:50.58,ADAMAS,,0,0,0,fx,{\an5\move(686,80,686,90)\bord1\\fscx120\fscy120\frz-15} {\t(\\fscx100\fscy100)\frz0)}{\t(21,28,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}Do
-Dialogue: 0,0:01:50.33,0:01:51.80,Dubtitles,,0,0,0,,To you, the big yourself.
+Dialogue: 0,0:01:50.33,0:01:51.74,Dubtitles,,0,0,0,,To you, the big yourself
 Dialogue: 4,0:01:50.58,0:01:50.80,ADAMAS,,0,0,0,fx,{\an5\move(783,100,783,90)\bord1\\fscx120\fscy120\frz15} {\t(\\fscx100\fscy100)\frz0)}{\t(16.5,22,)\3c&H82E4F9&\1c&HFFFFFF&\blur6)}you
 Dialogue: 1,0:01:50.58,0:01:52.97,ADAMAS,,0,0,0,fx,{\pos(671,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(801,851,0.5,\fsc80\blur2\3c&ffffff&)\t(851,1201,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}D
 Dialogue: 1,0:01:50.58,0:01:52.97,ADAMAS,,0,0,0,fx,{\pos(702,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(832,882,0.5,\fsc80\blur2\3c&ffffff&)\t(882,1232,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
@@ -3997,6 +3997,7 @@ Dialogue: 1,0:02:00.93,0:02:02.77,ADAMAS - Chor,,0,0,0,fx,{\pos(1014,90)\an5\alp
 Dialogue: 1,0:02:00.93,0:02:03.08,ADAMAS - Chor,,0,0,0,fx,{\pos(1108,90)\an5\alpha&ff&\t(480,640,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(640,720,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(720,960,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(960,1200,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Dia
 Dialogue: 1,0:02:00.93,0:02:03.61,ADAMAS - Chor,,0,0,0,fx,{\pos(1206,90)\an5\alpha&ff&\t(560,720,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(720,800,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(800,1040,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1040,1280,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}mond
 Dialogue: 1,0:02:01.23,0:02:03.78,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}Shiny Sword my Diamond
+Dialogue: 0,0:02:01.55,0:02:03.57,Dubtitles,,0,0,0,,Shining Sun, My Diamond
 Dialogue: 14,0:02:01.60,0:02:02.14,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(747,440)\move(687,90,687,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}Shi
 Dialogue: 14,0:02:01.60,0:02:02.14,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(747,440)\move(687,90,687,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}Shi
 Dialogue: 14,0:02:02.14,0:02:02.40,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(811,440)\move(751,90,751,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ny
@@ -4337,7 +4338,6 @@ Dialogue: 1,0:02:16.70,0:02:18.64,ADAMAS - Chor,,0,0,0,fx,{\pos(1084,90)\an5\alp
 Dialogue: 1,0:02:16.70,0:02:18.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1119,90)\an5\alpha&ff&\t(480,640,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(640,720,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(720,960,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(960,1200,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}no
 Dialogue: 1,0:02:16.70,0:02:19.00,ADAMAS - Chor,,0,0,0,fx,{\pos(1165,90)\an5\alpha&ff&\t(560,720,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(720,800,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(800,1040,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1040,1280,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ri
 Dialogue: 1,0:02:16.70,0:02:19.15,ADAMAS - Chor,,0,0,0,fx,{\pos(1234,90)\an5\alpha&ff&\t(640,800,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(800,880,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(880,1120,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1120,1360,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ga
-Dialogue: 0,0:02:16.91,0:02:19.03,Dubtitles,,0,0,0,,I can't even pray for the last time.
 Dialogue: 1,0:02:16.98,0:02:18.51,ADAMAS - Chor,,0,0,0,fx,{\pos(1271,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(491,541,0.5,\fsc80\blur2\3c&ffffff&)\t(541,891,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}d
 Dialogue: 1,0:02:16.98,0:02:18.51,ADAMAS - Chor,,0,0,0,fx,{\pos(1299,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(519,569,0.5,\fsc80\blur2\3c&ffffff&)\t(569,919,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
 Dialogue: 1,0:02:17.00,0:02:19.34,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}It's time! One single prayer will
@@ -4374,7 +4374,6 @@ Dialogue: 14,0:02:19.00,0:02:19.15,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1225,
 Dialogue: 14,0:02:19.00,0:02:19.15,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1225,440)\move(1165,90,1165,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ri
 Dialogue: 1,0:02:19.00,0:02:20.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1104,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(644,694,0.5,\fsc80\blur2\3c&ffffff&)\t(694,1044,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}n
 Dialogue: 1,0:02:19.00,0:02:20.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1133,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(673,723,0.5,\fsc80\blur2\3c&ffffff&)\t(723,1073,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
-Dialogue: 0,0:02:19.11,0:02:20.87,Dubtitles,,0,0,0,,The end of the world is a change.
 Dialogue: 14,0:02:19.15,0:02:19.54,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1294,440)\move(1234,90,1234,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ga
 Dialogue: 14,0:02:19.15,0:02:19.54,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1294,440)\move(1234,90,1234,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ga
 Dialogue: 1,0:02:19.15,0:02:20.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1159,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(549,599,0.5,\fsc80\blur2\3c&ffffff&)\t(599,949,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}r
@@ -4396,6 +4395,7 @@ Dialogue: 1,0:02:19.25,0:02:21.64,ADAMAS - Chor,,0,0,0,fx,{\pos(1314,90)\an5\alp
 Dialogue: 1,0:02:19.25,0:02:21.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1380,90)\an5\alpha&ff&\t(1120,1280,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(1280,1360,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(1360,1600,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(1600,1840,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ke!
 Dialogue: 1,0:02:19.54,0:02:20.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1220,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(220,270,0.5,\fsc80\blur2\3c&ffffff&)\t(270,620,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}g
 Dialogue: 1,0:02:19.54,0:02:20.80,ADAMAS - Chor,,0,0,0,fx,{\pos(1249,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(249,299,0.5,\fsc80\blur2\3c&ffffff&)\t(299,649,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
+Dialogue: 0,0:02:19.55,0:02:23.90,Dubtitles,,0,0,0,,The future of the world will be the\Nbest you will be the best you will be.
 Dialogue: 1,0:02:19.55,0:02:28.69,ADAMAS Translation,,0,0,0,fx,{\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\t(0,700,\bord2\blur6)\t(0,300,\fscx114)\t(300,700,\fscx100)\fad(0,300)}confirm our revolution! Let's shine!
 Dialogue: 14,0:02:19.75,0:02:19.96,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(590,440)\move(530,90,530,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}ka
 Dialogue: 14,0:02:19.75,0:02:19.96,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(590,440)\move(530,90,530,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}ka
@@ -4431,7 +4431,6 @@ Dialogue: 14,0:02:20.91,0:02:21.10,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1068,
 Dialogue: 1,0:02:20.91,0:02:30.30,ADAMAS - Chor,,0,0,0,fx,{\pos(923,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(7903,7953,0.5,\fsc80\blur2\3c&ffffff&)\t(7953,8303,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:02:20.91,0:02:30.30,ADAMAS - Chor,,0,0,0,fx,{\pos(951,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(7931,7981,0.5,\fsc80\blur2\3c&ffffff&)\t(7981,8331,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}h
 Dialogue: 1,0:02:20.91,0:02:30.30,ADAMAS - Chor,,0,0,0,fx,{\pos(979,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(7959,8009,0.5,\fsc80\blur2\3c&ffffff&)\t(8009,8359,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
-Dialogue: 0,0:02:20.95,0:02:21.91,Dubtitles,,0,0,0,,Come on!
 Dialogue: 14,0:02:21.10,0:02:21.25,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1134,440)\move(1074,90,1074,90)\1c&HFFFFFF&\3c&HB37553&\bord2\blur4\shad0\1c&HFFFFFF&\4c&HFFFFFF&\fscx150\fscy150}{\t(\fscx100\fscy100)}sa
 Dialogue: 14,0:02:21.10,0:02:21.25,ADAMAS - Chor,,0,0,0,fx,{\be1}{\an5\org(1134,440)\move(1074,90,1074,90)\bord0\shad0\1c&HFFFFFF&\fscx150\fscy150}{\t(\blur15\fscx250\fscy250)}sa
 Dialogue: 1,0:02:21.10,0:02:30.30,ADAMAS - Chor,,0,0,0,fx,{\pos(1008,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(7798,7848,0.5,\fsc80\blur2\3c&ffffff&)\t(7848,8198,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}u
@@ -6440,7 +6439,7 @@ Dialogue: 2,0:23:26.90,0:23:30.18,Iris - Translation2,,0,0,0,fx,{\shad1\1c&H6565
 Dialogue: 1,0:23:26.90,0:23:30.18,Iris - Translation2,,0,0,0,fx,{\shad1\1c&HFFFFFF&\3c&H513016&\4c&H863317&\bord2\blur1\fad(150,150)\1a&HFF&}Be iris to you.
 Dialogue: 1,0:23:26.98,0:23:30.38,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(942,65)\fscx100\fscy100\bord2\blur1\shad1\fad(0,300)}na
 Dialogue: 2,0:23:26.98,0:23:30.38,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\pos(942,65)\fscx100\fscy100\bord0\blur1\shad1\fad(0,300)}na
-Dialogue: 0,0:23:27.03,0:23:28.83,Dubtitles,,0,0,0,,Realist to you.
+Dialogue: 0,0:23:27.03,0:23:28.83,Dubtitles,,0,0,0,,Realist to you!
 Dialogue: 14,0:23:27.23,0:23:27.41,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1012,65,1012,65)\blur5\bord3\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur0\fscx100\fscy100}be
 Dialogue: 15,0:23:27.23,0:23:27.41,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1012,65,1012,65)\blur1\bord0\fscx200\fscy200\frz10}{\t(\frz0\3c&H000000&\bord0\blur1\fscx100\fscy100}be
 Dialogue: 14,0:23:27.41,0:23:27.77,Iris - Chor:,,0,0,0,fx,{\an5\3c&H77441D&\4c&H974229&\move(1063,65,1063,65)\blur5\bord3\fscx200\fscy200\frz-10}{\t(\frz0\3c&H000000&\bord0\blur0\fscx100\fscy100}i

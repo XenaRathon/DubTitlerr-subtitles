@@ -22,18 +22,21 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.75,0:00:16.17,Dubtitles,,0,0,0,,The End
+Dialogue: 0,0:00:13.79,0:00:15.13,Dubtitles,,0,0,0,,Emergency. ETA?
+Dialogue: 0,0:00:15.21,0:00:16.35,Dubtitles,,0,0,0,,AAAR!
 Dialogue: 2,0:00:15.30,0:00:19.10,Signs,,0,0,0,,{\fad(520,520)\blur0.6\pos(960,142.5)}September 14th, 2025\N— In GGO{\fnKozuka Mincho Pro Strp}・{\fn}SBC Glocken{\fnKozuka Mincho Pro Strp}・{\fn}Underground Dungeon —
 Dialogue: 1,0:00:15.30,0:00:19.10,Signs,,0,0,0,,{\fad(520,520)\blur1.8\1a&H4C&\c&H000000&\pos(964.5,147)}September 14th, 2025\N— In GGO{\fnKozuka Mincho Pro Strp}・{\fn}SBC Glocken{\fnKozuka Mincho Pro Strp}・{\fn}Underground Dungeon —
-Dialogue: 0,0:01:01.61,0:01:03.47,Dubtitles,,0,0,0,,Oh, my God.
-Dialogue: 0,0:01:31.21,0:01:32.04,Dubtitles,,0,0,0,,Ah...
+Dialogue: 0,0:00:26.97,0:00:27.80,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:00:47.15,0:00:49.97,Dubtitles,,0,0,0,,I don't know.
+Dialogue: 0,0:01:16.73,0:01:18.13,Dubtitles,,0,0,0,,Aaaaahhhhhhhhh!
+Dialogue: 0,0:01:23.97,0:01:24.80,Dubtitles,,0,0,0,,Aaaahhhhhhhhhhh!
+Dialogue: 0,0:01:24.88,0:01:31.67,Dubtitles,,0,0,0,,Ah, ah, ah, ah, ah.
 Dialogue: 1,0:01:35.17,0:01:40.14,Android,,0,0,0,,{\1a&H32&\c&HE7E7E7&\blur1.5\frz18.5\fry6\fax0.05\fscx50\fscy50\pos(814.5,294)\t(3730,3860,1,\c&H594B42&)\t(4360,4570,1,\c&H837B79&)\t(4570,4780,1,\c&HE7E7E7&)}PGM Ultima Ratio Hecate II
-Dialogue: 0,0:01:37.15,0:01:38.47,Dubtitles,,0,0,0,,Ah...
-Dialogue: 0,0:01:38.55,0:01:39.93,Dubtitles,,0,0,0,,Ah...
-Dialogue: 0,0:01:40.01,0:01:42.27,Dubtitles,,0,0,0,,Ah... Ah... Ah...
-Dialogue: 0,0:01:42.35,0:01:44.17,Dubtitles,,0,0,0,,Ah...
-Dialogue: 0,0:01:44.25,0:01:47.15,Dubtitles,,0,0,0,,Ultima Ratio Hecate II
-Dialogue: 0,0:01:49.87,0:01:53.19,Dubtitles,,0,0,0,,Hecate I
+Dialogue: 0,0:01:38.43,0:01:40.97,Dubtitles,,0,0,0,,Ah, ah, ah, ah.
+Dialogue: 0,0:01:41.05,0:01:43.63,Dubtitles,,0,0,0,,Ah, ah, ah, ah, ah.
+Dialogue: 0,0:01:45.31,0:01:46.14,Dubtitles,,0,0,0,,Ah, ah, ah.
+Dialogue: 0,0:01:46.22,0:01:47.17,Dubtitles,,0,0,0,,Ultima Ratio Hecate II.
+Dialogue: 0,0:01:50.35,0:01:53.19,Dubtitles,,0,0,0,,Hecate I
 Dialogue: 1,0:01:53.02,0:01:55.86,OP-Rom,,0,0,0,,{\k30\fad(200,200)}May{\k27}owa{\k26}zu {\k12}ni {\k22}i{\k167}ma
 Dialogue: 1,0:01:53.02,0:01:55.86,OP-English,,0,0,0,,{\fad(200,200)}Without a second thought, right now
 Dialogue: 0,0:01:53.27,0:02:00.27,Dubtitles,,0,0,0,,don't
@@ -41,44 +44,49 @@ Dialogue: 1,0:01:55.86,0:01:59.86,OP-Rom,,0,0,0,,{\k20\fad(200,200)}Mu{\k39}jun 
 Dialogue: 1,0:01:55.86,0:01:59.86,OP-English,,0,0,0,,{\fad(200,200)}Take aim at this paradox-ridden world
 Dialogue: 1,0:01:59.86,0:02:05.62,OP-Rom,,0,0,0,,{\k79\fad(200,200)}So{\k70}no {\k71}te {\k69}de {\k20}u{\k32}chi {\k40}ha{\k32}na{\k163}te
 Dialogue: 1,0:01:59.86,0:02:05.62,OP-English,,0,0,0,,{\fad(200,200)}And fire with your own two hands
-Dialogue: 0,0:02:02.69,0:02:07.87,Dubtitles,,0,0,0,,know.
 Dialogue: 1,0:02:10.33,0:02:15.96,OP-Rom,,0,0,0,,{\k15\fad(200,200)}Ko{\k37}bo{\k17}re{\k119}ta {\k20}na{\k19}mi{\k35}da {\k19}no {\k32}nu{\k38}ku{\k67}mo{\k21}ri {\k124}de
 Dialogue: 1,0:02:10.33,0:02:15.96,OP-English,,0,0,0,,{\fad(200,200)}Thanks to the warmth of your falling tears
 Dialogue: 1,0:02:15.96,0:02:21.51,OP-Rom,,0,0,0,,{\k42\fad(200,200)}Ya{\k34}sa{\k22}shi{\k38}sa {\k28}wo {\k97}shi{\k28}tta {\k41}ha{\k35}zu {\k54}na{\k15}no {\k121}ni
 Dialogue: 1,0:02:15.96,0:02:21.51,OP-English,,0,0,0,,{\fad(200,200)}I thought that I'd realized what kindness was
-Dialogue: 0,0:02:21.27,0:02:22.63,Dubtitles,,0,0,0,,How do you think?
+Dialogue: 0,0:02:20.03,0:02:20.86,Dubtitles,,0,0,0,,know.
+Dialogue: 0,0:02:21.23,0:02:23.03,Dubtitles,,0,0,0,,How do I know?
 Dialogue: 1,0:02:21.51,0:02:27.35,OP-Rom,,0,0,0,,{\k16\fad(200,200)}D{\k35}ou{\k24}shi{\k121}te {\k17}ma{\k16}ta {\k25}ki{\k28}zu {\k35}tsu{\k39}ke {\k86}a{\k142}tte
 Dialogue: 1,0:02:21.51,0:02:27.35,OP-English,,0,0,0,,{\fad(200,200)}So why do we keep hurting each other
-Dialogue: 0,0:02:23.17,0:02:24.35,Dubtitles,,0,0,0,,I'll never hurt you.
-Dialogue: 0,0:02:26.95,0:02:28.24,Dubtitles,,0,0,0,,I'm not getting angry.
+Dialogue: 0,0:02:23.11,0:02:26.97,Dubtitles,,0,0,0,,I'll be trying to make you feel.
+Dialogue: 0,0:02:27.05,0:02:28.25,Dubtitles,,0,0,0,,I'm trying to make you feel.
 Dialogue: 1,0:02:27.35,0:02:33.69,OP-Rom,,0,0,0,,{\k31\fad(200,200)}Ni{\k27}ku{\k29}shi{\k34}mi {\k35}wo {\k35}u{\k50}mi {\k24}da{\k47}shi{\k30}te {\k56}yu{\k40}kun{\k17}da{\k179}rou
 Dialogue: 1,0:02:27.35,0:02:33.69,OP-English,,0,0,0,,{\fad(200,200)}And create even more hatred?
-Dialogue: 0,0:02:28.77,0:02:33.67,Dubtitles,,0,0,0,,I'm feeling like pain.
+Dialogue: 0,0:02:28.33,0:02:30.83,Dubtitles,,0,0,0,,I'm trying to keep you.
+Dialogue: 0,0:02:30.91,0:02:35.37,Dubtitles,,0,0,0,,A painless pain.
 Dialogue: 1,0:02:33.94,0:02:36.61,OP-Rom,,0,0,0,,{\k14\fad(200,200)}Ki{\k23}shi{\k24}mu {\k32}you {\k19}na {\k16}i{\k19}ta{\k120}mi
 Dialogue: 1,0:02:33.94,0:02:36.61,OP-English,,0,0,0,,{\fad(200,200)}If this pain that grates on me
-Dialogue: 0,0:02:34.65,0:02:39.27,Dubtitles,,0,0,0,,I'm feeling the strength of the future.
+Dialogue: 0,0:02:36.27,0:02:37.86,Dubtitles,,0,0,0,,I'll be trying to keep you.
 Dialogue: 1,0:02:36.61,0:02:39.40,OP-Rom,,0,0,0,,{\k41\fad(200,200)}Shi{\k23}tta {\k24}so{\k14}no {\k22}tsu{\k11}yo{\k25}sa {\k119}ga
 Dialogue: 1,0:02:36.61,0:02:39.40,OP-English,,0,0,0,,{\fad(200,200)}The strength that I've discovered
-Dialogue: 0,0:02:39.35,0:02:44.63,Dubtitles,,0,0,0,,I'll never be able to\Ncome back to the future.
 Dialogue: 1,0:02:39.40,0:02:46.45,OP-Rom,,0,0,0,,{\k56\fad(200,200)}Itsu{\k36}ka {\k16}mi{\k37}ra{\k34}i {\k49}wo {\k31}ya{\k50}sa{\k27}shi{\k54}ku {\k16}tsu{\k19}tsu{\k33}mu {\k37}no {\k18}na{\k192}ra
 Dialogue: 1,0:02:39.40,0:02:46.45,OP-English,,0,0,0,,{\fad(200,200)}Will someday gently envelop the future
-Dialogue: 0,0:02:44.71,0:02:45.99,Dubtitles,,0,0,0,,Oh, oh, oh, oh,
-Dialogue: 0,0:02:46.39,0:02:52.55,Dubtitles,,0,0,0,,oh, oh, oh, oh, oh.
+Dialogue: 0,0:02:40.09,0:02:43.51,Dubtitles,,0,0,0,,I'll be able to come and see.\NI'll be able to keep you.
+Dialogue: 0,0:02:45.79,0:02:47.33,Dubtitles,,0,0,0,,I'm trying to keep you.
 Dialogue: 1,0:02:46.45,0:02:49.25,OP-Rom,,0,0,0,,{\k20\fad(200,200)}May{\k32}owa{\k23}zu {\k14}ni {\k20}i{\k170}ma
 Dialogue: 1,0:02:46.45,0:02:49.25,OP-English,,0,0,0,,{\fad(200,200)}Without a second thought, right now
+Dialogue: 0,0:02:47.41,0:02:50.07,Dubtitles,,0,0,0,,I'm not even happy.
 Dialogue: 1,0:02:49.25,0:02:53.21,OP-Rom,,0,0,0,,{\k16\fad(200,200)}Mu{\k36}jun {\k22}da{\k15}ra{\k20}ke {\k79}no {\k76}se{\k70}kai {\k62}wo
 Dialogue: 1,0:02:49.25,0:02:53.21,OP-English,,0,0,0,,{\fad(200,200)}Take aim at this paradox-ridden world
+Dialogue: 0,0:02:52.81,0:02:54.97,Dubtitles,,0,0,0,,That is a moment of silence?.
 Dialogue: 1,0:02:53.21,0:02:57.67,OP-Rom,,0,0,0,,{\k79\fad(200,200)}So{\k68}no {\k73}te {\k66}de {\k24}u{\k30}chi {\k42}ha{\k30}na{\k34}te
 Dialogue: 1,0:02:53.21,0:02:57.67,OP-English,,0,0,0,,{\fad(200,200)}And fire with your own two hands
+Dialogue: 0,0:02:55.05,0:02:57.89,Dubtitles,,0,0,0,,Let it be red.
 Dialogue: 1,0:02:57.67,0:03:04.47,OP-Rom,,0,0,0,,{\k19\fad(200,200)}A{\k34}kai {\k37}nami{\k17}da {\k176}de {\k35}oo{\k31}ware{\k21}ta {\k20}ka{\k78}na{\k76}shi{\k70}mi {\k66}wo
 Dialogue: 1,0:02:57.67,0:03:04.47,OP-English,,0,0,0,,{\fad(200,200)}Take this sorrow drenched with red tears
+Dialogue: 0,0:02:58.15,0:03:00.21,Dubtitles,,0,0,0,,I'll see you in the end of the day.
 Dialogue: 1,0:03:04.47,0:03:09.81,OP-Rom,,0,0,0,,{\k75\fad(200,200)}So{\k62}tto {\k79}so{\k68}tto {\k24}da{\k29}ki {\k41}shi{\k32}me{\k124}te
 Dialogue: 1,0:03:04.47,0:03:09.81,OP-English,,0,0,0,,{\fad(200,200)}And embrace it tenderly
+Dialogue: 0,0:03:05.07,0:03:10.77,Dubtitles,,0,0,0,,Let it be red,
 Dialogue: 1,0:03:09.98,0:03:12.48,OP-Rom,,0,0,0,,{\k15\fad(200,200)}Na{\k31}ri {\k23}hi{\k33}bii{\k27}ta {\k45}shou{\k39}dou {\k37}ga
 Dialogue: 1,0:03:09.98,0:03:12.48,OP-English,,0,0,0,,{\fad(200,200)}So that these blasts ringing out
+Dialogue: 0,0:03:10.85,0:03:15.81,Dubtitles,,0,0,0,,The sound of the beginning will change the
 Dialogue: 1,0:03:12.48,0:03:21.03,OP-Rom,,0,0,0,,{\k47\fad(200,200)}Ha{\k34}ji{\k21}ma{\k33}ri {\k32}no {\k37}o{\k35}to {\k35}ni {\k35}ka{\k18}wa{\k170}ru {\k41}yo{\k34}u {\k283}ni
 Dialogue: 1,0:03:12.48,0:03:21.03,OP-English,,0,0,0,,{\fad(200,200)}Will be transformed into the sounds of a new beginning
-Dialogue: 0,0:03:14.71,0:03:18.47,Dubtitles,,0,0,0,,It's like you're in love with me
 Dialogue: 1,0:03:22.99,0:03:26.99,title,,0,0,0,,{\pos(960,847.5)\bord6.75\blur2.25\3c&H000000&\3a&H44}Cold-Hearted Sniper
 Dialogue: 2,0:03:22.99,0:03:26.99,title,,0,0,0,,{\pos(960,847.95)\ybord3.45\xbord0.75\blur1.8\c&HFFFFFF&\3c&HFFF8C7&}Cold-Hearted Sniper
 Dialogue: 3,0:03:22.99,0:03:26.99,title,,0,0,0,,{\clip(0,707,1920,708)\pos(960,847.5)\bord0\blur0.75\c&HEEE1AA&}Cold-Hearted Sniper
@@ -180,263 +188,250 @@ Dialogue: 3,0:03:22.99,0:03:26.99,title,,0,0,0,,{\clip(0,849,1920,851)\pos(960,8
 Dialogue: 3,0:03:22.99,0:03:26.99,title,,0,0,0,,{\clip(0,851,1920,852)\pos(960,847.5)\bord0\blur0.75\c&HCE9F15&}Cold-Hearted Sniper
 Dialogue: 2,0:03:28.49,0:03:34.00,Signs,,0,0,0,,{\fad(520,520)\blur0.6\pos(960,142.5)}December 7th, 2025\N— In GGO{\fnKozuka Mincho Pro Strp}・{\fn}Wasteland Field —
 Dialogue: 1,0:03:28.49,0:03:34.00,Signs,,0,0,0,,{\fad(520,520)\blur1.8\1a&H4C&\c&H000000&\pos(964.5,147)}December 7th, 2025\N— In GGO{\fnKozuka Mincho Pro Strp}・{\fn}Wasteland Field —
-Dialogue: 0,0:03:52.25,0:03:53.45,Dubtitles,,0,0,0,,Yo, Dyne.
+Dialogue: 0,0:03:52.25,0:03:53.43,Dubtitles,,0,0,0,,Yo, Dyne.
 Dialogue: 0,0:03:53.87,0:03:55.75,Dubtitles,,0,0,0,,You sure you got the right info?
-Dialogue: 0,0:03:55.87,0:03:57.11,Dubtitles,,0,0,0,,They coming or what?
+Dialogue: 0,0:03:55.99,0:03:57.34,Dubtitles,,0,0,0,,They're coming or what?
 Dialogue: 0,0:03:58.31,0:03:59.84,Dubtitles,,0,0,0,,They're coming, all right.
 Dialogue: 0,0:03:59.99,0:04:02.31,Dubtitles,,0,0,0,,I checked the route myself. So relax.
-Dialogue: 0,0:04:05.17,0:04:08.41,Dubtitles,,0,0,0,,I bet they're busy clearing\Nsome big-ass monster spawn.
-Dialogue: 0,0:04:08.73,0:04:10.93,Dubtitles,,0,0,0,,That means your cut will\Nbe bigger this time.
-Dialogue: 0,0:04:11.01,0:04:12.09,Dubtitles,,0,0,0,,So no complaining.
-Dialogue: 0,0:04:12.65,0:04:14.24,Dubtitles,,0,0,0,,Dude, no one's complaining.
+Dialogue: 0,0:04:05.17,0:04:08.25,Dubtitles,,0,0,0,,I bet they're busy clearing\Nsome big-ass monster spawn.
+Dialogue: 0,0:04:08.33,0:04:12.11,Dubtitles,,0,0,0,,That means your cut will be bigger\Nthis time, so no complaining.
+Dialogue: 0,0:04:12.81,0:04:14.40,Dubtitles,,0,0,0,,Dude, no one's complaining.
 Dialogue: 0,0:04:14.51,0:04:18.21,Dubtitles,,0,0,0,,Since we're talking about it, ain't\Nthese the same jokers we hit last week?
-Dialogue: 0,0:04:18.29,0:04:20.99,Dubtitles,,0,0,0,,They could have wised up to\Nus and changed their route.
-Dialogue: 0,0:04:21.07,0:04:23.35,Dubtitles,,0,0,0,,All that squad does is hunt monsters.
-Dialogue: 0,0:04:23.63,0:04:25.47,Dubtitles,,0,0,0,,They don't care how many\Ntimes they get attacked
-Dialogue: 0,0:04:25.55,0:04:28.11,Dubtitles,,0,0,0,,because they'll just make up\Nfor it on their next hunt.
-Dialogue: 0,0:04:28.19,0:04:31.89,Dubtitles,,0,0,0,,For player-hunter squads like\Nus, they make the perfect target.
-Dialogue: 0,0:04:31.97,0:04:34.74,Dubtitles,,0,0,0,,They move by algorithm,\Njust like the monsters.
-Dialogue: 0,0:04:34.99,0:04:37.23,Dubtitles,,0,0,0,,As far as I'm concerned, they're chumps.
-Dialogue: 0,0:04:37.31,0:04:38.25,Dubtitles,,0,0,0,,Damn straight.
-Dialogue: 0,0:04:38.65,0:04:39.61,Dubtitles,,0,0,0,,As for weapons,
-Dialogue: 0,0:04:39.83,0:04:43.01,Dubtitles,,0,0,0,,they're geared up with optical\Nguns for hunting monsters but we've
-Dialogue: 0,0:04:43.09,0:04:46.51,Dubtitles,,0,0,0,,got defense shields so as long as\Nthose are up it's easy pickings.
-Dialogue: 0,0:04:46.59,0:04:50.49,Dubtitles,,0,0,0,,Well what if they got smart like what\Nif they're ready for us this time
-Dialogue: 0,0:04:50.57,0:04:54.21,Dubtitles,,0,0,0,,we hit them not too long ago right i\Ndoubt they got their hands on enough
-Dialogue: 0,0:04:54.29,0:04:58.49,Dubtitles,,0,0,0,,live ammo guns that fast by now they\Nmight have one firearm for support
-Dialogue: 0,0:04:58.57,0:05:04.11,Dubtitles,,0,0,0,,but that's about it and besides we got\Nthe best sniper in ggo watching our
-Dialogue: 0,0:05:11.95,0:05:13.89,Dubtitles,,0,0,0,,Backs. We've got all our bases.
-Dialogue: 0,0:05:13.97,0:05:19.51,Dubtitles,,0,0,0,,covered right Sinon yep guess
-Dialogue: 0,0:05:19.59,0:05:22.79,Dubtitles,,0,0,0,,i can't argue with that with\Na crack shot like Sinon up
-Dialogue: 0,0:05:22.87,0:05:28.25,Dubtitles,,0,0,0,,here things are looking good\Nit's better than good well
-Dialogue: 0,0:05:28.33,0:05:32.55,Dubtitles,,0,0,0,,if it's a big if but still if\Nshe missed i'd be cool with.
-Dialogue: 0,0:05:33.17,0:05:34.00,Dubtitles,,0,0,0,,that.
-Dialogue: 0,0:05:34.08,0:05:36.81,Dubtitles,,0,0,0,,It'll take them about a minute to\Nfigure out where the shot came from.
-Dialogue: 0,0:05:36.89,0:05:38.01,Dubtitles,,0,0,0,,While they're doing
-Dialogue: 0,0:05:40.53,0:05:41.89,Dubtitles,,0,0,0,,that, I'll be in position.
-Dialogue: 0,0:05:41.97,0:05:44.19,Dubtitles,,0,0,0,,I'll hose them down and rake in the money.
-Dialogue: 0,0:05:44.27,0:05:45.27,Dubtitles,,0,0,0,,Easy, cowboy.
-Dialogue: 0,0:05:45.77,0:05:46.91,Dubtitles,,0,0,0,,Hey, doll face.
-Dialogue: 0,0:05:47.11,0:05:49.63,Dubtitles,,0,0,0,,I was wondering, what\Nyou doing after this?
-Dialogue: 0,0:05:49.71,0:05:52.30,Dubtitles,,0,0,0,,I found a gunshot with\Nan awesome inventory.
-Dialogue: 0,0:05:52.49,0:05:56.05,Dubtitles,,0,0,0,,Maybe we could go get some tea\Nor maybe do something else.
+Dialogue: 0,0:04:18.29,0:04:20.93,Dubtitles,,0,0,0,,They could have wised up to\Nus and changed their route.
+Dialogue: 0,0:04:21.01,0:04:23.35,Dubtitles,,0,0,0,,All that squad does is hunt monsters.
+Dialogue: 0,0:04:23.65,0:04:25.55,Dubtitles,,0,0,0,,They don't care how many\Ntimes they get attacked,
+Dialogue: 0,0:04:25.63,0:04:28.11,Dubtitles,,0,0,0,,because they'll just make up\Nfor it on their next hunt.
+Dialogue: 0,0:04:28.19,0:04:31.90,Dubtitles,,0,0,0,,For player-hunter squads like\Nus, they make the perfect target.
+Dialogue: 0,0:04:31.99,0:04:34.76,Dubtitles,,0,0,0,,They move by algorithm,\Njust like the monsters.
+Dialogue: 0,0:04:35.11,0:04:36.85,Dubtitles,,0,0,0,,As far as I'm concerned, they're chumps.
+Dialogue: 0,0:04:36.93,0:04:38.25,Dubtitles,,0,0,0,,Damn straight.
+Dialogue: 0,0:04:38.69,0:04:42.55,Dubtitles,,0,0,0,,As for weapons, they're geared up with\Noptical guns for hunting monsters.
+Dialogue: 0,0:04:42.63,0:04:46.91,Dubtitles,,0,0,0,,But we've got defense shields, so as\Nlong as those are up, it's easy pickings.
+Dialogue: 0,0:04:46.99,0:04:48.61,Dubtitles,,0,0,0,,Well, what if they got smart?
+Dialogue: 0,0:04:48.69,0:04:50.83,Dubtitles,,0,0,0,,Like, what if they're\Nready for us this time?
+Dialogue: 0,0:04:50.91,0:04:52.75,Dubtitles,,0,0,0,,We hit them not too long ago, right?
+Dialogue: 0,0:04:52.83,0:04:56.03,Dubtitles,,0,0,0,,I doubt they got their hands on\Nenough live ammo guns that fast.
+Dialogue: 0,0:04:56.11,0:04:59.85,Dubtitles,,0,0,0,,By now, they might have one firearm\Nfor support, but that's about it.
+Dialogue: 0,0:04:59.93,0:05:04.53,Dubtitles,,0,0,0,,And besides, we got the best\Nsniper in GGO watching our backs.
+Dialogue: 0,0:05:12.53,0:05:14.41,Dubtitles,,0,0,0,,We've got all our bases covered.
+Dialogue: 0,0:05:14.63,0:05:15.49,Dubtitles,,0,0,0,,Right, Xenon?
+Dialogue: 0,0:05:16.79,0:05:17.62,Dubtitles,,0,0,0,,Yep.
+Dialogue: 0,0:05:19.09,0:05:20.86,Dubtitles,,0,0,0,,Guess I can't argue with that.
+Dialogue: 0,0:05:20.95,0:05:24.60,Dubtitles,,0,0,0,,With a crack shot like Xenon up\Nhere, things are looking good.
+Dialogue: 0,0:05:25.61,0:05:26.93,Dubtitles,,0,0,0,,It's better than good.
+Dialogue: 0,0:05:27.85,0:05:28.89,Dubtitles,,0,0,0,,Well, if.
+Dialogue: 0,0:05:29.05,0:05:30.52,Dubtitles,,0,0,0,,It's a big if, but still.
+Dialogue: 0,0:05:30.69,0:05:32.87,Dubtitles,,0,0,0,,If she missed, I'd be cool with that.
+Dialogue: 0,0:05:33.49,0:05:36.85,Dubtitles,,0,0,0,,It'll take them about a minute to\Nfigure out where the shot came from.
+Dialogue: 0,0:05:36.93,0:05:39.37,Dubtitles,,0,0,0,,While they're doing that,\NI'll be in position.
+Dialogue: 0,0:05:39.45,0:05:41.92,Dubtitles,,0,0,0,,I'll hose them down and rake in the money.
+Dialogue: 0,0:05:44.29,0:05:45.25,Dubtitles,,0,0,0,,Easy, cowboy.
+Dialogue: 0,0:05:45.83,0:05:46.85,Dubtitles,,0,0,0,,Hey, doll face.
+Dialogue: 0,0:05:46.93,0:05:49.49,Dubtitles,,0,0,0,,I was wondering, what\Nyou doing after this?
+Dialogue: 0,0:05:49.71,0:05:52.31,Dubtitles,,0,0,0,,I found a gun shop with\Nan awesome inventory.
+Dialogue: 0,0:05:52.39,0:05:56.13,Dubtitles,,0,0,0,,Maybe we could go get something\Nto eat or maybe do something else.
 Dialogue: 0,0:05:56.21,0:05:57.53,Dubtitles,,0,0,0,,You know what I mean.
-Dialogue: 0,0:06:01.05,0:06:03.05,Dubtitles,,0,0,0,,I don't know what you mean, January.
-Dialogue: 0,0:06:03.57,0:06:06.01,Dubtitles,,0,0,0,,Besides, there's stuff I\Nhave to do when I log out.
-Dialogue: 0,0:06:06.09,0:06:08.57,Dubtitles,,0,0,0,,Oh, come on, dollface. What's the stuff?
-Dialogue: 0,0:06:08.93,0:06:10.49,Dubtitles,,0,0,0,,Wait, are you still in school?
-Dialogue: 0,0:06:10.57,0:06:11.71,Dubtitles,,0,0,0,,Oh, that's kind of hot.
-Dialogue: 0,0:06:11.79,0:06:13.08,Dubtitles,,0,0,0,,You got a report, too.
-Dialogue: 0,0:06:13.27,0:06:14.57,Dubtitles,,0,0,0,,Yeah, right.
+Dialogue: 0,0:06:01.03,0:06:03.03,Dubtitles,,0,0,0,,I don't know what you mean, January.
+Dialogue: 0,0:06:03.51,0:06:05.85,Dubtitles,,0,0,0,,Besides, there's stuff I\Nhave to do when I log out.
+Dialogue: 0,0:06:05.93,0:06:08.51,Dubtitles,,0,0,0,,Oh, come on, doll face. What's the stuff?
+Dialogue: 0,0:06:08.99,0:06:10.51,Dubtitles,,0,0,0,,Wait, are you still in school?
+Dialogue: 0,0:06:10.59,0:06:11.67,Dubtitles,,0,0,0,,Oh, that's kind of hot.
+Dialogue: 0,0:06:11.75,0:06:13.04,Dubtitles,,0,0,0,,You got a report, too.
+Dialogue: 0,0:06:13.25,0:06:14.55,Dubtitles,,0,0,0,,Yeah, right.
 Dialogue: 0,0:06:15.13,0:06:16.33,Dubtitles,,0,0,0,,Lay off her, January.
-Dialogue: 0,0:06:16.55,0:06:18.25,Dubtitles,,0,0,0,,Don't put her on the spot like that.
-Dialogue: 0,0:06:18.33,0:06:21.13,Dubtitles,,0,0,0,,We're working, so don't\Nbring up the real world here.
-Dialogue: 0,0:06:21.21,0:06:22.04,Dubtitles,,0,0,0,,Yeah, man.
-Dialogue: 0,0:06:22.19,0:06:25.09,Dubtitles,,0,0,0,,This ain't the time or place\Nto respect your solo status.
-Dialogue: 0,0:06:25.17,0:06:26.83,Dubtitles,,0,0,0,,Like, you guys could talk.
-Dialogue: 0,0:06:26.99,0:06:29.27,Dubtitles,,0,0,0,,When's the last time\Neither of you got lucky?
-Dialogue: 0,0:06:29.35,0:06:31.35,Dubtitles,,0,0,0,,Last night with your sister.
-Dialogue: 0,0:06:32.73,0:06:35.09,Dubtitles,,0,0,0,,Knock it off. Stay sharp. Got him.
-Dialogue: 0,0:06:38.89,0:06:41.18,Dubtitles,,0,0,0,,About time they showed up to the party.
-Dialogue: 0,0:06:44.87,0:06:46.17,Dubtitles,,0,0,0,,Yep, it's them.
-Dialogue: 0,0:06:47.25,0:06:50.43,Dubtitles,,0,0,0,,One, two, three, four, five, six, seven.
-Dialogue: 0,0:06:50.71,0:06:52.53,Dubtitles,,0,0,0,,That's one more than last week.
-Dialogue: 0,0:07:02.23,0:07:04.89,Dubtitles,,0,0,0,,We got four optical blasters in the front.
-Dialogue: 0,0:07:06.17,0:07:09.29,Dubtitles,,0,0,0,,I see one large caliber laser rifle.
-Dialogue: 0,0:07:09.57,0:07:10.43,Dubtitles,,0,0,0,,Not a problem.
-Dialogue: 0,0:07:11.87,0:07:12.70,Dubtitles,,0,0,0,,And...
-Dialogue: 0,0:07:12.78,0:07:13.99,Dubtitles,,0,0,0,,a guy with a mini-me.
-Dialogue: 0,0:07:14.23,0:07:15.35,Dubtitles,,0,0,0,,He goes down first.
-Dialogue: 0,0:07:18.95,0:07:20.53,Dubtitles,,0,0,0,,The new guy in the back.
-Dialogue: 0,0:07:20.65,0:07:21.83,Dubtitles,,0,0,0,,He's got a cloak on.
-Dialogue: 0,0:07:22.07,0:07:23.78,Dubtitles,,0,0,0,,Can't see what he's carrying.
-Dialogue: 0,0:07:23.89,0:07:25.65,Dubtitles,,0,0,0,,He's wearing a cloak? Yeah.
-Dialogue: 0,0:07:26.43,0:07:29.96,Dubtitles,,0,0,0,,Maybe it's him, that Death Gun\Nguy everyone's talking about.
-Dialogue: 0,0:07:30.13,0:07:31.21,Dubtitles,,0,0,0,,Huh, no way.
-Dialogue: 0,0:07:31.55,0:07:33.73,Dubtitles,,0,0,0,,What, you believe in fairy tales now?
-Dialogue: 0,0:07:34.27,0:07:38.01,Dubtitles,,0,0,0,,He looks like he's strength-filled,\Nprobably just a courier, though.
+Dialogue: 0,0:06:16.55,0:06:18.23,Dubtitles,,0,0,0,,Don't put her on the spot like that.
+Dialogue: 0,0:06:18.31,0:06:21.11,Dubtitles,,0,0,0,,We're working, so don't\Nbring up the real world here.
+Dialogue: 0,0:06:21.19,0:06:22.02,Dubtitles,,0,0,0,,Yeah, man.
+Dialogue: 0,0:06:22.10,0:06:25.37,Dubtitles,,0,0,0,,This ain't the time or place\Nto respect your solo status.
+Dialogue: 0,0:06:25.45,0:06:26.86,Dubtitles,,0,0,0,,Like, you guys can talk.
+Dialogue: 0,0:06:26.97,0:06:29.31,Dubtitles,,0,0,0,,When's the last time\Neither of you got lucky?
+Dialogue: 0,0:06:29.39,0:06:31.33,Dubtitles,,0,0,0,,Last night with your sister.
+Dialogue: 0,0:06:32.79,0:06:35.07,Dubtitles,,0,0,0,,Knock it off. Stay sharp. Got him.
+Dialogue: 0,0:06:38.87,0:06:41.16,Dubtitles,,0,0,0,,About time they showed up to the party.
+Dialogue: 0,0:06:44.85,0:06:46.17,Dubtitles,,0,0,0,,Yep, it's them.
+Dialogue: 0,0:06:47.21,0:06:50.43,Dubtitles,,0,0,0,,One, two, three, four, five, six, seven.
+Dialogue: 0,0:06:50.69,0:06:52.51,Dubtitles,,0,0,0,,That's one more than last week.
+Dialogue: 0,0:07:02.21,0:07:04.91,Dubtitles,,0,0,0,,We got four optical blasters in the front.
+Dialogue: 0,0:07:06.71,0:07:09.85,Dubtitles,,0,0,0,,I see one large-caliber laser rifle,
+Dialogue: 0,0:07:10.13,0:07:15.39,Dubtitles,,0,0,0,,not a problem, and a guy with\Na mini-me, he goes down first.
+Dialogue: 0,0:07:18.91,0:07:23.32,Dubtitles,,0,0,0,,The new guy in the back, he's got a\Ncloak on, can't see what he's carrying.
+Dialogue: 0,0:07:23.87,0:07:25.65,Dubtitles,,0,0,0,,He's wearing a cloak? Yeah.
+Dialogue: 0,0:07:26.47,0:07:30.00,Dubtitles,,0,0,0,,Maybe it's him, that death gun\Nguy everyone's talking about.
+Dialogue: 0,0:07:30.15,0:07:31.23,Dubtitles,,0,0,0,,Huh, no way.
+Dialogue: 0,0:07:31.53,0:07:33.71,Dubtitles,,0,0,0,,What, you believe in fairy tales now?
+Dialogue: 0,0:07:34.27,0:07:36.11,Dubtitles,,0,0,0,,He looks like he's strength-filled.
+Dialogue: 0,0:07:36.19,0:07:38.01,Dubtitles,,0,0,0,,Probably just a courier, though.
 Dialogue: 0,0:07:38.09,0:07:42.50,Dubtitles,,0,0,0,,If anything, I bet he's carrying the\Nsquad's ammo, energy packs, and drops.
-Dialogue: 0,0:07:42.67,0:07:43.96,Dubtitles,,0,0,0,,Eh, we can ignore him.
+Dialogue: 0,0:07:42.59,0:07:43.95,Dubtitles,,0,0,0,,Eh, we can ignore him.
 Dialogue: 0,0:07:49.31,0:07:51.90,Dubtitles,,0,0,0,,I'm getting a bad vibe\Nfrom the guy in back.
-Dialogue: 0,0:07:52.07,0:07:55.93,Dubtitles,,0,0,0,,I think we should take him out\Nbefore anyone else. No way.
-Dialogue: 0,0:07:56.09,0:07:57.79,Dubtitles,,0,0,0,,He's not carrying any weapons.
-Dialogue: 0,0:07:57.87,0:07:59.75,Dubtitles,,0,0,0,,Maybe he is, maybe he isn't.
-Dialogue: 0,0:07:59.87,0:08:01.75,Dubtitles,,0,0,0,,He's an unknown, so he's a risk.
-Dialogue: 0,0:08:02.03,0:08:03.23,Dubtitles,,0,0,0,,I hear what you're saying,
-Dialogue: 0,0:08:03.31,0:08:05.95,Dubtitles,,0,0,0,,but there's also a mini-me out\Nthere, and that's a problem.
-Dialogue: 0,0:08:06.03,0:08:10.50,Dubtitles,,0,0,0,,If he starts lighting us up and those\Nblasters move in, it's gonna get ugly.
+Dialogue: 0,0:07:52.07,0:07:55.85,Dubtitles,,0,0,0,,I think we should take him out\Nbefore anyone else. No way.
+Dialogue: 0,0:07:55.93,0:07:57.70,Dubtitles,,0,0,0,,He's not carrying any weapons.
+Dialogue: 0,0:07:57.85,0:07:59.75,Dubtitles,,0,0,0,,Maybe he is, maybe he isn't.
+Dialogue: 0,0:07:59.85,0:08:01.73,Dubtitles,,0,0,0,,He's an unknown, so he's a risk.
+Dialogue: 0,0:08:02.31,0:08:03.41,Dubtitles,,0,0,0,,I hear what you're saying,
+Dialogue: 0,0:08:03.49,0:08:06.07,Dubtitles,,0,0,0,,but there's also a mini-me out\Nthere, and that's a problem.
+Dialogue: 0,0:08:06.15,0:08:10.62,Dubtitles,,0,0,0,,If he starts lighting us up and those\Nblasters move in, it's gonna get ugly.
 Dialogue: 0,0:08:10.81,0:08:11.64,Dubtitles,,0,0,0,,Understood.
 Dialogue: 0,0:08:11.72,0:08:13.95,Dubtitles,,0,0,0,,I'll drop the guy with the mini-me first.
-Dialogue: 0,0:08:14.03,0:08:15.95,Dubtitles,,0,0,0,,But my second bullet's got Mr.
+Dialogue: 0,0:08:14.03,0:08:15.93,Dubtitles,,0,0,0,,But my second bullet's got Mr.
 Dialogue: 0,0:08:16.11,0:08:17.23,Dubtitles,,0,0,0,,Cloak's name on it.
-Dialogue: 0,0:08:17.53,0:08:20.15,Dubtitles,,0,0,0,,Hate to interrupt you guys,\Nbut they're closing on us.
-Dialogue: 0,0:08:20.23,0:08:21.64,Dubtitles,,0,0,0,,They're at 2,500 meters.
-Dialogue: 0,0:08:22.21,0:08:23.04,Dubtitles,,0,0,0,,All right.
-Dialogue: 0,0:08:23.12,0:08:24.49,Dubtitles,,0,0,0,,We're going to stick\Nwith the original plan
-Dialogue: 0,0:08:24.57,0:08:27.09,Dubtitles,,0,0,0,,and wait for him in the\Nshadow of that building.
-Dialogue: 0,0:08:27.17,0:08:29.67,Dubtitles,,0,0,0,,Sinon, call out if the situation changes.
-Dialogue: 0,0:08:30.15,0:08:31.68,Dubtitles,,0,0,0,,Wait for my order to fire.
-Dialogue: 0,0:08:32.31,0:08:33.14,Dubtitles,,0,0,0,,Roger.
-Dialogue: 0,0:08:33.33,0:08:34.16,Dubtitles,,0,0,0,,All right.
-Dialogue: 0,0:08:34.24,0:08:35.07,Dubtitles,,0,0,0,,Move out.
-Dialogue: 0,0:09:14.69,0:09:16.75,Dubtitles,,0,0,0,,I'm in position. Roger.
-Dialogue: 0,0:09:17.13,0:09:20.19,Dubtitles,,0,0,0,,Targets haven't changed\Ntheir course or their speed.
-Dialogue: 0,0:09:20.37,0:09:24.25,Dubtitles,,0,0,0,,They're 400 meters from you,\N1,500 from me. Pretty far.
-Dialogue: 0,0:09:24.61,0:09:28.61,Dubtitles,,0,0,0,,Can you make the shot? No sweat.\NOkay, then. Fire when ready.
-Dialogue: 0,0:09:29.01,0:09:31.01,Dubtitles,,0,0,0,,I'm counting on you, Gunner. Roger.
-Dialogue: 0,0:09:36.79,0:09:37.91,Dubtitles,,0,0,0,,This pressure.
-Dialogue: 0,0:09:38.89,0:09:40.15,Dubtitles,,0,0,0,,This anxiety.
-Dialogue: 0,0:09:41.03,0:09:42.13,Dubtitles,,0,0,0,,This fear.
-Dialogue: 0,0:09:43.17,0:09:44.89,Dubtitles,,0,0,0,,1,500 meters.
-Dialogue: 0,0:09:45.33,0:09:49.17,Dubtitles,,0,0,0,,That's nothing like tossing a\Nwad of paper into a trash can.
-Dialogue: 0,0:09:50.57,0:09:51.53,Dubtitles,,0,0,0,,No way.
-Dialogue: 0,0:09:51.61,0:09:54.37,Dubtitles,,0,0,0,,This is nothing like how it felt that day.
-Dialogue: 0,0:10:06.75,0:10:07.58,Dubtitles,,0,0,0,,Next!
-Dialogue: 0,0:10:20.49,0:10:21.87,Dubtitles,,0,0,0,,Can't change position.
-Dialogue: 0,0:10:23.67,0:10:27.53,Dubtitles,,0,0,0,,I cleared the first target, but\NI couldn't pop the second one.
+Dialogue: 0,0:08:17.49,0:08:20.19,Dubtitles,,0,0,0,,Hate to interrupt you guys,\Nbut they're closing on us.
+Dialogue: 0,0:08:20.27,0:08:21.68,Dubtitles,,0,0,0,,They're at 2,500 meters.
+Dialogue: 0,0:08:22.15,0:08:22.98,Dubtitles,,0,0,0,,All right.
+Dialogue: 0,0:08:23.06,0:08:24.67,Dubtitles,,0,0,0,,We're gonna stick with\Nthe original plan and
+Dialogue: 0,0:08:24.75,0:08:26.97,Dubtitles,,0,0,0,,wait for him in the\Nshadow of that building.
+Dialogue: 0,0:08:27.05,0:08:29.63,Dubtitles,,0,0,0,,Sinon, call out if the situation changes.
+Dialogue: 0,0:08:30.03,0:08:31.56,Dubtitles,,0,0,0,,Wait for my order to fire.
+Dialogue: 0,0:08:32.29,0:08:33.12,Dubtitles,,0,0,0,,Roger.
+Dialogue: 0,0:08:33.29,0:08:34.47,Dubtitles,,0,0,0,,All right, move out.
+Dialogue: 0,0:09:14.85,0:09:16.73,Dubtitles,,0,0,0,,I'm in position. Roger.
+Dialogue: 0,0:09:17.19,0:09:19.97,Dubtitles,,0,0,0,,Targets haven't changed\Ntheir course or their speed.
+Dialogue: 0,0:09:20.05,0:09:24.25,Dubtitles,,0,0,0,,They're 400 meters from you,\N1,500 from me. Pretty far.
+Dialogue: 0,0:09:24.53,0:09:28.61,Dubtitles,,0,0,0,,Can you make the shot? No sweat.\NOkay, then. Fire when ready.
+Dialogue: 0,0:09:29.07,0:09:30.47,Dubtitles,,0,0,0,,I'm counting on you, Xenon.
+Dialogue: 0,0:09:30.55,0:09:31.38,Dubtitles,,0,0,0,,Roger.
+Dialogue: 0,0:09:36.69,0:09:42.05,Dubtitles,,0,0,0,,This pressure, this anxiety, this fear.
+Dialogue: 0,0:09:42.13,0:09:47.47,Dubtitles,,0,0,0,,1500 meters that's nothing like tossing a
+Dialogue: 0,0:09:47.55,0:09:54.35,Dubtitles,,0,0,0,,lot of paper into a trash can no way this\Nis nothing like how it felt that day?
+Dialogue: 0,0:10:06.83,0:10:07.66,Dubtitles,,0,0,0,,Next.
+Dialogue: 0,0:10:20.53,0:10:21.87,Dubtitles,,0,0,0,,Can't change position.
+Dialogue: 0,0:10:23.71,0:10:27.51,Dubtitles,,0,0,0,,I cleared the first target, but\NI couldn't pop the second one.
 Dialogue: 0,0:10:28.23,0:10:29.06,Dubtitles,,0,0,0,,Roger that.
-Dialogue: 0,0:10:29.35,0:10:31.06,Dubtitles,,0,0,0,,Sit tight up there, you hear?
-Dialogue: 0,0:10:31.19,0:10:32.29,Dubtitles,,0,0,0,,Go, go, go!
-Dialogue: 0,0:10:57.61,0:10:59.43,Dubtitles,,0,0,0,,He's got a minigun!
-Dialogue: 0,0:11:01.15,0:11:03.65,Dubtitles,,0,0,0,,They're not late because\Ntheir hunt was running long.
-Dialogue: 0,0:11:03.73,0:11:05.71,Dubtitles,,0,0,0,,They're moving slow in\Nthe field because the
-Dialogue: 0,0:11:05.79,0:11:08.61,Dubtitles,,0,0,0,,weight of that minigun's\Ngot a movement penalty.
-Dialogue: 0,0:11:42.61,0:11:45.20,Dubtitles,,0,0,0,,I knew it. This op's\Ngoing to be a cakewalk.
-Dialogue: 0,0:11:49.79,0:11:50.62,Dubtitles,,0,0,0,,Gah!
-Dialogue: 0,0:12:14.19,0:12:15.55,Dubtitles,,0,0,0,,What was that?
-Dialogue: 0,0:12:16.39,0:12:20.51,Dubtitles,,0,0,0,,If he can smile in the middle of a\Nfirefight, He must be pretty brave.
-Dialogue: 0,0:12:22.61,0:12:23.77,Dubtitles,,0,0,0,,We're crazy.
-Dialogue: 0,0:12:26.47,0:12:28.41,Dubtitles,,0,0,0,,Either way, he's mine.
-Dialogue: 0,0:12:39.25,0:12:40.08,Dubtitles,,0,0,0,,Duck!
-Dialogue: 0,0:12:42.69,0:12:43.52,Dubtitles,,0,0,0,,Crap!
-Dialogue: 0,0:12:43.60,0:12:44.47,Dubtitles,,0,0,0,,Don't let him get closer!
+Dialogue: 0,0:10:29.33,0:10:31.04,Dubtitles,,0,0,0,,Sit tight up there, you hear?
+Dialogue: 0,0:10:31.69,0:10:32.52,Dubtitles,,0,0,0,,Go, go, go!
+Dialogue: 0,0:10:57.71,0:10:59.43,Dubtitles,,0,0,0,,He's got a minigun!
+Dialogue: 0,0:11:01.17,0:11:03.35,Dubtitles,,0,0,0,,They're not late because\Ntheir hunt was running long.
+Dialogue: 0,0:11:03.43,0:11:05.21,Dubtitles,,0,0,0,,They're moving slow in the field.
+Dialogue: 0,0:11:05.29,0:11:08.82,Dubtitles,,0,0,0,,Because the weight of that\Nminigun had a movement penalty.
+Dialogue: 0,0:11:19.31,0:11:22.11,Dubtitles,,0,0,0,,Let's go.
+Dialogue: 0,0:11:38.43,0:11:39.26,Dubtitles,,0,0,0,,Score!
+Dialogue: 0,0:11:42.13,0:11:42.96,Dubtitles,,0,0,0,,Ha!
+Dialogue: 0,0:11:43.04,0:11:43.87,Dubtitles,,0,0,0,,I knew it.
+Dialogue: 0,0:11:43.96,0:11:45.32,Dubtitles,,0,0,0,,This op's gonna be a cakewalk.
+Dialogue: 0,0:12:14.31,0:12:15.55,Dubtitles,,0,0,0,,What was that?
+Dialogue: 0,0:12:16.27,0:12:20.39,Dubtitles,,0,0,0,,If he can smile in the middle of a\Nfirefight, he must be pretty brave.
+Dialogue: 0,0:12:22.55,0:12:23.77,Dubtitles,,0,0,0,,We're crazy.
+Dialogue: 0,0:12:26.45,0:12:28.45,Dubtitles,,0,0,0,,Either way, he's mine.
+Dialogue: 0,0:12:39.27,0:12:40.10,Dubtitles,,0,0,0,,Duck!
+Dialogue: 0,0:12:42.17,0:12:43.00,Dubtitles,,0,0,0,,Crap!
+Dialogue: 0,0:12:43.08,0:12:44.47,Dubtitles,,0,0,0,,Don't let him get closer!
 Dialogue: 0,0:12:44.55,0:12:45.38,Dubtitles,,0,0,0,,Fire!
 Dialogue: 0,0:12:45.46,0:12:46.29,Dubtitles,,0,0,0,,Roger that!
-Dialogue: 0,0:12:57.91,0:13:00.37,Dubtitles,,0,0,0,,Gotta find some cover. But where?
-Dialogue: 0,0:13:01.31,0:13:03.45,Dubtitles,,0,0,0,,Where? Damn it. Where?
-Dialogue: 0,0:13:06.93,0:13:07.76,Dubtitles,,0,0,0,,Sinon?
-Dialogue: 0,0:13:27.75,0:13:29.03,Dubtitles,,0,0,0,,Xenon, are you hit?
-Dialogue: 0,0:13:33.59,0:13:34.42,Dubtitles,,0,0,0,,Bastards.
-Dialogue: 0,0:13:36.27,0:13:38.95,Dubtitles,,0,0,0,,They teamed up with a freaking bodyguard.
-Dialogue: 0,0:13:39.91,0:13:40.74,Dubtitles,,0,0,0,,Bodyguard?
-Dialogue: 0,0:13:40.99,0:13:43.11,Dubtitles,,0,0,0,,It's that guy with the minigun.
-Dialogue: 0,0:13:43.37,0:13:46.05,Dubtitles,,0,0,0,,He's a macho prick,\Ncalls himself behemoth.
-Dialogue: 0,0:13:46.13,0:13:49.93,Dubtitles,,0,0,0,,Well, we can't keep sitting here\Nbecause they're going to wipe us out.
-Dialogue: 0,0:13:50.01,0:13:52.66,Dubtitles,,0,0,0,,That minigun's only got\Nso much ammo to fire.
-Dialogue: 0,0:13:53.01,0:13:57.13,Dubtitles,,0,0,0,,If we attack him at once, he'll panic\Nand burn through the rest of it.
-Dialogue: 0,0:13:57.63,0:13:59.65,Dubtitles,,0,0,0,,Jin and Miss, you take the left flank.
-Dialogue: 0,0:13:59.73,0:14:01.67,Dubtitles,,0,0,0,,Dyne and I will come in from the right.
-Dialogue: 0,0:14:01.75,0:14:03.67,Dubtitles,,0,0,0,,Arashi, you stay here and cover us.
+Dialogue: 0,0:12:57.89,0:13:00.39,Dubtitles,,0,0,0,,Gotta find some cover, but where?
+Dialogue: 0,0:13:01.31,0:13:03.49,Dubtitles,,0,0,0,,Where, damn it, where? Where?
+Dialogue: 0,0:13:06.43,0:13:07.55,Dubtitles,,0,0,0,,S-Sinon?
+Dialogue: 0,0:13:28.37,0:13:29.49,Dubtitles,,0,0,0,,Sinon, are you hit?
+Dialogue: 0,0:13:35.93,0:13:38.97,Dubtitles,,0,0,0,,Bastards, they teamed up\Nwith a freaking bodyguard.
+Dialogue: 0,0:13:40.07,0:13:40.90,Dubtitles,,0,0,0,,Bodyguard?
+Dialogue: 0,0:13:41.15,0:13:43.11,Dubtitles,,0,0,0,,It's that guy with the minigun.
+Dialogue: 0,0:13:43.43,0:13:46.13,Dubtitles,,0,0,0,,He's a macho prick,\Ncalls himself behemoth.
+Dialogue: 0,0:13:46.37,0:13:49.85,Dubtitles,,0,0,0,,Well, we can't keep sitting here\Ncause they're gonna wipe us out.
+Dialogue: 0,0:13:49.93,0:13:52.58,Dubtitles,,0,0,0,,That minigun's only got\Nso much ammo to fire.
+Dialogue: 0,0:13:52.97,0:13:57.09,Dubtitles,,0,0,0,,If we attack him at once, he'll panic\Nand burn through the rest of it.
+Dialogue: 0,0:13:57.67,0:13:59.67,Dubtitles,,0,0,0,,Jin and Miss, you take the left flank.
+Dialogue: 0,0:13:59.75,0:14:01.57,Dubtitles,,0,0,0,,Dyne and I'll come in from the right.
+Dialogue: 0,0:14:01.65,0:14:03.67,Dubtitles,,0,0,0,,Arashi, you stay here and cover us.
 Dialogue: 0,0:14:03.75,0:14:04.58,Dubtitles,,0,0,0,,That's crazy.
 Dialogue: 0,0:14:05.23,0:14:08.31,Dubtitles,,0,0,0,,What about the three guys out\Nthere carrying the blasters?
-Dialogue: 0,0:14:08.39,0:14:10.89,Dubtitles,,0,0,0,,Even if we rush them, our\Ndefense shields aren't enough.
-Dialogue: 0,0:14:10.97,0:14:14.39,Dubtitles,,0,0,0,,Right, but their blasters can't\Nfire as fast as a live ammo gun.
-Dialogue: 0,0:14:14.47,0:14:15.59,Dubtitles,,0,0,0,,We can just dodge them.
-Dialogue: 0,0:14:15.67,0:14:16.50,Dubtitles,,0,0,0,,Screw that!
-Dialogue: 0,0:14:16.58,0:14:20.61,Dubtitles,,0,0,0,,If we go charging out there, that\Nminigun will turn us into confetti!
-Dialogue: 0,0:14:23.19,0:14:25.01,Dubtitles,,0,0,0,,Sorry, but we're packing it in.
-Dialogue: 0,0:14:25.25,0:14:27.39,Dubtitles,,0,0,0,,It's better if we log out right now.
-Dialogue: 0,0:14:27.47,0:14:29.51,Dubtitles,,0,0,0,,At least we'll be able to get away.
-Dialogue: 0,0:14:29.59,0:14:32.24,Dubtitles,,0,0,0,,We don't get away from\Nthings by logging out.
-Dialogue: 0,0:14:33.21,0:14:34.15,Dubtitles,,0,0,0,,Are you nuts?
-Dialogue: 0,0:14:34.33,0:14:35.93,Dubtitles,,0,0,0,,This is a game, for Christ's sakes!
-Dialogue: 0,0:14:36.01,0:14:36.84,Dubtitles,,0,0,0,,Think about it!
-Dialogue: 0,0:14:36.92,0:14:38.45,Dubtitles,,0,0,0,,Even if we charge them, we just die!
-Dialogue: 0,0:14:38.53,0:14:39.36,Dubtitles,,0,0,0,,Then die!
-Dialogue: 0,0:14:41.75,0:14:42.58,Dubtitles,,0,0,0,,It is a game,
-Dialogue: 0,0:14:42.66,0:14:46.94,Dubtitles,,0,0,0,,so you can at least have the balls to\Nface death here instead of whining.
+Dialogue: 0,0:14:08.39,0:14:10.93,Dubtitles,,0,0,0,,Even if we rush them, our\Ndefense shields aren't enough.
+Dialogue: 0,0:14:11.01,0:14:14.39,Dubtitles,,0,0,0,,Right, but their blasters can't\Nfire as fast as a live ammo gun.
+Dialogue: 0,0:14:14.47,0:14:15.69,Dubtitles,,0,0,0,,We can just dodge them.
+Dialogue: 0,0:14:15.77,0:14:16.60,Dubtitles,,0,0,0,,Screw that!
+Dialogue: 0,0:14:16.68,0:14:20.63,Dubtitles,,0,0,0,,If we go charging out there, that\Nminigun will turn us into confetti!
+Dialogue: 0,0:14:23.15,0:14:24.97,Dubtitles,,0,0,0,,Sorry, but we're packing it in.
+Dialogue: 0,0:14:25.23,0:14:27.43,Dubtitles,,0,0,0,,It's better if we log out right now.
+Dialogue: 0,0:14:27.51,0:14:28.79,Dubtitles,,0,0,0,,At least we'll be able to get away.
+Dialogue: 0,0:14:28.87,0:14:29.70,Dubtitles,,0,0,0,,Hey.
+Dialogue: 0,0:14:29.78,0:14:32.34,Dubtitles,,0,0,0,,You don't get away from\Nthings by logging out.
+Dialogue: 0,0:14:33.17,0:14:34.15,Dubtitles,,0,0,0,,Are you nuts?
+Dialogue: 0,0:14:34.35,0:14:35.93,Dubtitles,,0,0,0,,This is a game, for Christ's sakes.
+Dialogue: 0,0:14:36.01,0:14:36.84,Dubtitles,,0,0,0,,Think about it.
+Dialogue: 0,0:14:36.92,0:14:38.45,Dubtitles,,0,0,0,,Even if we charge them, we just die.
+Dialogue: 0,0:14:38.53,0:14:39.59,Dubtitles,,0,0,0,,Then die! Huh?
+Dialogue: 0,0:14:41.77,0:14:42.60,Dubtitles,,0,0,0,,It is a game,
+Dialogue: 0,0:14:42.68,0:14:46.94,Dubtitles,,0,0,0,,so you can at least have the balls to\Nface death here instead of whining.
 Dialogue: 0,0:14:52.79,0:14:53.95,Dubtitles,,0,0,0,,We can do this.
-Dialogue: 0,0:14:54.37,0:14:58.83,Dubtitles,,0,0,0,,If you can distract a minigun for three\Nseconds, I can take him out. Okay.
-Dialogue: 0,0:14:59.35,0:15:00.18,Dubtitles,,0,0,0,,Good.
-Dialogue: 0,0:15:00.26,0:15:02.31,Dubtitles,,0,0,0,,Then we'll split up and\Nattack him from both sides.
-Dialogue: 0,0:15:02.39,0:15:03.39,Dubtitles,,0,0,0,,Got it? Got it.
-Dialogue: 0,0:15:19.19,0:15:20.02,Dubtitles,,0,0,0,,Go!
-Dialogue: 0,0:15:33.25,0:15:34.41,Dubtitles,,0,0,0,,Dive! Cover me!
+Dialogue: 0,0:14:54.37,0:14:57.85,Dubtitles,,0,0,0,,If you can distract a minigun for\Nthree seconds, I can take him out.
+Dialogue: 0,0:14:57.93,0:14:59.57,Dubtitles,,0,0,0,,Yeah. Good.
+Dialogue: 0,0:14:59.97,0:15:02.79,Dubtitles,,0,0,0,,Then we'll split up and attack\Nhim from both sides, got it?
+Dialogue: 0,0:15:02.87,0:15:03.70,Dubtitles,,0,0,0,,Got it.
+Dialogue: 0,0:15:19.11,0:15:19.94,Dubtitles,,0,0,0,,Go!
+Dialogue: 0,0:15:33.03,0:15:34.41,Dubtitles,,0,0,0,,Die! Cover me!
 Dialogue: 0,0:16:02.09,0:16:03.68,Dubtitles,,0,0,0,,How do you like that, punk?
-Dialogue: 0,0:16:30.81,0:16:32.69,Dubtitles,,0,0,0,,Screw you!
-Dialogue: 0,0:16:55.61,0:16:56.55,Dubtitles,,0,0,0,,Nice going.
-Dialogue: 0,0:16:58.41,0:17:02.29,Dubtitles,,0,0,0,,Now, I've got to figure out how\Nto get into Behemoth's blind spot.
-Dialogue: 0,0:17:05.59,0:17:09.12,Dubtitles,,0,0,0,,I better move fast, or he's\Ngonna get a beat on my location.
+Dialogue: 0,0:16:27.93,0:16:29.13,Dubtitles,,0,0,0,,Oh!
+Dialogue: 0,0:16:31.49,0:16:32.69,Dubtitles,,0,0,0,,Screw you!
+Dialogue: 0,0:16:41.93,0:16:42.76,Dubtitles,,0,0,0,,Yes!
+Dialogue: 0,0:16:55.43,0:16:56.57,Dubtitles,,0,0,0,,Nice going.
+Dialogue: 0,0:16:58.65,0:17:02.53,Dubtitles,,0,0,0,,Now, I've got to figure out how\Nto get into Behemoth's blind spot.
+Dialogue: 0,0:17:05.61,0:17:09.32,Dubtitles,,0,0,0,,I better move fast, or he's going\Nto get a beat on my location.
 Dialogue: 0,0:17:14.53,0:17:18.12,Dubtitles,,0,0,0,,Bullets are flying, and he's\Ngot the guts to smile like that.
-Dialogue: 0,0:17:21.21,0:17:23.47,Dubtitles,,0,0,0,,Maybe I will, too, when I kill him.
-Dialogue: 0,0:17:42.85,0:17:44.85,Dubtitles,,0,0,0,,Doclip! Ugh!
-Dialogue: 0,0:17:54.45,0:17:55.85,Dubtitles,,0,0,0,,Hahahahahahahaha!
-Dialogue: 0,0:18:20.17,0:18:21.87,Dubtitles,,0,0,0,,You're dead.
-Dialogue: 0,0:18:55.31,0:18:57.47,Dubtitles,,0,0,0,,Oh, my God.
-Dialogue: 0,0:19:12.39,0:19:15.59,Dubtitles,,0,0,0,,I love you.
-Dialogue: 0,0:19:41.21,0:19:42.71,Dubtitles,,0,0,0,,Damn it.
-Dialogue: 0,0:19:44.71,0:19:46.49,Dubtitles,,0,0,0,,I gotta get stronger.
-Dialogue: 0,0:20:00.55,0:20:01.38,Dubtitles,,0,0,0,,What the?
-Dialogue: 0,0:20:03.29,0:20:04.41,Dubtitles,,0,0,0,,Ha-ha!
-Dialogue: 0,0:20:04.75,0:20:07.09,Dubtitles,,0,0,0,,I've got a new trick up my sleeve!
-Dialogue: 0,0:20:09.93,0:20:10.89,Dubtitles,,0,0,0,,Help!
-Dialogue: 0,0:20:15.09,0:20:17.29,Dubtitles,,0,0,0,,Please all help me!
-Dialogue: 0,0:20:18.05,0:20:18.99,Dubtitles,,0,0,0,,I'm coming!
-Dialogue: 0,0:20:21.85,0:20:22.68,Dubtitles,,0,0,0,,Lisbeth!
+Dialogue: 0,0:17:21.23,0:17:23.49,Dubtitles,,0,0,0,,Maybe I will, too, when I kill him.
+Dialogue: 0,0:17:28.35,0:17:29.89,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:18:20.19,0:18:21.87,Dubtitles,,0,0,0,,You're dead.
+Dialogue: 0,0:18:49.51,0:18:51.79,Dubtitles,,0,0,0,,I don't know.
+Dialogue: 0,0:19:02.11,0:19:04.27,Dubtitles,,0,0,0,,I love you.
+Dialogue: 0,0:19:41.01,0:19:42.71,Dubtitles,,0,0,0,,Damn it.
+Dialogue: 0,0:19:43.95,0:19:46.49,Dubtitles,,0,0,0,,I gotta get stronger.
+Dialogue: 0,0:20:04.73,0:20:07.09,Dubtitles,,0,0,0,,I've got a new trick up my sleeve.
+Dialogue: 0,0:20:15.35,0:20:17.33,Dubtitles,,0,0,0,,Please all help me!
+Dialogue: 0,0:20:18.07,0:20:18.99,Dubtitles,,0,0,0,,I'm coming!
+Dialogue: 0,0:20:22.05,0:20:22.88,Dubtitles,,0,0,0,,Alice!
+Dialogue: 0,0:20:30.07,0:20:30.90,Dubtitles,,0,0,0,,Oh, no!
+Dialogue: 0,0:20:37.05,0:20:37.88,Dubtitles,,0,0,0,,Yay!
 Dialogue: 0,0:20:40.61,0:20:41.90,Dubtitles,,0,0,0,,Let's see what we got.
-Dialogue: 0,0:20:42.87,0:20:45.05,Dubtitles,,0,0,0,,Please tell me that's the last of it.
-Dialogue: 0,0:20:45.75,0:20:48.53,Dubtitles,,0,0,0,,Hmm, I think I pretty much\Ngot everything I need now.
-Dialogue: 0,0:20:48.61,0:20:49.93,Dubtitles,,0,0,0,,You want to keep going some more?
+Dialogue: 0,0:20:42.87,0:20:45.51,Dubtitles,,0,0,0,,Please tell me that's the last of it. Hmm.
+Dialogue: 0,0:20:45.97,0:20:48.51,Dubtitles,,0,0,0,,I think I pretty much got\Neverything I need now.
+Dialogue: 0,0:20:48.59,0:20:49.93,Dubtitles,,0,0,0,,You want to keep going some more?
 Dialogue: 0,0:20:50.01,0:20:53.87,Dubtitles,,0,0,0,,You always hook us up at your shop, so\Nif you need more, we don't mind helping.
 Dialogue: 0,0:20:53.95,0:20:54.78,Dubtitles,,0,0,0,,Thanks, guys.
-Dialogue: 0,0:20:57.03,0:21:00.39,Dubtitles,,0,0,0,,Although, hmm, we sort of picked\Nthis place clean, didn't we?
-Dialogue: 0,0:21:00.47,0:21:02.59,Dubtitles,,0,0,0,,Let's take a break and let him respawn.
-Dialogue: 0,0:21:02.67,0:21:03.50,Dubtitles,,0,0,0,,Okay.
-Dialogue: 0,0:21:08.41,0:21:10.11,Dubtitles,,0,0,0,,They're so into each other.
-Dialogue: 0,0:21:10.85,0:21:13.85,Dubtitles,,0,0,0,,It's not fair, damn it. Now, now.
-Dialogue: 0,0:21:14.97,0:21:17.05,Dubtitles,,0,0,0,,It doesn't matter if\Nthey're at school or here.
-Dialogue: 0,0:21:17.13,0:21:19.07,Dubtitles,,0,0,0,,They can't keep their\Nhands off each other.
-Dialogue: 0,0:21:19.15,0:21:21.62,Dubtitles,,0,0,0,,You mean they're like this at school, too?
-Dialogue: 0,0:21:21.73,0:21:23.09,Dubtitles,,0,0,0,,All day, every day.
-Dialogue: 0,0:21:24.03,0:21:24.86,Dubtitles,,0,0,0,,Okay.
-Dialogue: 0,0:21:53.09,0:21:54.49,Dubtitles,,0,0,0,,Hmm...
+Dialogue: 0,0:20:56.85,0:21:00.44,Dubtitles,,0,0,0,,Although, hmm, we sort of picked\Nthis place clean, didn't we?
+Dialogue: 0,0:21:00.53,0:21:02.61,Dubtitles,,0,0,0,,Let's take a break and let them respawn.
+Dialogue: 0,0:21:02.69,0:21:03.52,Dubtitles,,0,0,0,,Okay.
+Dialogue: 0,0:21:08.37,0:21:10.11,Dubtitles,,0,0,0,,They're so into each other.
+Dialogue: 0,0:21:10.81,0:21:13.79,Dubtitles,,0,0,0,,It's not fair, damn it. How now?
+Dialogue: 0,0:21:15.07,0:21:16.95,Dubtitles,,0,0,0,,Ugh, doesn't matter if\Nthey're at school or here.
+Dialogue: 0,0:21:17.03,0:21:19.09,Dubtitles,,0,0,0,,They can't keep their\Nhands off each other.
+Dialogue: 0,0:21:19.17,0:21:21.64,Dubtitles,,0,0,0,,You mean they're like this at school, too?
+Dialogue: 0,0:21:21.81,0:21:22.99,Dubtitles,,0,0,0,,All day, every day.
+Dialogue: 0,0:21:23.07,0:21:23.90,Dubtitles,,0,0,0,,Why?
 Dialogue: 0,0:21:59.69,0:22:03.51,Dubtitles,,0,0,0,,Asuna, there's something important\NI've been wanting to tell you.
 Dialogue: 1,0:22:05.49,0:22:13.29,ED-Rom,,0,0,0,,{\k87\fad(200,200)}Mo{\k41}tto {\k48}tsu{\k23}yo{\k82}ku {\k34}sou {\k41}tsu{\k22}yo{\k87}ku {\k25}na{\k44}ri{\k25}ta{\k42}i {\k48}to {\k43}ne{\k46}ga{\k42}tta
 Dialogue: 1,0:22:05.49,0:22:13.29,ED-English,,0,0,0,,{\fad(200,200)}I wished so hard to become stronger than ever
 Dialogue: 1,0:22:13.29,0:22:17.21,ED-Rom,,0,0,0,,{\k26\fad(200,200)}Ka{\k18}na{\k26}shi{\k47}mi {\k20}wo {\k45}ko{\k45}e{\k165}te
 Dialogue: 1,0:22:13.29,0:22:17.21,ED-English,,0,0,0,,{\fad(200,200)}Overcoming my grief
+Dialogue: 0,0:22:23.81,0:22:26.89,Dubtitles,,0,0,0,,I've never moved in the past.
 Dialogue: 1,0:22:24.42,0:22:27.97,ED-Rom,,0,0,0,,{\k28\fad(200,200)}Ka{\k45}wa{\k22}ru {\k46}ko{\k44}to {\k42}nai {\k24}ka{\k23}ko {\k81}ni
 Dialogue: 1,0:22:24.42,0:22:27.97,ED-English,,0,0,0,,{\fad(200,200)}I've turned my back so many times
-Dialogue: 0,0:22:24.51,0:22:29.89,Dubtitles,,0,0,0,,I've never seen the past,\Nbut I've never seen it.
+Dialogue: 0,0:22:26.97,0:22:30.37,Dubtitles,,0,0,0,,I've never been in a past.
 Dialogue: 1,0:22:27.97,0:22:31.60,ED-Rom,,0,0,0,,{\k33\fad(200,200)}Na{\k45}n{\k22}do {\k38}mo {\k51}se {\k42}wo {\k23}mu{\k21}ke{\k47}te{\k41}ta
 Dialogue: 1,0:22:27.97,0:22:31.60,ED-English,,0,0,0,,{\fad(200,200)}On the past that will never change
-Dialogue: 0,0:22:31.47,0:22:33.95,Dubtitles,,0,0,0,,I've never seen it. I've never seen it.
+Dialogue: 0,0:22:30.45,0:22:34.57,Dubtitles,,0,0,0,,I've never been in a\Npast. I couldn't be seen.
 Dialogue: 1,0:22:31.60,0:22:38.98,ED-Rom,,0,0,0,,{\k27\fad(200,200)}Da{\k44}re {\k22}ni {\k48}mo {\k42}mi{\k48}se{\k22}ra{\k19}re {\k47}nai {\k16}ki{\k30}zu {\k44}wo {\k21}ka{\k17}ku{\k51}shi{\k21}ta {\k26}ma{\k37}ma {\k49}zu{\k107}tto
 Dialogue: 1,0:22:31.60,0:22:38.98,ED-English,,0,0,0,,{\fad(200,200)}While hiding the scars I can never show anyone
-Dialogue: 0,0:22:34.59,0:22:35.97,Dubtitles,,0,0,0,,I've never seen it.
-Dialogue: 0,0:22:36.89,0:22:38.03,Dubtitles,,0,0,0,,I've never seen it.
+Dialogue: 0,0:22:34.65,0:22:37.55,Dubtitles,,0,0,0,,I've never been in my past.
 Dialogue: 1,0:22:38.98,0:22:46.11,ED-Rom,,0,0,0,,{\k23\fad(200,200)}A{\k30}fu{\k22}re {\k16}da{\k24}shi{\k24}ta {\k24}ko{\k22}no {\k23}i{\k24}ta{\k23}mi {\k99}wa {\k32}su{\k19}be{\k18}te {\k30}hi{\k23}to{\k21}ri {\k24}de {\k20}da{\k16}ki {\k30}shi{\k26}me{\k100}ru
 Dialogue: 1,0:22:38.98,0:22:46.11,ED-English,,0,0,0,,{\fad(200,200)}I will embrace all this pain that has started flooding through me
-Dialogue: 0,0:22:39.21,0:22:43.67,Dubtitles,,0,0,0,,I'm all alone.
+Dialogue: 0,0:22:39.07,0:22:41.27,Dubtitles,,0,0,0,,I've never been in this pain.
+Dialogue: 0,0:22:42.07,0:22:43.59,Dubtitles,,0,0,0,,All of us at once.
+Dialogue: 0,0:22:43.67,0:22:47.19,Dubtitles,,0,0,0,,If it's empty?
 Dialogue: 1,0:22:46.11,0:22:49.07,ED-Rom,,0,0,0,,{\k32\fad(200,200)}It{\k22}su{\k21}ka {\k24}ki{\k23}e{\k21}ru {\k22}nu{\k23}ku{\k26}mo{\k20}ri {\k22}na{\k40}ra
 Dialogue: 1,0:22:46.11,0:22:49.07,ED-English,,0,0,0,,{\fad(200,200)}I don't need warmth at all
-Dialogue: 0,0:22:46.45,0:22:49.53,Dubtitles,,0,0,0,,I don't need one thing.
 Dialogue: 1,0:22:49.07,0:22:53.70,ED-Rom,,0,0,0,,{\k24\fad(200,200)}Hi{\k21}to{\k26}tsu {\k46}mo {\k24}i{\k41}ra{\k44}nai {\k237}yo
 Dialogue: 1,0:22:49.07,0:22:53.70,ED-English,,0,0,0,,{\fad(200,200)}If it will vanish one day
-Dialogue: 0,0:22:49.61,0:22:55.45,Dubtitles,,0,0,0,,I don't need to be strong.
 Dialogue: 1,0:22:53.70,0:23:01.63,ED-Rom,,0,0,0,,{\k98\fad(200,200)}Mo{\k46}tto {\k44}tsu{\k23}yo{\k88}ku {\k29}sou {\k40}tsu{\k22}yo{\k91}ku {\k21}na{\k44}ri{\k25}ta{\k45}i {\k44}to {\k45}ne{\k44}ga{\k44}tta
 Dialogue: 1,0:22:53.70,0:23:01.63,ED-English,,0,0,0,,{\fad(200,200)}I wished so hard to become stronger than ever
-Dialogue: 0,0:22:55.53,0:22:57.05,Dubtitles,,0,0,0,,I want to be strong!
-Dialogue: 0,0:22:57.13,0:22:59.57,Dubtitles,,0,0,0,,I want to be strong!
-Dialogue: 0,0:22:59.65,0:23:00.83,Dubtitles,,0,0,0,,I want to be a dream.
-Dialogue: 0,0:23:00.91,0:23:01.93,Dubtitles,,0,0,0,,I will be a dark.
 Dialogue: 1,0:23:01.63,0:23:08.05,ED-Rom,,0,0,0,,{\k23\fad(200,200)}Ku{\k21}ra{\k21}ya{\k48}mi {\k22}wo {\k43}ka{\k48}ke{\k131}ru {\k26}ko{\k20}do{\k23}ku {\k43}na {\k21}ho{\k48}shi {\k20}no {\k25}you {\k59}ni
 Dialogue: 1,0:23:01.63,0:23:08.05,ED-English,,0,0,0,,{\fad(200,200)}Like a lonely star racing across the darkness
-Dialogue: 0,0:23:02.01,0:23:05.19,Dubtitles,,0,0,0,,I will be a lonely.
-Dialogue: 0,0:23:05.27,0:23:06.51,Dubtitles,,0,0,0,,Like a lonely star.
-Dialogue: 0,0:23:07.61,0:23:10.31,Dubtitles,,0,0,0,,I will be deep.
+Dialogue: 0,0:23:04.15,0:23:04.98,Dubtitles,,0,0,0,,Thank
+Dialogue: 0,0:23:05.06,0:23:05.89,Dubtitles,,0,0,0,,you
+Dialogue: 0,0:23:05.98,0:23:11.23,Dubtitles,,0,0,0,,so
 Dialogue: 1,0:23:08.05,0:23:15.81,ED-Rom,,0,0,0,,{\k53\fad(200,200)}Ko{\k45}ko{\k44}ro {\k45}fu{\k22}ka{\k86}ku {\k30}shi{\k43}zu{\k22}me{\k89}ta {\k21}yo{\k44}wa{\k24}ku{\k44}te {\k46}mo{\k44}roi {\k25}ji{\k49}bun
 Dialogue: 1,0:23:08.05,0:23:15.81,ED-English,,0,0,0,,{\fad(200,200)}Sunk so deep inside my heart, I'm so weak and fragile
-Dialogue: 0,0:23:12.09,0:23:13.17,Dubtitles,,0,0,0,,I will be weak.
-Dialogue: 0,0:23:13.25,0:23:16.27,Dubtitles,,0,0,0,,I will be weak. I can't be a word.
 Dialogue: 1,0:23:15.81,0:23:22.90,ED-Rom,,0,0,0,,{\k38\fad(200,200)}Ko{\k26}to{\k19}ba {\k46}ni {\k20}de{\k47}ki{\k32}na{\k11}ku{\k134}te {\k25}ko{\k25}e {\k18}ni {\k46}mo {\k21}na{\k46}ra{\k24}na{\k16}ku{\k115}te
 Dialogue: 1,0:23:15.81,0:23:22.90,ED-English,,0,0,0,,{\fad(200,200)}I can't put it into words, or even speak out
-Dialogue: 0,0:23:16.35,0:23:18.17,Dubtitles,,0,0,0,,I won't be able to do anything.
-Dialogue: 0,0:23:19.35,0:23:22.53,Dubtitles,,0,0,0,,I won't be able to do anything.
-Dialogue: 0,0:23:22.61,0:23:26.47,Dubtitles,,0,0,0,,I won't be able to see anyone.
+Dialogue: 0,0:23:17.09,0:23:18.15,Dubtitles,,0,0,0,,much for watching.
 Dialogue: 1,0:23:22.90,0:23:27.94,ED-Rom,,0,0,0,,{\k68\fad(200,200)}Ki{\k22}tto {\k34}da{\k31}re {\k26}ni {\k30}mo {\k35}mi{\k23}tsu{\k39}ka{\k29}ra {\k23}na{\k34}i {\k32}yo{\k24}u {\k54}ni
 Dialogue: 1,0:23:22.90,0:23:27.94,ED-English,,0,0,0,,{\fad(200,200)}I'm just waiting for the light
-Dialogue: 0,0:23:27.35,0:23:30.09,Dubtitles,,0,0,0,,I'm just waiting for the light?
 Dialogue: 1,0:23:27.94,0:23:33.66,ED-Rom,,0,0,0,,{\k34\fad(200,400)}Ta{\k64}da {\k17}hik{\k56}ari {\k26}wo {\k42}ma{\k20}tte{\k313}ru
 Dialogue: 1,0:23:27.94,0:23:33.66,ED-English,,0,0,0,,{\fad(200,400)}Trying not to be found by anyone
 Dialogue: 1,0:23:34.99,0:23:40.00,prev,,0,0,0,,{\pos(960,300)\bord4.5\blur3.75\3c&H000000&\3a&H55}Next Episode
@@ -575,4 +570,5 @@ Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\clip(432,833,1493,834)\bord0\b
 Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\clip(432,834,1493,836)\bord0\blur0.75\c&HD0A31E&\pos(960,869.119)}Memories Of Blood
 Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\clip(432,836,1493,837)\bord0\blur0.75\c&HCFA21D&\pos(960,869.119)}Memories Of Blood
 Dialogue: 3,0:23:34.99,0:23:40.00,title,,0,0,0,,{\clip(432,837,1493,839)\bord0\blur0.75\c&HCFA11B&\pos(960,869.119)}Memories Of Blood
+Dialogue: 0,0:23:36.01,0:23:38.27,Dubtitles,,0,0,0,,Next time, Memories of Blood.
 

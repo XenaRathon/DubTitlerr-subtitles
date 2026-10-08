@@ -29,17 +29,17 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.75,0:00:02.68,Dubtitles,,0,0,0,,Sword
-Dialogue: 0,0:00:02.77,0:00:09.77,Dubtitles,,0,0,0,,Art
 Dialogue: 1,0:00:04.85,0:00:06.61,Signs,,0,0,0,,{\pos(960,478.5)\fsp-1.5\fs75\fscx120\fscy110\be\blur27\shad0\alpha&H6C&}In {\fscx140}2022{\fscx120}, mankind finally...
 Dialogue: 1,0:00:04.85,0:00:06.61,Signs,,0,0,0,,{\pos(960,480)\fsp-1.5\fs75\fscx120\fscy110\shad0\bord0\c&HFAF9F7&}In {\fscx140}2022{\fscx120}, mankind finally...
+Dialogue: 0,0:00:05.37,0:00:06.40,Dubtitles,,0,0,0,,Shigemura, Sword
+Dialogue: 0,0:00:06.49,0:00:13.49,Dubtitles,,0,0,0,,Art
 Dialogue: 1,0:00:09.57,0:00:11.57,Signs,,0,0,0,,{\pos(960,478.5)\fsp-1.5\fs75\fscx120\fscy110\blur27\alpha&H6C&\shad0}brought a true virtual world into existence.
 Dialogue: 1,0:00:09.57,0:00:11.57,Signs,,0,0,0,,{\pos(960,480)\fsp-1.5\fs75\fscx120\fscy110\shad0\bord0\c&HFAF9F7&}brought a true virtual world into existence.
-Dialogue: 0,0:00:14.27,0:00:16.39,Dubtitles,,0,0,0,,Online
-Dialogue: 0,0:00:17.47,0:00:18.35,Dubtitles,,0,0,0,,Hi there.
-Dialogue: 0,0:00:18.47,0:00:20.32,Dubtitles,,0,0,0,,Time for this week's MMO Stream.
-Dialogue: 0,0:00:20.41,0:00:22.68,Dubtitles,,0,0,0,,You just saw a promo of\Ntoday's featured game,
-Dialogue: 0,0:00:22.77,0:00:25.32,Dubtitles,,0,0,0,,and this is what last week's\Nlaunch day looked like.
+Dialogue: 0,0:00:13.97,0:00:16.21,Dubtitles,,0,0,0,,Online.
+Dialogue: 0,0:00:17.51,0:00:18.35,Dubtitles,,0,0,0,,Hi there!
+Dialogue: 0,0:00:18.47,0:00:20.34,Dubtitles,,0,0,0,,Time for this week's MMO Stream!
+Dialogue: 0,0:00:20.43,0:00:22.72,Dubtitles,,0,0,0,,You just saw a promo of\Ntoday's featured game!
+Dialogue: 0,0:00:22.81,0:00:25.32,Dubtitles,,0,0,0,,And this is what last week's\Nlaunch day looked like!
 Dialogue: 1,0:00:24.96,0:00:27.92,eol,,0,0,0,,{\move(241.5,153,354,153)\fay-0.04\blur1.05}End of Line
 Dialogue: 0,0:00:25.41,0:00:27.64,Dubtitles,,0,0,0,,Can you guess what everyone's\Nwaiting in line for?
 Dialogue: 0,0:00:27.73,0:00:29.13,Dubtitles,,0,0,0,,Sword Art Online!
@@ -265,51 +265,50 @@ Dialogue: 0,0:03:57.33,0:03:59.38,Dubtitles,,0,0,0,,Here's an easier way to look
 Dialogue: 0,0:04:01.55,0:04:04.22,Dubtitles,,0,0,0,,Right after you start your\Nmove, wait for a little bit.
 Dialogue: 0,0:04:04.31,0:04:07.72,Dubtitles,,0,0,0,,When you feel the skills start\Nto activate, drive it home.
 Dialogue: 0,0:04:08.03,0:04:09.01,Dubtitles,,0,0,0,,Drive it home?
-Dialogue: 0,0:04:14.13,0:04:15.47,Dubtitles,,0,0,0,,Woo!
-Dialogue: 0,0:04:20.81,0:04:22.15,Dubtitles,,0,0,0,,Hyaaah!
-Dialogue: 0,0:04:30.25,0:04:32.93,Dubtitles,,0,0,0,,He-he!
-Dialogue: 0,0:04:33.45,0:04:34.28,Dubtitles,,0,0,0,,Yeah!
-Dialogue: 0,0:04:35.77,0:04:36.79,Dubtitles,,0,0,0,,Congratulations.
-Dialogue: 0,0:04:37.39,0:04:38.22,Dubtitles,,0,0,0,,Hm?
-Dialogue: 0,0:04:38.83,0:04:39.66,Dubtitles,,0,0,0,,Ha-ha.
-Dialogue: 0,0:04:39.91,0:04:41.05,Dubtitles,,0,0,0,,That was nice.
-Dialogue: 0,0:04:42.55,0:04:45.66,Dubtitles,,0,0,0,,But that boar's about as weak\Nas slimes in other games are.
-Dialogue: 0,0:04:45.75,0:04:47.44,Dubtitles,,0,0,0,,Holy crap, you gotta be kidding.
-Dialogue: 0,0:04:47.53,0:04:50.00,Dubtitles,,0,0,0,,I thought that thing was a mid-level boss.
-Dialogue: 0,0:04:50.25,0:04:51.55,Dubtitles,,0,0,0,,Yeah, as if.
-Dialogue: 0,0:04:54.15,0:04:54.98,Dubtitles,,0,0,0,,Whoa!
-Dialogue: 0,0:04:55.73,0:04:56.68,Dubtitles,,0,0,0,,Addictive, isn't it?
+Dialogue: 0,0:04:11.89,0:04:12.72,Dubtitles,,0,0,0,,Hello?
+Dialogue: 0,0:04:35.67,0:04:37.49,Dubtitles,,0,0,0,,Congratulations, hmm?
+Dialogue: 0,0:04:39.09,0:04:41.09,Dubtitles,,0,0,0,,That was nice.
+Dialogue: 0,0:04:42.53,0:04:45.64,Dubtitles,,0,0,0,,But that boar's about as weak\Nas slimes in other games are.
+Dialogue: 0,0:04:45.73,0:04:47.40,Dubtitles,,0,0,0,,Holy crap, you gotta be kidding!
+Dialogue: 0,0:04:47.49,0:04:49.96,Dubtitles,,0,0,0,,I thought that thing was a mid-level boss!
+Dialogue: 0,0:04:50.23,0:04:51.55,Dubtitles,,0,0,0,,Yeah, as if.
+Dialogue: 0,0:04:54.13,0:04:54.96,Dubtitles,,0,0,0,,Whoa!
+Dialogue: 0,0:04:55.71,0:04:56.68,Dubtitles,,0,0,0,,Addictive, isn't it?
 Dialogue: 0,0:04:56.77,0:04:57.60,Dubtitles,,0,0,0,,I'll say.
-Dialogue: 0,0:04:59.91,0:05:05.03,Dubtitles,,0,0,0,,So these skills, there's a ton of them,\Nlike blacksmithing and stuff, right? Uh-huh.
+Dialogue: 0,0:04:59.89,0:05:05.03,Dubtitles,,0,0,0,,So these skills, there's a ton of them,\Nlike blacksmithing and stuff, right? Uh-huh.
 Dialogue: 0,0:05:06.07,0:05:08.95,Dubtitles,,0,0,0,,I heard the game has an\Nunlimited number of them.
 Dialogue: 0,0:05:09.15,0:05:10.85,Dubtitles,,0,0,0,,All except for magic, though.
-Dialogue: 0,0:05:12.59,0:05:14.53,Dubtitles,,0,0,0,,An RPG without magic?
-Dialogue: 0,0:05:14.79,0:05:16.47,Dubtitles,,0,0,0,,That's a bold decision, man!
-Dialogue: 0,0:05:19.85,0:05:20.68,Dubtitles,,0,0,0,,Yeah!
-Dialogue: 0,0:05:21.45,0:05:22.54,Dubtitles,,0,0,0,,So, what do you think?
-Dialogue: 0,0:05:22.63,0:05:25.70,Dubtitles,,0,0,0,,It's kind of fun to move your\Nbody as you fight, isn't it?
-Dialogue: 0,0:05:25.79,0:05:27.01,Dubtitles,,0,0,0,,Oh, hells yeah!
-Dialogue: 0,0:05:29.03,0:05:30.39,Dubtitles,,0,0,0,,You ready to move on?
+Dialogue: 0,0:05:12.57,0:05:14.51,Dubtitles,,0,0,0,,An RPG without magic?
+Dialogue: 0,0:05:14.75,0:05:16.47,Dubtitles,,0,0,0,,That's a bold decision, man!
+Dialogue: 0,0:05:21.23,0:05:22.52,Dubtitles,,0,0,0,,So, what do you think?
+Dialogue: 0,0:05:22.63,0:05:25.72,Dubtitles,,0,0,0,,It's kind of fun to move your\Nbody as you fight, isn't it?
+Dialogue: 0,0:05:25.81,0:05:27.05,Dubtitles,,0,0,0,,Oh, hells yeah!
+Dialogue: 0,0:05:29.03,0:05:30.41,Dubtitles,,0,0,0,,You ready to move on?
 Dialogue: 0,0:05:31.13,0:05:31.96,Dubtitles,,0,0,0,,Yeah, man!
-Dialogue: 0,0:05:32.19,0:05:33.19,Dubtitles,,0,0,0,,Let's keep going!
-Dialogue: 0,0:05:41.61,0:05:45.34,Dubtitles,,0,0,0,,When I look around, I can't\Nbelieve it—we're inside.
-Dialogue: 0,0:05:45.43,0:05:51.52,Dubtitles,,0,0,0,,a game bro whoever made\Nit's a genius this thing's
-Dialogue: 0,0:05:51.61,0:05:55.24,Dubtitles,,0,0,0,,amazing makes me glad i\Nwas born when i was you
-Dialogue: 0,0:05:55.33,0:05:58.72,Dubtitles,,0,0,0,,know it's not that big\Na deal cut me some slack
-Dialogue: 0,0:05:58.81,0:06:01.48,Dubtitles,,0,0,0,,it's my first full dive\Nyou never used the nerve
-Dialogue: 0,0:06:01.57,0:06:04.26,Dubtitles,,0,0,0,,gear before today huh\Nthis is your first time
-Dialogue: 0,0:06:04.35,0:06:07.50,Dubtitles,,0,0,0,,ever uh-huh as soon as\Ni got the money together
-Dialogue: 0,0:06:07.59,0:06:10.64,Dubtitles,,0,0,0,,i rushed out and bought all\Nthe hardware to play sao
-Dialogue: 0,0:06:10.81,0:06:13.74,Dubtitles,,0,0,0,,Stood in line and scored one\Nof the 10,000 hard copies.
-Dialogue: 0,0:06:13.83,0:06:16.12,Dubtitles,,0,0,0,,Guess you could say I was pretty lucky.
-Dialogue: 0,0:06:16.37,0:06:20.37,Dubtitles,,0,0,0,,Although, you, sir, were ten times\Nas lucky getting the beta tested.
-Dialogue: 0,0:06:20.89,0:06:23.47,Dubtitles,,0,0,0,,Dude, only a thousand\Npeople got the chance.
-Dialogue: 0,0:06:23.93,0:06:25.63,Dubtitles,,0,0,0,,Yeah, I guess I was lucky.
-Dialogue: 0,0:06:26.65,0:06:29.41,Dubtitles,,0,0,0,,Hey, mind if I ask how\Nfar you got in the beta?
-Dialogue: 0,0:06:29.85,0:06:32.85,Dubtitles,,0,0,0,,Two months and I couldn't\Nget further than Floor 8.
-Dialogue: 0,0:06:33.05,0:06:35.54,Dubtitles,,0,0,0,,But now I think I can\Nget there within a month.
+Dialogue: 0,0:05:32.21,0:05:33.21,Dubtitles,,0,0,0,,Let's keep going!
+Dialogue: 0,0:05:41.89,0:05:44.18,Dubtitles,,0,0,0,,When I look around, I can't believe it.
+Dialogue: 0,0:05:44.57,0:05:46.51,Dubtitles,,0,0,0,,We're inside a game, bro.
+Dialogue: 0,0:05:48.17,0:05:49.83,Dubtitles,,0,0,0,,Whoever made it's a genius.
+Dialogue: 0,0:05:50.73,0:05:52.25,Dubtitles,,0,0,0,,This thing's amazing.
+Dialogue: 0,0:05:52.91,0:05:55.60,Dubtitles,,0,0,0,,Makes me glad I was born\Nwhen I was, you know?
+Dialogue: 0,0:05:55.69,0:05:57.16,Dubtitles,,0,0,0,,It's not that big a deal.
+Dialogue: 0,0:05:57.83,0:05:58.78,Dubtitles,,0,0,0,,Cut me some slack.
+Dialogue: 0,0:05:58.87,0:06:00.28,Dubtitles,,0,0,0,,It's my first full dive.
+Dialogue: 0,0:06:00.47,0:06:03.11,Dubtitles,,0,0,0,,You never used a NerveGear\Nbefore today, huh?
+Dialogue: 0,0:06:03.37,0:06:05.07,Dubtitles,,0,0,0,,This is your first time ever?
+Dialogue: 0,0:06:05.23,0:06:06.06,Dubtitles,,0,0,0,,Uh-huh.
+Dialogue: 0,0:06:06.14,0:06:07.68,Dubtitles,,0,0,0,,As soon as I got the money together,
+Dialogue: 0,0:06:07.77,0:06:10.72,Dubtitles,,0,0,0,,I rushed out and bought all\Nthe hardware to play SAO.
+Dialogue: 0,0:06:10.81,0:06:13.70,Dubtitles,,0,0,0,,Stood in line and scored one\Nof the 10,000 hard copies.
+Dialogue: 0,0:06:13.79,0:06:16.08,Dubtitles,,0,0,0,,Guess you could say I was pretty lucky.
+Dialogue: 0,0:06:16.49,0:06:20.49,Dubtitles,,0,0,0,,Although, you, sir, were ten times\Nas lucky getting the beta tested.
+Dialogue: 0,0:06:20.87,0:06:23.47,Dubtitles,,0,0,0,,Dude, only a thousand\Npeople got the chance.
+Dialogue: 0,0:06:23.95,0:06:25.63,Dubtitles,,0,0,0,,Yeah, I guess I was lucky.
+Dialogue: 0,0:06:26.73,0:06:29.49,Dubtitles,,0,0,0,,Hey, mind if I ask how\Nfar you got in the beta?
+Dialogue: 0,0:06:29.83,0:06:32.83,Dubtitles,,0,0,0,,Two months and I couldn't\Nget further than Floor 8.
+Dialogue: 0,0:06:33.03,0:06:35.54,Dubtitles,,0,0,0,,But now I think I can\Nget there within a month.
 Dialogue: 0,0:06:35.63,0:06:36.46,Dubtitles,,0,0,0,,Easy.
-Dialogue: 0,0:06:37.21,0:06:39.14,Dubtitles,,0,0,0,,Sounds to me like you're really into this.
+Dialogue: 0,0:06:37.19,0:06:39.14,Dubtitles,,0,0,0,,Sounds to me like you're really into this.
 Dialogue: 0,0:06:39.23,0:06:41.03,Dubtitles,,0,0,0,,Yeah, you could say that.
 Dialogue: 0,0:06:41.37,0:06:45.73,Dubtitles,,0,0,0,,During the beta test, SAO was the\Nonly thing on my mind, day and night.
 Dialogue: 0,0:06:47.01,0:06:51.03,Dubtitles,,0,0,0,,In this world, a single blade can\Ntake you anywhere you want to go.
@@ -3613,6 +3612,6 @@ Dialogue: 3,0:23:34.97,0:23:39.98,Prev2,,0,0,0,,{\fscx90\blur1.05\clip(0,873,192
 Dialogue: 3,0:23:34.97,0:23:39.98,Prev2,,0,0,0,,{\fscx90\blur1.05\clip(0,876,1920,879)\pos(960,885)\c&HB78203&}Beater
 Dialogue: 3,0:23:34.97,0:23:39.98,Prev2,,0,0,0,,{\fscx90\blur1.05\clip(0,879,1920,882)\pos(960,885)\c&HB58000&}Beater
 Dialogue: 3,0:23:34.97,0:23:39.98,Prev2,,0,0,0,,{\fscx90\blur1.05\clip(0,882,1920,885)\pos(960,885)\c&HB57F00&}Beater
-Dialogue: 0,0:23:35.55,0:23:36.83,Dubtitles,,0,0,0,,Next time,
-Dialogue: 0,0:23:37.45,0:23:38.28,Dubtitles,,0,0,0,,beat her.
+Dialogue: 0,0:23:35.79,0:23:36.83,Dubtitles,,0,0,0,,Next time,?
+Dialogue: 0,0:23:37.69,0:23:38.52,Dubtitles,,0,0,0,,beat her.
 

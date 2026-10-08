@@ -376,7 +376,8 @@ Dialogue: 0,0:23:40.37,0:23:43.09,Dubtitles,,0,0,0,,U-U-Gio, get these guys off 
 Dialogue: 0,0:23:43.37,0:23:44.35,Dubtitles,,0,0,0,,Come on, hurry!
 Dialogue: 0,0:23:44.79,0:23:45.73,Dubtitles,,0,0,0,,U-U-Gio!
 Dialogue: 0,0:23:53.81,0:23:55.51,Dubtitles,,0,0,0,,Oh, my God.
-Dialogue: 0,0:24:32.41,0:24:34.45,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:24:12.67,0:24:15.51,Dubtitles,,0,0,0,,Alice!
+Dialogue: 0,0:24:32.41,0:24:35.45,Dubtitles,,0,0,0,,Oh, my God.
 Dialogue: 1,0:24:36.01,0:24:40.01,Signs,,0,0,0,,{\fscx100\bord4\blur2\c&H444142&\3c&H4A4A4A&\fs200\fnBell Gothic Bold\pos(960,318.6)}Underworld
 Dialogue: 1,0:24:36.01,0:24:40.01,Signs,,0,0,0,,{\fscx100\bord4\blur4\c&H000000&\3c&H2C2C2C&\fs200\fnBell Gothic Bold\pos(960,318.6)}Underworld
 Dialogue: 2,0:24:36.01,0:24:40.01,Signs,,0,0,0,,{\fscx100\bord0.5\blur1.5\c&HEAEAEA&\3c&HE6E6E6&\fs200\fnBell Gothic Bold\pos(960,320.6)}Underworld
@@ -430,59 +431,60 @@ Dialogue: 3,0:24:36.01,0:24:40.01,Signs,,0,0,0,,{\clip(563,384,1367,387)\pos(960
 Dialogue: 2,0:24:41.47,0:24:44.10,Signs,,0,0,0,,{\fs62\fnQuadraat-Bold\blur0.5\c&HF3EEE9&\pos(1384.18,771.2)\alpha&HFF&\t(0,120,\alpha&H00&)\t(2197,2317,\alpha&HFF&)}S{\alpha&HFF&\t(19,139,\alpha&H00&)\t(2213,2333,\alpha&HFF&)}a{\alpha&HFF&\t(38,158,\alpha&H00&)\t(2229,2349,\alpha&HFF&)}t{\alpha&HFF&\t(57,177,\alpha&H00&)\t(2246,2366,\alpha&HFF&)}u{\alpha&HFF&\t(77,197,\alpha&H00&)\t(2262,2382,\alpha&HFF&)}r{\alpha&HFF&\t(96,216,\alpha&H00&)\t(2279,2399,\alpha&HFF&)}d{\alpha&HFF&\t(115,235,\alpha&H00&)\t(2295,2415,\alpha&HFF&)}a{\alpha&HFF&\t(135,255,\alpha&H00&)\t(2312,2432,\alpha&HFF&)}y{\alpha&HFF&\t(154,274,\alpha&H00&)\t(2328,2448,\alpha&HFF&)}, {\alpha&HFF&\t(173,293,\alpha&H00&)\t(2345,2465,\alpha&HFF&)}J{\alpha&HFF&\t(193,313,\alpha&H00&)\t(2361,2481,\alpha&HFF&)}u{\alpha&HFF&\t(212,332,\alpha&H00&)\t(2378,2498,\alpha&HFF&)}n{\alpha&HFF&\t(231,351,\alpha&H00&)\t(2394,2514,\alpha&HFF&)}e {\alpha&HFF&\t(251,371,\alpha&H00&)\t(2411,2531,\alpha&HFF&)}2{\alpha&HFF&\t(270,390,\alpha&H00&)\t(2427,2547,\alpha&HFF&)}7{\alpha&HFF&\t(289,409,\alpha&H00&)\t(2444,2564,\alpha&HFF&)}, {\alpha&HFF&\t(309,429,\alpha&H00&)\t(2460,2580,\alpha&HFF&)}2{\alpha&HFF&\t(328,448,\alpha&H00&)\t(2477,2597,\alpha&HFF&)}0{\alpha&HFF&\t(347,467,\alpha&H00&)\t(2493,2613,\alpha&HFF&)}2{\alpha&HFF&\t(366,486,\alpha&H00&)\t(2510,2630,\alpha&HFF&)}6
 Dialogue: 1,0:24:41.60,0:24:43.98,Signs,,0,0,0,,{\fs62\fnQuadraat-Bold\blur0.5\c&H121212&\pos(1385.18,772.2)\alpha&HFF&\t(0,120,\alpha&H00&)\t(1947,2067,\alpha&HFF&)}S{\alpha&HFF&\t(19,139,\alpha&H00&)\t(1963,2083,\alpha&HFF&)}a{\alpha&HFF&\t(38,158,\alpha&H00&)\t(1979,2099,\alpha&HFF&)}t{\alpha&HFF&\t(57,177,\alpha&H00&)\t(1996,2116,\alpha&HFF&)}u{\alpha&HFF&\t(77,197,\alpha&H00&)\t(2012,2132,\alpha&HFF&)}r{\alpha&HFF&\t(96,216,\alpha&H00&)\t(2029,2149,\alpha&HFF&)}d{\alpha&HFF&\t(115,235,\alpha&H00&)\t(2045,2165,\alpha&HFF&)}a{\alpha&HFF&\t(135,255,\alpha&H00&)\t(2062,2182,\alpha&HFF&)}y{\alpha&HFF&\t(154,274,\alpha&H00&)\t(2078,2198,\alpha&HFF&)}, {\alpha&HFF&\t(173,293,\alpha&H00&)\t(2095,2215,\alpha&HFF&)}J{\alpha&HFF&\t(193,313,\alpha&H00&)\t(2111,2231,\alpha&HFF&)}u{\alpha&HFF&\t(212,332,\alpha&H00&)\t(2128,2248,\alpha&HFF&)}n{\alpha&HFF&\t(231,351,\alpha&H00&)\t(2144,2264,\alpha&HFF&)}e {\alpha&HFF&\t(251,371,\alpha&H00&)\t(2161,2281,\alpha&HFF&)}2{\alpha&HFF&\t(270,390,\alpha&H00&)\t(2177,2297,\alpha&HFF&)}7{\alpha&HFF&\t(289,409,\alpha&H00&)\t(2194,2314,\alpha&HFF&)}, {\alpha&HFF&\t(309,429,\alpha&H00&)\t(2210,2330,\alpha&HFF&)}2{\alpha&HFF&\t(328,448,\alpha&H00&)\t(2227,2347,\alpha&HFF&)}0{\alpha&HFF&\t(347,467,\alpha&H00&)\t(2243,2363,\alpha&HFF&)}2{\alpha&HFF&\t(366,486,\alpha&H00&)\t(2260,2380,\alpha&HFF&)}6
 Dialogue: 0,0:25:00.13,0:25:01.53,Dubtitles,,0,0,0,,Let's go.
-Dialogue: 0,0:25:37.23,0:25:39.37,Dubtitles,,0,0,0,,This turning costume is full auto!
-Dialogue: 0,0:25:43.63,0:25:45.55,Dubtitles,,0,0,0,,What's up, you PK jerks?
-Dialogue: 0,0:25:45.87,0:25:47.59,Dubtitles,,0,0,0,,Let's see how fast you run!
-Dialogue: 0,0:26:04.17,0:26:05.00,Dubtitles,,0,0,0,,Cowards!
-Dialogue: 0,0:26:07.95,0:26:09.27,Dubtitles,,0,0,0,,You're up! I'll cover!
-Dialogue: 0,0:26:38.61,0:26:40.39,Dubtitles,,0,0,0,,Are those Photon Swords?
-Dialogue: 0,0:26:41.47,0:26:42.77,Dubtitles,,0,0,0,,Team A needs backup.
-Dialogue: 0,0:26:42.85,0:26:44.81,Dubtitles,,0,0,0,,B and C, head to Grid 4-6.
-Dialogue: 0,0:26:45.63,0:26:48.41,Dubtitles,,0,0,0,,You have permission to\Nuse grenades. Hey, boss.
+Dialogue: 0,0:25:26.03,0:25:26.86,Dubtitles,,0,0,0,,Whoa!
+Dialogue: 0,0:25:37.11,0:25:39.35,Dubtitles,,0,0,0,,This turning costume is full auto!
+Dialogue: 0,0:25:43.59,0:25:45.55,Dubtitles,,0,0,0,,What's up, you PK jerks?
+Dialogue: 0,0:25:45.83,0:25:47.57,Dubtitles,,0,0,0,,Let's see how fast you run!
+Dialogue: 0,0:26:07.59,0:26:09.27,Dubtitles,,0,0,0,,You're up! I'll cover!
+Dialogue: 0,0:26:38.63,0:26:40.41,Dubtitles,,0,0,0,,Are those Photon Swords?
+Dialogue: 0,0:26:41.61,0:26:42.89,Dubtitles,,0,0,0,,Team A needs backup.
+Dialogue: 0,0:26:42.97,0:26:44.79,Dubtitles,,0,0,0,,B and C, head to Grid 4-6.
+Dialogue: 0,0:26:45.65,0:26:48.45,Dubtitles,,0,0,0,,You have permission to\Nuse grenades. Hey, boss.
 Dialogue: 0,0:26:48.79,0:26:50.01,Dubtitles,,0,0,0,,Let me in on this.
-Dialogue: 0,0:26:50.31,0:26:52.25,Dubtitles,,0,0,0,,No, this op's about to wind down.
-Dialogue: 0,0:26:53.49,0:26:55.05,Dubtitles,,0,0,0,,Just sit back and watch.
-Dialogue: 0,0:27:17.21,0:27:18.25,Dubtitles,,0,0,0,,I got this!
-Dialogue: 0,0:27:43.45,0:27:44.35,Dubtitles,,0,0,0,,Damn it.
-Dialogue: 0,0:27:48.99,0:27:50.70,Dubtitles,,0,0,0,,Well, that's the end of that.
-Dialogue: 0,0:27:51.63,0:27:52.89,Dubtitles,,0,0,0,,All teams retreat.
-Dialogue: 0,0:27:53.89,0:27:55.41,Dubtitles,,0,0,0,,Grid 1-9's too hot.
-Dialogue: 0,0:27:58.83,0:28:01.69,Dubtitles,,0,0,0,,We could have killed them\Nall if we stuck with it.
+Dialogue: 0,0:26:50.33,0:26:52.27,Dubtitles,,0,0,0,,No, this op's about to wind down.
+Dialogue: 0,0:26:53.57,0:26:55.01,Dubtitles,,0,0,0,,Just sit back and watch.
+Dialogue: 0,0:27:17.07,0:27:18.25,Dubtitles,,0,0,0,,I got this!
+Dialogue: 0,0:27:27.27,0:27:28.10,Dubtitles,,0,0,0,,Aaaahhh!!!
+Dialogue: 0,0:27:43.51,0:27:44.35,Dubtitles,,0,0,0,,Damn it.
+Dialogue: 0,0:27:49.05,0:27:50.76,Dubtitles,,0,0,0,,Well, that's the end of that.
+Dialogue: 0,0:27:51.71,0:27:52.89,Dubtitles,,0,0,0,,All teams retreat.
+Dialogue: 0,0:27:53.91,0:27:55.37,Dubtitles,,0,0,0,,Grid 1-9 is too hot.
+Dialogue: 0,0:27:58.57,0:28:01.69,Dubtitles,,0,0,0,,Ah, we could have killed\Nthem all if we stuck with it.
 Dialogue: 0,0:28:01.77,0:28:04.65,Dubtitles,,0,0,0,,You sure you want to end\Nthe day like this, boss?
-Dialogue: 0,0:28:05.49,0:28:07.31,Dubtitles,,0,0,0,,That team's all over the place.
-Dialogue: 0,0:28:07.69,0:28:09.75,Dubtitles,,0,0,0,,Fighting them won't\Nhelp with our training.
-Dialogue: 0,0:28:09.83,0:28:13.36,Dubtitles,,0,0,0,,We have the big mission coming\Nup and we need to stay sharp.
-Dialogue: 0,0:28:14.01,0:28:14.84,Dubtitles,,0,0,0,,Let's go.
-Dialogue: 0,0:28:19.73,0:28:21.61,Dubtitles,,0,0,0,,Till next time, kid.
+Dialogue: 0,0:28:05.47,0:28:07.29,Dubtitles,,0,0,0,,That team's all over the place.
+Dialogue: 0,0:28:07.57,0:28:09.75,Dubtitles,,0,0,0,,Fighting them won't\Nhelp with our training.
+Dialogue: 0,0:28:09.83,0:28:13.42,Dubtitles,,0,0,0,,We have the big mission coming\Nup, and we need to stay sharp.
+Dialogue: 0,0:28:14.03,0:28:14.86,Dubtitles,,0,0,0,,Let's go.
+Dialogue: 0,0:28:19.75,0:28:21.65,Dubtitles,,0,0,0,,Till next time, kid.
 Dialogue: 0,0:28:26.73,0:28:31.85,Dubtitles,,0,0,0,,Oh, man, I heard GGO was going to\Nbe hardcore, but that was insane.
 Dialogue: 2,0:28:27.12,0:28:30.33,Signs,,0,0,0,,{\fs72\fnQuadraat-Bold\blur0.4\c&HF2F1F4&\pos(1268.98,883.6)\alpha&HFF&\t(0,120,\alpha&H00&)\t(2356,2476,\alpha&HFF&)}S{\alpha&HFF&\t(28,148,\alpha&H00&)\t(2387,2507,\alpha&HFF&)}B{\alpha&HFF&\t(56,176,\alpha&H00&)\t(2419,2539,\alpha&HFF&)}C {\alpha&HFF&\t(84,204,\alpha&H00&)\t(2451,2571,\alpha&HFF&)}G{\alpha&HFF&\t(113,233,\alpha&H00&)\t(2483,2603,\alpha&HFF&)}l{\alpha&HFF&\t(141,261,\alpha&H00&)\t(2515,2635,\alpha&HFF&)}o{\alpha&HFF&\t(169,289,\alpha&H00&)\t(2547,2667,\alpha&HFF&)}c{\alpha&HFF&\t(198,318,\alpha&H00&)\t(2579,2699,\alpha&HFF&)}k{\alpha&HFF&\t(226,346,\alpha&H00&)\t(2611,2731,\alpha&HFF&)}e{\alpha&HFF&\t(254,374,\alpha&H00&)\t(2643,2763,\alpha&HFF&)}n {\alpha&HFF&\t(283,403,\alpha&H00&)\t(2675,2795,\alpha&HFF&)}B{\alpha&HFF&\t(311,431,\alpha&H00&)\t(2707,2827,\alpha&HFF&)}a{\alpha&HFF&\t(339,459,\alpha&H00&)\t(2738,2858,\alpha&HFF&)}r{\alpha&HFF&\t(367,487,\alpha&H00&)\t(2770,2890,\alpha&HFF&)}, {\alpha&HFF&\t(396,516,\alpha&H00&)\t(2802,2922,\alpha&HFF&)}G{\alpha&HFF&\t(424,544,\alpha&H00&)\t(2834,2954,\alpha&HFF&)}G{\alpha&HFF&\t(452,572,\alpha&H00&)\t(2866,2986,\alpha&HFF&)}O {\alpha&HFF&\t(481,601,\alpha&H00&)\t(2898,3018,\alpha&HFF&)}C{\alpha&HFF&\t(509,629,\alpha&H00&)\t(2930,3050,\alpha&HFF&)}a{\alpha&HFF&\t(537,657,\alpha&H00&)\t(2962,3082,\alpha&HFF&)}p{\alpha&HFF&\t(566,686,\alpha&H00&)\t(2994,3114,\alpha&HFF&)}i{\alpha&HFF&\t(594,714,\alpha&H00&)\t(3026,3146,\alpha&HFF&)}t{\alpha&HFF&\t(622,742,\alpha&H00&)\t(3058,3178,\alpha&HFF&)}a{\alpha&HFF&\t(651,771,\alpha&H00&)\t(3090,3210,\alpha&HFF&)}l
 Dialogue: 1,0:28:27.24,0:28:30.20,Signs,,0,0,0,,{\fs72\fnQuadraat-Bold\blur0.5\c&H404040&\pos(1269.98,884.6)\alpha&HFF&\t(0,120,\alpha&H00&)\t(2106,2226,\alpha&HFF&)}S{\alpha&HFF&\t(28,148,\alpha&H00&)\t(2137,2257,\alpha&HFF&)}B{\alpha&HFF&\t(56,176,\alpha&H00&)\t(2169,2289,\alpha&HFF&)}C {\alpha&HFF&\t(84,204,\alpha&H00&)\t(2201,2321,\alpha&HFF&)}G{\alpha&HFF&\t(113,233,\alpha&H00&)\t(2233,2353,\alpha&HFF&)}l{\alpha&HFF&\t(141,261,\alpha&H00&)\t(2265,2385,\alpha&HFF&)}o{\alpha&HFF&\t(169,289,\alpha&H00&)\t(2297,2417,\alpha&HFF&)}c{\alpha&HFF&\t(198,318,\alpha&H00&)\t(2329,2449,\alpha&HFF&)}k{\alpha&HFF&\t(226,346,\alpha&H00&)\t(2361,2481,\alpha&HFF&)}e{\alpha&HFF&\t(254,374,\alpha&H00&)\t(2393,2513,\alpha&HFF&)}n {\alpha&HFF&\t(283,403,\alpha&H00&)\t(2425,2545,\alpha&HFF&)}B{\alpha&HFF&\t(311,431,\alpha&H00&)\t(2457,2577,\alpha&HFF&)}a{\alpha&HFF&\t(339,459,\alpha&H00&)\t(2488,2608,\alpha&HFF&)}r{\alpha&HFF&\t(367,487,\alpha&H00&)\t(2520,2640,\alpha&HFF&)}, {\alpha&HFF&\t(396,516,\alpha&H00&)\t(2552,2672,\alpha&HFF&)}G{\alpha&HFF&\t(424,544,\alpha&H00&)\t(2584,2704,\alpha&HFF&)}G{\alpha&HFF&\t(452,572,\alpha&H00&)\t(2616,2736,\alpha&HFF&)}O {\alpha&HFF&\t(481,601,\alpha&H00&)\t(2648,2768,\alpha&HFF&)}C{\alpha&HFF&\t(509,629,\alpha&H00&)\t(2680,2800,\alpha&HFF&)}a{\alpha&HFF&\t(537,657,\alpha&H00&)\t(2712,2832,\alpha&HFF&)}p{\alpha&HFF&\t(566,686,\alpha&H00&)\t(2744,2864,\alpha&HFF&)}i{\alpha&HFF&\t(594,714,\alpha&H00&)\t(2776,2896,\alpha&HFF&)}t{\alpha&HFF&\t(622,742,\alpha&H00&)\t(2808,2928,\alpha&HFF&)}a{\alpha&HFF&\t(651,771,\alpha&H00&)\t(2840,2960,\alpha&HFF&)}l
-Dialogue: 0,0:28:32.27,0:28:36.15,Dubtitles,,0,0,0,,I never played a game where it's\Ncool just to run around and kill.
-Dialogue: 0,0:28:36.51,0:28:39.77,Dubtitles,,0,0,0,,Actually, there's a method\Nto the madness of PKing here.
-Dialogue: 0,0:28:39.85,0:28:42.37,Dubtitles,,0,0,0,,You go after other players\Nfor their cashier items.
+Dialogue: 0,0:28:32.31,0:28:36.19,Dubtitles,,0,0,0,,I never played a game where it's\Ncool just to run around and kill.
+Dialogue: 0,0:28:36.51,0:28:39.75,Dubtitles,,0,0,0,,Actually, there's a method\Nto the madness of PKing here.
+Dialogue: 0,0:28:39.83,0:28:42.37,Dubtitles,,0,0,0,,You go after other players\Nfor their cashier items.
 Dialogue: 0,0:28:42.45,0:28:45.80,Dubtitles,,0,0,0,,But the team we just fought\Ndidn't care about that stuff.
-Dialogue: 0,0:28:45.91,0:28:49.67,Dubtitles,,0,0,0,,Yeah, the only thing those guys\Nwanted was to straight up kill us.
-Dialogue: 0,0:28:49.75,0:28:52.53,Dubtitles,,0,0,0,,And did you see all the grenades\Nand smoke bombs they used?
-Dialogue: 0,0:28:52.61,0:28:54.23,Dubtitles,,0,0,0,,Isn't that stuff expensive?
-Dialogue: 0,0:28:54.65,0:28:55.75,Dubtitles,,0,0,0,,You know it.
-Dialogue: 0,0:28:55.95,0:28:58.93,Dubtitles,,0,0,0,,And that's how they fight\Nevery single time they show up.
-Dialogue: 0,0:28:59.01,0:29:03.31,Dubtitles,,0,0,0,,They go after teams that are out in the\Nmiddle of nowhere, massacre everyone,
-Dialogue: 0,0:29:03.39,0:29:05.63,Dubtitles,,0,0,0,,then disappear without looting anyone.
-Dialogue: 0,0:29:05.79,0:29:07.21,Dubtitles,,0,0,0,,I saw their stats.
-Dialogue: 0,0:29:07.41,0:29:09.23,Dubtitles,,0,0,0,,Is it true they've never lost a battle?
-Dialogue: 0,0:29:09.31,0:29:11.27,Dubtitles,,0,0,0,,Yeah, it's true they haven't.
-Dialogue: 0,0:29:12.33,0:29:15.43,Dubtitles,,0,0,0,,Still, I thought if anyone\Ncould beat them, we could.
-Dialogue: 0,0:29:15.51,0:29:19.33,Dubtitles,,0,0,0,,Because as a team, we're not like\Nanyone they've come up against yet.
-Dialogue: 0,0:29:19.41,0:29:22.19,Dubtitles,,0,0,0,,Oh well, I guess it just\Nwasn't in the cards.
+Dialogue: 0,0:28:45.91,0:28:49.73,Dubtitles,,0,0,0,,Yeah, the only thing those guys\Nwanted was to straight up kill us.
+Dialogue: 0,0:28:49.81,0:28:52.89,Dubtitles,,0,0,0,,And did you see all the grenades\Nand smoke bombs they used?
+Dialogue: 0,0:28:52.97,0:28:54.56,Dubtitles,,0,0,0,,Isn't that stuff expensive?
+Dialogue: 0,0:28:54.85,0:28:55.77,Dubtitles,,0,0,0,,You know it.
+Dialogue: 0,0:28:55.95,0:28:58.97,Dubtitles,,0,0,0,,And that's how they fight\Nevery single time they show up.
+Dialogue: 0,0:28:59.05,0:29:03.21,Dubtitles,,0,0,0,,They go after teams that are out in the\Nmiddle of nowhere, massacre everyone,
+Dialogue: 0,0:29:03.29,0:29:05.53,Dubtitles,,0,0,0,,then disappear without looting anyone.
+Dialogue: 0,0:29:05.83,0:29:07.21,Dubtitles,,0,0,0,,I saw their stats.
+Dialogue: 0,0:29:07.41,0:29:09.25,Dubtitles,,0,0,0,,Is it true they've never lost a battle?
+Dialogue: 0,0:29:09.33,0:29:11.27,Dubtitles,,0,0,0,,Yeah, it's true they haven't.
+Dialogue: 0,0:29:12.41,0:29:15.45,Dubtitles,,0,0,0,,Still, I thought if anyone\Ncould beat them, we could.
+Dialogue: 0,0:29:15.53,0:29:19.37,Dubtitles,,0,0,0,,Because as a team, we're not like\Nanyone they've come up against yet.
+Dialogue: 0,0:29:19.45,0:29:22.19,Dubtitles,,0,0,0,,Oh well, I guess it just\Nwasn't in the cards.
 Dialogue: 0,0:29:22.71,0:29:25.53,Dubtitles,,0,0,0,,I didn't expect they'd\Nretreat, that's for sure.
 Dialogue: 0,0:29:25.63,0:29:26.55,Dubtitles,,0,0,0,,Hey, no biggie.
 Dialogue: 0,0:29:26.67,0:29:27.96,Dubtitles,,0,0,0,,It's not like we lost.
-Dialogue: 0,0:29:28.33,0:29:31.35,Dubtitles,,0,0,0,,Besides, they ran, so\Nthat's a win in my book.
-Dialogue: 0,0:29:31.55,0:29:36.02,Dubtitles,,0,0,0,,The point was to find out who they were\Nand what they were up to, tough guy.
-Dialogue: 0,0:29:36.43,0:29:38.59,Dubtitles,,0,0,0,,Yeah, well, a win's a win.
-Dialogue: 0,0:29:39.53,0:29:43.33,Dubtitles,,0,0,0,,That said, it would have been nice\Nto find out the leader's name.
-Dialogue: 0,0:29:43.41,0:29:47.88,Dubtitles,,0,0,0,,Yeah, but with the way they fought, it\Nwasn't even clear who the leader was.
-Dialogue: 0,0:29:48.79,0:29:50.35,Dubtitles,,0,0,0,,Hey, don't flap on me.
+Dialogue: 0,0:29:28.33,0:29:31.33,Dubtitles,,0,0,0,,Besides, they ran, so\Nthat's a win in my book.
+Dialogue: 0,0:29:31.51,0:29:35.98,Dubtitles,,0,0,0,,The point was to find out who they were\Nand what they were up to, tough guy.
+Dialogue: 0,0:29:36.41,0:29:38.59,Dubtitles,,0,0,0,,Yeah, well, a win's a win.
+Dialogue: 0,0:29:39.55,0:29:43.35,Dubtitles,,0,0,0,,That said, it would have been nice\Nto find out the leader's name.
+Dialogue: 0,0:29:43.43,0:29:47.90,Dubtitles,,0,0,0,,Yeah, but with the way they fought, it\Nwasn't even clear who the leader was.
+Dialogue: 0,0:29:48.81,0:29:50.33,Dubtitles,,0,0,0,,Hey, don't flap on me.
 Dialogue: 0,0:29:50.61,0:29:51.59,Dubtitles,,0,0,0,,Oh, I look like a pillow.
 Dialogue: 0,0:29:51.67,0:29:53.79,Dubtitles,,0,0,0,,But he said he's been taking time off from
 Dialogue: 0,0:29:53.87,0:29:56.46,Dubtitles,,0,0,0,,school since Thursday\Nand touring companies.
@@ -3115,7 +3117,6 @@ Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha
 Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha&H00&\fnFutura\blur1.08\fs110\c&H2A0E2E&\pos(1198.48,786.66)\4c&HD7D7D7&}I
 Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha&H00&\fnFutura\blur1.08\fs110\c&H2A0E2E&\pos(1290.78,786.66)\4c&HD7D7D7&}O
 Dialogue: 1,0:46:19.60,0:46:19.65,Signs,,0,0,0,,{\fscx95.64\fscy95.64\frz0\alpha&H00&\fnFutura\blur1.08\fs110\c&H2A0E2E&\pos(1406.12,786.66)\4c&HD7D7D7&}N
-Dialogue: 0,0:46:19.63,0:46:21.31,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 2,0:46:19.65,0:46:19.69,Signs,,0,0,0,,{\fscx95.82\fscy95.82\frz0\alpha&H00&\fnFutura\blur1.08\yshad-1.92\fs110\c&HACA861&\pos(505.17,785.19)\4c&HC7C7C7&}A
 Dialogue: 2,0:46:19.65,0:46:19.69,Signs,,0,0,0,,{\fscx95.82\fscy95.82\frz0\alpha&H00&\fnFutura\blur1.08\yshad-1.92\fs110\c&HACA861&\pos(598.79,785.19)\4c&HC7C7C7&}L
 Dialogue: 2,0:46:19.65,0:46:19.69,Signs,,0,0,0,,{\fscx95.82\fscy95.82\frz0\alpha&H00&\fnFutura\blur1.08\yshad-1.92\fs110\c&HACA861&\pos(672.76,785.19)\4c&HC7C7C7&}I
@@ -4731,7 +4732,7 @@ Dialogue: 1,0:46:58.06,0:47:01.32,ADAMAS,,0,0,0,fx,{\pos(1447,90)\1c&HFFFFFF&\3c
 Dialogue: 1,0:46:58.06,0:47:01.32,ADAMAS,,0,0,0,fx,{\pos(1475,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(2165,2215,0.5,\fsc80\blur2\3c&ffffff&)\t(2215,2565,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}o
 Dialogue: 1,0:46:59.56,0:47:01.32,ADAMAS,,0,0,0,fx,{\pos(1527,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(717,767,0.5,\fsc80\blur2\3c&ffffff&)\t(767,1117,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}s
 Dialogue: 1,0:46:59.56,0:47:01.32,ADAMAS,,0,0,0,fx,{\pos(1556,90)\1c&HFFFFFF&\3c&HB37553&\blur4\an5\t(746,796,0.5,\fsc80\blur2\3c&ffffff&)\t(796,1146,0.5,\fsc120\alpha&ff&\blur4\3c&HB37553&)}a
-Dialogue: 0,0:46:59.91,0:47:02.45,Dubtitles,,0,0,0,,SHINING SOMER DIAMOND
+Dialogue: 0,0:46:59.91,0:47:02.45,Dubtitles,,0,0,0,,SHINING SOMER DIAMOND!
 Dialogue: 1,0:47:00.02,0:47:00.69,ADAMAS - Chor,,0,0,0,fx,{\pos(687,90)\an5\alpha&ff&\t(80,240,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(240,320,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(320,560,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(560,800,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Shi
 Dialogue: 1,0:47:00.02,0:47:01.23,ADAMAS - Chor,,0,0,0,fx,{\pos(751,90)\an5\alpha&ff&\t(160,320,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(320,400,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(400,640,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(640,880,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}ny
 Dialogue: 1,0:47:00.02,0:47:01.49,ADAMAS - Chor,,0,0,0,fx,{\pos(840,90)\an5\alpha&ff&\t(240,400,\1va(&0&,&100&,&100&,&ff&)\3va(&0&,&100&,&100&,&ff&)\1vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\3vc(&ffffff&,&H6E6E6E&,&H6E6E6E&,&000000&)\bord1.8\blur6)\t(400,480,\1va(&0&,&0&,&0&,&100&)\3va(&0&,&0&,&0&,&100&)\1vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\3vc(&fffffff&,&ffffff&,&ffffff&,&H6E6E6E&)\bord2\blur8)\t(480,720,\alpha&0&\1c&ffffff&\bord1.5\blur4)\t(720,960,\1c&HFFFFFF&\3c&H82E4F9&\alpha&H50\blur1\bord0)}Sw

@@ -3070,13 +3070,13 @@ Dialogue: 3,0:02:54.04,0:02:58.05,title,,0,0,0,,{\bord0\blur0.75\clip(0,816,1920
 Dialogue: 3,0:02:54.04,0:02:58.05,title,,0,0,0,,{\bord0\blur0.75\clip(0,819,1920,822)\pos(960,825)\c&HCEA717&}Crimson Killing Intent
 Dialogue: 3,0:02:54.04,0:02:58.05,title,,0,0,0,,{\bord0\blur0.75\clip(0,822,1920,825)\pos(960,825)\c&HCEA616&}Crimson Killing Intent
 Dialogue: 3,0:02:54.04,0:02:58.05,title,,0,0,0,,{\bord0\blur0.75\clip(0,825,1920,828)\pos(960,825)\c&HCEA616&}Crimson Killing Intent
-Dialogue: 0,0:03:02.61,0:03:04.09,Dubtitles,,0,0,0,,I'm sorry about this Kirito.
-Dialogue: 0,0:03:04.17,0:03:06.17,Dubtitles,,0,0,0,,I didn't think this\Nwould be such a big deal.
-Dialogue: 0,0:03:06.25,0:03:07.09,Dubtitles,,0,0,0,,This is crazy.
-Dialogue: 0,0:03:07.35,0:03:09.53,Dubtitles,,0,0,0,,Maybe I can get a cut of the tickets?
-Dialogue: 0,0:03:10.27,0:03:11.10,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:03:11.18,0:03:14.33,Dubtitles,,0,0,0,,But when we're finished, you'll become\Nan official member of the Guild.
-Dialogue: 0,0:03:14.41,0:03:16.65,Dubtitles,,0,0,0,,I'll consider this your first mission.
+Dialogue: 0,0:03:01.43,0:03:03.19,Dubtitles,,0,0,0,,I'm sorry about this, Kirito.
+Dialogue: 0,0:03:04.41,0:03:06.27,Dubtitles,,0,0,0,,I didn't think this\Nwould be such a big deal.
+Dialogue: 0,0:03:06.35,0:03:07.18,Dubtitles,,0,0,0,,This is crazy.
+Dialogue: 0,0:03:07.43,0:03:09.61,Dubtitles,,0,0,0,,Maybe I can get a cut of the tickets?
+Dialogue: 0,0:03:10.59,0:03:11.42,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:03:11.50,0:03:14.49,Dubtitles,,0,0,0,,But when we're finished, you'll become\Nan official member of the Guild.
+Dialogue: 0,0:03:14.57,0:03:16.81,Dubtitles,,0,0,0,,I'll consider this your first mission.
 Dialogue: 1,0:03:21.49,0:03:22.49,Menus,,0,0,0,,{\blur0.75\fax-0.09\fs52.5\c&HE2E3E8&\pos(627,587.25)\frz16.47}Duel Type
 Dialogue: 2,0:03:21.49,0:03:22.49,Menus,,0,0,0,,{\blur0.75\fax-0.09\fs52.5\c&H919294&\pos(625.5,585)\frz16.47}Duel Type
 Dialogue: 1,0:03:21.49,0:03:22.53,Menus,,0,0,0,,{\blur0.75\fax-0.08\fs52.5\c&HE2E3E8&\pos(601.5,459.75)\frz15.48}Opponent
@@ -3122,231 +3122,227 @@ Dialogue: 1,0:03:23.86,0:03:23.91,bonus2,,0,0,0,,{\be2\fay-0.15\frx4\fry6\1a&H44
 Dialogue: 1,0:03:23.91,0:03:23.95,bonus2,,0,0,0,,{\be2\fay-0.12\frx4\fry6\1a&H44\xbord30\frz10.82\pos(738.64,499.8)\3c&HD0D0D0&\clip(m 891 397.5 l 651 472.5 676.5 573 552 583.5 490.5 439.5 870 373.5)}Normal Mode
 Dialogue: 1,0:03:23.91,0:03:23.95,bonus2,,0,0,0,,{\be2\fay-0.12\frx4\fry6\1a&H44\xbord30\frz10.82\pos(760.78,604.66)\3c&HCDD0D0&\clip(m 667.5 532.5 l 688.5 648 576 678 549 574.5)}Time-Limit Mode
 Dialogue: 1,0:03:23.91,0:03:23.95,bonus2,,0,0,0,,{\be2\fay-0.14\frx4\fry6\1a&H44\xbord15\frz10.82\pos(780.58,708.35)\3c&H64A6F6&\c&HCAF0FF&\clip(m 708 747 l 681 607.5 564 660 594 793.5)}First-Strike Mode
-Dialogue: 0,0:03:54.41,0:03:55.91,Dubtitles,,0,0,0,,Your shield?
-Dialogue: 0,0:04:08.81,0:04:11.05,Dubtitles,,0,0,0,,Your reaction time is very impressive.
-Dialogue: 0,0:04:11.13,0:04:13.37,Dubtitles,,0,0,0,,Yeah, and your defense is impregnable.
-Dialogue: 0,0:04:23.89,0:04:24.85,Dubtitles,,0,0,0,,Not yet!
-Dialogue: 0,0:04:25.81,0:04:26.64,Dubtitles,,0,0,0,,Give it time!
-Dialogue: 0,0:04:38.81,0:04:40.05,Dubtitles,,0,0,0,,Be careful.
-Dialogue: 0,0:04:53.81,0:04:54.75,Dubtitles,,0,0,0,,Now's my chance!
-Dialogue: 0,0:05:08.81,0:05:09.64,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:05:20.99,0:05:22.37,Dubtitles,,0,0,0,,Ruben! Ruben!
+Dialogue: 0,0:03:54.47,0:03:55.91,Dubtitles,,0,0,0,,His shield?!
+Dialogue: 0,0:04:08.17,0:04:10.59,Dubtitles,,0,0,0,,Your reaction time is very impressive.
+Dialogue: 0,0:04:11.09,0:04:13.33,Dubtitles,,0,0,0,,Yeah, and your defense is impregnable.
+Dialogue: 0,0:04:23.81,0:04:24.85,Dubtitles,,0,0,0,,Not yet!
+Dialogue: 0,0:04:25.17,0:04:26.35,Dubtitles,,0,0,0,,Give it time!
+Dialogue: 0,0:04:38.77,0:04:40.03,Dubtitles,,0,0,0,,Be careful.
+Dialogue: 0,0:04:53.41,0:04:54.73,Dubtitles,,0,0,0,,Now's my chance!
+Dialogue: 0,0:05:04.41,0:05:05.24,Dubtitles,,0,0,0,,Oh!
 Dialogue: 1,0:05:33.12,0:05:35.58,Signs,,0,0,0,,{\fad(479,0)\fsp-1.5\fscx95\fscy85\xshad1.5\yshad3\pos(964.5,945)\c&H121212&\4c&H151714&\blur3\fs72\alpha&H40\3c&H091E1C&}October {\fscx110}22{\fscx95}nd, {\fscx110}2024{\fscx95}      {\fscx105}50{\fscx95}th Floor • Algade
 Dialogue: 2,0:05:33.12,0:05:35.58,Signs,,0,0,0,,{\fad(479,0)\fsp-1.5\fscx95\fscy85\shad0\pos(963,942)\blur0.45\fs72\c&HF5F5F5&}October {\fscx110}22{\fscx95}nd, {\fscx110}2024{\fscx95}      {\fscx105}50{\fscx95}th Floor • Algade
-Dialogue: 0,0:05:36.89,0:05:40.13,Dubtitles,,0,0,0,,Uh, don't you guys have\Nuniforms that aren't so flashy?
-Dialogue: 0,0:05:40.85,0:05:43.50,Dubtitles,,0,0,0,,Actually, that's one of\Nour less flashy ones.
-Dialogue: 0,0:05:43.73,0:05:44.79,Dubtitles,,0,0,0,,You look great!
-Dialogue: 0,0:05:49.33,0:05:50.45,Dubtitles,,0,0,0,,I'm in a guild.
-Dialogue: 0,0:05:51.11,0:05:53.46,Dubtitles,,0,0,0,,I guess it's sort of my fault, isn't it?
-Dialogue: 0,0:05:54.31,0:05:56.35,Dubtitles,,0,0,0,,No, this is a good opportunity.
+Dialogue: 0,0:05:37.03,0:05:40.27,Dubtitles,,0,0,0,,Uh, don't you guys have\Nuniforms that aren't so flashy?
+Dialogue: 0,0:05:40.99,0:05:43.64,Dubtitles,,0,0,0,,Actually, that's one of\Nour less flashy ones.
+Dialogue: 0,0:05:43.85,0:05:44.83,Dubtitles,,0,0,0,,You look great!
+Dialogue: 0,0:05:49.45,0:05:50.45,Dubtitles,,0,0,0,,I'm in a guild.
+Dialogue: 0,0:05:51.13,0:05:53.48,Dubtitles,,0,0,0,,I guess it's sort of my fault, isn't it?
+Dialogue: 0,0:05:54.33,0:05:56.37,Dubtitles,,0,0,0,,No, this is a good opportunity.
 Dialogue: 0,0:05:56.89,0:05:59.57,Dubtitles,,0,0,0,,As a solo player, I got\Nas far as I could go.
 Dialogue: 0,0:06:00.13,0:06:02.19,Dubtitles,,0,0,0,,That makes me feel a little better.
-Dialogue: 0,0:06:04.15,0:06:05.55,Dubtitles,,0,0,0,,Hey, Kirito? Hm?
-Dialogue: 0,0:06:06.83,0:06:08.31,Dubtitles,,0,0,0,,Why do you avoid guilds?
-Dialogue: 0,0:06:08.69,0:06:09.59,Dubtitles,,0,0,0,,And people?
-Dialogue: 0,0:06:10.47,0:06:12.35,Dubtitles,,0,0,0,,I hope you don't mind my asking.
-Dialogue: 0,0:06:13.91,0:06:14.74,Dubtitles,,0,0,0,,I mean,
-Dialogue: 0,0:06:14.82,0:06:18.87,Dubtitles,,0,0,0,,it's not because you're a beta tester or\Nbecause you have unique skills, is it?
-Dialogue: 0,0:06:18.95,0:06:20.55,Dubtitles,,0,0,0,,You do care about people.
-Dialogue: 0,0:06:26.07,0:06:27.59,Dubtitles,,0,0,0,,It was a long time ago.
-Dialogue: 0,0:06:28.75,0:06:30.07,Dubtitles,,0,0,0,,About a year or so.
-Dialogue: 0,0:06:30.61,0:06:33.43,Dubtitles,,0,0,0,,Up to now, that was the\Nonly guild I was in.
-Dialogue: 0,0:06:35.17,0:06:36.25,Dubtitles,,0,0,0,,It was small.
-Dialogue: 0,0:06:36.49,0:06:38.90,Dubtitles,,0,0,0,,Including me, there were six of us in it.
-Dialogue: 0,0:06:39.13,0:06:41.84,Dubtitles,,0,0,0,,They called themselves\Nthe Moonlit Black Cats.
-Dialogue: 0,0:06:42.31,0:06:46.37,Dubtitles,,0,0,0,,As players, they were good, but their\Nlevels were way lower than mine.
-Dialogue: 0,0:06:46.45,0:06:51.39,Dubtitles,,0,0,0,,And I thought if I told them what my level\Nwas, they wouldn't have wanted me around.
-Dialogue: 0,0:06:51.87,0:06:54.46,Dubtitles,,0,0,0,,So I decided to keep\Nmy mouth shut about it.
-Dialogue: 0,0:06:54.63,0:06:56.16,Dubtitles,,0,0,0,,And I joined up with them.
-Dialogue: 0,0:06:56.67,0:06:57.73,Dubtitles,,0,0,0,,I'd watch them,
-Dialogue: 0,0:06:57.97,0:07:02.21,Dubtitles,,0,0,0,,messing around, having fun, and I\Nguess I wanted to be part of that too.
-Dialogue: 0,0:07:02.61,0:07:03.49,Dubtitles,,0,0,0,,Then one day...
-Dialogue: 0,0:07:14.40,0:07:17.05,Dubtitles,,0,0,0,,I'm the reason the whole\Nguild was wiped out.
-Dialogue: 0,0:07:17.32,0:07:20.10,Dubtitles,,0,0,0,,If I hadn't hidden the\Nfact that I was a beater,
-Dialogue: 0,0:07:20.18,0:07:23.89,Dubtitles,,0,0,0,,I could have convinced them how\Ndangerous that trap really was.
-Dialogue: 0,0:07:24.24,0:07:25.44,Dubtitles,,0,0,0,,I killed them.
-Dialogue: 0,0:07:26.20,0:07:27.03,Dubtitles,,0,0,0,,Sachi.
-Dialogue: 0,0:07:27.34,0:07:28.26,Dubtitles,,0,0,0,,All of them.
-Dialogue: 0,0:07:46.46,0:07:48.42,Dubtitles,,0,0,0,,I'm not gonna die, got that?
-Dialogue: 0,0:07:50.28,0:07:52.06,Dubtitles,,0,0,0,,I can't die because
-Dialogue: 0,0:07:52.94,0:07:54.66,Dubtitles,,0,0,0,,I have to protect you.
+Dialogue: 0,0:06:03.75,0:06:05.55,Dubtitles,,0,0,0,,Hey, Kirito? Hmm?
+Dialogue: 0,0:06:06.71,0:06:08.13,Dubtitles,,0,0,0,,Why do you avoid guilt?
+Dialogue: 0,0:06:08.59,0:06:09.59,Dubtitles,,0,0,0,,And people?
+Dialogue: 0,0:06:10.37,0:06:12.25,Dubtitles,,0,0,0,,I hope you don't mind my asking.
+Dialogue: 0,0:06:13.81,0:06:14.64,Dubtitles,,0,0,0,,I mean,
+Dialogue: 0,0:06:14.72,0:06:18.81,Dubtitles,,0,0,0,,it's not because you're a beta tester or\Nbecause you have unique skills, is it?
+Dialogue: 0,0:06:18.89,0:06:20.55,Dubtitles,,0,0,0,,You do care about people.
+Dialogue: 0,0:06:26.01,0:06:27.59,Dubtitles,,0,0,0,,It was a long time ago.
+Dialogue: 0,0:06:28.67,0:06:30.07,Dubtitles,,0,0,0,,About a year or so.
+Dialogue: 0,0:06:30.53,0:06:31.51,Dubtitles,,0,0,0,,Up to now.
+Dialogue: 0,0:06:31.87,0:06:33.81,Dubtitles,,0,0,0,,That was the only guild I was in.
+Dialogue: 0,0:06:35.21,0:06:38.45,Dubtitles,,0,0,0,,It was small, including me,\Nthere were six of us in it.
+Dialogue: 0,0:06:39.15,0:06:41.86,Dubtitles,,0,0,0,,They called themselves\Nthe Moonlit Black Cats.
+Dialogue: 0,0:06:42.35,0:06:46.47,Dubtitles,,0,0,0,,As players, they were good, but their\Nlevels were way lower than mine.
+Dialogue: 0,0:06:46.89,0:06:51.83,Dubtitles,,0,0,0,,And I thought if I told them what my level\Nwas, they wouldn't have wanted me around.
+Dialogue: 0,0:06:51.91,0:06:56.09,Dubtitles,,0,0,0,,So I decided to keep my mouth shut\Nabout it, and I joined up with them.
+Dialogue: 0,0:06:56.61,0:06:58.73,Dubtitles,,0,0,0,,I'd watch them, messing around,
+Dialogue: 0,0:06:58.95,0:07:02.24,Dubtitles,,0,0,0,,having fun, and I guess I\Nwanted to be part of that too.
+Dialogue: 0,0:07:02.55,0:07:04.23,Dubtitles,,0,0,0,,Then one day...
+Dialogue: 0,0:07:14.45,0:07:17.10,Dubtitles,,0,0,0,,I'm the reason the whole\Nguild was wiped out.
+Dialogue: 0,0:07:17.35,0:07:20.11,Dubtitles,,0,0,0,,If I hadn't hidden the\Nfact that I was a beater,
+Dialogue: 0,0:07:20.19,0:07:23.90,Dubtitles,,0,0,0,,I could have convinced them how\Ndangerous that trap really was.
+Dialogue: 0,0:07:24.29,0:07:25.43,Dubtitles,,0,0,0,,I killed them.
+Dialogue: 0,0:07:26.17,0:07:27.00,Dubtitles,,0,0,0,,Sachi.
+Dialogue: 0,0:07:27.23,0:07:28.27,Dubtitles,,0,0,0,,All of them.
+Dialogue: 0,0:07:46.99,0:07:48.64,Dubtitles,,0,0,0,,I'm not gonna die, got that?
+Dialogue: 0,0:07:50.27,0:07:52.45,Dubtitles,,0,0,0,,I can't die because...
+Dialogue: 0,0:07:52.99,0:07:54.65,Dubtitles,,0,0,0,,I have to protect you.
 Dialogue: 1,0:08:10.74,0:08:14.70,Signs,,0,0,0,,{\fad(479,450)\fsp-1.5\fscx95\fscy85\xshad1.5\yshad3\pos(981,945)\c&H121212&\4c&H1F1F22&\blur3\fs72\alpha&H40\3c&H091E1C&}October {\fscx110}23{\fscx95}rd, {\fscx110}2024{\fscx95}     {\fscx105}55{\fscx95}th Floor • Granzam
 Dialogue: 1,0:08:10.74,0:08:14.70,Signs,,0,0,0,,{\fad(479,450)\fsp-1.5\fscx95\fscy85\xshad1.5\yshad3\pos(981,945)\c&H121212&\4c&H1F1F22&\blur3\fs72\alpha&45}October {\fscx110}23{\fscx95}rd, {\fscx110}2024{\fscx95}     {\fscx105}55{\fscx95}th Floor • Granzam
 Dialogue: 2,0:08:10.74,0:08:14.70,Signs,,0,0,0,,{\fad(479,450)\fsp-1.5\fscx95\fscy85\shad0\pos(979.5,942)\blur0.45\fs72\c&HF5F5F5&}October {\fscx110}23{\fscx95}rd, {\fscx110}2024{\fscx95}     {\fscx105}55{\fscx95}th Floor • Granzam
-Dialogue: 0,0:08:12.92,0:08:15.20,Dubtitles,,0,0,0,,I got a train. That's right.
-Dialogue: 0,0:08:15.78,0:08:18.90,Dubtitles,,0,0,0,,You, me, and one other guy\Nare going to form a party.
-Dialogue: 0,0:08:19.18,0:08:22.34,Dubtitles,,0,0,0,,Then, we're all going to go\Nclear the dungeon on this floor.
-Dialogue: 0,0:08:22.42,0:08:23.72,Dubtitles,,0,0,0,,Hold on, Godfrey.
-Dialogue: 0,0:08:24.12,0:08:25.50,Dubtitles,,0,0,0,,Kirito and I are already in...
-Dialogue: 0,0:08:25.58,0:08:27.38,Dubtitles,,0,0,0,,I can't do anything about it, ma 'am.
-Dialogue: 0,0:08:27.46,0:08:30.82,Dubtitles,,0,0,0,,Besides, as second-in-command, you\Nknow we can't ignore the rules.
-Dialogue: 0,0:08:30.90,0:08:32.64,Dubtitles,,0,0,0,,If he's going to be joining us,
-Dialogue: 0,0:08:32.72,0:08:34.72,Dubtitles,,0,0,0,,then it's my job as\Ncommander of the front lines
-Dialogue: 0,0:08:34.80,0:08:37.16,Dubtitles,,0,0,0,,to take the kid out and\Nevaluate his skills.
-Dialogue: 0,0:08:37.24,0:08:38.70,Dubtitles,,0,0,0,,But that's ridiculous.
-Dialogue: 0,0:08:38.78,0:08:40.00,Dubtitles,,0,0,0,,He doesn't need evaluation.
-Dialogue: 0,0:08:40.08,0:08:41.43,Dubtitles,,0,0,0,,He's stronger than you.
-Dialogue: 0,0:08:42.48,0:08:45.68,Dubtitles,,0,0,0,,Kid, in 30 minutes, I want to\Nsee you at the Western Gate.
-Dialogue: 0,0:08:45.76,0:08:46.59,Dubtitles,,0,0,0,,Hoorah!
-Dialogue: 0,0:08:52.60,0:08:54.84,Dubtitles,,0,0,0,,We finally had a chance to be alone.
-Dialogue: 0,0:08:55.84,0:08:56.94,Dubtitles,,0,0,0,,I'll be back soon.
-Dialogue: 0,0:08:58.12,0:08:59.59,Dubtitles,,0,0,0,,Think he can wait for me?
-Dialogue: 0,0:09:01.58,0:09:02.41,Dubtitles,,0,0,0,,Mm-hmm.
-Dialogue: 0,0:09:02.49,0:09:03.32,Dubtitles,,0,0,0,,Just be careful.
-Dialogue: 0,0:09:09.38,0:09:10.21,Dubtitles,,0,0,0,,Hey, kid!
-Dialogue: 0,0:09:10.40,0:09:11.69,Dubtitles,,0,0,0,,We're waiting for you!
-Dialogue: 0,0:09:17.86,0:09:18.96,Dubtitles,,0,0,0,,Are you serious?
-Dialogue: 0,0:09:19.54,0:09:20.37,Dubtitles,,0,0,0,,Yep.
-Dialogue: 0,0:09:20.45,0:09:21.48,Dubtitles,,0,0,0,,Look at it this way.
-Dialogue: 0,0:09:21.56,0:09:22.82,Dubtitles,,0,0,0,,We're all on the same guild,
-Dialogue: 0,0:09:22.90,0:09:27.08,Dubtitles,,0,0,0,,so I figured now's a good time as\Nany for you guys to bury the hatchet.
-Dialogue: 0,0:09:30.36,0:09:33.74,Dubtitles,,0,0,0,,About the other day, I\Napologized for my behavior.
-Dialogue: 0,0:09:34.74,0:09:36.44,Dubtitles,,0,0,0,,I was rude to you, and I...
-Dialogue: 0,0:09:36.52,0:09:38.58,Dubtitles,,0,0,0,,I promise it won't happen again.
-Dialogue: 0,0:09:39.42,0:09:40.46,Dubtitles,,0,0,0,,Yeah, sure.
-Dialogue: 0,0:09:41.40,0:09:43.34,Dubtitles,,0,0,0,,All right, ladies, time to focus.
-Dialogue: 0,0:09:45.14,0:09:48.64,Dubtitles,,0,0,0,,Today, I'll be checking out how\Nyou react to dangerous situations.
-Dialogue: 0,0:09:48.72,0:09:52.96,Dubtitles,,0,0,0,,So, I'm going to need you to hand\Nover all the crystals in your storage.
-Dialogue: 0,0:09:53.36,0:09:55.92,Dubtitles,,0,0,0,,Even my teleport crystals? Mm-hmm.
-Dialogue: 0,0:10:05.02,0:10:05.98,Dubtitles,,0,0,0,,Yeah, okay.
-Dialogue: 0,0:10:10.34,0:10:11.17,Dubtitles,,0,0,0,,Awesome.
-Dialogue: 0,0:10:11.25,0:10:13.54,Dubtitles,,0,0,0,,Now, let's go clear a dungeon!
-Dialogue: 0,0:10:14.54,0:10:15.37,Dubtitles,,0,0,0,,Yay.
+Dialogue: 0,0:08:12.97,0:08:15.21,Dubtitles,,0,0,0,,I got a train. That's right.
+Dialogue: 0,0:08:15.85,0:08:18.97,Dubtitles,,0,0,0,,You, me, and one other guy\Nare going to form a party.
+Dialogue: 0,0:08:19.17,0:08:22.37,Dubtitles,,0,0,0,,Then, we're all going to go\Nclear the dungeon on this floor.
+Dialogue: 0,0:08:22.45,0:08:23.71,Dubtitles,,0,0,0,,Hold on, Godfrey.
+Dialogue: 0,0:08:24.17,0:08:25.51,Dubtitles,,0,0,0,,Kirito and I are already in...
+Dialogue: 0,0:08:25.59,0:08:27.43,Dubtitles,,0,0,0,,I can't do anything about it, ma 'am.
+Dialogue: 0,0:08:27.51,0:08:30.83,Dubtitles,,0,0,0,,Besides, as second-in-command, you\Nknow we can't ignore the rules.
+Dialogue: 0,0:08:30.91,0:08:32.63,Dubtitles,,0,0,0,,If he's going to be joining us,
+Dialogue: 0,0:08:32.71,0:08:34.73,Dubtitles,,0,0,0,,then it's my job as\Ncommander of the front lines
+Dialogue: 0,0:08:34.81,0:08:37.15,Dubtitles,,0,0,0,,to take the kid out and\Nevaluate his skills.
+Dialogue: 0,0:08:37.23,0:08:38.71,Dubtitles,,0,0,0,,But that's ridiculous.
+Dialogue: 0,0:08:38.79,0:08:39.99,Dubtitles,,0,0,0,,He doesn't need evaluation.
+Dialogue: 0,0:08:40.07,0:08:41.42,Dubtitles,,0,0,0,,He's stronger than you.
+Dialogue: 0,0:08:42.49,0:08:45.67,Dubtitles,,0,0,0,,Kid, in 30 minutes, I want to\Nsee you at the Western Gate.
+Dialogue: 0,0:08:45.75,0:08:46.58,Dubtitles,,0,0,0,,Hoorah!
+Dialogue: 0,0:08:52.59,0:08:54.85,Dubtitles,,0,0,0,,We finally had a chance to be alone.
+Dialogue: 0,0:08:55.73,0:08:56.97,Dubtitles,,0,0,0,,I'll be back soon.
+Dialogue: 0,0:08:58.07,0:08:59.60,Dubtitles,,0,0,0,,Think you can wait for me?
+Dialogue: 0,0:09:00.07,0:09:00.90,Dubtitles,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:09:02.05,0:09:02.99,Dubtitles,,0,0,0,,Just be careful.
+Dialogue: 0,0:09:09.33,0:09:10.16,Dubtitles,,0,0,0,,Hey, kid!
+Dialogue: 0,0:09:10.41,0:09:11.65,Dubtitles,,0,0,0,,We're waiting for ya!
+Dialogue: 0,0:09:17.83,0:09:18.95,Dubtitles,,0,0,0,,Are you serious?
+Dialogue: 0,0:09:19.49,0:09:20.32,Dubtitles,,0,0,0,,Yep.
+Dialogue: 0,0:09:20.40,0:09:21.47,Dubtitles,,0,0,0,,Look at it this way.
+Dialogue: 0,0:09:21.55,0:09:22.75,Dubtitles,,0,0,0,,We're all in the same guild,
+Dialogue: 0,0:09:22.83,0:09:24.93,Dubtitles,,0,0,0,,so I figured now's a\Ngood time as any for you
+Dialogue: 0,0:09:25.01,0:09:31.33,Dubtitles,,0,0,0,,guys to bury the hatchet\Nabout the other day.
+Dialogue: 0,0:09:31.41,0:09:33.73,Dubtitles,,0,0,0,,I apologize for my behavior.
+Dialogue: 0,0:09:34.69,0:09:38.49,Dubtitles,,0,0,0,,I was rude to you and I I\Npromise it won't happen again.
+Dialogue: 0,0:09:38.57,0:09:40.37,Dubtitles,,0,0,0,,Yeah? Sure.
+Dialogue: 0,0:09:40.45,0:09:41.81,Dubtitles,,0,0,0,,All right.
+Dialogue: 0,0:09:41.89,0:09:43.18,Dubtitles,,0,0,0,,Ladies, time to focus.
+Dialogue: 0,0:09:45.05,0:09:48.29,Dubtitles,,0,0,0,,Today I'll be checking out how\Nyou react to dangerous situations.
+Dialogue: 0,0:09:48.37,0:09:52.55,Dubtitles,,0,0,0,,So I'm gonna need you to to hand over\Nall the crystals in your storage.
+Dialogue: 0,0:09:53.19,0:09:55.93,Dubtitles,,0,0,0,,Even my teleport crystals? Mm-hmm.
+Dialogue: 0,0:10:05.45,0:10:06.28,Dubtitles,,0,0,0,,Yeah, okay.
+Dialogue: 0,0:10:10.25,0:10:11.08,Dubtitles,,0,0,0,,Awesome.
+Dialogue: 0,0:10:11.21,0:10:13.53,Dubtitles,,0,0,0,,Now, let's go clear a dungeon!
+Dialogue: 0,0:10:14.39,0:10:15.22,Dubtitles,,0,0,0,,Yay.
 Dialogue: 1,0:10:18.11,0:10:22.11,text1,,0,0,0,,{\fad(500,500)\fscx90\fscy85\blur3\yshad3.75\1a&HFE\4a&H22\pos(960,937.5)}55th Floor • Near the Labyrinth
 Dialogue: 2,0:10:18.11,0:10:22.11,text1,,0,0,0,,{\fad(500,500)\alpha&H11&\fscx90\fscy85\blur0.6\shad0\c&HFBFEFF&\pos(960,937.5)}55th Floor • Near the Labyrinth
-Dialogue: 0,0:10:27.76,0:10:30.41,Dubtitles,,0,0,0,,This looks like a good\Nplace to take a break.
-Dialogue: 0,0:10:31.86,0:10:33.42,Dubtitles,,0,0,0,,Ciao time, ladies.
-Dialogue: 0,0:10:42.76,0:10:43.94,Dubtitles,,0,0,0,,Say ah!
-Dialogue: 0,0:11:08.60,0:11:09.92,Dubtitles,,0,0,0,,We've been poisoned.
-Dialogue: 0,0:11:21.50,0:11:23.78,Dubtitles,,0,0,0,,What the hell's going on?
-Dialogue: 0,0:11:24.16,0:11:26.42,Dubtitles,,0,0,0,,You packed the water, Kuradeel.
-Dialogue: 0,0:11:26.82,0:11:27.94,Dubtitles,,0,0,0,,What did you do?
-Dialogue: 0,0:11:28.18,0:11:29.18,Dubtitles,,0,0,0,,You bastard.
-Dialogue: 0,0:11:29.26,0:11:31.34,Dubtitles,,0,0,0,,Antidote crystals, hurry!
-Dialogue: 0,0:11:37.80,0:11:39.66,Dubtitles,,0,0,0,,Poor, sad old Godfrey.
-Dialogue: 0,0:11:39.90,0:11:42.25,Dubtitles,,0,0,0,,I always knew you were a colossal idiot,
-Dialogue: 0,0:11:42.46,0:11:45.40,Dubtitles,,0,0,0,,but this proves you're\Neven dumber than I thought.
-Dialogue: 0,0:11:47.90,0:11:49.26,Dubtitles,,0,0,0,,Don't do this!
-Dialogue: 0,0:11:57.60,0:11:59.32,Dubtitles,,0,0,0,,No, stop it!
-Dialogue: 0,0:11:59.84,0:12:01.08,Dubtitles,,0,0,0,,Here's my plan.
-Dialogue: 0,0:12:01.50,0:12:04.50,Dubtitles,,0,0,0,,Our party was walking along when...
-Dialogue: 0,0:12:05.32,0:12:09.91,Dubtitles,,0,0,0,,We were attacked by this gang of criminal\Nplayers who appeared out of nowhere.
-Dialogue: 0,0:12:10.20,0:12:13.26,Dubtitles,,0,0,0,,You both fought hard, but\Nyou were killed in battle.
-Dialogue: 0,0:12:13.48,0:12:15.54,Dubtitles,,0,0,0,,It was just me against all of them.
-Dialogue: 0,0:12:15.74,0:12:19.92,Dubtitles,,0,0,0,,And somehow, I courageously and\Nsingle-handedly We fucked them all off!
-Dialogue: 0,0:12:52.62,0:12:57.08,Dubtitles,,0,0,0,,You know, I just killed an\Ninnocent bystander because of you.
-Dialogue: 0,0:12:57.38,0:12:59.68,Dubtitles,,0,0,0,,How am I going to live with myself?
-Dialogue: 0,0:13:00.26,0:13:03.84,Dubtitles,,0,0,0,,From over here, you look like\Nyou're having a blast doing it.
-Dialogue: 0,0:13:03.92,0:13:07.92,Dubtitles,,0,0,0,,Why the hell would a guy like you\Njoin the Knights of the Blood Oath?
-Dialogue: 0,0:13:08.00,0:13:10.90,Dubtitles,,0,0,0,,You'd be more at home with\None of the criminal guilds.
-Dialogue: 0,0:13:10.98,0:13:12.92,Dubtitles,,0,0,0,,What an interesting observation.
-Dialogue: 0,0:13:13.64,0:13:15.18,Dubtitles,,0,0,0,,You have sharp eyes.
-Dialogue: 0,0:13:16.70,0:13:18.32,Dubtitles,,0,0,0,,You're with Leafa and Coffin.
-Dialogue: 0,0:13:18.40,0:13:19.68,Dubtitles,,0,0,0,,The murder killed.
-Dialogue: 0,0:13:21.48,0:13:25.01,Dubtitles,,0,0,0,,That's where I got the skills\Nto paralyze bastards like you.
-Dialogue: 0,0:13:25.52,0:13:26.70,Dubtitles,,0,0,0,,Where's my head?
-Dialogue: 0,0:13:27.06,0:13:30.00,Dubtitles,,0,0,0,,I better stop talking or\Nthe poison will wear off.
-Dialogue: 0,0:13:30.10,0:13:31.63,Dubtitles,,0,0,0,,And we wouldn't want that.
-Dialogue: 0,0:13:32.16,0:13:34.04,Dubtitles,,0,0,0,,Time to finish you off for good.
-Dialogue: 0,0:13:38.54,0:13:40.66,Dubtitles,,0,0,0,,The poison's not wearing off.
-Dialogue: 0,0:13:46.92,0:13:48.20,Dubtitles,,0,0,0,,How's it feel?
-Dialogue: 0,0:13:48.40,0:13:49.38,Dubtitles,,0,0,0,,Come on.
-Dialogue: 0,0:13:49.58,0:13:53.52,Dubtitles,,0,0,0,,I want to know how it feels knowing\Nyou're about to die like a dog.
-Dialogue: 0,0:13:53.78,0:13:54.61,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:13:54.69,0:13:56.58,Dubtitles,,0,0,0,,Is your tongue paralyzed too?
-Dialogue: 0,0:14:01.82,0:14:03.00,Dubtitles,,0,0,0,,Is this it?
-Dialogue: 0,0:14:04.62,0:14:06.60,Dubtitles,,0,0,0,,Is this where I'm gonna die?
-Dialogue: 0,0:14:07.12,0:14:08.12,Dubtitles,,0,0,0,,Come on now!
-Dialogue: 0,0:14:08.58,0:14:10.87,Dubtitles,,0,0,0,,It's your last chance to say something.
-Dialogue: 0,0:14:11.72,0:14:13.58,Dubtitles,,0,0,0,,You really are going to die.
-Dialogue: 0,0:14:37.64,0:14:39.30,Dubtitles,,0,0,0,,Why do you keep struggling?
-Dialogue: 0,0:14:39.78,0:14:41.78,Dubtitles,,0,0,0,,Are you afraid of dying after all?
-Dialogue: 0,0:14:42.76,0:14:45.78,Dubtitles,,0,0,0,,No, I'm just not ready yet.
-Dialogue: 0,0:14:45.86,0:14:48.40,Dubtitles,,0,0,0,,Is that so?
-Dialogue: 0,0:14:49.28,0:14:51.62,Dubtitles,,0,0,0,,That's the way I like it!
-Dialogue: 0,0:15:01.16,0:15:02.32,Dubtitles,,0,0,0,,Die!
-Dialogue: 0,0:15:02.90,0:15:03.73,Dubtitles,,0,0,0,,Die!
-Dialogue: 0,0:15:04.44,0:15:05.27,Dubtitles,,0,0,0,,Die!
-Dialogue: 0,0:15:24.26,0:15:25.96,Dubtitles,,0,0,0,,I made it.
-Dialogue: 0,0:15:26.42,0:15:28.02,Dubtitles,,0,0,0,,I made it in time.
-Dialogue: 0,0:15:28.10,0:15:28.94,Dubtitles,,0,0,0,,Thank God.
-Dialogue: 0,0:15:29.02,0:15:30.30,Dubtitles,,0,0,0,,I made it.
-Dialogue: 0,0:15:33.70,0:15:36.76,Dubtitles,,0,0,0,,I was tracking your position\Non the map the whole time,
-Dialogue: 0,0:15:36.84,0:15:39.00,Dubtitles,,0,0,0,,and then I saw Godfrey disappear.
-Dialogue: 0,0:15:39.66,0:15:40.49,Dubtitles,,0,0,0,,here.
-Dialogue: 0,0:15:40.57,0:15:41.82,Dubtitles,,0,0,0,,I got worried something happened.
-Dialogue: 0,0:15:42.88,0:15:44.14,Dubtitles,,0,0,0,,But you're alive.
-Dialogue: 0,0:15:44.40,0:15:46.08,Dubtitles,,0,0,0,,I'm not dreaming, am I?
-Dialogue: 0,0:15:47.56,0:15:48.39,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:15:48.47,0:15:49.30,Dubtitles,,0,0,0,,You're not.
-Dialogue: 0,0:15:53.24,0:15:54.20,Dubtitles,,0,0,0,,Hang on.
-Dialogue: 0,0:15:54.66,0:15:56.02,Dubtitles,,0,0,0,,I'll finish this.
-Dialogue: 0,0:16:00.62,0:16:02.72,Dubtitles,,0,0,0,,Asuna, I can explain everything.
-Dialogue: 0,0:16:03.00,0:16:06.53,Dubtitles,,0,0,0,,We were just training when all\Nof a sudden there was this...
-Dialogue: 0,0:16:08.24,0:16:09.08,Dubtitles,,0,0,0,,Damn you!
-Dialogue: 0,0:16:19.06,0:16:20.80,Dubtitles,,0,0,0,,I give up! I surrender!
-Dialogue: 0,0:16:21.10,0:16:22.34,Dubtitles,,0,0,0,,Please don't kill me!
-Dialogue: 0,0:16:22.64,0:16:23.88,Dubtitles,,0,0,0,,I'll leave the guild!
-Dialogue: 0,0:16:23.96,0:16:25.70,Dubtitles,,0,0,0,,You'll never see me again, I promise!
-Dialogue: 0,0:16:25.78,0:16:26.61,Dubtitles,,0,0,0,,Please!
-Dialogue: 0,0:16:29.54,0:16:31.36,Dubtitles,,0,0,0,,I don't want to die!
-Dialogue: 0,0:16:40.72,0:16:42.56,Dubtitles,,0,0,0,,The oldest trick in the book!
-Dialogue: 0,0:16:42.68,0:16:44.48,Dubtitles,,0,0,0,,And you fell for it, bitch!
-Dialogue: 0,0:17:02.16,0:17:03.54,Dubtitles,,0,0,0,,God damn you.
-Dialogue: 0,0:17:03.74,0:17:04.88,Dubtitles,,0,0,0,,You murdered me.
-Dialogue: 0,0:17:24.26,0:17:25.50,Dubtitles,,0,0,0,,I'm sorry.
-Dialogue: 0,0:17:26.22,0:17:29.90,Dubtitles,,0,0,0,,This was all my fault, wasn't it?
-Dialogue: 0,0:17:39.00,0:17:40.16,Dubtitles,,0,0,0,,I'm sorry,
-Dialogue: 0,0:17:40.24,0:17:44.82,Dubtitles,,0,0,0,,but I should stay away
-Dialogue: 0,0:17:44.90,0:17:51.24,Dubtitles,,0,0,0,,from you for your sake.
-Dialogue: 0,0:18:10.10,0:18:12.74,Dubtitles,,0,0,0,,Asuna, my life belongs to you.
-Dialogue: 0,0:18:13.08,0:18:14.56,Dubtitles,,0,0,0,,I'll give it up for you.
-Dialogue: 0,0:18:14.90,0:18:17.24,Dubtitles,,0,0,0,,I want to stay with you until the end.
-Dialogue: 0,0:18:17.60,0:18:21.80,Dubtitles,,0,0,0,,And I promise I'll do\Nanything to protect you, too.
-Dialogue: 0,0:18:22.52,0:18:23.35,Dubtitles,,0,0,0,,Forever.
-Dialogue: 0,0:18:23.68,0:18:24.96,Dubtitles,,0,0,0,,No matter what.
-Dialogue: 0,0:18:25.36,0:18:26.46,Dubtitles,,0,0,0,,I swear.
-Dialogue: 0,0:18:26.84,0:18:31.80,Dubtitles,,0,0,0,,I'll do everything I can to make\Nsure you get back to the real world.
-Dialogue: 0,0:18:34.34,0:18:35.62,Dubtitles,,0,0,0,,Asuna, could I?
-Dialogue: 0,0:18:35.84,0:18:38.94,Dubtitles,,0,0,0,,Stay with you for the night?
+Dialogue: 0,0:10:27.93,0:10:30.58,Dubtitles,,0,0,0,,This looks like a good\Nplace to take a break.
+Dialogue: 0,0:10:32.07,0:10:33.41,Dubtitles,,0,0,0,,Ciao time, ladies.
+Dialogue: 0,0:10:42.97,0:10:43.93,Dubtitles,,0,0,0,,Say ah!
+Dialogue: 0,0:11:08.13,0:11:09.91,Dubtitles,,0,0,0,,We've been poisoned.
+Dialogue: 0,0:11:21.39,0:11:26.33,Dubtitles,,0,0,0,,what the hell's going on\Nyou pack the water cura deal
+Dialogue: 0,0:11:26.41,0:11:31.33,Dubtitles,,0,0,0,,what'd you do you bastard\Nantidote crystals Hurry!
+Dialogue: 0,0:11:37.69,0:11:39.67,Dubtitles,,0,0,0,,Poor, sad old Godfrey.
+Dialogue: 0,0:11:39.89,0:11:42.24,Dubtitles,,0,0,0,,I always knew you were a colossal idiot,
+Dialogue: 0,0:11:42.49,0:11:45.43,Dubtitles,,0,0,0,,but this proves you're\Neven dumber than I thought.
+Dialogue: 0,0:11:47.79,0:11:49.25,Dubtitles,,0,0,0,,Don't do this!
+Dialogue: 0,0:11:57.47,0:11:59.23,Dubtitles,,0,0,0,,No, stop it!
+Dialogue: 0,0:11:59.31,0:12:01.07,Dubtitles,,0,0,0,,Here's my plan.
+Dialogue: 0,0:12:01.43,0:12:04.55,Dubtitles,,0,0,0,,Our party was walking along when...
+Dialogue: 0,0:12:05.33,0:12:09.92,Dubtitles,,0,0,0,,We were attacked by this gang of criminal\Nplayers who appeared out of nowhere.
+Dialogue: 0,0:12:10.21,0:12:13.27,Dubtitles,,0,0,0,,You both fought hard, but\Nyou were killed in battle.
+Dialogue: 0,0:12:13.51,0:12:15.57,Dubtitles,,0,0,0,,It was just me against all of them.
+Dialogue: 0,0:12:15.71,0:12:19.71,Dubtitles,,0,0,0,,And somehow, I courageously and\Nsingle-handedly fought them all off!
+Dialogue: 0,0:12:52.49,0:12:57.07,Dubtitles,,0,0,0,,You know, I just killed an\Ninnocent bystander because of you.
+Dialogue: 0,0:12:57.57,0:12:59.67,Dubtitles,,0,0,0,,How am I going to live with myself?
+Dialogue: 0,0:13:00.25,0:13:03.84,Dubtitles,,0,0,0,,From over here, you look like\Nyou're having a blast doing it.
+Dialogue: 0,0:13:04.07,0:13:07.89,Dubtitles,,0,0,0,,Why the hell would a guy like you\Njoin the Knights of the Blood Oath?
+Dialogue: 0,0:13:07.97,0:13:10.87,Dubtitles,,0,0,0,,You'd be more at home with\None of the criminal guilds.
+Dialogue: 0,0:13:10.95,0:13:12.91,Dubtitles,,0,0,0,,What an interesting observation.
+Dialogue: 0,0:13:13.59,0:13:15.17,Dubtitles,,0,0,0,,You have sharp eyes.
+Dialogue: 0,0:13:16.67,0:13:18.33,Dubtitles,,0,0,0,,You're with Leafa and Coffin.
+Dialogue: 0,0:13:18.61,0:13:19.67,Dubtitles,,0,0,0,,The murder guild.
+Dialogue: 0,0:13:21.61,0:13:25.14,Dubtitles,,0,0,0,,That's where I got the skills\Nto paralyze bastards like you.
+Dialogue: 0,0:13:25.59,0:13:26.75,Dubtitles,,0,0,0,,Where's my head?
+Dialogue: 0,0:13:27.07,0:13:30.01,Dubtitles,,0,0,0,,I better stop talking or\Nthe poison will wear off.
+Dialogue: 0,0:13:30.11,0:13:31.64,Dubtitles,,0,0,0,,And we wouldn't want that.
+Dialogue: 0,0:13:32.03,0:13:34.03,Dubtitles,,0,0,0,,Time to finish you off for good.
+Dialogue: 0,0:13:38.65,0:13:40.65,Dubtitles,,0,0,0,,The poison's not wearing off.
+Dialogue: 0,0:13:46.97,0:13:49.35,Dubtitles,,0,0,0,,How does it feel? Come on.
+Dialogue: 0,0:13:49.57,0:13:53.51,Dubtitles,,0,0,0,,I want to know how it feels knowing\Nyou're about to die like a dog.
+Dialogue: 0,0:13:53.71,0:13:54.54,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:13:54.62,0:13:56.59,Dubtitles,,0,0,0,,Is your tongue paralyzed too?
+Dialogue: 0,0:14:01.83,0:14:03.01,Dubtitles,,0,0,0,,Is this it?
+Dialogue: 0,0:14:04.63,0:14:06.61,Dubtitles,,0,0,0,,Is this where I'm gonna die?
+Dialogue: 0,0:14:07.03,0:14:08.13,Dubtitles,,0,0,0,,Come on, now!
+Dialogue: 0,0:14:08.57,0:14:10.86,Dubtitles,,0,0,0,,It's your last chance to say something.
+Dialogue: 0,0:14:11.73,0:14:13.59,Dubtitles,,0,0,0,,You really are going to die.
+Dialogue: 0,0:14:37.61,0:14:39.29,Dubtitles,,0,0,0,,Why do you keep struggling?
+Dialogue: 0,0:14:39.77,0:14:41.77,Dubtitles,,0,0,0,,Are you afraid of dying after all?
+Dialogue: 0,0:14:43.01,0:14:45.85,Dubtitles,,0,0,0,,No, I'm just not ready yet.
+Dialogue: 0,0:14:46.97,0:14:48.39,Dubtitles,,0,0,0,,Is that so?
+Dialogue: 0,0:14:49.67,0:14:51.53,Dubtitles,,0,0,0,,That's the way I like it!
+Dialogue: 0,0:15:02.13,0:15:04.97,Dubtitles,,0,0,0,,Die! Die! Die!
+Dialogue: 0,0:15:19.71,0:15:21.11,Dubtitles,,0,0,0,,Heel!
+Dialogue: 0,0:15:24.77,0:15:25.99,Dubtitles,,0,0,0,,I made it.
+Dialogue: 0,0:15:26.43,0:15:28.05,Dubtitles,,0,0,0,,I made it in time.
+Dialogue: 0,0:15:28.13,0:15:28.96,Dubtitles,,0,0,0,,Thank God.
+Dialogue: 0,0:15:29.04,0:15:30.29,Dubtitles,,0,0,0,,I made it.
+Dialogue: 0,0:15:33.71,0:15:36.77,Dubtitles,,0,0,0,,I was tracking your position\Non the map the whole time,
+Dialogue: 0,0:15:36.85,0:15:39.01,Dubtitles,,0,0,0,,and then I saw Godfrey disappear.
+Dialogue: 0,0:15:39.73,0:15:41.79,Dubtitles,,0,0,0,,I got worried something happened.
+Dialogue: 0,0:15:42.77,0:15:44.17,Dubtitles,,0,0,0,,But you're alive.
+Dialogue: 0,0:15:44.37,0:15:46.09,Dubtitles,,0,0,0,,I'm not dreaming, am I?
+Dialogue: 0,0:15:46.73,0:15:49.23,Dubtitles,,0,0,0,,No, you're not.
+Dialogue: 0,0:15:53.29,0:15:54.19,Dubtitles,,0,0,0,,Hang on.
+Dialogue: 0,0:15:54.73,0:15:56.03,Dubtitles,,0,0,0,,I'll finish this.
+Dialogue: 0,0:16:00.67,0:16:02.75,Dubtitles,,0,0,0,,Asuna, I can explain everything.
+Dialogue: 0,0:16:02.99,0:16:06.52,Dubtitles,,0,0,0,,We were just training when all\Nof a sudden there was this...
+Dialogue: 0,0:16:08.17,0:16:09.05,Dubtitles,,0,0,0,,Damn you!
+Dialogue: 0,0:16:19.01,0:16:20.81,Dubtitles,,0,0,0,,I give up. I surrender.
+Dialogue: 0,0:16:21.11,0:16:22.15,Dubtitles,,0,0,0,,Please don't kill me.
+Dialogue: 0,0:16:22.23,0:16:23.75,Dubtitles,,0,0,0,,I'll leave the guild.
+Dialogue: 0,0:16:23.83,0:16:24.89,Dubtitles,,0,0,0,,You'll never see me again.
+Dialogue: 0,0:16:24.97,0:16:26.33,Dubtitles,,0,0,0,,I promise. Please.
+Dialogue: 0,0:16:29.53,0:16:31.51,Dubtitles,,0,0,0,,I don't want to die.
+Dialogue: 0,0:16:40.77,0:16:44.07,Dubtitles,,0,0,0,,The oldest trick in the\Nbook and you fell for it.
+Dialogue: 0,0:17:01.91,0:17:04.87,Dubtitles,,0,0,0,,God damn you, you murdered me.
+Dialogue: 0,0:17:23.77,0:17:25.49,Dubtitles,,0,0,0,,I'm sorry.
+Dialogue: 0,0:17:26.15,0:17:29.93,Dubtitles,,0,0,0,,This was all my fault, wasn't it?
+Dialogue: 0,0:17:35.85,0:17:37.11,Dubtitles,,0,0,0,,Asuna.
+Dialogue: 0,0:17:37.95,0:17:39.59,Dubtitles,,0,0,0,,I'm sorry.
+Dialogue: 0,0:17:40.81,0:17:41.64,Dubtitles,,0,0,0,,But I...
+Dialogue: 0,0:17:41.72,0:17:43.49,Dubtitles,,0,0,0,,I should...
+Dialogue: 0,0:17:43.57,0:17:45.47,Dubtitles,,0,0,0,,stay away from you.
+Dialogue: 0,0:17:49.99,0:17:51.23,Dubtitles,,0,0,0,,For your sake.
+Dialogue: 0,0:18:10.17,0:18:12.75,Dubtitles,,0,0,0,,Asuna, my life belongs to you.
+Dialogue: 0,0:18:13.07,0:18:14.49,Dubtitles,,0,0,0,,I'll give it up for you.
+Dialogue: 0,0:18:14.57,0:18:17.25,Dubtitles,,0,0,0,,I want to stay with you until the end.
+Dialogue: 0,0:18:18.17,0:18:21.79,Dubtitles,,0,0,0,,And I promise I'll do\Nanything to protect you two.
+Dialogue: 0,0:18:22.49,0:18:23.32,Dubtitles,,0,0,0,,Forever.
+Dialogue: 0,0:18:23.71,0:18:24.95,Dubtitles,,0,0,0,,No matter what.
+Dialogue: 0,0:18:25.43,0:18:26.47,Dubtitles,,0,0,0,,I swear.
+Dialogue: 0,0:18:26.83,0:18:31.81,Dubtitles,,0,0,0,,I'll do everything I can to make\Nsure you get back to the real world.
+Dialogue: 0,0:18:34.17,0:18:38.93,Dubtitles,,0,0,0,,Asuna, could I stay\Nwith you for the night?
 Dialogue: 1,0:18:45.16,0:18:47.62,Signs,,0,0,0,,{\fad(479,0)\fsp-1.5\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H061926&\blur3\fs72\alpha&H40\3c&H091E1C&\fscx100}61{\fscx95}st Floor • Selmburg
 Dialogue: 1,0:18:45.16,0:18:47.62,Signs,,0,0,0,,{\fad(479,0)\fsp-1.5\fscy85\xshad1.5\yshad3\pos(961.5,945)\c&H121212&\4c&H020A11&\blur3\fs72\alpha&H45\fscx100}61{\fscx95}st Floor • Selmburg
 Dialogue: 2,0:18:45.16,0:18:47.62,Signs,,0,0,0,,{\fad(479,0)\fsp-1.5\fscy85\shad0\pos(960,942)\blur0.45\fs72\c&HF5F5F5&\fscx110}61{\fscx95}st Floor • Selmburg
-Dialogue: 0,0:18:59.74,0:19:00.78,Dubtitles,,0,0,0,,Okay.
-Dialogue: 0,0:19:29.00,0:19:34.76,Dubtitles,,0,0,0,,What are you waiting for? Get undressed.
-Dialogue: 0,0:19:34.84,0:19:38.24,Dubtitles,,0,0,0,,Don't just sit there. It's embarrassing.
-Dialogue: 0,0:19:38.32,0:19:43.72,Dubtitles,,0,0,0,,no wait I didn't I mean I just all I
-Dialogue: 0,0:19:43.80,0:19:50.16,Dubtitles,,0,0,0,,wanted to spend the night with you\Ntonight and not the other thing. Huh?
-Dialogue: 0,0:20:00.28,0:20:01.60,Dubtitles,,0,0,0,,You...
-Dialogue: 0,0:20:01.68,0:20:02.82,Dubtitles,,0,0,0,,you...
-Dialogue: 0,0:20:05.78,0:20:06.92,Dubtitles,,0,0,0,,You dummy!
-Dialogue: 0,0:20:24.96,0:20:29.38,Dubtitles,,0,0,0,,Hey, what are you smiling about? I was
-Dialogue: 0,0:20:29.46,0:20:32.90,Dubtitles,,0,0,0,,just having a dream about my old life?
-Dialogue: 0,0:20:33.92,0:20:39.02,Dubtitles,,0,0,0,,It was weird and the\Ndream I had everything in
-Dialogue: 0,0:20:39.10,0:20:42.10,Dubtitles,,0,0,0,,aincrad everything that\Nhappened in meeting you was
-Dialogue: 0,0:20:42.18,0:20:46.60,Dubtitles,,0,0,0,,just that a dream and I\Nwas so scared but it wasn't
-Dialogue: 0,0:20:46.68,0:20:50.14,Dubtitles,,0,0,0,,thank god it wasn't now\Nthat That sounds weird.
-Dialogue: 0,0:20:50.58,0:20:52.10,Dubtitles,,0,0,0,,Don't you want to go back?
-Dialogue: 0,0:20:52.18,0:20:53.42,Dubtitles,,0,0,0,,Of course I do.
-Dialogue: 0,0:20:53.76,0:20:55.28,Dubtitles,,0,0,0,,I do, it's just...
-Dialogue: 0,0:20:55.36,0:20:58.07,Dubtitles,,0,0,0,,I don't want my life\Nhere to disappear is all.
-Dialogue: 0,0:20:58.64,0:21:01.46,Dubtitles,,0,0,0,,The last two years have\Nbeen very special to me.
-Dialogue: 0,0:21:01.66,0:21:03.20,Dubtitles,,0,0,0,,I realize that now.
-Dialogue: 0,0:21:07.64,0:21:08.88,Dubtitles,,0,0,0,,Listen, Kirito.
-Dialogue: 0,0:21:09.28,0:21:14.14,Dubtitles,,0,0,0,,I was thinking, maybe we could leave\Nthe front lines for a while. What?
-Dialogue: 0,0:21:16.22,0:21:17.20,Dubtitles,,0,0,0,,I'm scared.
-Dialogue: 0,0:21:17.96,0:21:20.28,Dubtitles,,0,0,0,,I feel like if we return\Nto the battlefield now,
-Dialogue: 0,0:21:20.36,0:21:22.60,Dubtitles,,0,0,0,,Something bad will happen again.
-Dialogue: 0,0:21:22.82,0:21:24.82,Dubtitles,,0,0,0,,Or maybe I'm just tired of it all.
-Dialogue: 0,0:21:26.36,0:21:27.66,Dubtitles,,0,0,0,,I know what you mean.
-Dialogue: 0,0:21:28.10,0:21:30.02,Dubtitles,,0,0,0,,I guess I am too.
-Dialogue: 0,0:21:33.32,0:21:35.42,Dubtitles,,0,0,0,,In the southwest of Floor 22,
-Dialogue: 0,0:21:35.88,0:21:39.40,Dubtitles,,0,0,0,,there's this tiny little\Nvillage by a lake and a forest.
-Dialogue: 0,0:21:40.28,0:21:42.06,Dubtitles,,0,0,0,,We could get a house together.
-Dialogue: 0,0:21:43.32,0:21:44.36,Dubtitles,,0,0,0,,And then...
-Dialogue: 0,0:21:44.44,0:21:45.60,Dubtitles,,0,0,0,,And then what?
-Dialogue: 0,0:21:48.38,0:21:51.78,Dubtitles,,0,0,0,,Then, we get married.
-Dialogue: 0,0:22:01.60,0:22:02.98,Dubtitles,,0,0,0,,Okay.
+Dialogue: 0,0:18:59.41,0:19:00.81,Dubtitles,,0,0,0,,Okay
+Dialogue: 0,0:19:25.67,0:19:26.67,Dubtitles,,0,0,0,,Don't look.
+Dialogue: 0,0:19:27.51,0:19:28.89,Dubtitles,,0,0,0,,Not yet, anyway.
+Dialogue: 0,0:19:32.51,0:19:33.98,Dubtitles,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:19:34.09,0:19:34.92,Dubtitles,,0,0,0,,Get undressed.
+Dialogue: 0,0:19:35.33,0:19:36.61,Dubtitles,,0,0,0,,Don't just sit there.
+Dialogue: 0,0:19:37.13,0:19:38.27,Dubtitles,,0,0,0,,It's embarrassing.
+Dialogue: 0,0:19:39.29,0:19:40.89,Dubtitles,,0,0,0,,No, wait, I didn't...
+Dialogue: 0,0:19:41.43,0:19:43.09,Dubtitles,,0,0,0,,I mean, I just...
+Dialogue: 0,0:19:43.93,0:19:46.97,Dubtitles,,0,0,0,,All I wanted was to spend\Nthe night with you tonight,
+Dialogue: 0,0:19:47.05,0:19:49.71,Dubtitles,,0,0,0,,and not the, uh, the other thing.
+Dialogue: 0,0:20:00.63,0:20:06.91,Dubtitles,,0,0,0,,You, you, you dummy!
+Dialogue: 0,0:20:24.91,0:20:27.15,Dubtitles,,0,0,0,,Hey, what are you smiling about?
+Dialogue: 0,0:20:28.57,0:20:32.91,Dubtitles,,0,0,0,,I was just having a\Ndream about my old life.
+Dialogue: 0,0:20:33.91,0:20:35.35,Dubtitles,,0,0,0,,It was weird.
+Dialogue: 0,0:20:36.29,0:20:39.61,Dubtitles,,0,0,0,,And the dream I had,\Neverything in Aincrad,
+Dialogue: 0,0:20:40.19,0:20:43.21,Dubtitles,,0,0,0,,everything that happened in\Nmeeting you was just that.
+Dialogue: 0,0:20:43.29,0:20:44.12,Dubtitles,,0,0,0,,a dream.
+Dialogue: 0,0:20:44.23,0:20:45.53,Dubtitles,,0,0,0,,And I was so scared.
+Dialogue: 0,0:20:45.99,0:20:47.11,Dubtitles,,0,0,0,,But it wasn't.
+Dialogue: 0,0:20:47.19,0:20:48.55,Dubtitles,,0,0,0,,Thank God it wasn't.
+Dialogue: 0,0:20:49.27,0:20:50.61,Dubtitles,,0,0,0,,Now that sounds weird.
+Dialogue: 0,0:20:50.69,0:20:52.13,Dubtitles,,0,0,0,,Don't you want to go back?
+Dialogue: 0,0:20:52.21,0:20:54.47,Dubtitles,,0,0,0,,Of course I do. I do.
+Dialogue: 0,0:20:54.61,0:20:57.96,Dubtitles,,0,0,0,,It's just, I don't want my\Nlife here to disappear is all.
+Dialogue: 0,0:20:58.51,0:21:01.33,Dubtitles,,0,0,0,,The last two years have\Nbeen very special to me.
+Dialogue: 0,0:21:01.65,0:21:03.25,Dubtitles,,0,0,0,,I realize that now.
+Dialogue: 0,0:21:07.85,0:21:14.15,Dubtitles,,0,0,0,,Listen Kirito I was thinking maybe we could\Nleave the front lines for a while what
+Dialogue: 0,0:21:16.25,0:21:21.05,Dubtitles,,0,0,0,,I'm scared I feel like if we return to\Nthe battlefield now something bad's gonna
+Dialogue: 0,0:21:21.13,0:21:24.55,Dubtitles,,0,0,0,,happen Again or maybe I'm just tired of it
+Dialogue: 0,0:21:24.63,0:21:30.07,Dubtitles,,0,0,0,,all I know what you mean I guess I am too
+Dialogue: 0,0:21:33.25,0:21:35.43,Dubtitles,,0,0,0,,In the southwest of Floor 22,
+Dialogue: 0,0:21:35.81,0:21:39.39,Dubtitles,,0,0,0,,there's this tiny little\Nvillage by a lake and a forest.
+Dialogue: 0,0:21:40.03,0:21:42.05,Dubtitles,,0,0,0,,We could get a house together.
+Dialogue: 0,0:21:43.09,0:21:44.27,Dubtitles,,0,0,0,,And then...
+Dialogue: 0,0:21:44.35,0:21:45.59,Dubtitles,,0,0,0,,And then what?
+Dialogue: 0,0:21:49.25,0:21:50.08,Dubtitles,,0,0,0,,Then...
+Dialogue: 0,0:21:50.33,0:21:51.79,Dubtitles,,0,0,0,,We get married.
+Dialogue: 0,0:22:02.17,0:22:03.00,Dubtitles,,0,0,0,,Okay.
 Dialogue: 4,0:22:17.83,0:22:18.17,ED1-Japanese,,0,0,0,,{\pos(616.5,120)\bord6\blur4.5\1a&HFE\fscy10\fad(220,0)\t(0,200,1.2,\fscy100)}遠
 Dialogue: 5,0:22:17.83,0:22:18.17,ED1-Japanese,,0,0,0,,{\pos(616.5,120)\fscy10\fad(220,0)\t(0,200,1.2,\fscy100)}遠
 Dialogue: 4,0:22:17.83,0:22:18.17,ED1-Romaji,,0,0,0,,{\pos(273,112.5)\bord6\blur4.5\1a&HFE\fscy10\fad(220,0)\t(0,200,1.2,\fscy100)}T
@@ -5375,5 +5371,5 @@ Dialogue: 3,0:23:35.08,0:23:40.08,title,,0,0,0,,{\bord0\blur0.75\clip(0,857,1920
 Dialogue: 3,0:23:35.08,0:23:40.08,title,,0,0,0,,{\bord0\blur0.75\clip(0,861,1920,866)\pos(960,870)\c&HC39000&\k0}The Girl Of The Morning Dew
 Dialogue: 3,0:23:35.08,0:23:40.08,title,,0,0,0,,{\bord0\blur0.75\clip(0,866,1920,870)\pos(960,870)\c&HC18C00&\k0}The Girl Of The Morning Dew
 Dialogue: 3,0:23:35.08,0:23:40.08,title,,0,0,0,,{\bord0\blur0.75\clip(0,870,1920,875)\pos(960,870)\c&HC18C00&\k0}The Girl Of The Morning Dew
-Dialogue: 0,0:23:36.08,0:23:38.66,Dubtitles,,0,0,0,,Next time the girl of morning dew?
+Dialogue: 0,0:23:36.13,0:23:38.65,Dubtitles,,0,0,0,,Next time, the girl of morning dew.
 

@@ -24,10 +24,6 @@ Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.39,0:00:16.27,Dubtitles,,0,0,0,,Scroll up and broke a little hole.
-Dialogue: 0,0:00:16.35,0:00:17.18,Dubtitles,,0,0,0,,It's true. It's not a big hole.
-Dialogue: 0,0:00:17.26,0:00:18.09,Dubtitles,,0,0,0,,It's just a very little\Nhole to view the game.
-Dialogue: 0,0:00:18.18,0:00:19.01,Dubtitles,,0,0,0,,OK, we're all over.
 Dialogue: 1,0:00:18.43,0:00:19.56,UI,,0,0,0,,{\fad(0,104)\blur0.9\shad0\frz-18.64\c&H9A9083&\pos(666,603)\fax0.34}Please respond, Yuuki.
 Dialogue: 1,0:00:18.43,0:00:20.31,UI,,0,0,0,,{\blur0.9\shad0\fscx49\fscy49\frz-23.67\c&HABAA9A&\pos(972,120)\b1\fax0.47}Seriously, what happened?
 Dialogue: 1,0:00:18.43,0:00:20.31,UI,,0,0,0,,{\blur0.9\shad0\fscx49\fscy49\frz-22.52\c&H868E91&\pos(849,216)\b1\fax0.47}The intended recipient is not logged in.
@@ -46,26 +42,24 @@ Dialogue: 1,0:00:20.39,0:00:20.43,UI,,0,0,0,,{\blur0.9\shad0\fscx71\fscy71\frz-2
 Dialogue: 1,0:00:20.43,0:00:21.43,UI,,0,0,0,,{\blur0.9\shad0\fscx49\fscy49\frz-24.59\c&H868E91&\pos(846.195,-24)\b1\fax0.47}The intended recipient is not logged in.
 Dialogue: 1,0:00:20.43,0:00:21.43,UI,,0,0,0,,{\blur0.9\shad0\fscx49\fscy49\frz-23.81\c&HABAA9A&\pos(1002.195,201)\b1\fax0.48}Please respond, Yuuki.
 Dialogue: 1,0:00:20.43,0:00:21.43,UI,,0,0,0,,{\blur0.9\shad0\fscx71\fscy71\frz-21.54\c&H9099B3&\pos(842.19,364.37)\b1\fax0.43}The intended recipient is not logged in.
-Dialogue: 0,0:00:27.75,0:00:28.58,Dubtitles,,0,0,0,,OK, last time we get out of the cave.
-Dialogue: 0,0:00:28.66,0:00:29.49,Dubtitles,,0,0,0,,The caveats are the caveats on the cave.
-Dialogue: 0,0:00:30.49,0:00:31.32,Dubtitles,,0,0,0,,Asuna.
+Dialogue: 0,0:00:27.59,0:00:29.09,Dubtitles,,0,0,0,,The End
+Dialogue: 0,0:00:30.45,0:00:31.28,Dubtitles,,0,0,0,,Asuna.
 Dialogue: 0,0:00:32.95,0:00:33.78,Dubtitles,,0,0,0,,Siyune!
 Dialogue: 0,0:00:34.27,0:00:36.65,Dubtitles,,0,0,0,,Please, do you know what happened to Yuki?
 Dialogue: 0,0:00:36.73,0:00:39.71,Dubtitles,,0,0,0,,It's been three days and\Nshe hasn't logged back in.
 Dialogue: 0,0:00:39.79,0:00:41.05,Dubtitles,,0,0,0,,It's not just you.
-Dialogue: 0,0:00:41.35,0:00:44.17,Dubtitles,,0,0,0,,None of us have been able\Nto contact her either.
-Dialogue: 0,0:00:45.21,0:00:49.91,Dubtitles,,0,0,0,,Asuna, I hate to say this, but I don't\Nthink she wants to see you again.
-Dialogue: 0,0:00:50.35,0:00:52.76,Dubtitles,,0,0,0,,I think she's doing it for your own good.
+Dialogue: 0,0:00:41.37,0:00:44.19,Dubtitles,,0,0,0,,None of us have been able\Nto contact her either.
+Dialogue: 0,0:00:45.21,0:00:49.93,Dubtitles,,0,0,0,,Asuna, I hate to say this, but I don't\Nthink she wants to see you again.
+Dialogue: 0,0:00:50.37,0:00:52.78,Dubtitles,,0,0,0,,I think she's doing it for your own good.
 Dialogue: 0,0:00:53.57,0:00:54.47,Dubtitles,,0,0,0,,But why?
-Dialogue: 0,0:00:59.17,0:01:00.00,Dubtitles,,0,0,0,,Mama.
-Dialogue: 0,0:01:00.08,0:01:02.26,Dubtitles,,0,0,0,,I had a feeling something wasn't right.
-Dialogue: 0,0:01:03.19,0:01:07.43,Dubtitles,,0,0,0,,I could tell everyone in the group\Nwas avoiding getting too close to me.
-Dialogue: 0,0:01:08.31,0:01:11.91,Dubtitles,,0,0,0,,The last thing I want is to\Nupset anyone or be a nuisance.
-Dialogue: 0,0:01:12.77,0:01:16.59,Dubtitles,,0,0,0,,But still, I don't see how any\Nof this could be for my sake!
+Dialogue: 0,0:01:00.01,0:01:02.30,Dubtitles,,0,0,0,,I had a feeling something wasn't right.
+Dialogue: 0,0:01:03.23,0:01:07.47,Dubtitles,,0,0,0,,I could tell everyone in the group\Nwas avoiding getting too close to me.
+Dialogue: 0,0:01:08.35,0:01:11.93,Dubtitles,,0,0,0,,The last thing I want is to\Nupset anyone, or be a nuisance.
+Dialogue: 0,0:01:12.81,0:01:16.59,Dubtitles,,0,0,0,,But still, I don't see how any\Nof this could be for my sake!
 Dialogue: 0,0:01:16.67,0:01:17.96,Dubtitles,,0,0,0,,You're not a nuisance!
-Dialogue: 0,0:01:19.21,0:01:20.43,Dubtitles,,0,0,0,,It's not like that.
-Dialogue: 0,0:01:20.81,0:01:24.25,Dubtitles,,0,0,0,,Believe me when I say we're all\Ntruly happy to have met you.
-Dialogue: 0,0:01:24.33,0:01:28.09,Dubtitles,,0,0,0,,We got to have one last amazing\Nmemory of our time together here.
+Dialogue: 0,0:01:19.25,0:01:20.43,Dubtitles,,0,0,0,,It's not like that.
+Dialogue: 0,0:01:20.81,0:01:24.19,Dubtitles,,0,0,0,,Believe me when I say we're all\Ntruly happy to have met you.
+Dialogue: 0,0:01:24.27,0:01:28.09,Dubtitles,,0,0,0,,We got to have one last amazing\Nmemory of our time together here.
 Dialogue: 0,0:01:28.17,0:01:30.07,Dubtitles,,0,0,0,,And it's all thanks to you.
 Dialogue: 0,0:01:30.81,0:01:33.47,Dubtitles,,0,0,0,,And Yuki, I know she's grateful too.
 Dialogue: 0,0:01:34.71,0:01:37.09,Dubtitles,,0,0,0,,But please, forget you ever met us.
@@ -767,16 +761,18 @@ Dialogue: 1,0:22:38.39,0:22:41.52,ED-En,,0,0,0,,{\fad(200,200)}I've always wante
 Dialogue: 0,0:22:41.13,0:22:45.71,Dubtitles,,0,0,0,,I always feel like I can tell you.
 Dialogue: 1,0:22:41.52,0:22:47.40,ED-Rom,,0,0,0,,{\k39\fad(200,200)}I{\k28}tsu{\k30}mo {\k28}fu{\k43}ri {\k25}mu{\k32}i{\k21}te {\k46}ta{\k40}shi{\k38}ka{\k46}me{\k168}ru
 Dialogue: 1,0:22:41.52,0:22:47.40,ED-En,,0,0,0,,{\fad(200,200)}I always turn around to you and make sure
-Dialogue: 0,0:22:45.79,0:22:51.79,Dubtitles,,0,0,0,,I don't know if you don't know.
+Dialogue: 0,0:22:45.79,0:22:51.79,Dubtitles,,0,0,0,,I don't know if you don't know?
 Dialogue: 1,0:22:49.78,0:22:52.16,ED-Rom,,0,0,0,,{\k15\fad(200,200)}I{\k27}tsu {\k37}da{\k38}tte {\k26}ma{\k22}yo{\k19}wa{\k54}zu
 Dialogue: 1,0:22:49.78,0:22:52.16,ED-En,,0,0,0,,{\fad(200,200)}Because no matter how I am,
 Dialogue: 0,0:22:51.87,0:22:54.37,Dubtitles,,0,0,0,,I'm sure you don't know.
 Dialogue: 1,0:22:52.16,0:23:02.33,ED-Rom,,0,0,0,,{\k28\fad(200,200)}Ki{\k18}mi {\k38}wa {\k43}ki{\k43}tto {\k63}don{\k19}na {\k20}bo{\k21}ku {\k26}mo {\k54}oi{\k61}ka{\k64}ke{\k161}te {\k27}ku{\k14}re{\k65}ru {\k61}ka{\k192}ra
 Dialogue: 1,0:22:52.16,0:23:02.33,ED-En,,0,0,0,,{\fad(200,200)}I believe you'd always chase after me without any hesitation
 Dialogue: 0,0:22:54.45,0:22:58.65,Dubtitles,,0,0,0,,I don't know if I can tell you!
-Dialogue: 0,0:22:59.87,0:23:05.31,Dubtitles,,0,0,0,,I can tell you.
+Dialogue: 0,0:22:59.87,0:23:05.23,Dubtitles,,0,0,0,,I can tell you.
 Dialogue: 1,0:23:02.96,0:23:15.47,ED-Rom,,0,0,0,,{\k35\fad(200,200)}Ji{\k23}tto {\k18}mi{\k22}tsu{\k21}me{\k81}ta {\k80}ki{\k84}mi {\k74}no {\k112}hi{\k22}to{\k24}mi {\k97}ni {\k16}u{\k44}tsu{\k23}tta {\k38}bo{\k26}ku {\k56}ga {\k22}i{\k61}ki{\k17}ta {\k42}shi{\k21}ru{\k191}shi
 Dialogue: 1,0:23:02.96,0:23:15.47,ED-En,,0,0,0,,{\fad(200,200)}When I gazed at your eyes, I saw the proof that I've lived
+Dialogue: 0,0:23:05.31,0:23:12.11,Dubtitles,,0,0,0,,And I'll see
+Dialogue: 0,0:23:12.19,0:23:14.69,Dubtitles,,0,0,0,,you next time.
 Dialogue: 1,0:23:16.43,0:23:22.48,ED-Rom,,0,0,0,,{\k29\fad(200,200)}Na{\k15}n{\k21}do {\k20}mo {\k82}to{\k82}gi{\k74}re {\k90}sou{\k102}na {\k23}ko{\k26}do{\k38}u
 Dialogue: 1,0:23:16.43,0:23:22.48,ED-En,,0,0,0,,{\fad(200,200)}Whenever my heartbeat was about to stop,
 Dialogue: 1,0:23:22.48,0:23:26.65,ED-Rom,,0,0,0,,{\k60\fad(200,200)}Tsu{\k22}yo{\k37}ku {\k22}tsu{\k40}yo{\k21}ku {\k41}na{\k16}ra{\k27}shi{\k130}ta
