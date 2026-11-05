@@ -31,26 +31,27 @@ as a draft.
 
 ## What's here
 
-As of 2026-10-07: **970 episodes across 14 shows**, all unreviewed. New episodes and
-shows are added automatically as DubTitlerr finishes them, so this table is a snapshot;
-`manifest/` is the authoritative list.
+<!-- shows-table:start -->
+Last updated 2026-11-05: **1074 episodes across 15 shows**, all unreviewed. Episodes and shows are added automatically as DubTitlerr finishes them, and this table is rebuilt from `manifest/` with each update. `manifest/` has the full per-episode list.
 
 | Show | Episodes |
 | --- | ---: |
 | One Pace | 497 |
 | JoJo's Bizarre Adventure (2012) | 195 |
+| Digimon Digital Monsters (1999) | 103 |
 | Sword Art Online (2012) | 98 |
 | Reborn as a Vending Machine, I Now Wander the Dungeon (2023) | 36 |
 | Trigun (1998) | 27 |
 | JUJUTSU KAISEN (2020) | 24 |
 | Chained Soldier (2024) | 14 |
 | JoJo's Bizarre Adventure (1993) | 13 |
+| Akiba Maid War (2022) | 12 |
 | I Parry Everything (2024) | 12 |
 | I'm in Love With the Villainess (2023) | 12 |
 | MARRIAGETOXIN (2026) | 12 |
-| Akiba Maid War (2022) | 11 |
 | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout (2022) | 11 |
 | Chainsmoker Cat (2026) | 8 |
+<!-- shows-table:end -->
 
 Show folders carry the show's TheTVDB id (for example `Trigun (1998) {tvdb-77680}`)
 except One Pace, which has none.
