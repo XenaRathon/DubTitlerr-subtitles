@@ -26,7 +26,7 @@ Style: Typeset things,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,0,0
 Style: Karaoke,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
 Style: Translation,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,15,15,25,1
 Style: Dummy,Duality,105,&H00B35679,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -26156,7 +26156,6 @@ Dialogue: 1,0:00:28.48,0:00:28.53,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-124,-74,
 Dialogue: 1,0:00:28.48,0:00:28.53,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-84,-34,216,716)\an7\pos(973.72,1027.66)\frz46.45\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:28.48,0:00:28.53,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-44,6,256,756)\an7\pos(914.95,1030.13)\frz318.63\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:00:28.48,0:00:28.53,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-4,46,296,796)\an7\pos(911.59,990.67)\frz357.96\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
-Dialogue: 0,0:00:28.49,0:00:30.39,Dubtitles,,0,0,0,,I don't know. Shout it.
 Dialogue: 1,0:00:28.53,0:00:28.57,Karaoke,,0,0,0,fx,{\fad(255,0,255,-766,-716,-466,34)\an7\pos(886.50,142.42)\frz192.10\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:00:28.53,0:00:28.57,Karaoke,,0,0,0,fx,{\fad(255,0,255,-726,-676,-426,74)\an7\pos(1060.40,-2.76)\frz264.63\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:28.53,0:00:28.57,Karaoke,,0,0,0,fx,{\fad(255,0,255,-686,-636,-386,114)\an7\pos(910.94,107.00)\frz131.51\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
@@ -47230,6 +47229,7 @@ Dialogue: 1,0:00:47.67,0:00:47.71,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-110,-60,
 Dialogue: 1,0:00:47.67,0:00:47.71,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-70,-20,230,730)\an7\pos(960.26,1011.77)\frz25.84\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:47.67,0:00:47.71,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-30,20,270,770)\an7\pos(944.93,1022.61)\frz102.71\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:47.67,0:00:47.71,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,10,60,310,810)\an7\pos(914.74,1000.81)\frz335.69\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
+Dialogue: 0,0:00:47.69,0:00:48.97,Dubtitles,,0,0,0,,David's over.
 Dialogue: 1,0:00:47.71,0:00:47.75,Karaoke,,0,0,0,fx,{\fad(255,0,255,-632,-582,-332,168)\an7\pos(732.12,45.20)\frz1.72\bord0\blur1\1c&HCFC9F8&\p1}m -12.58 15.76 b -14.02 -9.8 4.2 -20.01 5.07 -1.72 12.08 -4.8 12.14 7.77 3.87 17.71 3.02 6.01 -6.89 7.95 -12.54 15.95
 Dialogue: 1,0:00:47.71,0:00:47.75,Karaoke,,0,0,0,fx,{\fad(255,0,255,-632,-582,-332,168)\an7\pos(800.86,115.15)\frz105.43\bord0\blur1\1c&HCFC9F8&\p1}m -12.58 15.76 b -14.02 -9.8 4.2 -20.01 5.07 -1.72 12.08 -4.8 12.14 7.77 3.87 17.71 3.02 6.01 -6.89 7.95 -12.54 15.95
 Dialogue: 1,0:00:47.71,0:00:47.75,Karaoke,,0,0,0,fx,{\fad(255,0,255,-632,-582,-332,168)\an7\pos(818.68,81.61)\frz266.98\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -49300,6 +49300,7 @@ Dialogue: 1,0:00:49.05,0:00:49.09,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-107,-57,
 Dialogue: 1,0:00:49.05,0:00:49.09,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-67,-17,233,733)\an7\pos(944.10,1009.86)\frz7.94\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:49.05,0:00:49.09,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-27,23,273,773)\an7\pos(963.28,1020.33)\frz253.54\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:00:49.05,0:00:49.09,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,13,63,313,813)\an7\pos(922.20,1008.38)\frz20.92\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
+Dialogue: 0,0:00:49.05,0:00:49.93,Dubtitles,,0,0,0,,No Hanover.
 Dialogue: 1,0:00:49.09,0:00:49.13,Karaoke,,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1092.07,258.72)\frz54.41\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:00:49.09,0:00:49.13,Karaoke,,0,0,0,fx,{\fad(255,0,255,-728,-678,-428,72)\an7\pos(1169.64,248.91)\frz345.79\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:49.09,0:00:49.13,Karaoke,,0,0,0,fx,{\fad(255,0,255,-628,-578,-328,172)\an7\pos(913.65,39.15)\frz421.52\bord0\blur1\1c&H9389F2&\p1}m -5.65 14.64 b -16.24 2.62 -2.06 -14.69 1.07 -8.71 15.15 0.35 5.1 8.06 4.6 13.83 4.62 12.48 4.59 8.22 -5.73 14.59
@@ -61016,6 +61017,7 @@ Dialogue: 1,0:00:58.89,0:00:58.93,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-130,-80,
 Dialogue: 1,0:00:58.89,0:00:58.93,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-90,-40,210,710)\an7\pos(1386.23,985.68)\frz323.01\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:00:58.89,0:00:58.93,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-50,0,250,750)\an7\pos(1393.57,1025.99)\frz363.18\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:58.89,0:00:58.93,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-10,40,290,790)\an7\pos(1384.28,1036.63)\frz23.57\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
+Dialogue: 0,0:00:58.91,0:01:02.31,Dubtitles,,0,0,0,,Me, yeah, yeah, yeah, yeah.
 Dialogue: 1,0:00:58.93,0:00:58.97,Karaoke,,0,0,0,fx,{\fad(255,0,255,-781,-731,-481,19)\an7\pos(882.44,24.13)\frz72.09\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:00:58.93,0:00:58.97,Karaoke,,0,0,0,fx,{\fad(255,0,255,-741,-691,-441,59)\an7\pos(962.51,-4.13)\frz77.68\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:00:58.93,0:00:58.97,Karaoke,,0,0,0,fx,{\fad(255,0,255,-701,-651,-401,99)\an7\pos(1036.57,-2.63)\frz303.71\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
@@ -68491,6 +68493,7 @@ Dialogue: 1,0:01:05.81,0:01:05.86,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-133,-83,
 Dialogue: 1,0:01:05.81,0:01:05.86,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-93,-43,207,707)\an7\pos(657.66,1004.50)\frz265.93\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:05.81,0:01:05.86,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-53,-3,247,747)\an7\pos(708.38,992.40)\frz234.30\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:01:05.81,0:01:05.86,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-13,37,287,787)\an7\pos(690.55,1020.05)\frz301.08\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
+Dialogue: 0,0:01:05.85,0:01:07.49,Dubtitles,,0,0,0,,yeah yeah
 Dialogue: 1,0:01:05.86,0:01:05.90,Karaoke,,0,0,0,fx,{\fad(255,0,255,-785,-735,-485,15)\an7\pos(655.18,158.31)\frz314.55\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:05.86,0:01:05.90,Karaoke,,0,0,0,fx,{\fad(255,0,255,-785,-735,-485,15)\an7\pos(711.78,31.18)\frz141.72\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:01:05.86,0:01:05.90,Karaoke,,0,0,0,fx,{\fad(255,0,255,-785,-735,-485,15)\an7\pos(725.82,56.35)\frz275.74\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
@@ -80067,6 +80070,7 @@ Dialogue: 1,0:01:15.62,0:01:15.66,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-115,-65,
 Dialogue: 1,0:01:15.62,0:01:15.66,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-75,-25,225,725)\an7\pos(948.23,1018.41)\frz238.09\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:15.62,0:01:15.66,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-35,15,265,765)\an7\pos(907.86,985.01)\frz82.30\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:15.62,0:01:15.66,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,5,55,305,805)\an7\pos(930.12,1034.59)\frz327.12\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
+Dialogue: 0,0:01:15.65,0:01:17.05,Dubtitles,,0,0,0,,yeah
 Dialogue: 1,0:01:15.66,0:01:15.70,Karaoke,,0,0,0,fx,{\fad(255,0,255,-787,-737,-487,13)\an7\pos(719.65,-35.89)\frz346.00\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:15.66,0:01:15.70,Karaoke,,0,0,0,fx,{\fad(255,0,255,-747,-697,-447,53)\an7\pos(729.33,142.79)\frz94.24\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:15.66,0:01:15.70,Karaoke,,0,0,0,fx,{\fad(255,0,255,-697,-647,-397,103)\an7\pos(799.92,-4.60)\frz195.09\bord0\blur1\1c&H9389F2&\p1}m 7.33 24.99 b 10.42 11.01 -2.75 12.49 -12.03 -3.67 -17.9 -14.02 -3.19 -24.83 3.13 -18.47 11.36 -8.86 18.04 12.65 8.4 24.63
@@ -82547,6 +82551,7 @@ Dialogue: 1,0:01:17.78,0:01:17.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-124,-74,
 Dialogue: 1,0:01:17.78,0:01:17.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-84,-34,216,716)\an7\pos(1399.38,1018.88)\frz269.02\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:17.78,0:01:17.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-44,6,256,756)\an7\pos(1380.02,1004.13)\frz7.38\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:01:17.78,0:01:17.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-4,46,296,796)\an7\pos(1389.02,1041.19)\frz267.82\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
+Dialogue: 0,0:01:17.79,0:01:19.71,Dubtitles,,0,0,0,,I'll take a deep breath.
 Dialogue: 1,0:01:17.83,0:01:17.87,Karaoke,,0,0,0,fx,{\fad(255,0,255,-775,-725,-475,25)\an7\pos(1204.67,168.83)\frz438.27\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:17.83,0:01:17.87,Karaoke,,0,0,0,fx,{\fad(255,0,255,-725,-675,-425,75)\an7\pos(1174.17,45.91)\frz364.46\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:17.83,0:01:17.87,Karaoke,,0,0,0,fx,{\fad(255,0,255,-725,-675,-425,75)\an7\pos(1321.42,62.77)\frz179.95\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
@@ -84705,7 +84710,7 @@ Dialogue: 1,0:01:19.79,0:01:19.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-76,-26,2
 Dialogue: 1,0:01:19.79,0:01:19.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-76,-26,224,724)\an7\pos(1149.08,1006.67)\frz51.46\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:19.79,0:01:19.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-36,14,264,764)\an7\pos(1158.31,986.45)\frz214.65\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:19.79,0:01:19.83,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,4,54,304,804)\an7\pos(1136.44,996.19)\frz53.96\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
-Dialogue: 0,0:01:19.79,0:01:22.19,Dubtitles,,0,0,0,,Dreaming on!
+Dialogue: 0,0:01:19.79,0:01:21.43,Dubtitles,,0,0,0,,I'll
 Dialogue: 1,0:01:19.83,0:01:19.87,Karaoke,,0,0,0,fx,{\fad(255,0,255,-797,-747,-497,3)\an7\pos(793.70,59.77)\frz216.99\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:19.83,0:01:19.87,Karaoke,,0,0,0,fx,{\fad(255,0,255,-797,-747,-497,3)\an7\pos(811.22,118.20)\frz357.07\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:19.83,0:01:19.87,Karaoke,,0,0,0,fx,{\fad(255,0,255,-797,-747,-497,3)\an7\pos(940.12,89.56)\frz30.52\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -86574,6 +86579,7 @@ Dialogue: 1,0:01:21.50,0:01:21.54,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-126,-76,
 Dialogue: 1,0:01:21.50,0:01:21.54,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-86,-36,214,714)\an7\pos(1404.50,1014.09)\frz343.43\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:21.50,0:01:21.54,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-46,4,254,754)\an7\pos(1418.38,982.50)\frz216.59\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:21.50,0:01:21.54,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-6,44,294,794)\an7\pos(1363.19,1038.77)\frz189.22\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
+Dialogue: 0,0:01:21.51,0:01:28.43,Dubtitles,,0,0,0,,take a deep breath.
 Dialogue: 1,0:01:21.54,0:01:21.58,Karaoke,,0,0,0,fx,{\fad(255,0,255,-787,-737,-487,13)\an7\pos(1153.63,132.74)\frz34.06\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:21.54,0:01:21.58,Karaoke,,0,0,0,fx,{\fad(255,0,255,-747,-697,-447,53)\an7\pos(1049.60,282.67)\frz236.17\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:21.54,0:01:21.58,Karaoke,,0,0,0,fx,{\fad(255,0,255,-707,-657,-407,93)\an7\pos(1217.63,48.28)\frz227.27\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
@@ -88006,7 +88012,6 @@ Dialogue: 1,0:01:22.91,0:01:22.96,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-304,-254
 Dialogue: 1,0:01:22.91,0:01:22.96,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-264,-214,36,536)\an7\pos(1384.65,1117.93)\frz115.72\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:01:22.91,0:01:22.96,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-224,-174,76,576)\an7\pos(1291.66,1006.81)\frz115.38\bord0\blur1\1c&HCFC9F8&\p1}m 6.69 24.48 b 9.1 10.6 -2.72 11.15 -11.39 -3.92 -16.27 -13.31 -2.78 -23.2 3.2 -16.87 11.03 -7.8 17.37 12.43 7.7 24.13
 Dialogue: 1,0:01:22.91,0:01:22.96,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-184,-134,116,616)\an7\pos(1324.22,1075.76)\frz207.58\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
-Dialogue: 0,0:01:22.95,0:01:31.67,Dubtitles,,0,0,0,,Whoa!
 Dialogue: 1,0:01:22.96,0:01:23.00,Karaoke,,0,0,0,fx,{\fad(255,0,255,-785,-735,-485,15)\an7\pos(1467.98,108.11)\frz205.82\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:22.96,0:01:23.00,Karaoke,,0,0,0,fx,{\fad(255,0,255,-745,-695,-445,55)\an7\pos(1125.43,158.63)\frz41.36\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:22.96,0:01:23.00,Karaoke,,0,0,0,fx,{\fad(255,0,255,-705,-655,-405,95)\an7\pos(1391.29,185.02)\frz398.74\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -88237,25 +88242,22 @@ Dialogue: 1,0:01:23.50,0:01:23.54,Karaoke,,0,0,0,fx,{\fad(255,0,255,-768,-718,-4
 Dialogue: 1,0:01:23.50,0:01:23.54,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1213.93,1177.27)\frz211.49\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 3,0:01:31.92,0:01:38.31,Title-207+,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(734,734)}Remnants{02:24}
 Dialogue: 2,0:01:31.92,0:01:38.31,Title-207+,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(734,734)\t(693,734,\1a&H00&)\t(5656,5698,\1a&HFF&}Remnants{02:24}
-Dialogue: 0,0:01:35.01,0:01:38.27,Dubtitles,,0,0,0,,Have I made myself clear, Perona?
-Dialogue: 0,0:01:38.41,0:01:40.71,Dubtitles,,0,0,0,,I decided on this alliance myself.
-Dialogue: 0,0:01:41.07,0:01:43.19,Dubtitles,,0,0,0,,It is not your place to disapprove.
-Dialogue: 0,0:01:43.41,0:01:44.79,Dubtitles,,0,0,0,,I'm concerned, Mama.
-Dialogue: 0,0:01:45.39,0:01:47.91,Dubtitles,,0,0,0,,Just wary of anything\Nthat might jeopardize
-Dialogue: 0,0:01:47.99,0:01:50.64,Dubtitles,,0,0,0,,your chances of becoming\NKing of the Pirates.
-Dialogue: 0,0:01:51.55,0:01:57.37,Dubtitles,,0,0,0,,You think I'm stupid enough to walk into\Na trap? Have some faith, unless I've
-Dialogue: 0,0:01:57.45,0:02:04.11,Dubtitles,,0,0,0,,lost the trust of my own family of\Ncourse not my concerns were unfounded
-Dialogue: 0,0:02:04.19,0:02:10.39,Dubtitles,,0,0,0,,well that's that a shame Patty\NSpeed it looks like our short-lived
-Dialogue: 0,0:02:10.47,0:02:16.13,Dubtitles,,0,0,0,,partnership has come to an end already\Nlickety split i suppose we're back to
-Dialogue: 0,0:02:17.31,0:02:18.14,Dubtitles,,0,0,0,,being enemies.
-Dialogue: 0,0:02:18.22,0:02:21.07,Dubtitles,,0,0,0,,Marco, I thought you\Nwere better than this.
-Dialogue: 0,0:02:21.23,0:02:23.29,Dubtitles,,0,0,0,,Why are you siding with those young
-Dialogue: 0,0:02:23.83,0:02:24.66,Dubtitles,,0,0,0,,punks?
-Dialogue: 0,0:02:24.74,0:02:29.23,Dubtitles,,0,0,0,,So much for Whitebeard's legacy, if\Nthe remnants have all lost their way.
-Dialogue: 0,0:02:29.31,0:02:30.25,Dubtitles,,0,0,0,,I don't see
-Dialogue: 0,0:02:31.85,0:02:34.79,Dubtitles,,0,0,0,,myself as a remnant, and I\Ndoubt the others do as well.
-Dialogue: 0,0:02:34.87,0:02:35.85,Dubtitles,,0,0,0,,You're clueless.
-Dialogue: 0,0:02:35.93,0:02:38.31,Dubtitles,,0,0,0,,Pops will never be forgotten.
+Dialogue: 0,0:01:47.05,0:01:50.70,Dubtitles,,0,0,0,,might jeopardize your chances\Nof becoming King of the Pirates.
+Dialogue: 0,0:01:51.63,0:01:54.93,Dubtitles,,0,0,0,,You think I'm stupid\Nenough to walk into a trap?
+Dialogue: 0,0:01:55.33,0:01:59.31,Dubtitles,,0,0,0,,Have some faith, unless I've\Nlost the trust of my own family.
+Dialogue: 0,0:02:00.83,0:02:02.15,Dubtitles,,0,0,0,,Of course not.
+Dialogue: 0,0:02:02.45,0:02:04.13,Dubtitles,,0,0,0,,My concerns were unfounded.
+Dialogue: 0,0:02:05.83,0:02:07.17,Dubtitles,,0,0,0,,Well, that's that.
+Dialogue: 0,0:02:07.39,0:02:08.27,Dubtitles,,0,0,0,,A shame.
+Dialogue: 0,0:02:08.77,0:02:13.13,Dubtitles,,0,0,0,,Perospero, it looks like our short-lived\Npartnership has come to an end already.
+Dialogue: 0,0:02:13.21,0:02:14.29,Dubtitles,,0,0,0,,Lickety split.
+Dialogue: 0,0:02:14.73,0:02:16.97,Dubtitles,,0,0,0,,I suppose we're back to being enemies.
+Dialogue: 0,0:02:18.51,0:02:21.07,Dubtitles,,0,0,0,,Marco, I thought you\Nwere better than this.
+Dialogue: 0,0:02:21.25,0:02:23.73,Dubtitles,,0,0,0,,Why are you siding with those young punks?
+Dialogue: 0,0:02:24.01,0:02:28.59,Dubtitles,,0,0,0,,So much for Whitebeard's legacy, if\Nthe remnants have all lost their way.
+Dialogue: 0,0:02:29.29,0:02:33.19,Dubtitles,,0,0,0,,I don't see myself as a remnant,\Nand I doubt the others do as well.
+Dialogue: 0,0:02:33.27,0:02:34.33,Dubtitles,,0,0,0,,You're clueless.
+Dialogue: 0,0:02:35.91,0:02:38.31,Dubtitles,,0,0,0,,Pops will never be forgotten.
 Dialogue: 0,0:02:44.09,0:02:47.25,Dubtitles,,0,0,0,,But his voice and his dreams\Ndon't bind us one bit.
 Dialogue: 0,0:02:49.31,0:02:51.43,Dubtitles,,0,0,0,,Those who were left behind are free.
 Dialogue: 0,0:02:52.01,0:02:54.07,Dubtitles,,0,0,0,,I think that's just what he'd want.
@@ -88309,21 +88311,21 @@ Dialogue: 0,0:07:24.53,0:07:26.41,Dubtitles,,0,0,0,,Top of style!
 Dialogue: 0,0:07:31.53,0:07:33.09,Dubtitles,,0,0,0,,River of sea!
 Dialogue: 0,0:07:34.13,0:07:35.31,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:07:41.61,0:07:43.01,Dubtitles,,0,0,0,,Canine!
-Dialogue: 0,0:07:47.13,0:07:49.43,Dubtitles,,0,0,0,,Falling snow sites!
+Dialogue: 0,0:07:47.13,0:07:49.43,Dubtitles,,0,0,0,,Falling snow scythes!
 Dialogue: 0,0:07:54.67,0:07:55.53,Dubtitles,,0,0,0,,Slicing round!
 Dialogue: 0,0:08:09.13,0:08:11.42,Dubtitles,,0,0,0,,Their attacks have nothing like Odin's.
 Dialogue: 0,0:08:11.57,0:08:14.47,Dubtitles,,0,0,0,,They don't possess even a\Nfraction of his strength.
 Dialogue: 0,0:08:14.55,0:08:16.65,Dubtitles,,0,0,0,,How are they able to harm me?
-Dialogue: 0,0:08:18.03,0:08:18.86,Dubtitles,,0,0,0,,Dawn!
+Dialogue: 0,0:08:18.03,0:08:18.86,Dubtitles,,0,0,0,,Kaido!
 Dialogue: 0,0:08:25.27,0:08:26.75,Dubtitles,,0,0,0,,This is it!
 Dialogue: 0,0:08:26.83,0:08:28.21,Dubtitles,,0,0,0,,Face me!
 Dialogue: 0,0:08:28.59,0:08:29.51,Dubtitles,,0,0,0,,Perish!
-Dialogue: 0,0:08:33.27,0:08:34.19,Dubtitles,,0,0,0,,Nope!
+Dialogue: 0,0:08:33.27,0:08:34.19,Dubtitles,,0,0,0,,Nippo!
 Dialogue: 0,0:08:34.61,0:08:35.83,Dubtitles,,0,0,0,,Scrolling Jutsu!
-Dialogue: 0,0:08:45.63,0:08:47.85,Dubtitles,,0,0,0,,My scroll keeps hours off!
+Dialogue: 0,0:08:45.63,0:08:47.85,Dubtitles,,0,0,0,,My scroll keeps rolling!
 Dialogue: 0,0:08:48.23,0:08:49.45,Dubtitles,,0,0,0,,Give me your words!
 Dialogue: 0,0:08:54.53,0:08:55.36,Dubtitles,,0,0,0,,Oh.
-Dialogue: 0,0:09:03.85,0:09:08.49,Dubtitles,,0,0,0,,Now I return it your own\Nfight blast with restoration.
+Dialogue: 0,0:09:03.85,0:09:08.49,Dubtitles,,0,0,0,,Now I return it your own\Nfight blast with restoration
 Dialogue: 0,0:09:45.83,0:09:48.97,Dubtitles,,0,0,0,,You think you have the power to kill me?
 Dialogue: 0,0:09:50.11,0:09:54.09,Dubtitles,,0,0,0,,Letting an old Shatter does not\Nimpart you with its strength.
 Dialogue: 0,0:09:54.53,0:09:58.09,Dubtitles,,0,0,0,,He lifted you up, but now you fall!
@@ -88344,7 +88346,7 @@ Dialogue: 0,0:11:05.67,0:11:06.79,Dubtitles,,0,0,0,,Odin!
 Dialogue: 0,0:11:10.03,0:11:12.37,Dubtitles,,0,0,0,,Two-sword style!
 Dialogue: 0,0:11:13.03,0:11:14.97,Dubtitles,,0,0,0,,What the hell are you doing?
 Dialogue: 0,0:11:17.29,0:11:19.09,Dubtitles,,0,0,0,,This isn't a game!
-Dialogue: 0,0:11:19.33,0:11:20.47,Dubtitles,,0,0,0,,Your words!
+Dialogue: 0,0:11:19.33,0:11:20.47,Dubtitles,,0,0,0,,You words!
 Dialogue: 0,0:11:20.55,0:11:23.43,Dubtitles,,0,0,0,,I'll teach you about you, O2.
 Dialogue: 0,0:11:23.81,0:11:24.75,Dubtitles,,0,0,0,,What do you say?
 Dialogue: 0,0:11:28.19,0:11:29.73,Dubtitles,,0,0,0,,Get back here!
@@ -88381,7 +88383,7 @@ Dialogue: 0,0:14:00.51,0:14:04.17,Dubtitles,,0,0,0,,Someday, the Kozuki samurai 
 Dialogue: 0,0:14:04.53,0:14:06.18,Dubtitles,,0,0,0,,They will save this country.
 Dialogue: 0,0:14:07.87,0:14:10.17,Dubtitles,,0,0,0,,This is a legend that unites the nation.
 Dialogue: 0,0:14:10.25,0:14:14.77,Dubtitles,,0,0,0,,All people, rich or poor, hold it in\Ntheir heart, so that they may carry on.
-Dialogue: 0,0:14:21.05,0:14:25.33,Dubtitles,,0,0,0,,Ah, that's good, but it hits this\Nold man hard. I gotta tell ya.
+Dialogue: 0,0:14:21.05,0:14:25.33,Dubtitles,,0,0,0,,Ah, that's good, but it hits this\Nold man hard, I gotta tell ya.
 Dialogue: 0,0:14:26.21,0:14:28.79,Dubtitles,,0,0,0,,All that stress just melts away.
 Dialogue: 0,0:14:30.31,0:14:33.47,Dubtitles,,0,0,0,,Yes, it really feels\Njust like the old days.
 Dialogue: 0,0:14:34.41,0:14:36.03,Dubtitles,,0,0,0,,I wish we could go back.
@@ -88398,7 +88400,7 @@ Dialogue: 0,0:15:06.97,0:15:09.53,Dubtitles,,0,0,0,,Then it's a whole year of dr
 Dialogue: 0,0:15:10.01,0:15:11.19,Dubtitles,,0,0,0,,That bastard!
 Dialogue: 0,0:15:12.19,0:15:15.19,Dubtitles,,0,0,0,,As long as Kaido's here,\Nthere's no winning this.
 Dialogue: 0,0:15:15.57,0:15:17.86,Dubtitles,,0,0,0,,At least no one's getting killed today.
-Dialogue: 0,0:15:18.03,0:15:20.21,Dubtitles,,0,0,0,,Hey, I'll drink to that any time.
+Dialogue: 0,0:15:18.03,0:15:20.21,Dubtitles,,0,0,0,,Hey, I'll drink to that any old time.
 Dialogue: 0,0:15:20.85,0:15:24.56,Dubtitles,,0,0,0,,Once Orochi's back might even be\Nmy head on the chopping block.
 Dialogue: 0,0:15:29.69,0:15:31.15,Dubtitles,,0,0,0,,Did you hear the news?
 Dialogue: 0,0:15:31.43,0:15:33.51,Dubtitles,,0,0,0,,The Kozuki clan's back\Nand they're probably out
@@ -88409,18 +88411,19 @@ Dialogue: 0,0:15:40.53,0:15:42.03,Dubtitles,,0,0,0,,Hell yeah! Get this!
 Dialogue: 0,0:15:42.19,0:15:45.39,Dubtitles,,0,0,0,,The samurai brought back powerful\Nwarriors from all over the world.
 Dialogue: 0,0:15:45.47,0:15:49.37,Dubtitles,,0,0,0,,Then they took them to Onigashima\Nto give Kaido and Orochi a beating.
 Dialogue: 0,0:15:49.45,0:15:51.09,Dubtitles,,0,0,0,,And soon, we'll be free!
-Dialogue: 0,0:15:52.63,0:15:56.89,Dubtitles,,0,0,0,,That's one hell of a tall tale, my friend,\Nbut you're alive to dream for today!
-Dialogue: 0,0:15:56.97,0:15:59.37,Dubtitles,,0,0,0,,Ha, ha, ha, ha!
-Dialogue: 0,0:15:59.57,0:16:00.47,Dubtitles,,0,0,0,,Oh, yeah!
-Dialogue: 0,0:16:04.95,0:16:05.78,Dubtitles,,0,0,0,,Anymore!
-Dialogue: 0,0:16:07.89,0:16:08.85,Dubtitles,,0,0,0,,Bear!
-Dialogue: 0,0:16:09.29,0:16:11.19,Dubtitles,,0,0,0,,Aaaaaah! Aaaaaah!
-Dialogue: 0,0:16:13.33,0:16:14.29,Dubtitles,,0,0,0,,Aaaaaah!
-Dialogue: 0,0:16:14.89,0:16:15.72,Dubtitles,,0,0,0,,Don't go!
-Dialogue: 0,0:16:16.97,0:16:18.47,Dubtitles,,0,0,0,,Somebody! Aaaaaah!
-Dialogue: 0,0:16:20.85,0:16:21.81,Dubtitles,,0,0,0,,Aaaaaah!
-Dialogue: 0,0:16:22.53,0:16:23.36,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:16:23.44,0:16:25.05,Dubtitles,,0,0,0,,Don't go anywhere near them!
+Dialogue: 0,0:15:52.63,0:15:56.89,Dubtitles,,0,0,0,,That's one hell of a tall tale, my friend,\Nbut you're alive to dream for today.
+Dialogue: 0,0:15:56.97,0:15:58.25,Dubtitles,,0,0,0,,Ha ha ha!
+Dialogue: 0,0:15:59.07,0:16:00.47,Dubtitles,,0,0,0,,Oh, yeah!
+Dialogue: 0,0:16:04.91,0:16:05.74,Dubtitles,,0,0,0,,Anymore!
+Dialogue: 0,0:16:07.41,0:16:08.24,Dubtitles,,0,0,0,,Brrrrrr!
+Dialogue: 0,0:16:08.95,0:16:09.78,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:16:10.53,0:16:11.36,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:16:12.13,0:16:12.96,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:16:14.85,0:16:15.68,Dubtitles,,0,0,0,,Don't go!
+Dialogue: 0,0:16:16.97,0:16:18.09,Dubtitles,,0,0,0,,Somebody! Ah!
+Dialogue: 0,0:16:19.15,0:16:20.27,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:16:22.47,0:16:23.30,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:16:23.38,0:16:25.05,Dubtitles,,0,0,0,,Don't go anywhere near them!
 Dialogue: 0,0:16:25.13,0:16:26.53,Dubtitles,,0,0,0,,Pull back for now!
 Dialogue: 0,0:16:27.07,0:16:29.01,Dubtitles,,0,0,0,,It's not safe! Stay away!
 Dialogue: 0,0:16:35.91,0:16:37.69,Dubtitles,,0,0,0,,They're all samurai, aren't they?
@@ -88429,11 +88432,11 @@ Dialogue: 0,0:16:40.69,0:16:42.95,Dubtitles,,0,0,0,,I'm guessing this is the pla
 Dialogue: 0,0:16:43.53,0:16:45.63,Dubtitles,,0,0,0,,This disease is incredibly infectious.
 Dialogue: 0,0:16:45.71,0:16:47.63,Dubtitles,,0,0,0,,I can't believe it spread so easily.
 Dialogue: 0,0:16:47.71,0:16:50.77,Dubtitles,,0,0,0,,This is not what medical\Nscience should be used for!
-Dialogue: 0,0:16:50.91,0:16:53.15,Dubtitles,,0,0,0,,You're the real Oni Queen!
-Dialogue: 0,0:16:54.03,0:16:58.33,Dubtitles,,0,0,0,,The seal off the exits to the\Nother floors. Now nothing.
-Dialogue: 0,0:16:58.41,0:17:00.49,Dubtitles,,0,0,0,,but dead men walking in here.
+Dialogue: 0,0:16:50.91,0:16:53.15,Dubtitles,,0,0,0,,You're the real ogre here!
+Dialogue: 0,0:16:54.03,0:16:58.33,Dubtitles,,0,0,0,,Th— lick, seal off the exits to\Nthe other floors! Now, nothing.
+Dialogue: 0,0:16:58.41,0:17:00.49,Dubtitles,,0,0,0,,but dead men walking in here
 Dialogue: 0,0:17:09.21,0:17:11.85,Dubtitles,,0,0,0,,Seems like my masterpiece is a big
-Dialogue: 0,0:17:11.93,0:17:16.51,Dubtitles,,0,0,0,,hit playgrounds boys ice only style.
+Dialogue: 0,0:17:11.93,0:17:16.51,Dubtitles,,0,0,0,,hit playgrounds boys ice only style
 Dialogue: 0,0:17:21.63,0:17:23.61,Dubtitles,,0,0,0,,I don't have time for you!
 Dialogue: 1,0:17:21.75,0:17:24.00,Captions-207+,,0,0,0,,{\an8\fnDFGKanTeiRyu-XB-CP\bord3.5\c&HF4F3F4&\blur0.8\fscx65\fscy65\fad(520,0)\pos(1663,525)\3c&HF4F3F4&\1a&HFF&\t(478,520,\1a&H00&)}1st Basement Level\N\NInside the Castle
 Dialogue: 2,0:17:21.75,0:17:24.00,Captions-207+,,0,0,0,,{\an8\fnDFGKanTeiRyu-XB-CP\bord0\c&H000000&\blur0.8\fscx65\fscy65\fad(520,0)\pos(1663,525)}1st Basement Level\N\NInside the Castle
@@ -88443,19 +88446,19 @@ Dialogue: 0,0:17:32.69,0:17:34.19,Dubtitles,,0,0,0,,Just cool it a sec.
 Dialogue: 0,0:17:34.55,0:17:35.85,Dubtitles,,0,0,0,,We don't have time!
 Dialogue: 0,0:17:36.23,0:17:38.85,Dubtitles,,0,0,0,,All this is pointless\Nif you can't beat Kaido.
 Dialogue: 0,0:17:38.93,0:17:40.83,Dubtitles,,0,0,0,,So save your strength, okay?
-Dialogue: 0,0:17:41.37,0:17:44.23,Dubtitles,,0,0,0,,I bet we'll get promoted if\Nwe take Straw Hat's hand!
+Dialogue: 0,0:17:41.37,0:17:44.23,Dubtitles,,0,0,0,,I bet we'll get promoted if\Nwe take Straw Hat's head!
 Dialogue: 0,0:17:44.31,0:17:45.19,Dubtitles,,0,0,0,,Hey, hell yeah!
 Dialogue: 0,0:17:45.39,0:17:47.07,Dubtitles,,0,0,0,,Take out Fancy Browse first!
 Dialogue: 0,0:17:48.05,0:17:49.21,Dubtitles,,0,0,0,,Let's do it!
 Dialogue: 0,0:17:49.59,0:17:51.63,Dubtitles,,0,0,0,,I'll finish you all in one shot.
 Dialogue: 0,0:17:51.81,0:17:54.34,Dubtitles,,0,0,0,,You idiots have no idea\Nwhat you're in for.
 Dialogue: 0,0:18:00.31,0:18:02.19,Dubtitles,,0,0,0,,Party table kick course!
-Dialogue: 0,0:18:18.89,0:18:24.55,Dubtitles,,0,0,0,,How dare you! You're gonna pay for\Ntreating my men like that, you punks.
+Dialogue: 0,0:18:18.89,0:18:24.55,Dubtitles,,0,0,0,,How dare you! You're gonna pay for\Ntreating my men like that, you punks!
 Dialogue: 0,0:18:24.63,0:18:30.69,Dubtitles,,0,0,0,,aren't taking another step prepare\Nyourselves cuz I'm gonna wreck ya
 Dialogue: 1,0:18:30.78,0:18:34.61,Captions-207+,,0,0,0,,{\pos(990,325)\bord4\blur3\c&HEBEAEB&\3c&HEBEAEB&\fscx150\fscy150\fnIwata Mincho Old Pro H Strp}Headliner Briscola\N{\bord4\fscx125\fscy125\fnRoboto\b1}Gorilla Smile Fruit\N{\bord3.5\fscx125\fscy125\fnVAG Rounded Std Light\b0}Beast Pirates
 Dialogue: 2,0:18:30.78,0:18:34.61,Captions-207+,,0,0,0,,{\pos(990,325)\bord0\blur0.8\c&H060608&\fscx150\fscy150\fnIwata Mincho Old Pro H Strp}Headliner Briscola\N{\fscx125\fscy125\fnRoboto\b1}Gorilla Smile Fruit\N{\fscx125\fscy125\fnVAG Rounded Std Light\b0}Beast Pirates
 Dialogue: 0,0:18:35.49,0:18:41.43,Dubtitles,,0,0,0,,is that a arm gorilla that's\Nmessed up what you got
-Dialogue: 0,0:18:41.51,0:18:46.09,Dubtitles,,0,0,0,,Something to say, all right. If I\Ndon't like my Alabasta, harm, wise guy!
+Dialogue: 0,0:18:41.51,0:18:46.09,Dubtitles,,0,0,0,,Something to say? All right. If I\Ndon't like my gorilla harmed, wise guy!
 Dialogue: 0,0:18:48.25,0:18:50.67,Dubtitles,,0,0,0,,Then where should the gorilla be?
 Dialogue: 0,0:18:52.29,0:18:53.59,Dubtitles,,0,0,0,,I don't know!
 Dialogue: 0,0:18:56.57,0:18:58.47,Dubtitles,,0,0,0,,Gorilla Punch Punch!
@@ -88487,7 +88490,7 @@ Dialogue: 0,0:20:23.61,0:20:25.38,Dubtitles,,0,0,0,,I bet we could do it in thre
 Dialogue: 0,0:20:26.31,0:20:28.87,Dubtitles,,0,0,0,,Hey, you two are supposed\Nto be fighting me.
 Dialogue: 0,0:20:28.95,0:20:29.78,Dubtitles,,0,0,0,,Pay attention.
 Dialogue: 0,0:20:31.47,0:20:32.93,Dubtitles,,0,0,0,,I'm ready for round two.
-Dialogue: 0,0:20:33.01,0:20:35.01,Dubtitles,,0,0,0,,Tastes like Gorilla Punch!
+Dialogue: 0,0:20:33.01,0:20:35.01,Dubtitles,,0,0,0,,Gorilla Punch Punch!
 Dialogue: 0,0:20:37.01,0:20:38.30,Dubtitles,,0,0,0,,That's enough of that!
 Dialogue: 0,0:20:38.51,0:20:40.65,Dubtitles,,0,0,0,,Fishman Karate! Shark Tile Fist!
 Dialogue: 0,0:20:59.53,0:21:01.37,Dubtitles,,0,0,0,,General Briscola!
@@ -88795,13 +88798,13 @@ Dialogue: 0,0:22:18.95,0:22:20.07,Dubtitles,,0,0,0,,Good enough for me.
 Dialogue: 0,0:22:21.89,0:22:23.03,Dubtitles,,0,0,0,,This is King.
 Dialogue: 0,0:22:23.57,0:22:27.67,Dubtitles,,0,0,0,,We now know the identities of those\Nimbeciles who crashed the banquet.
 Dialogue: 0,0:22:27.75,0:22:30.19,Dubtitles,,0,0,0,,They have roughly 5,400 soldiers.
-Dialogue: 0,0:22:30.33,0:22:35.61,Dubtitles,,0,0,0,,soldiers most of them seem to be samurai,\Ntheir forces are led by odin's retainers.
-Dialogue: 0,0:22:35.69,0:22:38.51,Dubtitles,,0,0,0,,their objective is clear:
-Dialogue: 0,0:22:38.59,0:22:43.91,Dubtitles,,0,0,0,,this is a plot to restore the kozuki
-Dialogue: 0,0:22:43.99,0:22:46.99,Dubtitles,,0,0,0,,clans of power to transform the nation.
-Dialogue: 0,0:22:49.43,0:22:50.63,Dubtitles,,0,0,0,,in other words,
-Dialogue: 0,0:22:50.71,0:22:56.55,Dubtitles,,0,0,0,,they want to make odin's son kozuki\Nmomonosuke the shogun of the land of wano!
-Dialogue: 0,0:22:56.63,0:23:02.23,Dubtitles,,0,0,0,,No, all gifters in Tobiropo who are not\Nlocked in combat, you have a new mission.
+Dialogue: 0,0:22:30.33,0:22:32.67,Dubtitles,,0,0,0,,soldiers most of them seem to be samurai
+Dialogue: 0,0:22:32.75,0:22:37.49,Dubtitles,,0,0,0,,their forces are led by\Nodin's retainers their
+Dialogue: 0,0:22:37.57,0:22:43.29,Dubtitles,,0,0,0,,objective is clear this\Nis a plot to restore
+Dialogue: 0,0:22:43.37,0:22:46.99,Dubtitles,,0,0,0,,the kozuki clans of power\Nto transform the nation
+Dialogue: 0,0:22:49.43,0:22:53.47,Dubtitles,,0,0,0,,in other words they want\Nto make odin's son kozuki
+Dialogue: 0,0:22:53.55,0:22:56.73,Dubtitles,,0,0,0,,momonosuke the shogun\Nof the land of wano No,
+Dialogue: 0,0:22:57.19,0:23:02.23,Dubtitles,,0,0,0,,All Gifters and Tobiropo who are not\Nlocked in combat, you have a new mission.
 Dialogue: 0,0:23:04.11,0:23:07.40,Dubtitles,,0,0,0,,Kozuki Momonosuke is currently\Nin the right brain tower.
 Dialogue: 0,0:23:07.87,0:23:10.29,Dubtitles,,0,0,0,,Find him and bring his head to me.
 Dialogue: 0,0:23:11.29,0:23:14.00,Dubtitles,,0,0,0,,That'll take all the\Nfight out of the samurai.
@@ -88821,7 +88824,7 @@ Dialogue: 0,0:24:16.25,0:24:17.31,Dubtitles,,0,0,0,,Huh? Huh?
 Dialogue: 0,0:24:26.63,0:24:27.99,Dubtitles,,0,0,0,,Just a knife?
 Dialogue: 0,0:24:28.13,0:24:29.84,Dubtitles,,0,0,0,,Against the Armored Division?
 Dialogue: 0,0:24:29.97,0:24:31.41,Dubtitles,,0,0,0,,Don't make me laugh!
-Dialogue: 0,0:24:39.33,0:24:40.16,Dubtitles,,0,0,0,,Shirabu!
+Dialogue: 0,0:24:39.33,0:24:40.16,Dubtitles,,0,0,0,,Shinobu!
 Dialogue: 0,0:24:40.24,0:24:41.07,Dubtitles,,0,0,0,,I'll be fine.
 Dialogue: 0,0:24:41.23,0:24:42.47,Dubtitles,,0,0,0,,Stay hidden, my lord.
 Dialogue: 0,0:24:44.47,0:24:46.11,Dubtitles,,0,0,0,,You're brave, at least.
@@ -88834,7 +88837,7 @@ Dialogue: 0,0:25:16.41,0:25:18.67,Dubtitles,,0,0,0,,Shinobu?
 Dialogue: 0,0:25:20.55,0:25:22.37,Dubtitles,,0,0,0,,I'll kill you both!
 Dialogue: 0,0:25:22.87,0:25:25.03,Dubtitles,,0,0,0,,Right here, right now!
 Dialogue: 0,0:25:25.11,0:25:28.13,Dubtitles,,0,0,0,,That tiny weapon won't be enough!
-Dialogue: 0,0:25:30.67,0:25:31.73,Dubtitles,,0,0,0,,Dawn, no!
+Dialogue: 0,0:25:30.67,0:25:31.73,Dubtitles,,0,0,0,,Tino, no!
 Dialogue: 0,0:25:39.27,0:25:42.15,Dubtitles,,0,0,0,,Please run away, Lord Momonosuke!
 Dialogue: 0,0:25:43.75,0:25:44.58,Dubtitles,,0,0,0,,Run away?
 Dialogue: 0,0:25:44.66,0:25:45.67,Dubtitles,,0,0,0,,Is that right?

@@ -11,48 +11,36 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.12,Default,,0,0,0,,We will move through Earth's horizon.
-Dialogue: 0,0:00:03.20,0:00:06.26,Default,,0,0,0,,We will find infinity for sure.
-Dialogue: 0,0:00:06.34,0:00:13.14,Default,,0,0,0,,Let's fight for this blue sea and\Nlet the wind take us far away.
-Dialogue: 0,0:00:13.22,0:00:20.10,Default,,0,0,0,,Don't give up.
-Dialogue: 0,0:00:20.18,0:00:22.94,Default,,0,0,0,,So I can come back to this moment.
-Dialogue: 0,0:00:23.02,0:00:26.08,Default,,0,0,0,,So I can be present right here.
-Dialogue: 0,0:00:26.16,0:00:28.70,Default,,0,0,0,,Throw away this drop.
-Dialogue: 0,0:00:28.78,0:00:30.18,Default,,0,0,0,,Sometimes we share.
-Dialogue: 0,0:00:30.26,0:00:31.26,Default,,0,0,0,,Shut it up.
-Dialogue: 0,0:00:31.34,0:00:34.24,Default,,0,0,0,,Do not be so afraid to podcast.
-Dialogue: 0,0:00:34.32,0:00:36.94,Default,,0,0,0,,To have a friend right here.
-Dialogue: 0,0:00:37.02,0:00:40.32,Default,,0,0,0,,And I will always be here by your side.
-Dialogue: 0,0:00:40.40,0:00:42.90,Default,,0,0,0,,To take care of you.
-Dialogue: 0,0:00:43.72,0:00:46.30,Default,,0,0,0,,Even in the darkest of times.
-Dialogue: 0,0:00:46.38,0:00:47.22,Default,,0,0,0,,I'll try.
-Dialogue: 0,0:00:47.30,0:00:48.84,Default,,0,0,0,,Look and breathe it out.
-Dialogue: 0,0:00:48.92,0:00:50.30,Default,,0,0,0,,It's alright now.
-Dialogue: 0,0:00:50.38,0:00:54.02,Default,,0,0,0,,Cause we are the ones who\Nare meant to move them up.
-Dialogue: 0,0:00:54.10,0:00:56.74,Default,,0,0,0,,We will move to our single horizon.
-Dialogue: 0,0:00:56.82,0:00:59.84,Default,,0,0,0,,We will find insanity for sure.
-Dialogue: 0,0:00:59.92,0:01:02.54,Default,,0,0,0,,We're a world for our heads.
-Dialogue: 0,0:01:02.62,0:01:04.46,Default,,0,0,0,,We will win for sure.
-Dialogue: 0,0:01:04.54,0:01:05.50,Default,,0,0,0,,Dreaming. On.
-Dialogue: 0,0:01:05.58,0:01:07.94,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:01:08.02,0:01:10.86,Default,,0,0,0,,We will fight however we can.
-Dialogue: 0,0:01:10.94,0:01:13.76,Default,,0,0,0,,In order to be the best we will run.
-Dialogue: 0,0:01:13.84,0:01:16.48,Default,,0,0,0,,To the top, to the end.
-Dialogue: 0,0:01:16.56,0:01:22.18,Default,,0,0,0,,We gotta be the ones that\Njust keep dreaming on.
-Dialogue: 0,0:01:23.10,0:01:25.38,Default,,0,0,0,,I just can't give up now.
-Dialogue: 0,0:01:25.46,0:01:28.38,Default,,0,0,0,,I can never stop cause.
-Dialogue: 0,0:01:28.88,0:01:31.62,Default,,0,0,0,,I gotta give everything I got to.
-Dialogue: 0,0:01:31.70,0:01:35.42,Default,,0,0,0,,Become the greatest of all times.
-Dialogue: 0,0:01:36.22,0:01:39.12,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:01:39.20,0:01:41.88,Default,,0,0,0,,We will find infinite portions.
-Dialogue: 0,0:01:41.96,0:01:46.72,Default,,0,0,0,,We will step up and we\Nwill leave for sure.
-Dialogue: 0,0:01:46.80,0:01:48.98,Default,,0,0,0,,So keep moving on.
+Dialogue: 0,0:00:00.00,0:00:03.96,Default,,0,0,0,,We will move through\NEarth's horizon. We will
+Dialogue: 0,0:00:04.04,0:00:08.92,Default,,0,0,0,,Find infinity for sure.\NLet's fight for this blue.
+Dialogue: 0,0:00:09.00,0:00:11.48,Default,,0,0,0,,sea and let the wind Take
+Dialogue: 0,0:00:11.56,0:00:13.14,Default,,0,0,0,,us far away
+Dialogue: 0,0:00:13.22,0:00:19.56,Default,,0,0,0,,Don't give
+Dialogue: 0,0:00:19.64,0:00:24.28,Default,,0,0,0,,up So I can come back\Nto this moment So I can
+Dialogue: 0,0:00:24.36,0:00:28.70,Default,,0,0,0,,be present right here Throw away this drop
+Dialogue: 0,0:00:28.78,0:00:33.54,Default,,0,0,0,,Sometimes we share. Shut it\Nup. Do not be so afraid to
+Dialogue: 0,0:00:33.62,0:00:38.10,Default,,0,0,0,,podcast To have a friend\Nright here And I will
+Dialogue: 0,0:00:38.18,0:00:42.90,Default,,0,0,0,,always be here by your\Nside To take care of you
+Dialogue: 0,0:00:43.72,0:00:47.78,Default,,0,0,0,,Even in the darkest of\Ntimes, I'll try. Look
+Dialogue: 0,0:00:47.86,0:00:50.96,Default,,0,0,0,,And breathe it out. It's\Nalright now. Cause we
+Dialogue: 0,0:00:51.04,0:00:54.46,Default,,0,0,0,,are the ones who are\Nmeant to move them up We
+Dialogue: 0,0:00:54.54,0:00:58.24,Default,,0,0,0,,Will move to our single\Nhorizon. We will find
+Dialogue: 0,0:00:58.32,0:01:02.54,Default,,0,0,0,,Insanity for sure. We're\Nahead for our heads.
+Dialogue: 0,0:01:02.62,0:01:06.50,Default,,0,0,0,,We will win for sure\NDreaming on We will move
+Dialogue: 0,0:01:06.58,0:01:10.86,Default,,0,0,0,,towards the horizon We\Nwill fight however we can
+Dialogue: 0,0:01:10.94,0:01:15.20,Default,,0,0,0,,In order to be the best\Nwe will run To the top,
+Dialogue: 0,0:01:15.58,0:01:22.18,Default,,0,0,0,,to the end We gotta be the\Nones that just keep dreaming on
+Dialogue: 0,0:01:23.10,0:01:28.38,Default,,0,0,0,,I just can't give up now\NI can never stop cause
+Dialogue: 0,0:01:28.88,0:01:35.42,Default,,0,0,0,,I gotta give everything I got to\NBecome the greatest of all times
+Dialogue: 0,0:01:36.22,0:01:41.88,Default,,0,0,0,,We will move towards the horizon\NWe will find infinite portions
+Dialogue: 0,0:01:41.96,0:01:45.76,Default,,0,0,0,,We will step up and we will.
+Dialogue: 0,0:01:45.84,0:01:48.98,Default,,0,0,0,,Leave for sure. So keep moving on.
 Dialogue: 0,0:02:06.76,0:02:09.02,Default,,0,0,0,,All right, we'll leave it to you.
 Dialogue: 0,0:02:09.26,0:02:10.28,Default,,0,0,0,,Please stay safe.
 Dialogue: 0,0:02:10.54,0:02:12.28,Default,,0,0,0,,Do not worry on my behalf.
 Dialogue: 0,0:02:13.74,0:02:15.42,Default,,0,0,0,,I give you my word.
 Dialogue: 0,0:02:15.64,0:02:19.72,Default,,0,0,0,,I will take Lord Yasui and\Nreturn him to where he belongs.
-Dialogue: 0,0:02:19.98,0:02:23.06,Default,,0,0,0,,He will be honorably late in Kuri.
+Dialogue: 0,0:02:19.98,0:02:23.06,Default,,0,0,0,,He will be honorably interred in Kuri.
 Dialogue: 0,0:02:32.52,0:02:34.08,Default,,0,0,0,,Have a safe journey!
 Dialogue: 0,0:02:35.60,0:02:37.16,Default,,0,0,0,,We are so grateful.
 Dialogue: 0,0:02:37.46,0:02:38.36,Default,,0,0,0,,Thank you, sir.
@@ -81,18 +69,13 @@ Dialogue: 0,0:03:42.22,0:03:45.28,Default,,0,0,0,,We're gonna need a genius\Npla
 Dialogue: 0,0:04:07.10,0:04:11.04,Default,,0,0,0,,A curse upon you!
 Dialogue: 0,0:04:14.16,0:04:17.86,Default,,0,0,0,,These poor people are haunted by a ghost!
 Dialogue: 0,0:04:18.24,0:04:20.64,Default,,0,0,0,,Here we go, quickly please!
-Dialogue: 0,0:04:24.68,0:04:26.50,Default,,0,0,0,,Well, somehow that worked.
-Dialogue: 0,0:04:26.58,0:04:29.12,Default,,0,0,0,,How's otoko?
-Dialogue: 0,0:04:29.20,0:04:33.54,Default,,0,0,0,,All tuckered out, exhausted\Nfrom all that crying. I'm sure.
-Dialogue: 0,0:04:36.74,0:04:38.22,Default,,0,0,0,,I feel so bad.
-Dialogue: 0,0:04:38.30,0:04:40.83,Default,,0,0,0,,I want to cheer her\Nup, but what can I say?
-Dialogue: 0,0:04:41.58,0:04:43.28,Default,,0,0,0,,Don't leave me!
-Dialogue: 0,0:04:48.64,0:04:49.82,Default,,0,0,0,,Please, daddy!
-Dialogue: 0,0:04:50.80,0:04:53.44,Default,,0,0,0,,Please, you have to get up!
-Dialogue: 0,0:05:06.94,0:05:07.77,Default,,0,0,0,,Bonkichi!
-Dialogue: 0,0:05:07.85,0:05:09.09,Default,,0,0,0,,Let me take her!
-Dialogue: 0,0:05:09.18,0:05:10.42,Default,,0,0,0,,Your bones are hard!
-Dialogue: 0,0:05:10.50,0:05:11.78,Default,,0,0,0,,and likely cold, too.
+Dialogue: 0,0:04:24.68,0:04:30.48,Default,,0,0,0,,Well somehow that worked.\NHow's Otoko all tuckered?
+Dialogue: 0,0:04:30.56,0:04:33.54,Default,,0,0,0,,out exhausted from all\Nthat crying i'm sure
+Dialogue: 0,0:04:36.74,0:04:40.72,Default,,0,0,0,,i feel so bad i want to cheer\Nher up but what can i say
+Dialogue: 0,0:04:41.58,0:04:43.28,Default,,0,0,0,,Don't leave me.
+Dialogue: 0,0:04:48.64,0:04:49.82,Default,,0,0,0,,Please, daddy.
+Dialogue: 0,0:04:50.80,0:04:53.44,Default,,0,0,0,,Please, you have to get up
+Dialogue: 0,0:05:06.94,0:05:11.78,Default,,0,0,0,,Bonkichi, let me take her. Your\Nbones are hard and likely cold, too.
 Dialogue: 0,0:05:12.80,0:05:14.02,Default,,0,0,0,,How dare you?
 Dialogue: 0,0:05:22.84,0:05:24.50,Default,,0,0,0,,They're not that cold, guys.
 Dialogue: 0,0:05:38.72,0:05:39.55,Default,,0,0,0,,What? What?
@@ -115,8 +98,8 @@ Dialogue: 0,0:06:27.54,0:06:29.66,Default,,0,0,0,,We have Zerfranosuke after all
 Dialogue: 0,0:06:30.84,0:06:35.06,Default,,0,0,0,,This has been a long road, with\Nmany an obstacle along the way.
 Dialogue: 0,0:06:38.72,0:06:40.00,Default,,0,0,0,,But I feel it.
 Dialogue: 0,0:06:40.16,0:06:42.28,Default,,0,0,0,,Freedom for 1-0 is within our sight.
-Dialogue: 0,0:07:03.84,0:07:07.70,Default,,0,0,0,,I thought you took care of Big\NMom. You dipshit, do your damn
-Dialogue: 0,0:07:07.78,0:07:13.34,Default,,0,0,0,,Job, I'm quite certain I knocked\Nthis ship off the waterfall, brother.
+Dialogue: 0,0:07:03.84,0:07:07.70,Default,,0,0,0,,I thought you took care of Big\NMom, you dipshit. Do your damn
+Dialogue: 0,0:07:07.78,0:07:13.34,Default,,0,0,0,,Job. I'm quite certain I knocked\Nthis ship off the waterfall, brother.
 Dialogue: 0,0:07:13.78,0:07:17.34,Default,,0,0,0,,Why did you bring our enemy here? Shut up!
 Dialogue: 0,0:07:17.56,0:07:19.44,Default,,0,0,0,,Our comms were shut off in Udon.
 Dialogue: 0,0:07:19.66,0:07:21.19,Default,,0,0,0,,What was I supposed to do?
@@ -161,39 +144,48 @@ Dialogue: 0,0:09:18.52,0:09:21.29,Default,,0,0,0,,I'm shy around strangers,\Nso 
 Dialogue: 0,0:09:22.88,0:09:26.32,Default,,0,0,0,,I said I would kill you if you came here.
 Dialogue: 0,0:09:26.50,0:09:30.32,Default,,0,0,0,,If you think I came here to die,\Nyou've got another thing coming!
 Dialogue: 0,0:09:47.20,0:09:50.28,Default,,0,0,0,,Oh, my God.
-Dialogue: 0,0:10:24.52,0:10:29.98,Default,,0,0,0,,Two-sword style, 7.20 caliber Phoenix!
+Dialogue: 0,0:10:14.80,0:10:15.98,Default,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:16.54,0:10:17.72,Default,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:18.82,0:10:19.65,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:20.22,0:10:21.40,Default,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:22.42,0:10:23.25,Default,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:25.36,0:10:26.19,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:26.27,0:10:27.10,Default,,0,0,0,,Two-sword style!
+Dialogue: 0,0:10:28.28,0:10:29.96,Default,,0,0,0,,7.20 caliber Phoenix!
+Dialogue: 0,0:10:30.60,0:10:31.43,Default,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:32.86,0:10:33.69,Default,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:34.26,0:10:35.09,Default,,0,0,0,,Grrrr!
 Dialogue: 0,0:10:40.90,0:10:43.52,Default,,0,0,0,,You think fighting one storm will stop me?
-Dialogue: 0,0:10:50.04,0:10:51.34,Default,,0,0,0,,This is ridiculous.
-Dialogue: 0,0:10:51.74,0:10:53.51,Default,,0,0,0,,What is the point of all this?
+Dialogue: 0,0:10:50.04,0:10:51.32,Default,,0,0,0,,This is ridiculous.
+Dialogue: 0,0:10:51.72,0:10:53.49,Default,,0,0,0,,What is the point of all this?
 Dialogue: 0,0:10:53.72,0:10:56.50,Default,,0,0,0,,Are you an ally or are you an enemy?
-Dialogue: 0,0:10:58.54,0:11:00.24,Default,,0,0,0,,Who the hell are you?
-Dialogue: 0,0:11:13.22,0:11:14.82,Default,,0,0,0,,Why do you need all these weapons?
-Dialogue: 0,0:11:14.90,0:11:15.84,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:11:15.92,0:11:17.56,Default,,0,0,0,,Waiting on this bridge\Nin the middle of nowhere?
-Dialogue: 0,0:11:17.64,0:11:21.62,Default,,0,0,0,,Just give me back my sword\Nbefore I have to cut you,
-Dialogue: 0,0:11:21.70,0:11:24.20,Default,,0,0,0,,like you said, one's not a loss for you.
-Dialogue: 0,0:11:24.28,0:11:26.63,Default,,0,0,0,,And it's certainly not worth dying over.
+Dialogue: 0,0:10:58.54,0:11:00.26,Default,,0,0,0,,Who the hell are you?
+Dialogue: 0,0:11:13.24,0:11:15.10,Default,,0,0,0,,Why do you need all these weapons?
+Dialogue: 0,0:11:15.18,0:11:18.94,Default,,0,0,0,,And what are you doing waiting on\Nthis bridge in the middle of nowhere?
+Dialogue: 0,0:11:19.02,0:11:22.08,Default,,0,0,0,,Just give me back my sword\Nbefore I have to cut you.
+Dialogue: 0,0:11:22.30,0:11:27.07,Default,,0,0,0,,Like you said, one's not a loss for you,\Nand it's certainly not worth dying over.
 Dialogue: 0,0:11:40.78,0:11:42.08,Default,,0,0,0,,Not that sword!
-Dialogue: 0,0:11:42.40,0:11:44.80,Default,,0,0,0,,Any other blade I would let you take!
+Dialogue: 0,0:11:42.42,0:11:44.78,Default,,0,0,0,,Any other blade I would let you take!
 Dialogue: 0,0:11:52.88,0:11:55.22,Default,,0,0,0,,Shusui should have never been taken away!
 Dialogue: 0,0:11:55.30,0:11:57.89,Default,,0,0,0,,It's an irreplaceable\Ntreasure to this land!
-Dialogue: 0,0:12:01.26,0:12:02.09,Default,,0,0,0,,Shusui?
-Dialogue: 0,0:12:02.17,0:12:06.17,Default,,0,0,0,,That was the start of Wano's ruin\Nwhen this country lost Shusui!
-Dialogue: 0,0:12:06.26,0:12:09.78,Default,,0,0,0,,It was a crime that enraged\Nour God of the Blade.
-Dialogue: 0,0:12:10.10,0:12:12.66,Default,,0,0,0,,Each region was attacked one by one.
-Dialogue: 0,0:12:12.92,0:12:15.56,Default,,0,0,0,,Then the country was\Nconquered by the enemy!
-Dialogue: 0,0:12:19.70,0:12:21.62,Default,,0,0,0,,He wasn't a god!
-Dialogue: 0,0:12:23.18,0:12:25.06,Default,,0,0,0,,Cease your blasphemy!
-Dialogue: 0,0:12:43.08,0:12:44.84,Default,,0,0,0,,Stop fighting!
-Dialogue: 0,0:13:00.32,0:13:03.54,Default,,0,0,0,,Is this some sort of performance piece?
-Dialogue: 0,0:13:03.62,0:13:07.50,Default,,0,0,0,,Why would a samurai and a monk be\Nfighting each other in the snow?
-Dialogue: 0,0:13:07.82,0:13:12.06,Default,,0,0,0,,It seems you're trying to spare each\Nother's lives rather than end them.
-Dialogue: 0,0:13:12.24,0:13:13.52,Default,,0,0,0,,A fish man?
+Dialogue: 0,0:12:01.28,0:12:02.11,Default,,0,0,0,,Shusui?
+Dialogue: 0,0:12:02.19,0:12:04.21,Default,,0,0,0,,That was the start of Wada's ruin!
+Dialogue: 0,0:12:04.30,0:12:10.50,Default,,0,0,0,,When this country lost Shushui It was a\Ncrime that enraged our god of the blade Each
+Dialogue: 0,0:12:10.58,0:12:14.14,Default,,0,0,0,,region was attacked one\Nby one Then the country
+Dialogue: 0,0:12:14.22,0:12:15.16,Default,,0,0,0,,was conquered by the
+Dialogue: 0,0:12:15.24,0:12:21.74,Default,,0,0,0,,enemy He wasn't a god
+Dialogue: 0,0:12:23.16,0:12:25.54,Default,,0,0,0,,Cease your blast for me
+Dialogue: 0,0:12:43.06,0:12:44.30,Default,,0,0,0,,Stop fighting!
+Dialogue: 0,0:13:01.04,0:13:03.68,Default,,0,0,0,,Is this some sort of performance piece?
+Dialogue: 0,0:13:04.30,0:13:07.78,Default,,0,0,0,,Why would a samurai and a monk be\Nfighting each other in the snow?
+Dialogue: 0,0:13:07.86,0:13:12.10,Default,,0,0,0,,It seems you're trying to spare each\Nother's lives rather than end them.
+Dialogue: 0,0:13:12.26,0:13:13.52,Default,,0,0,0,,A fish man?
+Dialogue: 0,0:13:14.14,0:13:15.76,Default,,0,0,0,,A fish man?
 Dialogue: 0,0:13:40.00,0:13:41.04,Default,,0,0,0,,He's... alive!
-Dialogue: 0,0:13:42.04,0:13:44.28,Default,,0,0,0,,Is that you, Kawamatsu?
-Dialogue: 0,0:13:46.32,0:13:48.02,Default,,0,0,0,,How do you know my name?
+Dialogue: 0,0:13:42.66,0:13:44.26,Default,,0,0,0,,Is that you? Kawamatsu?
+Dialogue: 0,0:13:46.30,0:13:48.02,Default,,0,0,0,,How do you know my name?
 Dialogue: 0,0:13:53.50,0:13:55.56,Default,,0,0,0,,Those two just keep going at it!
-Dialogue: 0,0:13:55.76,0:14:00.10,Default,,0,0,0,,I think we'd better pull back to the\Nmainland. Hey, you! What the hell?
+Dialogue: 0,0:13:55.76,0:14:00.08,Default,,0,0,0,,I think we'd better pull back to the\Nmainland. Hey, you! What the hell?
 Dialogue: 0,0:14:00.60,0:14:02.64,Default,,0,0,0,,Your boss is out there kicking ass,
 Dialogue: 0,0:14:02.72,0:14:06.54,Default,,0,0,0,,and you guys are in here cowering\Nand talking about running away?
 Dialogue: 0,0:14:06.62,0:14:08.62,Default,,0,0,0,,Okay, but why are you here?
@@ -244,19 +236,21 @@ Dialogue: 0,0:16:06.76,0:16:10.70,Default,,0,0,0,,After I gobbled up their boss 
 Dialogue: 0,0:16:11.02,0:16:13.90,Default,,0,0,0,,That means no pesky\Nreinforcements for the enemy.
 Dialogue: 0,0:16:14.94,0:16:16.34,Default,,0,0,0,,Oh, I can't wait.
 Dialogue: 0,0:16:16.42,0:16:20.50,Default,,0,0,0,,On the day of the battle, they'll be\Nin for an ugly surprise, won't they?
-Dialogue: 0,0:16:24.74,0:16:27.16,Default,,0,0,0,,So don't forget my\Ncontributions to your cause.
-Dialogue: 0,0:16:27.24,0:16:29.26,Default,,0,0,0,,We're in this together now, you and I.
-Dialogue: 0,0:16:29.34,0:16:30.88,Default,,0,0,0,,For that, I'm glad.
-Dialogue: 0,0:16:30.96,0:16:35.38,Default,,0,0,0,,Onward, with the smells working, let\Nus contact Keenemon and the others.
-Dialogue: 0,0:16:37.70,0:16:39.08,Default,,0,0,0,,Sa tu Ramen.
-Dialogue: 0,0:16:40.08,0:16:44.66,Default,,0,0,0,,I promise, we shall repay this\Ndebt even if it costs us our lives.
-Dialogue: 0,0:16:44.74,0:16:48.16,Default,,0,0,0,,It's fine coming. It wasn't\Nany trouble to beat that virus!
+Dialogue: 0,0:16:24.62,0:16:27.32,Default,,0,0,0,,So, don't forget my\Ncontributions to your cause.
+Dialogue: 0,0:16:27.40,0:16:29.56,Default,,0,0,0,,We're in this together now, you and I.
+Dialogue: 0,0:16:29.64,0:16:31.98,Default,,0,0,0,,For that, I'm glad. Onward!
+Dialogue: 0,0:16:32.20,0:16:35.97,Default,,0,0,0,,With the smells working, let us\Ncontact Keenemon and the others!
+Dialogue: 0,0:16:37.86,0:16:39.28,Default,,0,0,0,,Such a Brahman!
+Dialogue: 0,0:16:39.86,0:16:40.72,Default,,0,0,0,,I promise!
+Dialogue: 0,0:16:41.38,0:16:44.70,Default,,0,0,0,,We shall repay this debt,\Neven if it costs us our lives!
+Dialogue: 0,0:16:44.96,0:16:45.80,Default,,0,0,0,,It's fine.
+Dialogue: 0,0:16:46.06,0:16:48.16,Default,,0,0,0,,It wasn't any trouble to beat that virus.
 Dialogue: 0,0:16:48.24,0:16:52.06,Default,,0,0,0,,And your Samurai honor thing\Nis a bit much, so no thank you.
 Dialogue: 0,0:16:52.56,0:16:54.50,Default,,0,0,0,,Well, at least it all worked out.
 Dialogue: 0,0:16:55.12,0:16:56.77,Default,,0,0,0,,Luffy Tato's back in action.
 Dialogue: 0,0:16:56.92,0:16:58.80,Default,,0,0,0,,We got this! You ready?
 Dialogue: 0,0:16:59.44,0:17:00.27,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:17:01.36,0:17:02.19,Default,,0,0,0,,Luffy Daddy!
+Dialogue: 0,0:17:01.36,0:17:02.19,Default,,0,0,0,,Luffy, Tato!
 Dialogue: 0,0:17:02.27,0:17:03.18,Default,,0,0,0,,You're the man!
 Dialogue: 0,0:17:04.88,0:17:08.35,Default,,0,0,0,,And he's kicking a few friends\Nleft and right, like always.
 Dialogue: 0,0:17:09.04,0:17:11.80,Default,,0,0,0,,All it took was a little\Npush from Lord Momonosuke,
@@ -269,14 +263,10 @@ Dialogue: 0,0:17:29.30,0:17:31.42,Default,,0,0,0,,Oh my, it's them!
 Dialogue: 0,0:17:32.94,0:17:34.62,Default,,0,0,0,,Blood-riding Omasa!
 Dialogue: 0,0:17:36.94,0:17:38.60,Default,,0,0,0,,Split-hat Tsunaguro!
 Dialogue: 0,0:17:41.32,0:17:43.02,Default,,0,0,0,,Hojo the Pottle Gourd!
-Dialogue: 0,0:17:44.74,0:17:48.42,Default,,0,0,0,,and snake eyes, Yatape,\Nleaders of the underground,
-Dialogue: 0,0:17:48.50,0:17:50.60,Default,,0,0,0,,from all across the land, were right here.
-Dialogue: 0,0:17:50.68,0:17:54.44,Default,,0,0,0,,This is an honor; I never thought\NI'd live to serve you again.
-Dialogue: 0,0:17:54.52,0:17:57.30,Default,,0,0,0,,The honor is mine; I'm so glad.
-Dialogue: 0,0:17:57.38,0:17:58.46,Default,,0,0,0,,You're alive and well.
-Dialogue: 0,0:17:58.54,0:18:03.00,Default,,0,0,0,,We're not worthy of your kindness,\Nyeah. You've got that. It's backwards.
-Dialogue: 0,0:18:03.08,0:18:04.86,Default,,0,0,0,,It's taking a crap after a bath!
-Dialogue: 0,0:18:04.94,0:18:08.04,Default,,0,0,0,,Yeah, what he said precisely, so?
+Dialogue: 0,0:17:44.74,0:17:50.16,Default,,0,0,0,,and snake eyes yatape leaders of the\Nunderground from all across the land were right
+Dialogue: 0,0:17:50.24,0:17:56.44,Default,,0,0,0,,here this is an honor i never thought i'd\Nlive to serve you again the honor is mine
+Dialogue: 0,0:17:56.52,0:18:02.28,Default,,0,0,0,,i'm so glad you're alive and well we're\Nnot worthy of your kindness yeah you've got
+Dialogue: 0,0:18:02.36,0:18:08.04,Default,,0,0,0,,that it's backwards it's taking a crap\Nafter a bath yeah what he said precisely so
 Dialogue: 0,0:18:10.98,0:18:12.58,Default,,0,0,0,,What a bunch of weirdos!
 Dialogue: 0,0:18:12.72,0:18:14.96,Default,,0,0,0,,These guys' hands are to you, old man?
 Dialogue: 0,0:18:16.66,0:18:17.54,Default,,0,0,0,,Old man!
@@ -308,8 +298,8 @@ Dialogue: 0,0:19:27.22,0:19:31.20,Default,,0,0,0,,But now, we can plan our\Natta
 Dialogue: 0,0:19:32.34,0:19:34.20,Default,,0,0,0,,What a reliable ally!
 Dialogue: 0,0:19:34.74,0:19:37.46,Default,,0,0,0,,When did Yugar get so conscientious?
 Dialogue: 0,0:19:37.54,0:19:40.31,Default,,0,0,0,,Are you gonna keep saying\Nthat every time, dog?
-Dialogue: 0,0:19:45.74,0:19:48.42,Default,,0,0,0,,Is that you, Racer? What's the word?
-Dialogue: 0,0:19:48.62,0:19:51.39,Default,,0,0,0,,Have you managed to rescue\NSir Luffy Daddy yet?
+Dialogue: 0,0:19:45.74,0:19:48.42,Default,,0,0,0,,Is that you, Rizzo? What's the word?
+Dialogue: 0,0:19:48.62,0:19:51.39,Default,,0,0,0,,Have you managed to rescue\NSir Luffy Taddo yet?
 Dialogue: 0,0:19:51.86,0:19:54.18,Default,,0,0,0,,Indeed we have, but that\Nis only the beginning.
 Dialogue: 0,0:19:54.26,0:19:58.55,Default,,0,0,0,,I'll spare you the details for now,\Nbut we just recruited 3,500 warriors.
 Dialogue: 0,0:20:05.50,0:20:07.40,Default,,0,0,0,,3,500 warriors?
@@ -320,30 +310,28 @@ Dialogue: 0,0:20:15.36,0:20:18.22,Default,,0,0,0,,Hold on, Kawamatsu is\Nlocked 
 Dialogue: 0,0:20:18.42,0:20:21.54,Default,,0,0,0,,You mean the entire region\Nis under your control now?
 Dialogue: 0,0:20:21.88,0:20:25.76,Default,,0,0,0,,You've got to have achieved far\Nmore than a rescue mission, Raizo.
 Dialogue: 0,0:20:26.28,0:20:27.32,Default,,0,0,0,,Next stop!
-Dialogue: 0,0:20:31.86,0:20:34.90,Default,,0,0,0,,Our friends are recruiting\Neven more allies as we speak,
-Dialogue: 0,0:20:34.98,0:20:38.52,Default,,0,0,0,,however, with that comes a\Ncomplication which we must address.
-Dialogue: 0,0:20:38.60,0:20:43.16,Default,,0,0,0,,This land has several weapons\Nfactories, as you surely know,
+Dialogue: 0,0:20:31.86,0:20:36.88,Default,,0,0,0,,our friends are recruiting even more allies\Nas we speak however with that comes a
+Dialogue: 0,0:20:36.96,0:20:40.52,Default,,0,0,0,,complication which we\Nmust address this land
+Dialogue: 0,0:20:40.60,0:20:43.16,Default,,0,0,0,,has several weapons\Nfactories as you surely know
 Dialogue: 0,0:20:43.24,0:20:45.68,Default,,0,0,0,,but their products are intended for export
-Dialogue: 0,0:20:45.76,0:20:47.82,Default,,0,0,0,,and do not stay in the\Nland of Wano for long.
-Dialogue: 0,0:20:47.90,0:20:50.44,Default,,0,0,0,,Since our forces are mostly samurai,
-Dialogue: 0,0:20:50.52,0:20:55.24,Default,,0,0,0,,they are skilled with swords and\Nspears, but as you can imagine,
-Dialogue: 0,0:20:55.32,0:20:57.70,Default,,0,0,0,,those are difficult to\Ncome by since Orochi
-Dialogue: 0,0:20:57.78,0:20:59.76,Default,,0,0,0,,has banned citizens from carrying weapons,
-Dialogue: 0,0:20:59.84,0:21:02.04,Default,,0,0,0,,no matter how many allies we have,
-Dialogue: 0,0:21:02.12,0:21:05.20,Default,,0,0,0,,if they are not properly armed,\Nour plan is doomed to fail!
-Dialogue: 0,0:21:05.28,0:21:10.06,Default,,0,0,0,,Very well, I understand\Nthis is a serious matter.
-Dialogue: 0,0:21:10.14,0:21:11.46,Default,,0,0,0,,What to do?
-Dialogue: 0,0:21:11.54,0:21:18.20,Default,,0,0,0,,I shall give this
-Dialogue: 0,0:21:18.28,0:21:19.11,Default,,0,0,0,,quandary some thought,
-Dialogue: 0,0:21:19.19,0:21:20.27,Default,,0,0,0,,but I must go.
-Dialogue: 0,0:21:20.36,0:21:21.38,Default,,0,0,0,,I'll inform.
-Dialogue: 0,0:21:21.46,0:21:23.40,Default,,0,0,0,,of our group's accomplishments later.
+Dialogue: 0,0:20:45.76,0:20:47.82,Default,,0,0,0,,and do not stay in the\Nland of wano for long
+Dialogue: 0,0:20:47.90,0:20:50.90,Default,,0,0,0,,since our forces are mostly samurai they
+Dialogue: 0,0:20:50.98,0:20:54.70,Default,,0,0,0,,are skilled with swords\Nand spears but as you
+Dialogue: 0,0:20:54.78,0:20:56.92,Default,,0,0,0,,can imagine those are difficult to come by
+Dialogue: 0,0:20:57.00,0:20:59.26,Default,,0,0,0,,since Orochi has banned\Ncitizens from carrying
+Dialogue: 0,0:20:59.34,0:21:04.32,Default,,0,0,0,,weapons no matter how many allies we have\Nif they are not properly armed our plan is
+Dialogue: 0,0:21:04.40,0:21:08.76,Default,,0,0,0,,doomed to fail very well i understand this
+Dialogue: 0,0:21:08.84,0:21:10.06,Default,,0,0,0,,is a serious matter
+Dialogue: 0,0:21:10.14,0:21:11.46,Default,,0,0,0,,what to do
+Dialogue: 0,0:21:11.54,0:21:17.98,Default,,0,0,0,,i shall give
+Dialogue: 0,0:21:18.06,0:21:21.08,Default,,0,0,0,,this quandary some\Nthought but i must go i'll
+Dialogue: 0,0:21:21.16,0:21:23.40,Default,,0,0,0,,inform of our group's\Naccomplishments later.
 Dialogue: 0,0:21:23.48,0:21:28.19,Default,,0,0,0,,For the time being, I will head to Amagasa\NVillage and gauge their preparedness.
-Dialogue: 0,0:21:29.08,0:21:32.76,Default,,0,0,0,,Race, I look forward to sharing the\Ndetails of our mutual victories.
+Dialogue: 0,0:21:29.08,0:21:32.76,Default,,0,0,0,,Rizo, I look forward to sharing the\Ndetails of our mutual victories.
 Dialogue: 0,0:21:32.84,0:21:33.72,Default,,0,0,0,,As do I.
 Dialogue: 0,0:21:34.28,0:21:35.11,Default,,0,0,0,,Click.
 Dialogue: 0,0:21:40.72,0:21:42.46,Default,,0,0,0,,And now, we depart.
-Dialogue: 0,0:21:47.68,0:21:52.58,Default,,0,0,0,,I can scarcely believe my eyes.\NBut I'd know that face anywhere.
+Dialogue: 0,0:21:47.68,0:21:52.58,Default,,0,0,0,,I can scarcely believe my eyes,\NBut I'd know that face anywhere.
 Dialogue: 0,0:21:54.04,0:21:54.94,Default,,0,0,0,,Kawamatsu!
 Dialogue: 0,0:22:03.40,0:22:05.02,Default,,0,0,0,,It can't be.
 Dialogue: 0,0:22:05.50,0:22:08.08,Default,,0,0,0,,Is that really you?
@@ -401,23 +389,19 @@ Dialogue: 0,0:26:59.27,0:27:00.25,Default,,0,0,0,,Are those buddies of his?
 Dialogue: 0,0:27:00.34,0:27:01.40,Default,,0,0,0,,What does it matter?
 Dialogue: 0,0:27:01.48,0:27:03.19,Default,,0,0,0,,Just shoot them all to death!
 Dialogue: 0,0:27:04.64,0:27:05.68,Default,,0,0,0,,Go to hell!
-Dialogue: 0,0:27:13.14,0:27:14.10,Default,,0,0,0,,Oh, oh!
-Dialogue: 0,0:27:14.58,0:27:15.60,Default,,0,0,0,,Kappa style!
-Dialogue: 0,0:27:15.80,0:27:16.90,Default,,0,0,0,,Two-sword style!
+Dialogue: 0,0:27:13.02,0:27:13.90,Default,,0,0,0,,Ah!
+Dialogue: 0,0:27:14.54,0:27:15.60,Default,,0,0,0,,Kappa style!
+Dialogue: 0,0:27:15.80,0:27:16.92,Default,,0,0,0,,Two-sword style!
 Dialogue: 0,0:27:17.16,0:27:18.46,Default,,0,0,0,,River of Retribution!
 Dialogue: 0,0:27:18.66,0:27:19.58,Default,,0,0,0,,Rhino cycle!
-Dialogue: 0,0:27:21.12,0:27:32.13,Default,,0,0,0,,Ah!
-Dialogue: 0,0:27:32.21,0:27:33.04,Default,,0,0,0,,Ah! Ah! Ah!
-Dialogue: 0,0:27:33.13,0:27:33.96,Default,,0,0,0,,Shikawa Matsu!
-Dialogue: 0,0:27:35.02,0:27:35.85,Default,,0,0,0,,Ah!
-Dialogue: 0,0:27:36.00,0:27:37.30,Default,,0,0,0,,Are you all right?
-Dialogue: 0,0:27:37.38,0:27:39.56,Default,,0,0,0,,As long as you are, Lady Hiyori.
+Dialogue: 0,0:27:32.02,0:27:33.50,Default,,0,0,0,,Shikawa Matsu!
+Dialogue: 0,0:27:35.92,0:27:37.20,Default,,0,0,0,,Are you alright?
+Dialogue: 0,0:27:37.28,0:27:39.56,Default,,0,0,0,,As long as you are, Lady Hiyori.
 Dialogue: 0,0:27:41.88,0:27:44.48,Default,,0,0,0,,I can't believe it's you!
-Dialogue: 0,0:27:48.38,0:27:49.32,Default,,0,0,0,,Hey, wait a sec!
-Dialogue: 0,0:27:49.54,0:27:51.13,Default,,0,0,0,,Are you running away again?
+Dialogue: 0,0:27:48.28,0:27:49.22,Default,,0,0,0,,Hey, wait a sec!
+Dialogue: 0,0:27:49.56,0:27:51.15,Default,,0,0,0,,Are you running away again?
 Dialogue: 0,0:27:51.88,0:27:52.71,Default,,0,0,0,,Asshole!
 Dialogue: 0,0:27:52.79,0:27:54.30,Default,,0,0,0,,Give me my sword!
-Dialogue: 0,0:27:59.56,0:28:00.80,Default,,0,0,0,,Shikawa Matsu!
-Dialogue: 0,0:28:01.02,0:28:02.28,Default,,0,0,0,,It's really you!
+Dialogue: 0,0:27:59.56,0:28:02.28,Default,,0,0,0,,Shikawa Matsu, it's really you!
 Dialogue: 0,0:28:02.48,0:28:04.12,Default,,0,0,0,,I'm so glad you're alive!
-Dialogue: 0,0:28:08.18,0:28:09.54,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:28:08.22,0:28:09.66,Default,,0,0,0,,Thank you.

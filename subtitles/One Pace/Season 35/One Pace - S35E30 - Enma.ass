@@ -11,417 +11,399 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.83,Default,,0,0,0,,Ew!
-Dialogue: 0,0:00:02.88,0:00:04.46,Default,,0,0,0,,Ahh! Ahaaahhhhh!
-Dialogue: 0,0:00:06.30,0:00:07.30,Default,,0,0,0,,Ahaaahhhh!
-Dialogue: 0,0:00:08.02,0:00:11.24,Default,,0,0,0,,Think of that steel block as Kaido. Gamel!
-Dialogue: 0,0:00:15.54,0:00:16.54,Default,,0,0,0,,Ahaaaaaahhhh!
-Dialogue: 0,0:00:18.00,0:00:18.83,Default,,0,0,0,,Ahaaaah!
-Dialogue: 0,0:00:18.91,0:00:19.74,Default,,0,0,0,,Remember your defeat!
-Dialogue: 0,0:00:19.83,0:00:21.00,Default,,0,0,0,,Your helplessness!
-Dialogue: 0,0:00:21.38,0:00:22.38,Default,,0,0,0,,Hahh...
-Dialogue: 0,0:00:24.90,0:00:25.90,Default,,0,0,0,,Ahhh...
-Dialogue: 0,0:00:26.54,0:00:27.78,Default,,0,0,0,,Sunder...
-Dialogue: 0,0:00:27.86,0:00:28.86,Default,,0,0,0,,Babla!
-Dialogue: 0,0:00:42.80,0:00:45.38,Default,,0,0,0,,He's telling that to feel\Nlike it's made of jelly.
-Dialogue: 0,0:00:45.46,0:00:46.29,Default,,0,0,0,,No!
-Dialogue: 0,0:00:54.40,0:00:56.84,Default,,0,0,0,,Five days remain until the raid.
-Dialogue: 0,0:00:56.92,0:00:59.82,Default,,0,0,0,,We will move through Earth's horizon.
-Dialogue: 0,0:00:59.90,0:01:03.04,Default,,0,0,0,,We will find infinity for sure.
-Dialogue: 0,0:01:03.48,0:01:07.66,Default,,0,0,0,,Let's fight for this blue CLS to win.
-Dialogue: 0,0:01:07.88,0:01:10.02,Default,,0,0,0,,Take us far away.
-Dialogue: 0,0:01:15.38,0:01:19.66,Default,,0,0,0,,Don't give up. So I can\Ncome back to this moment.
-Dialogue: 0,0:01:19.74,0:01:22.90,Default,,0,0,0,,So I can be present right here.
-Dialogue: 0,0:01:23.30,0:01:26.34,Default,,0,0,0,,Throw away this rough sensation.
-Dialogue: 0,0:01:26.92,0:01:31.00,Default,,0,0,0,,Shut it up, do not be\Nso afraid to podcast.
-Dialogue: 0,0:01:31.08,0:01:33.70,Default,,0,0,0,,You have a friend right here.
-Dialogue: 0,0:01:33.78,0:01:37.06,Default,,0,0,0,,And I will always be here by your side.
-Dialogue: 0,0:01:37.14,0:01:39.70,Default,,0,0,0,,To take care of you.
-Dialogue: 0,0:01:39.78,0:01:43.98,Default,,0,0,0,,Even in the darkest of times, I'll try.
-Dialogue: 0,0:01:44.06,0:01:46.52,Default,,0,0,0,,Look and brave it out, it's alright.
-Dialogue: 0,0:01:46.60,0:01:50.74,Default,,0,0,0,,Cause we are the ones who\Nare meant to rule the law.
-Dialogue: 0,0:01:50.82,0:01:53.46,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:01:53.54,0:01:56.40,Default,,0,0,0,,We will find insanity for sure.
-Dialogue: 0,0:01:56.48,0:01:59.22,Default,,0,0,0,,We're a world step ahead.
-Dialogue: 0,0:01:59.30,0:02:01.18,Default,,0,0,0,,We will win for sure.
-Dialogue: 0,0:02:01.26,0:02:02.26,Default,,0,0,0,,Dreaming on.
-Dialogue: 0,0:02:02.34,0:02:04.68,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:02:04.76,0:02:07.60,Default,,0,0,0,,We will fight however we can.
-Dialogue: 0,0:02:07.68,0:02:10.52,Default,,0,0,0,,In order to be the best we will run.
-Dialogue: 0,0:02:10.60,0:02:13.22,Default,,0,0,0,,To the top, to the end.
-Dialogue: 0,0:02:13.30,0:02:19.04,Default,,0,0,0,,We gotta be the ones that\Njust keep dreaming on.
-Dialogue: 0,0:02:19.86,0:02:22.16,Default,,0,0,0,,I just can't give up now.
-Dialogue: 0,0:02:22.24,0:02:24.92,Default,,0,0,0,,I can never stop cause.
-Dialogue: 0,0:02:25.00,0:02:28.38,Default,,0,0,0,,I gotta give everything I got to.
-Dialogue: 0,0:02:28.46,0:02:32.18,Default,,0,0,0,,Become the greatest of all times.
-Dialogue: 0,0:02:32.96,0:02:35.86,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:02:35.94,0:02:38.98,Default,,0,0,0,,We will find things we need for sure.
-Dialogue: 0,0:02:39.06,0:02:41.26,Default,,0,0,0,,We will step back.
-Dialogue: 0,0:02:41.34,0:02:43.52,Default,,0,0,0,,And we will wait for sure.
-Dialogue: 0,0:02:43.60,0:02:45.72,Default,,0,0,0,,So keep moving on.
-Dialogue: 0,0:02:55.00,0:02:55.83,Default,,0,0,0,,Oh!
-Dialogue: 0,0:03:06.76,0:03:08.16,Default,,0,0,0,,Greetings, my friends.
-Dialogue: 0,0:03:08.36,0:03:09.46,Default,,0,0,0,,This is Kinamon.
-Dialogue: 0,0:03:09.72,0:03:11.78,Default,,0,0,0,,Pull out your flyers, if you would.
-Dialogue: 0,0:03:11.96,0:03:14.10,Default,,0,0,0,,I need you to make an alteration.
-Dialogue: 0,0:03:14.74,0:03:17.56,Default,,0,0,0,,Add two lines to the Habu Viper's belly.
-Dialogue: 0,0:03:18.44,0:03:22.60,Default,,0,0,0,,Doing so, we'll reveal Lord\NYasui's message to you.
-Dialogue: 0,0:03:27.68,0:03:29.32,Default,,0,0,0,,Like this.
-Dialogue: 0,0:03:32.22,0:03:33.98,Default,,0,0,0,,Two lines.
-Dialogue: 0,0:03:37.26,0:03:40.02,Default,,0,0,0,,Oh, yes, that makes sense.
-Dialogue: 0,0:03:41.62,0:03:43.36,Default,,0,0,0,,Yasui's quite clever.
-Dialogue: 0,0:03:44.42,0:03:45.52,Default,,0,0,0,,I see.
-Dialogue: 0,0:03:46.14,0:03:47.04,Default,,0,0,0,,We got it.
-Dialogue: 0,0:03:47.28,0:03:48.28,Default,,0,0,0,,Looking good.
-Dialogue: 0,0:03:51.78,0:03:53.64,Default,,0,0,0,,Hey, put your hips into it.
-Dialogue: 0,0:03:53.72,0:03:56.62,Default,,0,0,0,,We'll be sailing through rough\Nwaters to reach Onigashima.
-Dialogue: 0,0:03:56.70,0:03:57.92,Default,,0,0,0,,We need something sturdy.
-Dialogue: 0,0:03:58.00,0:03:59.22,Default,,0,0,0,,You got it, boss!
-Dialogue: 0,0:03:59.50,0:04:01.27,Default,,0,0,0,,Mine's on the viper's stomach.
-Dialogue: 0,0:04:01.66,0:04:02.86,Default,,0,0,0,,Oh, of course.
-Dialogue: 0,0:04:03.40,0:04:05.28,Default,,0,0,0,,I understand, Sakine-mona.
-Dialogue: 0,0:04:06.04,0:04:06.87,Default,,0,0,0,,Excellent.
-Dialogue: 0,0:04:07.18,0:04:08.18,Default,,0,0,0,,Then all is well.
-Dialogue: 0,0:04:08.80,0:04:09.63,Default,,0,0,0,,Hmm?
-Dialogue: 0,0:04:10.00,0:04:11.38,Default,,0,0,0,,Sakine-mona here?
-Dialogue: 0,0:04:11.78,0:04:14.22,Default,,0,0,0,,I'm getting those ships in tip-top shape.
-Dialogue: 0,0:04:14.82,0:04:15.65,Default,,0,0,0,,Super!
-Dialogue: 0,0:04:16.38,0:04:17.98,Default,,0,0,0,,Look forward to it.
-Dialogue: 0,0:04:18.24,0:04:19.48,Default,,0,0,0,,We got this!
+Dialogue: 0,0:00:02.64,0:00:03.78,Default,,0,0,0,,Uhhhhhhhhhhhhhhhhhhhhhhados!
+Dialogue: 0,0:00:03.86,0:00:04.74,Default,,0,0,0,,Uhhhhhhh!
+Dialogue: 0,0:00:08.28,0:00:11.24,Default,,0,0,0,,Think of that steel block as Kaido's body.
+Dialogue: 0,0:00:11.54,0:00:12.74,Default,,0,0,0,,Uhhh %~~~
+Dialogue: 0,0:00:17.18,0:00:18.01,Default,,0,0,0,,Uhhh!
+Dialogue: 0,0:00:18.09,0:00:19.40,Default,,0,0,0,,Remember your defeat!
+Dialogue: 0,0:00:19.74,0:00:21.00,Default,,0,0,0,,Your helplessness!
+Dialogue: 0,0:00:22.02,0:00:22.85,Default,,0,0,0,,Ahhhhhhhhhh...
+Dialogue: 0,0:00:22.93,0:00:26.64,Default,,0,0,0,,SUBSCRIBE AND COMP certains dosis.
+Dialogue: 0,0:00:27.40,0:00:28.70,Default,,0,0,0,,Thunder! Barbara!
+Dialogue: 0,0:00:42.70,0:00:45.00,Default,,0,0,0,,He's pounding that steel\Nlike it's made of jelly!
+Dialogue: 0,0:00:45.08,0:00:46.20,Default,,0,0,0,,Gaaah!
+Dialogue: 0,0:00:49.98,0:00:51.02,Default,,0,0,0,,Gaaah!
+Dialogue: 0,0:00:53.82,0:00:56.92,Default,,0,0,0,,Five days remain until the raid.
+Dialogue: 0,0:00:57.28,0:01:02.48,Default,,0,0,0,,We will move through Earth and\Nhorizon. We will find infinity for
+Dialogue: 0,0:01:02.56,0:01:05.68,Default,,0,0,0,,Sure. Let's fight for this blue.
+Dialogue: 0,0:01:05.76,0:01:09.98,Default,,0,0,0,,Seal as you win, take us far away.
+Dialogue: 0,0:01:15.38,0:01:21.22,Default,,0,0,0,,Don't give up so I can come\Nback to this moment. So I can be
+Dialogue: 0,0:01:21.30,0:01:28.12,Default,,0,0,0,,present right here Throw away this\Nrough times we share Shut it up,
+Dialogue: 0,0:01:28.32,0:01:32.46,Default,,0,0,0,,do not be so afraid to podcast To have a
+Dialogue: 0,0:01:32.54,0:01:36.04,Default,,0,0,0,,friend right here And\NI will always be here
+Dialogue: 0,0:01:36.12,0:01:41.60,Default,,0,0,0,,by your side To take care of you Even in
+Dialogue: 0,0:01:41.68,0:01:45.16,Default,,0,0,0,,In the darkest of times,\NI'll try looking brave.
+Dialogue: 0,0:01:45.32,0:01:49.12,Default,,0,0,0,,It's alright. Since we\Nare the ones who are men.
+Dialogue: 0,0:01:49.20,0:01:53.44,Default,,0,0,0,,to rule the law We will\Nmove towards the horizon
+Dialogue: 0,0:01:53.52,0:01:57.84,Default,,0,0,0,,We will find insanity\Nfor sure. We're a world.
+Dialogue: 0,0:01:57.92,0:02:02.34,Default,,0,0,0,,Forward ahead. We will\Nwin for sure, dreaming on.
+Dialogue: 0,0:02:02.46,0:02:06.68,Default,,0,0,0,,we will move towards the\Nhorizon We will fight however
+Dialogue: 0,0:02:06.76,0:02:11.98,Default,,0,0,0,,we can In order to be the\Nbest we will run To the top,
+Dialogue: 0,0:02:12.34,0:02:19.22,Default,,0,0,0,,to the end, we gotta be The\Nones that just keep dreaming of
+Dialogue: 0,0:02:19.86,0:02:26.40,Default,,0,0,0,,I just can't give up now I\Ncan never stop cause I gotta
+Dialogue: 0,0:02:26.48,0:02:32.04,Default,,0,0,0,,give everything I got to Become\Nthe greatest of all times
+Dialogue: 0,0:02:32.96,0:02:36.62,Default,,0,0,0,,We will move towards the horizon We will
+Dialogue: 0,0:02:36.70,0:02:41.70,Default,,0,0,0,,Find infinite fortunes.\NWe'll one step ahead,
+Dialogue: 0,0:02:41.78,0:02:45.16,Default,,0,0,0,,We'll win with console. So keep moving.
+Dialogue: 0,0:02:58.73,0:03:01.17,Default,,0,0,0,,-a-a-a-a
+Dialogue: 0,0:03:07.22,0:03:08.08,Default,,0,0,0,,Greetings my friends.
+Dialogue: 0,0:03:08.16,0:03:09.44,Default,,0,0,0,,This is Kin'emon.
+Dialogue: 0,0:03:09.70,0:03:11.76,Default,,0,0,0,,Pull out your flyers, if you would.
+Dialogue: 0,0:03:11.98,0:03:14.08,Default,,0,0,0,,I need you to make an alteration.
+Dialogue: 0,0:03:15.18,0:03:17.56,Default,,0,0,0,,Add two lines to the Habu Viper's belly.
+Dialogue: 0,0:03:18.64,0:03:22.64,Default,,0,0,0,,Doing so will reveal Lord\NYasui's message to you.
+Dialogue: 0,0:03:27.84,0:03:29.32,Default,,0,0,0,,Like this?
+Dialogue: 0,0:03:32.40,0:03:34.00,Default,,0,0,0,,Two lines?
+Dialogue: 0,0:03:37.36,0:03:42.86,Default,,0,0,0,,Oh yes, that makes sense. Yasui's quite
+Dialogue: 0,0:03:42.94,0:03:48.34,Default,,0,0,0,,clever I see we got it looking good
+Dialogue: 0,0:03:51.00,0:03:55.72,Default,,0,0,0,,Hey, put your hips into it. We'll be\Nsailing through rough waters to reach
+Dialogue: 0,0:03:55.80,0:03:57.68,Default,,0,0,0,,Onigashima we need something sturdy
+Dialogue: 0,0:03:57.76,0:04:02.86,Default,,0,0,0,,Lines on the Viper's\Nstomach. Oh, of course.
+Dialogue: 0,0:04:03.44,0:04:05.32,Default,,0,0,0,,I understand, Sir Kin'emon.
+Dialogue: 0,0:04:06.64,0:04:07.47,Default,,0,0,0,,Excellent.
+Dialogue: 0,0:04:07.55,0:04:08.38,Default,,0,0,0,,Then all is well.
+Dialogue: 0,0:04:09.84,0:04:10.67,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:04:10.75,0:04:11.58,Default,,0,0,0,,Is that Kinemona here?
+Dialogue: 0,0:04:11.82,0:04:14.23,Default,,0,0,0,,I'm getting those ships in tip-top shape!
+Dialogue: 0,0:04:15.82,0:04:16.65,Default,,0,0,0,,Super!
+Dialogue: 0,0:04:16.73,0:04:17.98,Default,,0,0,0,,Look forward to it!
+Dialogue: 0,0:04:18.24,0:04:19.44,Default,,0,0,0,,We got this!
 Dialogue: 0,0:04:19.70,0:04:20.72,Default,,0,0,0,,Don't you worry!
-Dialogue: 0,0:04:21.24,0:04:22.18,Default,,0,0,0,,Count on us!
-Dialogue: 0,0:04:22.28,0:04:23.64,Default,,0,0,0,,I'll go spread the word.
-Dialogue: 0,0:04:23.72,0:04:25.68,Default,,0,0,0,,Everyone will know about the change.
+Dialogue: 0,0:04:21.14,0:04:22.18,Default,,0,0,0,,Count on us!
+Dialogue: 0,0:04:22.30,0:04:23.71,Default,,0,0,0,,I'll go spread the word.
+Dialogue: 0,0:04:23.80,0:04:25.68,Default,,0,0,0,,Everyone will know about the change.
 Dialogue: 0,0:04:25.76,0:04:26.90,Default,,0,0,0,,You have my thanks.
-Dialogue: 0,0:04:27.98,0:04:29.04,Default,,0,0,0,,Pretty impressive.
-Dialogue: 0,0:04:29.42,0:04:31.74,Default,,0,0,0,,The people from Wano\Ncan take one look at the
-Dialogue: 0,0:04:31.82,0:04:33.94,Default,,0,0,0,,flyer and understand the\Nmessage in an instant,
-Dialogue: 0,0:04:34.02,0:04:34.85,Default,,0,0,0,,huh?
-Dialogue: 0,0:04:34.93,0:04:35.76,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:04:35.85,0:04:37.73,Default,,0,0,0,,Let's see if I can figure it out.
-Dialogue: 0,0:04:38.02,0:04:40.02,Default,,0,0,0,,You add two lines to Viper.
-Dialogue: 0,0:04:42.82,0:04:43.65,Default,,0,0,0,,Viper?
-Dialogue: 0,0:04:43.73,0:04:45.70,Default,,0,0,0,,Uh, well, no.
-Dialogue: 0,0:04:46.24,0:04:50.24,Default,,0,0,0,,One cannot understand it unless\Nthey know the names of Wano's ports.
-Dialogue: 0,0:04:51.72,0:04:52.60,Default,,0,0,0,,Itachi Port.
-Dialogue: 0,0:05:03.32,0:05:05.36,Default,,0,0,0,,At any rate, the point is,
+Dialogue: 0,0:04:27.80,0:04:28.90,Default,,0,0,0,,Pretty impressive.
+Dialogue: 0,0:04:29.34,0:04:31.74,Default,,0,0,0,,The people from Wano\Ncan take one look at the
+Dialogue: 0,0:04:31.82,0:04:34.00,Default,,0,0,0,,flyer and understand the\Nmessage in an instant,
+Dialogue: 0,0:04:34.08,0:04:34.91,Default,,0,0,0,,huh?
+Dialogue: 0,0:04:35.62,0:04:37.86,Default,,0,0,0,,Hmm, let's see if I can figure it out.
+Dialogue: 0,0:04:37.94,0:04:40.02,Default,,0,0,0,,You add two lines to Viper.
+Dialogue: 0,0:04:42.72,0:04:43.55,Default,,0,0,0,,Viper?
+Dialogue: 0,0:04:44.54,0:04:45.72,Default,,0,0,0,,Uh, well, no.
+Dialogue: 0,0:04:46.48,0:04:50.48,Default,,0,0,0,,One cannot understand it unless\Nthey know the names of Wano's ports.
+Dialogue: 0,0:04:51.66,0:04:52.62,Default,,0,0,0,,Itachi Port.
+Dialogue: 0,0:04:54.64,0:04:55.68,Default,,0,0,0,,Neko Port.
+Dialogue: 0,0:04:56.32,0:04:57.28,Default,,0,0,0,,Kairu Port.
+Dialogue: 0,0:04:57.76,0:04:58.64,Default,,0,0,0,,Mogura Port.
+Dialogue: 0,0:04:59.26,0:05:00.14,Default,,0,0,0,,Tokage Port.
+Dialogue: 0,0:05:00.60,0:05:01.94,Default,,0,0,0,,And Habu Port.
+Dialogue: 0,0:05:03.58,0:05:05.36,Default,,0,0,0,,At any rate, the point is,
 Dialogue: 0,0:05:05.50,0:05:08.97,Default,,0,0,0,,each of these ports is associated\Nwith a particular animal.
-Dialogue: 0,0:05:09.12,0:05:11.22,Default,,0,0,0,,So with the initial image of the viper,
-Dialogue: 0,0:05:11.30,0:05:14.59,Default,,0,0,0,,we implied that Habu port\Nwould be the rendezvous point.
+Dialogue: 0,0:05:09.12,0:05:11.26,Default,,0,0,0,,So with the initial image of the viper,
+Dialogue: 0,0:05:11.34,0:05:14.63,Default,,0,0,0,,we implied that Habu port\Nwould be the rendezvous point.
 Dialogue: 0,0:05:15.08,0:05:17.26,Default,,0,0,0,,But if you add two lines to a viper,
-Dialogue: 0,0:05:17.48,0:05:20.38,Default,,0,0,0,,then they appear as legs, and\Nwith a moment's consideration,
+Dialogue: 0,0:05:17.50,0:05:20.38,Default,,0,0,0,,then they appear as legs, and\Nwith a moment's consideration,
 Dialogue: 0,0:05:20.46,0:05:23.23,Default,,0,0,0,,the image of a lizard\Nwill likely come to mind.
-Dialogue: 0,0:05:23.44,0:05:25.91,Default,,0,0,0,,Tokage Port is associated with the Lizard.
-Dialogue: 0,0:05:26.08,0:05:30.68,Default,,0,0,0,,So, our allies will understand that our\Nnew rendezvous point is the port in Udon.
-Dialogue: 0,0:05:30.76,0:05:32.56,Default,,0,0,0,,The flyer is considered a prank,
-Dialogue: 0,0:05:32.64,0:05:35.24,Default,,0,0,0,,so there is little chance\Nthat our foes will catch on.
+Dialogue: 0,0:05:23.48,0:05:25.95,Default,,0,0,0,,Tokage port is associated with the lizard,
+Dialogue: 0,0:05:26.10,0:05:30.28,Default,,0,0,0,,so our allies will understand that our\Nnew rendezvous point is the port in Udon.
+Dialogue: 0,0:05:30.36,0:05:32.44,Default,,0,0,0,,The flyer is considered a prank,
+Dialogue: 0,0:05:32.62,0:05:35.24,Default,,0,0,0,,so there is little chance\Nthat our foes will catch on.
 Dialogue: 0,0:05:35.32,0:05:36.80,Default,,0,0,0,,It's truly a marvel.
-Dialogue: 0,0:05:37.54,0:05:39.70,Default,,0,0,0,,Lord Yasui deceived the enemy and gave our
+Dialogue: 0,0:05:37.56,0:05:39.70,Default,,0,0,0,,Lord Yasui deceived the enemy and gave our
 Dialogue: 0,0:05:39.78,0:05:42.55,Default,,0,0,0,,thwarted plan a path\Nforward in one fell swoop.
 Dialogue: 0,0:05:45.64,0:05:47.74,Default,,0,0,0,,Our ally to the bitter end.
 Dialogue: 0,0:05:48.44,0:05:50.68,Default,,0,0,0,,Alas, it is a debt we can never repay.
-Dialogue: 0,0:05:51.64,0:05:55.70,Default,,0,0,0,,If we put his efforts to waste,\Nit will be our shame as Samurai.
-Dialogue: 0,0:05:56.66,0:05:59.04,Default,,0,0,0,,I'm suddenly reminded of his words.
-Dialogue: 0,0:05:59.30,0:06:01.36,Default,,0,0,0,,Do you remember what he told us?
-Dialogue: 0,0:06:01.94,0:06:05.44,Default,,0,0,0,,We'll become the guardian\Ndeities of Wano itself.
-Dialogue: 0,0:06:08.12,0:06:09.60,Default,,0,0,0,,A brilliant man.
-Dialogue: 0,0:06:09.68,0:06:11.00,Default,,0,0,0,,Taken too soon.
-Dialogue: 0,0:06:13.52,0:06:18.46,Default,,0,0,0,,Of course, a few challenges yet remain,\Nbut we owe much to your efforts.
-Dialogue: 0,0:06:22.00,0:06:22.83,Default,,0,0,0,,Furthermore,
-Dialogue: 0,0:06:22.91,0:06:26.09,Default,,0,0,0,,our number of allies has increased\Nand our friends have been reassembled.
-Dialogue: 0,0:06:26.18,0:06:29.02,Default,,0,0,0,,Although Dintudo's whereabouts\Nare still a mystery.
-Dialogue: 0,0:06:29.10,0:06:31.22,Default,,0,0,0,,We have seven of the Yakuzaia 9!
-Dialogue: 0,0:06:31.50,0:06:33.06,Default,,0,0,0,,All as strong as ever!
-Dialogue: 0,0:06:44.86,0:06:46.50,Default,,0,0,0,,This turned around fast.
-Dialogue: 0,0:06:46.76,0:06:48.02,Default,,0,0,0,,I think we got a shot.
-Dialogue: 0,0:06:48.10,0:06:51.18,Default,,0,0,0,,We need 5,000 troops, right? Correct.
-Dialogue: 0,0:06:51.56,0:06:52.50,Default,,0,0,0,,And we're close.
-Dialogue: 0,0:06:54.10,0:06:56.51,Default,,0,0,0,,Let's stop patting ourselves on the back.
-Dialogue: 0,0:06:56.78,0:06:58.58,Default,,0,0,0,,We're wasting valuable time.
-Dialogue: 0,0:06:59.70,0:07:00.53,Default,,0,0,0,,All right.
-Dialogue: 0,0:07:00.70,0:07:03.94,Default,,0,0,0,,In that case, let's discuss the plan.
-Dialogue: 0,0:07:04.58,0:07:08.42,Default,,0,0,0,,We'll take Kaido's head at any\Ncost, and Orochi's as well.
-Dialogue: 0,0:07:08.72,0:07:11.12,Default,,0,0,0,,We shall do more than avenge Lord Odin.
-Dialogue: 0,0:07:11.34,0:07:13.04,Default,,0,0,0,,We'll save this land.
-Dialogue: 0,0:07:15.58,0:07:17.54,Default,,0,0,0,,Check it out!
-Dialogue: 0,0:07:18.72,0:07:20.48,Default,,0,0,0,,A piece of trivia.
-Dialogue: 0,0:07:24.08,0:07:26.02,Default,,0,0,0,,For those determined enough,
-Dialogue: 0,0:07:26.28,0:07:29.28,Default,,0,0,0,,there were actually two ways\Nto enter the land of water.
-Dialogue: 0,0:07:29.36,0:07:32.71,Default,,0,0,0,,The first is the dangerous\Npath that the Straw Hats took,
-Dialogue: 0,0:07:32.80,0:07:35.60,Default,,0,0,0,,carried up the waterfalls\Nby giant koi fish.
-Dialogue: 0,0:07:36.58,0:07:42.22,Default,,0,0,0,,The other is to pass through a massive\Ncave hidden behind one of the waterfalls.
-Dialogue: 0,0:07:43.62,0:07:44.70,Default,,0,0,0,,Needless to say,
-Dialogue: 0,0:07:45.04,0:07:49.22,Default,,0,0,0,,this will not end well for those\Nwithout Kaido and Orochi's permission.
-Dialogue: 0,0:07:49.78,0:07:52.74,Default,,0,0,0,,At the end of the cave lies Mogara port.
-Dialogue: 0,0:07:56.62,0:08:00.78,Default,,0,0,0,,From there, a gondola will haul up\Nboth crew and cargo to the surface.
-Dialogue: 0,0:08:02.20,0:08:04.80,Default,,0,0,0,,After a short trip,\Nthey'll exit the tunnel.
-Dialogue: 0,0:08:10.48,0:08:13.76,Default,,0,0,0,,And at last, they find\Nthemselves in Hakamai.
-Dialogue: 0,0:08:16.44,0:08:18.66,Default,,0,0,0,,Ring-a-ding-ding, Kaido, sir.
-Dialogue: 0,0:08:19.12,0:08:21.30,Default,,0,0,0,,We're in the house, as one might say.
-Dialogue: 0,0:08:22.44,0:08:23.98,Default,,0,0,0,,Ah, just in time.
-Dialogue: 0,0:08:24.50,0:08:28.15,Default,,0,0,0,,Didn't think you'd bother coming\Nback here for the party, Apu.
-Dialogue: 0,0:08:30.12,0:08:31.54,Default,,0,0,0,,Wouldn't miss it for the world.
-Dialogue: 0,0:08:31.62,0:08:34.74,Default,,0,0,0,,The Golden Festival is here,\Nand it's gonna be tight!
-Dialogue: 0,0:08:35.08,0:08:38.68,Default,,0,0,0,,I never skip out on a party,\Nor give up on a fight!
-Dialogue: 0,0:08:39.04,0:08:41.56,Default,,0,0,0,,It's gonna be wild this year, trust me.
-Dialogue: 0,0:08:41.88,0:08:43.76,Default,,0,0,0,,My kind of scene! Yeah!
+Dialogue: 0,0:05:51.80,0:05:55.68,Default,,0,0,0,,If we put his efforts to waste,\Nit will be our shame as Samurai.
+Dialogue: 0,0:05:56.82,0:05:58.94,Default,,0,0,0,,I'm suddenly reminded of his words.
+Dialogue: 0,0:05:59.02,0:06:01.36,Default,,0,0,0,,Do you remember what he told us?
+Dialogue: 0,0:06:01.94,0:06:05.42,Default,,0,0,0,,We'll become the guardian\Ndeities of Wano itself!
+Dialogue: 0,0:06:08.16,0:06:09.62,Default,,0,0,0,,A brilliant man.
+Dialogue: 0,0:06:09.70,0:06:11.00,Default,,0,0,0,,Taken too soon.
+Dialogue: 0,0:06:13.54,0:06:18.46,Default,,0,0,0,,Of course, a few challenges yet remain,\Nbut we owe much to your efforts.
+Dialogue: 0,0:06:21.68,0:06:24.16,Default,,0,0,0,,Furthermore, our number\Nof allies has increased,
+Dialogue: 0,0:06:24.24,0:06:26.22,Default,,0,0,0,,and our friends have been reassembled.
+Dialogue: 0,0:06:26.30,0:06:31.22,Default,,0,0,0,,Although Dinturo's whereabouts are still\Na mystery, we have seven of the Akazaya 9.
+Dialogue: 0,0:06:31.52,0:06:33.08,Default,,0,0,0,,all as strong as ever!
+Dialogue: 0,0:06:44.80,0:06:46.50,Default,,0,0,0,,This turned around fast.
+Dialogue: 0,0:06:46.76,0:06:48.10,Default,,0,0,0,,I think we got a shot.
+Dialogue: 0,0:06:48.42,0:06:51.18,Default,,0,0,0,,We need 5,000 troops, right? Correct.
+Dialogue: 0,0:06:51.58,0:06:52.52,Default,,0,0,0,,And we're close.
+Dialogue: 0,0:06:54.04,0:06:58.06,Default,,0,0,0,,let's stop patting ourselves on\Nthe back we're wasting valuable
+Dialogue: 0,0:06:58.14,0:07:02.92,Default,,0,0,0,,time all right in that case let's
+Dialogue: 0,0:07:03.00,0:07:05.72,Default,,0,0,0,,Discuss the plan. We'll take Kaido's
+Dialogue: 0,0:07:05.80,0:07:10.32,Default,,0,0,0,,head at any cost and orochis as\Nwell we shall do more than avenge
+Dialogue: 0,0:07:10.40,0:07:12.98,Default,,0,0,0,,lord odin we'll save this land
+Dialogue: 0,0:07:13.06,0:07:19.28,Default,,0,0,0,,check it out a
+Dialogue: 0,0:07:19.36,0:07:20.48,Default,,0,0,0,,piece of trivia
+Dialogue: 0,0:07:24.06,0:07:28.06,Default,,0,0,0,,For those determined enough, there\Nwere actually two ways to enter.
+Dialogue: 0,0:07:28.14,0:07:31.90,Default,,0,0,0,,the land of water the first is\Nthe dangerous path that the straw
+Dialogue: 0,0:07:31.98,0:07:37.94,Default,,0,0,0,,hats took carried up the waterfalls\Nby giant koi fish the other is
+Dialogue: 0,0:07:38.02,0:07:42.30,Default,,0,0,0,,to pass through a massive cave\Nhidden behind one of the waterfalls
+Dialogue: 0,0:07:43.50,0:07:46.10,Default,,0,0,0,,needless to say this will not end well for
+Dialogue: 0,0:07:46.18,0:07:48.71,Default,,0,0,0,,those without kaido\Nand orichi's permission
+Dialogue: 0,0:07:49.76,0:07:52.72,Default,,0,0,0,,At the end of the cave lies Moldora Port.
+Dialogue: 0,0:07:56.56,0:08:00.78,Default,,0,0,0,,From there, a gondola will haul up\Nboth crew and cargo to the surface.
+Dialogue: 0,0:08:02.18,0:08:04.78,Default,,0,0,0,,After a short trip,\Nthey'll exit the tunnel
+Dialogue: 0,0:08:16.72,0:08:18.66,Default,,0,0,0,,Ring-a-ding-ding, Kaido, sir.
+Dialogue: 0,0:08:19.10,0:08:21.28,Default,,0,0,0,,We're in the house, as one might say.
+Dialogue: 0,0:08:22.42,0:08:23.98,Default,,0,0,0,,Ah, just in time.
+Dialogue: 0,0:08:24.42,0:08:27.70,Default,,0,0,0,,Didn't think you'd bother coming\Nback here for the party, Apu.
+Dialogue: 0,0:08:30.14,0:08:31.78,Default,,0,0,0,,Wouldn't miss it for the world.
+Dialogue: 0,0:08:31.86,0:08:34.98,Default,,0,0,0,,The Golden Festival is here,\Nand it's gonna be tight!
+Dialogue: 0,0:08:35.10,0:08:38.66,Default,,0,0,0,,I never skip out on a party\Nor give up on a fight!
+Dialogue: 0,0:08:39.12,0:08:41.56,Default,,0,0,0,,It's gonna be wild this year, trust me.
+Dialogue: 0,0:08:41.88,0:08:43.80,Default,,0,0,0,,My kind of scene! Yeah!
 Dialogue: 0,0:08:45.10,0:08:47.34,Default,,0,0,0,,Now groove with me, boys!
-Dialogue: 0,0:09:02.64,0:09:04.38,Default,,0,0,0,,What are those things?
-Dialogue: 0,0:09:07.16,0:09:08.62,Default,,0,0,0,,It's the numbers.
-Dialogue: 0,0:09:09.26,0:09:11.28,Default,,0,0,0,,The numbers from Wakakashima.
-Dialogue: 0,0:09:11.86,0:09:13.14,Default,,0,0,0,,Let's run now.
-Dialogue: 0,0:09:13.68,0:09:15.18,Default,,0,0,0,,Or they'll eat us.
-Dialogue: 0,0:09:19.68,0:09:21.92,Default,,0,0,0,,Sounds like the numbers have returned.
-Dialogue: 0,0:09:23.02,0:09:25.68,Default,,0,0,0,,Those are some messy drunks\Nif I've ever seen them.
-Dialogue: 0,0:09:25.76,0:09:27.00,Default,,0,0,0,,Tell them to go away.
-Dialogue: 0,0:09:28.04,0:09:29.56,Default,,0,0,0,,This is just a warm-up.
-Dialogue: 0,0:09:29.64,0:09:32.12,Default,,0,0,0,,The real party's right around the corner.
-Dialogue: 0,0:09:32.34,0:09:35.00,Default,,0,0,0,,I'll drink to that. One more round.
-Dialogue: 0,0:09:37.42,0:09:38.54,Default,,0,0,0,,The hell.
+Dialogue: 0,0:09:02.24,0:09:04.36,Default,,0,0,0,,What are those things?
+Dialogue: 0,0:09:07.16,0:09:08.58,Default,,0,0,0,,It's the numbers.
+Dialogue: 0,0:09:09.20,0:09:11.28,Default,,0,0,0,,The numbers from Okikashima.
+Dialogue: 0,0:09:11.86,0:09:13.12,Default,,0,0,0,,Let's run now!
+Dialogue: 0,0:09:13.58,0:09:15.18,Default,,0,0,0,,Or they'll eat us!
+Dialogue: 0,0:09:19.74,0:09:21.98,Default,,0,0,0,,Sounds like the numbers have returned.
+Dialogue: 0,0:09:23.08,0:09:25.70,Default,,0,0,0,,Those are some messy drunks\Nif I've ever seen them.
+Dialogue: 0,0:09:25.78,0:09:27.02,Default,,0,0,0,,Tell them to go away!
+Dialogue: 0,0:09:28.00,0:09:29.66,Default,,0,0,0,,This is just a warm-up.
+Dialogue: 0,0:09:30.04,0:09:32.45,Default,,0,0,0,,The real party's right around the corner.
+Dialogue: 0,0:09:32.60,0:09:35.14,Default,,0,0,0,,I'll drink to that! One more round!
+Dialogue: 0,0:09:37.54,0:09:38.64,Default,,0,0,0,,The hell?
 Dialogue: 0,0:09:38.96,0:09:41.55,Default,,0,0,0,,They were trying to\Nkill each other earlier.
-Dialogue: 0,0:09:45.52,0:09:47.76,Default,,0,0,0,,Hey, listen up, boys.
-Dialogue: 0,0:09:48.42,0:09:49.25,Default,,0,0,0,,Uh, yeah?
-Dialogue: 0,0:09:49.38,0:09:52.38,Default,,0,0,0,,We got some important news\Nabout the Beast Pirates.
-Dialogue: 0,0:09:52.70,0:09:54.84,Default,,0,0,0,,And the Big Mom Pirates, too.
-Dialogue: 0,0:09:55.60,0:09:57.06,Default,,0,0,0,,Let me stand up.
-Dialogue: 0,0:09:57.14,0:10:00.20,Default,,0,0,0,,We have decided to form an alliance.
-Dialogue: 0,0:10:00.98,0:10:01.81,Default,,0,0,0,,Hooray!
-Dialogue: 0,0:10:04.14,0:10:04.97,Default,,0,0,0,,What?
-Dialogue: 0,0:10:05.05,0:10:09.18,Default,,0,0,0,,So first things first, we combine\Nour strength and conquer the world!
-Dialogue: 0,0:10:09.80,0:10:12.86,Default,,0,0,0,,Then we can go back to killing each other.
-Dialogue: 0,0:10:27.14,0:10:27.97,Default,,0,0,0,,Is this true?
-Dialogue: 0,0:10:28.06,0:10:30.40,Default,,0,0,0,,You do not jest! Tell me!
-Dialogue: 0,0:10:31.56,0:10:32.78,Default,,0,0,0,,Yes, it's true.
-Dialogue: 0,0:10:33.24,0:10:34.52,Default,,0,0,0,,What a blessed day!
-Dialogue: 0,0:10:34.76,0:10:37.56,Default,,0,0,0,,Lady Hiyori is alive and\Nwell! That's correct.
+Dialogue: 0,0:09:45.46,0:09:47.78,Default,,0,0,0,,Hey listen up, boys.
+Dialogue: 0,0:09:47.92,0:09:53.86,Default,,0,0,0,,Uh, yeah, we got some important news\Nabout the Beast Pirates and the Big Mom.
+Dialogue: 0,0:09:57.14,0:09:58.04,Default,,0,0,0,,pirates too.
+Dialogue: 0,0:09:58.12,0:09:59.92,Default,,0,0,0,,Let me stand up.
+Dialogue: 0,0:10:00.06,0:10:04.44,Default,,0,0,0,,We have decided to form\Nan alliance. Hooray! What?
+Dialogue: 0,0:10:04.68,0:10:09.20,Default,,0,0,0,,So first things First, we combine\Nour strength and conquer the world!
+Dialogue: 0,0:10:09.80,0:10:12.88,Default,,0,0,0,,Then we can go back to killing each other.
+Dialogue: 0,0:10:26.08,0:10:27.78,Default,,0,0,0,,Is this true?
+Dialogue: 0,0:10:28.08,0:10:30.46,Default,,0,0,0,,You do not jest! Tell me!
+Dialogue: 0,0:10:31.42,0:10:32.76,Default,,0,0,0,,Yes, it's true.
+Dialogue: 0,0:10:33.12,0:10:34.42,Default,,0,0,0,,What a blessed day!
+Dialogue: 0,0:10:34.50,0:10:37.56,Default,,0,0,0,,Lady Hiyori is alive and\Nwell! That's correct.
 Dialogue: 0,0:10:37.96,0:10:39.72,Default,,0,0,0,,I was relieved as well.
-Dialogue: 0,0:10:42.56,0:10:44.32,Default,,0,0,0,,My heart aches for Otoko.
+Dialogue: 0,0:10:42.48,0:10:44.34,Default,,0,0,0,,My heart aches for Otoko.
 Dialogue: 0,0:10:44.66,0:10:46.50,Default,,0,0,0,,She has endured so much pain.
-Dialogue: 0,0:10:46.84,0:10:50.25,Default,,0,0,0,,She needs some time to adjust\Nand will require a guardian.
-Dialogue: 0,0:10:50.80,0:10:53.96,Default,,0,0,0,,For now, I shall refrain\Nfrom meeting with everyone.
-Dialogue: 0,0:10:54.90,0:10:56.24,Default,,0,0,0,,It's for the best.
-Dialogue: 0,0:10:57.60,0:10:59.76,Default,,0,0,0,,sentimentality has no place in battle.
-Dialogue: 0,0:10:59.84,0:11:03.46,Default,,0,0,0,,Please lend them your strength.
-Dialogue: 0,0:11:03.54,0:11:05.04,Default,,0,0,0,,Go to the others.
-Dialogue: 0,0:11:05.12,0:11:08.46,Default,,0,0,0,,Find a way to protect the land of Wano.
-Dialogue: 0,0:11:08.54,0:11:12.24,Default,,0,0,0,,Princess this is unnecessary.
-Dialogue: 0,0:11:12.32,0:11:14.04,Default,,0,0,0,,Please stand up.
-Dialogue: 0,0:11:20.00,0:11:23.84,Default,,0,0,0,,You're certain it's her? Our\Nlittle tomboy's become so elegant.
-Dialogue: 0,0:11:23.92,0:11:27.06,Default,,0,0,0,,My she's truly grown up.
-Dialogue: 0,0:11:27.14,0:11:31.68,Default,,0,0,0,,Oh Koamatsu, learning of your\Nimprisonment, we truly fare for the worst.
-Dialogue: 0,0:11:31.76,0:11:32.76,Default,,0,0,0,,That's wonderful.
-Dialogue: 0,0:11:33.64,0:11:34.48,Default,,0,0,0,,She lives.
-Dialogue: 0,0:11:34.56,0:11:36.76,Default,,0,0,0,,I try to do a ha ha ha.
-Dialogue: 0,0:11:36.84,0:11:39.02,Default,,0,0,0,,School where is she now?
-Dialogue: 0,0:11:39.10,0:11:40.10,Default,,0,0,0,,Is she guarded?
-Dialogue: 0,0:11:40.18,0:11:42.08,Default,,0,0,0,,No need to fear.
-Dialogue: 0,0:11:42.16,0:11:44.62,Default,,0,0,0,,She is in a safe place at the moment.
-Dialogue: 0,0:11:45.92,0:11:48.02,Default,,0,0,0,,This is so delightful to hear.
-Dialogue: 0,0:11:48.24,0:11:49.98,Default,,0,0,0,,What a tremendous relief!
-Dialogue: 0,0:11:53.98,0:11:55.70,Default,,0,0,0,,She's still alive.
-Dialogue: 0,0:12:01.56,0:12:03.16,Default,,0,0,0,,Mama Nisuke!
-Dialogue: 0,0:12:05.20,0:12:06.84,Default,,0,0,0,,Hiyori! Drop!
-Dialogue: 0,0:12:08.32,0:12:09.16,Default,,0,0,0,,No!
-Dialogue: 0,0:12:14.68,0:12:15.51,Default,,0,0,0,,Hiyori...
-Dialogue: 0,0:12:15.59,0:12:16.74,Default,,0,0,0,,Zorojuro!
-Dialogue: 0,0:12:18.04,0:12:20.16,Default,,0,0,0,,So you were the one who rescued her?
-Dialogue: 0,0:12:20.54,0:12:21.72,Default,,0,0,0,,I am grateful.
-Dialogue: 0,0:12:22.32,0:12:25.98,Default,,0,0,0,,She hacks a bit rough and tumble,\Nbut she's actually fragile.
-Dialogue: 0,0:12:26.56,0:12:28.91,Default,,0,0,0,,That crybaby could be quite the handful.
-Dialogue: 0,0:12:29.24,0:12:30.07,Default,,0,0,0,,Easy there.
-Dialogue: 0,0:12:30.26,0:12:32.79,Default,,0,0,0,,That crybaby's 18 years\Nolder than you now.
+Dialogue: 0,0:10:46.80,0:10:50.21,Default,,0,0,0,,She needs some time to adjust\Nand will require a guardian.
+Dialogue: 0,0:10:50.72,0:10:53.96,Default,,0,0,0,,For now, I shall refrain\Nfrom meeting with everyone.
+Dialogue: 0,0:10:54.82,0:10:56.22,Default,,0,0,0,,It's for the best.
+Dialogue: 0,0:10:57.58,0:10:59.84,Default,,0,0,0,,Sentimentality has no place in battle.
+Dialogue: 0,0:11:01.80,0:11:03.62,Default,,0,0,0,,Please lend them your strength.
+Dialogue: 0,0:11:04.28,0:11:05.28,Default,,0,0,0,,Go to the others.
+Dialogue: 0,0:11:05.84,0:11:08.50,Default,,0,0,0,,Find a way to protect the land of Wano.
+Dialogue: 0,0:11:10.38,0:11:12.28,Default,,0,0,0,,Princess, this is unnecessary.
+Dialogue: 0,0:11:12.74,0:11:13.90,Default,,0,0,0,,Please stand up.
+Dialogue: 0,0:11:20.04,0:11:21.45,Default,,0,0,0,,You're certain it's her.
+Dialogue: 0,0:11:21.68,0:11:23.92,Default,,0,0,0,,Our little tomboy's become so elegant.
+Dialogue: 0,0:11:24.88,0:11:27.08,Default,,0,0,0,,My, she's truly grown up.
+Dialogue: 0,0:11:28.18,0:11:29.01,Default,,0,0,0,,Kawamatsu!
+Dialogue: 0,0:11:29.16,0:11:31.82,Default,,0,0,0,,Learning of your imprisonment,\Nwe truly fared for the worst.
+Dialogue: 0,0:11:31.90,0:11:32.90,Default,,0,0,0,,That's wonderful.
+Dialogue: 0,0:11:33.56,0:11:34.48,Default,,0,0,0,,She lives!
+Dialogue: 0,0:11:37.98,0:11:40.18,Default,,0,0,0,,Where is she now? Is she guarded?
+Dialogue: 0,0:11:40.82,0:11:42.16,Default,,0,0,0,,No need to fear.
+Dialogue: 0,0:11:42.42,0:11:44.60,Default,,0,0,0,,She is in a safe place at the moment.
+Dialogue: 0,0:11:46.16,0:11:48.02,Default,,0,0,0,,This is so delightful to hear.
+Dialogue: 0,0:11:48.22,0:11:49.98,Default,,0,0,0,,What a tremendous relief!
+Dialogue: 0,0:11:54.24,0:11:55.68,Default,,0,0,0,,She's still alive.
+Dialogue: 0,0:12:01.58,0:12:03.18,Default,,0,0,0,,Mama, Nisuke!
+Dialogue: 0,0:12:05.22,0:12:06.66,Default,,0,0,0,,Hiyori! Drop!
+Dialogue: 0,0:12:14.66,0:12:15.49,Default,,0,0,0,,Hiyori!
+Dialogue: 0,0:12:15.57,0:12:16.70,Default,,0,0,0,,Zoro-Zoro!
+Dialogue: 0,0:12:17.80,0:12:20.08,Default,,0,0,0,,So you were the one who rescued her?
+Dialogue: 0,0:12:20.46,0:12:21.66,Default,,0,0,0,,I am grateful.
+Dialogue: 0,0:12:21.74,0:12:26.02,Default,,0,0,0,,She hacks a bit rough and tumble,\Nbut she's actually fragile.
+Dialogue: 0,0:12:26.60,0:12:28.95,Default,,0,0,0,,That Crybaby could be quite the handful.
+Dialogue: 0,0:12:29.18,0:12:30.01,Default,,0,0,0,,Easy there.
+Dialogue: 0,0:12:30.48,0:12:33.01,Default,,0,0,0,,That Crybaby's 18 years\Nolder than you now.
 Dialogue: 0,0:12:33.16,0:12:36.22,Default,,0,0,0,,You really gotta get your\Nmind out of the past, bud.
-Dialogue: 0,0:12:36.50,0:12:37.33,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:12:37.41,0:12:38.24,Default,,0,0,0,,Ah!
-Dialogue: 0,0:12:38.33,0:12:39.16,Default,,0,0,0,,Ah!
-Dialogue: 0,0:12:41.70,0:12:42.53,Default,,0,0,0,,Ah!
-Dialogue: 0,0:12:42.92,0:12:44.22,Default,,0,0,0,,K! Oh no!
-Dialogue: 0,0:12:44.56,0:12:46.82,Default,,0,0,0,,So she has a Heinen age advantage now?
-Dialogue: 0,0:12:47.08,0:12:49.86,Default,,0,0,0,,I never considered that. Ah!
-Dialogue: 0,0:12:50.36,0:12:53.77,Default,,0,0,0,,How long have you known, and\Nyou didn't bother telling me?
-Dialogue: 0,0:12:53.86,0:12:56.14,Default,,0,0,0,,That goddess is Momonosuke's sister?
-Dialogue: 0,0:12:56.80,0:12:57.63,Default,,0,0,0,,Ah!
-Dialogue: 0,0:13:00.36,0:13:01.19,Default,,0,0,0,,What?
-Dialogue: 0,0:13:01.42,0:13:02.64,Default,,0,0,0,,Stop staring.
-Dialogue: 0,0:13:05.18,0:13:06.01,Default,,0,0,0,,Ah!
-Dialogue: 0,0:13:06.09,0:13:07.62,Default,,0,0,0,,Hey, little buddy.
-Dialogue: 0,0:13:08.04,0:13:11.06,Default,,0,0,0,,If you need anything, just\Ncome to Uncle Sangoro.
-Dialogue: 0,0:13:11.36,0:13:13.30,Default,,0,0,0,,I know exactly what you're doing.
-Dialogue: 0,0:13:14.36,0:13:17.12,Default,,0,0,0,,Sir Sangoro, that's enough fooling around.
-Dialogue: 0,0:13:19.32,0:13:21.50,Default,,0,0,0,,Kawamatsu, preparations are complete.
-Dialogue: 0,0:13:22.28,0:13:23.84,Default,,0,0,0,,It's still not too late.
-Dialogue: 0,0:13:24.10,0:13:25.50,Default,,0,0,0,,Are you quite sure?
-Dialogue: 0,0:13:26.08,0:13:29.08,Default,,0,0,0,,Yes, we have already come to an agreement.
-Dialogue: 0,0:13:29.94,0:13:32.38,Default,,0,0,0,,Sir Hitetsu, this is for you.
-Dialogue: 0,0:13:32.70,0:13:33.84,Default,,0,0,0,,It's Kitetsu II.
-Dialogue: 0,0:13:33.92,0:13:34.75,Default,,0,0,0,,Second.
-Dialogue: 0,0:13:34.83,0:13:37.96,Default,,0,0,0,,It was confiscated from\NLuffy Taro and Udon. Here.
-Dialogue: 0,0:13:38.26,0:13:39.42,Default,,0,0,0,,Thank you kindly.
-Dialogue: 0,0:13:39.88,0:13:42.12,Default,,0,0,0,,He took it from me without permission.
-Dialogue: 0,0:13:43.88,0:13:44.71,Default,,0,0,0,,Kitetsu.
-Dialogue: 0,0:13:47.20,0:13:49.64,Default,,0,0,0,,I had a feeling it was a famed blade.
-Dialogue: 0,0:13:50.90,0:13:54.46,Default,,0,0,0,,Now, my name is Tenguyama Hitetsu.
-Dialogue: 0,0:13:54.80,0:13:57.38,Default,,0,0,0,,I am a swordsmith from the land of Wano.
-Dialogue: 0,0:13:58.74,0:13:59.68,Default,,0,0,0,,Today's the day.
-Dialogue: 0,0:13:59.76,0:14:01.14,Default,,0,0,0,,For two decades,
-Dialogue: 0,0:14:01.36,0:14:05.52,Default,,0,0,0,,I have awaited the opportunity to be\Nin your presence, Lord Momonosuke.
-Dialogue: 0,0:14:05.60,0:14:08.08,Default,,0,0,0,,I now bequeath these swords to you.
-Dialogue: 0,0:14:15.96,0:14:18.94,Default,,0,0,0,,These were once Lord\NOden's precious weapons.
-Dialogue: 0,0:14:19.34,0:14:20.66,Default,,0,0,0,,Ame no Habakiri,
-Dialogue: 0,0:14:21.02,0:14:23.26,Default,,0,0,0,,the one who cuts down the highest heavens,
-Dialogue: 0,0:14:23.34,0:14:27.16,Default,,0,0,0,,and Enma, the one who slices\Nthrough the deepest hells.
-Dialogue: 0,0:14:28.04,0:14:34.12,Default,,0,0,0,,Like Shusui, they stand among legends\Nas two of the 21 excellent Greyblades
-Dialogue: 0,0:14:35.20,0:14:38.49,Default,,0,0,0,,What would you like to do\Nwith my masterpieces, my lord?
-Dialogue: 0,0:14:38.70,0:14:40.00,Default,,0,0,0,,The choice is yours.
-Dialogue: 0,0:14:41.14,0:14:42.34,Default,,0,0,0,,I'm not ready.
-Dialogue: 0,0:14:42.42,0:14:45.38,Default,,0,0,0,,But do not mistake this feeling for fear.
-Dialogue: 0,0:14:45.46,0:14:48.70,Default,,0,0,0,,I'd merely prefer it if you\Nkept it for the time being.
-Dialogue: 0,0:14:49.40,0:14:53.06,Default,,0,0,0,,As for Enma, it now belongs to you.
-Dialogue: 0,0:14:54.50,0:14:56.68,Default,,0,0,0,,However, please heed my warning!
-Dialogue: 0,0:14:56.76,0:15:01.32,Default,,0,0,0,,The only man who has ever tamed\Nthat blade was Kozuki Odin himself.
+Dialogue: 0,0:12:36.54,0:12:37.37,Default,,0,0,0,,Ah!
+Dialogue: 0,0:12:42.08,0:12:42.91,Default,,0,0,0,,Drop!
+Dialogue: 0,0:12:43.28,0:12:44.20,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:12:44.58,0:12:47.05,Default,,0,0,0,,So she has a height and age advantage now?
+Dialogue: 0,0:12:47.20,0:12:49.04,Default,,0,0,0,,I never considered that.
+Dialogue: 0,0:12:50.32,0:12:53.73,Default,,0,0,0,,How long have you known, and\Nyou didn't bother telling me?
+Dialogue: 0,0:12:53.88,0:12:56.14,Default,,0,0,0,,That goddess is Momonosuke's sister?
+Dialogue: 0,0:13:00.86,0:13:01.69,Default,,0,0,0,,What?
+Dialogue: 0,0:13:01.77,0:13:02.66,Default,,0,0,0,,Stop staring.
+Dialogue: 0,0:13:06.12,0:13:07.64,Default,,0,0,0,,Hey, little buddy.
+Dialogue: 0,0:13:08.00,0:13:11.08,Default,,0,0,0,,If you need anything, just\Ncome to Uncle Sangoro.
+Dialogue: 0,0:13:11.38,0:13:13.32,Default,,0,0,0,,I know exactly what you're doing.
+Dialogue: 0,0:13:14.92,0:13:17.45,Default,,0,0,0,,Sir Sangoro, that's\Nenough fooling her out.
+Dialogue: 0,0:13:19.42,0:13:20.25,Default,,0,0,0,,Kawamatsu!
+Dialogue: 0,0:13:20.33,0:13:21.67,Default,,0,0,0,,Preparations are complete.
+Dialogue: 0,0:13:22.24,0:13:23.84,Default,,0,0,0,,It's still not too late.
+Dialogue: 0,0:13:24.24,0:13:25.50,Default,,0,0,0,,Are you quite sure?
+Dialogue: 0,0:13:26.12,0:13:26.95,Default,,0,0,0,,Yes.
+Dialogue: 0,0:13:27.03,0:13:29.08,Default,,0,0,0,,We have already come to an agreement.
+Dialogue: 0,0:13:30.00,0:13:32.38,Default,,0,0,0,,Sir Hitetsu, this is for you.
+Dialogue: 0,0:13:32.78,0:13:33.92,Default,,0,0,0,,It's Kitetsu II.
+Dialogue: 0,0:13:35.08,0:13:37.60,Default,,0,0,0,,It was confiscated from\NLufi Taro and Udon.
+Dialogue: 0,0:13:37.68,0:13:38.51,Default,,0,0,0,,Here.
+Dialogue: 0,0:13:38.59,0:13:39.44,Default,,0,0,0,,Thank you kindly.
+Dialogue: 0,0:13:39.84,0:13:42.08,Default,,0,0,0,,He took it from me without permission.
+Dialogue: 0,0:13:43.78,0:13:44.61,Default,,0,0,0,,Kitetsu.
+Dialogue: 0,0:13:47.24,0:13:49.64,Default,,0,0,0,,I had a feeling it was a famed blade.
+Dialogue: 0,0:13:50.96,0:13:54.46,Default,,0,0,0,,Now, my name is Tenguyama Hitetsu.
+Dialogue: 0,0:13:54.76,0:13:57.38,Default,,0,0,0,,I am a swordsmith from the land of Wano.
+Dialogue: 0,0:13:58.60,0:13:59.76,Default,,0,0,0,,Today is the day.
+Dialogue: 0,0:14:00.06,0:14:01.12,Default,,0,0,0,,For two decades,
+Dialogue: 0,0:14:01.34,0:14:05.50,Default,,0,0,0,,I have awaited the opportunity to be\Nin your presence, Lord Momonosuke.
+Dialogue: 0,0:14:05.58,0:14:08.06,Default,,0,0,0,,I now bequeath these swords to you.
+Dialogue: 0,0:14:15.88,0:14:20.66,Default,,0,0,0,,These were once Lord Oden's\Nprecious weapons, Ame no Habakiri.
+Dialogue: 0,0:14:20.92,0:14:24.40,Default,,0,0,0,,the one who cuts down the\Nhighest heavens And Enma,
+Dialogue: 0,0:14:24.66,0:14:27.25,Default,,0,0,0,,the one who slices\Nthrough the deepest hells
+Dialogue: 0,0:14:27.96,0:14:34.06,Default,,0,0,0,,Like Shusui, they stand among legends\Nas two of the 21 excellent great blades
+Dialogue: 0,0:14:35.24,0:14:38.53,Default,,0,0,0,,What would you like to do\Nwith my Masterpieces, my lord?
+Dialogue: 0,0:14:38.70,0:14:39.96,Default,,0,0,0,,The choice is yours.
+Dialogue: 0,0:14:41.14,0:14:42.40,Default,,0,0,0,,I'm not ready.
+Dialogue: 0,0:14:42.74,0:14:45.44,Default,,0,0,0,,But do not mistake this feeling for fear.
+Dialogue: 0,0:14:45.72,0:14:48.96,Default,,0,0,0,,I'd merely prefer it if you\Nkept it for the time being.
+Dialogue: 0,0:14:49.42,0:14:53.00,Default,,0,0,0,,As for Enma, it now belongs to you.
+Dialogue: 0,0:14:55.06,0:14:56.94,Default,,0,0,0,,However, please heed my warning.
+Dialogue: 0,0:14:57.06,0:15:01.32,Default,,0,0,0,,The only man who has ever tamed\Nthat blade was Kozuki Odin himself.
 Dialogue: 0,0:15:01.62,0:15:03.33,Default,,0,0,0,,There has never been another.
-Dialogue: 0,0:15:14.84,0:15:18.82,Default,,0,0,0,,Try cutting down a tree\Nto test its fine edge.
-Dialogue: 0,0:15:26.04,0:15:26.92,Default,,0,0,0,,Sir Zoro,
-Dialogue: 0,0:15:27.26,0:15:32.06,Default,,0,0,0,,I only say this out of the kindness\Nof my heart, but if I were you,
-Dialogue: 0,0:15:32.34,0:15:34.18,Default,,0,0,0,,I would not accept that sword.
-Dialogue: 0,0:15:53.54,0:15:55.54,Default,,0,0,0,,He cut off the cliff?
-Dialogue: 0,0:16:07.42,0:16:09.12,Default,,0,0,0,,So much of his arm!
-Dialogue: 0,0:16:16.32,0:16:17.84,Default,,0,0,0,,Damn it!
-Dialogue: 0,0:16:20.88,0:16:22.04,Default,,0,0,0,,Give it back!
-Dialogue: 0,0:16:39.14,0:16:44.96,Default,,0,0,0,,It will extract the wielder's Richie all on\Nits own and always cuts more than needed.
-Dialogue: 0,0:16:46.12,0:16:48.06,Default,,0,0,0,,Had you been a normal swordsman,
-Dialogue: 0,0:16:48.14,0:16:52.50,Default,,0,0,0,,There would have been but a husk\Nleft behind. Quite impressive.
-Dialogue: 0,0:16:52.58,0:16:56.68,Default,,0,0,0,,tell me would you prefer a
-Dialogue: 0,0:16:56.76,0:17:03.12,Default,,0,0,0,,different blade nah this one'll
-Dialogue: 0,0:17:03.20,0:17:06.94,Default,,0,0,0,,Do it. I think I could get
-Dialogue: 0,0:17:07.02,0:17:11.00,Default,,0,0,0,,used to you and once i do i'll
-Dialogue: 0,0:17:11.08,0:17:13.00,Default,,0,0,0,,become a much stronger swordsmen
-Dialogue: 0,0:17:13.08,0:17:18.78,Default,,0,0,0,,what an unbelievable fool
-Dialogue: 0,0:17:23.12,0:17:27.30,Default,,0,0,0,,keep up the pace you guys we don't\Ngot a lot of time to waste come on
-Dialogue: 0,0:17:28.10,0:17:31.22,Default,,0,0,0,,this baby needs to carry\Na hundred thousand people
-Dialogue: 0,0:17:31.76,0:17:36.53,Default,,0,0,0,,does that seem like a lot you shut up\Nain't nothing wrong with airmen for the sky
-Dialogue: 0,0:17:36.98,0:17:38.00,Default,,0,0,0,,Let's make a bet!
-Dialogue: 0,0:17:38.50,0:17:40.03,Default,,0,0,0,,How many are you thinking?
-Dialogue: 0,0:17:40.88,0:17:44.10,Default,,0,0,0,,Madam Orumi, what have you\Nlearned about the enemy?
-Dialogue: 0,0:17:44.46,0:17:46.81,Default,,0,0,0,,I was able to gather some helpful intel.
-Dialogue: 0,0:17:47.24,0:17:51.18,Default,,0,0,0,,Not to alarm you, but the Beast\NPirates have about 20,000 soldiers,
-Dialogue: 0,0:17:51.28,0:17:54.22,Default,,0,0,0,,while Shogun Orochi's army\Nis about 10,000 strong.
-Dialogue: 0,0:17:55.18,0:17:56.16,Default,,0,0,0,,In other words,
-Dialogue: 0,0:17:56.36,0:18:00.83,Default,,0,0,0,,we need to be prepared to fight 30,000\Nenemies once we arrive in Onigashima.
-Dialogue: 0,0:18:02.12,0:18:04.20,Default,,0,0,0,,Luckily, we have the mansion blueprints,
-Dialogue: 0,0:18:04.28,0:18:06.34,Default,,0,0,0,,but we're still fighting\Nin our foes' backyard.
-Dialogue: 0,0:18:06.42,0:18:10.16,Default,,0,0,0,,Though at least it's away from\Nour homeland, we only have
-Dialogue: 0,0:18:10.24,0:18:14.96,Default,,0,0,0,,about 4,000 men at best quite\Nthe disadvantage while we are
-Dialogue: 0,0:18:15.04,0:18:18.00,Default,,0,0,0,,not plotting an Alto war our\Nnumbers are clearly lacking
-Dialogue: 0,0:18:18.08,0:18:23.88,Default,,0,0,0,,nonetheless we must commit to\Nthe plan Terry out the raid,
-Dialogue: 0,0:18:24.20,0:18:26.02,Default,,0,0,0,,it's our only opportunity.
-Dialogue: 0,0:18:26.20,0:18:27.28,Default,,0,0,0,,Still gotta try!
-Dialogue: 0,0:18:34.36,0:18:36.56,Default,,0,0,0,,We're still a mouse man!
-Dialogue: 0,0:18:43.28,0:18:44.56,Default,,0,0,0,,He can't run!
-Dialogue: 0,0:18:57.62,0:19:02.10,Default,,0,0,0,,That was all wrong too, yes,\Nyou're straining yourself.
-Dialogue: 0,0:19:16.90,0:19:19.80,Default,,0,0,0,,I'm gonna need you to\Ncalm your ass down a bit.
-Dialogue: 0,0:19:28.02,0:19:31.02,Default,,0,0,0,,Momo, don't you have your\Nown sword training to do?
-Dialogue: 0,0:19:33.04,0:19:34.90,Default,,0,0,0,,I'm focused, so have no fear.
-Dialogue: 0,0:19:35.18,0:19:39.00,Default,,0,0,0,,Though, I suppose I do have one\Nissue that's continued to vex me.
+Dialogue: 0,0:15:14.94,0:15:18.82,Default,,0,0,0,,Try cutting down a tree,\Nto test its fine edge.
+Dialogue: 0,0:15:25.96,0:15:30.20,Default,,0,0,0,,Sir Zoro, I only say this out\Nof the kindness of my heart.
+Dialogue: 0,0:15:30.80,0:15:34.16,Default,,0,0,0,,But if I were you, I would\Nnot accept that sword.
+Dialogue: 0,0:15:53.74,0:15:55.84,Default,,0,0,0,,He cut off the cliff?!
+Dialogue: 0,0:16:05.54,0:16:06.46,Default,,0,0,0,,No!
+Dialogue: 0,0:16:07.80,0:16:09.08,Default,,0,0,0,,No! Sorry to revive!
+Dialogue: 0,0:16:16.58,0:16:17.84,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:16:20.56,0:16:22.04,Default,,0,0,0,,Give it back!
+Dialogue: 0,0:16:39.20,0:16:44.96,Default,,0,0,0,,It will extract the wielder's rioh all on\Nits own, and always cuts more than needed.
+Dialogue: 0,0:16:46.16,0:16:50.75,Default,,0,0,0,,Had you been a normal swordsman, there\Nwould have been but a husk left behind.
+Dialogue: 0,0:16:51.50,0:16:52.58,Default,,0,0,0,,Quite impressive.
+Dialogue: 0,0:16:54.82,0:16:57.64,Default,,0,0,0,,If, tell me, would you\Nprefer a different blade?
+Dialogue: 0,0:17:01.90,0:17:03.66,Default,,0,0,0,,Nah, this wouldn't do it.
+Dialogue: 0,0:17:04.52,0:17:05.38,Default,,0,0,0,,Emma, huh?
+Dialogue: 0,0:17:05.86,0:17:07.88,Default,,0,0,0,,I think I could get used to you.
+Dialogue: 0,0:17:08.38,0:17:13.04,Default,,0,0,0,,And once I do, I'll become\Na much stronger swordsman.
+Dialogue: 0,0:17:16.76,0:17:18.70,Default,,0,0,0,,What an unbelievable fool.
+Dialogue: 0,0:17:23.20,0:17:24.84,Default,,0,0,0,,Keep up the pace, you guys!
+Dialogue: 0,0:17:25.08,0:17:27.73,Default,,0,0,0,,We don't got a lot of\Ntime to waste, come on!
+Dialogue: 0,0:17:28.18,0:17:31.18,Default,,0,0,0,,This baby needs to carry\Na hundred thousand people!
+Dialogue: 0,0:17:31.78,0:17:33.28,Default,,0,0,0,,That's not seem like a lot!
+Dialogue: 0,0:17:33.36,0:17:34.30,Default,,0,0,0,,You shut up!
+Dialogue: 0,0:17:34.50,0:17:36.90,Default,,0,0,0,,Ain't nothing wrong\Nwith aiming for the sky!
+Dialogue: 0,0:17:36.98,0:17:37.98,Default,,0,0,0,,Let's make a bet!
+Dialogue: 0,0:17:38.26,0:17:39.79,Default,,0,0,0,,How many are you thinking?
+Dialogue: 0,0:17:41.00,0:17:44.12,Default,,0,0,0,,Madam Oroi, what have you\Nlearned about the enemy?
+Dialogue: 0,0:17:44.44,0:17:46.79,Default,,0,0,0,,I was able to gather some helpful intel.
+Dialogue: 0,0:17:47.16,0:17:50.90,Default,,0,0,0,,Not to alarm you, but the Beast\NPirates have about 20,000 soldiers,
+Dialogue: 0,0:17:50.98,0:17:54.16,Default,,0,0,0,,while Shogun Orochi's army\Nis about 10,000 strong.
+Dialogue: 0,0:17:55.10,0:17:56.16,Default,,0,0,0,,In other words,
+Dialogue: 0,0:17:56.42,0:18:00.89,Default,,0,0,0,,we need to be prepared to fight 30,000\Nenemies once we arrive in Onigashima.
+Dialogue: 0,0:18:02.12,0:18:04.32,Default,,0,0,0,,Luckily, we have the mansion blueprints,
+Dialogue: 0,0:18:04.40,0:18:06.68,Default,,0,0,0,,but we're still fighting\Nin our foes' backyard.
+Dialogue: 0,0:18:06.76,0:18:09.32,Default,,0,0,0,,Though, at least it's\Naway from our homeland.
+Dialogue: 0,0:18:09.40,0:18:12.02,Default,,0,0,0,,We only have about 4,000 men at best.
+Dialogue: 0,0:18:12.24,0:18:13.59,Default,,0,0,0,,Quite the disadvantage.
+Dialogue: 0,0:18:14.26,0:18:18.61,Default,,0,0,0,,While we are not plotting an Alto\Nwar, our numbers are clearly lacking.
+Dialogue: 0,0:18:19.58,0:18:22.28,Default,,0,0,0,,Nonetheless, we must commit to the plan.
+Dialogue: 0,0:18:22.82,0:18:23.94,Default,,0,0,0,,Tarry out the raid.
+Dialogue: 0,0:18:24.22,0:18:26.00,Default,,0,0,0,,It's our only opportunity.
+Dialogue: 0,0:18:26.24,0:18:27.28,Default,,0,0,0,,Still gotta try.
+Dialogue: 0,0:18:34.36,0:18:36.42,Default,,0,0,0,,We're scared, Mouchman!
+Dialogue: 0,0:18:42.78,0:18:44.52,Default,,0,0,0,,He can't run!
+Dialogue: 0,0:18:57.40,0:18:59.28,Default,,0,0,0,,That was all wrong, too!
+Dialogue: 0,0:19:00.32,0:19:02.14,Default,,0,0,0,,Yes, you're straining yourself.
+Dialogue: 0,0:19:02.86,0:19:03.69,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:03.77,0:19:04.70,Default,,0,0,0,,Why was that bad?
+Dialogue: 0,0:19:17.06,0:19:20.00,Default,,0,0,0,,I'm going to need you to\Ncalm your ass down a bit.
+Dialogue: 0,0:19:28.14,0:19:31.14,Default,,0,0,0,,Momo, don't you have your\Nown sword training to do?
+Dialogue: 0,0:19:33.02,0:19:34.90,Default,,0,0,0,,I'm focused, so have no fear.
+Dialogue: 0,0:19:35.16,0:19:38.98,Default,,0,0,0,,Though, I suppose I do have one\Nissue that's continued to vex me.
 Dialogue: 0,0:19:39.76,0:19:40.59,Default,,0,0,0,,Shoot.
-Dialogue: 0,0:19:41.60,0:19:45.28,Default,,0,0,0,,Tsunachi is an exclamation used\Nto push oneself. Yes? Yeah.
-Dialogue: 0,0:19:45.86,0:19:48.64,Default,,0,0,0,,Well, Okiku advised me against using it.
-Dialogue: 0,0:19:48.72,0:19:52.58,Default,,0,0,0,,It's just a saying some old\Nguy from my village told me.
-Dialogue: 0,0:19:52.84,0:19:55.08,Default,,0,0,0,,Can't really say, I've used it myself.
+Dialogue: 0,0:19:41.60,0:19:45.28,Default,,0,0,0,,Sunachi is an exclamation used\Nto push oneself, yes? Yeah.
+Dialogue: 0,0:19:45.88,0:19:48.72,Default,,0,0,0,,Well, Kiku advised me against using it.
+Dialogue: 0,0:19:49.52,0:19:52.78,Default,,0,0,0,,It's just a saying some old\Nguy from my village told me.
+Dialogue: 0,0:19:52.86,0:19:55.04,Default,,0,0,0,,Can't really say I've used it myself.
 Dialogue: 0,0:19:55.38,0:19:56.21,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:19:58.92,0:19:59.75,Default,,0,0,0,,Hey!
-Dialogue: 0,0:19:59.83,0:20:01.22,Default,,0,0,0,,I'm back, master!
-Dialogue: 0,0:20:02.72,0:20:03.55,Default,,0,0,0,,Utama!
-Dialogue: 0,0:20:04.58,0:20:06.76,Default,,0,0,0,,You had me worried sick!
-Dialogue: 0,0:20:07.12,0:20:08.86,Default,,0,0,0,,Hey, Chopper! Luffy!
-Dialogue: 0,0:20:09.34,0:20:10.24,Default,,0,0,0,,It's Nami!
-Dialogue: 0,0:20:18.24,0:20:19.88,Default,,0,0,0,,Greetings, Kin'emon here.
-Dialogue: 0,0:20:20.06,0:20:21.06,Default,,0,0,0,,Sir, Kin'emon.
-Dialogue: 0,0:20:23.70,0:20:26.76,Default,,0,0,0,,Koby, Hakuman, Ringo, Udon.
-Dialogue: 0,0:20:27.20,0:20:30.22,Default,,0,0,0,,We've gathered 200\Nadditional troops in total.
-Dialogue: 0,0:20:32.38,0:20:33.38,Default,,0,0,0,,Incredible!
-Dialogue: 0,0:20:39.40,0:20:42.02,Default,,0,0,0,,We now have 4,200 troops!
+Dialogue: 0,0:19:59.06,0:19:59.89,Default,,0,0,0,,Hey!
+Dialogue: 0,0:19:59.97,0:20:01.24,Default,,0,0,0,,I'm back! Master!
+Dialogue: 0,0:20:02.54,0:20:03.42,Default,,0,0,0,,Utama!
+Dialogue: 0,0:20:04.38,0:20:06.76,Default,,0,0,0,,You had me worried sick!
+Dialogue: 0,0:20:07.14,0:20:08.88,Default,,0,0,0,,Hey, Chopper! Luffy!
+Dialogue: 0,0:20:09.36,0:20:10.26,Default,,0,0,0,,It's Nami!
+Dialogue: 0,0:20:18.38,0:20:19.88,Default,,0,0,0,,Greetings. Kin'emon here.
+Dialogue: 0,0:20:20.16,0:20:21.06,Default,,0,0,0,,Sir Kin'emon!
+Dialogue: 0,0:20:23.66,0:20:24.49,Default,,0,0,0,,Kibi!
+Dialogue: 0,0:20:24.57,0:20:26.72,Default,,0,0,0,,Hakumai! Ringo! Udon!
+Dialogue: 0,0:20:27.22,0:20:30.20,Default,,0,0,0,,We've gathered 200\Nadditional troops in total!
+Dialogue: 0,0:20:32.80,0:20:33.63,Default,,0,0,0,,Incredible!
+Dialogue: 0,0:20:39.42,0:20:42.04,Default,,0,0,0,,We now have 4,200 troops!
 Dialogue: 0,0:20:43.68,0:20:46.09,Default,,0,0,0,,Although I have yet to hear from Sir Law.
-Dialogue: 0,0:20:47.10,0:20:49.72,Default,,0,0,0,,Perhaps we're better off\Nwithout his assistance.
-Dialogue: 0,0:20:49.80,0:20:50.92,Default,,0,0,0,,Why would you say that?
+Dialogue: 0,0:20:47.08,0:20:49.78,Default,,0,0,0,,Perhaps we're better off\Nwithout his assistance.
+Dialogue: 0,0:20:49.86,0:20:50.92,Default,,0,0,0,,Why would you say that?
 Dialogue: 0,0:20:51.00,0:20:52.82,Default,,0,0,0,,We need strong people like him!
-Dialogue: 0,0:20:55.00,0:20:55.86,Default,,0,0,0,,Nicely done.
+Dialogue: 0,0:20:55.00,0:20:55.88,Default,,0,0,0,,Nicely done.
 Dialogue: 0,0:20:56.14,0:20:59.02,Default,,0,0,0,,You trained so hard that\Nyou're tuckered out now.
-Dialogue: 0,0:21:04.14,0:21:05.20,Default,,0,0,0,,Hey, officer!
-Dialogue: 0,0:21:05.74,0:21:06.57,Default,,0,0,0,,Hey!
-Dialogue: 0,0:21:06.65,0:21:07.82,Default,,0,0,0,,The festival's soon!
-Dialogue: 0,0:21:08.00,0:21:08.88,Default,,0,0,0,,Release us!
-Dialogue: 0,0:21:09.52,0:21:12.18,Default,,0,0,0,,Not happening! Pipe down! Damn it!
-Dialogue: 0,0:21:12.46,0:21:13.93,Default,,0,0,0,,This is our final chance!
-Dialogue: 0,0:21:14.28,0:21:16.69,Default,,0,0,0,,Everyone is risking their lives for this!
-Dialogue: 0,0:21:18.46,0:21:21.52,Default,,0,0,0,,Unfortunately, there's not much\Nwe can do about the capital.
-Dialogue: 0,0:21:21.60,0:21:24.64,Default,,0,0,0,,They have the arrested\Nparties under a watchful eye.
-Dialogue: 0,0:21:24.72,0:21:27.84,Default,,0,0,0,,Even family members protesting\Nare being locked away.
-Dialogue: 0,0:21:28.22,0:21:32.34,Default,,0,0,0,,A true loss, considering that some\Nof our heartiest samurai are there.
-Dialogue: 0,0:21:33.38,0:21:34.85,Default,,0,0,0,,But we must press onward.
-Dialogue: 0,0:21:37.44,0:21:39.96,Default,,0,0,0,,Everyone, you have my gratitude.
-Dialogue: 0,0:21:40.82,0:21:43.82,Default,,0,0,0,,Use the remaining time for\Npreparations and travel.
-Dialogue: 0,0:21:45.14,0:21:45.97,Default,,0,0,0,,Understood.
-Dialogue: 0,0:21:46.42,0:21:49.42,Default,,0,0,0,,We'll meet at the rendezvous\Nport. Do take care.
-Dialogue: 0,0:21:56.28,0:21:58.22,Default,,0,0,0,,I made one for everyone.
-Dialogue: 0,0:21:58.62,0:22:00.50,Default,,0,0,0,,We're grateful for your service.
-Dialogue: 0,0:22:02.36,0:22:03.90,Default,,0,0,0,,All right, Sir Luffy.
-Dialogue: 0,0:22:03.98,0:22:06.04,Default,,0,0,0,,It's time for us to take our leave.
-Dialogue: 0,0:22:06.14,0:22:09.02,Default,,0,0,0,,We must get there before\Neveryone else. Okay.
-Dialogue: 0,0:22:09.50,0:22:11.58,Default,,0,0,0,,My group will head out on the sunny.
-Dialogue: 0,0:22:11.66,0:22:13.20,Default,,0,0,0,,It's hidden along the coast.
-Dialogue: 0,0:22:13.28,0:22:15.66,Default,,0,0,0,,We are as prepared as we'll ever be.
-Dialogue: 0,0:22:21.28,0:22:23.30,Default,,0,0,0,,Remember, we're counting on you.
-Dialogue: 0,0:22:23.74,0:22:24.58,Default,,0,0,0,,Don't worry.
-Dialogue: 0,0:22:25.02,0:22:26.76,Default,,0,0,0,,You can leave it to us.
-Dialogue: 0,0:22:27.22,0:22:28.75,Default,,0,0,0,,See you at the port, then.
-Dialogue: 0,0:22:45.90,0:22:49.72,Default,,0,0,0,,Countless smokestacks pollute the\Nskies across the land of Wano.
-Dialogue: 0,0:22:51.78,0:22:55.82,Default,,0,0,0,,And beneath them, countless\Nlaborers slave away.
-Dialogue: 0,0:22:56.50,0:22:57.62,Default,,0,0,0,,Think it's true?
-Dialogue: 0,0:22:57.86,0:22:59.52,Default,,0,0,0,,Do I think what's true?
+Dialogue: 0,0:21:04.04,0:21:09.78,Default,,0,0,0,,Hey, officer, hey! The\Nfestival? Soon release us, not?
+Dialogue: 0,0:21:09.86,0:21:13.76,Default,,0,0,0,,happening pipe down damn\Nit this is our final chance
+Dialogue: 0,0:21:13.84,0:21:19.00,Default,,0,0,0,,everyone is risking their\Nlives for this unfortunately
+Dialogue: 0,0:21:19.08,0:21:21.02,Default,,0,0,0,,there's not much we can\Ndo about the capital
+Dialogue: 0,0:21:21.10,0:21:23.76,Default,,0,0,0,,they have the arrested\Nparties under a watchful
+Dialogue: 0,0:21:23.84,0:21:27.04,Default,,0,0,0,,eye even family members\Nprotesting are being locked
+Dialogue: 0,0:21:27.12,0:21:30.72,Default,,0,0,0,,Away, a true loss\Nconsidering that some of our
+Dialogue: 0,0:21:30.80,0:21:34.76,Default,,0,0,0,,heartiest samurai are there\Nbut we must press onward
+Dialogue: 0,0:21:37.38,0:21:42.98,Default,,0,0,0,,everyone you have my gratitude use\Nthe remaining time for preparations
+Dialogue: 0,0:21:43.06,0:21:49.46,Default,,0,0,0,,and travel understood we'll meet\Nat the rendezvous port do take care
+Dialogue: 0,0:21:56.46,0:21:58.20,Default,,0,0,0,,I made one for everyone.
+Dialogue: 0,0:21:58.60,0:22:00.48,Default,,0,0,0,,We're grateful for your service.
+Dialogue: 0,0:22:01.68,0:22:03.36,Default,,0,0,0,,All right, Sir Luffy.
+Dialogue: 0,0:22:03.94,0:22:06.00,Default,,0,0,0,,It's time for us to take our leave.
+Dialogue: 0,0:22:06.16,0:22:09.02,Default,,0,0,0,,We must get there before\Neveryone else. Okay.
+Dialogue: 0,0:22:09.42,0:22:11.54,Default,,0,0,0,,My group will head out on the sunny.
+Dialogue: 0,0:22:11.64,0:22:13.16,Default,,0,0,0,,It's hidden along the coast.
+Dialogue: 0,0:22:13.24,0:22:15.66,Default,,0,0,0,,We are as prepared as we'll ever be.
+Dialogue: 0,0:22:21.24,0:22:23.28,Default,,0,0,0,,Remember, we're counting on you.
+Dialogue: 0,0:22:23.72,0:22:24.58,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:22:25.38,0:22:26.76,Default,,0,0,0,,You can leave it to us.
+Dialogue: 0,0:22:27.20,0:22:28.73,Default,,0,0,0,,See you at the port, then.
+Dialogue: 0,0:22:29.70,0:22:30.53,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:22:46.36,0:22:50.13,Default,,0,0,0,,Countless smokestacks pollute the\Nskies across the land of Wano.
+Dialogue: 0,0:22:52.06,0:22:55.78,Default,,0,0,0,,And beneath them, countless\Nlaborers slave away.
+Dialogue: 0,0:22:56.46,0:22:57.64,Default,,0,0,0,,Think it's true?
+Dialogue: 0,0:22:57.84,0:22:59.54,Default,,0,0,0,,Do I think what's true?
 Dialogue: 0,0:22:59.70,0:23:01.08,Default,,0,0,0,,What Lord Yasui said.
 Dialogue: 0,0:23:01.28,0:23:05.28,Default,,0,0,0,,Have you heard that he was covering\Nfor the Akazaya Samurai? What?
 Dialogue: 0,0:23:05.44,0:23:06.50,Default,,0,0,0,,He took the fall.
-Dialogue: 0,0:23:06.82,0:23:09.70,Default,,0,0,0,,That flyer going around\Nwasn't his prank after all.
+Dialogue: 0,0:23:06.80,0:23:09.70,Default,,0,0,0,,That flyer going around\Nwasn't his prank after all.
 Dialogue: 0,0:23:09.78,0:23:11.90,Default,,0,0,0,,It's the actual signal for the raid.
-Dialogue: 0,0:23:12.96,0:23:13.79,Default,,0,0,0,,Bastard.
-Dialogue: 0,0:23:13.87,0:23:14.70,Default,,0,0,0,,That's cruel.
-Dialogue: 0,0:23:15.04,0:23:16.28,Default,,0,0,0,,Giving us false hope.
-Dialogue: 0,0:23:16.38,0:23:20.28,Default,,0,0,0,,The events happened 20 years ago, but\NWano's wounds still haven't healed.
-Dialogue: 0,0:23:20.36,0:23:25.18,Default,,0,0,0,,It's hard to believe Kin'emon and the others\Nare still alive after all these years.
-Dialogue: 0,0:23:28.06,0:23:31.14,Default,,0,0,0,,If they are, their\Nstrength has surely faded.
+Dialogue: 0,0:23:12.92,0:23:13.75,Default,,0,0,0,,Bastard.
+Dialogue: 0,0:23:13.83,0:23:14.66,Default,,0,0,0,,That's cruel.
+Dialogue: 0,0:23:14.94,0:23:16.18,Default,,0,0,0,,Giving us false hope.
+Dialogue: 0,0:23:16.26,0:23:20.30,Default,,0,0,0,,The events happened 20 years ago, But\NWano's wounds still haven't healed.
+Dialogue: 0,0:23:20.38,0:23:25.20,Default,,0,0,0,,It's hard to believe Kin'emon and the others\Nare still alive after all these years.
+Dialogue: 0,0:23:28.12,0:23:31.14,Default,,0,0,0,,If they are, their\Nstrength has surely faded.
 Dialogue: 0,0:23:31.48,0:23:33.40,Default,,0,0,0,,They must have been through so much.
 Dialogue: 0,0:23:33.48,0:23:35.72,Default,,0,0,0,,Their spirits would be crushed by now.
-Dialogue: 0,0:23:36.32,0:23:38.91,Default,,0,0,0,,There's no hope for a\Ncountry this isolated.
-Dialogue: 0,0:23:39.28,0:23:40.96,Default,,0,0,0,,We have no outside help.
-Dialogue: 0,0:23:41.82,0:23:44.06,Default,,0,0,0,,It would be a complete bloodbath.
-Dialogue: 0,0:23:44.28,0:23:47.06,Default,,0,0,0,,We're not strong enough\Nto face Kaido alone.
-Dialogue: 0,0:23:48.50,0:23:51.32,Default,,0,0,0,,Now, seven of the Akazaya nine,
-Dialogue: 0,0:23:52.18,0:23:56.70,Default,,0,0,0,,a kunwichi and one young noble press\Non with determination in their eyes.
-Dialogue: 0,0:23:56.90,0:23:59.84,Default,,0,0,0,,The malnourished land\Nbeneath them trumbles under
+Dialogue: 0,0:23:36.38,0:23:38.97,Default,,0,0,0,,There's no hope for a\Ncountry this isolated.
+Dialogue: 0,0:23:39.24,0:23:40.96,Default,,0,0,0,,We have no outside help.
+Dialogue: 0,0:23:41.88,0:23:44.06,Default,,0,0,0,,It would be a complete bloodbath.
+Dialogue: 0,0:23:44.30,0:23:47.06,Default,,0,0,0,,We're not strong enough\Nto face Kaido alone.
+Dialogue: 0,0:23:49.24,0:23:52.90,Default,,0,0,0,,Now, seven of the Akazaya Nine, a ku
+Dialogue: 0,0:23:53.32,0:23:56.84,Default,,0,0,0,,and one young noble press on\Nwith determination in their eyes.
+Dialogue: 0,0:23:56.92,0:23:59.84,Default,,0,0,0,,The malnourished land\Nbeneath them trumbles under
 Dialogue: 0,0:23:59.92,0:24:02.70,Default,,0,0,0,,their feet like frost\Nduring a bitter winter.
-Dialogue: 0,0:24:04.16,0:24:07.42,Default,,0,0,0,,Breaking through the scattered\Nclouds and rising smog,
-Dialogue: 0,0:24:07.64,0:24:11.94,Default,,0,0,0,,the sun shines upon them as the\Nnine shadows dance like spirits.
-Dialogue: 0,0:24:12.64,0:24:14.76,Default,,0,0,0,,Yet these are not vengeful ghosts,
-Dialogue: 0,0:24:14.98,0:24:18.74,Default,,0,0,0,,but warriors of flesh and\Nblood armed with sturdy steel.
-Dialogue: 0,0:24:18.82,0:24:21.98,Default,,0,0,0,,It is a tale 20 years in the making.
-Dialogue: 0,0:24:22.50,0:24:26.00,Default,,0,0,0,,After we win this battle,\Nwe'll build them proper graves.
-Dialogue: 0,0:24:36.72,0:24:39.54,Default,,0,0,0,,I see you've become quite adept.
-Dialogue: 0,0:24:40.12,0:24:40.95,Default,,0,0,0,,Huh?
-Dialogue: 0,0:24:41.42,0:24:44.01,Default,,0,0,0,,Seems as though Enma\Nhas met a worthy owner.
-Dialogue: 0,0:24:45.28,0:24:51.56,Default,,0,0,0,,You already wield Kitetsu the Third, that's\None of mine too. You gotta be kidding.
-Dialogue: 0,0:24:52.86,0:24:56.56,Default,,0,0,0,,boy have you not questioned\Nwhy the famed blade lady Hair
-Dialogue: 0,0:24:56.64,0:25:01.06,Default,,0,0,0,,left you feel so comfortable\Nin your hand it works much
-Dialogue: 0,0:25:01.14,0:25:05.20,Default,,0,0,0,,like a cursed blade does the\Nweak cannot handle them though
-Dialogue: 0,0:25:05.28,0:25:08.30,Default,,0,0,0,,there is a much bigger reason\Nwhy it feels familiar to you
-Dialogue: 0,0:25:08.38,0:25:12.52,Default,,0,0,0,,As you wield it, you may find\Nthis shocking but your Wado
-Dialogue: 0,0:25:12.60,0:25:17.50,Default,,0,0,0,,ichimonji and enma were crafted\Nby the very same man he was
-Dialogue: 0,0:25:17.58,0:25:21.82,Default,,0,0,0,,the legendary blacksmith\Nshimotsuki kozaburo over 50 years
-Dialogue: 0,0:25:21.90,0:25:25.94,Default,,0,0,0,,ago he broke the laws of this\Nland and left everything behind
-Dialogue: 0,0:25:26.72,0:25:29.08,Default,,0,0,0,,lady hyori might have\Ngiven you the memento
-Dialogue: 0,0:25:29.16,0:25:32.04,Default,,0,0,0,,from her father because\Nshe recognized that sword
-Dialogue: 0,0:25:35.36,0:25:40.06,Default,,0,0,0,,Enma has yet to be forged into\Na black blade. Its rank will
-Dialogue: 0,0:25:40.14,0:25:46.10,Default,,0,0,0,,depend on your actions I'm\Ngonna have some fun with this
+Dialogue: 0,0:24:04.18,0:24:07.42,Default,,0,0,0,,Breaking through the scattered\Nclouds and rising smog,
+Dialogue: 0,0:24:07.66,0:24:11.84,Default,,0,0,0,,the sun shines upon them as the\Nnine shadows dance like spirits.
+Dialogue: 0,0:24:11.92,0:24:14.72,Default,,0,0,0,,Yet these are not vengeful ghosts,
+Dialogue: 0,0:24:15.04,0:24:18.78,Default,,0,0,0,,but warriors of flesh and\Nblood armed with sturdy steel.
+Dialogue: 0,0:24:19.20,0:24:21.98,Default,,0,0,0,,It is a tale twenty years in the making.
+Dialogue: 0,0:24:22.60,0:24:26.04,Default,,0,0,0,,After we win this battle,\Nwe'll build them proper graves.
+Dialogue: 0,0:24:37.20,0:24:39.54,Default,,0,0,0,,I see you've become quite adept.
+Dialogue: 0,0:24:40.08,0:24:40.91,Default,,0,0,0,,Huh?
+Dialogue: 0,0:24:40.99,0:24:43.92,Default,,0,0,0,,It seems as though Enma\Nhas met a worthy owner.
+Dialogue: 0,0:24:45.30,0:24:47.54,Default,,0,0,0,,You already wield Kitetsu III.
+Dialogue: 0,0:24:47.62,0:24:49.76,Default,,0,0,0,,Well, that's one of mine, too.
+Dialogue: 0,0:24:50.30,0:24:51.56,Default,,0,0,0,,You gotta be kidding.
+Dialogue: 0,0:24:53.14,0:24:53.97,Default,,0,0,0,,Boy,
+Dialogue: 0,0:24:54.05,0:24:56.09,Default,,0,0,0,,have you not questioned\Nwhy the famed Blade Lady
+Dialogue: 0,0:24:56.18,0:24:59.06,Default,,0,0,0,,Hiyori left you feel so\Ncomfortable in your hand?
+Dialogue: 0,0:24:59.94,0:25:02.52,Default,,0,0,0,,It works much like a cursed blade does.
+Dialogue: 0,0:25:02.76,0:25:04.44,Default,,0,0,0,,The weak cannot handle them.
+Dialogue: 0,0:25:04.76,0:25:09.58,Default,,0,0,0,,Though there is a much bigger reason why\Nit feels familiar to you as you wield it.
+Dialogue: 0,0:25:10.60,0:25:11.88,Default,,0,0,0,,You may find this shocking,
+Dialogue: 0,0:25:11.96,0:25:15.90,Default,,0,0,0,,but your Wado Ichimonji and Enma\Nwere crafted by the very same man.
+Dialogue: 0,0:25:16.74,0:25:22.28,Default,,0,0,0,,He was the legendary blacksmith\NShimotsuki Koza over 50 years ago.
+Dialogue: 0,0:25:22.74,0:25:26.15,Default,,0,0,0,,He broke the laws of this land\Nand left everything behind.
+Dialogue: 0,0:25:26.76,0:25:29.08,Default,,0,0,0,,Lady Hiyori might have\Ngiven you the memento
+Dialogue: 0,0:25:29.16,0:25:32.10,Default,,0,0,0,,from her father because\Nshe recognized that sword.
+Dialogue: 0,0:25:35.38,0:25:38.36,Default,,0,0,0,,Enma has yet to be forged\Ninto a black blade.
+Dialogue: 0,0:25:38.44,0:25:41.56,Default,,0,0,0,,Its rank will depend on your actions.
+Dialogue: 0,0:25:41.64,0:25:46.10,Default,,0,0,0,,I'm gonna have some fun with this
 Dialogue: 0,0:25:48.26,0:25:54.64,Default,,0,0,0,,so all is well in Udon must\Nhave been a false alarm yes
 Dialogue: 0,0:25:54.72,0:25:58.84,Default,,0,0,0,,no problems to report this\Nplace is under control so please
 Dialogue: 0,0:25:58.92,0:26:01.20,Default,,0,0,0,,don't worry about us sir we'll\Ntake care of the prisoners

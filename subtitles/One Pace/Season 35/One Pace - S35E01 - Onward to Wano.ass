@@ -21,7 +21,7 @@ Style: Credits-207+,FOT-Greco Std DB Strp,55,&H00FFFFFF,&H000000FF,&H00000000,&H
 Style: Narrator-207+,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,300,300,27,1
 Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Captions-207+,FOT-Greco Std DB Strp,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,15,15,30,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -34,7 +34,7 @@ Dialogue: 0,0:00:10.70,0:00:13.36,Dubtitles,,0,0,0,,Master Catviper's a pretty\N
 Dialogue: 0,0:00:13.44,0:00:16.82,Dubtitles,,0,0,0,,Though I do suppose he sailed with\Nthe King of the Pirates after all.
 Dialogue: 0,0:00:16.90,0:00:19.84,Dubtitles,,0,0,0,,So, how long should we\Nwait at these ruins anyway?
 Dialogue: 0,0:00:20.12,0:00:21.58,Dubtitles,,0,0,0,,I feel like it's been a while.
-Dialogue: 0,0:00:21.66,0:00:25.10,Dubtitles,,0,0,0,,Until Master Catviper brings\NMarco here, of course.
+Dialogue: 0,0:00:21.66,0:00:25.10,Dubtitles,,0,0,0,,Until Master Catviper brings\NMarco the Phoenix here, of course.
 Dialogue: 0,0:00:25.18,0:00:26.01,Dubtitles,,0,0,0,,Yeah?
 Dialogue: 0,0:00:26.09,0:00:26.92,Dubtitles,,0,0,0,,You think he'll do it?
 Dialogue: 0,0:00:27.01,0:00:27.84,Dubtitles,,0,0,0,,I don't know.
@@ -51,7 +51,7 @@ Dialogue: 0,0:00:55.42,0:00:58.84,Dubtitles,,0,0,0,,Master said to stay put beca
 Dialogue: 0,0:00:58.92,0:01:02.39,Dubtitles,,0,0,0,,Is Marco the kind of guy who\Nwill get scared off by a face?
 Dialogue: 0,0:01:03.26,0:01:04.30,Dubtitles,,0,0,0,,Listen here.
 Dialogue: 0,0:01:04.66,0:01:08.42,Dubtitles,,0,0,0,,He was referring to that quaint little\Nvillage of peace-loving folks up there,
-Dialogue: 0,0:01:08.50,0:01:09.38,Dubtitles,,0,0,0,,you Karoo fool.
+Dialogue: 0,0:01:08.50,0:01:09.38,Dubtitles,,0,0,0,,you Gaara fool.
 Dialogue: 0,0:01:09.52,0:01:12.70,Dubtitles,,0,0,0,,Big, pearly warriors like\Nus will frighten the locals.
 Dialogue: 0,0:01:12.90,0:01:13.76,Dubtitles,,0,0,0,,I see.
 Dialogue: 0,0:01:14.14,0:01:18.02,Dubtitles,,0,0,0,,But Master Cadvipers' features are\Nscarier than mine, I would say.
@@ -74,7 +74,7 @@ Dialogue: 0,0:02:29.12,0:02:31.30,Dubtitles,,0,0,0,,You'll be bouncing around by
 Dialogue: 0,0:02:53.54,0:02:54.68,Dubtitles,,0,0,0,,It feels like you're back to normal.
 Dialogue: 0,0:02:54.76,0:02:55.59,Dubtitles,,0,0,0,,Oh, boy!
 Dialogue: 0,0:03:00.10,0:03:00.94,Dubtitles,,0,0,0,,Take it easy.
-Dialogue: 0,0:03:01.04,0:03:02.06,Dubtitles,,0,0,0,,Set by tomorrow.
+Dialogue: 0,0:03:01.04,0:03:02.06,Dubtitles,,0,0,0,,Set by tomorrow!
 Dialogue: 0,0:03:04.00,0:03:05.77,Dubtitles,,0,0,0,,Thank you for the help, Marco!
 Dialogue: 0,0:03:06.12,0:03:07.08,Dubtitles,,0,0,0,,We love you!
 Dialogue: 0,0:03:14.66,0:03:15.94,Dubtitles,,0,0,0,,Marco? Excuse me.
@@ -82,7 +82,7 @@ Dialogue: 0,0:03:16.26,0:03:17.68,Dubtitles,,0,0,0,,I got a knot in my shoulder.
 Dialogue: 1,0:03:16.51,0:03:19.22,Captions-207+,,0,0,0,,{\fnKakumin Web\pos(960,715)\1a&HFF&\blur0.8\fad(270,0)\t(228,270,\1a&H00&)\fscx110\fscy110\c&H010405&\3c&H010405&\bord2.5}Nekomamushi\NMink Guardians
 Dialogue: 2,0:03:16.51,0:03:19.22,Captions-207+,,0,0,0,,{\fnKakumin Web\pos(960,715)\bord0\4a&HFF&\blur0.8\fad(270,0)\c&HFAFAFA&\fscx110\fscy110}Nekomamushi\NMink Guardians
 Dialogue: 0,0:03:17.76,0:03:19.38,Dubtitles,,0,0,0,,Marco, I saw a knot through the mouth.
-Dialogue: 0,0:03:19.46,0:03:20.74,Dubtitles,,0,0,0,,Marco, the vest was an ideal.
+Dialogue: 0,0:03:19.46,0:03:20.74,Dubtitles,,0,0,0,,Marco, my crops...
 Dialogue: 0,0:03:20.82,0:03:22.04,Dubtitles,,0,0,0,,Could you use some tears?
 Dialogue: 0,0:03:22.12,0:03:24.18,Dubtitles,,0,0,0,,Marco, I slipped a disc in my back.
 Dialogue: 0,0:03:30.20,0:03:31.70,Dubtitles,,0,0,0,,All right, all right.
@@ -99,7 +99,7 @@ Dialogue: 0,0:04:22.16,0:04:24.78,Dubtitles,,0,0,0,,it turns out a fresh\Ngenera
 Dialogue: 0,0:04:25.52,0:04:27.11,Dubtitles,,0,0,0,,Pops was one of those kids.
 Dialogue: 0,0:04:29.10,0:04:32.86,Dubtitles,,0,0,0,,With nothing left to lose, he\Nwent out to sea at an early age.
 Dialogue: 0,0:04:39.38,0:04:42.73,Dubtitles,,0,0,0,,Even after becoming a pirate,\Nhe cared about this island.
-Dialogue: 0,0:04:42.84,0:04:45.94,Dubtitles,,0,0,0,,He'd funneled dirty money and\Nsupplies here whenever he could,
+Dialogue: 0,0:04:42.84,0:04:45.94,Dubtitles,,0,0,0,,He'd funneled dirty money and\Nsupplies here whenever he could.
 Dialogue: 0,0:04:46.02,0:04:47.96,Dubtitles,,0,0,0,,but he never revealed who he was.
 Dialogue: 0,0:04:48.54,0:04:49.88,Dubtitles,,0,0,0,,Did it till he died.
 Dialogue: 0,0:04:51.30,0:04:55.80,Dubtitles,,0,0,0,,He never had a family, and his\Nfriends were all long gone.
@@ -129,7 +129,7 @@ Dialogue: 0,0:06:35.54,0:06:36.37,Dubtitles,,0,0,0,,Yeah.
 Dialogue: 0,0:06:39.22,0:06:40.56,Dubtitles,,0,0,0,,He must be grateful.
 Dialogue: 0,0:06:41.48,0:06:44.13,Dubtitles,,0,0,0,,Red-haired Shanks made\Nsure to bury him here.
 Dialogue: 0,0:06:46.68,0:06:50.76,Dubtitles,,0,0,0,,By the way, have you heard\Nof a warlord named Weevil?
-Dialogue: 0,0:06:50.92,0:06:53.22,Dubtitles,,0,0,0,,He said he's Pops' biological son,
+Dialogue: 0,0:06:50.92,0:06:53.22,Dubtitles,,0,0,0,,He said he's Pops' biological son.
 Dialogue: 0,0:06:53.30,0:06:56.48,Dubtitles,,0,0,0,,and now he's attacking people\Nconnected to Whitebeard.
 Dialogue: 0,0:06:56.58,0:06:58.42,Dubtitles,,0,0,0,,Wow, is her claim true?
 Dialogue: 0,0:06:58.68,0:07:00.03,Dubtitles,,0,0,0,,I'm not sure, honestly.
@@ -139,7 +139,7 @@ Dialogue: 0,0:07:05.06,0:07:08.47,Dubtitles,,0,0,0,,And I doubt they'd believe u
 Dialogue: 0,0:07:09.98,0:07:11.12,Dubtitles,,0,0,0,,And you know what?
 Dialogue: 0,0:07:11.26,0:07:12.09,Dubtitles,,0,0,0,,It's a shame.
 Dialogue: 0,0:07:12.17,0:07:14.84,Dubtitles,,0,0,0,,It's only a matter of time\Nbefore they come for this place.
-Dialogue: 0,0:07:14.92,0:07:18.28,Dubtitles,,0,0,0,,I see. That means you got us stuck here.
+Dialogue: 0,0:07:14.92,0:07:18.28,Dubtitles,,0,0,0,,I see. That means you are stuck here.
 Dialogue: 0,0:07:21.52,0:07:25.05,Dubtitles,,0,0,0,,Weevil's mother buckin was a\Npirate back in her younger days
 Dialogue: 0,0:07:25.14,0:07:28.92,Dubtitles,,0,0,0,,If I recall correctly, it must\Nhave been about 30 or 40 years ago.
 Dialogue: 0,0:07:29.00,0:07:32.35,Dubtitles,,0,0,0,,I even heard she used to be\Non the very same ship as pops
@@ -156,7 +156,7 @@ Dialogue: 0,0:08:06.82,0:08:09.90,Dubtitles,,0,0,0,,Luffy, it says the referee k
 Dialogue: 0,0:08:10.18,0:08:12.18,Dubtitles,,0,0,0,,Royalty from all over are attending.
 Dialogue: 0,0:08:12.26,0:08:15.20,Dubtitles,,0,0,0,,They're at the conference\Nin Marie Joie right now.
 Dialogue: 0,0:08:17.36,0:08:19.64,Dubtitles,,0,0,0,,All eyes are on a set\Nof guests who haven't
-Dialogue: 0,0:08:19.72,0:08:22.94,Dubtitles,,0,0,0,,Participated in two centuries\Nthrough a Ryugu kingdom.
+Dialogue: 0,0:08:19.72,0:08:22.94,Dubtitles,,0,0,0,,participated in two centuries\Nthrough a Yuku kingdom.
 Dialogue: 0,0:08:23.34,0:08:26.69,Dubtitles,,0,0,0,,King Neptune will be in\Nattendance with all his children.
 Dialogue: 0,0:08:27.64,0:08:28.47,Dubtitles,,0,0,0,,Ha!
 Dialogue: 0,0:08:28.55,0:08:31.12,Dubtitles,,0,0,0,,Seems like Shirahoshi was\Na big hit with everyone.
@@ -190,11 +190,11 @@ Dialogue: 0,0:09:34.66,0:09:36.40,Dubtitles,,0,0,0,,Look at all the royal famili
 Dialogue: 0,0:09:36.48,0:09:37.98,Dubtitles,,0,0,0,,Tons of bodyguards, too.
 Dialogue: 0,0:09:38.88,0:09:41.80,Dubtitles,,0,0,0,,People from Dressrosa should\Nbe there as well, right?
 Dialogue: 0,0:09:41.88,0:09:43.80,Dubtitles,,0,0,0,,There she is, Viola!
-Dialogue: 0,0:09:50.60,0:09:51.78,Dubtitles,,0,0,0,,Ugh! Wapol!
+Dialogue: 0,0:09:50.60,0:09:51.78,Dubtitles,,0,0,0,,Ugh! Waffle!
 Dialogue: 0,0:09:52.26,0:09:53.78,Dubtitles,,0,0,0,,Hey, an acorn guy!
 Dialogue: 0,0:09:54.44,0:09:55.90,Dubtitles,,0,0,0,,Huh? Waffle?
 Dialogue: 0,0:09:56.06,0:09:57.00,Dubtitles,,0,0,0,,Why is he there?
-Dialogue: 0,0:09:58.36,0:10:00.14,Dubtitles,,0,0,0,,That's Rebecca and Sai!
+Dialogue: 0,0:09:58.36,0:10:00.14,Dubtitles,,0,0,0,,That's Rebecca and Psy!
 Dialogue: 0,0:10:00.36,0:10:01.95,Dubtitles,,0,0,0,,I know a lot of these guys!
 Dialogue: 0,0:10:02.58,0:10:03.41,Dubtitles,,0,0,0,,No kidding.
 Dialogue: 0,0:10:03.52,0:10:07.02,Dubtitles,,0,0,0,,Though I suppose any royalty we\Nknow would be at the reverie.
@@ -236,7 +236,7 @@ Dialogue: 0,0:12:04.44,0:12:05.48,Dubtitles,,0,0,0,,Hang on, Luffy.
 Dialogue: 0,0:12:05.86,0:12:07.06,Dubtitles,,0,0,0,,What's wrong?
 Dialogue: 0,0:12:08.20,0:12:09.38,Dubtitles,,0,0,0,,Feel that wind?
 Dialogue: 0,0:12:30.42,0:12:32.14,Dubtitles,,0,0,0,,This can't be a good sign.
-Dialogue: 0,0:12:32.52,0:12:34.52,Dubtitles,,0,0,0,,I've never seen waves like those.
+Dialogue: 0,0:12:32.52,0:12:34.52,Dubtitles,,0,0,0,,I've never seen waves like these.
 Dialogue: 0,0:12:35.04,0:12:37.24,Dubtitles,,0,0,0,,And the wind here is freezing cold.
 Dialogue: 0,0:12:42.50,0:12:45.88,Dubtitles,,0,0,0,,But I think this is the sea around Wano.
 Dialogue: 0,0:12:54.32,0:12:58.08,Dubtitles,,0,0,0,,Do you all feel how the wind keeps\Ngetting stronger the closer we get?
@@ -269,7 +269,7 @@ Dialogue: 0,0:14:12.68,0:14:13.51,Dubtitles,,0,0,0,,Hmm.
 Dialogue: 0,0:14:13.59,0:14:14.84,Dubtitles,,0,0,0,,Let me think this over a little.
 Dialogue: 0,0:14:14.94,0:14:17.94,Dubtitles,,0,0,0,,There has to be some way\Nto get us in there safely.
 Dialogue: 0,0:14:19.06,0:14:19.89,Dubtitles,,0,0,0,,Yo!
-Dialogue: 0,0:14:23.08,0:14:24.36,Dubtitles,,0,0,0,,What's that thing?!
+Dialogue: 0,0:14:23.08,0:14:24.36,Dubtitles,,0,0,0,,What's that thing?
 Dialogue: 0,0:14:24.58,0:14:25.72,Dubtitles,,0,0,0,,It's an octopus!
 Dialogue: 0,0:14:26.12,0:14:27.10,Dubtitles,,0,0,0,,That guy's big!
 Dialogue: 0,0:14:27.60,0:14:28.94,Dubtitles,,0,0,0,,Why is it on the ship?
@@ -281,7 +281,7 @@ Dialogue: 0,0:14:40.72,0:14:42.32,Dubtitles,,0,0,0,,It doesn't matter!
 Dialogue: 0,0:14:42.92,0:14:44.44,Dubtitles,,0,0,0,,Come on, Sunny!
 Dialogue: 0,0:14:45.36,0:14:47.96,Dubtitles,,0,0,0,,Let's go to the Land of Water!
 Dialogue: 0,0:15:02.84,0:15:05.72,Dubtitles,,0,0,0,,Hey, it looks like\Nsomething's coming towards us!
-Dialogue: 0,0:15:09.52,0:15:11.10,Dubtitles,,0,0,0,,Uh-oh, what is it?!
+Dialogue: 0,0:15:09.52,0:15:11.10,Dubtitles,,0,0,0,,Uh-oh, what is it?
 Dialogue: 0,0:15:11.28,0:15:13.66,Dubtitles,,0,0,0,,It kind of looks like a giant fish to me!
 Dialogue: 0,0:15:13.74,0:15:15.38,Dubtitles,,0,0,0,,Is it a shark? Please, no!
 Dialogue: 0,0:15:15.46,0:15:18.98,Dubtitles,,0,0,0,,It's Viggettus!
@@ -289,18 +289,18 @@ Dialogue: 0,0:15:27.46,0:15:28.36,Dubtitles,,0,0,0,,Koi fish?
 Dialogue: 0,0:15:29.06,0:15:30.72,Dubtitles,,0,0,0,,Oh, wow, cool!
 Dialogue: 0,0:15:33.08,0:15:34.98,Dubtitles,,0,0,0,,He's huge!
 Dialogue: 0,0:15:35.66,0:15:36.49,Dubtitles,,0,0,0,,Yo!
-Dialogue: 0,0:15:43.44,0:15:45.42,Dubtitles,,0,0,0,,A whole school of koi?!
+Dialogue: 0,0:15:43.44,0:15:45.42,Dubtitles,,0,0,0,,A whole school of koi.
 Dialogue: 0,0:15:52.52,0:15:55.28,Dubtitles,,0,0,0,,What the hell are those\Nthings doing in the sea?
 Dialogue: 0,0:15:55.36,0:15:56.78,Dubtitles,,0,0,0,,They're freshwater fish.
 Dialogue: 0,0:15:56.88,0:15:58.12,Dubtitles,,0,0,0,,How can they survive?
 Dialogue: 0,0:15:58.24,0:15:59.07,Dubtitles,,0,0,0,,Who knows?
 Dialogue: 0,0:15:59.30,0:16:00.71,Dubtitles,,0,0,0,,They're monsters anyway.
-Dialogue: 0,0:16:01.24,0:16:03.62,Dubtitles,,0,0,0,,Hey, Sanji! Do these things fry up okay?
+Dialogue: 0,0:16:01.24,0:16:03.62,Dubtitles,,0,0,0,,Hey, Sanji, do these things fry up okay?
 Dialogue: 0,0:16:03.84,0:16:06.02,Dubtitles,,0,0,0,,That stuff's not important right now.
-Dialogue: 0,0:16:06.78,0:16:11.02,Dubtitles,,0,0,0,,I guess it's possible if you wash them\Nin hot water and then serve them chilled.
-Dialogue: 0,0:16:11.10,0:16:14.38,Dubtitles,,0,0,0,,You can make our eye or I\Ncan simmer them in some Miss.
-Dialogue: 0,0:16:14.46,0:16:18.14,Dubtitles,,0,0,0,,I can batter them up and make tempura\Nor simmer them in sweet sauce.
-Dialogue: 0,0:16:18.22,0:16:24.60,Dubtitles,,0,0,0,,Once we find the rest of the crew,\Nlet's celebrate with one of these.
+Dialogue: 0,0:16:06.78,0:16:10.56,Dubtitles,,0,0,0,,I guess it's possible if you wash\Nthem in hot water and then serve
+Dialogue: 0,0:16:10.64,0:16:14.38,Dubtitles,,0,0,0,,them chilled You can make our eye\Nor I can simmer them in some miso
+Dialogue: 0,0:16:14.46,0:16:18.14,Dubtitles,,0,0,0,,I can batter them up and make\Ntempura or simmer them in sweet sauce
+Dialogue: 0,0:16:18.22,0:16:24.60,Dubtitles,,0,0,0,,Once we find the rest of the crew,\Nlet's celebrate with one of these!
 Dialogue: 0,0:16:38.60,0:16:40.14,Dubtitles,,0,0,0,,Hey, don't struggle!
 Dialogue: 0,0:16:40.38,0:16:41.82,Dubtitles,,0,0,0,,Of course it's gonna struggle!
 Dialogue: 0,0:16:41.90,0:16:44.10,Dubtitles,,0,0,0,,You think it's gonna just let you eat it?
@@ -308,19 +308,15 @@ Dialogue: 0,0:16:44.18,0:16:45.06,Dubtitles,,0,0,0,,And Sanji,
 Dialogue: 0,0:16:45.26,0:16:48.82,Dubtitles,,0,0,0,,you're the one who put this dumb idea\Nin his head, so you go bring him back!
 Dialogue: 0,0:16:48.90,0:16:50.37,Dubtitles,,0,0,0,,It's not that big a deal.
 Dialogue: 0,0:16:50.60,0:16:53.00,Dubtitles,,0,0,0,,We know he can manage on his own. Huh?
-Dialogue: 0,0:16:53.62,0:16:56.21,Dubtitles,,0,0,0,,Let's just worry about\Nprotecting the ship.
+Dialogue: 0,0:16:53.62,0:16:56.21,Dubtitles,,0,0,0,,Let's just worry about\Nprotecting the Sunny.
 Dialogue: 0,0:17:17.20,0:17:18.74,Dubtitles,,0,0,0,,The wind is picking up!
 Dialogue: 0,0:17:18.94,0:17:21.12,Dubtitles,,0,0,0,,Carrot, probe a tail! On it!
 Dialogue: 0,0:17:21.56,0:17:22.46,Dubtitles,,0,0,0,,I need help!
-Dialogue: 0,0:17:41.90,0:17:44.08,Dubtitles,,0,0,0,,Crazy look, how clear the water is?
-Dialogue: 0,0:17:44.16,0:17:46.40,Dubtitles,,0,0,0,,It's crystal clear,\Nlike a mountain stream.
-Dialogue: 0,0:17:46.48,0:17:47.90,Dubtitles,,0,0,0,,I'd rather not see.
-Dialogue: 0,0:17:47.98,0:17:48.92,Dubtitles,,0,0,0,,Thank you very much.
-Dialogue: 0,0:17:49.00,0:17:53.86,Dubtitles,,0,0,0,,The giant fish are freaking me\Nout—is this a river? No way!
-Dialogue: 0,0:17:53.94,0:17:57.38,Dubtitles,,0,0,0,,It looks like they're all\Nheaded to the same place.
-Dialogue: 0,0:17:57.46,0:18:02.44,Dubtitles,,0,0,0,,Hang on tight—we're just\Nalong for the ride now!
-Dialogue: 0,0:18:02.52,0:18:03.35,Dubtitles,,0,0,0,,ride now
-Dialogue: 0,0:18:04.06,0:18:05.65,Dubtitles,,0,0,0,,There's movies on the road!
+Dialogue: 0,0:17:41.90,0:17:45.90,Dubtitles,,0,0,0,,crazy look how clean the water is\Nit's crystal clear like a mountain
+Dialogue: 0,0:17:45.98,0:17:49.96,Dubtitles,,0,0,0,,stream i'd rather not see thank\Nyou very much the giant fish are
+Dialogue: 0,0:17:50.04,0:17:56.60,Dubtitles,,0,0,0,,freaking me out is this a river\Nno way it looks like they're all
+Dialogue: 0,0:17:56.68,0:18:03.12,Dubtitles,,0,0,0,,headed to the same place hang on tight\Nwe're just along for the ride now
+Dialogue: 0,0:18:04.06,0:18:05.65,Dubtitles,,0,0,0,,There's Luffy on the road!
 Dialogue: 0,0:18:16.32,0:18:17.64,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 0,0:18:17.92,0:18:19.24,Dubtitles,,0,0,0,,How's that possible?
 Dialogue: 0,0:18:19.80,0:18:23.90,Dubtitles,,0,0,0,,The river's flowing into the waterfall,\Nnot away from it, like usual.
@@ -336,13 +332,13 @@ Dialogue: 0,0:19:14.56,0:19:17.54,Dubtitles,,0,0,0,,The fish are climbing\Nthe w
 Dialogue: 0,0:19:25.64,0:19:26.86,Dubtitles,,0,0,0,,Go Koi Fish!
 Dialogue: 0,0:19:26.98,0:19:28.00,Dubtitles,,0,0,0,,Go Koi Fish!
 Dialogue: 0,0:19:28.68,0:19:31.30,Dubtitles,,0,0,0,,I'm not sure how we can\Nget the Sunny up there.
-Dialogue: 0,0:19:31.38,0:19:33.04,Dubtitles,,0,0,0,,We'll think if we take it head on.
+Dialogue: 0,0:19:31.38,0:19:33.04,Dubtitles,,0,0,0,,We'll sink if we take it head on.
 Dialogue: 0,0:19:33.12,0:19:34.89,Dubtitles,,0,0,0,,Open to suggestions right now!
 Dialogue: 0,0:19:35.42,0:19:36.36,Dubtitles,,0,0,0,,You're back!
 Dialogue: 0,0:19:37.18,0:19:38.76,Dubtitles,,0,0,0,,Wow, you see that?
 Dialogue: 0,0:19:38.90,0:19:40.08,Dubtitles,,0,0,0,,Those koi are tough!
 Dialogue: 0,0:19:40.30,0:19:42.07,Dubtitles,,0,0,0,,You can admire the fish later!
-Dialogue: 0,0:19:42.32,0:19:44.32,Dubtitles,,0,0,0,,Luffy, the ship's going to sink!
+Dialogue: 0,0:19:42.32,0:19:44.32,Dubtitles,,0,0,0,,Luffy! The ship's going to sink!
 Dialogue: 0,0:19:44.74,0:19:45.96,Dubtitles,,0,0,0,,Right, I got this!
 Dialogue: 0,0:19:46.60,0:19:47.43,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:19:48.84,0:19:51.18,Dubtitles,,0,0,0,,You should probably hang on tight!
@@ -362,9 +358,9 @@ Dialogue: 0,0:21:25.66,0:21:27.20,Dubtitles,,0,0,0,,Ross, take the helm!
 Dialogue: 0,0:21:27.76,0:21:29.11,Dubtitles,,0,0,0,,That's your wish, Nami!
 Dialogue: 0,0:21:39.60,0:21:40.66,Dubtitles,,0,0,0,,No use!
 Dialogue: 0,0:21:40.94,0:21:42.65,Dubtitles,,0,0,0,,The current's way too strong!
-Dialogue: 0,0:21:47.92,0:21:48.96,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:21:47.92,0:21:48.96,Dubtitles,,0,0,0,,Damn!
 Dialogue: 0,0:21:49.14,0:21:50.91,Dubtitles,,0,0,0,,And we were almost there, too!
-Dialogue: 0,0:21:52.76,0:21:57.26,Dubtitles,,0,0,0,,It was nice telling you!\NDr. Vegapunk! I need it!
+Dialogue: 0,0:21:52.76,0:21:57.26,Dubtitles,,0,0,0,,It was nice telling you!\NDoctorine! I need it!
 Dialogue: 0,0:22:02.22,0:22:03.76,Dubtitles,,0,0,0,,Where's my koi?
 Dialogue: 0,0:22:03.94,0:22:05.28,Dubtitles,,0,0,0,,We're already floofy!
 Dialogue: 0,0:22:17.78,0:22:18.98,Dubtitles,,0,0,0,,Oh no!

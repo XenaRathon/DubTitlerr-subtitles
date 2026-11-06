@@ -11,42 +11,30 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.12,Default,,0,0,0,,We will move through Earth's horizon.
-Dialogue: 0,0:00:03.20,0:00:06.26,Default,,0,0,0,,We will find infinity for sure.
-Dialogue: 0,0:00:06.34,0:00:13.14,Default,,0,0,0,,Let's fight for this blue sea and\Nlet the wind take us far away.
-Dialogue: 0,0:00:13.22,0:00:20.10,Default,,0,0,0,,Don't give up.
-Dialogue: 0,0:00:20.18,0:00:22.94,Default,,0,0,0,,So I can come back to this moment.
-Dialogue: 0,0:00:23.02,0:00:26.08,Default,,0,0,0,,So I can be present right here.
-Dialogue: 0,0:00:26.16,0:00:28.70,Default,,0,0,0,,Throw away this drop.
-Dialogue: 0,0:00:28.78,0:00:30.20,Default,,0,0,0,,Sometimes we share.
-Dialogue: 0,0:00:30.28,0:00:31.28,Default,,0,0,0,,Shut it up.
-Dialogue: 0,0:00:31.36,0:00:34.24,Default,,0,0,0,,Do not be so afraid to podcast.
-Dialogue: 0,0:00:34.32,0:00:36.94,Default,,0,0,0,,To have a friend right here.
-Dialogue: 0,0:00:37.02,0:00:40.32,Default,,0,0,0,,And I will always be here by your side.
-Dialogue: 0,0:00:40.40,0:00:42.90,Default,,0,0,0,,To take care of you.
-Dialogue: 0,0:00:43.72,0:00:46.30,Default,,0,0,0,,Even in the darkest of times.
-Dialogue: 0,0:00:46.38,0:00:47.22,Default,,0,0,0,,I'll try.
-Dialogue: 0,0:00:47.30,0:00:48.84,Default,,0,0,0,,Look and breathe it out.
-Dialogue: 0,0:00:48.92,0:00:50.30,Default,,0,0,0,,It's alright now.
-Dialogue: 0,0:00:50.38,0:00:54.02,Default,,0,0,0,,Cause we are the ones who\Nare meant to move them up.
-Dialogue: 0,0:00:54.10,0:00:56.74,Default,,0,0,0,,We will move to our single horizon.
-Dialogue: 0,0:00:56.82,0:00:59.84,Default,,0,0,0,,We will find insanity for sure.
-Dialogue: 0,0:00:59.92,0:01:02.54,Default,,0,0,0,,We're a world from our heads.
-Dialogue: 0,0:01:02.62,0:01:04.46,Default,,0,0,0,,We will win for sure.
-Dialogue: 0,0:01:04.54,0:01:05.50,Default,,0,0,0,,Dreaming. On.
-Dialogue: 0,0:01:05.58,0:01:07.94,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:01:08.02,0:01:10.86,Default,,0,0,0,,We will fight however we can.
-Dialogue: 0,0:01:10.94,0:01:13.76,Default,,0,0,0,,In order to be the best we will run.
-Dialogue: 0,0:01:13.84,0:01:16.48,Default,,0,0,0,,To the top, to the end.
-Dialogue: 0,0:01:16.56,0:01:22.18,Default,,0,0,0,,We gotta be the ones that\Njust keep dreaming on.
-Dialogue: 0,0:01:23.10,0:01:25.38,Default,,0,0,0,,I just can't give up now.
-Dialogue: 0,0:01:25.46,0:01:28.30,Default,,0,0,0,,I can never stop. Cause.
-Dialogue: 0,0:01:28.38,0:01:31.62,Default,,0,0,0,,I gotta give everything I got to.
-Dialogue: 0,0:01:31.70,0:01:35.46,Default,,0,0,0,,Become the greatest of all times.
-Dialogue: 0,0:01:36.22,0:01:39.12,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:01:39.20,0:01:41.88,Default,,0,0,0,,We will find infinite portions.
-Dialogue: 0,0:01:41.96,0:01:46.72,Default,,0,0,0,,We will step up and we\Nwill leave for sure.
-Dialogue: 0,0:01:46.80,0:01:49.00,Default,,0,0,0,,So keep moving on.
+Dialogue: 0,0:00:00.00,0:00:03.98,Default,,0,0,0,,We will move through\NEarth's horizon. We will
+Dialogue: 0,0:00:04.06,0:00:08.92,Default,,0,0,0,,Find infinity for sure.\NLet's fight for this blue.
+Dialogue: 0,0:00:09.00,0:00:11.48,Default,,0,0,0,,sea and let the wind Take
+Dialogue: 0,0:00:11.56,0:00:13.14,Default,,0,0,0,,us far away
+Dialogue: 0,0:00:13.22,0:00:19.56,Default,,0,0,0,,Don't give
+Dialogue: 0,0:00:19.64,0:00:24.28,Default,,0,0,0,,up So I can come back\Nto this moment So I can
+Dialogue: 0,0:00:24.36,0:00:28.70,Default,,0,0,0,,be present right here Throw away this drop
+Dialogue: 0,0:00:28.78,0:00:33.54,Default,,0,0,0,,Sometimes we share. Shut it\Nup. Do not be so afraid to
+Dialogue: 0,0:00:33.62,0:00:38.10,Default,,0,0,0,,podcast To have a friend\Nright here And I will
+Dialogue: 0,0:00:38.18,0:00:42.90,Default,,0,0,0,,always be here by your\Nside To take care of you
+Dialogue: 0,0:00:43.72,0:00:47.98,Default,,0,0,0,,Even in the darkest of\Ntimes I'll try. Look and
+Dialogue: 0,0:00:48.06,0:00:51.22,Default,,0,0,0,,Breathe it out. It's\Nalright now. Cause we are.
+Dialogue: 0,0:00:51.30,0:00:54.72,Default,,0,0,0,,the ones who are meant\Nto move them up We will
+Dialogue: 0,0:00:54.80,0:00:58.88,Default,,0,0,0,,Move to our single horizon.\NWe will find insanity.
+Dialogue: 0,0:00:58.96,0:01:03.32,Default,,0,0,0,,For sure. We're a world\Nfrom our heads. We will
+Dialogue: 0,0:01:03.40,0:01:07.18,Default,,0,0,0,,win for sure Dreaming\Non We will move towards
+Dialogue: 0,0:01:07.26,0:01:11.54,Default,,0,0,0,,the horizon We will\Nfight however we can In
+Dialogue: 0,0:01:11.62,0:01:15.22,Default,,0,0,0,,order to be the best\Nwe will run To the top,
+Dialogue: 0,0:01:15.58,0:01:22.18,Default,,0,0,0,,to the end We gotta be the\Nones that just keep dreaming on
+Dialogue: 0,0:01:23.10,0:01:29.66,Default,,0,0,0,,I just can't give up now I\Ncan never stop cause I gotta
+Dialogue: 0,0:01:29.74,0:01:35.46,Default,,0,0,0,,give everything I got to Become\Nthe greatest of all times
+Dialogue: 0,0:01:36.22,0:01:41.88,Default,,0,0,0,,We will move towards the horizon\NWe will find infinite portions
+Dialogue: 0,0:01:41.96,0:01:45.76,Default,,0,0,0,,We will step up, and we will.
+Dialogue: 0,0:01:45.84,0:01:49.00,Default,,0,0,0,,leave for sure So keep moving on
 Dialogue: 0,0:02:02.00,0:02:04.71,Default,,0,0,0,,He's wounded bad, but\Nhe won't give up Shusui.
 Dialogue: 0,0:02:04.86,0:02:06.21,Default,,0,0,0,,Will he making me work?
 Dialogue: 0,0:02:07.22,0:02:09.72,Default,,0,0,0,,Lucky for me, he should be easy to track.
@@ -186,7 +174,7 @@ Dialogue: 0,0:11:06.04,0:11:09.08,Default,,0,0,0,,people of the land of\NWano is
 Dialogue: 0,0:11:09.44,0:11:12.78,Default,,0,0,0,,It is still too early to\Nlay these swords to rest.
 Dialogue: 0,0:11:12.86,0:11:15.51,Default,,0,0,0,,In preparation for the\Nreturn of the samurai,
 Dialogue: 0,0:11:15.62,0:11:18.26,Default,,0,0,0,,we must guard these swords and ensure that
-Dialogue: 0,0:11:18.34,0:11:20.46,Default,,0,0,0,,the grave robbers don't take a single one?
+Dialogue: 0,0:11:18.34,0:11:20.46,Default,,0,0,0,,the grave robbers don't take a single one,
 Dialogue: 0,0:11:20.54,0:11:21.37,Default,,0,0,0,,all right?
 Dialogue: 0,0:11:22.02,0:11:26.92,Default,,0,0,0,,Therefore, I'll collect every\Nblade myself, and hide them away!
 Dialogue: 0,0:11:28.72,0:11:31.74,Default,,0,0,0,,I understand now. I've failed at my duty!
@@ -194,12 +182,11 @@ Dialogue: 0,0:11:32.18,0:11:34.46,Default,,0,0,0,,But I've been given a second c
 Dialogue: 0,0:11:35.76,0:11:37.98,Default,,0,0,0,,This is the role I must fulfill!
 Dialogue: 0,0:11:42.92,0:11:44.36,Default,,0,0,0,,Come back!
 Dialogue: 0,0:11:45.66,0:11:47.26,Default,,0,0,0,,Lady Hiyori!
-Dialogue: 0,0:11:56.80,0:12:00.78,Default,,0,0,0,,When I fail to protect Lady Hyori,\NI plan to end my life in shame.
-Dialogue: 0,0:12:01.84,0:12:06.36,Default,,0,0,0,,But I can't die yet, not\Nwhen there's work to be done,
-Dialogue: 0,0:12:06.44,0:12:09.08,Default,,0,0,0,,not when I can be of use.
-Dialogue: 0,0:12:11.24,0:12:14.56,Default,,0,0,0,,I have so much remorse;\Nif I don't keep busy,
-Dialogue: 0,0:12:14.64,0:12:18.26,Default,,0,0,0,,it will consume me, if\Nyou refuse to let go?
-Dialogue: 0,0:12:18.34,0:12:19.98,Default,,0,0,0,,Bite off my damned arm!
+Dialogue: 0,0:11:56.80,0:12:00.78,Default,,0,0,0,,When I fail to protect Lady Hiyori,\NI plan to end my life in shame.
+Dialogue: 0,0:12:01.84,0:12:05.40,Default,,0,0,0,,but i can't die yet not when there's
+Dialogue: 0,0:12:05.48,0:12:09.08,Default,,0,0,0,,work to be done not when i can be of use
+Dialogue: 0,0:12:11.24,0:12:15.14,Default,,0,0,0,,i have so much remorse if\Ni don't keep busy it will
+Dialogue: 0,0:12:15.22,0:12:19.98,Default,,0,0,0,,consume me if you refuse to\Nlet go Bite off my damned arm!
 Dialogue: 0,0:12:20.32,0:12:22.32,Default,,0,0,0,,Take it and eat it for all I care!
 Dialogue: 0,0:12:22.52,0:12:25.96,Default,,0,0,0,,But I will not give up until I'm through!
 Dialogue: 0,0:13:13.60,0:13:15.44,Default,,0,0,0,,Oh, my Mario.
@@ -255,14 +242,14 @@ Dialogue: 0,0:16:16.04,0:16:16.87,Default,,0,0,0,,Oh!
 Dialogue: 0,0:16:17.24,0:16:20.30,Default,,0,0,0,,You, dear, mad love!
 Dialogue: 0,0:16:23.94,0:16:25.86,Default,,0,0,0,,Now, leave your weapons and go!
 Dialogue: 0,0:16:26.10,0:16:27.40,Default,,0,0,0,,Or face my wrath!
-Dialogue: 0,0:16:37.06,0:16:39.56,Default,,0,0,0,,Yuki Moria, that can't be a coincidence.
+Dialogue: 0,0:16:37.06,0:16:39.56,Default,,0,0,0,,Yuki Maru, that can't be a coincidence.
 Dialogue: 0,0:16:39.64,0:16:41.70,Default,,0,0,0,,Same name, doing the same job?
 Dialogue: 0,0:16:42.34,0:16:44.04,Default,,0,0,0,,To finish up the story,
 Dialogue: 0,0:16:44.32,0:16:48.52,Default,,0,0,0,,I went to the capital a short time\Nlater in order to acquire some food.
 Dialogue: 0,0:16:48.70,0:16:54.10,Default,,0,0,0,,But after that, I was not able to return\Nto Ringo due to certain circumstances.
 Dialogue: 0,0:16:57.52,0:17:00.20,Default,,0,0,0,,CITIZENS OF THE CAPITAL,\NPLEASE FORGIVE ME!
-Dialogue: 0,0:17:05.04,0:17:07.60,Default,,0,0,0,,YOU'RE UNDER ARREST OF AN OPEN EDGE!
-Dialogue: 0,0:17:07.92,0:17:11.20,Default,,0,0,0,,WE FINALLY CAUGHT YOU,\NBelt FRIED Davy THIEVE!
+Dialogue: 0,0:17:05.04,0:17:07.60,Default,,0,0,0,,You're under arrest on an open sea!
+Dialogue: 0,0:17:07.92,0:17:11.20,Default,,0,0,0,,WE FINALLY CAUGHT YOU,\NBELT AND TOFU THIEVE!
 Dialogue: 0,0:17:11.38,0:17:12.56,Default,,0,0,0,,NOW STOP RESISTING!
 Dialogue: 0,0:17:13.42,0:17:17.12,Default,,0,0,0,,I'M A FULL, THIS IS THE\NGRAVEST BLUNDER OF MY LIFE!
 Dialogue: 0,0:17:25.32,0:17:27.20,Default,,0,0,0,,Forgive me, Onimaru.
@@ -284,7 +271,7 @@ Dialogue: 0,0:18:11.76,0:18:12.78,Default,,0,0,0,,Where is he?
 Dialogue: 0,0:18:13.32,0:18:14.34,Default,,0,0,0,,There's no doubt.
 Dialogue: 0,0:18:14.88,0:18:17.50,Default,,0,0,0,,This house is where we lived back then.
 Dialogue: 0,0:18:17.88,0:18:19.35,Default,,0,0,0,,The sword stash was here.
-Dialogue: 0,0:18:24.94,0:18:26.18,Default,,0,0,0,,...Kalik. Huh?
+Dialogue: 0,0:18:24.94,0:18:26.18,Default,,0,0,0,,...Kalifa. Huh?
 Dialogue: 0,0:18:26.38,0:18:27.32,Default,,0,0,0,,Is that Kin'emon?
 Dialogue: 0,0:18:27.62,0:18:28.46,Default,,0,0,0,,None other.
 Dialogue: 0,0:18:28.72,0:18:29.96,Default,,0,0,0,,Greetings, my friend.
@@ -295,8 +282,8 @@ Dialogue: 0,0:18:37.84,0:18:40.66,Default,,0,0,0,,You're aware that we've\Nconqu
 Dialogue: 0,0:18:40.96,0:18:42.02,Default,,0,0,0,,Yes, I am.
 Dialogue: 0,0:18:42.20,0:18:43.20,Default,,0,0,0,,Raizo told me.
 Dialogue: 0,0:18:43.70,0:18:45.84,Default,,0,0,0,,Although I do not know all the details,
-Dialogue: 0,0:18:45.92,0:18:48.10,Default,,0,0,0,,I have heard that Sir Luffy's\Nextraordinary efforts.
-Dialogue: 0,0:18:48.18,0:18:50.12,Default,,0,0,0,,won us a great many new recruits.
+Dialogue: 0,0:18:45.92,0:18:47.46,Default,,0,0,0,,I have heard that Sir\NLuffy's extraordinary
+Dialogue: 0,0:18:47.54,0:18:50.04,Default,,0,0,0,,efforts won us a great many new recruits.
 Dialogue: 0,0:18:50.76,0:18:53.68,Default,,0,0,0,,Now, you must be worried that\Nyou don't have enough swords.
 Dialogue: 0,0:18:53.76,0:18:55.40,Default,,0,0,0,,Yes, exactly so.
 Dialogue: 0,0:18:55.70,0:18:58.70,Default,,0,0,0,,We are still plotting, but\Nthere is no easy answer.
@@ -317,10 +304,10 @@ Dialogue: 0,0:19:30.64,0:19:33.38,Default,,0,0,0,,It would require a\Nhuman's ha
 Dialogue: 0,0:19:41.84,0:19:45.78,Default,,0,0,0,,Sir Kawamatsu, I have fulfilled my duty.
 Dialogue: 0,0:19:46.16,0:19:47.76,Default,,0,0,0,,The rest is up to you.
 Dialogue: 0,0:19:48.22,0:19:49.96,Default,,0,0,0,,I wish you luck!
-Dialogue: 0,0:20:05.92,0:20:08.50,Default,,0,0,0,,Only a week remains\Nbefore the day of the fire
-Dialogue: 0,0:20:08.58,0:20:10.88,Default,,0,0,0,,festival when the samurai\Nwill launch their raid.
-Dialogue: 0,0:20:10.96,0:20:12.70,Default,,0,0,0,,On onigashima, fortunately,
-Dialogue: 0,0:20:12.78,0:20:16.60,Default,,0,0,0,,Zoro and company have just acquired\Na wealth of weapons for the.
+Dialogue: 0,0:20:05.92,0:20:08.50,Default,,0,0,0,,only a week remains\Nbefore the day of the fire
+Dialogue: 0,0:20:08.58,0:20:10.64,Default,,0,0,0,,festival when the\Nsamurai will launch their
+Dialogue: 0,0:20:10.72,0:20:13.76,Default,,0,0,0,,raid on onigashima\Nfortunately Zoro and company
+Dialogue: 0,0:20:13.84,0:20:16.55,Default,,0,0,0,,have just acquired a\Nwealth of weapons for the
 Dialogue: 0,0:20:16.98,0:20:17.81,Default,,0,0,0,,impending battle.
 Dialogue: 0,0:20:17.89,0:20:24.50,Default,,0,0,0,,Zoro Judo, that sword he took, if it\Ntruly is Shusui, you should return it to
 Dialogue: 0,0:20:26.28,0:20:27.28,Default,,0,0,0,,the land of Wano.
@@ -329,7 +316,7 @@ Dialogue: 0,0:20:28.46,0:20:29.94,Default,,0,0,0,,I told you, it's my sword!
 Dialogue: 0,0:20:30.02,0:20:31.96,Default,,0,0,0,,Then I'll give you a replacement.
 Dialogue: 0,0:20:32.74,0:20:33.57,Default,,0,0,0,,Huh?
 Dialogue: 0,0:20:33.65,0:20:39.80,Default,,0,0,0,,It is a sword that was handed down to me\Nfrom my late father, the famed blade Enma.
-Dialogue: 0,0:20:41.94,0:20:48.44,Default,,0,0,0,,What was that? It's a legendary sword.\NThe only one that's ever injured Kite.
+Dialogue: 0,0:20:41.94,0:20:48.44,Default,,0,0,0,,What was that? It's a legendary sword,\Nthe only one that's ever injured Kaido.
 Dialogue: 0,0:20:51.18,0:20:56.40,Default,,0,0,0,,Lady Hyori, no, you cannot give\Naway a memento from Lord Oden.
 Dialogue: 0,0:20:58.66,0:21:01.92,Default,,0,0,0,,you may not know the tales but my father
 Dialogue: 0,0:21:02.00,0:21:04.44,Default,,0,0,0,,was a skilled swordsman\Nin a two-sword style
@@ -339,7 +326,7 @@ Dialogue: 0,0:21:11.20,0:21:15.12,Default,,0,0,0,,he entrusted his blades\Nto hi
 Dialogue: 0,0:21:15.20,0:21:17.36,Default,,0,0,0,,since he wielded dual swords in battle one
 Dialogue: 0,0:21:17.44,0:21:19.96,Default,,0,0,0,,was given to momonosuke\Nand one was given to
 Dialogue: 0,0:21:20.04,0:21:24.62,Default,,0,0,0,,Me, my brother's. My
-Dialogue: 0,0:21:24.70,0:21:27.76,Default,,0,0,0,,sword is Ame no Habekiri.
+Dialogue: 0,0:21:24.70,0:21:27.76,Default,,0,0,0,,My sword is Ame no Habekiri.
 Dialogue: 0,0:21:30.98,0:21:34.42,Default,,0,0,0,,And my sword is Enma.
 Dialogue: 0,0:21:37.72,0:21:43.34,Default,,0,0,0,,I promise you, they were both forged by\Ngreat swordsmiths who were once famous here.
 Dialogue: 0,0:21:43.56,0:21:45.74,Default,,0,0,0,,You could not hope for a finer sword.
@@ -362,18 +349,16 @@ Dialogue: 0,0:22:35.30,0:22:38.65,Default,,0,0,0,,Please allow Shusui to be\Nret
 Dialogue: 0,0:22:51.04,0:22:54.28,Default,,0,0,0,,As long as you can give\Nme a replacement, fine.
 Dialogue: 0,0:23:01.16,0:23:02.46,Default,,0,0,0,,But it is a shame.
 Dialogue: 0,0:23:03.40,0:23:08.28,Default,,0,0,0,,You know, I shared a battle with Ryuma's\Ncorpse, so I sort of feel a bond with him.
-Dialogue: 0,0:23:19.56,0:23:21.18,Default,,0,0,0,,I'll give you Shusui back.
-Dialogue: 0,0:23:21.26,0:23:22.94,Default,,0,0,0,,And I'll take Yenma.
-Dialogue: 0,0:23:23.02,0:23:26.74,Default,,0,0,0,,But I also want to pay a\Nvisit to Ryuma's gravesite?
+Dialogue: 0,0:23:19.56,0:23:23.76,Default,,0,0,0,,I'll give you Shusui back.\NAnd I'll take Yenma, but
+Dialogue: 0,0:23:23.84,0:23:26.74,Default,,0,0,0,,I also want to pay a\Nvisit to Ryuma's gravesite
 Dialogue: 0,0:23:28.34,0:23:30.11,Default,,0,0,0,,You call this man trustworthy?
-Dialogue: 0,0:23:30.36,0:23:32.30,Default,,0,0,0,,He seems rather delusional to me.
-Dialogue: 0,0:23:32.70,0:23:33.74,Default,,0,0,0,,My lady.
-Dialogue: 0,0:23:42.70,0:23:48.78,Default,,0,0,0,,The samurai arrested for rebelling against\Nthe shogun orgy have yet to be released.
-Dialogue: 0,0:23:50.18,0:23:54.64,Default,,0,0,0,,Yasui boldly sacrificed his\Nlife in hopes of deceiving the
-Dialogue: 0,0:23:54.72,0:23:58.48,Default,,0,0,0,,enemy and salvaging the samurai's\Nplan that orgy had uncovered.
-Dialogue: 0,0:23:58.56,0:24:00.98,Default,,0,0,0,,I thought we settled this crap already.
-Dialogue: 0,0:24:01.06,0:24:02.14,Default,,0,0,0,,We're not rebels.
-Dialogue: 0,0:24:02.22,0:24:03.26,Default,,0,0,0,,Now let us out!
+Dialogue: 0,0:23:30.36,0:23:32.24,Default,,0,0,0,,He seems rather delusional to me
+Dialogue: 0,0:23:32.70,0:23:33.74,Default,,0,0,0,,My lady
+Dialogue: 0,0:23:42.70,0:23:48.78,Default,,0,0,0,,the samurai arrested for rebelling against\Nthe shogun orgy have yet to be released
+Dialogue: 0,0:23:50.18,0:23:53.90,Default,,0,0,0,,yasui boldly sacrificed\Nhis life in hopes of
+Dialogue: 0,0:23:53.98,0:23:57.14,Default,,0,0,0,,Deceiving the enemy and\Nsalvaging the samurai's plan.
+Dialogue: 0,0:23:57.22,0:24:00.08,Default,,0,0,0,,that orgy had uncovered\Ni thought we settled
+Dialogue: 0,0:24:00.16,0:24:03.26,Default,,0,0,0,,this crap already we're\Nnot rebels Now let us out!
 Dialogue: 0,0:24:04.18,0:24:06.40,Default,,0,0,0,,We had nothing to do with those flyers!
 Dialogue: 0,0:24:06.48,0:24:08.36,Default,,0,0,0,,They were a prank by Lord Yasui!
 Dialogue: 0,0:24:08.64,0:24:11.11,Default,,0,0,0,,The moon tattoo was just a popular design!
@@ -386,37 +371,35 @@ Dialogue: 0,0:24:22.16,0:24:23.30,Default,,0,0,0,,Just let us go!
 Dialogue: 0,0:24:23.90,0:24:27.10,Default,,0,0,0,,What do you have to gain\Nfrom keeping us in here? Hey!
 Dialogue: 0,0:24:28.38,0:24:29.21,Default,,0,0,0,,Damn it.
 Dialogue: 0,0:24:30.78,0:24:32.08,Default,,0,0,0,,What else can we do?
-Dialogue: 0,0:24:48.90,0:24:51.88,Default,,0,0,0,,I thought you were supposed to have\Nan alliance with Kate and Apoo.
-Dialogue: 0,0:24:51.96,0:24:53.30,Default,,0,0,0,,Must not have worked out too well.
-Dialogue: 0,0:24:53.38,0:24:57.38,Default,,0,0,0,,Since you were already licking\NKaido's boots by the time I got here.
-Dialogue: 0,0:25:00.74,0:25:03.14,Default,,0,0,0,,The truth is, we were set up.
-Dialogue: 0,0:25:08.06,0:25:09.98,Default,,0,0,0,,Scratchman Apu stabbed us in the back.
-Dialogue: 0,0:25:10.06,0:25:13.46,Default,,0,0,0,,Or rather, he was working\Nfor Kaido all along.
-Dialogue: 0,0:25:18.48,0:25:21.68,Default,,0,0,0,,That monster Kaido stared\Nme in the eye and said.
-Dialogue: 0,0:25:21.76,0:25:25.42,Default,,0,0,0,,If you want to become my\Nsubordinate, I'll welcome you, boy.
-Dialogue: 0,0:25:28.58,0:25:31.12,Default,,0,0,0,,He's always looking for strong warriors.
-Dialogue: 0,0:25:31.20,0:25:34.72,Default,,0,0,0,,He wants to make the most\Npowerful army in the world after.
-Dialogue: 0,0:25:34.80,0:25:40.92,Default,,0,0,0,,All my chances of victory in that\Ndire situation were zero percent.
-Dialogue: 0,0:25:41.00,0:25:45.12,Default,,0,0,0,,My chances of successful\Nescape were zero percent.
-Dialogue: 0,0:25:45.20,0:25:49.00,Default,,0,0,0,,My chances of survival\Nupon surrender were 40.
-Dialogue: 0,0:25:49.08,0:25:51.82,Default,,0,0,0,,I didn't have much of a
-Dialogue: 0,0:25:56.32,0:25:57.15,Default,,0,0,0,,choice.
-Dialogue: 0,0:25:57.23,0:25:59.87,Default,,0,0,0,,Did I but kid and killer\Nlacked my judgment.
-Dialogue: 0,0:25:59.96,0:26:02.60,Default,,0,0,0,,They challenged Kaido.
-Dialogue: 0,0:26:02.68,0:26:07.70,Default,,0,0,0,,They fought and fought until they could\Nno longer so much as lift a finger.
-Dialogue: 0,0:26:07.78,0:26:12.34,Default,,0,0,0,,Kaido won't kill men like\Nthat because he desires
-Dialogue: 0,0:26:12.42,0:26:16.04,Default,,0,0,0,,their strength rather\Nhe'll attempt to crush
-Dialogue: 0,0:26:16.12,0:26:19.00,Default,,0,0,0,,their spirits until they\Nbecome obedient but I
-Dialogue: 0,0:26:19.08,0:26:22.78,Default,,0,0,0,,doubt that kid will ever\Nsubmit and so he'll die.
-Dialogue: 0,0:26:22.86,0:26:27.04,Default,,0,0,0,,It's quite the pity for\Nhis crew, especially.
-Dialogue: 0,0:26:27.12,0:26:30.58,Default,,0,0,0,,orochi orders them to obey his whims vile
-Dialogue: 0,0:26:30.66,0:26:35.54,Default,,0,0,0,,things I'm sure and if they don't oblige\Nthey're told their captain will be killed.
-Dialogue: 0,0:26:35.62,0:26:42.62,Default,,0,0,0,,The
-Dialogue: 0,0:26:46.74,0:26:48.32,Default,,0,0,0,,four emperors truly are a
-Dialogue: 0,0:26:48.40,0:26:49.98,Default,,0,0,0,,different breed than the rest of us.
-Dialogue: 0,0:26:50.06,0:26:52.47,Default,,0,0,0,,They don't trifle with reason like we do.
-Dialogue: 0,0:26:56.38,0:26:59.97,Default,,0,0,0,,Speaking of unreasonable, how\Nis your alliance with Straw Hat
-Dialogue: 0,0:27:01.58,0:27:04.87,Default,,0,0,0,,staying by his side has brought\Nyou all the way to wano?
+Dialogue: 0,0:24:48.90,0:24:51.88,Default,,0,0,0,,I thought you were supposed to\Nhave an alliance with Kate and Appu
+Dialogue: 0,0:24:51.96,0:24:53.96,Default,,0,0,0,,Must not have worked out\Ntoo well Since you were
+Dialogue: 0,0:24:54.04,0:24:57.10,Default,,0,0,0,,already licking Kaido's\Nboots by the time I got here
+Dialogue: 0,0:25:00.74,0:25:03.14,Default,,0,0,0,,The truth is, we were set up
+Dialogue: 0,0:25:08.06,0:25:13.46,Default,,0,0,0,,Scratchman Apu stabbed us in the back Or\Nrather, he was working for Kaido all along
+Dialogue: 0,0:25:18.48,0:25:21.32,Default,,0,0,0,,That monster Kaido\Nstared me in the eye and
+Dialogue: 0,0:25:21.40,0:25:23.87,Default,,0,0,0,,said If you want to become my subordinate,
+Dialogue: 0,0:25:23.98,0:25:25.42,Default,,0,0,0,,I'll welcome you, boy.
+Dialogue: 0,0:25:28.58,0:25:32.86,Default,,0,0,0,,he's always looking for strong\Nwarriors he wants to make the most
+Dialogue: 0,0:25:32.94,0:25:39.20,Default,,0,0,0,,powerful army in the world after all\Nmy chances of victory in that dire
+Dialogue: 0,0:25:39.28,0:25:44.66,Default,,0,0,0,,situation were zero percent my\Nchances of successful escape were zero
+Dialogue: 0,0:25:44.74,0:25:47.60,Default,,0,0,0,,percent my chances of survival upon
+Dialogue: 0,0:25:47.68,0:25:51.82,Default,,0,0,0,,surrender were 40 i didn't have much of a
+Dialogue: 0,0:25:56.32,0:25:58.78,Default,,0,0,0,,Choice did I, but Kid and Killer lacked
+Dialogue: 0,0:25:58.86,0:26:03.66,Default,,0,0,0,,my judgment they challenged Kaido they
+Dialogue: 0,0:26:03.74,0:26:09.28,Default,,0,0,0,,fought and fought until they could no\Nlonger so much as lift a finger Kaido
+Dialogue: 0,0:26:09.36,0:26:15.38,Default,,0,0,0,,won't kill men like that because he\Ndesires their strength rather he'll
+Dialogue: 0,0:26:15.46,0:26:19.72,Default,,0,0,0,,attempt to crush their spirits until\Nthey become obedient but I doubt that kid
+Dialogue: 0,0:26:19.80,0:26:23.98,Default,,0,0,0,,will ever submit and so he'll die it's
+Dialogue: 0,0:26:24.06,0:26:27.04,Default,,0,0,0,,quite the pity for his crew especially
+Dialogue: 0,0:26:27.12,0:26:33.02,Default,,0,0,0,,orochi orders them to obey his whims\Nvile things i'm sure and if they don't
+Dialogue: 0,0:26:33.10,0:26:34.94,Default,,0,0,0,,oblige they're told their captain will
+Dialogue: 0,0:26:35.02,0:26:35.85,Default,,0,0,0,,be killed
+Dialogue: 0,0:26:35.93,0:26:42.62,Default,,0,0,0,,the
+Dialogue: 0,0:26:46.74,0:26:47.57,Default,,0,0,0,,four
+Dialogue: 0,0:26:47.65,0:26:48.48,Default,,0,0,0,,emperors truly are
+Dialogue: 0,0:26:48.57,0:26:52.85,Default,,0,0,0,,a different breed than the rest of us\Nthey don't trifle with reason like we do
+Dialogue: 0,0:26:56.38,0:26:59.91,Default,,0,0,0,,speaking of unreasonable how\Nis your alliance with Straw Hat
+Dialogue: 0,0:27:01.58,0:27:04.82,Default,,0,0,0,,staying by his side has\Nbrought you all the way to wano
 Dialogue: 0,0:27:05.66,0:27:09.26,Default,,0,0,0,,Tell me, are you still\Nconfident in that choice?
 Dialogue: 0,0:27:10.14,0:27:12.06,Default,,0,0,0,,I'm asking the questions here!
 Dialogue: 0,0:27:23.28,0:27:29.44,Default,,0,0,0,,Whatever your plot is, as long as it allows\Nme to escape, I'm not gonna complain.

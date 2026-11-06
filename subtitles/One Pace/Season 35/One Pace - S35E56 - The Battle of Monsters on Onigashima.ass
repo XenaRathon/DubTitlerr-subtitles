@@ -25,7 +25,7 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 Style: Typeset things,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,0,0,0,0,100,100,0.00015,0,1,4.5,0,5,45,45,45,0
 Style: Karaoke,Hawaiian Aloha BTN Pace,80,&H00201E85,&H000000FF,&H00E6E6E6,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,15,15,30,1
 Style: Lyrics,Hawaiian Aloha BTN Pace,75,&H00201E85,&H000000FF,&H00E6E6E6,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,2,15,15,30,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1960,15 +1960,16 @@ Dialogue: 3,0:01:30.07,0:01:32.91,Title-207+,,0,0,0,,{\fscx110\fscy110\bord0\c&H
 Dialogue: 2,0:01:30.07,0:01:32.91,Title-207+,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(729,0)\t(687,729,\1a&H00&)}Battle of Monsters on Onigashima
 Dialogue: 0,0:01:32.68,0:01:34.68,Dubtitles,,0,0,0,,You're still saying that?
 Dialogue: 0,0:01:35.22,0:01:36.84,Dubtitles,,0,0,0,,I'll crush you!
-Dialogue: 0,0:01:37.38,0:01:40.46,Dubtitles,,0,0,0,,King of the pirates? Don't make me laugh.
+Dialogue: 0,0:01:37.38,0:01:40.46,Dubtitles,,0,0,0,,King of the Pirates?! Don't make me laugh.
 Dialogue: 0,0:01:45.82,0:01:48.06,Dubtitles,,0,0,0,,Why did his attack look on me?
-Dialogue: 0,0:01:49.70,0:01:54.06,Dubtitles,,0,0,0,,A new Haki must be the technique\Nthat the old man taught him.
-Dialogue: 0,0:01:54.14,0:01:57.70,Dubtitles,,0,0,0,,His punches can hurt kaido,\Nbut there's gotta be a trick.
-Dialogue: 0,0:01:57.78,0:01:58.98,Dubtitles,,0,0,0,,What the hell is it?
-Dialogue: 0,0:01:59.06,0:02:05.36,Dubtitles,,0,0,0,,We might just win this—that's nice\Nand all—but before I do anything,
-Dialogue: 0,0:02:05.44,0:02:07.62,Dubtitles,,0,0,0,,there's something I gotta\Nget straight with Straw Hats.
-Dialogue: 0,0:02:07.70,0:02:12.34,Dubtitles,,0,0,0,,Hey, shrimp, you don't even know?
-Dialogue: 0,0:02:12.42,0:02:17.18,Dubtitles,,0,0,0,,even know What it means to be King of the\NPirates is not something you take lightly.
+Dialogue: 0,0:01:49.70,0:01:53.18,Dubtitles,,0,0,0,,a new Haki must be the technique that old
+Dialogue: 0,0:01:53.26,0:01:56.54,Dubtitles,,0,0,0,,man taught him his\Npunches can hurt kaido but
+Dialogue: 0,0:01:56.62,0:01:58.98,Dubtitles,,0,0,0,,there's gotta be a trick\Nwhat the hell is it
+Dialogue: 0,0:01:59.06,0:02:04.94,Dubtitles,,0,0,0,,we might just win this\Nthat's nice and all but
+Dialogue: 0,0:02:05.02,0:02:06.86,Dubtitles,,0,0,0,,before i do anything\Nthere's something i gotta
+Dialogue: 0,0:02:06.94,0:02:12.10,Dubtitles,,0,0,0,,get straight with straw\Nhats hey shrimp you
+Dialogue: 0,0:02:12.18,0:02:14.20,Dubtitles,,0,0,0,,don't even know What\Nit means to be King of
+Dialogue: 0,0:02:14.28,0:02:16.99,Dubtitles,,0,0,0,,the Pirates is not\Nsomething you take lightly.
 Dialogue: 0,0:02:17.26,0:02:19.14,Dubtitles,,0,0,0,,So stop running your mouth.
 Dialogue: 0,0:02:25.22,0:02:26.98,Dubtitles,,0,0,0,,He kicked his ass in Curry.
 Dialogue: 0,0:02:27.50,0:02:29.66,Dubtitles,,0,0,0,,How did he get so much stronger?
@@ -1977,7 +1978,7 @@ Dialogue: 0,0:02:36.68,0:02:40.32,Dubtitles,,0,0,0,,And they are not to be under
 Dialogue: 0,0:02:46.44,0:02:49.50,Dubtitles,,0,0,0,,I know you didn't come here just to lose.
 Dialogue: 0,0:02:50.02,0:02:53.52,Dubtitles,,0,0,0,,Are you telling me you think\Nyou're as good as them?
 Dialogue: 0,0:02:54.92,0:02:57.06,Dubtitles,,0,0,0,,Answer me, Straw Hat!
-Dialogue: 0,0:03:10.44,0:03:11.27,Dubtitles,,0,0,0,,Thunder Back!
+Dialogue: 0,0:03:10.44,0:03:11.27,Dubtitles,,0,0,0,,Thunder Bagua!
 Dialogue: 0,0:03:20.52,0:03:21.52,Dubtitles,,0,0,0,,Damn it!
 Dialogue: 0,0:03:21.82,0:03:25.78,Dubtitles,,0,0,0,,I saw that one coming,\Nbut he's fast! Well done.
 Dialogue: 0,0:03:26.12,0:03:29.18,Dubtitles,,0,0,0,,It's an improvement over\Nlast time, if nothing else.
@@ -1985,34 +1986,31 @@ Dialogue: 0,0:03:29.36,0:03:30.54,Dubtitles,,0,0,0,,Come on, Kaido!
 Dialogue: 0,0:03:31.02,0:03:34.28,Dubtitles,,0,0,0,,Honestly, practice\Nmeant to be incinerated!
 Dialogue: 0,0:03:36.24,0:03:37.07,Dubtitles,,0,0,0,,Prometheus!
 Dialogue: 0,0:03:37.15,0:03:38.34,Dubtitles,,0,0,0,,Yes, Mama?
-Dialogue: 0,0:03:39.20,0:03:41.80,Dubtitles,,0,0,0,,I'll burn you to ash, boy!
+Dialogue: 0,0:03:39.20,0:03:41.80,Dubtitles,,0,0,0,,I'll burn you to ashes, boy!
 Dialogue: 0,0:03:42.98,0:03:44.08,Dubtitles,,0,0,0,,Ha-ha-ha-ha!
 Dialogue: 0,0:03:44.38,0:03:45.90,Dubtitles,,0,0,0,,Hair badly! Ah!
-Dialogue: 0,0:03:47.66,0:03:48.74,Dubtitles,,0,0,0,,Foxfire style!
-Dialogue: 0,0:03:49.36,0:03:50.19,Dubtitles,,0,0,0,,Flameran!
-Dialogue: 0,0:03:54.78,0:03:55.61,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:03:55.84,0:03:57.98,Dubtitles,,0,0,0,,He got Prometheus right in half!
-Dialogue: 0,0:03:58.38,0:03:59.26,Dubtitles,,0,0,0,,Ha-ha-ha!
-Dialogue: 0,0:03:59.64,0:04:01.10,Dubtitles,,0,0,0,,That's Kittymon's move!
+Dialogue: 0,0:03:47.56,0:03:48.74,Dubtitles,,0,0,0,,Foxfire style!
+Dialogue: 0,0:03:49.00,0:03:49.90,Dubtitles,,0,0,0,,Flame Rend!
+Dialogue: 0,0:03:52.58,0:03:53.41,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:03:54.74,0:03:55.57,Dubtitles,,0,0,0,,Ooh!
+Dialogue: 0,0:03:55.86,0:03:59.14,Dubtitles,,0,0,0,,He got Prometheus right in half! Ha-ha-ha!
+Dialogue: 0,0:03:59.64,0:04:01.12,Dubtitles,,0,0,0,,That's Kittymon's move!
 Dialogue: 0,0:04:01.40,0:04:02.64,Dubtitles,,0,0,0,,Nice one, Zoro!
-Dialogue: 0,0:04:04.58,0:04:05.70,Dubtitles,,0,0,0,,Ha-ha-ha-ha!
-Dialogue: 0,0:04:06.00,0:04:06.86,Dubtitles,,0,0,0,,I stole it!
-Dialogue: 0,0:04:07.14,0:04:08.60,Dubtitles,,0,0,0,,Oh-oh-oh-oh!
-Dialogue: 0,0:04:09.18,0:04:10.96,Dubtitles,,0,0,0,,I'm gonna make you pay!
-Dialogue: 0,0:04:11.84,0:04:13.76,Dubtitles,,0,0,0,,Don't lower your guard, Luffy!
-Dialogue: 0,0:04:14.98,0:04:17.68,Dubtitles,,0,0,0,,You're dealing with two emperors!
-Dialogue: 0,0:04:23.06,0:04:23.89,Dubtitles,,0,0,0,,Shambles.
-Dialogue: 0,0:04:34.38,0:04:36.40,Dubtitles,,0,0,0,,Straw Hat, get up.
+Dialogue: 0,0:04:05.00,0:04:05.83,Dubtitles,,0,0,0,,Ha-ha-ha-ha!
+Dialogue: 0,0:04:05.98,0:04:06.86,Dubtitles,,0,0,0,,I stole it.
+Dialogue: 0,0:04:07.12,0:04:08.60,Dubtitles,,0,0,0,,Oh-oh-oh-oh!
+Dialogue: 0,0:04:09.18,0:04:10.98,Dubtitles,,0,0,0,,I'm gonna make you pay!
+Dialogue: 0,0:04:11.80,0:04:13.78,Dubtitles,,0,0,0,,Don't lower your guard, Luffy!
+Dialogue: 0,0:04:14.94,0:04:16.98,Dubtitles,,0,0,0,,You're dealing with two emperors!
+Dialogue: 0,0:04:23.02,0:04:23.85,Dubtitles,,0,0,0,,Shambles.
+Dialogue: 0,0:04:34.34,0:04:36.40,Dubtitles,,0,0,0,,Straw Hat, get up.
 Dialogue: 0,0:04:37.04,0:04:37.87,Dubtitles,,0,0,0,,Traffy!
 Dialogue: 0,0:04:37.95,0:04:39.42,Dubtitles,,0,0,0,,Thanks, you saved me!
-Dialogue: 0,0:04:41.44,0:04:44.16,Dubtitles,,0,0,0,,Listen, because there's something\Nyou and I need to get straight.
-Dialogue: 0,0:04:44.24,0:04:48.24,Dubtitles,,0,0,0,,Those samurai—I was gonna teleport them to
-Dialogue: 0,0:04:48.32,0:04:50.52,Dubtitles,,0,0,0,,safety anyway—before you\Nsaid a damn word to me,
-Dialogue: 0,0:04:50.60,0:04:53.98,Dubtitles,,0,0,0,,but you just had to bark orders.
-Dialogue: 0,0:04:54.06,0:04:54.89,Dubtitles,,0,0,0,,Do you
-Dialogue: 0,0:05:00.30,0:05:01.76,Dubtitles,,0,0,0,,know how that made me look?
-Dialogue: 0,0:05:01.84,0:05:03.90,Dubtitles,,0,0,0,,Taking orders from you\Nlike a damn subordinate!
-Dialogue: 0,0:05:03.98,0:05:04.92,Dubtitles,,0,0,0,,damn subordinate
+Dialogue: 0,0:04:41.44,0:04:43.32,Dubtitles,,0,0,0,,listen because there's something you and I
+Dialogue: 0,0:04:43.40,0:04:47.56,Dubtitles,,0,0,0,,need to get straight\Nthose samurai I was gonna
+Dialogue: 0,0:04:47.64,0:04:49.84,Dubtitles,,0,0,0,,teleport them to safety\Nanyway before you said
+Dialogue: 0,0:04:49.92,0:04:54.88,Dubtitles,,0,0,0,,a damn word to me but you\Njust had to bark orders
+Dialogue: 0,0:05:00.30,0:05:05.01,Dubtitles,,0,0,0,,do you know how that made me look taking\Norders from you like a damn subordinate
 Dialogue: 0,0:05:05.94,0:05:06.77,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:05:06.85,0:05:08.12,Dubtitles,,0,0,0,,Why would anyone care about that?
 Dialogue: 0,0:05:09.54,0:05:11.04,Dubtitles,,0,0,0,,That's the idea, right?
@@ -2023,17 +2021,17 @@ Dialogue: 0,0:05:20.00,0:05:21.94,Dubtitles,,0,0,0,,You two were made for each o
 Dialogue: 0,0:05:23.02,0:05:25.32,Dubtitles,,0,0,0,,You're the loser, you big stupid jerk!
 Dialogue: 0,0:05:25.74,0:05:27.28,Dubtitles,,0,0,0,,Was that directed at me?
 Dialogue: 0,0:05:27.46,0:05:30.72,Dubtitles,,0,0,0,,You can squabble on\Nyour own damn time. Ah!
-Dialogue: 0,0:05:33.10,0:05:35.10,Dubtitles,,0,0,0,,You're just for me, the astronaut!
+Dialogue: 0,0:05:33.10,0:05:35.10,Dubtitles,,0,0,0,,You're just for me, Prometheus!
 Dialogue: 0,0:05:35.30,0:05:36.22,Dubtitles,,0,0,0,,Yes, Mama!
 Dialogue: 0,0:05:37.08,0:05:38.28,Dubtitles,,0,0,0,,Heavenly Baba!
-Dialogue: 0,0:05:42.94,0:05:45.68,Dubtitles,,0,0,0,,Okay, here's the deal! Huh?
+Dialogue: 0,0:05:42.94,0:05:45.68,Dubtitles,,0,0,0,,Okay, here's the deal! – Huh?!
 Dialogue: 0,0:05:46.08,0:05:49.36,Dubtitles,,0,0,0,,The first person who\Ndodges her attack, loses!
 Dialogue: 0,0:05:50.12,0:05:51.83,Dubtitles,,0,0,0,,Who would agree to that crap?
 Dialogue: 0,0:05:52.06,0:05:55.28,Dubtitles,,0,0,0,,You're a Gates man and you're\Nstill pulling this nonsense?
 Dialogue: 0,0:05:55.36,0:05:56.80,Dubtitles,,0,0,0,,Go ahead and die!
 Dialogue: 0,0:05:57.04,0:06:00.20,Dubtitles,,0,0,0,,You don't have what it takes\Nto make it with real pirates!
 Dialogue: 0,0:06:00.28,0:06:01.11,Dubtitles,,0,0,0,,You're blinded!
-Dialogue: 0,0:06:01.19,0:06:02.68,Dubtitles,,0,0,0,,You're losers and I win!
+Dialogue: 0,0:06:01.19,0:06:02.68,Dubtitles,,0,0,0,,You're losers, and I win!
 Dialogue: 0,0:06:04.10,0:06:05.10,Dubtitles,,0,0,0,,Ah! Whatever.
 Dialogue: 0,0:06:05.52,0:06:07.84,Dubtitles,,0,0,0,,Suit yourselves. I'm not playing.
 Dialogue: 0,0:06:08.02,0:06:10.70,Dubtitles,,0,0,0,,But if you're not playing, then\Nwhy are you still standing here?
@@ -2044,15 +2042,13 @@ Dialogue: 0,0:06:30.30,0:06:32.38,Dubtitles,,0,0,0,,Ma-ma-ma-ma.
 Dialogue: 0,0:06:33.08,0:06:34.42,Dubtitles,,0,0,0,,What a pity.
 Dialogue: 0,0:06:34.94,0:06:37.54,Dubtitles,,0,0,0,,So much for being King of the Pirates.
 Dialogue: 0,0:06:37.74,0:06:39.36,Dubtitles,,0,0,0,,Now the fun part.
-Dialogue: 0,0:06:39.66,0:06:43.28,Dubtitles,,0,0,0,,How am I gonna kill you rotten rats? Who?
+Dialogue: 0,0:06:39.66,0:06:43.28,Dubtitles,,0,0,0,,How am I gonna murder\Nyou? Rotten rats, who?
 Dialogue: 0,0:06:43.64,0:06:45.16,Dubtitles,,0,0,0,,Give me a sec, Linlin.
-Dialogue: 0,0:06:45.24,0:06:49.14,Dubtitles,,0,0,0,,I want to see how strong\Nthese kids are, hmm,
-Dialogue: 0,0:06:49.22,0:06:55.28,Dubtitles,,0,0,0,,that seems like a waste\Nof time, you stay back!
-Dialogue: 0,0:06:55.36,0:06:57.78,Dubtitles,,0,0,0,,He took Kaido, huh, huh?
-Dialogue: 0,0:06:57.86,0:07:00.76,Dubtitles,,0,0,0,,You think that mask fooled me?
-Dialogue: 0,0:07:00.84,0:07:07.50,Dubtitles,,0,0,0,,I'd know that laugh anywhere\Nif I had these punishers!
-Dialogue: 0,0:07:07.58,0:07:09.84,Dubtitles,,0,0,0,,When we fought, you'd be dead.
-Dialogue: 0,0:07:09.92,0:07:12.08,Dubtitles,,0,0,0,,Zoro Giri.
+Dialogue: 0,0:06:45.24,0:06:50.94,Dubtitles,,0,0,0,,I want to see how strong these\Nkids are. Hmm, that seems like
+Dialogue: 0,0:06:51.02,0:06:57.78,Dubtitles,,0,0,0,,A waste of time. You stay back.\NHe took kitty. Kamazo? Huh, huh.
+Dialogue: 0,0:06:57.86,0:07:00.76,Dubtitles,,0,0,0,,you think that mask fooled me
+Dialogue: 0,0:07:00.84,0:07:06.12,Dubtitles,,0,0,0,,I'd know that laugh anywhere if
+Dialogue: 0,0:07:06.20,0:07:12.08,Dubtitles,,0,0,0,,I had these punishers when we\Nfought you'd be dead Zoro Juro.
 Dialogue: 0,0:07:12.38,0:07:14.04,Dubtitles,,0,0,0,,I seriously doubt that.
 Dialogue: 0,0:07:40.50,0:07:42.40,Dubtitles,,0,0,0,,Beheading Claw!
 Dialogue: 0,0:07:42.96,0:07:44.72,Dubtitles,,0,0,0,,Three swords die.
@@ -2063,17 +2059,17 @@ Dialogue: 0,0:08:16.20,0:08:17.90,Dubtitles,,0,0,0,,That wasn't half bad.
 Dialogue: 0,0:08:18.36,0:08:21.34,Dubtitles,,0,0,0,,I need to unleash a little\Nmore of your power, Enma.
 Dialogue: 0,0:08:21.42,0:08:22.44,Dubtitles,,0,0,0,,What do you say?
 Dialogue: 0,0:08:23.34,0:08:24.82,Dubtitles,,0,0,0,,Kaido! Hmm?
-Dialogue: 0,0:08:26.30,0:08:28.82,Dubtitles,,0,0,0,,We're gonna finish you in one shot.
+Dialogue: 0,0:08:26.30,0:08:28.82,Dubtitles,,0,0,0,,We're gonna finish you in one shot!
 Dialogue: 0,0:08:29.54,0:08:30.90,Dubtitles,,0,0,0,,Fourth gear!
 Dialogue: 0,0:08:53.14,0:08:55.76,Dubtitles,,0,0,0,,For the Feltzman!
 Dialogue: 0,0:09:09.92,0:09:10.75,Dubtitles,,0,0,0,,No!
 Dialogue: 0,0:09:11.00,0:09:12.26,Dubtitles,,0,0,0,,No!
 Dialogue: 0,0:09:56.66,0:09:58.34,Dubtitles,,0,0,0,,Let's run!
 Dialogue: 0,0:10:00.36,0:10:02.16,Dubtitles,,0,0,0,,I'm rotten!
-Dialogue: 0,0:10:14.10,0:10:19.28,Dubtitles,,0,0,0,,Now, Ruo, and Tapas.
+Dialogue: 0,0:10:14.10,0:10:19.28,Dubtitles,,0,0,0,,Now, Rue, and Tapas.
 Dialogue: 0,0:11:06.28,0:11:08.52,Dubtitles,,0,0,0,,Each of you a monster in your own right.
 Dialogue: 0,0:11:08.60,0:11:10.42,Dubtitles,,0,0,0,,Just as it should be.
-Dialogue: 0,0:11:11.08,0:11:15.26,Dubtitles,,0,0,0,,Let's see if you have what it\Ntakes to be king of the pirates.
+Dialogue: 0,0:11:11.08,0:11:15.26,Dubtitles,,0,0,0,,Let's see if you have what it takes\Nto become king of the pirates.
 Dialogue: 0,0:11:15.66,0:11:17.22,Dubtitles,,0,0,0,,I won't hold back!
 Dialogue: 0,0:11:23.46,0:11:24.66,Dubtitles,,0,0,0,,Come on!
 Dialogue: 0,0:11:33.36,0:11:34.82,Dubtitles,,0,0,0,,Come on!
@@ -2094,8 +2090,8 @@ Dialogue: 0,0:13:03.70,0:13:06.29,Dubtitles,,0,0,0,,You were gonna take me\Nout 
 Dialogue: 0,0:13:11.56,0:13:12.82,Dubtitles,,0,0,0,,Damn, that hurt.
 Dialogue: 0,0:13:12.90,0:13:15.14,Dubtitles,,0,0,0,,You're really trying to bury me.
 Dialogue: 0,0:13:17.40,0:13:19.38,Dubtitles,,0,0,0,,I remember that feeling.
-Dialogue: 0,0:13:29.46,0:13:31.70,Dubtitles,,0,0,0,,Reminds me of the good old day.
-Dialogue: 0,0:13:37.94,0:13:39.30,Dubtitles,,0,0,0,,Yummy yum.
+Dialogue: 0,0:13:29.46,0:13:31.70,Dubtitles,,0,0,0,,Reminds me of the good ol' days.
+Dialogue: 0,0:13:37.94,0:13:39.30,Dubtitles,,0,0,0,,Yum yum!
 Dialogue: 0,0:13:39.38,0:13:41.26,Dubtitles,,0,0,0,,All charged and ready to go.
 Dialogue: 0,0:13:43.76,0:13:45.74,Dubtitles,,0,0,0,,Ma-ma-ma-ma.
 Dialogue: 0,0:13:48.94,0:13:51.08,Dubtitles,,0,0,0,,Here I thought you were all talk.
@@ -2112,14 +2108,14 @@ Dialogue: 0,0:14:48.36,0:14:49.64,Dubtitles,,0,0,0,,I'll never let you!
 Dialogue: 0,0:14:49.92,0:14:51.54,Dubtitles,,0,0,0,,Ma-ma-ma-ma-ma!
 Dialogue: 0,0:14:52.58,0:14:54.42,Dubtitles,,0,0,0,,Not just your crew members.
 Dialogue: 0,0:14:54.62,0:14:56.48,Dubtitles,,0,0,0,,We'll take all of your treasures, too.
-Dialogue: 0,0:14:56.56,0:14:58.62,Dubtitles,,0,0,0,,You've got some poneglyphs, right?
+Dialogue: 0,0:14:56.56,0:14:58.62,Dubtitles,,0,0,0,,You've got some Poneglyph, right?
 Dialogue: 0,0:14:58.88,0:15:01.29,Dubtitles,,0,0,0,,A fair prize for what you put me through.
 Dialogue: 0,0:15:01.68,0:15:03.06,Dubtitles,,0,0,0,,I can't wait.
 Dialogue: 0,0:15:05.30,0:15:06.95,Dubtitles,,0,0,0,,Didn't think about treasure.
 Dialogue: 0,0:15:07.12,0:15:08.80,Dubtitles,,0,0,0,,I'd be happy to take yours!
-Dialogue: 0,0:15:12.26,0:15:18.08,Dubtitles,,0,0,0,,Whoever wins this battle will be one step\Ncloser to becoming king of the pirates.
-Dialogue: 0,0:15:19.80,0:15:24.16,Dubtitles,,0,0,0,,Yeah, you're right about\Nthat and it's gonna be me.
-Dialogue: 0,0:15:50.70,0:15:52.92,Dubtitles,,0,0,0,,DEMOLITION DUST.
+Dialogue: 0,0:15:12.26,0:15:18.08,Dubtitles,,0,0,0,,Whoever wins this battle will be one\Nstep closer to being King of the Pirates.
+Dialogue: 0,0:15:19.80,0:15:24.16,Dubtitles,,0,0,0,,yeah you're right about\Nthat and it's gonna be me
+Dialogue: 0,0:15:50.70,0:15:52.92,Dubtitles,,0,0,0,,DEMOLITION DUST
 Dialogue: 10,0:15:52.10,0:15:52.14,Captions-207+,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(810,912)\1a&HFE&\bord0\xshad10\yshad10\blur4\4c&HE9F9E7&\3a&HFF&\iclip(m 614.01 843.5 l 483.45 971.46 653.34 1042.71 727.45 869.34 743.21 828.18 834.31 845.26 797.52 907.01 761.17 975.33 720.39 1049.36 934.16 1050.73 934.6 883.8 934.16 824.67 1074.31 835.18 1098.26 1037.83 1234.2 1026.96 1104.53 802.34 1230.66 783.94 1384.82 991.53 1426.03 1050.13 955.3 1069.75 706.87 1068.9 443.93 1034.75 461 923.76 548.52 829.19 581.47 794.37)}Demolition
 Dialogue: 9,0:15:52.10,0:15:52.14,Captions-207+,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(808,914)\1a&HFE&\bord0\xshad10\yshad10\blur4\4c&HDCF9D9&\3a&HFF&\iclip(m 614.01 843.5 l 483.45 971.46 653.34 1042.71 727.45 869.34 743.21 828.18 834.31 845.26 797.52 907.01 761.17 975.33 720.39 1049.36 934.16 1050.73 934.6 883.8 934.16 824.67 1074.31 835.18 1098.26 1037.83 1234.2 1026.96 1104.53 802.34 1230.66 783.94 1384.82 991.53 1426.03 1050.13 955.3 1069.75 706.87 1068.9 443.93 1034.75 461 923.76 548.52 829.19 581.47 794.37)}Demolition
 Dialogue: 8,0:15:52.10,0:15:52.14,Captions-207+,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(806,916)\1a&HFE&\bord0\xshad10\yshad10\blur4\4c&HD3FCCF&\3a&HFF&\iclip(m 614.01 843.5 l 483.45 971.46 653.34 1042.71 727.45 869.34 743.21 828.18 834.31 845.26 797.52 907.01 761.17 975.33 720.39 1049.36 934.16 1050.73 934.6 883.8 934.16 824.67 1074.31 835.18 1098.26 1037.83 1234.2 1026.96 1104.53 802.34 1230.66 783.94 1384.82 991.53 1426.03 1050.13 955.3 1069.75 706.87 1068.9 443.93 1034.75 461 923.76 548.52 829.19 581.47 794.37)}Demolition
@@ -2199,87 +2195,87 @@ Dialogue: 11,0:15:52.22,0:15:54.35,Captions-207+,,0,0,0,,{\an5\fnArtificeSSK\fsc
 Dialogue: 12,0:15:52.22,0:15:54.35,Captions-207+,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(1219,915)\bord3\blur0.8\c&HBAECB6&\3c&HBAECB6&}Gust
 Dialogue: 13,0:15:52.22,0:15:54.35,Captions-207+,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(1219,915)\bord0\blur0.8\c&H212020&}Gust
 Dialogue: 0,0:16:16.02,0:16:18.12,Dubtitles,,0,0,0,,They were just scraps anyway.
-Dialogue: 0,0:16:30.08,0:16:33.12,Dubtitles,,0,0,0,,You idiots will never\Nbe king of the pirates.
-Dialogue: 0,0:16:33.20,0:16:36.38,Dubtitles,,0,0,0,,But at least you can\Nentertain me before you die!
+Dialogue: 0,0:16:30.08,0:16:33.12,Dubtitles,,0,0,0,,You idiots will never\Nbe King of the Pirates.
+Dialogue: 0,0:16:33.20,0:16:36.38,Dubtitles,,0,0,0,,But at least you can\Nentertain me before you die.
 Dialogue: 0,0:16:42.34,0:16:44.72,Dubtitles,,0,0,0,,The land of Wano is mine!
 Dialogue: 0,0:16:45.08,0:16:47.48,Dubtitles,,0,0,0,,I will bring a new era!
 Dialogue: 0,0:16:51.00,0:16:53.36,Dubtitles,,0,0,0,,Can you carry the weight for me?
 Dialogue: 0,0:16:55.64,0:16:57.94,Dubtitles,,0,0,0,,Will you deliver this country?
-Dialogue: 0,0:17:16.08,0:17:17.14,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:17:17.34,0:17:19.26,Dubtitles,,0,0,0,,What does it belong to you?
-Dialogue: 0,0:17:19.86,0:17:21.22,Dubtitles,,0,0,0,,Kong, Kong!
-Dialogue: 0,0:17:22.74,0:17:24.70,Dubtitles,,0,0,0,,Kong, rifle!
-Dialogue: 0,0:17:37.56,0:17:39.68,Dubtitles,,0,0,0,,Take it a nap, Mr. Emperor?
-Dialogue: 0,0:17:40.04,0:17:42.14,Dubtitles,,0,0,0,,Then this is your wake of call.
-Dialogue: 0,0:17:54.90,0:17:55.74,Dubtitles,,0,0,0,,I'm...
-Dialogue: 0,0:17:55.82,0:17:57.20,Dubtitles,,0,0,0,,I'm... I'm...
-Dialogue: 0,0:18:06.38,0:18:07.30,Dubtitles,,0,0,0,,I'm...
-Dialogue: 0,0:18:10.70,0:18:11.53,Dubtitles,,0,0,0,,No room.
-Dialogue: 0,0:18:13.20,0:18:14.06,Dubtitles,,0,0,0,,And shambles.
-Dialogue: 0,0:18:20.70,0:18:23.64,Dubtitles,,0,0,0,,Never seen an anatomical\Nchart of a dragon before.
-Dialogue: 0,0:18:29.62,0:18:32.56,Dubtitles,,0,0,0,,But your heart should be here!
-Dialogue: 0,0:18:34.06,0:18:35.42,Dubtitles,,0,0,0,,Give a knife!
-Dialogue: 0,0:18:42.30,0:18:46.00,Dubtitles,,0,0,0,,If I can't beat you from the\Noutside, I'll do it from within!
-Dialogue: 0,0:18:49.90,0:18:51.66,Dubtitles,,0,0,0,,You're quite the pest.
-Dialogue: 0,0:19:03.22,0:19:04.78,Dubtitles,,0,0,0,,See if you've done your research.
-Dialogue: 0,0:19:04.86,0:19:06.80,Dubtitles,,0,0,0,,If you know how durable I am.
-Dialogue: 0,0:19:07.48,0:19:08.94,Dubtitles,,0,0,0,,Maybe you're not as stupid.
-Dialogue: 0,0:19:09.02,0:19:10.31,Dubtitles,,0,0,0,,As I thought you were.
-Dialogue: 0,0:19:12.98,0:19:16.08,Dubtitles,,0,0,0,,Those scales of yours are\Na real pain in the ass.
-Dialogue: 0,0:19:17.02,0:19:19.38,Dubtitles,,0,0,0,,But I know a trick to get inside too.
-Dialogue: 0,0:19:26.58,0:19:27.62,Dubtitles,,0,0,0,,Scyther!
-Dialogue: 0,0:19:30.28,0:19:31.11,Dubtitles,,0,0,0,,Sonic!
-Dialogue: 0,0:19:42.96,0:19:45.30,Dubtitles,,0,0,0,,That one hurt, didn't it?
-Dialogue: 0,0:19:47.06,0:19:48.64,Dubtitles,,0,0,0,,Now die!
-Dialogue: 0,0:20:00.66,0:20:04.38,Dubtitles,,0,0,0,,As long as you're under the\Nopen sky, you're my prey.
-Dialogue: 0,0:20:04.68,0:20:07.68,Dubtitles,,0,0,0,,You didn't think you could\Nescape from me, did you?
-Dialogue: 0,0:20:08.30,0:20:14.48,Dubtitles,,0,0,0,,I admit, my expectations weren't\Nexactly high, but this has been fun.
-Dialogue: 0,0:20:15.26,0:20:16.98,Dubtitles,,0,0,0,,I know! Rhino Schneider!
-Dialogue: 0,0:20:24.12,0:20:25.28,Dubtitles,,0,0,0,,Look at you.
-Dialogue: 0,0:20:25.36,0:20:26.56,Dubtitles,,0,0,0,,Not bad.
-Dialogue: 0,0:20:33.62,0:20:34.78,Dubtitles,,0,0,0,,Hey, Traffy!
-Dialogue: 0,0:20:35.18,0:20:37.00,Dubtitles,,0,0,0,,Teleport me up there and hurry!
-Dialogue: 0,0:20:38.08,0:20:38.91,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:20:38.99,0:20:41.87,Dubtitles,,0,0,0,,I'm not a moving service, and\NI don't take orders from you!
-Dialogue: 0,0:20:43.54,0:20:47.16,Dubtitles,,0,0,0,,I'll do it because I want to,\Nnot because you told me to!
-Dialogue: 0,0:20:48.58,0:20:49.78,Dubtitles,,0,0,0,,Foxfire style!
-Dialogue: 0,0:20:55.96,0:20:57.16,Dubtitles,,0,0,0,,Glass bread!
-Dialogue: 0,0:21:04.80,0:21:05.88,Dubtitles,,0,0,0,,Flame red!
-Dialogue: 0,0:21:12.54,0:21:13.76,Dubtitles,,0,0,0,,Thanks, Zoro!
-Dialogue: 0,0:21:15.24,0:21:16.68,Dubtitles,,0,0,0,,Let's try again!
-Dialogue: 0,0:21:18.56,0:21:19.39,Dubtitles,,0,0,0,,Traffy!
-Dialogue: 0,0:21:20.70,0:21:21.53,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:21:21.61,0:21:22.44,Dubtitles,,0,0,0,,I told you!
-Dialogue: 0,0:21:22.53,0:21:24.94,Dubtitles,,0,0,0,,Stop acting like you're my boss, dammit!
-Dialogue: 0,0:21:31.78,0:21:33.56,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:21:35.80,0:21:37.72,Dubtitles,,0,0,0,,Out of the way, Kaido!
-Dialogue: 0,0:21:38.06,0:21:40.64,Dubtitles,,0,0,0,,That's no ordinary weapon he's got!
-Dialogue: 0,0:21:41.70,0:21:43.34,Dubtitles,,0,0,0,,One sword style!
-Dialogue: 0,0:21:52.64,0:21:55.04,Dubtitles,,0,0,0,,Blood! Dragon! Blaze!
-Dialogue: 0,0:22:06.44,0:22:08.54,Dubtitles,,0,0,0,,What is this power I feel?
-Dialogue: 0,0:22:09.26,0:22:10.09,Dubtitles,,0,0,0,,How?
-Dialogue: 0,0:22:10.17,0:22:11.74,Dubtitles,,0,0,0,,Why is Odin's presence in his sword?
-Dialogue: 0,0:22:13.46,0:22:14.34,Dubtitles,,0,0,0,,Tang it!
-Dialogue: 0,0:22:14.42,0:22:15.66,Dubtitles,,0,0,0,,I missed you!
-Dialogue: 0,0:22:15.74,0:22:18.36,Dubtitles,,0,0,0,,This is what you get\Nfor taking us lightly!
-Dialogue: 0,0:22:19.06,0:22:19.89,Dubtitles,,0,0,0,,Indra!
-Dialogue: 0,0:22:26.76,0:22:27.59,Dubtitles,,0,0,0,,Zoro!
-Dialogue: 0,0:22:28.60,0:22:30.78,Dubtitles,,0,0,0,,Ma-ma-ma-ma!
-Dialogue: 0,0:22:31.86,0:22:32.96,Dubtitles,,0,0,0,,Look at that!
-Dialogue: 0,0:22:33.18,0:22:34.38,Dubtitles,,0,0,0,,All lined up for me!
-Dialogue: 0,0:22:35.98,0:22:41.12,Dubtitles,,0,0,0,,Heaven's wrath, God of\NLightning! Heed my call!
-Dialogue: 0,0:22:47.62,0:22:50.76,Dubtitles,,0,0,0,,That woman is a living calamity!
-Dialogue: 0,0:23:26.88,0:23:28.24,Dubtitles,,0,0,0,,What in the hell?!
-Dialogue: 0,0:23:28.32,0:23:32.14,Dubtitles,,0,0,0,,How did you survive all that\Nlightning without a scratch on you?!
-Dialogue: 0,0:23:38.26,0:23:39.16,Dubtitles,,0,0,0,,Tush!
-Dialogue: 0,0:23:39.36,0:23:41.16,Dubtitles,,0,0,0,,I'm a robber man!
-Dialogue: 0,0:23:41.80,0:23:42.63,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:23:44.92,0:23:47.70,Dubtitles,,0,0,0,,You're gonna pay for hurting my friends!
-Dialogue: 0,0:23:50.70,0:23:52.08,Dubtitles,,0,0,0,,Blast Breath!
-Dialogue: 0,0:24:23.44,0:24:25.02,Dubtitles,,0,0,0,,Fire doesn't work either.
-Dialogue: 0,0:24:25.32,0:24:26.54,Dubtitles,,0,0,0,,Why the hell not?
-Dialogue: 0,0:24:30.00,0:24:31.22,Dubtitles,,0,0,0,,Cause God!
-Dialogue: 0,0:24:34.38,0:24:36.36,Dubtitles,,0,0,0,,Come out!
-Dialogue: 0,0:24:47.38,0:24:48.21,Dubtitles,,0,0,0,,Got me!
-Dialogue: 0,0:25:04.38,0:25:05.44,Dubtitles,,0,0,0,,AAAAAA!
+Dialogue: 0,0:17:15.88,0:17:19.22,Dubtitles,,0,0,0,,What? Who doesn't belong to you?
+Dialogue: 0,0:17:19.84,0:17:21.36,Dubtitles,,0,0,0,,Kong Kong!
+Dialogue: 0,0:17:23.14,0:17:25.04,Dubtitles,,0,0,0,,Kong Rifle!
+Dialogue: 0,0:17:37.58,0:17:39.66,Dubtitles,,0,0,0,,Take it a nap, Mr. Emperor?
+Dialogue: 0,0:17:40.08,0:17:42.14,Dubtitles,,0,0,0,,Then this is your wake-up call.
+Dialogue: 0,0:17:55.04,0:17:57.28,Dubtitles,,0,0,0,,I'm a Crimson!
+Dialogue: 0,0:18:10.02,0:18:11.28,Dubtitles,,0,0,0,,No room.
+Dialogue: 0,0:18:13.04,0:18:14.04,Dubtitles,,0,0,0,,And shambles.
+Dialogue: 0,0:18:20.08,0:18:23.34,Dubtitles,,0,0,0,,Never seen an anatomical\Nchart of a dragon before.
+Dialogue: 0,0:18:29.84,0:18:32.48,Dubtitles,,0,0,0,,Watch your heart, it should be here!
+Dialogue: 0,0:18:34.20,0:18:35.40,Dubtitles,,0,0,0,,Give a knife!
+Dialogue: 0,0:18:43.06,0:18:46.47,Dubtitles,,0,0,0,,I can't beat you from the\Noutside. I'll do it from within!
+Dialogue: 0,0:18:50.16,0:18:51.66,Dubtitles,,0,0,0,,You're quite the pest.
+Dialogue: 0,0:19:03.22,0:19:06.81,Dubtitles,,0,0,0,,See if you've done your research\Nif you know how durable I am
+Dialogue: 0,0:19:07.48,0:19:10.30,Dubtitles,,0,0,0,,Maybe you're not as stupid\Nas I thought you were
+Dialogue: 0,0:19:12.98,0:19:16.08,Dubtitles,,0,0,0,,Those scales of yours are\Na real pain in the ass
+Dialogue: 0,0:19:17.02,0:19:19.42,Dubtitles,,0,0,0,,But I know a trick to get inside too
+Dialogue: 0,0:19:26.22,0:19:27.62,Dubtitles,,0,0,0,,Scyther!
+Dialogue: 0,0:19:29.92,0:19:31.32,Dubtitles,,0,0,0,,Sonic!
+Dialogue: 0,0:19:42.72,0:19:45.32,Dubtitles,,0,0,0,,Thou and her, didn't it?
+Dialogue: 0,0:19:46.70,0:19:48.66,Dubtitles,,0,0,0,,Now die!
+Dialogue: 0,0:19:49.40,0:19:50.36,Dubtitles,,0,0,0,,Indra!
+Dialogue: 0,0:20:00.64,0:20:04.34,Dubtitles,,0,0,0,,As long as you're under the\Nopen sky, you're my prey.
+Dialogue: 0,0:20:04.74,0:20:07.74,Dubtitles,,0,0,0,,You didn't think you could\Nescape from me, did you?
+Dialogue: 0,0:20:08.26,0:20:12.42,Dubtitles,,0,0,0,,I admit, my expectations\Nweren't exactly high.
+Dialogue: 0,0:20:12.74,0:20:16.80,Dubtitles,,0,0,0,,But this has been fun. I know! Shiner!
+Dialogue: 0,0:20:22.88,0:20:24.72,Dubtitles,,0,0,0,,Look at you.
+Dialogue: 0,0:20:25.48,0:20:26.52,Dubtitles,,0,0,0,,Not bad.
+Dialogue: 0,0:20:33.66,0:20:34.78,Dubtitles,,0,0,0,,Hey, Traffy!
+Dialogue: 0,0:20:35.22,0:20:37.04,Dubtitles,,0,0,0,,Teleport me up there and hurry!
+Dialogue: 0,0:20:38.10,0:20:38.93,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:20:39.01,0:20:41.91,Dubtitles,,0,0,0,,I'm not a moving service, and\NI don't take orders from you!
+Dialogue: 0,0:20:43.64,0:20:47.14,Dubtitles,,0,0,0,,I'll do it because I want to,\Nnot because you told me to!
+Dialogue: 0,0:20:48.74,0:20:49.78,Dubtitles,,0,0,0,,Foxfire style!
+Dialogue: 0,0:20:55.52,0:20:57.50,Dubtitles,,0,0,0,,Blast Breath!
+Dialogue: 0,0:21:04.26,0:21:05.92,Dubtitles,,0,0,0,,Flame friend!
+Dialogue: 0,0:21:12.18,0:21:13.78,Dubtitles,,0,0,0,,Thanks, Zoro!
+Dialogue: 0,0:21:15.08,0:21:16.68,Dubtitles,,0,0,0,,Let's try again.
+Dialogue: 0,0:21:17.74,0:21:18.57,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:21:18.65,0:21:19.48,Dubtitles,,0,0,0,,Traffy?
+Dialogue: 0,0:21:19.84,0:21:20.96,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:21:21.24,0:21:22.14,Dubtitles,,0,0,0,,I told you!
+Dialogue: 0,0:21:22.22,0:21:24.96,Dubtitles,,0,0,0,,Stop acting like you're my boss, dammit!
+Dialogue: 0,0:21:32.22,0:21:33.58,Dubtitles,,0,0,0,,What the hell?
+Dialogue: 0,0:21:35.74,0:21:37.72,Dubtitles,,0,0,0,,Out of the way, Kaido!
+Dialogue: 0,0:21:38.10,0:21:40.70,Dubtitles,,0,0,0,,That's no ordinary weapon he's got!
+Dialogue: 0,0:21:41.72,0:21:43.34,Dubtitles,,0,0,0,,One sword style!
+Dialogue: 0,0:21:52.86,0:21:55.02,Dubtitles,,0,0,0,,Blood! Dragon! Blaze!
+Dialogue: 0,0:22:06.64,0:22:08.54,Dubtitles,,0,0,0,,What is this power I feel?
+Dialogue: 0,0:22:09.32,0:22:11.76,Dubtitles,,0,0,0,,Why is Odin's presence in his sword?
+Dialogue: 0,0:22:13.58,0:22:14.41,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:22:14.49,0:22:15.64,Dubtitles,,0,0,0,,I missed you!
+Dialogue: 0,0:22:15.72,0:22:18.26,Dubtitles,,0,0,0,,This is what you get\Nfor taking us lightly!
+Dialogue: 0,0:22:18.34,0:22:19.86,Dubtitles,,0,0,0,,Is wrong!
+Dialogue: 0,0:22:26.34,0:22:27.50,Dubtitles,,0,0,0,,No! Zoro!
+Dialogue: 0,0:22:28.62,0:22:30.96,Dubtitles,,0,0,0,,Ma-ma-ma-ma…
+Dialogue: 0,0:22:31.04,0:22:32.96,Dubtitles,,0,0,0,,Look at that!
+Dialogue: 0,0:22:33.08,0:22:34.40,Dubtitles,,0,0,0,,All I've done for me!
+Dialogue: 0,0:22:35.90,0:22:37.16,Dubtitles,,0,0,0,,Heaven's wrath!
+Dialogue: 0,0:22:37.46,0:22:39.05,Dubtitles,,0,0,0,,God of lightning lightning!
+Dialogue: 0,0:22:39.66,0:22:41.14,Dubtitles,,0,0,0,,Heads, my call!
+Dialogue: 0,0:22:48.34,0:22:50.78,Dubtitles,,0,0,0,,That woman is a living calamity!
+Dialogue: 0,0:23:26.46,0:23:27.96,Dubtitles,,0,0,0,,What in the hell?
+Dialogue: 0,0:23:28.32,0:23:32.09,Dubtitles,,0,0,0,,How did you survive all that\Nlightning without a scratch on you?
+Dialogue: 0,0:23:38.50,0:23:39.33,Dubtitles,,0,0,0,,Tush!
+Dialogue: 0,0:23:39.41,0:23:41.22,Dubtitles,,0,0,0,,I'm a rubber man!
+Dialogue: 0,0:23:41.84,0:23:42.67,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:23:45.18,0:23:47.72,Dubtitles,,0,0,0,,You're gonna pay for hurting my friends!
+Dialogue: 0,0:23:50.22,0:23:52.60,Dubtitles,,0,0,0,,Blast Breath!
+Dialogue: 0,0:24:22.92,0:24:25.02,Dubtitles,,0,0,0,,Fire doesn't work either.
+Dialogue: 0,0:24:25.30,0:24:26.54,Dubtitles,,0,0,0,,Why the hell not?
+Dialogue: 0,0:24:30.34,0:24:31.32,Dubtitles,,0,0,0,,Cause God!
+Dialogue: 0,0:24:33.92,0:24:36.16,Dubtitles,,0,0,0,,Come out!
+Dialogue: 0,0:24:40.98,0:24:42.20,Dubtitles,,0,0,0,,God!
+Dialogue: 0,0:24:46.92,0:24:48.32,Dubtitles,,0,0,0,,Godly!
+Dialogue: 0,0:24:52.24,0:24:53.64,Dubtitles,,0,0,0,,Godly!
+Dialogue: 0,0:24:57.50,0:24:58.90,Dubtitles,,0,0,0,,Godly!
 

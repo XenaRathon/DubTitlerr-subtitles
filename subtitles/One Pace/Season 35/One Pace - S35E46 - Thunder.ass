@@ -26,7 +26,7 @@ Style: Note-207+,Impress BT Pace,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,
 Style: Karaoke,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
 Style: Translation,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,15,15,25,1
 Style: Dummy,Duality,105,&H00B35679,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -88232,36 +88232,41 @@ Dialogue: 1,0:01:23.40,0:01:23.44,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-766,-716
 Dialogue: 1,0:01:23.40,0:01:23.44,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-726,-676,-426,74)\an7\pos(1217.99,1173.53)\frz211.34\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:23.44,0:01:23.48,Karaoke,,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1120.42,188.91)\frz101.03\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:23.44,0:01:23.48,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1213.93,1177.27)\frz211.49\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
-Dialogue: 0,0:01:25.02,0:01:26.42,Dubtitles,,0,0,0,,Whoa!
-Dialogue: 0,0:01:28.16,0:01:29.14,Dubtitles,,0,0,0,,Whoa!
+Dialogue: 0,0:01:25.74,0:01:28.98,Dubtitles,,0,0,0,,Whoa-oh-oh-oh. Whoa.
+Dialogue: 0,0:01:29.06,0:01:30.82,Dubtitles,,0,0,0,,-oh-oh-oh
+Dialogue: 0,0:01:30.90,0:01:37.90,Dubtitles,,0,0,0,,-oh
 Dialogue: 3,0:01:31.90,0:01:39.20,Title-207+,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(734,727)}Thunder
 Dialogue: 2,0:01:31.90,0:01:39.20,Title-207+,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(734,727)\t(693,734,\1a&H00&)\t(6573,6615,\1a&HFF&)}Thunder
-Dialogue: 0,0:01:34.48,0:01:35.88,Dubtitles,,0,0,0,,Whoa!
-Dialogue: 0,0:01:44.20,0:01:46.08,Dubtitles,,0,0,0,,Another round.
-Dialogue: 0,0:01:46.44,0:01:48.04,Dubtitles,,0,0,0,,Black Maria.
-Dialogue: 0,0:01:48.44,0:01:50.20,Dubtitles,,0,0,0,,Wait a minute.
-Dialogue: 0,0:01:50.90,0:01:53.88,Dubtitles,,0,0,0,,Don't you have a job to do? A job?
-Dialogue: 0,0:01:54.14,0:01:55.68,Dubtitles,,0,0,0,,Why whatever could you mean?
-Dialogue: 0,0:01:55.76,0:01:58.11,Dubtitles,,0,0,0,,You're supposed to be looking for my son
-Dialogue: 0,0:01:59.76,0:02:02.26,Dubtitles,,0,0,0,,But wouldn't it be nicer\Nif I stayed here with
-Dialogue: 0,0:02:02.34,0:02:06.04,Dubtitles,,0,0,0,,you the other toby robo\Nmay be insufferable,
-Dialogue: 0,0:02:06.20,0:02:08.42,Dubtitles,,0,0,0,,so I'll stay here and serve you.
-Dialogue: 0,0:02:10.80,0:02:14.50,Dubtitles,,0,0,0,,Fair enough, let's not\Nstand on ceremony today!
-Dialogue: 0,0:02:15.24,0:02:18.46,Dubtitles,,0,0,0,,So what do you say you having fun?
-Dialogue: 0,0:02:20.90,0:02:23.56,Dubtitles,,0,0,0,,Oh, you bet I am, my good man.
+Dialogue: 0,0:01:42.72,0:01:44.12,Dubtitles,,0,0,0,,Another
+Dialogue: 0,0:01:44.20,0:01:46.10,Dubtitles,,0,0,0,,round?
+Dialogue: 0,0:01:46.36,0:01:48.06,Dubtitles,,0,0,0,,Black Maria?
+Dialogue: 0,0:01:48.60,0:01:50.22,Dubtitles,,0,0,0,,Wait a minute.
+Dialogue: 0,0:01:50.88,0:01:52.74,Dubtitles,,0,0,0,,Don't you have a job to do?
+Dialogue: 0,0:01:53.04,0:01:53.90,Dubtitles,,0,0,0,,A job?
+Dialogue: 0,0:01:54.14,0:01:55.66,Dubtitles,,0,0,0,,Why, whatever could you mean?
+Dialogue: 0,0:01:55.74,0:01:58.15,Dubtitles,,0,0,0,,You're supposed to be looking for my son.
+Dialogue: 0,0:01:59.76,0:02:02.76,Dubtitles,,0,0,0,,But wouldn't it be nicer\Nif I stayed here with you?
+Dialogue: 0,0:02:02.94,0:02:08.30,Dubtitles,,0,0,0,,The other Toby Robo may be insufferable,\Nso I'll stay here and serve you.
+Dialogue: 0,0:02:08.90,0:02:10.68,Dubtitles,,0,0,0,,Roo-roo-roo-roo!
+Dialogue: 0,0:02:10.76,0:02:11.82,Dubtitles,,0,0,0,,Fair enough.
+Dialogue: 0,0:02:12.32,0:02:14.52,Dubtitles,,0,0,0,,Let's not stand on ceremony today.
+Dialogue: 0,0:02:15.14,0:02:16.84,Dubtitles,,0,0,0,,So, what do you say?
+Dialogue: 0,0:02:17.34,0:02:19.02,Dubtitles,,0,0,0,,You having fun, Orochi?
+Dialogue: 0,0:02:20.90,0:02:23.58,Dubtitles,,0,0,0,,Oh, you bet I am my good man.
 Dialogue: 0,0:02:27.78,0:02:32.08,Dubtitles,,0,0,0,,For 20 long years, we've been haunted\Nby the ghosts of the Kozuki clan.
 Dialogue: 0,0:02:32.36,0:02:34.22,Dubtitles,,0,0,0,,But they've been vanquished at last.
 Dialogue: 0,0:02:34.30,0:02:35.83,Dubtitles,,0,0,0,,We have much to celebrate.
 Dialogue: 0,0:02:36.40,0:02:39.11,Dubtitles,,0,0,0,,Kanjuro deceived them\Nto the very last second.
-Dialogue: 0,0:02:39.58,0:02:41.72,Dubtitles,,0,0,0,,His grand performance has come to an end,
-Dialogue: 0,0:02:41.80,0:02:44.32,Dubtitles,,0,0,0,,so I imagine he'll be\Njoining us at any moment.
+Dialogue: 0,0:02:39.58,0:02:41.74,Dubtitles,,0,0,0,,His grand performance has come to an end,
+Dialogue: 0,0:02:41.82,0:02:44.32,Dubtitles,,0,0,0,,so I imagine he'll be\Njoining us at any moment.
 Dialogue: 0,0:02:44.40,0:02:47.48,Dubtitles,,0,0,0,,The same goes for the\Nbattleship captains who
-Dialogue: 0,0:02:47.56,0:02:50.80,Dubtitles,,0,0,0,,sent those Akazaya\Nsamurai to a watery grave.
-Dialogue: 0,0:02:53.58,0:02:54.82,Dubtitles,,0,0,0,,Konjuro's impressive.
-Dialogue: 0,0:02:57.04,0:03:01.34,Dubtitles,,0,0,0,,To think I almost killed him by accident\Nin our battle all those years ago.
-Dialogue: 0,0:03:01.42,0:03:04.56,Dubtitles,,0,0,0,,But that doesn't mean Odin\Ntrusted him with everything.
-Dialogue: 0,0:03:04.64,0:03:08.34,Dubtitles,,0,0,0,,Certainly not with the secrets he\Ndiscovered on his trip across the seas.
-Dialogue: 0,0:03:08.42,0:03:12.68,Dubtitles,,0,0,0,,But if Kanjuro wasn't told, then the\Nother samurai weren't told either?
+Dialogue: 0,0:02:47.56,0:02:50.80,Dubtitles,,0,0,0,,Sent those Akazaya\Nsamurai to a watery grave.
+Dialogue: 0,0:02:53.58,0:02:54.78,Dubtitles,,0,0,0,,Konjuro's impressive
+Dialogue: 0,0:02:57.04,0:03:00.38,Dubtitles,,0,0,0,,To think I almost killed him\Nby accident in our battle
+Dialogue: 0,0:03:00.46,0:03:03.90,Dubtitles,,0,0,0,,all those years ago But that\Ndoesn't mean Odin trusted him
+Dialogue: 0,0:03:03.98,0:03:06.86,Dubtitles,,0,0,0,,with everything Certainly not\Nwith the secrets he discovered
+Dialogue: 0,0:03:06.94,0:03:10.50,Dubtitles,,0,0,0,,on his trip across the seas\NBut if Kanjuro wasn't told,
+Dialogue: 0,0:03:10.66,0:03:13.13,Dubtitles,,0,0,0,,then the other samurai weren't told either
 Dialogue: 0,0:03:13.66,0:03:16.36,Dubtitles,,0,0,0,,Still thinking about that? Of course.
 Dialogue: 0,0:03:17.02,0:03:19.96,Dubtitles,,0,0,0,,Odin knew the exact\Nlocation of Laugh Tale.
 Dialogue: 0,0:03:20.24,0:03:22.96,Dubtitles,,0,0,0,,The last island that Roger's crew reached.
@@ -88269,10 +88274,8 @@ Dialogue: 0,0:03:26.80,0:03:28.42,Dubtitles,,0,0,0,,Who is this guy?
 Dialogue: 0,0:03:34.90,0:03:36.76,Dubtitles,,0,0,0,,Do pardon the intrusion.
 Dialogue: 0,0:03:37.10,0:03:39.18,Dubtitles,,0,0,0,,I must converse with Lord Orochi.
 Dialogue: 0,0:03:40.28,0:03:42.30,Dubtitles,,0,0,0,,Kanjuro, you made it.
-Dialogue: 0,0:03:42.68,0:03:45.26,Dubtitles,,0,0,0,,Is he one of us either way?
-Dialogue: 0,0:03:45.34,0:03:47.05,Dubtitles,,0,0,0,,He's trying to start a fight.
-Dialogue: 0,0:03:48.96,0:03:50.42,Dubtitles,,0,0,0,,The man works for order.
-Dialogue: 0,0:03:50.50,0:03:51.54,Dubtitles,,0,0,0,,See you, morons!
+Dialogue: 0,0:03:42.68,0:03:46.84,Dubtitles,,0,0,0,,Is he one of us either way\Nhe's trying to start a fight
+Dialogue: 0,0:03:48.96,0:03:51.54,Dubtitles,,0,0,0,,The man works for order see you morons
 Dialogue: 0,0:03:53.12,0:03:54.58,Dubtitles,,0,0,0,,Everyone stand down.
 Dialogue: 0,0:03:54.68,0:03:56.21,Dubtitles,,0,0,0,,Please forgive me my lord.
 Dialogue: 0,0:03:56.34,0:03:57.26,Dubtitles,,0,0,0,,I'm quite late.
@@ -88322,9 +88325,8 @@ Dialogue: 1,0:04:01.88,0:04:02.01,Captions-207+,,0,0,0,,{\pos(1478,600)\fnFOT-Gr
 Dialogue: 2,0:04:01.88,0:04:02.01,Captions-207+,,0,0,0,,{\pos(1478,600)\fnFOT-Greco Std DB Strp\bord0\blur0.8\c&H1A181B&\fscx125\fscy125}Kurozumi Kanjuro\N{\fscx85\fscy85\c&HEEEEED&}Shogun Orochi's Informant
 Dialogue: 1,0:04:02.01,0:04:04.35,Captions-207+,,0,0,0,,{\pos(1478,600)\fnFOT-Greco Std DB Strp\bord8\blur0.8\c&HF1EFF3&\3c&HF1EFF3&\fscx125\fscy125\fad(0,481)\t(1859,1900,\1a&HFF&)}Kurozumi Kanjuro\N{\fscx85\fscy85\bord6\c&H171616&\3c&H171616&}Shogun Orochi's Informant
 Dialogue: 2,0:04:02.01,0:04:04.35,Captions-207+,,0,0,0,,{\pos(1478,600)\fnFOT-Greco Std DB Strp\bord0\blur0.8\c&H1A181B&\fscx125\fscy125\fad(0,481)}Kurozumi Kanjuro\N{\fscx85\fscy85\c&HEEEEED&}Shogun Orochi's Informant
-Dialogue: 0,0:04:04.02,0:04:04.85,Dubtitles,,0,0,0,,Furthermore,
-Dialogue: 0,0:04:04.93,0:04:07.10,Dubtitles,,0,0,0,,I was mistaken for an\Nenemy more than once and
-Dialogue: 0,0:04:07.18,0:04:09.83,Dubtitles,,0,0,0,,was forced to strike\Ndown a number of guards.
+Dialogue: 0,0:04:04.02,0:04:06.62,Dubtitles,,0,0,0,,Furthermore I was mistaken\Nfor an enemy more than
+Dialogue: 0,0:04:06.70,0:04:09.82,Dubtitles,,0,0,0,,once and was forced to strike\Ndown a number of guards
 Dialogue: 0,0:04:10.26,0:04:11.86,Dubtitles,,0,0,0,,Again, my apologies.
 Dialogue: 0,0:04:12.68,0:04:14.90,Dubtitles,,0,0,0,,Oh, well, that is too bad for them.
 Dialogue: 0,0:04:16.10,0:04:18.45,Dubtitles,,0,0,0,,I see that you've brought a gift for me.
@@ -88340,12 +88342,12 @@ Dialogue: 0,0:04:51.54,0:04:54.74,Dubtitles,,0,0,0,,I'm still surprised I\Nremem
 Dialogue: 0,0:04:55.50,0:04:58.68,Dubtitles,,0,0,0,,It's hard to believe you\Nwere one of the Akazaya Nine.
 Dialogue: 0,0:04:59.52,0:05:00.90,Dubtitles,,0,0,0,,Twenty years ago, was it?
 Dialogue: 0,0:05:00.98,0:05:01.81,Dubtitles,,0,0,0,,Our battle.
-Dialogue: 0,0:05:04.98,0:05:08.62,Dubtitles,,0,0,0,,And you, I remember our encounter as well.
-Dialogue: 0,0:05:09.42,0:05:12.72,Dubtitles,,0,0,0,,Some son of the great Kozuki\NOden you turned out to be.
-Dialogue: 0,0:05:12.80,0:05:15.66,Dubtitles,,0,0,0,,You haven't changed one bit, have you?
+Dialogue: 0,0:05:04.98,0:05:08.62,Dubtitles,,0,0,0,,And you, I remember our encounter as well
+Dialogue: 0,0:05:09.42,0:05:15.12,Dubtitles,,0,0,0,,Some son of the great Kozuki Oden you turned\Nout to be You haven't changed one bit,
+Dialogue: 0,0:05:15.24,0:05:16.07,Dubtitles,,0,0,0,,have you?
 Dialogue: 0,0:05:19.00,0:05:21.26,Dubtitles,,0,0,0,,Quite a disappointment, isn't he?
-Dialogue: 0,0:05:21.70,0:05:25.17,Dubtitles,,0,0,0,,Seems that the only thing of\Nvalue that he has is his name.
-Dialogue: 0,0:05:25.70,0:05:27.24,Dubtitles,,0,0,0,,That poor child.
+Dialogue: 0,0:05:21.70,0:05:25.11,Dubtitles,,0,0,0,,Seems that the only thing of\Nvalue that he has is his name
+Dialogue: 0,0:05:25.70,0:05:27.24,Dubtitles,,0,0,0,,That poor child
 Dialogue: 0,0:05:28.98,0:05:32.62,Dubtitles,,0,0,0,,Oh, how could you dare beat\Nthis little boy black and blue?
 Dialogue: 0,0:05:35.90,0:05:38.36,Dubtitles,,0,0,0,,I'll toast to that, my good man.
 Dialogue: 0,0:05:38.96,0:05:40.44,Dubtitles,,0,0,0,,This one's for you.
@@ -88364,7 +88366,7 @@ Dialogue: 0,0:06:13.80,0:06:15.32,Dubtitles,,0,0,0,,I sincerely apologize.
 Dialogue: 0,0:06:15.98,0:06:19.74,Dubtitles,,0,0,0,,But you informed me of the\Nrendezvous point at Tokage Port!
 Dialogue: 0,0:06:20.02,0:06:21.73,Dubtitles,,0,0,0,,Why didn't you slay them all?
 Dialogue: 0,0:06:21.92,0:06:23.96,Dubtitles,,0,0,0,,Your excuse better be damn good!
-Dialogue: 0,0:06:24.04,0:06:27.58,Dubtitles,,0,0,0,,I'm loathe to admit it,\Nbut Kin'emon outsmarted me.
+Dialogue: 0,0:06:24.04,0:06:27.58,Dubtitles,,0,0,0,,I'm loathe to admit it,\Nbut Kin'emon outsmarted me!
 Dialogue: 0,0:06:28.14,0:06:31.28,Dubtitles,,0,0,0,,This is a shock since I have\Nknown him for many years.
 Dialogue: 0,0:06:31.36,0:06:34.65,Dubtitles,,0,0,0,,Cunning is not a word I'd use\Nto describe his character.
 Dialogue: 0,0:06:34.90,0:06:36.72,Dubtitles,,0,0,0,,That sounds like a weak excuse.
@@ -88372,7 +88374,7 @@ Dialogue: 0,0:06:36.84,0:06:38.94,Dubtitles,,0,0,0,,Now, Kanjuro, what do you kn
 Dialogue: 0,0:06:39.24,0:06:41.08,Dubtitles,,0,0,0,,Are the samurai on their way here?
 Dialogue: 0,0:06:41.16,0:06:43.28,Dubtitles,,0,0,0,,Is there something else\Nyou're not telling me?
 Dialogue: 0,0:06:43.36,0:06:46.16,Dubtitles,,0,0,0,,No reason to lose your\Nhead yet, Shogun Orochi.
-Dialogue: 0,0:06:47.84,0:06:48.67,Dubtitles,,0,0,0,,Fukurokuju.
+Dialogue: 0,0:06:47.84,0:06:48.67,Dubtitles,,0,0,0,,Fukurokuju!
 Dialogue: 0,0:06:48.75,0:06:51.98,Dubtitles,,0,0,0,,We haven't seen a single suspicious\Nship at the dock thus far.
 Dialogue: 0,0:06:52.06,0:06:55.32,Dubtitles,,0,0,0,,Our only concern is that\Nthe trio of battleships
 Dialogue: 0,0:06:55.40,0:06:58.17,Dubtitles,,0,0,0,,that we sent out earlier\Nhave yet to come back.
@@ -88381,14 +88383,14 @@ Dialogue: 0,0:07:00.44,0:07:05.26,Dubtitles,,0,0,0,,but there's a report that fo
 Dialogue: 0,0:07:07.38,0:07:08.82,Dubtitles,,0,0,0,,Straw Hat Luffy.
 Dialogue: 0,0:07:12.56,0:07:13.96,Dubtitles,,0,0,0,,Pirate Hunter Zoro.
 Dialogue: 0,0:07:17.08,0:07:18.80,Dubtitles,,0,0,0,,Eustass Captain Kidd.
-Dialogue: 0,0:07:21.78,0:07:23.34,Dubtitles,,0,0,0,,Murder machine! Killer!
-Dialogue: 0,0:07:23.42,0:07:26.60,Dubtitles,,0,0,0,,It's quite likely that\Ntheir pirate crews are also
-Dialogue: 0,0:07:26.68,0:07:29.18,Dubtitles,,0,0,0,,in tow and have infiltrated\Nthe island somehow?
-Dialogue: 0,0:07:29.26,0:07:31.72,Dubtitles,,0,0,0,,If you knew all that,\Nwhy didn't you tell me?
-Dialogue: 0,0:07:31.80,0:07:35.24,Dubtitles,,0,0,0,,Master, queen was supposed\Nto be handling the situation,
-Dialogue: 0,0:07:35.32,0:07:38.68,Dubtitles,,0,0,0,,so I thought it'd be better not to\Ninterrupt the banquet with this nonsense!
-Dialogue: 0,0:07:38.76,0:07:42.58,Dubtitles,,0,0,0,,Sir, whether they're here or\Nnot, we're more than prepared!
-Dialogue: 0,0:07:42.66,0:07:43.74,Dubtitles,,0,0,0,,Our entire...
+Dialogue: 0,0:07:21.78,0:07:25.22,Dubtitles,,0,0,0,,Murder machine Killer.\NIt's quite likely that
+Dialogue: 0,0:07:25.30,0:07:27.40,Dubtitles,,0,0,0,,their pirate crews are\Nalso in tow and have
+Dialogue: 0,0:07:27.48,0:07:30.26,Dubtitles,,0,0,0,,infiltrated the island\Nsomehow if you knew all
+Dialogue: 0,0:07:30.34,0:07:33.52,Dubtitles,,0,0,0,,that why didn't you\Ntell me master queen was
+Dialogue: 0,0:07:33.60,0:07:35.68,Dubtitles,,0,0,0,,supposed to be handling the situation so i
+Dialogue: 0,0:07:35.76,0:07:37.40,Dubtitles,,0,0,0,,thought it'd be better\Nnot to interrupt the
+Dialogue: 0,0:07:37.48,0:07:40.38,Dubtitles,,0,0,0,,banquet with this nonsense\Nsir whether they're
+Dialogue: 0,0:07:40.46,0:07:43.74,Dubtitles,,0,0,0,,here or not we're more\Nthan prepared our entire
 Dialogue: 0,0:07:44.38,0:07:46.20,Dubtitles,,0,0,0,,force is here on Onigashima.
 Dialogue: 0,0:07:46.28,0:07:50.05,Dubtitles,,0,0,0,,Whatever challenge is presented,\Nthis is the safest place in the
 Dialogue: 0,0:07:53.28,0:07:54.34,Dubtitles,,0,0,0,,country at this moment.
@@ -88406,31 +88408,29 @@ Dialogue: 0,0:08:24.16,0:08:25.96,Dubtitles,,0,0,0,,I will persevere.
 Dialogue: 0,0:08:27.22,0:08:29.94,Dubtitles,,0,0,0,,Black Maria, give him to me.
 Dialogue: 0,0:08:30.30,0:08:32.48,Dubtitles,,0,0,0,,There's one thing we must not forget.
 Dialogue: 0,0:08:32.74,0:08:35.92,Dubtitles,,0,0,0,,This pathetic little brat\Nis still the enemy's leader.
-Dialogue: 0,0:08:37.68,0:08:40.14,Dubtitles,,0,0,0,,Don't prepare the stage for an execution!
-Dialogue: 0,0:08:40.94,0:08:44.18,Dubtitles,,0,0,0,,I'll bring an end to the Kozuki\Nbloodline in front of everyone!
-Dialogue: 0,0:08:44.26,0:08:47.50,Dubtitles,,0,0,0,,Then the samurai loyalty will\Ncrumble right before my eyes!
-Dialogue: 0,0:08:47.58,0:08:49.54,Dubtitles,,0,0,0,,Then this will all be over!
+Dialogue: 0,0:08:37.68,0:08:40.14,Dubtitles,,0,0,0,,Don't prepare the stage for an execution.
+Dialogue: 0,0:08:40.94,0:08:44.92,Dubtitles,,0,0,0,,I'll bring an end to the Kozuki\Nbloodline in front of everyone Then the
+Dialogue: 0,0:08:45.00,0:08:49.54,Dubtitles,,0,0,0,,samurai loyalty will crumble right\Nbefore my eyes Then this will all be over
 Dialogue: 0,0:08:53.88,0:08:54.71,Dubtitles,,0,0,0,,Luffy
 Dialogue: 0,0:08:55.68,0:08:56.51,Dubtitles,,0,0,0,,Everyone...!
 Dialogue: 0,0:08:58.54,0:08:59.37,Dubtitles,,0,0,0,,Father
-Dialogue: 0,0:09:05.74,0:09:11.48,Dubtitles,,0,0,0,,Stupid Cat! Are you Cara here? Of\Ncourse we just climbed up the waterfall?
+Dialogue: 0,0:09:05.74,0:09:11.48,Dubtitles,,0,0,0,,Stupid cat, are you cara here? Of\Ncourse we just climbed up the waterfall.
 Dialogue: 1,0:09:14.99,0:09:16.91,Captions-207+,,0,0,0,,{\pos(1500,710)\fnFOT-Greco Std DB Strp\bord7\blur0.8\c&H18536D&\3c&H18536D&\fscx110\fscy110\1a&HFF&\fad(190,0)\t(148,190,\1a&H00&)}Guardians\N{\fscx75\fscy75}Nekomamushi's Subordinates
 Dialogue: 2,0:09:14.99,0:09:16.91,Captions-207+,,0,0,0,,{\pos(1500,710)\fnFOT-Greco Std DB Strp\bord0\blur0.8\c&H292DF0&\fscx110\fscy110\fad(190,0)}Guardians\N{\fscx75\fscy75\c&H0CE3E7&}Nekomamushi's Subordinates
 Dialogue: 2,0:09:14.99,0:09:16.91,Captions-207+,,0,0,0,,{\pos(1500,710)\fnFOT-Greco Std DB Strp\bord0\blur0.8\c&H292DF0&\fscx110\fscy110\1a&HFF&\fad(190,0)\t(148,190,\1a&H00&)}Guardians\N{\fscx75\fscy75\c&H0CE3E7&}Nekomamushi's Subordinates
-Dialogue: 0,0:09:16.44,0:09:19.52,Dubtitles,,0,0,0,,do you cara even know what day it is?
-Dialogue: 0,0:09:19.60,0:09:22.42,Dubtitles,,0,0,0,,why it's the night of the fire festival?
-Dialogue: 0,0:09:22.50,0:09:28.34,Dubtitles,,0,0,0,,obviously so we made it just in time; i'm\Nafraid the verdict is still out on that.
+Dialogue: 0,0:09:16.44,0:09:22.42,Dubtitles,,0,0,0,,do you cara even know what day it is\Nwhy it's the night of the fire festival
+Dialogue: 0,0:09:22.50,0:09:28.34,Dubtitles,,0,0,0,,obviously so we made it just in time i'm\Nafraid the verdict is still out on that
 Dialogue: 0,0:09:29.12,0:09:30.24,Dubtitles,,0,0,0,,We're almost there.
 Dialogue: 0,0:09:30.46,0:09:33.44,Dubtitles,,0,0,0,,We're on our way to the\Nnorthwest end of Onigashima.
 Dialogue: 0,0:09:33.52,0:09:34.35,Dubtitles,,0,0,0,,Sounds great.
-Dialogue: 0,0:09:34.43,0:09:35.87,Dubtitles,,0,0,0,,I'll see you there then.
+Dialogue: 0,0:09:34.43,0:09:35.87,Dubtitles,,0,0,0,,I'll see you gotta there.
 Dialogue: 0,0:09:36.04,0:09:37.16,Dubtitles,,0,0,0,,No, cat!
 Dialogue: 0,0:09:37.36,0:09:39.50,Dubtitles,,0,0,0,,We can't wait! Listen up!
-Dialogue: 0,0:09:39.80,0:09:43.30,Dubtitles,,0,0,0,,Kaido, I see our old friend\Nis as flippant as ever.
+Dialogue: 0,0:09:39.80,0:09:43.30,Dubtitles,,0,0,0,,Kalik, I see our old friend\Nis as flippant as ever.
 Dialogue: 0,0:09:43.74,0:09:46.52,Dubtitles,,0,0,0,,Shall we place bets on if\Nhe makes it there in time?
 Dialogue: 0,0:09:46.60,0:09:47.98,Dubtitles,,0,0,0,,Ka-ba-ba-ba!
 Dialogue: 0,0:09:48.38,0:09:51.36,Dubtitles,,0,0,0,,I haven't seen Kitty since\Nwe were separated years ago.
-Dialogue: 0,0:09:51.44,0:09:53.96,Dubtitles,,0,0,0,,I imagine he got big like Dock did.
+Dialogue: 0,0:09:51.44,0:09:53.96,Dubtitles,,0,0,0,,I imagine he got big like Daki did.
 Dialogue: 0,0:09:54.14,0:09:55.20,Dubtitles,,0,0,0,,I can't wait.
 Dialogue: 0,0:09:55.46,0:09:57.04,Dubtitles,,0,0,0,,This is a damn mess.
 Dialogue: 0,0:09:57.36,0:09:58.90,Dubtitles,,0,0,0,,Did he leave late or what?
@@ -88473,13 +88473,11 @@ Dialogue: 0,0:11:47.54,0:11:49.31,Dubtitles,,0,0,0,,You gotta just follow my lea
 Dialogue: 0,0:11:53.38,0:11:57.24,Dubtitles,,0,0,0,,As planned, Denjiro leads his\Nsamurai, the Southern Forces,
 Dialogue: 1,0:11:54.28,0:11:59.41,Captions-207+,,0,0,0,,{\an5\fnDFGKanTeiRyu-XB-CP\bord3.5\c&HF4F3F4&\blur0.8\fscx75\fscy75\fad(434,0)\pos(1480,625)\3c&HF4F3F4&\1a&HFF&\t(392,434,\1a&H00&)}Southern Forces\N\NDenjiro's Group
 Dialogue: 2,0:11:54.28,0:11:59.41,Captions-207+,,0,0,0,,{\an5\fnDFGKanTeiRyu-XB-CP\bord0\c&H2A2A2A&\blur0.8\fscx75\fscy75\fad(434,0)\pos(1480,625)}Southern Forces\N\NDenjiro's Group
-Dialogue: 0,0:11:57.60,0:11:59.42,Dubtitles,,0,0,0,,towards the rear of the castle.
+Dialogue: 0,0:11:57.60,0:11:59.37,Dubtitles,,0,0,0,,towards the rear of the castle
 Dialogue: 0,0:12:00.36,0:12:02.30,Dubtitles,,0,0,0,,This was not in the blueprints.
-Dialogue: 0,0:12:03.78,0:12:04.68,Dubtitles,,0,0,0,,Take cover!
-Dialogue: 0,0:12:08.02,0:12:10.24,Dubtitles,,0,0,0,,Toby Rope, this means trouble!
-Dialogue: 0,0:12:10.32,0:12:13.20,Dubtitles,,0,0,0,,Don't you dare come back\Nhere until you find him.
-Dialogue: 0,0:12:14.10,0:12:16.08,Dubtitles,,0,0,0,,Perfect, now this I can work with.
-Dialogue: 0,0:12:16.16,0:12:17.70,Dubtitles,,0,0,0,,I know this idiot!
+Dialogue: 0,0:12:03.78,0:12:04.68,Dubtitles,,0,0,0,,Take cover
+Dialogue: 0,0:12:08.02,0:12:13.20,Dubtitles,,0,0,0,,Toby Ropo, this means trouble. Don't you\Ndare come back here until you find him.
+Dialogue: 0,0:12:14.10,0:12:17.70,Dubtitles,,0,0,0,,Perfect, now this I can\Nwork with I know this idiot
 Dialogue: 0,0:12:19.14,0:12:21.66,Dubtitles,,0,0,0,,Let me handle this who's there.
 Dialogue: 0,0:12:21.86,0:12:26.32,Dubtitles,,0,0,0,,Do not be alarmed Yoshiro\Nbeen a while hasn't it?
 Dialogue: 0,0:12:26.66,0:12:27.98,Dubtitles,,0,0,0,,Hey Sasaki.
@@ -88498,8 +88496,8 @@ Dialogue: 0,0:12:47.62,0:12:49.70,Dubtitles,,0,0,0,,I'd love to. Listen up!
 Dialogue: 0,0:12:49.86,0:12:51.62,Dubtitles,,0,0,0,,I'll catch up with you guys later!
 Dialogue: 0,0:12:51.70,0:12:53.70,Dubtitles,,0,0,0,,Head to the Skull Dome without me!
 Dialogue: 0,0:12:54.78,0:12:59.25,Dubtitles,,0,0,0,,Despite an unexpected obstacle and an\Nencounter with Sasaki of the Tobiropo,
-Dialogue: 0,0:12:59.92,0:13:02.20,Dubtitles,,0,0,0,,Kyoshiro quickly turns\Nthe situation around.
-Dialogue: 0,0:13:02.28,0:13:05.68,Dubtitles,,0,0,0,,thanks to the trust he built among\Nthe beast pirates over many years.
+Dialogue: 0,0:12:59.92,0:13:02.86,Dubtitles,,0,0,0,,Kyoshiro quickly turns the\Nsituation around thanks to the
+Dialogue: 0,0:13:02.94,0:13:05.68,Dubtitles,,0,0,0,,trust he built among the\Nbeast pirates over many years.
 Dialogue: 0,0:13:05.76,0:13:08.00,Dubtitles,,0,0,0,,He quietly leads his foe into a trap.
 Dialogue: 0,0:13:09.48,0:13:10.52,Dubtitles,,0,0,0,,See, prismstone?
 Dialogue: 0,0:13:10.74,0:13:11.88,Dubtitles,,0,0,0,,What the hell are you doing?
@@ -88509,7 +88507,7 @@ Dialogue: 0,0:13:16.10,0:13:18.80,Dubtitles,,0,0,0,,This some kind of joke? Rele
 Dialogue: 0,0:13:19.24,0:13:21.74,Dubtitles,,0,0,0,,Bind his mouth, too. Yes, sir!
 Dialogue: 0,0:13:22.20,0:13:23.88,Dubtitles,,0,0,0,,Kyoshiro, answer me!
 Dialogue: 0,0:13:24.14,0:13:25.68,Dubtitles,,0,0,0,,Calm down, Sasaki.
-Dialogue: 0,0:13:26.10,0:13:29.92,Dubtitles,,0,0,0,,Tell me, what do you know\Nabout the history of Wano?
+Dialogue: 0,0:13:26.10,0:13:29.92,Dubtitles,,0,0,0,,Tell me, what do you know about\Nthe land of Wano's history?
 Dialogue: 0,0:13:31.00,0:13:32.56,Dubtitles,,0,0,0,,Huh? That tattoo!
 Dialogue: 0,0:13:37.92,0:13:41.16,Dubtitles,,0,0,0,,After effortlessly besting\None of the fearsome Tobiroko,
 Dialogue: 0,0:13:41.24,0:13:45.38,Dubtitles,,0,0,0,,Denjiro splits his group into two\Njust as the eastern forces did.
@@ -88767,10 +88765,10 @@ Dialogue: 0,0:15:09.44,0:15:11.72,Dubtitles,,0,0,0,,Nami, I love you! We've got 
 Dialogue: 0,0:15:14.54,0:15:15.88,Dubtitles,,0,0,0,,Finally found you!
 Dialogue: 0,0:15:16.86,0:15:17.78,Dubtitles,,0,0,0,,Hey, Mama!
 Dialogue: 0,0:15:17.98,0:15:20.75,Dubtitles,,0,0,0,,The lady who kidnapped\NZeus is right over here!
-Dialogue: 0,0:15:22.54,0:15:24.52,Dubtitles,,0,0,0,,That's the leg! Papa!
-Dialogue: 0,0:15:24.82,0:15:26.74,Dubtitles,,0,0,0,,That's the leg! Papa!
-Dialogue: 0,0:15:27.26,0:15:29.92,Dubtitles,,0,0,0,,Can't you do that down a\Ndifferent hallway, you idiot?
-Dialogue: 0,0:15:30.00,0:15:31.35,Dubtitles,,0,0,0,,What was that, Papa?
+Dialogue: 0,0:15:22.54,0:15:24.52,Dubtitles,,0,0,0,,That's the leg! Pei-pei!
+Dialogue: 0,0:15:24.82,0:15:26.74,Dubtitles,,0,0,0,,That's the leg! Pei-pei!
+Dialogue: 0,0:15:27.26,0:15:29.92,Dubtitles,,0,0,0,,Can't you go down a\Ndifferent hallway, you idiot?
+Dialogue: 0,0:15:30.00,0:15:31.35,Dubtitles,,0,0,0,,What was that, Pei-pei?
 Dialogue: 0,0:15:31.50,0:15:35.48,Dubtitles,,0,0,0,,How about you say that to my\Ncute little face? Just shut up!
 Dialogue: 0,0:15:37.06,0:15:38.78,Dubtitles,,0,0,0,,I'm ever so tired!
 Dialogue: 0,0:15:39.08,0:15:40.24,Dubtitles,,0,0,0,,How heartless!
@@ -88779,7 +88777,7 @@ Dialogue: 0,0:15:43.76,0:15:45.70,Dubtitles,,0,0,0,,Poor little oldie!
 Dialogue: 0,0:15:46.40,0:15:47.64,Dubtitles,,0,0,0,,Don't be like that.
 Dialogue: 0,0:15:47.88,0:15:49.90,Dubtitles,,0,0,0,,If you're so tired, just sit there.
 Dialogue: 0,0:15:49.98,0:15:52.27,Dubtitles,,0,0,0,,That's not what you're supposed to say!
-Dialogue: 0,0:15:53.64,0:15:54.52,Dubtitles,,0,0,0,,Oh, no!
+Dialogue: 0,0:15:53.64,0:15:54.52,Dubtitles,,0,0,0,,Oh crap!
 Dialogue: 0,0:15:55.52,0:15:58.86,Dubtitles,,0,0,0,,This is the part where you offer\Nto give me a piggyback ride!
 Dialogue: 1,0:15:58.94,0:16:01.94,Captions-207+,,0,0,0,,{\pos(1465,600)\fnDFGKanTeiRyu-XB-CP\bord4\blur0.8\c&HEBEAEB&\3c&HEBEAEB&\1a&HFF&\fad(143,0)\t(101,143,\1a&H00&)\fscx75\fscy75}Ulti and Page One\N{\bord2.5\fscx75\fscy75\fnFOT-Greco Std DB Strp\c&HBCBEC3&\3c&HBCBEC3&}Soaring Six\NBeast Pirates
 Dialogue: 2,0:15:58.94,0:16:01.94,Captions-207+,,0,0,0,,{\pos(1465,600)\fnDFGKanTeiRyu-XB-CP\bord0\blur0.8\c&H060608&\fad(143,0)\fscx75\fscy75}Ulti and Page One\N{\fscx75\fscy75\fnFOT-Greco Std DB Strp}Soaring Six\NBeast Pirates
@@ -88788,20 +88786,20 @@ Dialogue: 0,0:15:58.94,0:16:02.58,Dubtitles,,0,0,0,,Hey, you're choking! Wait! S
 Dialogue: 0,0:16:02.96,0:16:04.24,Dubtitles,,0,0,0,,Ease your grip, sis!
 Dialogue: 0,0:16:04.48,0:16:06.10,Dubtitles,,0,0,0,,Say you're sorry!
 Dialogue: 0,0:16:06.52,0:16:09.22,Dubtitles,,0,0,0,,Come on, stop messing around!
-Dialogue: 0,0:16:12.08,0:16:13.12,Dubtitles,,0,0,0,,Papa!
-Dialogue: 0,0:16:13.20,0:16:14.78,Dubtitles,,0,0,0,,Papa!
-Dialogue: 0,0:16:14.88,0:16:16.04,Dubtitles,,0,0,0,,Papa!
+Dialogue: 0,0:16:12.08,0:16:13.12,Dubtitles,,0,0,0,,Pei-Pei!
+Dialogue: 0,0:16:13.20,0:16:14.78,Dubtitles,,0,0,0,,Pei-Pei!
+Dialogue: 0,0:16:14.88,0:16:16.04,Dubtitles,,0,0,0,,Pei-Pei!
 Dialogue: 0,0:16:16.14,0:16:18.52,Dubtitles,,0,0,0,,You gotta stay with me, dammit!
-Dialogue: 0,0:16:19.28,0:16:22.20,Dubtitles,,0,0,0,,Oh, my poor sweet little Papa!
+Dialogue: 0,0:16:19.28,0:16:22.20,Dubtitles,,0,0,0,,Oh, my poor sweet little Pei-Pei!
 Dialogue: 0,0:16:22.34,0:16:23.24,Dubtitles,,0,0,0,,Oh, no!
-Dialogue: 0,0:16:30.44,0:16:33.18,Dubtitles,,0,0,0,,Oh, here lies Papa.
+Dialogue: 0,0:16:30.44,0:16:33.18,Dubtitles,,0,0,0,,Oh, here lies Pei-Pei.
 Dialogue: 0,0:16:33.38,0:16:37.14,Dubtitles,,0,0,0,,He sacrificed his life for his\Nfavorite person in the world.
 Dialogue: 0,0:16:39.66,0:16:40.49,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:16:40.57,0:16:42.26,Dubtitles,,0,0,0,,Can't you see I'm grieving here?
 Dialogue: 0,0:16:42.88,0:16:44.12,Dubtitles,,0,0,0,,Who the heck are you?
-Dialogue: 0,0:16:56.62,0:16:58.88,Dubtitles,,0,0,0,,That has to be only Onigashima.
+Dialogue: 0,0:16:56.62,0:16:58.88,Dubtitles,,0,0,0,,That has to be Onigashima.
 Dialogue: 0,0:17:01.24,0:17:02.40,Dubtitles,,0,0,0,,Curse you, King.
-Dialogue: 0,0:17:03.78,0:17:04.74,Dubtitles,,0,0,0,,Mock, too.
+Dialogue: 0,0:17:03.78,0:17:04.74,Dubtitles,,0,0,0,,Marco, too.
 Dialogue: 0,0:17:06.24,0:17:07.84,Dubtitles,,0,0,0,,And that damn Straw Hat.
 Dialogue: 0,0:17:08.76,0:17:10.36,Dubtitles,,0,0,0,,Mama's Alliance be damned.
 Dialogue: 0,0:17:10.76,0:17:13.58,Dubtitles,,0,0,0,,I'm going to wreak havoc\Nas soon as I get there.
@@ -88948,7 +88946,7 @@ Dialogue: 0,0:19:28.14,0:19:28.98,Dubtitles,,0,0,0,,Hold on.
 Dialogue: 0,0:19:29.32,0:19:31.78,Dubtitles,,0,0,0,,Wasn't Sanji supposed to be here with us?
 Dialogue: 0,0:19:33.50,0:19:35.36,Dubtitles,,0,0,0,,Yeah, I think.
 Dialogue: 0,0:19:36.14,0:19:37.76,Dubtitles,,0,0,0,,Sorry for making you worry.
-Dialogue: 0,0:19:38.14,0:19:40.98,Dubtitles,,0,0,0,,I'll find those lovely\Nladies no matter what.
+Dialogue: 0,0:19:38.14,0:19:40.98,Dubtitles,,0,0,0,,I'll find those lovely\Nladies, no matter what.
 Dialogue: 0,0:19:43.20,0:19:44.92,Dubtitles,,0,0,0,,Dependable as ever, I guess.
 Dialogue: 0,0:19:45.80,0:19:47.24,Dubtitles,,0,0,0,,We'll just have to run.
 Dialogue: 0,0:19:47.42,0:19:50.36,Dubtitles,,0,0,0,,We still have a mission\Nto rescue Lord Momonosuke.
@@ -88962,18 +88960,17 @@ Dialogue: 0,0:20:08.48,0:20:10.82,Dubtitles,,0,0,0,,They'll be right where we wa
 Dialogue: 0,0:20:19.84,0:20:23.22,Dubtitles,,0,0,0,,I'm seeing people with weird\Nabilities everywhere I go.
 Dialogue: 0,0:20:24.78,0:20:26.88,Dubtitles,,0,0,0,,Just call us gifters.
 Dialogue: 0,0:20:29.94,0:20:33.10,Dubtitles,,0,0,0,,We all at one time\Nshared that same desire.
-Dialogue: 0,0:20:33.62,0:20:38.88,Dubtitles,,0,0,0,,Every one of us thinks that things will\Nbe so much easier for you if you defect.
-Dialogue: 0,0:20:38.96,0:20:41.76,Dubtitles,,0,0,0,,There are nearly 500 of us.
-Dialogue: 0,0:20:42.34,0:20:45.48,Dubtitles,,0,0,0,,It ain't so bad—have\Na fresh start with us.
-Dialogue: 0,0:20:45.56,0:20:46.39,Dubtitles,,0,0,0,,Kid,
-Dialogue: 0,0:20:48.10,0:20:50.38,Dubtitles,,0,0,0,,you sure you still want\Nto take them head on?
-Dialogue: 0,0:20:50.46,0:20:56.02,Dubtitles,,0,0,0,,Sneaking in would be easier; we've already\Nlost a bunch of crewmates to the chaos.
-Dialogue: 0,0:20:56.10,0:20:59.20,Dubtitles,,0,0,0,,I'm sure they can make it through\Non their own, but we gotta.
+Dialogue: 0,0:20:33.62,0:20:37.40,Dubtitles,,0,0,0,,Every one of us. Things\Nwill be so much easier.
+Dialogue: 0,0:20:37.48,0:20:41.76,Dubtitles,,0,0,0,,for you if you defect\Nthere's nearly 500 of us
+Dialogue: 0,0:20:42.34,0:20:46.04,Dubtitles,,0,0,0,,it ain't so bad have a fresh start with us
+Dialogue: 0,0:20:48.10,0:20:51.56,Dubtitles,,0,0,0,,kid you sure you still want\Nto take them head on sneaking
+Dialogue: 0,0:20:51.64,0:20:55.92,Dubtitles,,0,0,0,,in would be easier we've already\Nlost a bunch of crewmates to
+Dialogue: 0,0:20:56.00,0:20:58.96,Dubtitles,,0,0,0,,the chaos i'm sure they can\Nmake it through on their own but
 Dialogue: 1,0:20:57.03,0:20:59.70,Captions-207+,,0,0,0,,{\an5\fnDFGKanTeiRyu-XB-CP\bord4\c&HEFEFEF&\blur0.8\fad(435,442)\3c&HEFEFEF&\1a&HFF&\t(393,435,\1a&H00&)\pos(486.5,725)\fscx90\fscy90}Wire\N{\bord3\fnFOT-Greco Std DB Strp}Kid Pirates
 Dialogue: 2,0:20:57.03,0:20:59.70,Captions-207+,,0,0,0,,{\an5\fnDFGKanTeiRyu-XB-CP\bord0\c&H070807&\blur0.8\\fad(435,442)\pos(486.5,725)\fscx90\fscy90}Wire\N{\fnFOT-Greco Std DB Strp}Kid Pirates
 Dialogue: 1,0:20:57.03,0:20:59.70,Captions-207+,,0,0,0,,{\an5\fnDFGKanTeiRyu-XB-CP\bord4\c&HEFEFEF&\blur0.8\fad(435,442)\3c&HEFEFEF&\1a&HFF&\t(393,435,\1a&H00&)\pos(1245,725)\fscx90\fscy90}Heat\N{\bord3\fnFOT-Greco Std DB Strp}Kid Pirates
 Dialogue: 2,0:20:57.03,0:20:59.70,Captions-207+,,0,0,0,,{\an5\fnDFGKanTeiRyu-XB-CP\bord0\c&H070807&\blur0.8\\fad(435,442)\pos(1245,725)\fscx90\fscy90}Heat\N{\fnFOT-Greco Std DB Strp}Kid Pirates
-Dialogue: 0,0:20:59.28,0:21:01.54,Dubtitles,,0,0,0,,gotta We're gonna stick\Ntogether till we meet up again.
+Dialogue: 0,0:20:59.04,0:21:01.54,Dubtitles,,0,0,0,,We gotta stick together\Ntill we meet up again.
 Dialogue: 0,0:21:01.62,0:21:04.18,Dubtitles,,0,0,0,,If I kill you, I'll get promoted for sure.
 Dialogue: 0,0:21:04.56,0:21:06.22,Dubtitles,,0,0,0,,Nothing personal, of course.
 Dialogue: 0,0:21:10.74,0:21:11.80,Dubtitles,,0,0,0,,Please stop!
@@ -88982,7 +88979,7 @@ Dialogue: 0,0:21:13.88,0:21:15.41,Dubtitles,,0,0,0,,Leave me alone, all right?
 Dialogue: 0,0:21:15.56,0:21:17.24,Dubtitles,,0,0,0,,I've got places to be!
 Dialogue: 0,0:21:17.54,0:21:19.26,Dubtitles,,0,0,0,,Master, please wait!
 Dialogue: 0,0:21:19.96,0:21:23.40,Dubtitles,,0,0,0,,If you let your guard down,\Nyou might get yourself killed!
-Dialogue: 0,0:21:30.72,0:21:31.84,Dubtitles,,0,0,0,,Oh baby!
+Dialogue: 0,0:21:30.72,0:21:31.84,Dubtitles,,0,0,0,,Oh, baby!
 Dialogue: 0,0:21:31.92,0:21:34.86,Dubtitles,,0,0,0,,My poor sweet little baby brother!
 Dialogue: 0,0:21:35.26,0:21:36.68,Dubtitles,,0,0,0,,Did you get a boo-boo?
 Dialogue: 0,0:21:36.98,0:21:40.10,Dubtitles,,0,0,0,,I'm ever, ever so happy that you're okay!
@@ -88990,7 +88987,7 @@ Dialogue: 0,0:21:42.40,0:21:44.12,Dubtitles,,0,0,0,,What are you looking at?
 Dialogue: 0,0:21:45.04,0:21:46.50,Dubtitles,,0,0,0,,How dare you!
 Dialogue: 0,0:21:46.98,0:21:49.44,Dubtitles,,0,0,0,,Whom do you think you are\Nhurting him like that?
 Dialogue: 0,0:21:49.52,0:21:51.20,Dubtitles,,0,0,0,,You're out of line, pal.
-Dialogue: 0,0:21:51.48,0:21:54.12,Dubtitles,,0,0,0,,Only I'm allowed to bully Papa.
+Dialogue: 0,0:21:51.48,0:21:54.12,Dubtitles,,0,0,0,,Only I'm allowed to bully Pei-Pei.
 Dialogue: 0,0:21:55.92,0:21:56.75,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:21:58.50,0:22:01.10,Dubtitles,,0,0,0,,You were the one surfing\Non him down the stairs.
 Dialogue: 0,0:22:01.18,0:22:02.30,Dubtitles,,0,0,0,,I didn't touch him.
@@ -89013,7 +89010,7 @@ Dialogue: 0,0:22:52.58,0:22:53.74,Dubtitles,,0,0,0,,Headfoot!
 Dialogue: 0,0:22:55.74,0:22:56.90,Dubtitles,,0,0,0,,Ultimoder!
 Dialogue: 0,0:23:28.28,0:23:31.12,Dubtitles,,0,0,0,,Hey, sis, be careful of him, all right?
 Dialogue: 0,0:23:31.52,0:23:32.76,Dubtitles,,0,0,0,,Yeah, I got it.
-Dialogue: 0,0:23:39.20,0:23:41.96,Dubtitles,,0,0,0,,Wanna help, Papa? Sure.
+Dialogue: 0,0:23:39.20,0:23:41.96,Dubtitles,,0,0,0,,Wanna help, Pei-Pei? Sure.
 Dialogue: 0,0:24:11.20,0:24:13.98,Dubtitles,,0,0,0,,Excuse me, is all this really necessary?
 Dialogue: 0,0:24:14.78,0:24:18.25,Dubtitles,,0,0,0,,Harry, why would you resort to\Ntransforming when he's down?
 Dialogue: 1,0:24:19.06,0:24:22.90,Captions-207+,,0,0,0,,{\pos(405,625)\fnFOT-Greco Std DB Strp\bord2.5\blur0.8\c&HF3F3F3&\3c&HF3F3F3&\fscx110\fscy110\1a&HFF&\fad(356,0)\t(315,356,\1a&H00&)\org(433.45,402.7)\frz350}Ulti\NAncient Saur-Saur Fruit\NPachycephalosaurus
@@ -89225,14 +89222,13 @@ Dialogue: 0,0:24:40.80,0:24:41.66,Dubtitles,,0,0,0,,I don't know, ma 'am.
 Dialogue: 0,0:24:41.74,0:24:42.92,Dubtitles,,0,0,0,,He looks pretty dead to me.
 Dialogue: 0,0:24:43.00,0:24:44.82,Dubtitles,,0,0,0,,Hey, you cracked his head open!
 Dialogue: 0,0:24:50.22,0:24:53.50,Dubtitles,,0,0,0,,Then where the hell is all\Nthat Haki coming from, huh?
-Dialogue: 0,0:24:53.58,0:24:55.88,Dubtitles,,0,0,0,,Hot heart! Hey!
+Dialogue: 0,0:24:53.58,0:24:55.88,Dubtitles,,0,0,0,,Hot hurt! Hey!
 Dialogue: 0,0:25:03.38,0:25:05.50,Dubtitles,,0,0,0,,You guys are tougher than you look.
 Dialogue: 0,0:25:05.94,0:25:07.34,Dubtitles,,0,0,0,,Didn't see that coming.
 Dialogue: 0,0:25:09.12,0:25:11.18,Dubtitles,,0,0,0,,Guess I underestimated you.
-Dialogue: 0,0:25:12.20,0:25:14.00,Dubtitles,,0,0,0,,It won't happen again.
-Dialogue: 0,0:25:16.08,0:25:19.00,Dubtitles,,0,0,0,,This is an emperor's home turf after all.
-Dialogue: 0,0:25:21.90,0:25:24.52,Dubtitles,,0,0,0,,Listen up shitheads!
-Dialogue: 0,0:25:24.60,0:25:27.56,Dubtitles,,0,0,0,,Sorry to interrupt your\Nscheduled drinking.
+Dialogue: 0,0:25:12.20,0:25:14.00,Dubtitles,,0,0,0,,It won't happen again
+Dialogue: 0,0:25:16.08,0:25:19.00,Dubtitles,,0,0,0,,This is an emperor's home turf, after all.
+Dialogue: 0,0:25:21.90,0:25:27.08,Dubtitles,,0,0,0,,Listen up shitheads Sorry\Nto interrupt your scheduled
 Dialogue: 1,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\c&HFEFEFE&\iclip(m 0 0 b 0 0 1920 0 1920 0 1920 0 1920 1080 1920 1080 1920 1080 0 1080 0 1080 0 1080 0 0 0 0 m 1832 385 b 1833.3 383.7 1834.4 382.9 1835 381 1834.2 384 1835.2 367.9 1835 370 1835 370 1835 365 1835 365 1834.2 361.2 1835.4 360 1835 357 1835 357 1833.8 347.7 1833.8 347.7 1833.8 347.7 1834.8 334 1834.8 334 1834.8 334 1834 301 1834 301 1834 301 1834.9 289 1834.9 289 1834.9 289 1833.9 281.4 1833.9 281.4 1833.9 281.4 1835.1 246 1835.1 246 1835 241.5 1833.7 241.9 1834 237 1834 237 1834.6 224 1834.6 224 1834.6 224 1835.2 218.2 1835.2 218.2 1835.2 218.2 1834 202 1834 202 1834 202 1835.4 190 1835.4 190 1835.3 185.3 1834.2 184.6 1833.9 181.6 1833.4 176.3 1834.6 173.6 1835.1 169 1835.1 169 1834.3 146 1834.3 146 1834.3 140.9 1835 131 1833.1 126.3 1827.3 112.3 1815.7 120.3 1805.3 109.9 1802.8 107.3 1796.8 100.1 1795.3 97 1790.8 87.7 1792.2 80.2 1781.9 74.9 1777.8 73.1 1764.2 74.9 1759 74.9 1759 74.9 1737 74.9 1737 74.9 1732.8 75.1 1729.3 75.8 1725 75.5 1725 75.5 1719 74.7 1719 74.7 1719 74.7 1704 74.7 1704 74.7 1704 74.7 1694 73.8 1694 73.8 1690.4 73.8 1689.5 74.8 1687 74.9 1691.3 74.6 1668.8 74.5 1672 74.9 1664.8 74.2 1652.4 73.7 1646 77 1642.7 74.6 1637.1 74.1 1633 74.3 1633 74.3 1617 74.3 1617 74.3 1617 74.3 1606.3 75.8 1606.3 75.8 1606.3 75.8 1592 74.8 1592 74.8 1592 74.8 1588 75.4 1588 75.4 1588 75.4 1579 75.4 1579 75.4 1579 75.4 1557 74.3 1557 74.3 1557 74.3 1549 75.6 1549 75.6 1549 75.6 1535 74.5 1535 74.5 1535 74.5 1526 75.5 1526 75.5 1526 75.5 1516 74.5 1516 74.5 1516 74.5 1499.7 74.5 1499.7 74.5 1499.7 74.5 1489 74.5 1489 74.5 1485.2 74.8 1485.3 75.8 1480 75.6 1480 75.6 1468 74.2 1468 74.2 1465 74.1 1464.2 74.8 1461.6 75.1 1461.6 75.1 1453 75.1 1453 75.1 1453 75.1 1441 76 1441 76 1441 76 1426 74.6 1426 74.6 1426 74.6 1418 74.6 1418 74.6 1418 74.6 1409 74.6 1409 74.6 1409 74.6 1403 74.6 1403 74.6 1403 74.6 1388.4 74.6 1388.4 74.6 1387.1 75 1385.8 76.4 1384.6 77.2 1373.1 85.6 1381.4 91.1 1370.7 102.7 1367.8 105.8 1359.7 112.6 1356 114.4 1356 114.4 1343.8 117.6 1343.8 117.6 1340.8 118.8 1337.8 121.2 1334.7 123 1335.8 130.7 1334.8 128.2 1334.7 133 1334.7 133 1334.7 137 1334.7 137 1334.7 137 1334.7 146 1334.7 146 1334.7 146 1334.7 153 1334.7 153 1334.7 153 1334.7 160 1334.7 160 1334.7 160 1334.7 167 1334.7 167 1334.7 167 1334.7 173 1334.7 173 1334.7 173 1334 184 1334 184 1334 184 1334.8 190.3 1334.8 190.3 1334.8 190.3 1334.8 205 1334.8 205 1334.8 205 1334.8 215 1334.8 215 1334.8 215 1334.8 232 1334.8 232 1334.8 232 1334.8 239 1334.8 239 1334.8 239 1334.8 248 1334.8 248 1334.8 248 1334.8 255.9 1334.8 255.9 1334.8 255.9 1333.5 267 1333.5 267 1333.5 271.7 1334.8 272.9 1334.5 275.4 1334.5 275.4 1334.5 280 1334.5 280 1334.5 280 1334.5 288 1334.5 288 1334.5 288 1333.4 300.4 1333.4 300.4 1333.4 300.4 1333.9 307 1333.9 307 1333.9 307 1333.9 314 1333.9 314 1333.9 314 1334.5 328 1334.5 328 1334.5 328 1333.6 334 1333.6 334 1333.6 334 1334.5 340 1334.5 340 1334.5 340 1334.5 358 1334.5 358 1334.5 358 1334.5 381 1334.5 381 1334.5 381 1334.5 393 1334.5 393 1334.5 393 1333.7 398 1333.7 398 1333.7 398 1334.3 407 1334.3 407 1334.1 411.9 1333.3 421.2 1336 425 1332.5 429.7 1334.2 430.8 1333.9 436 1333.8 439.6 1331.9 442.4 1333.3 446 1337.4 456.8 1347.5 454.9 1351 456.3 1357.5 458.8 1363.4 464.1 1367.9 469.3 1375.3 478 1372.2 488 1381 493 1390 498.1 1395.4 496.1 1405 495.9 1405 495.9 1413 495.9 1413 495.9 1413 495.9 1418 495.9 1418 495.9 1418 495.9 1424 495.9 1424 495.9 1424 495.9 1446 496.4 1446 496.4 1446 496.4 1453 495.5 1453 495.5 1453 495.5 1459 496.5 1459 496.5 1459 496.5 1468 496.5 1468 496.5 1468 496.5 1481 496.5 1481 496.5 1483.6 496.2 1485.8 494.9 1490 494.9 1494.2 494.9 1495.5 496.3 1498.9 496.7 1502 497.1 1504.5 496.1 1507.4 495.8 1507.4 495.8 1515 495.8 1515 495.8 1515 495.8 1539 495.8 1539 495.8 1539 495.8 1547 496.7 1547 496.7 1547 496.7 1552.4 496 1552.4 496 1552.4 496 1571 496 1571 496 1571 496 1579 496 1579 496 1579 496 1592 497 1592 497 1592 497 1602 496 1602 496 1602 496 1617 496 1617 496 1622.2 495.9 1622.1 494.6 1626 495 1626 495 1641 496 1641 496 1641 496 1652 496.7 1652 496.7 1652 496.7 1661.7 496 1661.7 496 1661.7 496 1692 496 1692 496 1692 496 1703 496 1703 496 1703 496 1714 496.8 1714 496.8 1714 496.8 1721 495.8 1721 495.8 1721 495.8 1740 495.8 1740 495.8 1740 495.8 1751.2 496.9 1751.2 496.9 1757 497 1756.9 496 1761 495.8 1761 495.8 1777.6 495.8 1777.6 495.8 1780.8 495.8 1784.8 496.1 1787.6 494.1 1791 491.6 1792.5 484.9 1793.9 481 1793.9 481 1803.8 463.1 1803.8 463.1 1811.1 453.3 1824.7 455.3 1830.6 448.7 1833.4 445.5 1833 440.2 1833.9 436 1836.1 427.1 1833.8 426.1 1833.9 418 1833.9 418 1834.5 390 1834.5 390 1834 387.7 1833.2 386.9 1832 385)\p1}m 0 1080 l 0 0 1920 0 1920 1080 0 1080
 Dialogue: 2,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\c&HF6F6F6&\iclip(m 0 0 b 0 0 1920 0 1920 0 1920 0 1920 1080 1920 1080 1920 1080 0 1080 0 1080 0 1080 0 0 0 0 m 1832 385 b 1833.3 383.7 1834.4 382.9 1835 381 1834.2 384 1835.2 367.9 1835 370 1835 370 1835 365 1835 365 1834.2 361.2 1835.4 360 1835 357 1835 357 1833.8 347.7 1833.8 347.7 1833.8 347.7 1834.8 334 1834.8 334 1834.8 334 1834 301 1834 301 1834 301 1834.9 289 1834.9 289 1834.9 289 1833.9 281.4 1833.9 281.4 1833.9 281.4 1835.1 246 1835.1 246 1835 241.5 1833.7 241.9 1834 237 1834 237 1834.6 224 1834.6 224 1834.6 224 1835.2 218.2 1835.2 218.2 1835.2 218.2 1834 202 1834 202 1834 202 1835.4 190 1835.4 190 1835.3 185.3 1834.2 184.6 1833.9 181.6 1833.4 176.3 1834.6 173.6 1835.1 169 1835.1 169 1834.3 146 1834.3 146 1834.3 140.9 1835 131 1833.1 126.3 1827.3 112.3 1815.7 120.3 1805.3 109.9 1802.8 107.3 1796.8 100.1 1795.3 97 1790.8 87.7 1792.2 80.2 1781.9 74.9 1777.8 73.1 1764.2 74.9 1759 74.9 1759 74.9 1737 74.9 1737 74.9 1732.8 75.1 1729.3 75.8 1725 75.5 1725 75.5 1719 74.7 1719 74.7 1719 74.7 1704 74.7 1704 74.7 1704 74.7 1694 73.8 1694 73.8 1690.4 73.8 1689.5 74.8 1687 74.9 1691.3 74.6 1668.8 74.5 1672 74.9 1664.8 74.2 1652.4 73.7 1646 77 1642.7 74.6 1637.1 74.1 1633 74.3 1633 74.3 1617 74.3 1617 74.3 1617 74.3 1606.3 75.8 1606.3 75.8 1606.3 75.8 1592 74.8 1592 74.8 1592 74.8 1588 75.4 1588 75.4 1588 75.4 1579 75.4 1579 75.4 1579 75.4 1557 74.3 1557 74.3 1557 74.3 1549 75.6 1549 75.6 1549 75.6 1535 74.5 1535 74.5 1535 74.5 1526 75.5 1526 75.5 1526 75.5 1516 74.5 1516 74.5 1516 74.5 1499.7 74.5 1499.7 74.5 1499.7 74.5 1489 74.5 1489 74.5 1485.2 74.8 1485.3 75.8 1480 75.6 1480 75.6 1468 74.2 1468 74.2 1465 74.1 1464.2 74.8 1461.6 75.1 1461.6 75.1 1453 75.1 1453 75.1 1453 75.1 1441 76 1441 76 1441 76 1426 74.6 1426 74.6 1426 74.6 1418 74.6 1418 74.6 1418 74.6 1409 74.6 1409 74.6 1409 74.6 1403 74.6 1403 74.6 1403 74.6 1388.4 74.6 1388.4 74.6 1387.1 75 1385.8 76.4 1384.6 77.2 1373.1 85.6 1381.4 91.1 1370.7 102.7 1367.8 105.8 1359.7 112.6 1356 114.4 1356 114.4 1343.8 117.6 1343.8 117.6 1340.8 118.8 1337.8 121.2 1334.7 123 1335.8 130.7 1334.8 128.2 1334.7 133 1334.7 133 1334.7 137 1334.7 137 1334.7 137 1334.7 146 1334.7 146 1334.7 146 1334.7 153 1334.7 153 1334.7 153 1334.7 160 1334.7 160 1334.7 160 1334.7 167 1334.7 167 1334.7 167 1334.7 173 1334.7 173 1334.7 173 1334 184 1334 184 1334 184 1334.8 190.3 1334.8 190.3 1334.8 190.3 1334.8 205 1334.8 205 1334.8 205 1334.8 215 1334.8 215 1334.8 215 1334.8 232 1334.8 232 1334.8 232 1334.8 239 1334.8 239 1334.8 239 1334.8 248 1334.8 248 1334.8 248 1334.8 255.9 1334.8 255.9 1334.8 255.9 1333.5 267 1333.5 267 1333.5 271.7 1334.8 272.9 1334.5 275.4 1334.5 275.4 1334.5 280 1334.5 280 1334.5 280 1334.5 288 1334.5 288 1334.5 288 1333.4 300.4 1333.4 300.4 1333.4 300.4 1333.9 307 1333.9 307 1333.9 307 1333.9 314 1333.9 314 1333.9 314 1334.5 328 1334.5 328 1334.5 328 1333.6 334 1333.6 334 1333.6 334 1334.5 340 1334.5 340 1334.5 340 1334.5 358 1334.5 358 1334.5 358 1334.5 381 1334.5 381 1334.5 381 1334.5 393 1334.5 393 1334.5 393 1333.7 398 1333.7 398 1333.7 398 1334.3 407 1334.3 407 1334.1 411.9 1333.3 421.2 1336 425 1332.5 429.7 1334.2 430.8 1333.9 436 1333.8 439.6 1331.9 442.4 1333.3 446 1337.4 456.8 1347.5 454.9 1351 456.3 1357.5 458.8 1363.4 464.1 1367.9 469.3 1375.3 478 1372.2 488 1381 493 1390 498.1 1395.4 496.1 1405 495.9 1405 495.9 1413 495.9 1413 495.9 1413 495.9 1418 495.9 1418 495.9 1418 495.9 1424 495.9 1424 495.9 1424 495.9 1446 496.4 1446 496.4 1446 496.4 1453 495.5 1453 495.5 1453 495.5 1459 496.5 1459 496.5 1459 496.5 1468 496.5 1468 496.5 1468 496.5 1481 496.5 1481 496.5 1483.6 496.2 1485.8 494.9 1490 494.9 1494.2 494.9 1495.5 496.3 1498.9 496.7 1502 497.1 1504.5 496.1 1507.4 495.8 1507.4 495.8 1515 495.8 1515 495.8 1515 495.8 1539 495.8 1539 495.8 1539 495.8 1547 496.7 1547 496.7 1547 496.7 1552.4 496 1552.4 496 1552.4 496 1571 496 1571 496 1571 496 1579 496 1579 496 1579 496 1592 497 1592 497 1592 497 1602 496 1602 496 1602 496 1617 496 1617 496 1622.2 495.9 1622.1 494.6 1626 495 1626 495 1641 496 1641 496 1641 496 1652 496.7 1652 496.7 1652 496.7 1661.7 496 1661.7 496 1661.7 496 1692 496 1692 496 1692 496 1703 496 1703 496 1703 496 1714 496.8 1714 496.8 1714 496.8 1721 495.8 1721 495.8 1721 495.8 1740 495.8 1740 495.8 1740 495.8 1751.2 496.9 1751.2 496.9 1757 497 1756.9 496 1761 495.8 1761 495.8 1777.6 495.8 1777.6 495.8 1780.8 495.8 1784.8 496.1 1787.6 494.1 1791 491.6 1792.5 484.9 1793.9 481 1793.9 481 1803.8 463.1 1803.8 463.1 1811.1 453.3 1824.7 455.3 1830.6 448.7 1833.4 445.5 1833 440.2 1833.9 436 1836.1 427.1 1833.8 426.1 1833.9 418 1833.9 418 1834.5 390 1834.5 390 1834 387.7 1833.2 386.9 1832 385)\p1}m 1335 247 l 1335 245 b 1334.1 243.4 1334.4 241.7 1334.6 240.1 1335.7 231.8 1334.7 223.4 1335 215 1334 213.8 1333.4 212.2 1334.1 211 1335.6 208.4 1334.7 205.7 1335 203 1336.1 198.7 1334.6 194.2 1336 190 1335 188.5 1334 187 1333.2 185.7 1333.8 183.7 1334.4 181.8 1335 180 1332.7 177 1337.3 174.9 1336 172 1335.5 171.3 1334.8 170.7 1334.5 170 1333.6 167.8 1333.9 163.9 1335 162 1336.2 159.1 1335.4 156.5 1333.9 154.4 1333.5 151.2 1336.6 148.9 1335 146 1333 144.8 1334.6 142.9 1333.9 141.6 1334.7 140.8 1335.3 140.2 1335.9 139.6 1335.7 139.2 1335.4 138.9 1335.1 138.5 1335.3 138.2 1335.6 137.9 1335.7 137.8 1335.5 136.7 1335.2 135.9 1335 135 1334.4 130.9 1335.6 127 1336 123 1338.2 121.4 1340.4 119.9 1343 118 l 1345.5 118 b 1346.1 117.4 1346.7 116.6 1347.4 115.7 1349.1 116.1 1350.6 116.5 1352.3 116.9 1354.2 115.8 1356.3 114.6 1359.4 112.9 1360.8 111.8 1362.9 109.7 1365.3 108.3 1367.7 107 1368.2 103.8 1371 103 1373.7 101.4 1373.4 97.7 1376 96 1376.5 94.5 1376.9 93.1 1377.6 91.2 1377 90 1376.3 88.5 1377.8 86.6 1378.7 85.3 1378.8 83.4 1379.6 80.7 1380.6 79.1 1383.5 78.4 1386 77 1386.6 74.5 1388.4 74.6 1390.5 74.5 1394.7 74.2 1398.7 76.5 1403 75 1404.5 74.8 1406.3 75.7 1407.5 74 1409.7 74.8 1412.4 75.2 1414.4 75.1 1414.8 75.1 1415.3 75.1 1415.7 75.3 1417.8 76.5 1419.9 76.1 1422.1 75.4 1424.6 74.7 1427.2 74.3 1429.9 76.1 1432.1 73.9 1434.3 75.1 1436.7 77.2 1438.3 76.9 1440.1 76.6 1442.3 76.3 1443.2 76.5 1444.6 77.1 1446 76.9 1447.8 76.7 1449.6 75.2 1451.2 75.4 1452.9 75.7 1454.5 75.9 1456.2 76 1458 76.1 1459.8 75.6 1461.6 76.7 1463 76 1464.6 75.2 1466.2 74.4 1468.7 74.9 1471.2 75.5 1473.7 76 1475 76.2 1476.4 75.5 1477.4 76.9 1478.2 76.1 1479.3 75.8 1480.4 76 1481.6 76.2 1482.8 76.6 1484.3 76.9 1486.5 76 1488.8 73.5 1491.7 76 1493.6 75.7 1495.5 75.3 1497.3 75 1498.9 74.7 1500.2 77.2 1502.2 75.5 1503.1 74.7 1505.1 74.8 1506.5 75.1 1511.1 75.9 1511.5 75.9 1515.3 74.1 1516.6 74.8 1517.8 75.5 1519.1 76.1 1519.6 75.7 1520.1 75.4 1520.9 74.8 1521.7 75.4 1522.6 76.1 1523.6 76.9 1525.3 77.1 1527.1 77 1529 76.1 1530.4 75.3 1532.7 74.6 1533.9 75.2 1535.7 76.1 1536.8 74.6 1538.2 75 1538.8 75.2 1539.8 74.7 1540.1 75.1 1542.1 77.1 1544.9 75.1 1547 76.5 1547.8 77.1 1548.7 77.4 1549.6 77.9 1550 77.4 1550.6 76.8 1551.1 76.2 1554.2 76.2 1557 74.4 1560.2 75 1562.3 75.4 1564.5 75.7 1566.7 76 1568.8 76.2 1570.9 75.7 1572.9 76.9 1573.6 77.3 1575.1 76.8 1576.1 76.4 1580 74.8 1580 74.5 1584 76.1 1585.9 76.9 1587.7 77.1 1589 76.9 1590.9 76 1592.3 75.4 1594 74.6 1594.9 75.5 1595.7 76.2 1596.4 76.9 1597.5 76.2 1598.6 75.6 1599.8 74.9 1601.2 75.6 1602.7 76.4 1603.7 76.9 1606.2 76.5 1608 76 1609.9 76.1 1612 76.1 1613.6 75.3 1615.3 74.2 1616.6 74.7 1618 75.2 1619.5 75.7 1620.7 75.3 1622.1 74.8 1623.6 74.2 1626.7 76.4 1630 76.1 1633.2 74.3 1635 74.8 1636.8 75.2 1638.7 75.7 1638.8 75.7 1639.2 75.3 1639.7 74.9 1640.4 75.2 1641.2 75.6 1642.2 76.1 1642.5 75.8 1642.9 75.5 1643.7 75 1644.1 75.7 1644.5 76.5 1645.1 77.5 1647.4 76.6 1649.2 75.9 1651.3 75 1651.5 75.2 1651.9 75.4 1652.5 75.9 1652.7 75.7 1653 75.5 1653.6 75 1655.2 75.4 1656.9 76.8 1659 75.1 1659.7 74.6 1661.6 75.5 1663.4 75.8 1663.8 75.7 1664.7 75.3 1665.5 75 1666.4 74.8 1667.4 74.7 1668.8 74.5 1669 74.8 1669.4 75.6 1669.8 76.3 1671.4 75.9 1672.5 75.7 1673.7 75.4 1675.7 77.4 1677.4 74.9 1679.8 74.4 1681.8 75.2 1684.3 76.2 1686.7 77.2 1688.5 76 1690.1 75 1691.7 74 1692.5 74.3 1693.4 74.9 1694.2 75 1697.5 75.2 1700.7 74.8 1703.8 75.9 1705.1 76.4 1706.7 75.8 1708.1 75.4 1709.5 75 1710.7 75 1712.2 75.6 1713.5 76.1 1715.4 76.1 1716.8 75.6 1718.4 75 1719.8 74.5 1721.2 75.8 1721.5 75.9 1721.8 76 1722.1 76 1726.2 76.2 1730.2 76.4 1734.8 76.7 1735.1 76.4 1735.9 75.6 1736.8 74.9 1738.9 75.3 1740.9 77 1743.1 75.1 1743.6 74.8 1745.1 76 1746.1 76 1751.5 76.1 1756.8 76.1 1762.1 76 1762.6 76 1763.1 75.5 1763.5 75.3 1764.1 75.6 1764.6 75.9 1765.4 76.3 1766.1 75.4 1766.7 74.6 1767.3 73.8 1770.5 75.4 1773.6 75.5 1777 74.2 1778.1 74.5 1779.6 74.9 1781.8 75.4 1782.6 76.5 1784.8 77.4 1785.1 79.2 1787 80.3 1788.6 81.2 1789.7 81.9 1790.3 85.2 1790.8 87.9 1791.3 90.8 1791.6 91.2 1792.2 91.8 1792.4 91.9 1793 93.9 1793.2 95.6 1794.1 96.8 1794.9 98.2 1794.2 100.2 1796.2 101.1 1797.5 101.6 1797.2 104.2 1799.4 104 1799.6 105.5 1801.5 105.8 1801.9 106.8 1802.9 110 1805.4 111.8 1807.4 114 l 1811 114 b 1814 117.3 1818.4 115.8 1822 117 1823.2 119.2 1825.3 119 1827.3 119 1828.2 119.7 1829.1 120.4 1830 121 1830.6 123.2 1830.9 125.6 1833.3 126.1 1834.3 129.4 1833.5 132.2 1834 135 l 1834 144 b 1834 149.7 1834.7 155.3 1835 161 1834.4 162.5 1833.8 164 1833.1 165.7 1833.6 166.2 1834.3 166.8 1835 167.4 1834.6 168.7 1834.3 169.9 1834 171 1833 175.7 1833.3 180.3 1834 185 1835.2 188.7 1835.6 192.3 1834 196 1833.6 196.3 1833 196.6 1833 196.8 1833.4 199.4 1832.1 202.2 1833.9 204.8 1834.3 205.5 1833.8 207 1833.4 208 1832.9 209.5 1832.4 210.8 1834 212 1834.4 214.3 1835.4 216.6 1835 219 1834.6 219.3 1834.1 219.5 1834 219.8 1833.7 221.8 1833.5 223.8 1833.2 226.4 1833.5 227.1 1834.2 228.4 1834.9 229.8 1834.3 229.9 1833.9 230 1833.3 230.2 1833.6 231.6 1834.9 233.2 1833.1 234.5 1833.4 235 1833.7 235.5 1834 236 1833.7 239.1 1834.6 242 1835 245 1833.1 245.5 1834.4 247.1 1834 248 1834.6 252.4 1834.6 256.7 1834 261 1833.3 262.3 1832.7 264.8 1833.3 265.8 1834.3 267.4 1834.1 268.6 1833.4 270.3 1832.8 271.6 1833 273.5 1833.5 274.9 1834.1 276.7 1834.2 278.3 1833.5 280 1832.9 281.7 1832 283.5 1834 285 1834.8 288.7 1834.8 292.4 1834 296 1833.3 300.4 1833.3 304.7 1834 309 l 1834 313 b 1833 318.7 1834.4 324.4 1834 330 1834 332.2 1834.1 334.4 1833.9 336.5 1833.9 337.7 1833.4 338.9 1833.1 340.1 1833.5 341.2 1833.8 342.4 1834.2 343.6 1833.3 343.9 1832.8 344.1 1831.8 344.4 1832.4 344.7 1832.7 344.9 1833 345 1834.1 348.6 1834 352.4 1835 356 1834.4 358.4 1833.8 360.7 1833.2 362.9 1833.5 364.3 1833.7 365.7 1834 367 1834.3 368.4 1834.6 369.7 1835 371 1834.5 373.7 1831.9 376.4 1835 379 1834.9 381.7 1832.9 383.5 1831.8 386.1 1832.4 386.8 1833.1 387.7 1834 388.7 1833.7 390.1 1834.8 392.1 1833 393.5 1834.4 394.4 1833.8 395.8 1834 397.1 1834.2 397.9 1832.2 398.3 1833.7 399.4 1833.9 399.6 1833.1 401 1833 401.8 1833 402.5 1833.2 403.4 1833.5 404 1834.5 405.6 1834.1 406.8 1833 407.5 1833.4 409.1 1834.3 411.1 1833.9 411.4 1832 412.9 1834.1 414.7 1833.1 416.3 1832.4 417.7 1833.1 419.9 1833.2 421.7 1833.2 421.8 1833.7 421.9 1834 422 1834.9 426.4 1834.7 430.7 1834 435 1832 435.5 1833.4 437 1833 438 1831.7 440.9 1833.4 444.1 1832 447 1831.1 447.8 1830.3 448.6 1829.4 449.5 1829.5 449.6 1829.6 449.7 1829.7 449.7 1828.4 450.3 1827.2 450.9 1826.1 451.4 1825.9 452 1825.8 452.5 1825.7 453.1 1821.8 452.4 1818.5 454 1815.1 455.3 1813 456.2 1810.5 456.4 1808.8 458 1808.2 458.5 1808 459.3 1807.5 460 l 1805.5 460 b 1804.5 461.2 1803.4 462.4 1802.6 463.3 1801.3 465.8 1800.1 468 1798.9 470.1 1799.3 470.7 1799.6 471.2 1799.8 471.7 1797.9 473.2 1796 474.6 1794.5 475.9 1793.7 478.4 1793 480.4 1792.4 482.5 1792.6 483.4 1792.9 484.4 1793.1 485.2 1790.4 489.2 1789 492 1788.9 493.8 1787.6 494.2 1786.3 494.6 1785 495 1782.2 497.1 1779 495.6 1776 496 1775.3 496.2 1774.5 496.3 1773.9 496.7 1773 497.2 1772.3 497.5 1772 496 1767.3 495.1 1762.7 495.3 1758 496 1756.4 496.6 1754.9 497.1 1753.3 497.7 1752.4 496.4 1750.8 497 1749.5 497.1 1746.4 497.3 1743.7 496.2 1741 495 1737.3 495.9 1733.7 496 1730 495 1727.9 495.1 1725.7 495.7 1723.3 497 1722.9 496.3 1722.5 495.5 1722.1 494.7 1718.7 495.8 1716.1 497.2 1713 497.1 1710.1 496.9 1707.4 495.4 1704.4 496 1701.6 493.4 1699.5 496.1 1698.1 496.7 1695 496.3 1692.8 496.1 1690.8 495.8 1689.9 496.7 1689.2 497.3 1688.5 498 1686 496.5 1683.9 496.2 1682.1 497.1 1679.7 495.3 1676.8 496.1 1674.1 496.1 1671.4 496.1 1668.5 495.2 1666 497 1661.4 495 1657 495.9 1652.4 497.7 1650 496.7 1647.2 495.7 1644.1 496 1641.1 496.4 1637.9 495.1 1635.3 496.9 1630.5 495.9 1625.9 495.1 1621.3 494.2 1621.1 494.7 1620.9 495.3 1620.6 495.9 1614 496.6 1607.2 495 1600.5 496.9 1600.1 496.7 1599.6 496.3 1599.2 496 1598 496.4 1597 496.7 1596 497 1593 495.3 1590 497.8 1587 497 1585.6 496.7 1584.3 496.2 1582.9 496.1 1581.6 495.9 1579.9 496.6 1579 495.9 1576.1 494 1574.1 496.3 1571.2 496.6 1570.7 496.5 1569.7 496.3 1568.7 496 1567.8 495.8 1566.9 495.5 1565.8 495.1 1562.5 496.1 1558.9 497.7 1555 496 1552.7 494.9 1550.5 495.8 1548.3 496.4 1546.6 496.8 1544.7 497 1543 496 1541.4 495.8 1539.6 496.8 1538.3 494.8 1535.4 497.5 1532.3 495.3 1529.2 495 1529.1 495.6 1529 496.1 1528.8 496.8 1526.4 495.7 1523.9 495.7 1520.9 496.7 1518.8 495.7 1512.4 495.6 1508.9 497.1 1508.5 496.4 1508 495.6 1507.4 494.8 1505.9 495.6 1504.6 496.2 1503.3 496.9 1499 497.6 1494.9 496.8 1491.3 494 1486.8 495.2 1483.2 497.2 1472.4 496.1 1471.8 496.6 1471.2 497.2 1470.7 497.8 1468.4 497 1466.2 495.7 1463.6 496.1 1461.2 496.4 1458.9 496.8 1456.5 497.1 1455.9 496.5 1455.3 495.9 1454.7 495.2 l 1449.3 495.2 1447.4 497 b 1445.6 496.7 1443.6 496.2 1441.6 496.1 1439.3 495.9 1436.9 495.9 1434.6 496.1 1432.6 496.2 1430.3 495.1 1428.5 497 1423.3 494.2 1425.3 494.4 1416.8 496.8 1414.8 496.2 1412.9 495.2 1411 495.2 1409.5 495.2 1407.9 496.3 1405.9 497 1404.5 496.7 1402.7 494.9 1400.6 496.8 1400.1 497.2 1398.8 496.7 1397.9 496.5 1396.8 496.3 1395.8 496.1 1394.8 495.9 1393.8 496.7 1392.9 497.5 1392.2 498.1 1389.7 497 1387.4 495.2 1385.2 495.3 1382.1 495.4 1381.7 490.8 1378.5 492.2 1377.6 491.2 1376.8 490.4 1376.1 489.6 1375.7 487.4 1375.3 485.2 1374.9 483 1372.3 481 1374 477.3 1371.9 475 1370.3 474.9 1371.2 473.6 1371.1 473.3 1369.7 471.3 1368.9 469.6 1367.6 468.3 1366 466.7 1364.7 464.9 1362.5 463.9 1360.8 463.1 1359.8 460.8 1358.5 459.1 l 1354.5 459.1 b 1352.3 456.6 1349.7 454.5 1345.9 455 1341.9 455.9 1339.4 453.6 1336.9 451 1336.3 450.6 1335.4 450.2 1335.1 449.6 1334 447.8 1333.1 445.8 1331.9 443.6 1332 443.2 1332.3 442.5 1332.7 441.8 1333.6 439.7 1334.6 437.6 1333.5 435.1 1332.8 433.5 1334.6 431.9 1333.6 429.9 1333 428.8 1334.3 426.7 1334.8 424.8 1333.4 423.3 1334.1 421.1 1333.9 419 1333.1 417.3 1335.5 416.7 1335.3 414.6 1334.3 413.3 1334.8 411 1333.9 409 1333.7 408.9 1333.4 408.8 1332.8 408.6 1333.6 408 1334.3 407.5 1334.9 407 1335.2 404.1 1334.1 401.3 1333.3 398.3 1335.1 395.9 1333.9 392.8 1334.9 390 l 1334.9 389 b 1333.8 386.4 1334.6 383.7 1334.9 381 1334.8 380.1 1334.8 379.2 1334.6 378.2 1334.4 377.3 1333.9 376.4 1334 375.6 1334.1 373.9 1334.9 372.2 1334.8 370.5 1334.8 368.9 1333.9 367.3 1333.8 365.5 1333.8 363.2 1334.5 361.2 1334.9 359 1334.5 353 1333.6 347 1334.9 341 1334.6 339.4 1334.3 337.7 1333.9 336 1333.3 335.3 1333.2 334.4 1333.6 333.7 1335.2 329.9 1335.7 326.2 1333.7 322.3 1333.2 321.4 1333.1 319.4 1333.9 318 1333.7 316.5 1334.7 314.8 1333 313.6 1333.3 313.1 1333.6 312.6 1333.9 312 1335.6 307.4 1332.8 302.7 1333.9 298 1334.1 294.2 1334.3 290.3 1335.5 286.8 1335.3 285 1334.6 283.5 1333.9 282 1333.3 279.3 1336.6 277 1334.9 274 1333.8 270.8 1333.7 267.4 1333.9 264 1335.3 258.4 1334.7 252.7 1334.9 247
 Dialogue: 3,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an7\pos(0,0)\bord0\c&HFDFDFD&\iclip(m 0 0 b 0 0 1920 0 1920 0 1920 0 1920 1080 1920 1080 1920 1080 0 1080 0 1080 0 1080 0 0 0 0 m 1832 385 b 1833.3 383.7 1834.4 382.9 1835 381 1834.2 384 1835.2 367.9 1835 370 1835 370 1835 365 1835 365 1834.2 361.2 1835.4 360 1835 357 1835 357 1833.8 347.7 1833.8 347.7 1833.8 347.7 1834.8 334 1834.8 334 1834.8 334 1834 301 1834 301 1834 301 1834.9 289 1834.9 289 1834.9 289 1833.9 281.4 1833.9 281.4 1833.9 281.4 1835.1 246 1835.1 246 1835 241.5 1833.7 241.9 1834 237 1834 237 1834.6 224 1834.6 224 1834.6 224 1835.2 218.2 1835.2 218.2 1835.2 218.2 1834 202 1834 202 1834 202 1835.4 190 1835.4 190 1835.3 185.3 1834.2 184.6 1833.9 181.6 1833.4 176.3 1834.6 173.6 1835.1 169 1835.1 169 1834.3 146 1834.3 146 1834.3 140.9 1835 131 1833.1 126.3 1827.3 112.3 1815.7 120.3 1805.3 109.9 1802.8 107.3 1796.8 100.1 1795.3 97 1790.8 87.7 1792.2 80.2 1781.9 74.9 1777.8 73.1 1764.2 74.9 1759 74.9 1759 74.9 1737 74.9 1737 74.9 1732.8 75.1 1729.3 75.8 1725 75.5 1725 75.5 1719 74.7 1719 74.7 1719 74.7 1704 74.7 1704 74.7 1704 74.7 1694 73.8 1694 73.8 1690.4 73.8 1689.5 74.8 1687 74.9 1691.3 74.6 1668.8 74.5 1672 74.9 1664.8 74.2 1652.4 73.7 1646 77 1642.7 74.6 1637.1 74.1 1633 74.3 1633 74.3 1617 74.3 1617 74.3 1617 74.3 1606.3 75.8 1606.3 75.8 1606.3 75.8 1592 74.8 1592 74.8 1592 74.8 1588 75.4 1588 75.4 1588 75.4 1579 75.4 1579 75.4 1579 75.4 1557 74.3 1557 74.3 1557 74.3 1549 75.6 1549 75.6 1549 75.6 1535 74.5 1535 74.5 1535 74.5 1526 75.5 1526 75.5 1526 75.5 1516 74.5 1516 74.5 1516 74.5 1499.7 74.5 1499.7 74.5 1499.7 74.5 1489 74.5 1489 74.5 1485.2 74.8 1485.3 75.8 1480 75.6 1480 75.6 1468 74.2 1468 74.2 1465 74.1 1464.2 74.8 1461.6 75.1 1461.6 75.1 1453 75.1 1453 75.1 1453 75.1 1441 76 1441 76 1441 76 1426 74.6 1426 74.6 1426 74.6 1418 74.6 1418 74.6 1418 74.6 1409 74.6 1409 74.6 1409 74.6 1403 74.6 1403 74.6 1403 74.6 1388.4 74.6 1388.4 74.6 1387.1 75 1385.8 76.4 1384.6 77.2 1373.1 85.6 1381.4 91.1 1370.7 102.7 1367.8 105.8 1359.7 112.6 1356 114.4 1356 114.4 1343.8 117.6 1343.8 117.6 1340.8 118.8 1337.8 121.2 1334.7 123 1335.8 130.7 1334.8 128.2 1334.7 133 1334.7 133 1334.7 137 1334.7 137 1334.7 137 1334.7 146 1334.7 146 1334.7 146 1334.7 153 1334.7 153 1334.7 153 1334.7 160 1334.7 160 1334.7 160 1334.7 167 1334.7 167 1334.7 167 1334.7 173 1334.7 173 1334.7 173 1334 184 1334 184 1334 184 1334.8 190.3 1334.8 190.3 1334.8 190.3 1334.8 205 1334.8 205 1334.8 205 1334.8 215 1334.8 215 1334.8 215 1334.8 232 1334.8 232 1334.8 232 1334.8 239 1334.8 239 1334.8 239 1334.8 248 1334.8 248 1334.8 248 1334.8 255.9 1334.8 255.9 1334.8 255.9 1333.5 267 1333.5 267 1333.5 271.7 1334.8 272.9 1334.5 275.4 1334.5 275.4 1334.5 280 1334.5 280 1334.5 280 1334.5 288 1334.5 288 1334.5 288 1333.4 300.4 1333.4 300.4 1333.4 300.4 1333.9 307 1333.9 307 1333.9 307 1333.9 314 1333.9 314 1333.9 314 1334.5 328 1334.5 328 1334.5 328 1333.6 334 1333.6 334 1333.6 334 1334.5 340 1334.5 340 1334.5 340 1334.5 358 1334.5 358 1334.5 358 1334.5 381 1334.5 381 1334.5 381 1334.5 393 1334.5 393 1334.5 393 1333.7 398 1333.7 398 1333.7 398 1334.3 407 1334.3 407 1334.1 411.9 1333.3 421.2 1336 425 1332.5 429.7 1334.2 430.8 1333.9 436 1333.8 439.6 1331.9 442.4 1333.3 446 1337.4 456.8 1347.5 454.9 1351 456.3 1357.5 458.8 1363.4 464.1 1367.9 469.3 1375.3 478 1372.2 488 1381 493 1390 498.1 1395.4 496.1 1405 495.9 1405 495.9 1413 495.9 1413 495.9 1413 495.9 1418 495.9 1418 495.9 1418 495.9 1424 495.9 1424 495.9 1424 495.9 1446 496.4 1446 496.4 1446 496.4 1453 495.5 1453 495.5 1453 495.5 1459 496.5 1459 496.5 1459 496.5 1468 496.5 1468 496.5 1468 496.5 1481 496.5 1481 496.5 1483.6 496.2 1485.8 494.9 1490 494.9 1494.2 494.9 1495.5 496.3 1498.9 496.7 1502 497.1 1504.5 496.1 1507.4 495.8 1507.4 495.8 1515 495.8 1515 495.8 1515 495.8 1539 495.8 1539 495.8 1539 495.8 1547 496.7 1547 496.7 1547 496.7 1552.4 496 1552.4 496 1552.4 496 1571 496 1571 496 1571 496 1579 496 1579 496 1579 496 1592 497 1592 497 1592 497 1602 496 1602 496 1602 496 1617 496 1617 496 1622.2 495.9 1622.1 494.6 1626 495 1626 495 1641 496 1641 496 1641 496 1652 496.7 1652 496.7 1652 496.7 1661.7 496 1661.7 496 1661.7 496 1692 496 1692 496 1692 496 1703 496 1703 496 1703 496 1714 496.8 1714 496.8 1714 496.8 1721 495.8 1721 495.8 1721 495.8 1740 495.8 1740 495.8 1740 495.8 1751.2 496.9 1751.2 496.9 1757 497 1756.9 496 1761 495.8 1761 495.8 1777.6 495.8 1777.6 495.8 1780.8 495.8 1784.8 496.1 1787.6 494.1 1791 491.6 1792.5 484.9 1793.9 481 1793.9 481 1803.8 463.1 1803.8 463.1 1811.1 453.3 1824.7 455.3 1830.6 448.7 1833.4 445.5 1833 440.2 1833.9 436 1836.1 427.1 1833.8 426.1 1833.9 418 1833.9 418 1834.5 390 1834.5 390 1834 387.7 1833.2 386.9 1832 385)\p1}m 1335 215 b 1335.1 215.9 1335.2 216.9 1335.4 217.8 1335.5 218.3 1335.8 218.7 1336 219.1 1336.8 221.3 1333.4 223.5 1336 225.8 1336 228.1 1336 230.4 1336 232.8 1336 234 1333.8 235.2 1335.9 236.4 1334.5 237.5 1335.1 239.1 1335 240.5 1334.9 242 1335 243.5 1335 245 1334.7 244.7 1334 244.4 1334 244.2 1334.5 240.4 1333 236.4 1334.7 232.6 1335 232 1333.1 231 1334.5 229.9 1336 228.9 1333.7 227.9 1334.3 227.2 1335.7 226 1333.3 225.6 1333.9 224.4 1334.2 223.7 1333.2 222.5 1332.9 221.4 1333.6 221.1 1334.2 220.9 1334.8 220.7 1334.5 219.1 1334.2 217.4 1334 215.8 1334 215.6 1334.6 215.3 1335 215
@@ -89356,24 +89352,20 @@ Dialogue: 120,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an7\pos(-355.06,32.6
 Dialogue: 121,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an7\pos(-355.06,32.65)\fscx118\fscy98\bord0\c&HD5D5D5&\blur1\clip(m 1762 463.5 b 1762 463.5 1722 463.5 1722 463.5 1722 463.5 1707 463.5 1707 463.5 1707 463.5 1692 463.5 1692 463.5 1692 463.5 1669 463.5 1669 463.5 1669 463.5 1653 463.5 1653 463.5 1653 463.5 1644 463.5 1644 463.5 1644 463.5 1619 463.5 1619 463.5 1619 463.5 1578.7 463.5 1578.7 463.5 1578.7 463.5 1559 463.5 1559 463.5 1559 463.5 1550 463.5 1550 463.5 1550 463.5 1530 463.5 1530 463.5 1530 463.5 1514 463.5 1514 463.5 1514 463.5 1474 463.5 1474 463.5 1474 463.5 1464 463.5 1464 463.5 1464 463.5 1456 463.5 1456 463.5 1456 463.5 1448 463.5 1448 463.5 1448 463.5 1439 463.5 1439 463.5 1439 463.5 1424.9 463.5 1424.9 463.5 1421.1 463.4 1413.6 464.6 1410.2 463.5 1407.3 461.7 1406.2 457.7 1404.9 455 1402.6 450.4 1399.1 445.9 1395.7 442 1391.9 437.6 1386.8 433.4 1382 430 1372.4 423.4 1371.1 427.6 1371.1 418 1371.1 418 1371.1 366 1371.1 366 1371.1 366 1371.1 245 1371.1 245 1371.1 245 1371.1 201 1371.1 201 1371.1 201 1371.1 158.2 1371.1 158.2 1370.7 147.7 1373.2 147.8 1381 143.1 1383.8 141.4 1388.4 138 1391 135.9 1396 131.7 1400.7 126.6 1404.2 121 1405.8 118.5 1409.3 111.4 1411.4 110 1413.2 108.9 1415.9 109 1418 109.2 1418 109.2 1438 109.2 1438 109.2 1438 109.2 1464.2 109.2 1464.2 109.2 1464.2 109.2 1579 109.2 1579 109.2 1579 109.2 1622.7 109.2 1622.7 109.2 1622.7 109.2 1656 109.2 1656 109.2 1656 109.2 1672 109.2 1672 109.2 1672 109.2 1682.6 109.2 1682.6 109.2 1682.6 109.2 1721 109.2 1721 109.2 1721 109.2 1734 109.2 1734 109.2 1734 109.2 1756 109.2 1756 109.2 1757.8 109.5 1759.1 109.7 1760.7 110.8 1763.6 112.9 1769.7 125.3 1773.5 130 1777.6 135.1 1783.2 140.1 1789 143.3 1789 143.3 1797.7 147.1 1797.7 147.1 1800.5 149.2 1800 152.9 1800 156 1800 156 1800 415 1800 415 1800 417.2 1800.2 420.6 1799 422.5 1799 422.5 1781 434.9 1781 434.9 1772.5 441.4 1764.5 452.5 1762 463.5)\p1}m 1532.8 448.3 l 1532.8 448.3 m 1549 448.1 l 1546.5 447.2 1549.15 446.57 1549 448.1 m 1587.7 448.2 l 1590.37 447.72 1587.7 448.2 m 1608.3 448.3 l 1608.3 448.3 m 1635.3 448.4 l 1640.36 447.75 1635.3 448.4 m 1740.8 447.3 l 1740.8 447.3 m 1769.4 447.2 l 1784.61 446.71 1769.4 447.2 m 1666.8 446.3 l 1666.8 446.3 m 1677.8 446.3 l 1677.8 446.3 m 1795.1 431.8 l 1797.58 426.32 1805.7 417 1795.1 431.8 m 1816 405.5 l 1818.8 403 1816 405.5 m 1467.9 403.2 l 1465.5 400.5 1469.91 404.42 1467.9 403.2 m 1829 395.7 l 1831.6 393.5 1829 395.7 m 1451.4 389.8 l 1449.5 387.5 1453.2 390.67 1451.4 389.8 m 1835.5 391 l 1839.25 389.2 1840.55 387.71 1839.47 384.54 1839.1 378.5 1835.5 391 m 1446 385.5 l 1445.2 383.1 1446.7 384.5 1446 385.5 m 1445.1 378.4 l 1445.22 377.49 1445.1 378.4 m 1839.1 369.5 l 1838.41 354.86 1835.52 348.16 1835.75 347.32 1837.68 347.53 1837.69 343.69 1839 341.9 1837.18 341.75 1836.65 340.13 1839.2 334.5 1840.18 359.28 1839.1 369.5 m 1445.1 371.4 l 1445.22 370.49 1445.1 371.4 m 1446.2 357 l 1446.31 355.16 1446.2 357 m 1446.1 350.4 l 1446.22 349.49 1446.1 350.4 m 1446.2 345.5 l 1446.26 344.26 1446.2 345.5 m 1644.6 337.5 l 1642.54 336.53 1640.56 336.94 1639.89 334.12 1637.9 333.81 1634.89 331.39 1632.77 331.71 1630.49 330.04 1627.2 332.02 1622.57 332.8 1622.37 329.39 1626 323.41 1627.64 326.54 1630.54 326.93 1632 326 1628.34 324.33 1627.78 322.54 1626.25 321.44 1626.27 319.51 1632.81 321.41 1632.45 323.4 1634.12 323.68 1635.1 325.6 1636.9 326.62 1640.01 326.69 1643.42 324.32 1644 324.63 1644.39 328.84 1645.3 330.6 1646.9 327 1649.89 327.91 1651.29 330.63 1652.25 330.93 1653.82 328.41 1651.13 324.69 1652.8 324 1654.58 324.72 1656.26 328.14 1653.11 333.72 1650.55 335.08 1644.6 337.5 m 1649.9 334.2 l 1649.94 332.48 1647.09 332.52 1649.9 334.2 m 1446.2 333.5 l 1446.26 332.26 1446.2 333.5 m 1839.4 321.5 l 1839.55 315.79 1839.4 321.5 m 1446.3 324.5 l 1446.42 322.36 1446.3 324.5 m 1447.1 318.4 l 1447.22 317.49 1447.1 318.4 m 1446.9 312.2 l 1447.3 309.9 1446.9 312.2 m 1838 306.5 l 1837 301 1836.36 308.02 1834.9 309.3 1832.5 309 1832.62 304.27 1835.15 296.97 1838.3 294.8 1838.9 301.75 1838 306.5 m 1446.4 303.7 l 1447.29 292.57 1448.22 294.99 1446.4 303.7 m 1838.6 287.9 l 1838.35 280.8 1838.6 287.9 m 1446.3 278.5 l 1446.47 274.42 1446.3 278.5 m 1646.2 275 l 1648.82 272.22 1648.1 265.6 1651.16 270.37 1654.38 272.26 1654.4 273.1 1650.19 273.85 1646.5 277 1646.2 275 m 1838 273.6 l 1838.8 269.6 1839.2 273.1 1838 273.6 m 1835 273.2 l 1835.38 271.52 1836.86 271.35 1835 273.2 m 1631.9 266.1 l 1630.12 264.63 1627.52 265.68 1626 265 1631.24 261.61 1631.71 258.88 1630.27 257.74 1630.35 256.04 1636.8 252.3 1635.64 260.05 1636.04 264.12 1637.61 264.62 1637.31 260.76 1639.2 260.7 1642.61 263.21 1644.35 266.72 1640.35 267.37 1637.84 268.81 1631.9 266.1 m 1838.5 265 l 1838.43 261.19 1836.54 256.72 1834.6 254.57 1832.77 254.8 1831.17 253.6 1829.49 251.11 1828.42 247.27 1816.93 248.52 1820.85 249.5 1819.43 251.01 1820.05 252.74 1822.02 252.83 1824.7 251.26 1825.7 251.4 1825.76 252.45 1823.11 256.9 1819.32 257.99 1816.45 260.89 1815.51 260.67 1814.54 256.52 1813.15 255.08 1815.25 244.79 1817.95 246.87 1822.83 246.74 1827.1 245 1830.5 247 1831.88 246 1830.36 243.05 1831.49 241.49 1834.74 239.43 1838.56 238.76 1838.9 238.05 1837.24 237.1 1828.44 235.66 1823.66 233.48 1823.82 232.66 1827.35 231.06 1827.7 233.57 1829.73 233.69 1835.33 230 1835.7 228.26 1832.94 226.79 1832.6 225.8 1837.26 225.35 1837.84 220.51 1837.13 218.78 1832.43 217.42 1829.73 218.03 1826.29 222.64 1821.39 225.56 1821.46 227.6 1822.58 229.4 1822.04 229.95 1818.91 230.52 1813.78 233.67 1813.1 233.22 1814.57 230.56 1814 230.05 1812.2 231.2 1811.08 233.92 1813.85 235.92 1812.65 237.24 1809.85 237.81 1806.16 236.08 1807.93 233.89 1806.5 231.6 1799.59 232.84 1797.82 232.15 1797.03 230.43 1798.07 227.11 1797.04 223.12 1795.53 220.97 1795.85 219.04 1793 216.9 1793.57 216.25 1796.69 216.37 1798 214.5 1798.74 214.54 1799.81 216.92 1801.65 217.78 1802.65 217.97 1800.38 215.45 1802.52 214.81 1809.31 217.6 1810.36 216.08 1808.27 213.33 1808.08 211.5 1808.8 211 1811.53 212.32 1813.52 211.86 1817.92 209.31 1820.72 206.35 1820.51 204.53 1816.5 202.7 1820.44 201.46 1819.79 196.83 1821.67 192.41 1823.34 192.33 1823.8 194.17 1826.96 194.75 1828.67 194.32 1829.9 192 1830.23 195.74 1831.7 195.06 1832.44 189.83 1832.29 181.57 1831.46 179.75 1829.2 177.95 1833 173.2 1832.44 172.54 1829.4 175 1828.57 174.58 1825.06 169.97 1824.08 166.23 1825.71 165.21 1829.86 165.39 1837.15 167.66 1838.92 165.69 1838.16 161.75 1836.24 159.34 1832.92 157.34 1832.57 156.4 1833.4 154.8 1832.11 152.34 1829.22 151.36 1827.18 151.67 1825 155 1822.89 149.78 1817.52 143.63 1809.16 137.93 1807.6 135.4 1804.97 134.09 1800.81 129.8 1799.05 129.34 1796.37 126.74 1793.41 126.68 1793.39 124.67 1799.73 124.01 1800.7 123.7 1800.27 123.11 1797.51 122.56 1794.46 120.55 1792.97 121.52 1791.13 124.61 1786.4 121.54 1783.72 120.7 1782.39 117.29 1779.19 113.77 1777.38 109.49 1775.26 111.26 1773.8 114.66 1772.95 114.92 1767.6 112.7 1765.37 108.92 1759.87 108.59 1757.16 104.65 1757.4 102.79 1762.49 102.36 1765.33 102.98 1767.6 105.4 1772.41 105.69 1773 105 1769.35 103.4 1768.76 101.77 1766 99 1766.59 98.2 1768.68 98.18 1770.95 100.04 1772.79 100.32 1776.1 98.8 1777.09 105.99 1777.7 106.7 1778.75 106.32 1779.39 103.22 1780 102.5 1780.67 102.98 1782 110.5 1783.95 107.4 1787.86 106 1790 103 1790.43 106.79 1788.68 114.74 1790.03 117.54 1791.56 117.6 1791.42 112.25 1794.93 113.46 1796.39 112.35 1796.33 110.53 1797.06 110.09 1799.74 110.52 1799.73 115.17 1801.34 115.11 1802.74 112.63 1800.82 107.72 1798.12 105.25 1796.5 101.59 1796.76 100.63 1797.71 100.52 1800.1 101.4 1800.55 95.73 1797.74 95.7 1797 95 1798.77 94.41 1799 93.6 1798.58 92.49 1796.1 91.2 1795.81 86.3 1795.3 85.7 1793.9 87 1793.09 86.4 1794.3 83.7 1797.14 86.51 1805.03 100.03 1805.8 102.7 1808.52 104.21 1820.99 115.73 1829.62 120.51 1836.24 122.91 1837.95 124.99 1838.5 265 m 1806.3 226.5 l 1808.57 223.98 1808.76 222.14 1801.28 226.35 1801.09 227.37 1806.3 226.5 m 1816 227 l 1815 226 1814 227 1816 227 m 1824.5 209 l 1824.11 208.17 1821.89 208.17 1821.5 209 1824.5 209 m 1830.5 207 l 1828.9 206 1828 207 1830.5 207 m 1839 200 l 1838 199 1837 200 1839 200 m 1807 120.4 l 1805.89 119.14 1803.26 119.45 1803.56 121.08 1807 120.4 m 1788 118.1 l 1787.03 116.57 1785.3 116.3 1788 118.1 m 1787 113 l 1786 112 1785 113 1787 113 m 1446.1 260.4 l 1446.22 259.49 1446.1 260.4 m 1446.1 256.4 l 1446.22 255.49 1446.1 256.4 m 1642.5 256 l 1642.64 255.23 1642.5 256 m 1771.8 254.1 l 1770.67 252.99 1771.7 251.63 1774.54 252.15 1771.8 254.1 m 1447.2 252 l 1447.2 252 m 1641 252 l 1642.75 251.1 1644 252 1641 252 m 1446.4 238.5 l 1446.47 232.49 1446.4 238.5 m 1735.5 244.9 l 1731.57 243.9 1725.13 239.57 1722.59 236.39 1721.74 233.62 1722.22 231.76 1723.9 230.9 1720.5 229.4 1724.11 227.12 1728.16 226.35 1732.26 226.92 1735.46 229.34 1736.36 229.22 1739.5 226.62 1735.7 225.4 1736.37 223.55 1739.42 221.22 1736 219.9 1736.71 219.29 1738.86 219.74 1737.83 216.99 1738.79 214.1 1741.32 210.93 1743.88 210.17 1743.29 207.27 1741.02 205.21 1742.68 204.09 1746.72 203.64 1748.62 201.64 1748.17 198.75 1747.03 197.09 1745.29 196.55 1744.21 198.9 1739.8 197.3 1736.74 195.15 1736.48 193.52 1734.74 192.85 1734.28 190.81 1736.98 190.15 1738.95 192.43 1739.95 192.44 1745 190.9 1742.21 193.69 1742.18 195.44 1742.92 195.73 1747.9 194.33 1749.77 192.04 1750.32 194 1756.97 196.07 1759.18 199.07 1763.2 197.8 1767.61 194.19 1769.68 193.59 1769 189.9 1766.6 189.1 1770.15 185.78 1768.86 183.13 1762.54 179.97 1758.32 174.28 1755.15 171.78 1750.45 170 1748.21 171.81 1745.78 171.71 1745.62 169.75 1743.34 168.31 1747.45 165.45 1745.56 162.2 1747.6 157.2 1747 158 1745.35 157.06 1742.17 153.12 1741.73 151.48 1744.24 151.31 1746.44 152.99 1748.66 151.44 1752.49 151.84 1753.1 146 1755.1 148 1756.4 146.6 1758.53 148.98 1758.59 151.81 1760.4 152.23 1761.48 153.78 1763.84 155 1766.95 159.88 1771.1 164.38 1777.03 167.72 1780.96 171.11 1783.43 174.37 1782.02 174.14 1783.55 175.71 1786.1 174.5 1786.87 172.12 1789.65 172.38 1790.61 173.8 1788.99 176.05 1789.54 176.73 1792.33 176.31 1794.02 176.94 1793.26 180.44 1794.61 181.48 1796.27 179.31 1796.21 171.63 1797.6 170.38 1800.59 169.5 1820.27 184.09 1820.16 186.91 1816.33 188.59 1813.49 186.41 1809.23 188.85 1803.06 189.56 1802.07 189.32 1801.01 186.83 1797.28 186.91 1793.98 195.15 1790.83 199.13 1790.89 200.48 1784.53 202.56 1784.66 206.43 1782.58 210.92 1779.87 213.79 1776.57 214.7 1780 219.4 1779.07 221.09 1770.17 226.68 1764.97 226.9 1766.84 228.77 1764.94 231.15 1763.9 231.6 1758.86 230.46 1756.56 233.77 1754.65 233.5 1753.64 229.68 1752 229 1750.16 229.63 1750.19 230.56 1752.7 233.48 1749.33 235.39 1744.31 235.11 1741.45 234.18 1739.18 232.17 1736.79 232.19 1736 233 1736.5 233.86 1739.15 235.5 1740.58 235.54 1741.72 237.16 1742.61 237.48 1744.53 236.44 1745.5 236.9 1740.26 243.8 1735.5 244.9 m 1754 217 l 1751.93 216.1 1751.14 216.69 1751.37 219.85 1754 217 m 1761 212 l 1757.35 210.4 1756.76 208.74 1754.64 207.02 1754.23 204.15 1752.3 203.4 1750.33 203.93 1749.68 208.27 1748 209.8 1748.57 210.5 1750.47 210.43 1751.48 209.38 1752.79 210.96 1753.39 209.24 1761 212 m 1766 210.4 l 1764.89 209.14 1762.26 209.45 1762.56 211.08 1766 210.4 m 1761.9 203.1 l 1761.65 202.34 1758.17 201.98 1756.92 198.49 1755.17 198.89 1753.7 201.27 1756.68 203.97 1757.35 206.92 1761.9 203.1 m 1755 196.4 l 1751.54 196.07 1755 196.4 m 1822 243 l 1823.5 242 1825 243 1822 243 m 1803 241 l 1804.5 240 1806 241 1803 241 m 1808 241 l 1808.6 240.23 1810.4 240.25 1808 241 m 1447.2 222 l 1447.2 222 m 1726.5 223 l 1725.64 222.53 1728.11 222.48 1726.5 223 m 1835.5 221 l 1836.6 220 1835.5 221 m 1638.7 216.7 l 1637.16 215.73 1632.31 215.64 1631.68 214.11 1634.56 211.51 1638.4 212.5 1641 214 1641.8 215.7 1638.7 216.7 m 1446.1 210.4 l 1446.22 209.49 1446.1 210.4 m 1731.8 195.3 l 1731.8 195.3 m 1446.2 187.5 l 1446.26 186.26 1446.2 187.5 m 1745.2 178.7 l 1744.59 176.67 1745.34 173.55 1746.2 173 1746.76 174.86 1747.84 174.98 1752.7 173.4 1750.1 178.97 1745.2 178.7 m 1788 170.2 l 1789.87 167.38 1786.58 168.45 1785.7 168.3 1786.08 167.46 1796.65 161.38 1798.33 159.12 1799.71 161.7 1788 170.2 m 1447.2 164 l 1447.31 162.16 1447.2 164 m 1447.3 139 l 1447.46 135.18 1447.3 139 m 1447.4 123.6 l 1448.23 119.83 1449.82 119.15 1448.39 121.28 1447.4 123.6 m 1462.7 112.9 l 1462.7 112.9 m 1466.4 111.1 l 1466.4 111.1 m 1475 103.5 l 1477.8 101 1475 103.5 m 1753.6 102.1 l 1753.74 99.28 1755.1 98 1755.92 101.46 1753.6 102.1 m 1480.4 99.1 l 1482.71 97.08 1482.48 98.87 1480.4 99.1 m 1483 95.6 l 1483 95.6 m 1488 89.5 l 1490.8 87 1488 89.5 m 1491 85.1 l 1494.29 80.96 1496.67 75.39 1498 74.7 1496.4 77.19 1491 85.1 m 1788.4 78.5 l 1784.65 67.82 1771.8 67.1 1776.89 66.48 1788.4 67 1792.17 77.9 1788.4 78.5 m 1788.7 72.8 l 1788.22 72.49 1788.7 72.8 m 1650.5 71 l 1650.9 70 1651.65 70.29 1650.5 71 m 1655.5 69 l 1651.69 68.27 1642.95 68.66 1649.9 67.44 1655.5 69 m 1504.8 68.3 l 1504.8 68.3 m 1533.8 68.3 l 1533.8 68.3 m 1550 68 l 1552.89 67.62 1550 68 m 1626.7 68.1 l 1630.08 67.28 1626.7 68.1 m 1679 68 l 1676.89 67.47 1679 68 m 1500.8 67.3 l 1500.8 67.3 m 1564.8 67.3 l 1564.8 67.3 m 1719.3 67.3 l 1728.08 66.34 1742.4 66.8 1719.3 67.3 m 1746 67 l 1750.01 66.57 1746 67 m 1764.5 67 l 1764.5 66.12 1764.5 67
 Dialogue: 122,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an7\pos(-355.06,32.65)\fscx118\fscy98\bord0\c&HCCCCCC&\blur1\clip(m 1762 463.5 b 1762 463.5 1722 463.5 1722 463.5 1722 463.5 1707 463.5 1707 463.5 1707 463.5 1692 463.5 1692 463.5 1692 463.5 1669 463.5 1669 463.5 1669 463.5 1653 463.5 1653 463.5 1653 463.5 1644 463.5 1644 463.5 1644 463.5 1619 463.5 1619 463.5 1619 463.5 1578.7 463.5 1578.7 463.5 1578.7 463.5 1559 463.5 1559 463.5 1559 463.5 1550 463.5 1550 463.5 1550 463.5 1530 463.5 1530 463.5 1530 463.5 1514 463.5 1514 463.5 1514 463.5 1474 463.5 1474 463.5 1474 463.5 1464 463.5 1464 463.5 1464 463.5 1456 463.5 1456 463.5 1456 463.5 1448 463.5 1448 463.5 1448 463.5 1439 463.5 1439 463.5 1439 463.5 1424.9 463.5 1424.9 463.5 1421.1 463.4 1413.6 464.6 1410.2 463.5 1407.3 461.7 1406.2 457.7 1404.9 455 1402.6 450.4 1399.1 445.9 1395.7 442 1391.9 437.6 1386.8 433.4 1382 430 1372.4 423.4 1371.1 427.6 1371.1 418 1371.1 418 1371.1 366 1371.1 366 1371.1 366 1371.1 245 1371.1 245 1371.1 245 1371.1 201 1371.1 201 1371.1 201 1371.1 158.2 1371.1 158.2 1370.7 147.7 1373.2 147.8 1381 143.1 1383.8 141.4 1388.4 138 1391 135.9 1396 131.7 1400.7 126.6 1404.2 121 1405.8 118.5 1409.3 111.4 1411.4 110 1413.2 108.9 1415.9 109 1418 109.2 1418 109.2 1438 109.2 1438 109.2 1438 109.2 1464.2 109.2 1464.2 109.2 1464.2 109.2 1579 109.2 1579 109.2 1579 109.2 1622.7 109.2 1622.7 109.2 1622.7 109.2 1656 109.2 1656 109.2 1656 109.2 1672 109.2 1672 109.2 1672 109.2 1682.6 109.2 1682.6 109.2 1682.6 109.2 1721 109.2 1721 109.2 1721 109.2 1734 109.2 1734 109.2 1734 109.2 1756 109.2 1756 109.2 1757.8 109.5 1759.1 109.7 1760.7 110.8 1763.6 112.9 1769.7 125.3 1773.5 130 1777.6 135.1 1783.2 140.1 1789 143.3 1789 143.3 1797.7 147.1 1797.7 147.1 1800.5 149.2 1800 152.9 1800 156 1800 156 1800 415 1800 415 1800 417.2 1800.2 420.6 1799 422.5 1799 422.5 1781 434.9 1781 434.9 1772.5 441.4 1764.5 452.5 1762 463.5)\p1}m 1532.8 448.3 l 1532.8 448.3 m 1510.8 447.3 l 1510.8 447.3 m 1697.8 446.3 l 1697.8 446.3 m 1795.1 432.4 l 1795.22 431.49 1795.1 432.4 m 1809 411.6 l 1809 411.6 m 1816 405.5 l 1818.8 403 1816 405.5 m 1445.1 383.4 l 1445.22 382.49 1445.1 383.4 m 1445.1 378.4 l 1445.22 377.49 1445.1 378.4 m 1839.1 369.4 l 1839.22 368.49 1839.1 369.4 m 1839.3 356.5 l 1839.45 353.69 1839.3 356.5 m 1446.1 357.4 l 1446.22 356.49 1446.1 357.4 m 1839.3 346.5 l 1839.45 343.69 1839.3 346.5 m 1839.3 336.5 l 1839.42 334.36 1839.3 336.5 m 1446.2 325.5 l 1446.26 324.26 1446.2 325.5 m 1839.2 321 l 1839.32 319.13 1839.2 321 m 1838.3 304.5 l 1838.45 301.69 1838.3 304.5 m 1447.2 300 l 1447.26 298.93 1447.2 300 m 1447.2 295 l 1447.26 293.93 1447.2 295 m 1839.2 289 l 1839.26 287.93 1839.2 289 m 1838.1 281.4 l 1838.22 280.49 1838.1 281.4 m 1446.3 275.5 l 1446.42 273.36 1446.3 275.5 m 1839.2 263.5 l 1839.26 262.26 1839.2 263.5 m 1839.1 257.4 l 1839.22 256.49 1839.1 257.4 m 1446.1 240.4 l 1446.22 239.49 1446.1 240.4 m 1839.2 238.5 l 1839.26 237.21 1839.2 238.5 m 1446.2 232.5 l 1446.26 231.21 1446.2 232.5 m 1446.1 210.4 l 1446.22 209.49 1446.1 210.4 m 1839.2 208 l 1839.2 208 m 1839.2 199.5 l 1839.26 198.21 1839.2 199.5 m 1839.3 191.5 l 1839.42 189.36 1839.3 191.5 m 1838.4 180.7 l 1838.38 178.54 1839.67 180.88 1838.4 180.7 m 1838.9 167.8 l 1837.64 153.07 1837.25 152.32 1836.93 154.38 1836.2 154.6 1834.51 146.56 1830.65 136.74 1829.53 130.99 1825.86 125.03 1819.6 120.4 1819.38 119.49 1822.8 119.31 1822.82 118.49 1819.24 115.71 1817.11 117.07 1816.46 113.13 1817.18 112.94 1824.48 118.14 1826.21 118.3 1830.14 120.69 1836.71 123.16 1837.91 124.79 1839.19 148.32 1838.9 167.7 m 1838 143 l 1837.6 141 1836.56 144.14 1838 143 m 1838 136.5 l 1837 135 1836.6 136.5 1838 136.5 m 1447.1 123.4 l 1447.22 122.49 1447.1 123.4 m 1810.1 106.7 l 1807.63 103.55 1811.28 106.99 1810.1 106.7 m 1479 100.6 l 1479 100.6 m 1803.4 98.8 l 1801.5 96.5 1805.2 99.67 1803.4 98.8 m 1799.5 92.9 l 1799.3 91.4 1799.5 92.9 m 1790.6 75.5 l 1790.05 73.47 1790.6 75.5 m 1500.8 67.3 l 1500.8 67.3 m 1685.8 67.3 l 1685.8 67.3 m 1719.5 67 l 1718.53 66.49 1719.89 66.2 1719.5 67 m 1776.8 66.3 l 1776.8 66.3
 Dialogue: 124,0:25:25.17,0:25:31.09,Captions-207+,,0,0,0,,{\an5\pos(1586,290)\fscx75\fscy75\fnDFGKanTeiRyu-XB-CP\bord0\c&H000000&\blur0.8}Performance\N\NFloor\N\N\N\NSkull Dome
-Dialogue: 0,0:25:27.64,0:25:31.22,Dubtitles,,0,0,0,,But Shogun Orochi has a\Nspecial event for you.
-Dialogue: 0,0:25:33.44,0:25:34.27,Dubtitles,,0,0,0,,Hello.
-Dialogue: 0,0:25:34.35,0:25:35.44,Dubtitles,,0,0,0,,Testing.
-Dialogue: 0,0:25:35.52,0:25:36.98,Dubtitles,,0,0,0,,Is this thing on?
-Dialogue: 0,0:25:37.52,0:25:38.35,Dubtitles,,0,0,0,,Good.
-Dialogue: 0,0:25:38.43,0:25:39.28,Dubtitles,,0,0,0,,Welcome all.
-Dialogue: 0,0:25:39.36,0:25:42.26,Dubtitles,,0,0,0,,I come to you this\Nevening with a real treat.
+Dialogue: 0,0:25:27.16,0:25:31.22,Dubtitles,,0,0,0,,drinking But Shogun Orochi\Nhas a special event for you
+Dialogue: 0,0:25:33.44,0:25:36.98,Dubtitles,,0,0,0,,Hello Testing Is this thing on?
+Dialogue: 0,0:25:37.52,0:25:42.26,Dubtitles,,0,0,0,,Good Welcome all I come to you\Nthis evening with a real treat.
 Dialogue: 0,0:25:46.12,0:25:48.50,Dubtitles,,0,0,0,,Does anyone recognize this boy?
 Dialogue: 0,0:25:49.04,0:25:51.42,Dubtitles,,0,0,0,,You're looking at Kozuki Oden's son.
 Dialogue: 0,0:25:51.68,0:25:53.97,Dubtitles,,0,0,0,,He was thought to be dead 20 years ago.
 Dialogue: 0,0:25:57.26,0:25:59.06,Dubtitles,,0,0,0,,Now come, come!
 Dialogue: 0,0:26:16.26,0:26:18.22,Dubtitles,,0,0,0,,Fix this!
 Dialogue: 0,0:26:34.36,0:26:35.48,Dubtitles,,0,0,0,,Drop them!
-Dialogue: 0,0:26:40.32,0:26:41.76,Dubtitles,,0,0,0,,Elephant Guns!!!
+Dialogue: 0,0:26:40.32,0:26:41.76,Dubtitles,,0,0,0,,Elephant Gun!!!
 Dialogue: 0,0:26:46.46,0:26:48.80,Dubtitles,,0,0,0,,Are you okay? That looked bad!
 Dialogue: 0,0:26:49.20,0:26:50.28,Dubtitles,,0,0,0,,Page one, sir!
 Dialogue: 0,0:26:53.38,0:26:55.88,Dubtitles,,0,0,0,,Listen here, you slimeball!
-Dialogue: 0,0:26:56.32,0:26:59.44,Dubtitles,,0,0,0,,You've got some nerve-hurting Papa!
+Dialogue: 0,0:26:56.32,0:26:59.44,Dubtitles,,0,0,0,,You've got some nerve-hurting pee-pee!
 Dialogue: 0,0:27:06.32,0:27:08.40,Dubtitles,,0,0,0,,I'm gonna crush you!
 Dialogue: 0,0:27:08.84,0:27:11.08,Dubtitles,,0,0,0,,Lady Olsen pulled out her dinosaur board!
 Dialogue: 0,0:27:11.16,0:27:13.40,Dubtitles,,0,0,0,,Please, this place can't\Ntake this kind of damage!
@@ -89383,9 +89375,9 @@ Dialogue: 0,0:27:16.34,0:27:17.70,Dubtitles,,0,0,0,,She's really strong!
 Dialogue: 0,0:27:20.64,0:27:22.00,Dubtitles,,0,0,0,,Naughty Meteor!
 Dialogue: 0,0:27:25.82,0:27:26.65,Dubtitles,,0,0,0,,Crap!
 Dialogue: 0,0:27:27.02,0:27:28.70,Dubtitles,,0,0,0,,What? Deer!
-Dialogue: 0,0:27:35.60,0:27:37.00,Dubtitles,,0,0,0,,Ahhhhh!
-Dialogue: 0,0:27:40.00,0:27:40.83,Dubtitles,,0,0,0,,Thunder!
-Dialogue: 0,0:27:40.91,0:27:41.74,Dubtitles,,0,0,0,,Aqua!
+Dialogue: 0,0:27:35.62,0:27:37.02,Dubtitles,,0,0,0,,Ahhhhhhhhh!
+Dialogue: 0,0:27:39.94,0:27:40.77,Dubtitles,,0,0,0,,Thunder!
+Dialogue: 0,0:27:40.85,0:27:41.68,Dubtitles,,0,0,0,,Bagua!
 Dialogue: 0,0:28:05.48,0:28:06.31,Dubtitles,,0,0,0,,Nooo!
 Dialogue: 0,0:28:51.30,0:28:53.12,Dubtitles,,0,0,0,,Straw Hat Luffy
 Dialogue: 0,0:28:56.86,0:28:58.92,Dubtitles,,0,0,0,,It's really you, isn't it?

@@ -26,7 +26,7 @@ Style: Typeset things,Candara,83,&H00F6FBF6,&H00F5FEF5,&H00000000,&H78000000,0,0
 Style: Karaoke,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
 Style: Translation,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,15,15,25,1
 Style: Dummy,Duality,105,&H00B35679,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -27683,6 +27683,7 @@ Dialogue: 1,0:00:29.88,0:00:29.92,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-62,-12,2
 Dialogue: 1,0:00:29.88,0:00:29.92,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-22,28,278,778)\an7\pos(327.58,998.99)\frz163.51\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:00:29.88,0:00:29.92,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,18,68,318,818)\an7\pos(271.78,1024.05)\frz131.92\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 3,0:00:29.89,0:00:31.43,Karaoke,,0,0,0,fx,{\an5\pos(727.22,70.00)\fad(150,615)\t(586.53695576066,671.53695576066,\fscx125\fscy125)\t(671.53695576066,756.53695576066,\fscx100\fscy100)\t(586.53695576066,671.53695576066,\1c&HE6798C&\frz-7)\t(671.53695576066,756.53695576066,\frz0)\t(671.53695576066,1171.5369557607,\1c&HD7536A&)}Out
+Dialogue: 0,0:00:29.90,0:00:30.86,Dubtitles,,0,0,0,,Shoot it up!
 Dialogue: 1,0:00:29.92,0:00:29.97,Karaoke,,0,0,0,fx,{\fad(255,0,255,-794,-744,-494,6)\an7\pos(1177.00,87.63)\frz204.34\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:00:29.92,0:00:29.97,Karaoke,,0,0,0,fx,{\fad(255,0,255,-754,-704,-454,46)\an7\pos(1189.59,65.85)\frz300.71\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:00:29.92,0:00:29.97,Karaoke,,0,0,0,fx,{\fad(255,0,255,-684,-634,-384,116)\an7\pos(1227.31,77.08)\frz295.85\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
@@ -84704,7 +84705,7 @@ Dialogue: 1,0:01:19.77,0:01:19.81,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-76,-26,2
 Dialogue: 1,0:01:19.77,0:01:19.81,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-76,-26,224,724)\an7\pos(1149.08,1006.67)\frz51.46\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:19.77,0:01:19.81,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-36,14,264,764)\an7\pos(1158.31,986.45)\frz214.65\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:19.77,0:01:19.81,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,4,54,304,804)\an7\pos(1136.44,996.19)\frz53.96\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
-Dialogue: 0,0:01:19.78,0:01:21.80,Dubtitles,,0,0,0,,Dreaming on!
+Dialogue: 0,0:01:19.78,0:01:21.70,Dubtitles,,0,0,0,,Dreaming on!
 Dialogue: 1,0:01:19.81,0:01:19.85,Karaoke,,0,0,0,fx,{\fad(255,0,255,-797,-747,-497,3)\an7\pos(793.70,59.77)\frz216.99\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:19.81,0:01:19.85,Karaoke,,0,0,0,fx,{\fad(255,0,255,-797,-747,-497,3)\an7\pos(811.22,118.20)\frz357.07\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:01:19.81,0:01:19.85,Karaoke,,0,0,0,fx,{\fad(255,0,255,-797,-747,-497,3)\an7\pos(940.12,89.56)\frz30.52\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -88233,453 +88234,430 @@ Dialogue: 1,0:01:23.44,0:01:23.48,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-766,-716
 Dialogue: 1,0:01:23.44,0:01:23.48,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-726,-676,-426,74)\an7\pos(1217.99,1173.53)\frz211.34\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:23.48,0:01:23.52,Karaoke,,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1120.42,188.91)\frz101.03\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:23.48,0:01:23.52,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1213.93,1177.27)\frz211.49\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
-Dialogue: 0,0:01:32.74,0:01:34.14,Dubtitles,,0,0,0,,Oh, I get it now.
-Dialogue: 0,0:01:34.50,0:01:39.44,Dubtitles,,0,0,0,,You're gonna turn into your Sulong form\Nand go berserk once you gaze at the moon.
+Dialogue: 0,0:01:28.48,0:01:34.84,Dubtitles,,0,0,0,,Oh, ah, I get it now. You're
+Dialogue: 0,0:01:34.92,0:01:35.75,Dubtitles,,0,0,0,,gonna turn into your
+Dialogue: 0,0:01:35.83,0:01:39.44,Dubtitles,,0,0,0,,sulong form and go berserk\Nonce you gaze at the moon
 Dialogue: 3,0:01:45.17,0:01:47.55,Title-207+,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(727,0)}I Can't Imagine Losing
 Dialogue: 2,0:01:45.17,0:01:47.55,Title-207+,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(727,0)\t(686,727,\1a&H00&)}I Can't Imagine Losing
-Dialogue: 0,0:01:53.38,0:01:54.26,Dubtitles,,0,0,0,,It's Jack!
-Dialogue: 0,0:02:00.00,0:02:03.36,Dubtitles,,0,0,0,,You put together a hell\Nof a plan, didn't you?
+Dialogue: 0,0:01:53.34,0:01:54.24,Dubtitles,,0,0,0,,It's Jack!
+Dialogue: 0,0:01:59.98,0:02:03.36,Dubtitles,,0,0,0,,You put together a hell\Nof a plan, didn't you?
 Dialogue: 0,0:02:03.56,0:02:06.08,Dubtitles,,0,0,0,,But that doesn't mean\Nyou're strong enough to win.
 Dialogue: 0,0:02:06.16,0:02:07.75,Dubtitles,,0,0,0,,Just that we were careless.
-Dialogue: 0,0:02:08.82,0:02:11.54,Dubtitles,,0,0,0,,You won't lay another finger on Kaido.
-Dialogue: 0,0:02:11.94,0:02:15.50,Dubtitles,,0,0,0,,I'm about to die the snow\Nred with your blood! Yeah!
-Dialogue: 0,0:02:17.88,0:02:20.08,Dubtitles,,0,0,0,,Hold your swords. One moment.
-Dialogue: 0,0:02:20.98,0:02:25.00,Dubtitles,,0,0,0,,Jack devastated our thousand-year-old\Nkingdom and tormented our people.
-Dialogue: 0,0:02:25.08,0:02:26.88,Dubtitles,,0,0,0,,That man is our sworn enemy.
-Dialogue: 0,0:02:27.22,0:02:30.75,Dubtitles,,0,0,0,,We turned him away countless\Ntimes, but he would not relent.
-Dialogue: 0,0:02:31.08,0:02:33.96,Dubtitles,,0,0,0,,The warrior you were\Nsearching for is right here!
+Dialogue: 0,0:02:08.80,0:02:11.54,Dubtitles,,0,0,0,,You won't lay another finger on Kaido.
+Dialogue: 0,0:02:11.92,0:02:14.98,Dubtitles,,0,0,0,,I'm about to dye the\Nsnow red with your blood!
+Dialogue: 0,0:02:17.86,0:02:20.08,Dubtitles,,0,0,0,,Hold your swords. One moment.
+Dialogue: 0,0:02:20.92,0:02:25.10,Dubtitles,,0,0,0,,Jack devastated our thousand-year-old\Nkingdom and tormented our people.
+Dialogue: 0,0:02:25.48,0:02:27.13,Dubtitles,,0,0,0,,That man is our sworn enemy.
+Dialogue: 0,0:02:27.26,0:02:30.79,Dubtitles,,0,0,0,,We turned him away countless\Ntimes, but he would not relent.
+Dialogue: 0,0:02:31.16,0:02:33.96,Dubtitles,,0,0,0,,The warrior you were\Nsearching for is right here.
 Dialogue: 0,0:02:34.04,0:02:35.08,Dubtitles,,0,0,0,,It is I!
-Dialogue: 0,0:02:37.32,0:02:38.15,Dubtitles,,0,0,0,,Race...
-Dialogue: 0,0:02:38.23,0:02:39.76,Dubtitles,,0,0,0,,I owe the Minx my life!
-Dialogue: 0,0:02:39.98,0:02:44.22,Dubtitles,,0,0,0,,Every cruelty you committed shall be\Npunished with the force of my fury!
-Dialogue: 0,0:02:57.66,0:03:01.12,Dubtitles,,0,0,0,,Please allow us to save\Nyour power for Kaido.
-Dialogue: 0,0:03:01.92,0:03:03.06,Dubtitles,,0,0,0,,You Karoo as well.
-Dialogue: 0,0:03:18.30,0:03:20.34,Dubtitles,,0,0,0,,All right, then best of luck.
-Dialogue: 0,0:03:20.50,0:03:21.34,Dubtitles,,0,0,0,,I'm grateful.
-Dialogue: 0,0:03:21.96,0:03:26.40,Dubtitles,,0,0,0,,I promise you, Karoo, that I will\Nshow Kaido every ounce of my strength.
-Dialogue: 0,0:03:51.34,0:04:13.03,Dubtitles,,0,0,0,,Uh!
+Dialogue: 0,0:02:36.70,0:02:37.53,Dubtitles,,0,0,0,,Ryzo.
+Dialogue: 0,0:02:37.92,0:02:39.76,Dubtitles,,0,0,0,,I owe the Minx my life.
+Dialogue: 0,0:02:40.06,0:02:44.30,Dubtitles,,0,0,0,,Every cruelty you committed shall be\Npunished with the force of my fury!
+Dialogue: 0,0:02:58.40,0:03:03.06,Dubtitles,,0,0,0,,Please allow us to save your\Npower for Kaido, Ugarai's will.
+Dialogue: 0,0:03:17.76,0:03:18.59,Dubtitles,,0,0,0,,Alright,
+Dialogue: 0,0:03:18.90,0:03:23.14,Dubtitles,,0,0,0,,then best of luck I'm\Ngrateful I promise you,
+Dialogue: 0,0:03:23.22,0:03:26.46,Dubtitles,,0,0,0,,Gaura That I will show Kaido\Nevery ounce of my strength
+Dialogue: 0,0:03:56.10,0:03:59.20,Dubtitles,,0,0,0,,Oh, my God.
 Dialogue: 2,0:04:02.76,0:04:05.89,Captions-207+,,0,0,0,,{\an2\pos(960,715)\fnDFGKanTeiRyu-XB-CP\bord0\c&H000000&\blur0.8}Roddy & BB\N{\fnVAG Rounded Std Light}Whale Forest Guardians
 Dialogue: 1,0:04:02.76,0:04:05.89,Captions-207+,,0,0,0,,{\an2\pos(960,715)\fnDFGKanTeiRyu-XB-CP\bord5\c&HF7F6FC&\blur0.8\3c&HF7F6FC&}Roddy & BB\N{\fnVAG Rounded Std Light\bord3.5}Whale Forest Guardians
-Dialogue: 0,0:04:18.04,0:04:18.87,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:04:11.54,0:04:12.94,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:04:17.40,0:04:19.26,Dubtitles,,0,0,0,,No! No!
 Dialogue: 2,0:04:19.53,0:04:22.99,Captions-207+,,0,0,0,,{\an2\pos(960,735)\fnDFGKanTeiRyu-XB-CP\bord0\c&H000000&\blur0.8}Giovanni, Shishilian, & Concelot\N{\fnVAG Rounded Std Light\fscx125\fscy125}Inuarashi's Three Musketeers
 Dialogue: 1,0:04:19.53,0:04:22.99,Captions-207+,,0,0,0,,{\an2\pos(960,735)\fnDFGKanTeiRyu-XB-CP\bord3\c&HF7F6FC&\blur0.8\3c&HF7F6FC&}Giovanni, Shishilian, & Concelot\N{\fnVAG Rounded Std Light\fscx125\fscy125}Inuarashi's Three Musketeers
-Dialogue: 0,0:04:36.10,0:04:37.18,Dubtitles,,0,0,0,,Don't worry.
-Dialogue: 0,0:04:37.46,0:04:39.75,Dubtitles,,0,0,0,,They can't maintain that for over long.
-Dialogue: 0,0:04:39.96,0:04:41.30,Dubtitles,,0,0,0,,Yeah, bring it on.
-Dialogue: 0,0:04:41.56,0:04:43.02,Dubtitles,,0,0,0,,We're Beast 2, you know.
+Dialogue: 0,0:04:36.08,0:04:37.14,Dubtitles,,0,0,0,,Don't worry.
+Dialogue: 0,0:04:37.54,0:04:39.78,Dubtitles,,0,0,0,,They can't maintain that forever long.
+Dialogue: 0,0:04:39.98,0:04:41.32,Dubtitles,,0,0,0,,Yeah, bring it on.
+Dialogue: 0,0:04:41.60,0:04:43.19,Dubtitles,,0,0,0,,We're beasts, too!
 Dialogue: 2,0:04:43.43,0:04:46.39,Captions-207+,,0,0,0,,{\pos(987,590)\fnCC Ultimatum\fscx125\fscy125\blur0.8\c&HF5F4F5&\bord0}Nangi of the Numbers
 Dialogue: 1,0:04:43.43,0:04:46.39,Captions-207+,,0,0,0,,{\pos(987,590)\fnCC Ultimatum\fscx125\fscy125\blur0.8\c&HF5F4F5&\3c&H111A2F&}Nangi of the Numbers
-Dialogue: 0,0:05:07.08,0:05:10.16,Dubtitles,,0,0,0,,They must have started\Nfighting. You think?
-Dialogue: 0,0:05:10.24,0:05:13.01,Dubtitles,,0,0,0,,that rat master jack went\Noutside with them too
-Dialogue: 0,0:05:13.82,0:05:16.47,Dubtitles,,0,0,0,,Unlike you, he's\Nconsiderate enough to leave.
-Dialogue: 0,0:05:18.22,0:05:20.76,Dubtitles,,0,0,0,,Excuse me. What was that?
-Dialogue: 0,0:05:21.12,0:05:24.96,Dubtitles,,0,0,0,,If you've got a problem with\Nme, just say some, punk ass.
-Dialogue: 0,0:05:26.24,0:05:27.07,Dubtitles,,0,0,0,,Shinobu?
-Dialogue: 0,0:05:28.92,0:05:29.94,Dubtitles,,0,0,0,,Ripe, ripe.
-Dialogue: 0,0:05:30.28,0:05:31.28,Dubtitles,,0,0,0,,Enticement jutsu.
-Dialogue: 0,0:05:39.74,0:05:40.88,Dubtitles,,0,0,0,,Steady now.
-Dialogue: 0,0:05:52.32,0:05:53.15,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:05:56.44,0:05:57.62,Dubtitles,,0,0,0,,No! Oh, no!
-Dialogue: 0,0:06:01.86,0:06:08.14,Dubtitles,,0,0,0,,Your plan was solid in theory, but the\Nexecution was lacking, to say the least.
-Dialogue: 0,0:06:12.84,0:06:13.88,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:06:21.44,0:06:22.80,Dubtitles,,0,0,0,,Shinobu!
-Dialogue: 0,0:06:27.70,0:06:29.84,Dubtitles,,0,0,0,,Shinobu! Oh no!
-Dialogue: 0,0:06:33.10,0:06:34.46,Dubtitles,,0,0,0,,Shinobu!
-Dialogue: 0,0:06:35.40,0:06:37.44,Dubtitles,,0,0,0,,Lord Momonosuke!
-Dialogue: 0,0:06:40.84,0:06:42.37,Dubtitles,,0,0,0,,I passed out for a moment.
-Dialogue: 0,0:06:43.44,0:06:44.58,Dubtitles,,0,0,0,,Now, away!
-Dialogue: 0,0:06:55.36,0:06:56.24,Dubtitles,,0,0,0,,Wait, what?
-Dialogue: 0,0:06:58.06,0:07:00.36,Dubtitles,,0,0,0,,Oh, how the hell is he flying?
+Dialogue: 0,0:05:07.04,0:05:10.38,Dubtitles,,0,0,0,,They must have started\Nfighting, you think that
+Dialogue: 0,0:05:10.46,0:05:12.99,Dubtitles,,0,0,0,,rat bastard jack went\Noutside with them too
+Dialogue: 0,0:05:13.54,0:05:16.32,Dubtitles,,0,0,0,,unlike you he's\Nconsiderate enough to leave
+Dialogue: 0,0:05:18.36,0:05:21.98,Dubtitles,,0,0,0,,excuse me what was that if you've got a
+Dialogue: 0,0:05:22.06,0:05:25.58,Dubtitles,,0,0,0,,Problem with me? Just\Nsay some punk ass! Oh!
+Dialogue: 0,0:05:25.94,0:05:26.98,Dubtitles,,0,0,0,,Shinobu?
+Dialogue: 0,0:05:29.38,0:05:30.21,Dubtitles,,0,0,0,,Ripe, ripe.
+Dialogue: 0,0:05:30.29,0:05:31.38,Dubtitles,,0,0,0,,Enticement jutsu.
+Dialogue: 0,0:05:39.42,0:05:40.86,Dubtitles,,0,0,0,,Steady now.
+Dialogue: 0,0:05:52.12,0:05:53.16,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:05:56.40,0:05:57.56,Dubtitles,,0,0,0,,Oh, no!
+Dialogue: 0,0:06:02.38,0:06:08.16,Dubtitles,,0,0,0,,Your plan was solid in theory, but the\Nexecution was lacking, to say the least.
+Dialogue: 0,0:06:21.92,0:06:22.75,Dubtitles,,0,0,0,,Shinobu!
+Dialogue: 0,0:06:28.38,0:06:29.82,Dubtitles,,0,0,0,,Shinobu! Oh no!
+Dialogue: 0,0:06:33.76,0:06:34.59,Dubtitles,,0,0,0,,Shinobu!
+Dialogue: 0,0:06:36.10,0:06:37.46,Dubtitles,,0,0,0,,Lord Momonosuke!
+Dialogue: 0,0:06:40.36,0:06:43.06,Dubtitles,,0,0,0,,I passed out for a moment. How shameful!
+Dialogue: 0,0:06:43.74,0:06:44.57,Dubtitles,,0,0,0,,Now, away!
+Dialogue: 0,0:06:57.58,0:06:58.41,Dubtitles,,0,0,0,,Wait, what?
+Dialogue: 0,0:06:58.49,0:07:00.38,Dubtitles,,0,0,0,,Oh, how the hell is he flying?
 Dialogue: 0,0:07:00.66,0:07:02.25,Dubtitles,,0,0,0,,And why is he so bad at it?
-Dialogue: 0,0:07:08.44,0:07:09.88,Dubtitles,,0,0,0,,I'm too high up!
-Dialogue: 0,0:07:10.16,0:07:11.00,Dubtitles,,0,0,0,,It's scary!
-Dialogue: 0,0:07:14.60,0:07:16.64,Dubtitles,,0,0,0,,He's floating through the air.
-Dialogue: 0,0:07:16.92,0:07:18.74,Dubtitles,,0,0,0,,What sorcery is this?
-Dialogue: 0,0:07:23.70,0:07:28.02,Dubtitles,,0,0,0,,On behalf of the commander,\NI shall execute you.
-Dialogue: 0,0:07:45.74,0:07:48.00,Dubtitles,,0,0,0,,I can't see a damn thing!
-Dialogue: 0,0:07:48.38,0:07:49.56,Dubtitles,,0,0,0,,How's he doing that?
-Dialogue: 0,0:08:00.24,0:08:01.96,Dubtitles,,0,0,0,,I got it all!
-Dialogue: 0,0:08:02.30,0:08:03.44,Dubtitles,,0,0,0,,Just in time!
-Dialogue: 0,0:08:04.44,0:08:05.42,Dubtitles,,0,0,0,,It's Sanji!
-Dialogue: 0,0:08:05.50,0:08:06.50,Dubtitles,,0,0,0,,Let's go!
-Dialogue: 0,0:08:10.66,0:08:12.24,Dubtitles,,0,0,0,,Hand over the boy.
-Dialogue: 0,0:08:12.84,0:08:16.96,Dubtitles,,0,0,0,,He and the Kozuki-nei must be erased\Nfrom this world once and for all.
-Dialogue: 0,0:08:34.30,0:08:36.36,Dubtitles,,0,0,0,,Don't worry, I've got you, my lord.
-Dialogue: 0,0:08:42.20,0:08:45.58,Dubtitles,,0,0,0,,Hey, Momo, nice speech earlier.
-Dialogue: 0,0:08:46.02,0:08:47.34,Dubtitles,,0,0,0,,You were badass.
-Dialogue: 0,0:08:50.24,0:08:52.62,Dubtitles,,0,0,0,,Scar, hear me now!
-Dialogue: 0,0:08:53.02,0:08:57.98,Dubtitles,,0,0,0,,I shall become the Shogun of Wano!
-Dialogue: 0,0:09:02.00,0:09:04.30,Dubtitles,,0,0,0,,I did my best.
-Dialogue: 0,0:09:06.28,0:09:07.62,Dubtitles,,0,0,0,,All right, Shinobu.
-Dialogue: 0,0:09:07.82,0:09:10.02,Dubtitles,,0,0,0,,Keep him safe. Understood.
-Dialogue: 0,0:09:10.98,0:09:14.74,Dubtitles,,0,0,0,,Scar, I shall repay you! Look!
-Dialogue: 0,0:09:15.04,0:09:16.90,Dubtitles,,0,0,0,,Lord Momonosuke has been saved!
+Dialogue: 0,0:07:14.88,0:07:16.66,Dubtitles,,0,0,0,,He's floating through the air.
+Dialogue: 0,0:07:16.86,0:07:18.70,Dubtitles,,0,0,0,,What sorcery is this?
+Dialogue: 0,0:07:23.78,0:07:28.08,Dubtitles,,0,0,0,,On behalf of the commander,\NI shall execute you.
+Dialogue: 0,0:07:45.74,0:07:47.94,Dubtitles,,0,0,0,,I can't see a tramp there!
+Dialogue: 0,0:07:48.02,0:07:49.36,Dubtitles,,0,0,0,,How's he doin' that?
+Dialogue: 0,0:08:00.38,0:08:01.78,Dubtitles,,0,0,0,,I got it all!
+Dialogue: 0,0:08:02.28,0:08:03.44,Dubtitles,,0,0,0,,Just in time!
+Dialogue: 0,0:08:03.72,0:08:04.96,Dubtitles,,0,0,0,,It's Saatchi!
+Dialogue: 0,0:08:05.50,0:08:06.48,Dubtitles,,0,0,0,,Let's go!
+Dialogue: 0,0:08:10.82,0:08:12.20,Dubtitles,,0,0,0,,Hand over the boy.
+Dialogue: 0,0:08:12.66,0:08:16.72,Dubtitles,,0,0,0,,He and the Kozuki must be erased\Nfrom this world once and for all.
+Dialogue: 0,0:08:33.90,0:08:36.28,Dubtitles,,0,0,0,,Don't worry. I've got you, my lord.
+Dialogue: 0,0:08:41.66,0:08:42.84,Dubtitles,,0,0,0,,Hey, Momo.
+Dialogue: 0,0:08:44.44,0:08:45.62,Dubtitles,,0,0,0,,Nice speech earlier.
+Dialogue: 0,0:08:46.52,0:08:47.46,Dubtitles,,0,0,0,,You were badass.
+Dialogue: 0,0:08:50.08,0:08:50.96,Dubtitles,,0,0,0,,Scar!
+Dialogue: 0,0:08:51.04,0:08:52.60,Dubtitles,,0,0,0,,Hear me now!
+Dialogue: 0,0:08:53.00,0:08:57.90,Dubtitles,,0,0,0,,I shall become the shogun of Wano!
+Dialogue: 0,0:09:02.00,0:09:04.28,Dubtitles,,0,0,0,,I did my best!
+Dialogue: 0,0:09:05.68,0:09:07.62,Dubtitles,,0,0,0,,All right, Shinobu.
+Dialogue: 0,0:09:07.82,0:09:08.72,Dubtitles,,0,0,0,,Keep him safe.
+Dialogue: 0,0:09:09.46,0:09:10.29,Dubtitles,,0,0,0,,Understood.
+Dialogue: 0,0:09:11.02,0:09:14.64,Dubtitles,,0,0,0,,Scar, I shall repay you! Look!
+Dialogue: 0,0:09:15.00,0:09:16.98,Dubtitles,,0,0,0,,Lord Momonosuke has been saved!
 Dialogue: 0,0:09:18.38,0:09:20.44,Dubtitles,,0,0,0,,You're not going anywhere.
-Dialogue: 0,0:09:20.74,0:09:22.04,Dubtitles,,0,0,0,,Acceleration device!
-Dialogue: 0,0:09:36.36,0:09:37.88,Dubtitles,,0,0,0,,Stealth mode!
-Dialogue: 0,0:09:53.24,0:09:56.58,Dubtitles,,0,0,0,,Shooting star, shoulder kick!
-Dialogue: 0,0:10:16.98,0:10:18.38,Dubtitles,,0,0,0,,Ahhhhhhhh!
-Dialogue: 0,0:10:19.28,0:10:20.11,Dubtitles,,0,0,0,,I'm ready.
-Dialogue: 0,0:10:20.84,0:10:22.24,Dubtitles,,0,0,0,,Ahhhhhhh!
-Dialogue: 0,0:10:23.52,0:10:24.35,Dubtitles,,0,0,0,,Ahhhhh!
-Dialogue: 0,0:10:24.76,0:10:25.59,Dubtitles,,0,0,0,,Ahhhhh!
+Dialogue: 0,0:09:20.72,0:09:22.04,Dubtitles,,0,0,0,,Acceleration device!
+Dialogue: 0,0:09:36.60,0:09:37.86,Dubtitles,,0,0,0,,Stealth mode!
+Dialogue: 0,0:09:53.18,0:09:56.62,Dubtitles,,0,0,0,,Shooting star, silver kick!
+Dialogue: 0,0:10:18.02,0:10:20.30,Dubtitles,,0,0,0,,And two!
 Dialogue: 0,0:10:57.82,0:10:59.04,Dubtitles,,0,0,0,,Whoa, whoa, whoa!
 Dialogue: 0,0:10:59.24,0:11:00.18,Dubtitles,,0,0,0,,Hold up, my guy!
 Dialogue: 0,0:11:00.38,0:11:02.26,Dubtitles,,0,0,0,,I can't feel a losing end here.
-Dialogue: 0,0:11:02.44,0:11:03.30,Dubtitles,,0,0,0,,Knock it off!
-Dialogue: 0,0:11:06.78,0:11:07.61,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:11:07.69,0:11:09.03,Dubtitles,,0,0,0,,Damn it, you bird bastard!
-Dialogue: 0,0:11:11.02,0:11:14.96,Dubtitles,,0,0,0,,You're gonna leave a gigantic hole\Nin my torso if you keep this up!
-Dialogue: 0,0:11:15.10,0:11:18.16,Dubtitles,,0,0,0,,And more than just that,\NI'll rip you in two.
-Dialogue: 0,0:11:18.82,0:11:21.82,Dubtitles,,0,0,0,,If you're so scared, why\Ndon't you disappear again?
-Dialogue: 0,0:11:22.46,0:11:26.80,Dubtitles,,0,0,0,,This might be hard for your bird brain\Nto comprehend, but it's just a trick!
-Dialogue: 0,0:11:26.88,0:11:28.02,Dubtitles,,0,0,0,,Let me go, damn it!
-Dialogue: 0,0:11:28.18,0:11:29.16,Dubtitles,,0,0,0,,Say goodbye. Ah!
-Dialogue: 0,0:11:34.38,0:11:35.38,Dubtitles,,0,0,0,,Sanji, no!
-Dialogue: 0,0:11:41.44,0:11:43.16,Dubtitles,,0,0,0,,That attack was crazy.
-Dialogue: 0,0:11:44.14,0:11:45.79,Dubtitles,,0,0,0,,I think Sanji needs my help.
-Dialogue: 0,0:11:45.90,0:11:48.08,Dubtitles,,0,0,0,,Hey, Yamato, be back in a sec.
-Dialogue: 0,0:11:48.34,0:11:50.00,Dubtitles,,0,0,0,,Keep an eye on Momo for me.
-Dialogue: 0,0:11:50.22,0:11:51.34,Dubtitles,,0,0,0,,Is that okay?
-Dialogue: 0,0:11:51.66,0:11:53.07,Dubtitles,,0,0,0,,Why wouldn't it be okay?
-Dialogue: 0,0:11:53.56,0:11:54.42,Dubtitles,,0,0,0,,Uh, right.
-Dialogue: 0,0:11:54.70,0:11:56.82,Dubtitles,,0,0,0,,You have a point. He...
-Dialogue: 0,0:11:56.90,0:11:58.66,Dubtitles,,0,0,0,,he is my son after all.
-Dialogue: 0,0:12:01.24,0:12:02.64,Dubtitles,,0,0,0,,Then hurry it up.
+Dialogue: 0,0:11:02.46,0:11:03.30,Dubtitles,,0,0,0,,Knock it off!
+Dialogue: 0,0:11:07.38,0:11:08.98,Dubtitles,,0,0,0,,Damn it, you bird bastard!
+Dialogue: 0,0:11:11.04,0:11:14.50,Dubtitles,,0,0,0,,You're gonna leave a gigantic hole\Nin my torso if you keep this up!
+Dialogue: 0,0:11:14.58,0:11:18.16,Dubtitles,,0,0,0,,And more than just that,\NI'll rip you in two.
+Dialogue: 0,0:11:18.78,0:11:21.78,Dubtitles,,0,0,0,,If you're so scared, why\Ndon't you disappear again?
+Dialogue: 0,0:11:22.42,0:11:26.82,Dubtitles,,0,0,0,,This might be hard for your birdbrain\Nto comprehend, but it's just a trick!
+Dialogue: 0,0:11:26.90,0:11:27.98,Dubtitles,,0,0,0,,Let me go, dammit!
+Dialogue: 0,0:11:28.18,0:11:29.14,Dubtitles,,0,0,0,,Say goodbye.
+Dialogue: 0,0:11:34.38,0:11:35.36,Dubtitles,,0,0,0,,Sanji, no!
+Dialogue: 0,0:11:41.48,0:11:43.16,Dubtitles,,0,0,0,,That attack was crazy.
+Dialogue: 0,0:11:43.98,0:11:45.63,Dubtitles,,0,0,0,,I think Sanji needs my help.
+Dialogue: 0,0:11:45.84,0:11:48.08,Dubtitles,,0,0,0,,Hey, Yamato, be back in a sec.
+Dialogue: 0,0:11:48.40,0:11:50.02,Dubtitles,,0,0,0,,Keep an eye on Momo for me.
+Dialogue: 0,0:11:50.26,0:11:51.36,Dubtitles,,0,0,0,,Is that okay?
+Dialogue: 0,0:11:51.68,0:11:53.09,Dubtitles,,0,0,0,,Why wouldn't it be okay?
+Dialogue: 0,0:11:53.76,0:11:54.59,Dubtitles,,0,0,0,,Oh, right.
+Dialogue: 0,0:11:54.68,0:11:55.86,Dubtitles,,0,0,0,,You have a point.
+Dialogue: 0,0:11:56.22,0:11:58.68,Dubtitles,,0,0,0,,He is my son, after all.
+Dialogue: 0,0:12:01.24,0:12:02.62,Dubtitles,,0,0,0,,Then hurry it up.
 Dialogue: 0,0:12:02.80,0:12:04.04,Dubtitles,,0,0,0,,Yeah, leave it to me.
 Dialogue: 0,0:12:04.32,0:12:07.88,Dubtitles,,0,0,0,,That boy will be protected because\Nthat's what good parents do.
-Dialogue: 0,0:12:07.96,0:12:09.68,Dubtitles,,0,0,0,,Hey, I'm not done with you.
-Dialogue: 0,0:12:09.78,0:12:11.26,Dubtitles,,0,0,0,,Wait for me, Momonosuke.
-Dialogue: 0,0:12:11.52,0:12:12.68,Dubtitles,,0,0,0,,Your father is on his way.
-Dialogue: 0,0:12:12.76,0:12:14.60,Dubtitles,,0,0,0,,Wait, stop running away from me.
-Dialogue: 0,0:12:14.68,0:12:16.50,Dubtitles,,0,0,0,,Not so fast, you.
-Dialogue: 0,0:12:20.84,0:12:23.32,Dubtitles,,0,0,0,,Mama, come on out and help Mama.
-Dialogue: 0,0:12:23.98,0:12:27.96,Dubtitles,,0,0,0,,The sooner we get rid of these samurai,\Nthe sooner the feast can begin.
-Dialogue: 0,0:12:28.04,0:12:30.60,Dubtitles,,0,0,0,,You guys want that, don't you?
-Dialogue: 0,0:12:35.20,0:12:37.00,Dubtitles,,0,0,0,,It's time to pay.
-Dialogue: 0,0:12:37.38,0:12:41.46,Dubtitles,,0,0,0,,Remember the wedding, the tea\Nparty, and now this banquet?
-Dialogue: 0,0:12:41.84,0:12:45.38,Dubtitles,,0,0,0,,You've managed to destroy\Neverything I've looked forward to.
-Dialogue: 0,0:12:46.32,0:12:51.12,Dubtitles,,0,0,0,,I am going to destroy you\Nin a spectacular fashion.
-Dialogue: 0,0:12:51.92,0:12:53.56,Dubtitles,,0,0,0,,You will die.
-Dialogue: 0,0:12:54.48,0:12:56.76,Dubtitles,,0,0,0,,Like the worm you are!
-Dialogue: 0,0:12:59.08,0:13:00.38,Dubtitles,,0,0,0,,Eat cocoa!
-Dialogue: 0,0:13:01.38,0:13:02.21,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:13:21.60,0:13:23.80,Dubtitles,,0,0,0,,What the hell was that?
-Dialogue: 0,0:13:33.26,0:13:35.88,Dubtitles,,0,0,0,,That crone is too\Npowerful for her own good.
-Dialogue: 0,0:13:36.10,0:13:39.28,Dubtitles,,0,0,0,,From the stories I've heard, she's\Nnot someone we should take lightly.
-Dialogue: 0,0:13:39.36,0:13:42.54,Dubtitles,,0,0,0,,She's a pirate captain every\Nbit as fearsome as Kaido.
-Dialogue: 0,0:13:43.56,0:13:44.39,Dubtitles,,0,0,0,,Seriously?
-Dialogue: 0,0:13:44.47,0:13:47.72,Dubtitles,,0,0,0,,But if we can't handle one guy, how are\Nwe supposed to handle two of them, huh?
-Dialogue: 0,0:13:47.80,0:13:51.28,Dubtitles,,0,0,0,,Come on, I need to ditch her\Nso I can help Momo and Sanji.
-Dialogue: 0,0:13:51.50,0:13:53.18,Dubtitles,,0,0,0,,If I go to them, she'll follow.
-Dialogue: 0,0:13:53.26,0:13:56.60,Dubtitles,,0,0,0,,And the last thing I want to\Ndo is put them in more danger!
-Dialogue: 0,0:13:56.68,0:13:59.46,Dubtitles,,0,0,0,,Oh, Nami, you're rather\Nslippery, aren't you?
-Dialogue: 0,0:13:59.80,0:14:02.04,Dubtitles,,0,0,0,,You're scurrying right out of the way!
-Dialogue: 0,0:14:02.54,0:14:03.38,Dubtitles,,0,0,0,,Oh, Zeus!
-Dialogue: 0,0:14:09.26,0:14:10.14,Dubtitles,,0,0,0,,Hey, Zeus!
-Dialogue: 0,0:14:10.50,0:14:11.72,Dubtitles,,0,0,0,,Where are you?
-Dialogue: 0,0:14:12.98,0:14:14.80,Dubtitles,,0,0,0,,Get back here! Time to go!
-Dialogue: 0,0:14:15.04,0:14:16.64,Dubtitles,,0,0,0,,Oh, please tell me, what are you doing?
-Dialogue: 0,0:14:16.72,0:14:18.80,Dubtitles,,0,0,0,,Do you see firsthand how bad Mama can get?
-Dialogue: 0,0:14:18.88,0:14:20.17,Dubtitles,,0,0,0,,She's gonna murder us!
-Dialogue: 0,0:14:20.36,0:14:22.06,Dubtitles,,0,0,0,,I'll have to punish you.
-Dialogue: 0,0:14:23.82,0:14:26.76,Dubtitles,,0,0,0,,Now, let's get this thing over with.
-Dialogue: 0,0:14:27.94,0:14:29.14,Dubtitles,,0,0,0,,Yes, Mama.
-Dialogue: 0,0:14:30.06,0:14:30.89,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:14:31.16,0:14:33.00,Dubtitles,,0,0,0,,Do you want to escape with your life?
-Dialogue: 0,0:14:33.08,0:14:34.68,Dubtitles,,0,0,0,,Or have Big Mom kill you?
-Dialogue: 0,0:14:35.68,0:14:37.76,Dubtitles,,0,0,0,,No, but I can't go against Big Mom.
-Dialogue: 0,0:14:38.22,0:14:40.44,Dubtitles,,0,0,0,,That is enough!
-Dialogue: 0,0:14:49.94,0:14:52.92,Dubtitles,,0,0,0,,Give him back, you little cat burglar!
-Dialogue: 0,0:14:57.34,0:14:59.86,Dubtitles,,0,0,0,,Please find it in your\Nheart to forgive me.
-Dialogue: 0,0:14:59.94,0:15:01.24,Dubtitles,,0,0,0,,It's all my fault.
-Dialogue: 0,0:15:01.66,0:15:03.88,Dubtitles,,0,0,0,,I really messed up, Mama.
-Dialogue: 0,0:15:04.10,0:15:06.16,Dubtitles,,0,0,0,,I should have never disobeyed you.
+Dialogue: 0,0:12:07.96,0:12:09.66,Dubtitles,,0,0,0,,Hey, I'm not done with you.
+Dialogue: 0,0:12:09.74,0:12:11.18,Dubtitles,,0,0,0,,Wait for me, Momonosuke.
+Dialogue: 0,0:12:11.26,0:12:13.06,Dubtitles,,0,0,0,,Your father is on his way!
+Dialogue: 0,0:12:13.14,0:12:14.60,Dubtitles,,0,0,0,,Wait, stop running away from me!
+Dialogue: 0,0:12:14.68,0:12:16.48,Dubtitles,,0,0,0,,Not so fast, you.
+Dialogue: 0,0:12:20.68,0:12:23.34,Dubtitles,,0,0,0,,Mama, come on out and help Mama.
+Dialogue: 0,0:12:23.96,0:12:28.14,Dubtitles,,0,0,0,,The sooner we get rid of these samurai,\Nthe sooner the feast can begin.
+Dialogue: 0,0:12:28.50,0:12:30.60,Dubtitles,,0,0,0,,You guys want that, don't you?
+Dialogue: 0,0:12:35.36,0:12:37.02,Dubtitles,,0,0,0,,It's time to pay.
+Dialogue: 0,0:12:37.36,0:12:41.48,Dubtitles,,0,0,0,,Remember the wedding, the tea\Nparty, And now this banquet,
+Dialogue: 0,0:12:41.82,0:12:45.40,Dubtitles,,0,0,0,,you've managed to destroy\Neverything I've looked forward to.
+Dialogue: 0,0:12:46.22,0:12:51.12,Dubtitles,,0,0,0,,I am going to destroy you\Nin a spectacular fashion.
+Dialogue: 0,0:12:51.82,0:12:53.76,Dubtitles,,0,0,0,,You will die.
+Dialogue: 0,0:12:54.58,0:12:56.86,Dubtitles,,0,0,0,,Like the worm you are.
+Dialogue: 0,0:12:59.50,0:13:00.38,Dubtitles,,0,0,0,,Ikaku!
+Dialogue: 0,0:13:01.36,0:13:02.19,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:13:22.02,0:13:23.84,Dubtitles,,0,0,0,,What the hell was that?
+Dialogue: 0,0:13:33.22,0:13:35.90,Dubtitles,,0,0,0,,That crone is too\Npowerful for her own good.
+Dialogue: 0,0:13:36.10,0:13:39.10,Dubtitles,,0,0,0,,From the stories I've heard, she's\Nnot someone we should take lightly.
+Dialogue: 0,0:13:39.18,0:13:42.42,Dubtitles,,0,0,0,,She's a pirate captain, every\Nbit as fearsome as Kaido.
+Dialogue: 0,0:13:42.92,0:13:43.75,Dubtitles,,0,0,0,,Seriously?
+Dialogue: 0,0:13:44.00,0:13:47.72,Dubtitles,,0,0,0,,But if we can't handle one guy, how are\Nwe supposed to handle two of them, huh?
+Dialogue: 0,0:13:47.80,0:13:48.63,Dubtitles,,0,0,0,,Come on.
+Dialogue: 0,0:13:48.71,0:13:51.42,Dubtitles,,0,0,0,,I need to ditch her so I\Ncan help Momo and Sanji.
+Dialogue: 0,0:13:51.50,0:13:53.32,Dubtitles,,0,0,0,,If I go to them, she'll follow.
+Dialogue: 0,0:13:53.44,0:13:56.86,Dubtitles,,0,0,0,,And the last thing I want to\Ndo is put them in more danger.
+Dialogue: 0,0:13:56.94,0:13:59.53,Dubtitles,,0,0,0,,Budnish, you're rather\Nslippery, aren't you?
+Dialogue: 0,0:13:59.80,0:14:02.04,Dubtitles,,0,0,0,,You're scurrying right out of the way.
+Dialogue: 0,0:14:02.52,0:14:03.38,Dubtitles,,0,0,0,,Oh, Zeus.
+Dialogue: 0,0:14:09.24,0:14:11.74,Dubtitles,,0,0,0,,Hey, Zeus, where are you?
+Dialogue: 0,0:14:12.94,0:14:13.77,Dubtitles,,0,0,0,,Ooh!
+Dialogue: 0,0:14:13.85,0:14:14.80,Dubtitles,,0,0,0,,Get back here! Time to go!
+Dialogue: 0,0:14:15.04,0:14:16.64,Dubtitles,,0,0,0,,Come on, please tell\Nme, what are you doing?
+Dialogue: 0,0:14:16.72,0:14:18.76,Dubtitles,,0,0,0,,You say firsthand how bad Mama can get!
+Dialogue: 0,0:14:18.84,0:14:20.13,Dubtitles,,0,0,0,,She's gonna murder us!
+Dialogue: 0,0:14:20.30,0:14:22.06,Dubtitles,,0,0,0,,I'll have to punish you.
+Dialogue: 0,0:14:24.00,0:14:26.76,Dubtitles,,0,0,0,,Now, let's get this thing over with.
+Dialogue: 0,0:14:28.14,0:14:29.14,Dubtitles,,0,0,0,,Yes, Mama.
+Dialogue: 0,0:14:30.20,0:14:31.03,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:14:31.22,0:14:33.00,Dubtitles,,0,0,0,,Do you want to escape with your life?
+Dialogue: 0,0:14:33.08,0:14:34.66,Dubtitles,,0,0,0,,Or have Big Mom kill you?
+Dialogue: 0,0:14:35.70,0:14:37.72,Dubtitles,,0,0,0,,No, but I can't go against Big Mom.
+Dialogue: 0,0:14:37.80,0:14:40.40,Dubtitles,,0,0,0,,That is enough!
+Dialogue: 0,0:14:46.72,0:14:48.20,Dubtitles,,0,0,0,,On me!
+Dialogue: 0,0:14:49.92,0:14:52.92,Dubtitles,,0,0,0,,Give him back, you little cat burglar!
+Dialogue: 0,0:14:57.18,0:14:59.78,Dubtitles,,0,0,0,,Please find it in your\Nheart to forgive me.
+Dialogue: 0,0:14:59.96,0:15:01.20,Dubtitles,,0,0,0,,It's all my fault.
+Dialogue: 0,0:15:01.58,0:15:03.88,Dubtitles,,0,0,0,,I really messed up, Mama.
+Dialogue: 0,0:15:04.08,0:15:06.20,Dubtitles,,0,0,0,,I should have never disobeyed you.
 Dialogue: 0,0:15:07.32,0:15:09.20,Dubtitles,,0,0,0,,Honey, it's all right.
-Dialogue: 0,0:15:09.50,0:15:10.84,Dubtitles,,0,0,0,,Come back home.
-Dialogue: 0,0:15:11.76,0:15:15.40,Dubtitles,,0,0,0,,You can make it up to me by\Ntaking out this little tramp.
+Dialogue: 0,0:15:09.52,0:15:10.84,Dubtitles,,0,0,0,,Come back home.
+Dialogue: 0,0:15:11.80,0:15:15.40,Dubtitles,,0,0,0,,You can make it up to me by\Ntaking out this little tramp.
 Dialogue: 0,0:15:15.82,0:15:18.17,Dubtitles,,0,0,0,,It's the only way you can earn my trust.
-Dialogue: 0,0:15:19.44,0:15:21.98,Dubtitles,,0,0,0,,I will do anything for you, just say it.
-Dialogue: 0,0:15:22.06,0:15:25.06,Dubtitles,,0,0,0,,You want me to cut ties\Nwith the Earth? A Noodle?
-Dialogue: 0,0:15:25.38,0:15:27.46,Dubtitles,,0,0,0,,That's what I like to hear.
-Dialogue: 0,0:15:27.82,0:15:30.52,Dubtitles,,0,0,0,,Now go and make your mama proud.
-Dialogue: 0,0:15:31.46,0:15:33.98,Dubtitles,,0,0,0,,Dun-dun-dun-dun!
-Dialogue: 0,0:15:34.44,0:15:37.68,Dubtitles,,0,0,0,,The time it's blown away!
-Dialogue: 0,0:15:38.68,0:15:40.56,Dubtitles,,0,0,0,,I'm like the wind!
-Dialogue: 0,0:15:40.92,0:15:41.88,Dubtitles,,0,0,0,,Dun-dun!
-Dialogue: 0,0:15:43.88,0:15:46.84,Dubtitles,,0,0,0,,You've only got one\Nchance to make this right.
+Dialogue: 0,0:15:19.48,0:15:22.06,Dubtitles,,0,0,0,,I don't do anything for you, just say it.
+Dialogue: 0,0:15:22.28,0:15:24.99,Dubtitles,,0,0,0,,You want me to cut ties,\Nbut there is no deal.
+Dialogue: 0,0:15:25.44,0:15:27.48,Dubtitles,,0,0,0,,That's what I like to hear.
+Dialogue: 0,0:15:27.82,0:15:30.52,Dubtitles,,0,0,0,,Now go and make your mama proud. Out.
+Dialogue: 0,0:15:31.38,0:15:34.60,Dubtitles,,0,0,0,,Dun-dun-dun-dun. Ow!
+Dialogue: 0,0:15:35.42,0:15:36.25,Dubtitles,,0,0,0,,Time?
+Dialogue: 0,0:15:36.33,0:15:37.62,Dubtitles,,0,0,0,,It's blown away!
+Dialogue: 0,0:15:38.60,0:15:40.52,Dubtitles,,0,0,0,,I'm like the wind!
+Dialogue: 0,0:15:40.92,0:15:41.78,Dubtitles,,0,0,0,,Dun-dun!
+Dialogue: 0,0:15:43.78,0:15:46.84,Dubtitles,,0,0,0,,You've only got one\Nchance to make this right.
 Dialogue: 0,0:15:47.16,0:15:49.60,Dubtitles,,0,0,0,,If you screw this up, you're done for!
-Dialogue: 0,0:15:52.46,0:15:54.76,Dubtitles,,0,0,0,,Soul sensor, activate.
+Dialogue: 0,0:15:52.56,0:15:54.78,Dubtitles,,0,0,0,,Soul sensor, activate.
 Dialogue: 0,0:15:58.80,0:16:01.36,Dubtitles,,0,0,0,,I am really sorry, Nami.
-Dialogue: 0,0:16:01.84,0:16:04.14,Dubtitles,,0,0,0,,I must know, to you at home.
-Dialogue: 0,0:16:04.46,0:16:06.40,Dubtitles,,0,0,0,,You pathetic little coward!
-Dialogue: 0,0:16:06.90,0:16:08.80,Dubtitles,,0,0,0,,I am so over you!
-Dialogue: 0,0:16:09.32,0:16:11.88,Dubtitles,,0,0,0,,My, my, my, my, my!
-Dialogue: 0,0:16:12.20,0:16:13.72,Dubtitles,,0,0,0,,Nobody help me!
-Dialogue: 0,0:16:14.82,0:16:18.04,Dubtitles,,0,0,0,,My brother, I'm by his side.
-Dialogue: 0,0:16:18.12,0:16:20.18,Dubtitles,,0,0,0,,Like a bird we will fly.
-Dialogue: 0,0:16:20.26,0:16:22.52,Dubtitles,,0,0,0,,Saying goodbye.
-Dialogue: 0,0:16:23.26,0:16:25.72,Dubtitles,,0,0,0,,Soaring so high.
-Dialogue: 0,0:16:25.80,0:16:28.08,Dubtitles,,0,0,0,,You'll hear our cry.
-Dialogue: 0,0:16:29.26,0:16:31.30,Dubtitles,,0,0,0,,I'm a tough guy.
-Dialogue: 0,0:16:33.26,0:16:34.82,Dubtitles,,0,0,0,,Born to be free.
-Dialogue: 0,0:16:34.90,0:16:36.90,Dubtitles,,0,0,0,,Go go break.
-Dialogue: 0,0:16:36.98,0:16:37.90,Dubtitles,,0,0,0,,Keep.
-Dialogue: 0,0:16:50.26,0:16:51.09,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:16:53.02,0:16:55.32,Dubtitles,,0,0,0,,Ray, Ray, go away.
-Dialogue: 0,0:17:06.78,0:17:07.61,Dubtitles,,0,0,0,,Whoops!
-Dialogue: 0,0:17:07.69,0:17:09.64,Dubtitles,,0,0,0,,I think I hit something back there.
+Dialogue: 0,0:16:01.78,0:16:04.14,Dubtitles,,0,0,0,,I must know to you at home.
+Dialogue: 0,0:16:04.46,0:16:06.42,Dubtitles,,0,0,0,,You pathetic little coward!
+Dialogue: 0,0:16:06.88,0:16:08.70,Dubtitles,,0,0,0,,I am so over you!
+Dialogue: 0,0:16:09.32,0:16:11.94,Dubtitles,,0,0,0,,Ma-ma-ma-ma-ma!
+Dialogue: 0,0:16:12.22,0:16:13.70,Dubtitles,,0,0,0,,Somebody help me!
+Dialogue: 0,0:16:14.82,0:16:18.20,Dubtitles,,0,0,0,,My brother, I'm by his side.
+Dialogue: 0,0:16:18.50,0:16:22.38,Dubtitles,,0,0,0,,Like a bird we will fly, saying goodbye.
+Dialogue: 0,0:16:23.82,0:16:28.10,Dubtitles,,0,0,0,,Soaring so high, you'll hear our cry.
+Dialogue: 0,0:16:29.12,0:16:31.44,Dubtitles,,0,0,0,,I'm a tough guy
+Dialogue: 0,0:16:32.90,0:16:34.38,Dubtitles,,0,0,0,,Born to be free
+Dialogue: 0,0:16:34.94,0:16:38.32,Dubtitles,,0,0,0,,Go, go, break. Keep
+Dialogue: 0,0:16:53.06,0:16:55.30,Dubtitles,,0,0,0,,Rain, rain, go away.
+Dialogue: 0,0:17:06.86,0:17:09.64,Dubtitles,,0,0,0,,Whoops, I think I hit\Nsomething back there.
 Dialogue: 0,0:17:13.20,0:17:14.44,Dubtitles,,0,0,0,,No biggie.
-Dialogue: 0,0:17:15.40,0:17:17.88,Dubtitles,,0,0,0,,As long as it wasn't a pretty flower.
-Dialogue: 0,0:17:21.28,0:17:22.70,Dubtitles,,0,0,0,,Thanks, Big Bro!
-Dialogue: 0,0:17:26.74,0:17:29.12,Dubtitles,,0,0,0,,Mama, wake up!
-Dialogue: 0,0:17:29.26,0:17:30.48,Dubtitles,,0,0,0,,They're doomed!
-Dialogue: 0,0:17:31.10,0:17:33.96,Dubtitles,,0,0,0,,This is about to get\Nout of hand real fast!
-Dialogue: 0,0:17:36.42,0:17:38.52,Dubtitles,,0,0,0,,He hit her straight in the face!
+Dialogue: 0,0:17:15.40,0:17:17.86,Dubtitles,,0,0,0,,As long as it wasn't a pretty flower.
+Dialogue: 0,0:17:21.22,0:17:22.72,Dubtitles,,0,0,0,,Thanks, big bro!
+Dialogue: 0,0:17:27.20,0:17:29.10,Dubtitles,,0,0,0,,Mama, wake up!
+Dialogue: 0,0:17:29.24,0:17:30.48,Dubtitles,,0,0,0,,They're doomed!
+Dialogue: 0,0:17:31.12,0:17:33.92,Dubtitles,,0,0,0,,This is about to get out quick real fast!
+Dialogue: 0,0:17:36.36,0:17:38.52,Dubtitles,,0,0,0,,He hit her straight in the face!
 Dialogue: 0,0:17:38.70,0:17:39.98,Dubtitles,,0,0,0,,She's gonna flip out!
-Dialogue: 0,0:17:44.36,0:17:45.50,Dubtitles,,0,0,0,,Big Bro!
-Dialogue: 0,0:17:49.14,0:17:50.20,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:17:50.36,0:17:51.34,Dubtitles,,0,0,0,,You're the best.
-Dialogue: 0,0:17:51.60,0:17:52.89,Dubtitles,,0,0,0,,Hey, are you Tia okay?
-Dialogue: 0,0:17:53.22,0:17:54.46,Dubtitles,,0,0,0,,That was crazy.
+Dialogue: 0,0:17:44.30,0:17:45.54,Dubtitles,,0,0,0,,Big bro!
+Dialogue: 0,0:17:49.22,0:17:50.18,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:17:50.38,0:17:51.34,Dubtitles,,0,0,0,,You're the best.
+Dialogue: 0,0:17:51.54,0:17:53.08,Dubtitles,,0,0,0,,Hey, are you T .O .K.?
+Dialogue: 0,0:17:53.16,0:17:54.46,Dubtitles,,0,0,0,,That was crazy.
 Dialogue: 0,0:17:54.98,0:17:56.58,Dubtitles,,0,0,0,,Yeah, it was crazy awesome.
-Dialogue: 0,0:17:57.18,0:17:58.01,Dubtitles,,0,0,0,,Frankie's here.
-Dialogue: 0,0:17:58.09,0:17:59.61,Dubtitles,,0,0,0,,We got this under control.
-Dialogue: 0,0:18:00.98,0:18:01.81,Dubtitles,,0,0,0,,Forward!
-Dialogue: 0,0:18:02.06,0:18:03.35,Dubtitles,,0,0,0,,Show him what you got.
-Dialogue: 0,0:18:09.20,0:18:11.06,Dubtitles,,0,0,0,,Guess we missed the kickoff.
-Dialogue: 0,0:18:11.86,0:18:13.00,Dubtitles,,0,0,0,,Oh, boy.
-Dialogue: 0,0:18:13.54,0:18:18.42,Dubtitles,,0,0,0,,That was quite the entrance they made,\Nbut I have a plan. Can you help out?
-Dialogue: 0,0:18:18.80,0:18:19.63,Dubtitles,,0,0,0,,Of course.
+Dialogue: 0,0:17:57.20,0:17:58.03,Dubtitles,,0,0,0,,Frankie's here.
+Dialogue: 0,0:17:58.11,0:17:59.61,Dubtitles,,0,0,0,,We got this under control.
+Dialogue: 0,0:18:01.06,0:18:01.89,Dubtitles,,0,0,0,,Forward.
+Dialogue: 0,0:18:02.04,0:18:03.33,Dubtitles,,0,0,0,,Show him what you got.
+Dialogue: 0,0:18:09.28,0:18:11.06,Dubtitles,,0,0,0,,Guess we missed the kickoff.
+Dialogue: 0,0:18:11.94,0:18:13.00,Dubtitles,,0,0,0,,Oh, boy.
+Dialogue: 0,0:18:13.60,0:18:15.84,Dubtitles,,0,0,0,,That was quite the entrance they made.
+Dialogue: 0,0:18:16.00,0:18:17.04,Dubtitles,,0,0,0,,But I have a plan.
+Dialogue: 0,0:18:17.12,0:18:19.42,Dubtitles,,0,0,0,,Can you help out? Of course.
 Dialogue: 0,0:18:19.76,0:18:20.88,Dubtitles,,0,0,0,,This should be fun.
-Dialogue: 0,0:18:22.66,0:18:23.74,Dubtitles,,0,0,0,,Wow, nice!
-Dialogue: 0,0:18:23.98,0:18:26.58,Dubtitles,,0,0,0,,Looks like they've got\Nthings covered for now.
-Dialogue: 0,0:18:26.66,0:18:28.40,Dubtitles,,0,0,0,,All right, up I go.
-Dialogue: 0,0:18:28.90,0:18:30.54,Dubtitles,,0,0,0,,Time to help Kin'emon!
-Dialogue: 0,0:18:31.20,0:18:32.18,Dubtitles,,0,0,0,,I'm ready!
-Dialogue: 0,0:18:37.12,0:18:38.32,Dubtitles,,0,0,0,,There you are!
-Dialogue: 0,0:18:40.14,0:18:42.18,Dubtitles,,0,0,0,,I'm so glad I found you!
-Dialogue: 0,0:18:42.66,0:18:44.20,Dubtitles,,0,0,0,,Kozuki Momonosuke!
-Dialogue: 0,0:18:46.68,0:18:48.04,Dubtitles,,0,0,0,,And who are you?
-Dialogue: 0,0:18:55.42,0:18:56.88,Dubtitles,,0,0,0,,Hey, Shinobu!
-Dialogue: 0,0:18:58.32,0:19:00.22,Dubtitles,,0,0,0,,Don't worry, he's our friend!
-Dialogue: 0,0:19:00.56,0:19:02.46,Dubtitles,,0,0,0,,He's gonna help you guys out!
-Dialogue: 0,0:19:02.90,0:19:04.02,Dubtitles,,0,0,0,,An ally?
-Dialogue: 0,0:19:07.48,0:19:10.30,Dubtitles,,0,0,0,,It's safer to be with him\Nthan be by yourselves.
-Dialogue: 0,0:19:13.00,0:19:13.84,Dubtitles,,0,0,0,,See ya!
-Dialogue: 0,0:19:17.80,0:19:19.51,Dubtitles,,0,0,0,,You're a friend of Sir Luffy?
-Dialogue: 0,0:19:19.80,0:19:20.64,Dubtitles,,0,0,0,,I am.
-Dialogue: 0,0:19:24.58,0:19:25.84,Dubtitles,,0,0,0,,Well, good.
+Dialogue: 0,0:18:22.72,0:18:23.72,Dubtitles,,0,0,0,,Ah, nice!
+Dialogue: 0,0:18:23.96,0:18:26.54,Dubtitles,,0,0,0,,Looks like they've got\Nthings covered for now.
+Dialogue: 0,0:18:26.62,0:18:28.40,Dubtitles,,0,0,0,,All right, up I go.
+Dialogue: 0,0:18:28.88,0:18:30.40,Dubtitles,,0,0,0,,Time to help Kin'emon.
+Dialogue: 0,0:18:31.14,0:18:32.18,Dubtitles,,0,0,0,,I'm ready.
+Dialogue: 0,0:18:37.06,0:18:38.32,Dubtitles,,0,0,0,,There you are!
+Dialogue: 0,0:18:40.18,0:18:42.14,Dubtitles,,0,0,0,,I'm so glad I found you!
+Dialogue: 0,0:18:42.68,0:18:44.20,Dubtitles,,0,0,0,,Kozuki Momonosuke!
+Dialogue: 0,0:18:47.12,0:18:48.06,Dubtitles,,0,0,0,,And who are you?
+Dialogue: 0,0:18:55.84,0:18:56.88,Dubtitles,,0,0,0,,Hey, Shinobu!
+Dialogue: 0,0:18:58.48,0:19:00.22,Dubtitles,,0,0,0,,Don't worry, he's our friend.
+Dialogue: 0,0:19:00.66,0:19:03.94,Dubtitles,,0,0,0,,He's gonna help you\Nguys out. Huh? An ally?
+Dialogue: 0,0:19:07.56,0:19:10.38,Dubtitles,,0,0,0,,It's safer to be with him\Nthan be by yourselves.
+Dialogue: 0,0:19:13.08,0:19:13.91,Dubtitles,,0,0,0,,See ya!
+Dialogue: 0,0:19:17.66,0:19:19.46,Dubtitles,,0,0,0,,You're a friend of Sir Luffy?
+Dialogue: 0,0:19:19.78,0:19:20.68,Dubtitles,,0,0,0,,I am.
+Dialogue: 0,0:19:24.48,0:19:25.84,Dubtitles,,0,0,0,,Well, good.
 Dialogue: 0,0:19:26.14,0:19:27.32,Dubtitles,,0,0,0,,Then I'll trust you.
-Dialogue: 0,0:19:27.72,0:19:28.96,Dubtitles,,0,0,0,,What is your name?
-Dialogue: 0,0:19:38.36,0:19:41.88,Dubtitles,,0,0,0,,My name is Kozuki Oden!
-Dialogue: 0,0:19:44.12,0:19:46.62,Dubtitles,,0,0,0,,And I shall protect you!
-Dialogue: 0,0:19:49.48,0:19:51.10,Dubtitles,,0,0,0,,You're my father?
-Dialogue: 0,0:19:51.94,0:19:53.84,Dubtitles,,0,0,0,,Lord Oden!
-Dialogue: 0,0:19:54.10,0:19:58.94,Dubtitles,,0,0,0,,And I shall protect you! You're my father?
-Dialogue: 0,0:20:00.68,0:20:06.64,Dubtitles,,0,0,0,,Hold on, you have breasts and horns,
-Dialogue: 0,0:20:06.98,0:20:09.26,Dubtitles,,0,0,0,,why you're not my father at all!
-Dialogue: 0,0:20:09.52,0:20:13.72,Dubtitles,,0,0,0,,This is highly suspicious,\Nyou must be our foe! What?
-Dialogue: 0,0:20:16.44,0:20:18.30,Dubtitles,,0,0,0,,Smoke escape jutsu!
-Dialogue: 0,0:20:18.46,0:20:21.68,Dubtitles,,0,0,0,,Wait, why are you running away?
-Dialogue: 0,0:20:34.56,0:20:35.94,Dubtitles,,0,0,0,,There's too many of them.
-Dialogue: 0,0:20:36.02,0:20:37.96,Dubtitles,,0,0,0,,We just keep getting bogged down.
-Dialogue: 0,0:20:38.04,0:20:39.14,Dubtitles,,0,0,0,,Yes, you're right.
-Dialogue: 0,0:20:39.22,0:20:41.66,Dubtitles,,0,0,0,,There's no point in\Nfighting these small fries.
-Dialogue: 0,0:20:41.74,0:20:43.16,Dubtitles,,0,0,0,,We need a change of plans.
-Dialogue: 0,0:20:43.24,0:20:45.16,Dubtitles,,0,0,0,,What about the Toby Ropal?
-Dialogue: 0,0:20:45.30,0:20:47.50,Dubtitles,,0,0,0,,Those dinosaur people\Nthat Denjiro mentioned.
-Dialogue: 0,0:20:47.58,0:20:50.50,Dubtitles,,0,0,0,,Might turn the tide if we\Ncould kill some of them.
-Dialogue: 0,0:20:50.58,0:20:52.84,Dubtitles,,0,0,0,,Maybe that's a bit optimistic.
-Dialogue: 0,0:20:53.96,0:20:55.52,Dubtitles,,0,0,0,,But even if we can't win.
-Dialogue: 0,0:20:55.60,0:20:57.01,Dubtitles,,0,0,0,,We can still stall them.
-Dialogue: 0,0:20:58.92,0:21:00.68,Dubtitles,,0,0,0,,Oh, you brutes.
-Dialogue: 0,0:21:00.76,0:21:03.38,Dubtitles,,0,0,0,,It takes some nerve to run me over.
-Dialogue: 0,0:21:04.12,0:21:07.12,Dubtitles,,0,0,0,,Big Mom is about to go berserk. Look
-Dialogue: 0,0:21:07.20,0:21:14.20,Dubtitles,,0,0,0,,at
-Dialogue: 0,0:21:22.62,0:21:23.45,Dubtitles,,0,0,0,,all the
-Dialogue: 0,0:21:23.53,0:21:25.30,Dubtitles,,0,0,0,,Straw Hats lining up.
-Dialogue: 0,0:21:26.78,0:21:29.22,Dubtitles,,0,0,0,,Are you ready to get crushed?
-Dialogue: 0,0:21:32.98,0:21:34.52,Dubtitles,,0,0,0,,Hello, Soul King.
-Dialogue: 0,0:21:35.00,0:21:36.58,Dubtitles,,0,0,0,,It's been quite a while.
-Dialogue: 0,0:21:37.08,0:21:42.68,Dubtitles,,0,0,0,,If nothing else, I applaud your captain\Nfor gathering so many unique creatures.
-Dialogue: 0,0:21:42.98,0:21:43.81,Dubtitles,,0,0,0,,Yo-ho-ho!
-Dialogue: 0,0:21:44.04,0:21:45.81,Dubtitles,,0,0,0,,I see you're a woman of taste.
-Dialogue: 0,0:21:46.68,0:21:47.51,Dubtitles,,0,0,0,,Yeah?
-Dialogue: 0,0:21:47.59,0:21:48.94,Dubtitles,,0,0,0,,You like my iron body, old hag?
-Dialogue: 0,0:21:49.44,0:21:50.64,Dubtitles,,0,0,0,,All right.
-Dialogue: 0,0:21:51.36,0:21:53.94,Dubtitles,,0,0,0,,Then I'll give you a demonstration!
-Dialogue: 0,0:21:57.94,0:21:59.22,Dubtitles,,0,0,0,,Cyborg power!
-Dialogue: 0,0:22:00.40,0:22:01.62,Dubtitles,,0,0,0,,Can't you dig it?
-Dialogue: 0,0:22:05.68,0:22:07.88,Dubtitles,,0,0,0,,I'm one of a kind, baby!
-Dialogue: 0,0:22:08.60,0:22:09.56,Dubtitles,,0,0,0,,Franky, stop!
+Dialogue: 0,0:19:27.62,0:19:28.96,Dubtitles,,0,0,0,,What is your name?
+Dialogue: 0,0:19:32.84,0:19:34.44,Dubtitles,,0,0,0,,Glad you asked!
+Dialogue: 0,0:19:39.26,0:19:42.00,Dubtitles,,0,0,0,,My name is Kozuki Oden!
+Dialogue: 0,0:19:44.34,0:19:46.60,Dubtitles,,0,0,0,,And I shall protect you!
+Dialogue: 0,0:19:49.66,0:19:51.10,Dubtitles,,0,0,0,,You're my father?
+Dialogue: 0,0:19:52.34,0:19:53.90,Dubtitles,,0,0,0,,Lord Odin?
+Dialogue: 0,0:20:00.64,0:20:01.82,Dubtitles,,0,0,0,,Hold on.
+Dialogue: 0,0:20:03.58,0:20:06.64,Dubtitles,,0,0,0,,You have breasts and horns.
+Dialogue: 0,0:20:06.98,0:20:09.20,Dubtitles,,0,0,0,,Why, you're not my father at all.
+Dialogue: 0,0:20:09.50,0:20:11.28,Dubtitles,,0,0,0,,This is highly suspicious.
+Dialogue: 0,0:20:11.66,0:20:13.72,Dubtitles,,0,0,0,,You must be our foe. What?
+Dialogue: 0,0:20:16.56,0:20:21.70,Dubtitles,,0,0,0,,Smoke Escape Jutsu! Wait!\NWhy are you running away?!
+Dialogue: 0,0:20:34.56,0:20:38.44,Dubtitles,,0,0,0,,there's too many of them just\Nkeep getting bogged down yes
+Dialogue: 0,0:20:38.52,0:20:41.90,Dubtitles,,0,0,0,,you're right there's no point\Nin fighting these small fries,
+Dialogue: 0,0:20:41.98,0:20:43.42,Dubtitles,,0,0,0,,we need a change of plans.
+Dialogue: 0,0:20:43.50,0:20:45.14,Dubtitles,,0,0,0,,What about the Toby Ropal?
+Dialogue: 0,0:20:45.30,0:20:47.95,Dubtitles,,0,0,0,,Those dinosaur people\Nthat Denjiro mentioned.
+Dialogue: 0,0:20:48.06,0:20:50.86,Dubtitles,,0,0,0,,Might turn the tide if we\Ncould kill some of them.
+Dialogue: 0,0:20:50.94,0:20:52.86,Dubtitles,,0,0,0,,Maybe that's a bit optimistic.
+Dialogue: 0,0:20:54.00,0:20:56.94,Dubtitles,,0,0,0,,But even if we can't win,\Nwe can still stall them.
+Dialogue: 0,0:20:59.16,0:21:00.76,Dubtitles,,0,0,0,,Oh, you brutes.
+Dialogue: 0,0:21:01.00,0:21:03.36,Dubtitles,,0,0,0,,It takes some nerve to run me over.
+Dialogue: 0,0:21:04.44,0:21:07.44,Dubtitles,,0,0,0,,Big Mom is about to go berserk! Berserk!
+Dialogue: 0,0:21:21.54,0:21:25.28,Dubtitles,,0,0,0,,Look at all the Straw Hats lining up.
+Dialogue: 0,0:21:26.70,0:21:29.22,Dubtitles,,0,0,0,,Are you ready to get crushed?
+Dialogue: 0,0:21:32.90,0:21:34.52,Dubtitles,,0,0,0,,Hello, Soul King.
+Dialogue: 0,0:21:35.02,0:21:36.50,Dubtitles,,0,0,0,,It's been quite a while.
+Dialogue: 0,0:21:36.58,0:21:37.41,Dubtitles,,0,0,0,,Well,
+Dialogue: 0,0:21:37.49,0:21:42.72,Dubtitles,,0,0,0,,if nothing else, I applaud your captain\Nfor gathering so many unique creatures.
+Dialogue: 0,0:21:43.00,0:21:45.60,Dubtitles,,0,0,0,,Yo-ho-ho, I see you're a woman of taste.
+Dialogue: 0,0:21:45.88,0:21:48.94,Dubtitles,,0,0,0,,Yeah, yeah, you like\Nmy iron body, old hag?
+Dialogue: 0,0:21:50.70,0:21:53.98,Dubtitles,,0,0,0,,All right, then I'll\Ngive you a demonstration!
+Dialogue: 0,0:21:58.04,0:21:59.22,Dubtitles,,0,0,0,,Cyborg power!
+Dialogue: 0,0:22:00.68,0:22:01.68,Dubtitles,,0,0,0,,Can't you dig it?
+Dialogue: 0,0:22:05.24,0:22:07.84,Dubtitles,,0,0,0,,Hmm, I'm one of a kind, baby!
+Dialogue: 0,0:22:08.66,0:22:09.54,Dubtitles,,0,0,0,,Franky, stop!
 Dialogue: 0,0:22:09.80,0:22:10.72,Dubtitles,,0,0,0,,Are you crazy?
-Dialogue: 0,0:22:10.98,0:22:11.98,Dubtitles,,0,0,0,,She's an emperor!
-Dialogue: 0,0:22:12.20,0:22:13.06,Dubtitles,,0,0,0,,We gotta run!
-Dialogue: 0,0:22:14.06,0:22:15.40,Dubtitles,,0,0,0,,Is that so?
-Dialogue: 0,0:22:16.80,0:22:18.46,Dubtitles,,0,0,0,,Do we run from emperors?
-Dialogue: 0,0:22:20.62,0:22:21.84,Dubtitles,,0,0,0,,I don't know.
-Dialogue: 0,0:22:22.80,0:22:23.68,Dubtitles,,0,0,0,,Guess we could.
-Dialogue: 0,0:22:24.58,0:22:26.32,Dubtitles,,0,0,0,,But what about our captain?
-Dialogue: 0,0:22:29.16,0:22:31.76,Dubtitles,,0,0,0,,You want him to become\Nking of the pirates?
-Dialogue: 0,0:22:32.10,0:22:33.26,Dubtitles,,0,0,0,,Don't you, Nami?
-Dialogue: 0,0:22:53.84,0:22:55.66,Dubtitles,,0,0,0,,Yikes, they're huge!
-Dialogue: 0,0:22:56.18,0:22:57.77,Dubtitles,,0,0,0,,What in the world are they?
-Dialogue: 0,0:23:03.30,0:23:04.84,Dubtitles,,0,0,0,,Hey! Buzz up!
-Dialogue: 0,0:23:05.18,0:23:07.74,Dubtitles,,0,0,0,,If you're gonna go wild, stay\Nin your own banquet hall!
-Dialogue: 0,0:23:07.82,0:23:09.16,Dubtitles,,0,0,0,,Stupid numbers!
+Dialogue: 0,0:22:10.98,0:22:13.00,Dubtitles,,0,0,0,,She's an emperor, we gotta run!
+Dialogue: 0,0:22:14.02,0:22:15.40,Dubtitles,,0,0,0,,Is that so?
+Dialogue: 0,0:22:16.26,0:22:18.46,Dubtitles,,0,0,0,,Do we run from emperors?
+Dialogue: 0,0:22:21.18,0:22:23.50,Dubtitles,,0,0,0,,I don't know, guess we could.
+Dialogue: 0,0:22:24.42,0:22:26.34,Dubtitles,,0,0,0,,But what about our captain?
+Dialogue: 0,0:22:29.04,0:22:31.74,Dubtitles,,0,0,0,,You want him to become\Nking of the pirates?
+Dialogue: 0,0:22:32.12,0:22:33.40,Dubtitles,,0,0,0,,Don't you know me?
+Dialogue: 0,0:22:49.84,0:22:51.28,Dubtitles,,0,0,0,,Radical spirit!
+Dialogue: 0,0:22:53.74,0:22:54.57,Dubtitles,,0,0,0,,Yikes!
+Dialogue: 0,0:22:54.72,0:22:55.64,Dubtitles,,0,0,0,,They're huge!
+Dialogue: 0,0:22:55.72,0:22:57.34,Dubtitles,,0,0,0,,What in the world are they?
+Dialogue: 0,0:23:01.76,0:23:03.30,Dubtitles,,0,0,0,,Hey, buzz up!
+Dialogue: 0,0:23:03.82,0:23:07.06,Dubtitles,,0,0,0,,If you're gonna go wild, stay\Nin your own banquet hall!
+Dialogue: 0,0:23:07.82,0:23:09.14,Dubtitles,,0,0,0,,Stupid numbers!
 Dialogue: 0,0:23:16.70,0:23:17.53,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:23:17.61,0:23:19.28,Dubtitles,,0,0,0,,They're as big as Oars!
-Dialogue: 0,0:23:19.68,0:23:20.86,Dubtitles,,0,0,0,,They're monsters!
-Dialogue: 0,0:23:22.24,0:23:23.07,Dubtitles,,0,0,0,,Ew!
-Dialogue: 0,0:23:23.15,0:23:25.44,Dubtitles,,0,0,0,,I'm getting mad flashbacks\Nfrom Thriller Park.
-Dialogue: 0,0:23:26.46,0:23:28.88,Dubtitles,,0,0,0,,Ma-ma-ma-ma.
-Dialogue: 0,0:23:28.96,0:23:30.12,Dubtitles,,0,0,0,,Fancy that.
-Dialogue: 0,0:23:30.52,0:23:34.74,Dubtitles,,0,0,0,,Those must be Caesar's failed\Nattempts at recreating ancient giants.
-Dialogue: 0,0:23:35.04,0:23:38.22,Dubtitles,,0,0,0,,No use to me, but it would\Nseem that Kaido loses them.
-Dialogue: 0,0:23:39.26,0:23:40.74,Dubtitles,,0,0,0,,How lovely.
+Dialogue: 0,0:23:17.61,0:23:19.02,Dubtitles,,0,0,0,,They're as big as Oars!
+Dialogue: 0,0:23:19.58,0:23:20.84,Dubtitles,,0,0,0,,They're monsters!
+Dialogue: 0,0:23:21.96,0:23:25.46,Dubtitles,,0,0,0,,Eww, I'm getting mad\Nflashbacks from Thriller Bark.
+Dialogue: 0,0:23:26.92,0:23:28.92,Dubtitles,,0,0,0,,Ma-ma-ma-ma.
+Dialogue: 0,0:23:29.00,0:23:30.16,Dubtitles,,0,0,0,,Fancy that.
+Dialogue: 0,0:23:30.52,0:23:34.78,Dubtitles,,0,0,0,,Those must be Caesar's failed\Nattempts at recreating ancient giants.
+Dialogue: 0,0:23:35.10,0:23:38.28,Dubtitles,,0,0,0,,No use to me, but it would\Nseem that Kaido loses them.
+Dialogue: 0,0:23:39.38,0:23:40.78,Dubtitles,,0,0,0,,How lovely.
 Dialogue: 0,0:23:43.22,0:23:45.84,Dubtitles,,0,0,0,,Is he grabbing what I think he's grabbing?
-Dialogue: 0,0:23:46.10,0:23:47.58,Dubtitles,,0,0,0,,The Brachio tank!
-Dialogue: 0,0:23:48.02,0:23:49.90,Dubtitles,,0,0,0,,Who's stopping Chopper in there?
-Dialogue: 0,0:23:50.26,0:23:52.96,Dubtitles,,0,0,0,,Hey, Monster Face, put that down!
-Dialogue: 0,0:23:53.04,0:23:55.48,Dubtitles,,0,0,0,,or I'm gonna make you.
-Dialogue: 0,0:23:58.86,0:24:00.26,Dubtitles,,0,0,0,,Franky.
-Dialogue: 0,0:24:02.82,0:24:04.22,Dubtitles,,0,0,0,,Radical.
-Dialogue: 0,0:24:06.26,0:24:07.88,Dubtitles,,0,0,0,,Me. I'm free!
-Dialogue: 0,0:24:12.66,0:24:13.49,Dubtitles,,0,0,0,,Sucker!
-Dialogue: 0,0:24:24.66,0:24:28.90,Dubtitles,,0,0,0,,Now that my lasers are\Nupgraded, I'm unstoppable.
-Dialogue: 0,0:24:29.78,0:24:32.84,Dubtitles,,0,0,0,,You should have saved that attack for me.
-Dialogue: 0,0:24:34.86,0:24:37.98,Dubtitles,,0,0,0,,It's too late now, Iron Man.
-Dialogue: 0,0:24:41.84,0:24:43.02,Dubtitles,,0,0,0,,Your hand, madam.
-Dialogue: 0,0:24:43.78,0:24:46.20,Dubtitles,,0,0,0,,Fish Man Jujutsu!
-Dialogue: 0,0:24:46.80,0:24:47.84,Dubtitles,,0,0,0,,Mill floor!
-Dialogue: 0,0:24:54.02,0:24:55.14,Dubtitles,,0,0,0,,Whirlpool!
-Dialogue: 0,0:24:55.96,0:24:57.44,Dubtitles,,0,0,0,,Shoulder throw!
-Dialogue: 0,0:25:03.70,0:25:05.22,Dubtitles,,0,0,0,,And Ophidium!
-Dialogue: 0,0:25:08.06,0:25:10.18,Dubtitles,,0,0,0,,So huge, isn't it?
-Dialogue: 0,0:25:10.42,0:25:13.19,Dubtitles,,0,0,0,,I haven't forgotten what\Nyou did to my fleet.
-Dialogue: 0,0:25:13.42,0:25:16.38,Dubtitles,,0,0,0,,I'll kill you, too! So it is obvious.
-Dialogue: 0,0:25:20.42,0:25:21.25,Dubtitles,,0,0,0,,Ha!
-Dialogue: 0,0:25:21.52,0:25:22.40,Dubtitles,,0,0,0,,Good luck!
-Dialogue: 0,0:25:29.02,0:25:30.32,Dubtitles,,0,0,0,,Nice plan.
-Dialogue: 0,0:25:33.38,0:25:34.21,Dubtitles,,0,0,0,,Ha!
-Dialogue: 0,0:25:34.29,0:25:35.19,Dubtitles,,0,0,0,,Went better than expected.
-Dialogue: 0,0:25:35.56,0:25:38.16,Dubtitles,,0,0,0,,She'll be even angrier when she gets back.
-Dialogue: 0,0:25:39.94,0:25:42.64,Dubtitles,,0,0,0,,You are quite a remarkable woman.
-Dialogue: 0,0:25:43.96,0:25:44.79,Dubtitles,,0,0,0,,Good job!
-Dialogue: 0,0:25:44.87,0:25:46.34,Dubtitles,,0,0,0,,Thanks for the assist.
-Dialogue: 0,0:25:46.60,0:25:48.37,Dubtitles,,0,0,0,,I could have been scrap metal.
-Dialogue: 0,0:25:49.26,0:25:51.46,Dubtitles,,0,0,0,,Then I'm glad we made it in time.
-Dialogue: 0,0:25:52.98,0:25:54.34,Dubtitles,,0,0,0,,And now...
-Dialogue: 0,0:25:58.42,0:26:01.18,Dubtitles,,0,0,0,,the moment you've all been waiting for.
-Dialogue: 0,0:26:11.06,0:26:12.10,Dubtitles,,0,0,0,,Commander Chopper!
-Dialogue: 0,0:26:12.18,0:26:13.84,Dubtitles,,0,0,0,,Got a status report for me?
-Dialogue: 0,0:26:16.20,0:26:18.30,Dubtitles,,0,0,0,,Oh, stop! Wake up! Oh, stop!
-Dialogue: 0,0:26:18.38,0:26:19.32,Dubtitles,,0,0,0,,Put it together!
-Dialogue: 0,0:26:19.48,0:26:21.22,Dubtitles,,0,0,0,,We're getting a call from Franky!
-Dialogue: 0,0:26:21.30,0:26:24.46,Dubtitles,,0,0,0,,Come on! Hey! What\Ngives? You good in there?
-Dialogue: 0,0:26:26.36,0:26:29.76,Dubtitles,,0,0,0,,Yep, couldn't feel better\Nthanks to the Racco tank.
-Dialogue: 0,0:26:32.14,0:26:34.20,Dubtitles,,0,0,0,,You remember our promise, right?
-Dialogue: 0,0:26:36.18,0:26:37.10,Dubtitles,,0,0,0,,Our promise?
-Dialogue: 0,0:26:38.34,0:26:39.63,Dubtitles,,0,0,0,,We were gonna combine!
-Dialogue: 0,0:26:40.20,0:26:41.92,Dubtitles,,0,0,0,,The Iron Pirate, bro!
-Dialogue: 0,0:26:43.14,0:26:44.74,Dubtitles,,0,0,0,,Docking time, baby!
-Dialogue: 0,0:26:45.36,0:26:46.19,Dubtitles,,0,0,0,,I...
-Dialogue: 0,0:26:46.92,0:26:47.98,Dubtitles,,0,0,0,,Pirate?
-Dialogue: 0,0:26:54.22,0:26:55.50,Dubtitles,,0,0,0,,Finally! Woo-hoo!
-Dialogue: 0,0:26:59.92,0:27:01.68,Dubtitles,,0,0,0,,Good, I can see the sky.
-Dialogue: 0,0:27:02.26,0:27:04.80,Dubtitles,,0,0,0,,Okay, I think I can make it up from here.
-Dialogue: 0,0:27:06.94,0:27:08.16,Dubtitles,,0,0,0,,Not so fast!
-Dialogue: 0,0:27:08.66,0:27:10.92,Dubtitles,,0,0,0,,Oh, Master Queen! Go away!
-Dialogue: 0,0:27:11.32,0:27:12.44,Dubtitles,,0,0,0,,I'm taking a break.
-Dialogue: 0,0:27:12.72,0:27:14.02,Dubtitles,,0,0,0,,But it's Straw Hat!
-Dialogue: 0,0:27:14.88,0:27:15.71,Dubtitles,,0,0,0,,Uh-oh.
-Dialogue: 0,0:27:15.79,0:27:16.92,Dubtitles,,0,0,0,,What?! He's here?!
-Dialogue: 0,0:27:19.06,0:27:20.92,Dubtitles,,0,0,0,,And who the hell is that?!
-Dialogue: 0,0:27:21.50,0:27:22.74,Dubtitles,,0,0,0,,Hey there, Zoro!
-Dialogue: 0,0:27:23.12,0:27:24.68,Dubtitles,,0,0,0,,Well, look who it is!
-Dialogue: 0,0:27:24.92,0:27:26.16,Dubtitles,,0,0,0,,Where are you headed?
-Dialogue: 0,0:27:26.40,0:27:28.00,Dubtitles,,0,0,0,,Up to Kaido!
-Dialogue: 0,0:27:28.44,0:27:29.98,Dubtitles,,0,0,0,,I'm coming with you.
-Dialogue: 0,0:27:30.34,0:27:32.12,Dubtitles,,0,0,0,,You're not getting away!
-Dialogue: 0,0:27:40.62,0:27:43.34,Dubtitles,,0,0,0,,What the hell is that thing? It's huge!
-Dialogue: 0,0:27:44.96,0:27:45.79,Dubtitles,,0,0,0,,Ready?
-Dialogue: 0,0:27:48.70,0:27:51.82,Dubtitles,,0,0,0,,Kum Kum Rocket!
-Dialogue: 0,0:27:55.08,0:27:56.66,Dubtitles,,0,0,0,,Good! We got this!
-Dialogue: 0,0:27:56.84,0:27:58.37,Dubtitles,,0,0,0,,You said Kaino's up there?
-Dialogue: 0,0:27:58.50,0:28:01.96,Dubtitles,,0,0,0,,Yeah, I think he's started fighting\Nwith Kinemon's group already!
-Dialogue: 0,0:28:02.04,0:28:03.50,Dubtitles,,0,0,0,,Just a little more!
-Dialogue: 0,0:28:12.28,0:28:13.11,Dubtitles,,0,0,0,,Damn!
-Dialogue: 0,0:28:13.80,0:28:16.68,Dubtitles,,0,0,0,,You ain't gone nowhere on my way!
-Dialogue: 0,0:28:19.78,0:28:20.66,Dubtitles,,0,0,0,,Give up.
-Dialogue: 0,0:28:20.94,0:28:22.50,Dubtitles,,0,0,0,,I control these skies.
-Dialogue: 0,0:28:26.34,0:28:28.96,Dubtitles,,0,0,0,,We're never going to make it\Nwith these bastards hounding us.
-Dialogue: 0,0:28:29.04,0:28:31.45,Dubtitles,,0,0,0,,I just think they'd be guarding the roof!
-Dialogue: 0,0:28:54.92,0:28:57.04,Dubtitles,,0,0,0,,Yeah, that's what I'm talking about!
-Dialogue: 0,0:28:57.20,0:28:58.58,Dubtitles,,0,0,0,,Let's do it!
-Dialogue: 0,0:29:00.78,0:29:01.96,Dubtitles,,0,0,0,,Ducking formation!
-Dialogue: 0,0:29:02.44,0:29:03.88,Dubtitles,,0,0,0,,Ready to combine!
-Dialogue: 0,0:29:12.04,0:29:13.98,Dubtitles,,0,0,0,,Black Rhino: Stand by!
-Dialogue: 0,0:29:15.94,0:29:17.58,Dubtitles,,0,0,0,,Crack your head, activate!
-Dialogue: 0,0:29:18.44,0:29:19.36,Dubtitles,,0,0,0,,Let's do this!
-Dialogue: 0,0:29:21.60,0:29:22.86,Dubtitles,,0,0,0,,Sorry, bros!
-Dialogue: 0,0:29:23.04,0:29:24.50,Dubtitles,,0,0,0,,It's only got one seat!
-Dialogue: 0,0:29:25.90,0:29:26.73,Dubtitles,,0,0,0,,What?!
-Dialogue: 0,0:29:26.81,0:29:27.64,Dubtitles,,0,0,0,,This is a betrayal!
-Dialogue: 0,0:29:28.74,0:29:29.96,Dubtitles,,0,0,0,,Who's that up there?
-Dialogue: 0,0:29:30.18,0:29:32.74,Dubtitles,,0,0,0,,It's Usohachi and Chopper!
-Dialogue: 0,0:29:32.96,0:29:34.25,Dubtitles,,0,0,0,,Are you two all right?
-Dialogue: 0,0:29:34.48,0:29:35.92,Dubtitles,,0,0,0,,Back to the pleasure hall.
+Dialogue: 0,0:23:46.12,0:23:47.60,Dubtitles,,0,0,0,,The Brachio tank!
+Dialogue: 0,0:23:48.06,0:23:49.88,Dubtitles,,0,0,0,,Kusop and Chopper are in there!
+Dialogue: 0,0:23:50.38,0:23:55.52,Dubtitles,,0,0,0,,Hey, Monster Face, put that\Ndown, or I'm gonna make you!
+Dialogue: 0,0:23:59.30,0:24:00.26,Dubtitles,,0,0,0,,Brady!
+Dialogue: 0,0:24:02.94,0:24:03.90,Dubtitles,,0,0,0,,Radical!
+Dialogue: 0,0:24:06.66,0:24:07.62,Dubtitles,,0,0,0,,Me!
+Dialogue: 0,0:24:12.94,0:24:13.90,Dubtitles,,0,0,0,,Talkin'!
+Dialogue: 0,0:24:23.88,0:24:28.90,Dubtitles,,0,0,0,,Now that my lasers are\Nupgraded, I'm unstoppable.
+Dialogue: 0,0:24:29.60,0:24:32.80,Dubtitles,,0,0,0,,You should have saved that attack for me.
+Dialogue: 0,0:24:35.08,0:24:37.94,Dubtitles,,0,0,0,,It's too late now, Iron Man.
+Dialogue: 0,0:24:41.26,0:24:43.02,Dubtitles,,0,0,0,,Your hand, madam.
+Dialogue: 0,0:24:44.42,0:24:46.20,Dubtitles,,0,0,0,,Fishman Jujutsu.
+Dialogue: 0,0:24:46.66,0:24:47.82,Dubtitles,,0,0,0,,Mil Fleurs.
+Dialogue: 0,0:24:55.60,0:24:57.58,Dubtitles,,0,0,0,,Whirlpool, shoulder throw!
+Dialogue: 0,0:25:03.88,0:25:05.28,Dubtitles,,0,0,0,,And Delphinium!
+Dialogue: 0,0:25:08.14,0:25:10.24,Dubtitles,,0,0,0,,Oh, you shouldn't say!
+Dialogue: 0,0:25:10.44,0:25:13.21,Dubtitles,,0,0,0,,I haven't forgotten what\Nyou think of my footy!
+Dialogue: 0,0:25:13.38,0:25:16.38,Dubtitles,,0,0,0,,I'll kill you, too, so it'll happen!
+Dialogue: 0,0:25:20.34,0:25:22.38,Dubtitles,,0,0,0,,Ha! Good luck!
+Dialogue: 0,0:25:28.94,0:25:30.28,Dubtitles,,0,0,0,,Nice plan.
+Dialogue: 0,0:25:33.82,0:25:35.35,Dubtitles,,0,0,0,,Went better than expected.
+Dialogue: 0,0:25:35.52,0:25:38.10,Dubtitles,,0,0,0,,She'll be even angrier when she gets back.
+Dialogue: 0,0:25:39.80,0:25:42.64,Dubtitles,,0,0,0,,You are quite a remarkable woman.
+Dialogue: 0,0:25:43.32,0:25:44.18,Dubtitles,,0,0,0,,Good job!
+Dialogue: 0,0:25:44.82,0:25:46.28,Dubtitles,,0,0,0,,Thanks for the assist.
+Dialogue: 0,0:25:46.62,0:25:48.39,Dubtitles,,0,0,0,,I could have been scrap metal.
+Dialogue: 0,0:25:49.82,0:25:51.76,Dubtitles,,0,0,0,,Then I'm glad we made it in time.
+Dialogue: 0,0:25:52.58,0:25:53.94,Dubtitles,,0,0,0,,And now...
+Dialogue: 0,0:25:58.98,0:26:01.28,Dubtitles,,0,0,0,,the moment you've all been waiting for.
+Dialogue: 0,0:26:10.58,0:26:13.86,Dubtitles,,0,0,0,,Commander Chopper, got\Na status report for me?
+Dialogue: 0,0:26:15.50,0:26:17.86,Dubtitles,,0,0,0,,Oh, stop! Wake up, Usopp!
+Dialogue: 0,0:26:18.48,0:26:19.42,Dubtitles,,0,0,0,,Pull it together!
+Dialogue: 0,0:26:19.50,0:26:21.22,Dubtitles,,0,0,0,,We're getting a call from Franky!
+Dialogue: 0,0:26:21.30,0:26:22.13,Dubtitles,,0,0,0,,Come on!
+Dialogue: 0,0:26:22.22,0:26:24.46,Dubtitles,,0,0,0,,Hey, what gives? You got in there?
+Dialogue: 0,0:26:26.16,0:26:29.84,Dubtitles,,0,0,0,,Yep, couldn't feel better\Nthanks to the Brachio tank.
+Dialogue: 0,0:26:31.64,0:26:34.18,Dubtitles,,0,0,0,,You remember our promise, right?
+Dialogue: 0,0:26:35.82,0:26:37.10,Dubtitles,,0,0,0,,Our promise?
+Dialogue: 0,0:26:37.82,0:26:39.54,Dubtitles,,0,0,0,,We were gonna combine!
+Dialogue: 0,0:26:39.96,0:26:42.00,Dubtitles,,0,0,0,,The Iron Pirate, bro! Go!
+Dialogue: 0,0:26:43.18,0:26:44.72,Dubtitles,,0,0,0,,Docking time, baby!
+Dialogue: 0,0:26:45.66,0:26:46.49,Dubtitles,,0,0,0,,I...
+Dialogue: 0,0:26:47.38,0:26:48.21,Dubtitles,,0,0,0,,Pirate?
+Dialogue: 0,0:26:54.26,0:26:55.09,Dubtitles,,0,0,0,,Finally!
+Dialogue: 0,0:26:59.88,0:27:01.68,Dubtitles,,0,0,0,,Good, I can see the sky.
+Dialogue: 0,0:27:02.38,0:27:04.80,Dubtitles,,0,0,0,,Okay, I think I can make it up from here.
+Dialogue: 0,0:27:06.90,0:27:08.16,Dubtitles,,0,0,0,,Not so fast!
+Dialogue: 0,0:27:08.62,0:27:10.84,Dubtitles,,0,0,0,,Oh, Master Queen! Go away!
+Dialogue: 0,0:27:10.92,0:27:14.12,Dubtitles,,0,0,0,,I'm taking a break, but it's Straw Hat
+Dialogue: 0,0:27:21.14,0:27:26.14,Dubtitles,,0,0,0,,Hey, there's... well, look who\Nit is! Where are you headed?
+Dialogue: 0,0:27:28.50,0:27:29.98,Dubtitles,,0,0,0,,I'm coming with you
+Dialogue: 0,0:27:40.92,0:27:43.34,Dubtitles,,0,0,0,,What the hell is that thing? It's huge!
+Dialogue: 0,0:27:45.08,0:27:45.91,Dubtitles,,0,0,0,,Ready?
+Dialogue: 0,0:27:48.90,0:27:50.10,Dubtitles,,0,0,0,,Kum Kum!
+Dialogue: 0,0:27:51.30,0:27:52.13,Dubtitles,,0,0,0,,Rocket!
+Dialogue: 0,0:27:55.12,0:27:56.66,Dubtitles,,0,0,0,,Good, we got this.
+Dialogue: 0,0:27:56.86,0:27:58.39,Dubtitles,,0,0,0,,You said Kaino's up there?
+Dialogue: 0,0:27:58.50,0:28:02.20,Dubtitles,,0,0,0,,Yeah, I think he started fighting\Nwith Kinemon's group already.
+Dialogue: 0,0:28:02.28,0:28:03.50,Dubtitles,,0,0,0,,Just a little more.
+Dialogue: 0,0:28:12.32,0:28:13.15,Dubtitles,,0,0,0,,Damn!
+Dialogue: 0,0:28:13.76,0:28:16.66,Dubtitles,,0,0,0,,You ain't gone nowhere on my way!
+Dialogue: 0,0:28:19.70,0:28:20.66,Dubtitles,,0,0,0,,Give up.
+Dialogue: 0,0:28:20.92,0:28:22.50,Dubtitles,,0,0,0,,I control these skies.
+Dialogue: 0,0:28:26.10,0:28:29.30,Dubtitles,,0,0,0,,We're never gonna make it with\Nthese bastards hounding us!
+Dialogue: 0,0:28:29.38,0:28:31.50,Dubtitles,,0,0,0,,I think they'd be guarding the roof!
+Dialogue: 0,0:28:41.68,0:28:42.60,Dubtitles,,0,0,0,,Waaaaaah!
+Dialogue: 0,0:28:54.06,0:28:56.54,Dubtitles,,0,0,0,,Yeah, that's what I'm talking about!
+Dialogue: 0,0:28:57.10,0:28:58.58,Dubtitles,,0,0,0,,Let's do it!
+Dialogue: 0,0:28:59.94,0:29:00.77,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:29:00.98,0:29:02.04,Dubtitles,,0,0,0,,Ducking formation!
+Dialogue: 0,0:29:02.92,0:29:03.94,Dubtitles,,0,0,0,,Ready to combine!
+Dialogue: 0,0:29:12.28,0:29:13.96,Dubtitles,,0,0,0,,Black Rino's standing by!
+Dialogue: 0,0:29:16.02,0:29:17.84,Dubtitles,,0,0,0,,Black, your head! Activate!
+Dialogue: 0,0:29:18.34,0:29:19.36,Dubtitles,,0,0,0,,Let's do this!
+Dialogue: 0,0:29:21.76,0:29:22.86,Dubtitles,,0,0,0,,Sorry, bros!
+Dialogue: 0,0:29:22.98,0:29:24.50,Dubtitles,,0,0,0,,It's only got one seat!
+Dialogue: 0,0:29:26.20,0:29:27.58,Dubtitles,,0,0,0,,This is a betrayal!
+Dialogue: 0,0:29:28.78,0:29:29.96,Dubtitles,,0,0,0,,Who's that up there?
+Dialogue: 0,0:29:30.18,0:29:31.34,Dubtitles,,0,0,0,,It's Usohachi!
+Dialogue: 0,0:29:31.66,0:29:32.72,Dubtitles,,0,0,0,,It's your Purimod!
+Dialogue: 0,0:29:32.94,0:29:34.12,Dubtitles,,0,0,0,,Are you two alright?
+Dialogue: 0,0:29:34.40,0:29:35.92,Dubtitles,,0,0,0,,Back to the pleasure hall.
 Dialogue: 0,0:29:36.00,0:29:38.14,Dubtitles,,0,0,0,,You guys really stuck\Nyour necks out for us.
-Dialogue: 0,0:29:38.22,0:29:40.58,Dubtitles,,0,0,0,,We really owe you one. Yeah, sure.
-Dialogue: 0,0:29:40.84,0:29:43.64,Dubtitles,,0,0,0,,But you can thank us later. Yeah, later!
-Dialogue: 0,0:29:43.98,0:29:47.78,Dubtitles,,0,0,0,,Right now, there's a robot\Nthat you've gotta see! E-poo!
-Dialogue: 0,0:30:03.52,0:30:08.04,Dubtitles,,0,0,0,,Iron Pirate: General Franky.
-Dialogue: 0,0:30:13.68,0:30:15.28,Dubtitles,,0,0,0,,Let's rock!
-Dialogue: 0,0:30:16.38,0:30:18.06,Dubtitles,,0,0,0,,Franky Cannon!
-Dialogue: 0,0:30:19.62,0:30:22.00,Dubtitles,,0,0,0,,Why do you have a giant robot?
-Dialogue: 0,0:30:22.46,0:30:23.32,Dubtitles,,0,0,0,,Come on
-Dialogue: 0,0:30:31.66,0:30:35.92,Dubtitles,,0,0,0,,He took out Chaka fast, but\Nthere's bad news. Let's move.
-Dialogue: 0,0:30:36.08,0:30:37.22,Dubtitles,,0,0,0,,We'll just get stopped.
-Dialogue: 0,0:30:37.30,0:30:38.13,Dubtitles,,0,0,0,,Oh, yeah
-Dialogue: 0,0:30:46.24,0:30:48.00,Dubtitles,,0,0,0,,I hope he got away.
-Dialogue: 0,0:30:48.24,0:30:50.59,Dubtitles,,0,0,0,,I hate to say it, but this suit is tough
-Dialogue: 0,0:30:54.78,0:30:55.74,Dubtitles,,0,0,0,,Oh sorry.
+Dialogue: 0,0:29:38.22,0:29:40.58,Dubtitles,,0,0,0,,We really owe you one. Yeah, sure!
+Dialogue: 0,0:29:40.92,0:29:42.51,Dubtitles,,0,0,0,,But you can thank us later!
+Dialogue: 0,0:29:42.78,0:29:43.66,Dubtitles,,0,0,0,,Yeah, later!
+Dialogue: 0,0:29:43.96,0:29:47.94,Dubtitles,,0,0,0,,Right now, there's a robot that\Nyou've got to save! E-Pool!
+Dialogue: 0,0:30:04.38,0:30:05.62,Dubtitles,,0,0,0,,Iron Pirate!
+Dialogue: 0,0:30:06.78,0:30:08.02,Dubtitles,,0,0,0,,General Franky!
+Dialogue: 0,0:30:12.76,0:30:18.10,Dubtitles,,0,0,0,,Chalkie Kicker, let's rock! Friggy Cage!
+Dialogue: 0,0:30:19.86,0:30:21.96,Dubtitles,,0,0,0,,Why do you have a giant robot?
+Dialogue: 0,0:30:22.56,0:30:23.39,Dubtitles,,0,0,0,,Come on!
+Dialogue: 0,0:30:30.24,0:30:33.00,Dubtitles,,0,0,0,,He took out Chalkie fast.
+Dialogue: 0,0:30:33.20,0:30:34.55,Dubtitles,,0,0,0,,That thing is bad news!
+Dialogue: 0,0:30:34.98,0:30:38.08,Dubtitles,,0,0,0,,Let's move, we'll just\Nget stumped. Uh, yeah.
+Dialogue: 0,0:30:46.48,0:30:47.98,Dubtitles,,0,0,0,,I hope he got away.
+Dialogue: 0,0:30:48.30,0:30:50.71,Dubtitles,,0,0,0,,I hate to say it, but this suit is tough.
+Dialogue: 0,0:30:54.14,0:30:55.18,Dubtitles,,0,0,0,,Oh, sorry.
 Dialogue: 0,0:30:55.82,0:30:57.92,Dubtitles,,0,0,0,,This just tickles my funny bone.
-Dialogue: 0,0:30:58.20,0:30:59.54,Dubtitles,,0,0,0,,Look around us.
-Dialogue: 0,0:30:59.78,0:31:01.00,Dubtitles,,0,0,0,,We're outnumbered.
-Dialogue: 0,0:31:01.24,0:31:03.12,Dubtitles,,0,0,0,,Enemies on every side.
-Dialogue: 0,0:31:03.52,0:31:08.02,Dubtitles,,0,0,0,,And yet, for some reason, I\Nfeel like we can't be beat.
+Dialogue: 0,0:30:58.20,0:30:59.52,Dubtitles,,0,0,0,,Look around us.
+Dialogue: 0,0:30:59.76,0:31:03.14,Dubtitles,,0,0,0,,We're outnumbered, enemies on every side,
+Dialogue: 0,0:31:03.46,0:31:08.04,Dubtitles,,0,0,0,,and yet, for some reason, I\Nfeel like we can't be beat.
 Dialogue: 0,0:31:08.28,0:31:09.50,Dubtitles,,0,0,0,,You're damn right.
-Dialogue: 0,0:31:09.66,0:31:11.06,Dubtitles,,0,0,0,,I thought the same thing.
-Dialogue: 0,0:31:11.14,0:31:12.02,Dubtitles,,0,0,0,,I wonder why.
-Dialogue: 0,0:31:12.28,0:31:14.28,Dubtitles,,0,0,0,,Where does this courage come from?
-Dialogue: 0,0:31:14.40,0:31:17.68,Dubtitles,,0,0,0,,When you put it that way,\NI suppose we have Mr.
+Dialogue: 0,0:31:09.66,0:31:10.84,Dubtitles,,0,0,0,,I thought the same thing.
+Dialogue: 0,0:31:10.92,0:31:12.02,Dubtitles,,0,0,0,,I wonder why.
+Dialogue: 0,0:31:12.30,0:31:14.30,Dubtitles,,0,0,0,,Where does this courage come from?
+Dialogue: 0,0:31:14.42,0:31:17.68,Dubtitles,,0,0,0,,When you put it that way,\NI suppose we have Mr.
 Dialogue: 0,0:31:17.84,0:31:19.55,Dubtitles,,0,0,0,,Straw Hat to thank, don't we?
-Dialogue: 0,0:31:22.56,0:31:25.32,Dubtitles,,0,0,0,,Looks like I won't be able\Nto jump up there after all.
-Dialogue: 0,0:31:25.40,0:31:27.60,Dubtitles,,0,0,0,,I guess I need a new plan.
-Dialogue: 0,0:31:27.68,0:31:29.68,Dubtitles,,0,0,0,,I've got your back, Captain.
-Dialogue: 0,0:31:30.62,0:31:31.52,Dubtitles,,0,0,0,,You've got me.
-Dialogue: 0,0:31:31.60,0:31:32.62,Dubtitles,,0,0,0,,Let's head up.
-Dialogue: 0,0:31:35.40,0:31:36.96,Dubtitles,,0,0,0,,This is a damn pain.
-Dialogue: 0,0:31:37.94,0:31:38.86,Dubtitles,,0,0,0,,Bastards were ready.
-Dialogue: 0,0:31:38.94,0:31:40.60,Dubtitles,,0,0,0,,They got the whole swarm up there.
-Dialogue: 0,0:31:40.68,0:31:42.70,Dubtitles,,0,0,0,,They'll be nothing but caterpillars.
-Dialogue: 0,0:31:42.78,0:31:44.36,Dubtitles,,0,0,0,,Once we tear off their wings.
-Dialogue: 0,0:31:44.44,0:31:48.09,Dubtitles,,0,0,0,,I get the sentiment, but do you\Nhave to be so creepy about it?
-Dialogue: 0,0:31:49.56,0:31:53.12,Dubtitles,,0,0,0,,I suppose those dinosaurs are\Nthe fabled lead performers.
-Dialogue: 0,0:31:57.16,0:32:01.64,Dubtitles,,0,0,0,,They look pretty tough, but I'm not\Nworried because our captain's stronger.
+Dialogue: 0,0:31:22.50,0:31:25.54,Dubtitles,,0,0,0,,Looks like I won't be able\Nto jump up there after all.
+Dialogue: 0,0:31:25.62,0:31:27.62,Dubtitles,,0,0,0,,I guess I need a new plan.
+Dialogue: 0,0:31:29.14,0:31:30.50,Dubtitles,,0,0,0,,I've got your back, Captain.
+Dialogue: 0,0:31:30.58,0:31:32.58,Dubtitles,,0,0,0,,You've got me. Let's head up.
+Dialogue: 0,0:31:36.34,0:31:37.82,Dubtitles,,0,0,0,,This is a damn pain.
+Dialogue: 0,0:31:37.90,0:31:39.08,Dubtitles,,0,0,0,,Bastards were ready.
+Dialogue: 0,0:31:39.22,0:31:40.84,Dubtitles,,0,0,0,,They got the whole swarm up there.
+Dialogue: 0,0:31:40.92,0:31:44.58,Dubtitles,,0,0,0,,They'll be nothing but caterpillars,\Nonce we tear off their wings.
+Dialogue: 0,0:31:44.66,0:31:48.31,Dubtitles,,0,0,0,,I get the sentiment, but do you\Nhave to be so creepy about it?
+Dialogue: 0,0:31:49.60,0:31:53.14,Dubtitles,,0,0,0,,I suppose those dinosaurs are\Nthe fabled lead performers.
+Dialogue: 0,0:31:57.20,0:32:01.64,Dubtitles,,0,0,0,,They look pretty tough, but I'm not\Nworried because our captain's stronger.
 Dialogue: 0,0:32:02.00,0:32:02.83,Dubtitles,,0,0,0,,That's right.
-Dialogue: 0,0:32:02.91,0:32:07.52,Dubtitles,,0,0,0,,And as Navigator, it's my duty to\Nhelp him get wherever he needs to go.
-Dialogue: 0,0:32:11.36,0:32:13.07,Dubtitles,,0,0,0,,Don't sweat a thing, brother!
-Dialogue: 0,0:32:13.40,0:32:17.58,Dubtitles,,0,0,0,,General Frankie's gonna clear out\Nthose thugs before you can say super!
-Dialogue: 0,0:32:19.90,0:32:21.43,Dubtitles,,0,0,0,,Everyone's ready, Captain.
-Dialogue: 0,0:32:23.88,0:32:24.71,Dubtitles,,0,0,0,,Right!
-Dialogue: 0,0:32:24.92,0:32:26.30,Dubtitles,,0,0,0,,Time for round two!
-Dialogue: 0,0:32:26.60,0:32:27.58,Dubtitles,,0,0,0,,Let's do it!
-Dialogue: 0,0:32:28.22,0:32:29.05,Dubtitles,,0,0,0,,Samurai!
-Dialogue: 0,0:32:29.40,0:32:30.86,Dubtitles,,0,0,0,,Don't give them an inch!
+Dialogue: 0,0:32:02.91,0:32:07.52,Dubtitles,,0,0,0,,And as navigator, it's my duty to\Nhelp him get wherever he needs to go.
+Dialogue: 0,0:32:11.34,0:32:13.05,Dubtitles,,0,0,0,,Don't sweat a thing, brother!
+Dialogue: 0,0:32:13.42,0:32:17.60,Dubtitles,,0,0,0,,General Frankie's gonna clear out\Nthose thugs before you can say super!
+Dialogue: 0,0:32:20.00,0:32:21.53,Dubtitles,,0,0,0,,Everyone's ready, Captain!
+Dialogue: 0,0:32:24.24,0:32:25.07,Dubtitles,,0,0,0,,Right!
+Dialogue: 0,0:32:25.15,0:32:26.30,Dubtitles,,0,0,0,,Time for round two!
+Dialogue: 0,0:32:26.60,0:32:27.56,Dubtitles,,0,0,0,,Let's do it!
+Dialogue: 0,0:32:28.80,0:32:29.63,Dubtitles,,0,0,0,,Samurai!
+Dialogue: 0,0:32:29.71,0:32:30.86,Dubtitles,,0,0,0,,Don't give them an inch!
 Dialogue: 0,0:32:31.12,0:32:32.80,Dubtitles,,0,0,0,,We're counting on you!
-Dialogue: 0,0:32:47.72,0:32:50.22,Dubtitles,,0,0,0,,You better get ready, Kaido!
-Dialogue: 0,0:32:51.10,0:32:52.88,Dubtitles,,0,0,0,,I'm coming for you!
+Dialogue: 0,0:32:47.80,0:32:50.22,Dubtitles,,0,0,0,,You better get ready, Kaido!
+Dialogue: 0,0:32:51.08,0:32:52.88,Dubtitles,,0,0,0,,I'm coming for you!
+Dialogue: 0,0:33:10.92,0:33:11.75,Dubtitles,,0,0,0,,You
 

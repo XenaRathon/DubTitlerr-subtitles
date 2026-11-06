@@ -25,7 +25,7 @@ Style: Flashbacks-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H780
 Style: Karaoke,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
 Style: Translation,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,15,15,25,1
 Style: Dummy,Duality,105,&H00B35679,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -26115,7 +26115,7 @@ Dialogue: 1,0:00:28.38,0:00:28.42,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-123,-73,
 Dialogue: 1,0:00:28.38,0:00:28.42,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-83,-33,217,717)\an7\pos(912.15,971.12)\frz68.41\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:00:28.38,0:00:28.42,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-43,7,257,757)\an7\pos(971.80,1017.43)\frz41.36\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:28.38,0:00:28.42,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-3,47,297,797)\an7\pos(923.42,1022.06)\frz317.51\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
-Dialogue: 0,0:00:28.40,0:00:29.56,Dubtitles,,0,0,0,,I don't know?
+Dialogue: 0,0:00:28.40,0:00:30.38,Dubtitles,,0,0,0,,I don't know. Shut it.
 Dialogue: 1,0:00:28.42,0:00:28.47,Karaoke,,0,0,0,fx,{\fad(255,0,255,-764,-714,-464,36)\an7\pos(1092.26,80.40)\frz408.87\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:00:28.42,0:00:28.47,Karaoke,,0,0,0,fx,{\fad(255,0,255,-724,-674,-424,76)\an7\pos(888.36,141.38)\frz191.74\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:00:28.42,0:00:28.47,Karaoke,,0,0,0,fx,{\fad(255,0,255,-684,-634,-384,116)\an7\pos(1058.28,-1.59)\frz263.28\bord0\blur1\1c&HCFC9F8&\p1}m -20.75 23.14 b -8.24 -19.15 20.43 -33.84 8.1 33.04 3.17 30.67 -5.13 23.36 -6.82 17.5 -10.18 18.02 -16.69 20.69 -20.05 24.01
@@ -27490,7 +27490,6 @@ Dialogue: 1,0:00:29.63,0:00:29.68,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-234,-184
 Dialogue: 1,0:00:29.63,0:00:29.68,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-194,-144,106,606)\an7\pos(1447.29,991.39)\frz90.36\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:29.63,0:00:29.68,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-154,-104,146,646)\an7\pos(1442.48,1032.29)\frz88.48\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:00:29.63,0:00:29.68,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-114,-64,186,686)\an7\pos(1424.11,1023.94)\frz20.86\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
-Dialogue: 0,0:00:29.64,0:00:30.82,Dubtitles,,0,0,0,,Shut it up.
 Dialogue: 1,0:00:29.68,0:00:29.72,Karaoke,,0,0,0,fx,{\fad(255,0,255,-786,-736,-486,14)\an7\pos(1065.24,19.76)\frz259.15\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:00:29.68,0:00:29.72,Karaoke,,0,0,0,fx,{\fad(255,0,255,-786,-736,-486,14)\an7\pos(1138.92,39.39)\frz81.63\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:00:29.68,0:00:29.72,Karaoke,,0,0,0,fx,{\fad(255,0,255,-786,-736,-486,14)\an7\pos(1074.89,16.27)\frz241.08\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
@@ -88223,43 +88222,35 @@ Dialogue: 1,0:01:23.40,0:01:23.44,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-766,-716
 Dialogue: 1,0:01:23.40,0:01:23.44,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-726,-676,-426,74)\an7\pos(1217.99,1173.53)\frz211.34\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:01:23.44,0:01:23.48,Karaoke,,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1120.42,188.91)\frz101.03\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:01:23.44,0:01:23.48,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-768,-718,-468,32)\an7\pos(1213.93,1177.27)\frz211.49\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
-Dialogue: 0,0:01:24.06,0:01:24.89,Dubtitles,,0,0,0,,Woah—oh—oh—ohhh.
+Dialogue: 0,0:01:28.74,0:01:30.72,Dubtitles,,0,0,0,,Wa-oh-oh-oh-oh!
 Dialogue: 1,0:01:49.71,0:01:57.47,Title-207+,,0,0,0,,{\3c&H000000&\c&H000000&\pos(960,248)\fscx110\fscy110\blur0.6\3a&HFF&\t(0,1484,1.2,\3a&H00&)\t(6573,0,1.2\3a&HFF&)\1a&HFF&\t(1439,1484,\1a&H00&)\t(6573,6618,\1a&HFF&)}ODEN WAS MEANT TO BOIL
 Dialogue: 2,0:01:49.71,0:01:57.51,Title-207+,,0,0,0,,{\pos(960,248)\fscx110\fscy110\bord0\c&HE6E6E6&\alpha&HFF&\t(0,1484,1.2,\alpha&H00&)\t(6573,0,1.2\alpha&HFF&)}ODEN WAS MEANT TO BOIL
 Dialogue: 0,0:02:15.58,0:02:17.94,Dubtitles,,0,0,0,,I had hoped to avoid a battle like this.
 Dialogue: 0,0:02:18.78,0:02:20.96,Dubtitles,,0,0,0,,Why were they so thoroughly prepared?
 Dialogue: 0,0:02:21.16,0:02:23.10,Dubtitles,,0,0,0,,How did they know we were coming?
 Dialogue: 0,0:02:26.48,0:02:30.10,Dubtitles,,0,0,0,,Perhaps I have a spy\Nwithin your castle walls.
-Dialogue: 0,0:02:33.90,0:02:35.96,Dubtitles,,0,0,0,,Since I've just had my mansion built,
-Dialogue: 0,0:02:36.04,0:02:38.52,Dubtitles,,0,0,0,,I'd rather not have it\Nturned into a battleground.
-Dialogue: 0,0:02:38.60,0:02:42.18,Dubtitles,,0,0,0,,So I came all the way out\Nhere to meet you instead.
-Dialogue: 0,0:02:43.64,0:02:46.98,Dubtitles,,0,0,0,,Were you just telling me\Na lie to keep me pacified?
-Dialogue: 0,0:02:47.06,0:02:50.08,Dubtitles,,0,0,0,,Answer me, how clever!
-Dialogue: 0,0:02:52.14,0:02:57.34,Dubtitles,,0,0,0,,A little late though, back then we\Nsensed we were at a major disadvantage;
-Dialogue: 0,0:02:57.42,0:02:59.80,Dubtitles,,0,0,0,,you had just come back home.
-Dialogue: 0,0:02:59.88,0:03:02.54,Dubtitles,,0,0,0,,And we feared if you joined\Nforces with the yoguro,
-Dialogue: 0,0:03:02.62,0:03:05.58,Dubtitles,,0,0,0,,we'd have to deal with the\Nsamurai and yakuza together.
-Dialogue: 0,0:03:05.66,0:03:09.38,Dubtitles,,0,0,0,,Considering we had fewer\Nnumbers at that time,
-Dialogue: 0,0:03:09.46,0:03:11.80,Dubtitles,,0,0,0,,it would have been an\Nuphill battle for our side,
-Dialogue: 0,0:03:11.88,0:03:14.36,Dubtitles,,0,0,0,,especially if you lived\Nup to your fearsome
-Dialogue: 0,0:03:14.44,0:03:17.12,Dubtitles,,0,0,0,,reputation as a madman who doesn't blink.
-Dialogue: 0,0:03:17.20,0:03:23.64,Dubtitles,,0,0,0,,Sacrifice only a fool would\Nrush into those circumstances;
-Dialogue: 0,0:03:23.72,0:03:25.14,Dubtitles,,0,0,0,,luckily for us,
-Dialogue: 0,0:03:25.22,0:03:28.30,Dubtitles,,0,0,0,,we took Orochi's words\Nat face value and chose
-Dialogue: 0,0:03:28.38,0:03:30.54,Dubtitles,,0,0,0,,the path where you thought\Nno one would get hurt.
-Dialogue: 0,0:03:30.62,0:03:35.28,Dubtitles,,0,0,0,,Newgate and Roger were cut from\Nthe same pathetic cloth as you.
-Dialogue: 0,0:03:36.34,0:03:40.90,Dubtitles,,0,0,0,,Mighty pirates but softness is a\Nweakness—look what you've become:
-Dialogue: 0,0:03:40.98,0:03:46.96,Dubtitles,,0,0,0,,A fool who chose to dance, stripped\Nto your loincloth, and mocked by
-Dialogue: 0,0:03:47.04,0:03:52.92,Dubtitles,,0,0,0,,all you've whittled away what little
-Dialogue: 0,0:03:53.00,0:03:55.90,Dubtitles,,0,0,0,,dignity the kozuki clan had left. I
-Dialogue: 0,0:03:55.98,0:04:02.98,Dubtitles,,0,0,0,,still
-Dialogue: 0,0:04:05.28,0:04:06.11,Dubtitles,,0,0,0,,stand
-Dialogue: 0,0:04:06.19,0:04:07.02,Dubtitles,,0,0,0,,by my decision
-Dialogue: 0,0:04:07.11,0:04:07.94,Dubtitles,,0,0,0,,that I made that day;
-Dialogue: 0,0:04:08.02,0:04:09.32,Dubtitles,,0,0,0,,we're here to.
-Dialogue: 0,0:04:09.40,0:04:11.34,Dubtitles,,0,0,0,,to I speak of the future, though!
+Dialogue: 0,0:02:33.90,0:02:37.48,Dubtitles,,0,0,0,,since i've just had my mansion\Nbuilt i'd rather not have it turned
+Dialogue: 0,0:02:37.56,0:02:42.18,Dubtitles,,0,0,0,,into a battleground so i came all\Nthe way out here to meet you instead
+Dialogue: 0,0:02:43.64,0:02:50.08,Dubtitles,,0,0,0,,were you just telling me a lie to\Nkeep me pacified answer me how clever
+Dialogue: 0,0:02:52.14,0:02:58.88,Dubtitles,,0,0,0,,A little late, though. Back then we sensed\Nwe were at a major disadvantage. You
+Dialogue: 0,0:02:58.96,0:03:03.12,Dubtitles,,0,0,0,,had just come back home and we feared if\Nyou joined forces with the yoguro we'd
+Dialogue: 0,0:03:03.20,0:03:08.30,Dubtitles,,0,0,0,,have to deal with the samurai and\Nyakuza together considering we had fewer
+Dialogue: 0,0:03:08.38,0:03:12.68,Dubtitles,,0,0,0,,numbers at that time it would have been\Nan uphill battle for our side especially
+Dialogue: 0,0:03:12.76,0:03:17.12,Dubtitles,,0,0,0,,if you lived up to your fearsome\Nreputation as a madman who doesn't blink
+Dialogue: 0,0:03:17.20,0:03:22.60,Dubtitles,,0,0,0,,Sacrifice only a fool would rush into.
+Dialogue: 0,0:03:22.68,0:03:25.58,Dubtitles,,0,0,0,,those circumstances luckily for us we
+Dialogue: 0,0:03:25.66,0:03:29.70,Dubtitles,,0,0,0,,took Orochi's words at face value and\Nchose the path where you thought no one
+Dialogue: 0,0:03:29.78,0:03:35.28,Dubtitles,,0,0,0,,would get hurt Newgate and Roger were\Ncut from the same pathetic cloth as you
+Dialogue: 0,0:03:36.34,0:03:42.34,Dubtitles,,0,0,0,,mighty pirates but softness is a\Nweakness look what you've become a fool
+Dialogue: 0,0:03:42.42,0:03:45.72,Dubtitles,,0,0,0,,Who chose to dance, stripped to your
+Dialogue: 0,0:03:45.80,0:03:51.96,Dubtitles,,0,0,0,,loincloth and mocked by all you've
+Dialogue: 0,0:03:52.04,0:03:53.80,Dubtitles,,0,0,0,,whittled away what little dignity
+Dialogue: 0,0:03:53.88,0:03:55.90,Dubtitles,,0,0,0,,the kozuki clan had left
+Dialogue: 0,0:03:55.98,0:04:02.98,Dubtitles,,0,0,0,,i
+Dialogue: 0,0:04:05.28,0:04:06.11,Dubtitles,,0,0,0,,still stand
+Dialogue: 0,0:04:06.19,0:04:11.14,Dubtitles,,0,0,0,,By my decision that I made that day.\NWe're here to speak of the future, though!
 Dialogue: 0,0:04:37.46,0:04:40.04,Dubtitles,,0,0,0,,I never realized how\Ntough someone I could be.
-Dialogue: 0,0:04:40.12,0:04:41.06,Dubtitles,,0,0,0,,Don't wimp out!
+Dialogue: 0,0:04:40.12,0:04:41.06,Dubtitles,,0,0,0,,Don't watch out!
 Dialogue: 0,0:04:41.32,0:04:43.61,Dubtitles,,0,0,0,,We have the advantage with our numbers!
 Dialogue: 0,0:04:45.00,0:04:47.10,Dubtitles,,0,0,0,,Follow me! Onward!
 Dialogue: 0,0:04:47.76,0:04:48.59,Dubtitles,,0,0,0,,Hurry!
@@ -88269,7 +88260,7 @@ Dialogue: 0,0:05:08.12,0:05:08.95,Dubtitles,,0,0,0,,What was that?
 Dialogue: 0,0:05:10.12,0:05:10.95,Dubtitles,,0,0,0,,Who's there?
 Dialogue: 0,0:05:11.94,0:05:14.94,Dubtitles,,0,0,0,,I hope you don't mind me\Nstepping in to help a bit.
 Dialogue: 0,0:05:15.14,0:05:18.02,Dubtitles,,0,0,0,,It is sudden, and you\Nprobably don't remember me.
-Dialogue: 0,0:05:18.20,0:05:21.02,Dubtitles,,0,0,0,,I served Lord Tsukiyaki when he was alive.
+Dialogue: 0,0:05:18.20,0:05:21.02,Dubtitles,,0,0,0,,I served Lord Sukiyaki when he was alive.
 Dialogue: 0,0:05:22.42,0:05:24.60,Dubtitles,,0,0,0,,You're Shinobu from the Ninja Legion?
 Dialogue: 0,0:05:26.34,0:05:27.17,Dubtitles,,0,0,0,,Yes!
 Dialogue: 0,0:05:27.25,0:05:28.34,Dubtitles,,0,0,0,,That would be me!
@@ -88280,7 +88271,7 @@ Dialogue: 0,0:05:36.76,0:05:39.41,Dubtitles,,0,0,0,,Fukurokuju chose to ally\Nhi
 Dialogue: 0,0:05:40.58,0:05:44.64,Dubtitles,,0,0,0,,I cannot fault him for losing faith\Nin a foolish lord such as myself.
 Dialogue: 0,0:05:47.76,0:05:51.46,Dubtitles,,0,0,0,,Long have I dreamed of the day that\Nyou take over as Shogun, my lord.
 Dialogue: 0,0:05:51.54,0:05:53.44,Dubtitles,,0,0,0,,I am loyal to the Kozakis.
-Dialogue: 0,0:05:53.92,0:05:56.21,Dubtitles,,0,0,0,,Know we walk the path of thorns, Shura.
+Dialogue: 0,0:05:53.92,0:05:56.21,Dubtitles,,0,0,0,,Know we walk the path of thorns, Shiro.
 Dialogue: 0,0:05:56.46,0:05:57.98,Dubtitles,,0,0,0,,I'm well aware of that.
 Dialogue: 0,0:05:58.24,0:06:00.14,Dubtitles,,0,0,0,,I devote myself entirely.
 Dialogue: 0,0:06:00.48,0:06:01.76,Dubtitles,,0,0,0,,Let's press onward!
@@ -88288,12 +88279,12 @@ Dialogue: 0,0:06:10.12,0:06:13.52,Dubtitles,,0,0,0,,A messenger delivered an uns
 Dialogue: 0,0:06:13.60,0:06:16.34,Dubtitles,,0,0,0,,It read, My wife and\Nchildren are in danger.
 Dialogue: 0,0:06:16.50,0:06:17.50,Dubtitles,,0,0,0,,Please save them.
 Dialogue: 0,0:06:23.74,0:06:25.40,Dubtitles,,0,0,0,,How dare you!
-Dialogue: 0,0:06:27.04,0:06:31.22,Dubtitles,,0,0,0,,Momonosuke... or rather, Lord\NMomonosuke, is already eight.
+Dialogue: 0,0:06:27.04,0:06:31.22,Dubtitles,,0,0,0,,Momonosuke... I mean, Lord\NMomonosuke is already eight.
 Dialogue: 0,0:06:32.06,0:06:35.44,Dubtitles,,0,0,0,,My lady, we should prepare for the work.
-Dialogue: 0,0:06:37.34,0:06:40.36,Dubtitles,,0,0,0,,Odin's defeat would be\Nmore than a simple setback.
+Dialogue: 0,0:06:37.34,0:06:40.36,Dubtitles,,0,0,0,,Odin's defeat would be\Nmore than a simple setback
 Dialogue: 0,0:06:42.30,0:06:44.80,Dubtitles,,0,0,0,,It would be the end of our country.
-Dialogue: 0,0:06:55.04,0:06:57.88,Dubtitles,,0,0,0,,First unit here, they\Nwere too much for us.
-Dialogue: 0,0:06:59.88,0:07:03.82,Dubtitles,,0,0,0,,Sorry sir, we never imagined\NKozuki Odin would be this strong.
+Dialogue: 0,0:06:55.04,0:06:57.88,Dubtitles,,0,0,0,,First unit here, they were too much for us
+Dialogue: 0,0:06:59.88,0:07:03.82,Dubtitles,,0,0,0,,Sorry sir, we never imagined\NKozuki Odin would be this strong
 Dialogue: 0,0:07:05.06,0:07:07.02,Dubtitles,,0,0,0,,What a bunch of weaklings.
 Dialogue: 0,0:07:07.44,0:07:11.48,Dubtitles,,0,0,0,,Thousands of troops versus 11\Nsamurai, and they still can't cut it.
 Dialogue: 0,0:07:11.66,0:07:13.88,Dubtitles,,0,0,0,,How are they giving\Nthem this much trouble?
@@ -88320,19 +88311,18 @@ Dialogue: 1,0:08:34.79,0:08:34.87,Captions-207+,,0,0,0,,{\pos(1710,540)\an5\fnBr
 Dialogue: 2,0:08:34.79,0:08:34.87,Captions-207+,,0,0,0,,{\pos(1710,540)\an5\fnBrush Strokes\fs120\bord0\1c&H580874&\blur1}Totsuka
 Dialogue: 0,0:08:49.74,0:08:52.94,Dubtitles,,0,0,0,,That bastard actually landed\Na hit on Commander Kaido!
 Dialogue: 0,0:09:04.68,0:09:06.52,Dubtitles,,0,0,0,,Time to finish you all!
-Dialogue: 0,0:09:10.86,0:09:11.78,Dubtitles,,0,0,0,,Karoo!!
-Dialogue: 0,0:09:13.98,0:09:14.90,Dubtitles,,0,0,0,,Kaido!!
-Dialogue: 0,0:09:16.00,0:09:18.00,Dubtitles,,0,0,0,,Never come back to Waro!!
-Dialogue: 0,0:09:21.40,0:09:22.32,Dubtitles,,0,0,0,,Father!!
+Dialogue: 0,0:09:06.70,0:09:07.64,Dubtitles,,0,0,0,,Gah!
+Dialogue: 0,0:09:13.26,0:09:14.30,Dubtitles,,0,0,0,,Kaido!
+Dialogue: 0,0:09:16.00,0:09:18.02,Dubtitles,,0,0,0,,Never come back to Wano!
+Dialogue: 0,0:09:21.30,0:09:22.13,Dubtitles,,0,0,0,,Father!
 Dialogue: 0,0:09:23.50,0:09:24.33,Dubtitles,,0,0,0,,Help me!
 Dialogue: 0,0:09:24.41,0:09:25.32,Dubtitles,,0,0,0,,Turn around!
-Dialogue: 0,0:09:25.56,0:09:26.80,Dubtitles,,0,0,0,,He's hurting me!
-Dialogue: 0,0:09:29.28,0:09:30.20,Dubtitles,,0,0,0,,Warmo!!
-Dialogue: 0,0:09:44.08,0:09:45.36,Dubtitles,,0,0,0,,Washington.
-Dialogue: 0,0:09:54.82,0:09:55.65,Dubtitles,,0,0,0,,It's me.
-Dialogue: 0,0:09:58.04,0:10:00.00,Dubtitles,,0,0,0,,Lord Oden.
-Dialogue: 0,0:10:08.28,0:10:10.88,Dubtitles,,0,0,0,,My lord, I failed him.
-Dialogue: 0,0:10:20.90,0:10:24.52,Dubtitles,,0,0,0,,And thus ends the final\Nbattle of Kozuki Oden,
+Dialogue: 0,0:09:25.56,0:09:26.84,Dubtitles,,0,0,0,,He's hurting me!
+Dialogue: 0,0:09:28.24,0:09:29.28,Dubtitles,,0,0,0,,Momo!
+Dialogue: 0,0:09:45.12,0:09:47.74,Dubtitles,,0,0,0,,Kew, kew, kew, kew, kew!
+Dialogue: 0,0:09:59.02,0:09:59.90,Dubtitles,,0,0,0,,Lord Odin!
+Dialogue: 0,0:10:08.28,0:10:10.90,Dubtitles,,0,0,0,,My lord, I failed him.
+Dialogue: 0,0:10:20.90,0:10:24.54,Dubtitles,,0,0,0,,And thus ends the final\Nbattle of Kozuki Oden,
 Dialogue: 0,0:10:24.74,0:10:28.10,Dubtitles,,0,0,0,,who collapsed in defeat\Nbeside his loyal retainers.
 Dialogue: 0,0:10:35.12,0:10:37.64,Dubtitles,,0,0,0,,the battle between the\Nbeast pirates and samurai
 Dialogue: 0,0:10:37.72,0:10:40.52,Dubtitles,,0,0,0,,was so intense that it\Nset the forest of udon
@@ -88352,7 +88342,7 @@ Dialogue: 0,0:11:36.00,0:11:37.44,Dubtitles,,0,0,0,,It's too little too late.
 Dialogue: 0,0:11:37.52,0:11:39.84,Dubtitles,,0,0,0,,So we don't even get to\Nsee his asinine dance
 Dialogue: 0,0:11:39.92,0:11:42.80,Dubtitles,,0,0,0,,anymore But that was the\Nonly thing he was good for.
 Dialogue: 0,0:11:42.88,0:11:44.53,Dubtitles,,0,0,0,,Don't mock the simple-minded
-Dialogue: 0,0:11:45.18,0:11:46.42,Dubtitles,,0,0,0,,Sorry, sorry.
+Dialogue: 0,0:11:45.18,0:11:46.42,Dubtitles,,0,0,0,,Sorry, sorry!
 Dialogue: 0,0:11:52.10,0:11:53.80,Dubtitles,,0,0,0,,I've never seen this woman.
 Dialogue: 0,0:11:56.50,0:11:59.44,Dubtitles,,0,0,0,,How can someone I've\Nnever met be my retainer?
 Dialogue: 0,0:11:59.52,0:12:02.17,Dubtitles,,0,0,0,,Are you making an attempt\Non my life as well?
@@ -88431,7 +88421,7 @@ Dialogue: 0,0:18:02.90,0:18:04.36,Dubtitles,,0,0,0,,We're ready to die!
 Dialogue: 0,0:18:04.54,0:18:05.54,Dubtitles,,0,0,0,,Please, my lord!
 Dialogue: 0,0:18:10.16,0:18:11.28,Dubtitles,,0,0,0,,This is cruel!
 Dialogue: 0,0:18:11.82,0:18:14.11,Dubtitles,,0,0,0,,It's a disgrace to live on without you!
-Dialogue: 0,0:18:15.14,0:18:17.55,Dubtitles,,0,0,0,,My lord, we should be holding you, Karoo!
+Dialogue: 0,0:18:15.14,0:18:17.55,Dubtitles,,0,0,0,,My lord, we should be holding you, Garam!
 Dialogue: 0,0:18:17.74,0:18:18.88,Dubtitles,,0,0,0,,Please, switch with me!
 Dialogue: 0,0:18:18.96,0:18:20.96,Dubtitles,,0,0,0,,You should allow me to go in your stead!
 Dialogue: 0,0:18:21.04,0:18:22.22,Dubtitles,,0,0,0,,Please, Lord Odin!
@@ -88454,12 +88444,12 @@ Dialogue: 0,0:19:33.70,0:19:35.20,Dubtitles,,0,0,0,,He's still standing.
 Dialogue: 0,0:19:35.62,0:19:36.82,Dubtitles,,0,0,0,,His skin is tough.
 Dialogue: 0,0:19:42.44,0:19:45.10,Dubtitles,,0,0,0,,I fear I may faint from this heat alone.
 Dialogue: 0,0:19:45.24,0:19:46.22,Dubtitles,,0,0,0,,I can't take it.
-Dialogue: 0,0:19:46.42,0:19:50.20,Dubtitles,,0,0,0,,You gotta have no right to\Ncomplain, so suck it up, Race.
+Dialogue: 0,0:19:46.42,0:19:50.20,Dubtitles,,0,0,0,,You gotta have no right to\Ncomplain, so suck it up, Ryzo.
 Dialogue: 0,0:19:50.52,0:19:51.44,Dubtitles,,0,0,0,,Sit still.
 Dialogue: 0,0:19:51.74,0:19:53.16,Dubtitles,,0,0,0,,You gotta have it easy.
 Dialogue: 0,0:19:54.52,0:19:56.22,Dubtitles,,0,0,0,,Stop your wiggling, cat.
 Dialogue: 0,0:19:56.48,0:19:58.56,Dubtitles,,0,0,0,,We have to stay balanced up here.
-Dialogue: 0,0:20:05.54,0:20:06.58,Dubtitles,,0,0,0,,Lord Alto.
+Dialogue: 0,0:20:05.54,0:20:06.58,Dubtitles,,0,0,0,,Lord Oden...
 Dialogue: 0,0:20:10.72,0:20:13.42,Dubtitles,,0,0,0,,Man, I thought they were\Nsupposed to burn up instantly.
 Dialogue: 0,0:20:13.50,0:20:15.00,Dubtitles,,0,0,0,,This is taking too long.
 Dialogue: 0,0:20:15.24,0:20:17.16,Dubtitles,,0,0,0,,Shouldn't there be more\Npain and suffering?
@@ -88509,12 +88499,12 @@ Dialogue: 0,0:23:16.48,0:23:20.18,Dubtitles,,0,0,0,,They beat us, threw us in\Nt
 Dialogue: 0,0:23:21.32,0:23:25.80,Dubtitles,,0,0,0,,I was so terrified of this vigilante\Nmob that I couldn't sleep at night.
 Dialogue: 0,0:23:29.06,0:23:31.71,Dubtitles,,0,0,0,,But my grandfather's\Ncrime had been paid for.
 Dialogue: 0,0:23:32.08,0:23:33.28,Dubtitles,,0,0,0,,He was long dead.
-Dialogue: 0,0:23:34.28,0:23:35.86,Dubtitles,,0,0,0,,You'll pay to Nami.
+Dialogue: 0,0:23:34.28,0:23:35.86,Dubtitles,,0,0,0,,You'll pay for Rosamy.
 Dialogue: 0,0:23:36.24,0:23:37.52,Dubtitles,,0,0,0,,We'll kill you all.
 Dialogue: 0,0:23:41.74,0:23:42.57,Dubtitles,,0,0,0,,Aaaaaaahhh!
 Dialogue: 0,0:23:46.62,0:23:47.45,Dubtitles,,0,0,0,,Aaaaaaahhh!
 Dialogue: 0,0:23:47.60,0:23:49.52,Dubtitles,,0,0,0,,Your bloodline is evil!
-Dialogue: 0,0:23:49.82,0:23:51.40,Dubtitles,,0,0,0,,You're a Daimyo killer!
+Dialogue: 0,0:23:49.82,0:23:51.40,Dubtitles,,0,0,0,,You're a daimyo-slayer!
 Dialogue: 0,0:23:54.32,0:23:56.14,Dubtitles,,0,0,0,,It's not my fault!
 Dialogue: 0,0:23:59.00,0:24:00.94,Dubtitles,,0,0,0,,Doesn't matter if you're a child!
 Dialogue: 0,0:24:01.34,0:24:03.63,Dubtitles,,0,0,0,,You're a criminal if you're a Kurozumi!
@@ -88531,7 +88521,7 @@ Dialogue: 0,0:24:54.00,0:24:57.54,Dubtitles,,0,0,0,,Their very humanity was take
 Dialogue: 0,0:25:01.48,0:25:03.44,Dubtitles,,0,0,0,,They became tributes.
 Dialogue: 0,0:25:03.72,0:25:06.32,Dubtitles,,0,0,0,,All given away to Kaido.
 Dialogue: 0,0:25:10.62,0:25:12.62,Dubtitles,,0,0,0,,Oh, those people?
-Dialogue: 0,0:25:13.04,0:25:15.22,Dubtitles,,0,0,0,,They'll be sold and tortured.
+Dialogue: 0,0:25:13.04,0:25:15.22,Dubtitles,,0,0,0,,They'll be sold, toyed with,
 Dialogue: 0,0:25:15.90,0:25:17.44,Dubtitles,,0,0,0,,Some killed, perhaps.
 Dialogue: 0,0:25:21.10,0:25:23.08,Dubtitles,,0,0,0,,Lord Odin was furious.
 Dialogue: 0,0:25:24.00,0:25:27.35,Dubtitles,,0,0,0,,But Orochi has stopped the\Nconflict by making a proposal.
@@ -88544,13 +88534,11 @@ Dialogue: 0,0:25:43.20,0:25:45.02,Dubtitles,,0,0,0,,He was driven by hate.
 Dialogue: 0,0:25:45.22,0:25:46.82,Dubtitles,,0,0,0,,A cruel act of vengeance.
 Dialogue: 0,0:25:47.20,0:25:48.48,Dubtitles,,0,0,0,,By our pain.
 Dialogue: 0,0:25:49.42,0:25:50.70,Dubtitles,,0,0,0,,Win or lose.
-Dialogue: 0,0:25:50.78,0:25:54.24,Dubtitles,,0,0,0,,Orochi would cause unspeakable\Nsuffering to this country.
-Dialogue: 0,0:25:54.32,0:25:56.42,Dubtitles,,0,0,0,,Lord Odin's hand was forced.
-Dialogue: 0,0:25:56.50,0:25:58.56,Dubtitles,,0,0,0,,He had no other choice.
-Dialogue: 0,0:25:59.96,0:26:04.62,Dubtitles,,0,0,0,,He danced like a fool every week\Nas an apology to the Kurozumi clan.
-Dialogue: 0,0:26:05.50,0:26:08.28,Dubtitles,,0,0,0,,He knew by doing so he\Nwould lose his standing.
-Dialogue: 0,0:26:08.36,0:26:09.88,Dubtitles,,0,0,0,,But that didn't matter.
-Dialogue: 0,0:26:09.96,0:26:13.10,Dubtitles,,0,0,0,,He could save 100 lives with each dance.
+Dialogue: 0,0:25:50.78,0:25:54.24,Dubtitles,,0,0,0,,Orochi would cause unspeakable\Nsuffering to this country
+Dialogue: 0,0:25:54.32,0:25:58.56,Dubtitles,,0,0,0,,Lord Odin's hand was forced\NHe had no other choice
+Dialogue: 0,0:25:59.96,0:26:04.62,Dubtitles,,0,0,0,,He danced like a fool every week\Nas an apology to the Kurozumi clan
+Dialogue: 0,0:26:05.50,0:26:09.12,Dubtitles,,0,0,0,,He knew by doing so he would\Nlose his standing But that
+Dialogue: 0,0:26:09.20,0:26:13.10,Dubtitles,,0,0,0,,didn't matter He could save\N100 lives with each dance
 Dialogue: 0,0:26:21.20,0:26:26.28,Dubtitles,,0,0,0,,He trusted Orochi's promise that five years\Nlater, when their ships were finished,
 Dialogue: 0,0:26:26.54,0:26:28.68,Dubtitles,,0,0,0,,they would leave Wano and never return.
 Dialogue: 0,0:26:28.76,0:26:31.12,Dubtitles,,0,0,0,,But he put too much faith in them.
@@ -88584,35 +88572,30 @@ Dialogue: 0,0:28:28.04,0:28:29.88,Dubtitles,,0,0,0,,I beg of you, my lord!
 Dialogue: 0,0:28:32.16,0:28:33.78,Dubtitles,,0,0,0,,Please, my lord!
 Dialogue: 0,0:28:38.30,0:28:39.76,Dubtitles,,0,0,0,,Someone call a doctor!
 Dialogue: 0,0:28:45.58,0:28:46.88,Dubtitles,,0,0,0,,Ha ha ha ha ha!
-Dialogue: 0,0:28:48.82,0:28:49.65,Dubtitles,,0,0,0,,Orochi!
-Dialogue: 0,0:28:51.84,0:28:53.58,Dubtitles,,0,0,0,,They were nothing but scum.
-Dialogue: 0,0:28:53.96,0:28:58.22,Dubtitles,,0,0,0,,It was not only the Shogun's family\Nwho persecuted the Kurozumi clan,
+Dialogue: 0,0:28:48.80,0:28:49.63,Dubtitles,,0,0,0,,Orochi!
+Dialogue: 0,0:28:51.82,0:28:53.62,Dubtitles,,0,0,0,,They were nothing but scuff.
+Dialogue: 0,0:28:53.94,0:28:58.22,Dubtitles,,0,0,0,,It was not only the shogun's family\Nwho persecuted the Kurozumi clan,
 Dialogue: 0,0:28:58.46,0:29:00.26,Dubtitles,,0,0,0,,but the common people as well.
-Dialogue: 0,0:29:01.06,0:29:04.12,Dubtitles,,0,0,0,,So when Orochi turned his ire upon them,
+Dialogue: 0,0:29:01.04,0:29:04.12,Dubtitles,,0,0,0,,So when Orochi turned his ire upon them,
 Dialogue: 0,0:29:04.30,0:29:06.28,Dubtitles,,0,0,0,,they immediately realized what kind of
 Dialogue: 0,0:29:06.36,0:29:09.18,Dubtitles,,0,0,0,,suffering his vengeance\Nmight bring to the land.
-Dialogue: 0,0:29:11.82,0:29:14.82,Dubtitles,,0,0,0,,Meanwhile, thanks to\NShinobu's passionate words,
-Dialogue: 0,0:29:14.90,0:29:18.36,Dubtitles,,0,0,0,,the truth behind Odin's naked\Ndancing spread quickly throughout
-Dialogue: 0,0:29:18.44,0:29:21.64,Dubtitles,,0,0,0,,the city and the hearts of\Nthe people began to change.
-Dialogue: 0,0:29:21.72,0:29:24.38,Dubtitles,,0,0,0,,What then?
-Dialogue: 0,0:29:24.46,0:29:26.28,Dubtitles,,0,0,0,,He was the one who saved us that day.
-Dialogue: 0,0:29:26.36,0:29:33.22,Dubtitles,,0,0,0,,We mocked him for all those\Nyears and he never said a word.
-Dialogue: 0,0:29:33.30,0:29:37.12,Dubtitles,,0,0,0,,He was suffering more than anyone\Nand he carried that all on his own.
-Dialogue: 0,0:29:37.20,0:29:38.54,Dubtitles,,0,0,0,,We're fools.
-Dialogue: 0,0:29:38.62,0:29:39.86,Dubtitles,,0,0,0,,What have we done?
-Dialogue: 0,0:29:42.44,0:29:45.76,Dubtitles,,0,0,0,,From all directions, the\Ncitizens rushed to Odin,
-Dialogue: 0,0:29:45.84,0:29:50.50,Dubtitles,,0,0,0,,knowing now that the daimyo of Conney\Nis not the fool they thought he was.
-Dialogue: 0,0:29:50.58,0:29:55.16,Dubtitles,,0,0,0,,They were filled with regret, and as this\Nbrave samurai stood before their eyes,
-Dialogue: 0,0:29:55.24,0:30:00.18,Dubtitles,,0,0,0,,facing death, they realized that he was the\Nonly hope left for the future of Warner.
-Dialogue: 0,0:30:03.06,0:30:05.56,Dubtitles,,0,0,0,,Lord Odin, you can't leave us!
-Dialogue: 0,0:30:05.64,0:30:08.42,Dubtitles,,0,0,0,,I'm sorry for every wrong\Nthing I said about you.
-Dialogue: 0,0:30:08.50,0:30:11.56,Dubtitles,,0,0,0,,Thank you for keeping\Neveryone safe all these years.
-Dialogue: 0,0:30:17.04,0:30:18.74,Dubtitles,,0,0,0,,It's far too late now.
-Dialogue: 0,0:30:18.82,0:30:21.16,Dubtitles,,0,0,0,,You bunch of brown nosers!
-Dialogue: 0,0:30:22.20,0:30:23.34,Dubtitles,,0,0,0,,Ignore them and just...
-Dialogue: 0,0:30:23.42,0:30:24.40,Dubtitles,,0,0,0,,Thank you everyone.
-Dialogue: 0,0:30:24.48,0:30:26.82,Dubtitles,,0,0,0,,I shall give him my best.
-Dialogue: 0,0:30:26.90,0:30:28.64,Dubtitles,,0,0,0,,He's so honorable.
+Dialogue: 0,0:29:11.78,0:29:14.80,Dubtitles,,0,0,0,,Meanwhile... thanks to\NShinobu's passionate words.
+Dialogue: 0,0:29:14.88,0:29:17.70,Dubtitles,,0,0,0,,the truth behind odin's\Nnaked dancing spread
+Dialogue: 0,0:29:17.78,0:29:19.84,Dubtitles,,0,0,0,,quickly throughout the\Ncity and the hearts of
+Dialogue: 0,0:29:19.92,0:29:25.04,Dubtitles,,0,0,0,,the people began to change\Nwhat then he was the
+Dialogue: 0,0:29:25.12,0:29:30.66,Dubtitles,,0,0,0,,one who saved us that\Nday we mocked him for
+Dialogue: 0,0:29:30.74,0:29:34.08,Dubtitles,,0,0,0,,all those years and he\Nnever said a word he was
+Dialogue: 0,0:29:34.16,0:29:36.16,Dubtitles,,0,0,0,,suffering more than\Nanyone and he carried that
+Dialogue: 0,0:29:36.24,0:29:39.88,Dubtitles,,0,0,0,,all on his own we're\Nfools what have we done
+Dialogue: 0,0:29:42.46,0:29:47.92,Dubtitles,,0,0,0,,from all directions the citizens\Nrushed to odin knowing now that the
+Dialogue: 0,0:29:48.00,0:29:51.44,Dubtitles,,0,0,0,,daimyo of kuni is not the fool they\Nthought he was they were filled with
+Dialogue: 0,0:29:51.52,0:29:55.88,Dubtitles,,0,0,0,,regret and as this brave samurai\Nstood before their eyes facing death
+Dialogue: 0,0:29:55.96,0:30:00.02,Dubtitles,,0,0,0,,they realized that he was the only\Nhope left for the future of warner
+Dialogue: 0,0:30:03.06,0:30:04.16,Dubtitles,,0,0,0,,Lord Odin,
+Dialogue: 0,0:30:04.40,0:30:07.76,Dubtitles,,0,0,0,,you can't leave us I'm sorry\Nfor every wrong thing I said
+Dialogue: 0,0:30:07.84,0:30:11.50,Dubtitles,,0,0,0,,about you Thank you for keeping\Neveryone safe all these years
+Dialogue: 0,0:30:17.04,0:30:21.16,Dubtitles,,0,0,0,,It's far too late now.\NYou bunch of brown nosers.
+Dialogue: 0,0:30:22.20,0:30:28.64,Dubtitles,,0,0,0,,Ignore them and just Thank you everyone I\Nshall give him my best He's so honorable
 Dialogue: 0,0:30:31.56,0:30:33.98,Dubtitles,,0,0,0,,Far from being moved by their pleas,
 Dialogue: 0,0:30:34.42,0:30:38.60,Dubtitles,,0,0,0,,Orochi could not let the people's\Nsudden support of Oden go unpunished.
 Dialogue: 0,0:30:38.98,0:30:43.39,Dubtitles,,0,0,0,,Before they knew it, they were surrounded\Nby Kaido and Orochi subordinates.
@@ -88770,12 +88753,13 @@ Dialogue: 0,0:31:57.62,0:32:00.09,Dubtitles,,0,0,0,,what secrets of the world di
 Dialogue: 0,0:32:02.94,0:32:04.30,Dubtitles,,0,0,0,,Many years ago,
 Dialogue: 0,0:32:04.70,0:32:07.16,Dubtitles,,0,0,0,,the ones who decided\Nthat this country should
 Dialogue: 0,0:32:07.24,0:32:11.00,Dubtitles,,0,0,0,,close its borders were\Nindeed the Kozuki clan.
-Dialogue: 0,0:32:12.92,0:32:18.22,Dubtitles,,0,0,0,,They sought to protect the land of Wano\Nfrom an outside force of overwhelming might.
-Dialogue: 0,0:32:18.30,0:32:23.00,Dubtitles,,0,0,0,,But now this country, or rather the world,
-Dialogue: 0,0:32:23.28,0:32:26.28,Dubtitles,,0,0,0,,awaits the arrival of a\Nfigure of great importance.
-Dialogue: 0,0:32:28.54,0:32:31.98,Dubtitles,,0,0,0,,Once the promised 800 years\Nhave passed, they will appear.
+Dialogue: 0,0:32:12.92,0:32:16.46,Dubtitles,,0,0,0,,They sought to protect the\Nland of Wano from an outside
+Dialogue: 0,0:32:16.54,0:32:20.56,Dubtitles,,0,0,0,,A force of overwhelming\Nmight. But now this country,
+Dialogue: 0,0:32:20.78,0:32:23.00,Dubtitles,,0,0,0,,or rather the world,
+Dialogue: 0,0:32:23.28,0:32:26.22,Dubtitles,,0,0,0,,awaits the arrival of a\Nfigure of great importance
+Dialogue: 0,0:32:28.54,0:32:31.98,Dubtitles,,0,0,0,,Once the promised 800 years\Nhave passed, they will appear
 Dialogue: 0,0:32:32.52,0:32:33.66,Dubtitles,,0,0,0,,And when they do,
-Dialogue: 0,0:32:33.80,0:32:38.00,Dubtitles,,0,0,0,,this country must be welcoming to\Nthem and ready to work by their side.
+Dialogue: 0,0:32:33.80,0:32:38.00,Dubtitles,,0,0,0,,this country must be welcoming to\Nthem and ready to work by their side
 Dialogue: 0,0:32:41.46,0:32:43.56,Dubtitles,,0,0,0,,I will be clear with you.
 Dialogue: 0,0:32:48.86,0:32:51.20,Dubtitles,,0,0,0,,Today will not be a victory,
 Dialogue: 0,0:32:52.36,0:32:55.52,Dubtitles,,0,0,0,,for I am certain that\Nthey are going to kill me.
@@ -88814,10 +88798,10 @@ Dialogue: 0,0:34:59.14,0:35:01.22,Dubtitles,,0,0,0,,Lord Odin wins the name!
 Dialogue: 0,0:35:01.62,0:35:03.92,Dubtitles,,0,0,0,,And his name has been cleared as well!
 Dialogue: 0,0:35:04.00,0:35:07.94,Dubtitles,,0,0,0,,The citizens will surely take his\Nside now that they know the truth
 Dialogue: 0,0:35:08.48,0:35:10.92,Dubtitles,,0,0,0,,Ready for a fight, eh, Kaido?
-Dialogue: 0,0:35:11.40,0:35:14.08,Dubtitles,,0,0,0,,Don't taunt him, stupid cat! Why not?
+Dialogue: 0,0:35:11.40,0:35:14.08,Dubtitles,,0,0,0,,Don't taunt him, you stupid cat! Why not?
 Dialogue: 0,0:35:14.36,0:35:15.42,Dubtitles,,0,0,0,,We won, didn't we?
 Dialogue: 0,0:35:23.82,0:35:26.70,Dubtitles,,0,0,0,,I changed my mind a minute\Nago and decided to go
-Dialogue: 0,0:35:26.78,0:35:29.84,Dubtitles,,0,0,0,,With Death by Firing Squad\Ninstead of the other one!
+Dialogue: 0,0:35:26.78,0:35:29.84,Dubtitles,,0,0,0,,With death by firing squad\Ninstead of the other one.
 Dialogue: 0,0:35:30.98,0:35:33.72,Dubtitles,,0,0,0,,And Odin's not the only\None we're executing!
 Dialogue: 0,0:35:34.30,0:35:36.74,Dubtitles,,0,0,0,,His entire family will be killed as well!
 Dialogue: 0,0:35:40.66,0:35:43.14,Dubtitles,,0,0,0,,A child is excused from a coward!
@@ -88828,7 +88812,7 @@ Dialogue: 0,0:35:54.66,0:35:57.07,Dubtitles,,0,0,0,,We've got plenty of bullets 
 Dialogue: 0,0:36:03.64,0:36:05.28,Dubtitles,,0,0,0,,I'm counting on you.
 Dialogue: 0,0:36:05.48,0:36:06.72,Dubtitles,,0,0,0,,Make me proud!
 Dialogue: 0,0:36:08.24,0:36:11.78,Dubtitles,,0,0,0,,You must open up the land of water!
-Dialogue: 0,0:36:33.32,0:36:34.72,Dubtitles,,0,0,0,,Odward!
+Dialogue: 0,0:36:33.32,0:36:34.72,Dubtitles,,0,0,0,,Oh, ward!
 Dialogue: 0,0:36:35.10,0:36:36.06,Dubtitles,,0,0,0,,To Kuri!
 Dialogue: 0,0:36:39.42,0:36:40.82,Dubtitles,,0,0,0,,Jinbe!
 Dialogue: 0,0:36:46.02,0:36:48.22,Dubtitles,,0,0,0,,Do not look back!
@@ -88843,7 +88827,7 @@ Dialogue: 0,0:37:20.80,0:37:24.80,Dubtitles,,0,0,0,,I'll give you a parting gift
 Dialogue: 0,0:37:26.54,0:37:30.26,Dubtitles,,0,0,0,,It seems the era of\NKozuki is over for good.
 Dialogue: 0,0:37:30.52,0:37:33.02,Dubtitles,,0,0,0,,All of you are dead.
 Dialogue: 0,0:37:34.50,0:37:38.18,Dubtitles,,0,0,0,,You have underestimated my samurai, Kaido.
-Dialogue: 0,0:37:41.92,0:37:43.69,Dubtitles,,0,0,0,,What a lord! I would hate you.
+Dialogue: 0,0:37:41.92,0:37:43.69,Dubtitles,,0,0,0,,What a lord, I would hate you.
 Dialogue: 0,0:37:45.06,0:37:46.62,Dubtitles,,0,0,0,,That food isn't yours.
 Dialogue: 0,0:37:47.74,0:37:48.84,Dubtitles,,0,0,0,,Are you listening?
 Dialogue: 0,0:37:48.92,0:37:49.88,Dubtitles,,0,0,0,,Put that back.
@@ -88861,11 +88845,10 @@ Dialogue: 0,0:39:00.10,0:39:03.16,Dubtitles,,0,0,0,,Because you lent all our\Nmo
 Dialogue: 0,0:39:12.22,0:39:13.34,Dubtitles,,0,0,0,,I've got it!
 Dialogue: 0,0:39:13.88,0:39:16.10,Dubtitles,,0,0,0,,Steal some food and bring it back here!
 Dialogue: 0,0:39:16.18,0:39:18.08,Dubtitles,,0,0,0,,A dino shouldn't say that!
-Dialogue: 0,0:39:24.70,0:39:28.34,Dubtitles,,0,0,0,,Though I'm sure this is\Nnot the end you envisioned,
-Dialogue: 0,0:39:28.42,0:39:32.58,Dubtitles,,0,0,0,,people will speak of your heroic\Ndeath for generations to come.
-Dialogue: 0,0:39:32.66,0:39:35.84,Dubtitles,,0,0,0,,They can call me a hero or a fool.
-Dialogue: 0,0:39:35.92,0:39:39.98,Dubtitles,,0,0,0,,They can even forget me if they so please!
-Dialogue: 0,0:39:40.06,0:39:41.60,Dubtitles,,0,0,0,,But...
+Dialogue: 0,0:39:24.70,0:39:28.34,Dubtitles,,0,0,0,,Though I'm sure this is\Nnot the end you envisioned.
+Dialogue: 0,0:39:28.42,0:39:31.04,Dubtitles,,0,0,0,,people will speak of your heroic death for
+Dialogue: 0,0:39:31.12,0:39:35.54,Dubtitles,,0,0,0,,generations to come they\Ncan call me a hero or a
+Dialogue: 0,0:39:35.62,0:39:41.60,Dubtitles,,0,0,0,,fool they can even forget\Nme if they so please But...
 Dialogue: 0,0:39:45.98,0:39:50.10,Dubtitles,,0,0,0,,No matter what, my spirit will live on!
 Dialogue: 0,0:39:51.80,0:39:54.74,Dubtitles,,0,0,0,,I'm not proud of what\Nhappened with that old hag.
 Dialogue: 0,0:39:54.82,0:39:56.78,Dubtitles,,0,0,0,,Rest assured, she's dead.
@@ -88879,9 +88862,9 @@ Dialogue: 0,0:40:19.88,0:40:25.46,Dubtitles,,0,0,0,,My loyal samurai, Toki,\NMom
 Dialogue: 0,0:40:31.18,0:40:33.52,Dubtitles,,0,0,0,,I go forth.
 Dialogue: 0,0:40:41.46,0:40:43.78,Dubtitles,,0,0,0,,Alden wouldn't be Alden!
 Dialogue: 1,0:40:44.38,0:40:46.05,Captions-207+,,0,0,0,,{\an8\fnArtificeSSK\fscx150\fscy150\bord0\blur0.8\c&H1C2024&\pos(1002,960)\fad(145,0)}Oden was meant
-Dialogue: 0,0:41:15.42,0:41:20.06,Dubtitles,,0,0,0,,Would it be Elrond if\Nit wasn't for Aokiji?
+Dialogue: 0,0:41:15.42,0:41:20.06,Dubtitles,,0,0,0,,Would it be Elrond if\Nit wasn't for at all?
 Dialogue: 1,0:41:15.74,0:41:19.92,Captions-207+,,0,0,0,,{\an8\fnArtificeSSK\fscx150\fscy150\bord1\shad1.5\blur1\c&H403625&\fad(150,0)\pos(975,400)\3c&HDAD6CD&\4c&HDAD6CD&}to boil
 Dialogue: 2,0:41:15.74,0:41:19.92,Captions-207+,,0,0,0,,{\an8\fnArtificeSSK\fscx150\fscy150\bord0\blur1\c&H4E483C&\fad(150,0)\pos(975,400)}to boil
-Dialogue: 0,0:41:36.68,0:41:41.46,Dubtitles,,0,0,0,,Once one legend comes to an\Nend, yet the story continues,
+Dialogue: 0,0:41:36.68,0:41:41.46,Dubtitles,,0,0,0,,Once one legend comes to an\Nend, yet the story continues.
 Dialogue: 0,0:41:41.88,0:41:45.04,Dubtitles,,0,0,0,,carried on by new players on a new stage.
 

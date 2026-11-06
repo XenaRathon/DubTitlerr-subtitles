@@ -11,49 +11,36 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.12,Default,,0,0,0,,We will move to Earth's horizon.
-Dialogue: 0,0:00:03.20,0:00:06.26,Default,,0,0,0,,We will find infinity for sure.
-Dialogue: 0,0:00:06.34,0:00:13.14,Default,,0,0,0,,Let's save all this blue sea and\Nlet the wind Take us far away!
-Dialogue: 0,0:00:13.22,0:00:20.10,Default,,0,0,0,,Don't give up.
-Dialogue: 0,0:00:20.18,0:00:22.94,Default,,0,0,0,,So I can come back to this moment.
-Dialogue: 0,0:00:23.02,0:00:26.08,Default,,0,0,0,,So I can be present right here.
-Dialogue: 0,0:00:26.16,0:00:28.72,Default,,0,0,0,,Throw away this drop.
-Dialogue: 0,0:00:28.80,0:00:30.18,Default,,0,0,0,,Sometimes we share.
-Dialogue: 0,0:00:30.26,0:00:31.26,Default,,0,0,0,,Shut it up!
-Dialogue: 0,0:00:31.34,0:00:34.24,Default,,0,0,0,,Do not be so afraid to podcast.
-Dialogue: 0,0:00:34.32,0:00:36.94,Default,,0,0,0,,To have a friend right here.
-Dialogue: 0,0:00:37.02,0:00:40.32,Default,,0,0,0,,And I will always be here by your side.
-Dialogue: 0,0:00:40.40,0:00:43.48,Default,,0,0,0,,To take care of you.
-Dialogue: 0,0:00:43.56,0:00:46.32,Default,,0,0,0,,Even in the darkest of times.
-Dialogue: 0,0:00:46.40,0:00:48.24,Default,,0,0,0,,I'll try looking brave.
-Dialogue: 0,0:00:48.32,0:00:50.26,Default,,0,0,0,,It's alright now.
-Dialogue: 0,0:00:50.34,0:00:54.02,Default,,0,0,0,,Cause we are the ones who\Nare meant to rule them all.
-Dialogue: 0,0:00:54.10,0:00:56.70,Default,,0,0,0,,We will move to our same horizon.
-Dialogue: 0,0:00:56.78,0:00:59.82,Default,,0,0,0,,We will find insanity for sure.
-Dialogue: 0,0:00:59.90,0:01:02.54,Default,,0,0,0,,We're a world from our head.
-Dialogue: 0,0:01:02.62,0:01:04.46,Default,,0,0,0,,We will win for sure.
-Dialogue: 0,0:01:04.54,0:01:05.52,Default,,0,0,0,,Dreaming on.
-Dialogue: 0,0:01:05.60,0:01:07.94,Default,,0,0,0,,We will move to the worst day horizon.
-Dialogue: 0,0:01:08.02,0:01:10.84,Default,,0,0,0,,We will fight however we can.
-Dialogue: 0,0:01:10.92,0:01:13.76,Default,,0,0,0,,In order to be the best we will run.
-Dialogue: 0,0:01:13.84,0:01:16.48,Default,,0,0,0,,To the top, to the end.
-Dialogue: 0,0:01:16.56,0:01:19.30,Default,,0,0,0,,We gotta be the world.
-Dialogue: 0,0:01:19.38,0:01:22.26,Default,,0,0,0,,Cause just keep dreaming. On.
-Dialogue: 0,0:01:23.10,0:01:25.42,Default,,0,0,0,,I just can't give up now.
-Dialogue: 0,0:01:25.50,0:01:28.28,Default,,0,0,0,,I can never stop. Cause.
-Dialogue: 0,0:01:28.86,0:01:31.62,Default,,0,0,0,,I gotta give everything I got to.
-Dialogue: 0,0:01:31.70,0:01:35.38,Default,,0,0,0,,Think of the greatest of all times.
-Dialogue: 0,0:01:36.22,0:01:39.10,Default,,0,0,0,,We will move towards the horizon.
-Dialogue: 0,0:01:39.18,0:01:42.36,Default,,0,0,0,,We will find infinite fortunes.
-Dialogue: 0,0:01:42.44,0:01:44.64,Default,,0,0,0,,We will step ahead.
-Dialogue: 0,0:01:44.72,0:01:46.70,Default,,0,0,0,,We will wait for sure.
-Dialogue: 0,0:01:46.78,0:01:48.98,Default,,0,0,0,,So keep moving on.
-Dialogue: 0,0:01:56.86,0:01:57.72,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:02:06.50,0:02:08.70,Default,,0,0,0,,Move in and capture Straw Hat Luffy!
+Dialogue: 0,0:00:00.00,0:00:04.56,Default,,0,0,0,,We will move to Earth's\Nhorizon. We will find
+Dialogue: 0,0:00:04.64,0:00:09.42,Default,,0,0,0,,Infinity for sure. Let's\Nsave all this blue sea.
+Dialogue: 0,0:00:09.50,0:00:11.48,Default,,0,0,0,,and let the wind Take
+Dialogue: 0,0:00:11.56,0:00:13.14,Default,,0,0,0,,us far away
+Dialogue: 0,0:00:13.22,0:00:19.58,Default,,0,0,0,,Don't give
+Dialogue: 0,0:00:19.66,0:00:24.28,Default,,0,0,0,,up So I can come back\Nto this moment So I can
+Dialogue: 0,0:00:24.36,0:00:28.72,Default,,0,0,0,,be present right here Throw away this drop
+Dialogue: 0,0:00:28.80,0:00:33.18,Default,,0,0,0,,Sometimes we share. Shut\Nit up. Do not be so afraid.
+Dialogue: 0,0:00:33.26,0:00:37.76,Default,,0,0,0,,to podcast To have a\Nfriend right here And I
+Dialogue: 0,0:00:37.84,0:00:41.98,Default,,0,0,0,,will always be here by\Nyour side To take care
+Dialogue: 0,0:00:42.06,0:00:47.18,Default,,0,0,0,,Of you. Even in the\Ndarkest of times, I'll try
+Dialogue: 0,0:00:47.26,0:00:51.40,Default,,0,0,0,,Looking brave. It's alright\Nnow. Cause we are the
+Dialogue: 0,0:00:51.48,0:00:54.72,Default,,0,0,0,,ones who are meant to\Nrule them all We will
+Dialogue: 0,0:00:54.80,0:00:58.82,Default,,0,0,0,,Move to our same horizon.\NWe will find insanity.
+Dialogue: 0,0:00:58.90,0:01:03.36,Default,,0,0,0,,For sure. We're a world\Nfrom our head. We will
+Dialogue: 0,0:01:03.44,0:01:07.06,Default,,0,0,0,,Win for sure. Dreaming\Non. We will move to the
+Dialogue: 0,0:01:07.14,0:01:10.84,Default,,0,0,0,,Worst day horizon. We\Nwill fight however we can.
+Dialogue: 0,0:01:10.92,0:01:15.20,Default,,0,0,0,,In order to be the best\Nwe will run To the top,
+Dialogue: 0,0:01:15.58,0:01:22.26,Default,,0,0,0,,To the end. We gotta be the world.\NCause just keep dreaming on.
+Dialogue: 0,0:01:23.10,0:01:28.28,Default,,0,0,0,,I just can't give up now.\NI can never stop cause
+Dialogue: 0,0:01:28.86,0:01:35.38,Default,,0,0,0,,I gotta give everything I got to\NThink of the greatest of all times
+Dialogue: 0,0:01:36.22,0:01:42.36,Default,,0,0,0,,We will move towards the horizon\NWe will find infinite fortunes
+Dialogue: 0,0:01:42.44,0:01:48.98,Default,,0,0,0,,We will step ahead. We will wait\Nfor sure. So keep moving on.
+Dialogue: 0,0:01:55.50,0:01:56.33,Default,,0,0,0,,Oh!
+Dialogue: 0,0:01:57.16,0:01:57.99,Default,,0,0,0,,Oh!
+Dialogue: 0,0:02:06.50,0:02:08.68,Default,,0,0,0,,Move in and capture Straw Hat Luffy!
 Dialogue: 0,0:02:11.50,0:02:12.33,Default,,0,0,0,,Bring it on!
-Dialogue: 0,0:02:15.26,0:02:16.66,Default,,0,0,0,,Channel the Hock!
+Dialogue: 0,0:02:15.18,0:02:16.66,Default,,0,0,0,,Channel the Huck!
 Dialogue: 0,0:02:18.50,0:02:19.74,Default,,0,0,0,,Blow through my body!
-Dialogue: 0,0:02:21.08,0:02:22.58,Default,,0,0,0,,I got you!
+Dialogue: 0,0:02:21.00,0:02:22.56,Default,,0,0,0,,I gotcha!
 Dialogue: 0,0:02:29.28,0:02:30.11,Default,,0,0,0,,No!
 Dialogue: 0,0:02:32.42,0:02:34.32,Default,,0,0,0,,I'm gonna send you to hell!
 Dialogue: 0,0:02:43.30,0:02:44.98,Default,,0,0,0,,Man, I was still off!
@@ -69,7 +56,7 @@ Dialogue: 0,0:03:10.54,0:03:12.10,Default,,0,0,0,,Don't screw with me.
 Dialogue: 0,0:03:19.76,0:03:22.08,Default,,0,0,0,,That punch didn't feel right either.
 Dialogue: 0,0:03:23.50,0:03:24.33,Default,,0,0,0,,Come here!
 Dialogue: 0,0:03:25.88,0:03:28.82,Default,,0,0,0,,Need you guys to line up\Nso I can figure this out!
-Dialogue: 0,0:03:29.64,0:03:31.32,Default,,0,0,0,,I'll master Ryo and Knight!
+Dialogue: 0,0:03:29.64,0:03:31.32,Default,,0,0,0,,I'll master Ryo and Nota!
 Dialogue: 0,0:03:31.96,0:03:32.79,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:03:35.94,0:03:38.00,Default,,0,0,0,,That thing gets Mr. Straw Hat down.
 Dialogue: 0,0:03:38.44,0:03:39.54,Default,,0,0,0,,Look at him go!
@@ -80,7 +67,7 @@ Dialogue: 0,0:03:45.28,0:03:46.11,Default,,0,0,0,,Huh?
 Dialogue: 0,0:03:46.19,0:03:47.02,Default,,0,0,0,,Rescue who now?
 Dialogue: 0,0:03:47.14,0:03:48.49,Default,,0,0,0,,Forget about that lady!
 Dialogue: 0,0:03:48.72,0:03:50.42,Default,,0,0,0,,In fact, I'm glad that we lost her!
-Dialogue: 0,0:03:50.50,0:03:52.18,Default,,0,0,0,,Loopy Daddy needs help.
+Dialogue: 0,0:03:50.50,0:03:52.18,Default,,0,0,0,,Loopy Tado needs help.
 Dialogue: 0,0:03:52.46,0:03:53.40,Default,,0,0,0,,Leave her, Kiku.
 Dialogue: 0,0:03:53.72,0:03:57.56,Default,,0,0,0,,Why isn't he trying to run\Nyet? Let's go! All right.
 Dialogue: 0,0:03:58.40,0:04:00.52,Default,,0,0,0,,Warden, what if the prisoners rebel?
@@ -95,7 +82,7 @@ Dialogue: 0,0:04:14.95,0:04:16.21,Default,,0,0,0,,Most of the guards have taken 
 Dialogue: 0,0:04:16.30,0:04:17.30,Default,,0,0,0,,Now's our chance.
 Dialogue: 0,0:04:17.88,0:04:19.42,Default,,0,0,0,,I know what to do.
 Dialogue: 0,0:04:20.04,0:04:22.06,Default,,0,0,0,,One poison drives out another, right?
-Dialogue: 0,0:04:22.14,0:04:23.72,Default,,0,0,0,,Go and get ready, Difugo.
+Dialogue: 0,0:04:22.14,0:04:23.72,Default,,0,0,0,,Go and get ready, Daifugo.
 Dialogue: 0,0:04:23.92,0:04:27.12,Default,,0,0,0,,I'm making the call. Oh, yeah? You sure?
 Dialogue: 0,0:04:27.52,0:04:28.50,Default,,0,0,0,,All right.
 Dialogue: 0,0:04:32.24,0:04:34.50,Default,,0,0,0,,Attention, inmates! Listen up!
@@ -131,7 +118,7 @@ Dialogue: 0,0:06:13.96,0:06:15.00,Default,,0,0,0,,Wise decision.
 Dialogue: 0,0:06:15.38,0:06:17.36,Default,,0,0,0,,You'll obey us if you don't want to die.
 Dialogue: 0,0:06:17.44,0:06:20.22,Default,,0,0,0,,Just let them go, you selfish jerk!
 Dialogue: 0,0:06:20.48,0:06:22.86,Default,,0,0,0,,You're the one who's being selfish! Huh?
-Dialogue: 0,0:06:23.16,0:06:26.76,Default,,0,0,0,,As an outsider from overseas, you\Ncan run and fight all you like.
+Dialogue: 0,0:06:23.16,0:06:26.76,Default,,0,0,0,,As an outsider from overseas, you\Ncan run and fight all you like,
 Dialogue: 0,0:06:26.84,0:06:28.38,Default,,0,0,0,,but that's your choice to make!
 Dialogue: 0,0:06:28.46,0:06:31.50,Default,,0,0,0,,You can't expect us to\Nback you up! We're tired!
 Dialogue: 0,0:06:33.00,0:06:34.88,Default,,0,0,0,,Please, have mercy!
@@ -168,7 +155,7 @@ Dialogue: 0,0:08:18.54,0:08:24.74,Default,,0,0,0,,what does it matter so what if
 Dialogue: 0,0:08:24.82,0:08:30.28,Default,,0,0,0,,explain right now but trust me i can fix\Nthings for you say your prayers Straw Hat
 Dialogue: 0,0:08:36.66,0:08:37.94,Default,,0,0,0,,Don't hold back.
 Dialogue: 0,0:08:38.12,0:08:43.16,Default,,0,0,0,,Straw Hat Boy, be their beacon of hope.\NLet them know the fire of rebellion.
-Dialogue: 0,0:08:43.24,0:08:48.96,Default,,0,0,0,,Still burns. We've been given one\Nlast chance. Kaido can be defeated
+Dialogue: 0,0:08:43.24,0:08:48.96,Default,,0,0,0,,Still burns. We've been given one\Nlast chance. Kaido can be defeated.
 Dialogue: 0,0:08:53.68,0:08:57.18,Default,,0,0,0,,I heard a voice coming from\Nthe never-opening cell Guess
 Dialogue: 0,0:08:57.26,0:09:00.52,Default,,0,0,0,,he's still kicking after all\NThere's a person in there?
 Dialogue: 0,0:09:00.66,0:09:02.13,Default,,0,0,0,,I thought it was a beast.
@@ -212,13 +199,13 @@ Dialogue: 0,0:11:11.02,0:11:12.24,Default,,0,0,0,,Everyone ready?
 Dialogue: 0,0:11:14.10,0:11:15.72,Default,,0,0,0,,Here I go!
 Dialogue: 0,0:11:19.04,0:11:19.88,Default,,0,0,0,,Akariwa!
 Dialogue: 0,0:11:22.08,0:11:22.91,Default,,0,0,0,,Ah!
-Dialogue: 0,0:11:27.34,0:11:29.14,Default,,0,0,0,,Oh, what the hell?
-Dialogue: 0,0:11:29.62,0:11:31.36,Default,,0,0,0,,Still just as tough.
+Dialogue: 0,0:11:27.88,0:11:29.14,Default,,0,0,0,,What the hell?
+Dialogue: 0,0:11:29.70,0:11:31.36,Default,,0,0,0,,Still just as tough.
 Dialogue: 0,0:11:31.86,0:11:35.68,Default,,0,0,0,,Remember, Kawamatsu, you lose\Nif your feet leave the ground.
-Dialogue: 0,0:11:39.12,0:11:40.60,Default,,0,0,0,,That technique...
-Dialogue: 0,0:11:40.68,0:11:41.82,Default,,0,0,0,,things were.
-Dialogue: 0,0:11:43.36,0:11:44.52,Default,,0,0,0,,Gotcha now!
-Dialogue: 0,0:11:44.96,0:11:48.74,Default,,0,0,0,,A flash of steel at the\Nblowing rapids of a river.
+Dialogue: 0,0:11:39.22,0:11:40.66,Default,,0,0,0,,That technique...
+Dialogue: 0,0:11:40.74,0:11:41.80,Default,,0,0,0,,things were.
+Dialogue: 0,0:11:43.38,0:11:44.52,Default,,0,0,0,,Gotcha now!
+Dialogue: 0,0:11:44.98,0:11:48.74,Default,,0,0,0,,A flash of steel at the\Nflowing rapids of a river.
 Dialogue: 0,0:11:54.18,0:11:56.90,Default,,0,0,0,,They call it Kappa style.
 Dialogue: 0,0:11:59.52,0:12:01.92,Default,,0,0,0,,River of Retribution!
 Dialogue: 0,0:12:16.32,0:12:20.16,Default,,0,0,0,,Do you think I found those\Npoisonous fish a delicacy?
@@ -248,25 +235,19 @@ Dialogue: 0,0:13:34.12,0:13:35.16,Default,,0,0,0,,My apologies.
 Dialogue: 0,0:13:35.58,0:13:37.52,Default,,0,0,0,,That was 13 years of bad fish.
 Dialogue: 0,0:13:41.78,0:13:44.00,Default,,0,0,0,,Get the playgrounds ready to fire!
 Dialogue: 0,0:13:44.30,0:13:46.56,Default,,0,0,0,,Finish them off before\Nthis gets out of hand!
-Dialogue: 0,0:13:46.64,0:13:49.12,Default,,0,0,0,,Everyone prepare for battle!
-Dialogue: 0,0:13:49.20,0:13:53.50,Default,,0,0,0,,I demand you release Sir Luffy!
-Dialogue: 0,0:13:53.58,0:13:54.92,Default,,0,0,0,,Daddy, Oh Kiku!
-Dialogue: 0,0:13:55.00,0:13:55.83,Default,,0,0,0,,Rise!
-Dialogue: 0,0:13:55.91,0:14:01.01,Default,,0,0,0,,Oh hey!
-Dialogue: 0,0:14:01.10,0:14:06.78,Default,,0,0,0,,Don't tell me your boss. Yogurt!
-Dialogue: 0,0:14:06.86,0:14:07.98,Default,,0,0,0,,Oh I am!
-Dialogue: 0,0:14:08.06,0:14:11.32,Default,,0,0,0,,However, it's you who should speak up!
-Dialogue: 0,0:14:11.40,0:14:14.76,Default,,0,0,0,,Why don't you tell them\Nwho you really are?
-Dialogue: 0,0:14:14.84,0:14:19.30,Default,,0,0,0,,If you want to inspire\Nthose with broken spirits,
-Dialogue: 0,0:14:19.38,0:14:23.04,Default,,0,0,0,,you must remove your disguise\Nand reveal your identities!
-Dialogue: 0,0:14:23.12,0:14:28.22,Default,,0,0,0,,They once fought for our cause, so\NI'm certain their passion will return!
-Dialogue: 0,0:14:28.30,0:14:30.16,Default,,0,0,0,,How true!
-Dialogue: 0,0:14:30.24,0:14:32.34,Default,,0,0,0,,Splendid idea!
-Dialogue: 0,0:14:32.42,0:14:34.48,Default,,0,0,0,,I agree as well!
-Dialogue: 0,0:14:34.56,0:14:37.14,Default,,0,0,0,,Let's earn their trust before proceeding!
-Dialogue: 0,0:14:37.22,0:14:40.48,Default,,0,0,0,,Listen closely!
-Dialogue: 0,0:14:40.56,0:14:42.88,Default,,0,0,0,,We are not mere ghosts or memories!
-Dialogue: 0,0:14:42.96,0:14:45.38,Default,,0,0,0,,The legends are true!
+Dialogue: 0,0:13:46.64,0:13:51.80,Default,,0,0,0,,Everyone prepare for battle! I
+Dialogue: 0,0:13:51.88,0:13:53.98,Default,,0,0,0,,demand you release Sir Luffy Tata
+Dialogue: 0,0:13:54.06,0:13:56.14,Default,,0,0,0,,Oh, Kiku! Rise! Oh!
+Dialogue: 0,0:13:56.22,0:14:01.02,Default,,0,0,0,,Hey!
+Dialogue: 0,0:14:01.10,0:14:05.80,Default,,0,0,0,,don't tell me
+Dialogue: 0,0:14:05.88,0:14:08.84,Default,,0,0,0,,your boss yogurt oh I am however
+Dialogue: 0,0:14:08.92,0:14:13.74,Default,,0,0,0,,It's you who should speak up.\NWhy don't you tell them who you
+Dialogue: 0,0:14:13.82,0:14:19.96,Default,,0,0,0,,really are if you want to inspire\Nthose with broken spirits you must
+Dialogue: 0,0:14:20.04,0:14:24.82,Default,,0,0,0,,remove your disguise and reveal\Nyour identities they once fought for
+Dialogue: 0,0:14:24.90,0:14:31.80,Default,,0,0,0,,our cause so i'm certain their\Npassion will return how true splendid
+Dialogue: 0,0:14:31.88,0:14:37.14,Default,,0,0,0,,idea i agree as well let's earn\Ntheir trust before proceeding
+Dialogue: 0,0:14:37.22,0:14:42.18,Default,,0,0,0,,listen close we are not mere ghosts
+Dialogue: 0,0:14:42.26,0:14:45.38,Default,,0,0,0,,or memories the legends are true
 Dialogue: 0,0:15:09.98,0:15:12.08,Default,,0,0,0,,No way! That mask!
 Dialogue: 0,0:15:12.58,0:15:16.08,Default,,0,0,0,,It belongs to the most beautiful\Nswordsman in all of Wano.
 Dialogue: 0,0:15:16.62,0:15:18.66,Default,,0,0,0,,I thought he died at Oden Castle.
@@ -280,7 +261,7 @@ Dialogue: 0,0:15:33.80,0:15:36.88,Default,,0,0,0,,That's Fukurokuju's rival\Nnin
 Dialogue: 0,0:15:37.68,0:15:40.96,Default,,0,0,0,,Samurai there is the most\Npowerful sumo wrestler ever.
 Dialogue: 0,0:15:41.48,0:15:43.14,Default,,0,0,0,,Yokozuna Kawamatsu!
 Dialogue: 0,0:15:43.62,0:15:46.70,Default,,0,0,0,,And the old man is who\Nwe suspected all along.
-Dialogue: 0,0:15:47.06,0:15:48.88,Default,,0,0,0,,He's Yugo the Flower!
+Dialogue: 0,0:15:47.06,0:15:48.88,Default,,0,0,0,,He's Yoguro the Flower!
 Dialogue: 0,0:15:50.64,0:15:52.26,Default,,0,0,0,,One question, though.
 Dialogue: 0,0:15:52.84,0:15:55.22,Default,,0,0,0,,Who is this Luffy Taro guy?
 Dialogue: 0,0:15:59.32,0:16:01.64,Default,,0,0,0,,Who cares about that? He is incredible!
@@ -290,14 +271,14 @@ Dialogue: 0,0:16:10.02,0:16:13.20,Default,,0,0,0,,We've got to report this\Nto C
 Dialogue: 0,0:16:13.96,0:16:14.79,Default,,0,0,0,,Nay.
 Dialogue: 0,0:16:16.16,0:16:21.22,Default,,0,0,0,,Now that you have seen us, thy\Nlips must be sealed forevermore.
 Dialogue: 0,0:16:25.22,0:16:26.28,Default,,0,0,0,,Now, attack!
-Dialogue: 0,0:16:30.74,0:16:33.04,Default,,0,0,0,,Nico, flower shooting kid!
+Dialogue: 0,0:16:30.74,0:16:33.04,Default,,0,0,0,,Neeko, flower shooting kid!
 Dialogue: 0,0:16:51.54,0:16:53.38,Default,,0,0,0,,Heavy gun!
-Dialogue: 0,0:16:56.26,0:16:58.26,Default,,0,0,0,,Come, come! Got me!
-Dialogue: 0,0:17:05.44,0:17:07.22,Default,,0,0,0,,Okay, try these playgrounds.
-Dialogue: 0,0:17:10.80,0:17:11.92,Default,,0,0,0,,Oh, no.
-Dialogue: 0,0:17:16.92,0:17:19.26,Default,,0,0,0,,We keep missing him with the bullets, sir!
+Dialogue: 0,0:16:56.24,0:16:58.28,Default,,0,0,0,,GUM-GUM-GOODLY!
+Dialogue: 0,0:17:05.40,0:17:08.22,Default,,0,0,0,,Okay, try these playgrounds.
+Dialogue: 0,0:17:10.72,0:17:11.92,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:17:16.90,0:17:19.26,Default,,0,0,0,,We keep missing him with the bullets, sir!
 Dialogue: 0,0:17:19.34,0:17:20.17,Default,,0,0,0,,What do we do?
-Dialogue: 0,0:17:20.56,0:17:23.22,Default,,0,0,0,,I told you, hit someone close to us!
+Dialogue: 0,0:17:20.62,0:17:23.22,Default,,0,0,0,,I told you, hit someone close to him!
 Dialogue: 0,0:17:25.26,0:17:26.40,Default,,0,0,0,,You bastards!
 Dialogue: 0,0:17:26.74,0:17:27.90,Default,,0,0,0,,Why don't you fight me?
 Dialogue: 0,0:17:27.98,0:17:29.39,Default,,0,0,0,,They've suffered enough!
@@ -309,17 +290,15 @@ Dialogue: 0,0:17:47.66,0:17:49.04,Default,,0,0,0,,Heavy! He's dead!
 Dialogue: 0,0:17:54.02,0:17:56.86,Default,,0,0,0,,Leave my comrades alone!
 Dialogue: 0,0:18:06.24,0:18:07.52,Default,,0,0,0,,I second that!
 Dialogue: 0,0:18:14.24,0:18:15.52,Default,,0,0,0,,It's a demon!
-Dialogue: 0,0:18:15.60,0:18:17.86,Default,,0,0,0,,Kappa style.
-Dialogue: 0,0:18:23.20,0:18:24.48,Default,,0,0,0,,Norikiri.
-Dialogue: 0,0:18:35.08,0:18:37.90,Default,,0,0,0,,Ninpou, lightning shuriken!
-Dialogue: 0,0:18:45.60,0:18:50.24,Default,,0,0,0,,Ha ha ha ha.
-Dialogue: 0,0:18:51.54,0:18:53.78,Default,,0,0,0,,Ha ha ha ha.
-Dialogue: 0,0:18:54.96,0:18:57.06,Default,,0,0,0,,Ha ha ha ha. Ha ha ha.
-Dialogue: 0,0:18:58.04,0:18:59.46,Default,,0,0,0,,Ha ha ha.
-Dialogue: 0,0:19:00.18,0:19:03.04,Default,,0,0,0,,For you, friends of Sir Luffy.
-Dialogue: 0,0:19:03.30,0:19:04.70,Default,,0,0,0,,We're not friends.
+Dialogue: 0,0:18:15.60,0:18:17.86,Default,,0,0,0,,Kappa style
+Dialogue: 0,0:18:23.20,0:18:24.48,Default,,0,0,0,,Norikiri
+Dialogue: 0,0:18:35.08,0:18:37.90,Default,,0,0,0,,Ninpou, Lightning Shuriken.
+Dialogue: 0,0:18:57.32,0:18:58.76,Default,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:19:00.68,0:19:03.04,Default,,0,0,0,,For you, friends of Sir Luffy.
+Dialogue: 0,0:19:03.30,0:19:04.72,Default,,0,0,0,,We're not friends.
 Dialogue: 0,0:19:05.28,0:19:07.24,Default,,0,0,0,,One of those should set you free.
-Dialogue: 0,0:19:11.12,0:19:12.24,Default,,0,0,0,,Hmm, killer.
+Dialogue: 0,0:19:09.44,0:19:10.90,Default,,0,0,0,,Knee. Knee. Knee .voor!
+Dialogue: 0,0:19:11.56,0:19:12.39,Default,,0,0,0,,Mmm... Killer.
 Dialogue: 0,0:19:19.28,0:19:20.48,Default,,0,0,0,,I've been shot!
 Dialogue: 0,0:19:21.38,0:19:23.60,Default,,0,0,0,,It burns! It burns!
 Dialogue: 0,0:19:24.92,0:19:25.75,Default,,0,0,0,,Help!
@@ -365,22 +344,15 @@ Dialogue: 0,0:21:51.24,0:21:53.10,Default,,0,0,0,,Seems they have no choice.
 Dialogue: 0,0:21:53.64,0:21:54.68,Default,,0,0,0,,We're in trouble.
 Dialogue: 0,0:21:55.08,0:21:58.86,Default,,0,0,0,,All of Udon Prison is fighting against us!
 Dialogue: 0,0:22:01.04,0:22:02.38,Default,,0,0,0,,Escape all you can!
-Dialogue: 0,0:22:02.46,0:22:07.96,Default,,0,0,0,,and you shouldn't have come here.
-Dialogue: 0,0:22:08.04,0:22:09.32,Default,,0,0,0,,We don't want your help.
-Dialogue: 0,0:22:09.40,0:22:12.88,Default,,0,0,0,,None of this sort of habit now.
-Dialogue: 0,0:22:12.96,0:22:14.40,Default,,0,0,0,,We're all doomed.
-Dialogue: 0,0:22:14.48,0:22:18.76,Default,,0,0,0,,It doesn't matter if you're\Nthe legendary Akisaya samurai.
-Dialogue: 0,0:22:18.84,0:22:21.38,Default,,0,0,0,,They outpower us in every way.
-Dialogue: 0,0:22:21.46,0:22:23.04,Default,,0,0,0,,It's pointless.
-Dialogue: 0,0:22:23.12,0:22:28.08,Default,,0,0,0,,No matter how you look\Nat it, you'll never win.
-Dialogue: 0,0:22:28.16,0:22:29.14,Default,,0,0,0,,Why bother?
-Dialogue: 0,0:22:30.68,0:22:33.32,Default,,0,0,0,,You're up against the worst of the worst.
-Dialogue: 0,0:22:33.40,0:22:36.04,Default,,0,0,0,,The dragon who blacks out the sky.
-Dialogue: 0,0:22:37.76,0:22:40.50,Default,,0,0,0,,Plus he has the beast\Npirates to back him up.
-Dialogue: 0,0:22:40.58,0:22:43.24,Default,,0,0,0,,No one stands a chance against them.
-Dialogue: 0,0:22:46.22,0:22:48.84,Default,,0,0,0,,Please just take a look around you.
-Dialogue: 0,0:22:48.92,0:22:52.66,Default,,0,0,0,,All of this chaos unleashed\Nby one weapon made by.
-Dialogue: 0,0:22:52.74,0:22:54.72,Default,,0,0,0,,one of Kaido's men,
+Dialogue: 0,0:22:02.46,0:22:07.96,Default,,0,0,0,,And you shouldn't have come here.
+Dialogue: 0,0:22:08.04,0:22:10.82,Default,,0,0,0,,we don't want your help none of
+Dialogue: 0,0:22:10.90,0:22:17.06,Default,,0,0,0,,This sort of habit, now we're all\Ndoomed. It doesn't matter if you're
+Dialogue: 0,0:22:17.14,0:22:22.58,Default,,0,0,0,,the legendary akisaya samurai\Nthey outpower us in every way it's
+Dialogue: 0,0:22:22.66,0:22:29.14,Default,,0,0,0,,pointless no matter how you look\Nat it you'll never win why bother
+Dialogue: 0,0:22:30.68,0:22:36.04,Default,,0,0,0,,you're up against the worst of the\Nworst the dragon who blacks out the sky
+Dialogue: 0,0:22:37.76,0:22:43.24,Default,,0,0,0,,Plus he has the beast pirates to back him\Nup. No one stands a chance against them.
+Dialogue: 0,0:22:46.22,0:22:50.36,Default,,0,0,0,,please just take a look\Naround you all of this chaos
+Dialogue: 0,0:22:50.44,0:22:54.72,Default,,0,0,0,,unleashed by one weapon\Nmade by one of Kaido's men,
 Dialogue: 0,0:22:54.94,0:23:00.94,Default,,0,0,0,,utter devastation, utter despair,
 Dialogue: 0,0:23:01.16,0:23:03.04,Default,,0,0,0,,and Kaido never raised a finger.
 Dialogue: 0,0:23:04.42,0:23:09.46,Default,,0,0,0,,If you outsiders hadn't invaded, at least\Nwe could have carried on with our lives.
@@ -411,9 +383,8 @@ Dialogue: 0,0:25:07.98,0:25:09.80,Default,,0,0,0,,Samurai I met are really tough
 Dialogue: 0,0:25:25.92,0:25:28.10,Default,,0,0,0,,They're fighting for you!
 Dialogue: 0,0:25:29.48,0:25:31.86,Default,,0,0,0,,Everyone has to pull together!
 Dialogue: 0,0:25:38.22,0:25:40.38,Default,,0,0,0,,You talk about your life here!
-Dialogue: 0,0:25:41.26,0:25:44.88,Default,,0,0,0,,Like slaving away for dumplings is a life.
-Dialogue: 0,0:25:47.96,0:25:51.30,Default,,0,0,0,,You give it just enough\Nso you don't keel over!
-Dialogue: 0,0:25:51.38,0:25:54.44,Default,,0,0,0,,You think that's what life is about?
+Dialogue: 0,0:25:41.26,0:25:44.88,Default,,0,0,0,,Like slaving away for dumplings is a life
+Dialogue: 0,0:25:47.96,0:25:54.44,Default,,0,0,0,,You give it just enough so you don't keel\Nover. You think that's what life is about?
 Dialogue: 0,0:26:08.70,0:26:13.52,Default,,0,0,0,,Look around you, a bunch of slaves.
 Dialogue: 0,0:26:13.80,0:26:15.50,Default,,0,0,0,,You're worth more!
 Dialogue: 0,0:26:21.28,0:26:22.38,Default,,0,0,0,,Huh?
@@ -422,7 +393,7 @@ Dialogue: 0,0:26:25.78,0:26:26.78,Default,,0,0,0,,Is he, though?
 Dialogue: 0,0:26:30.80,0:26:33.88,Default,,0,0,0,,And so what if I'm not\Nfrom the land of Wano?
 Dialogue: 0,0:26:35.26,0:26:36.09,Default,,0,0,0,,Big deal!
 Dialogue: 0,0:26:36.26,0:26:38.92,Default,,0,0,0,,Why is it so wrong to\Nget help from me, huh?
-Dialogue: 0,0:26:53.72,0:26:56.48,Default,,0,0,0,,I made a promise I got to keep.
+Dialogue: 0,0:26:53.72,0:26:56.48,Default,,0,0,0,,I made a promise. I got to keep.
 Dialogue: 0,0:26:59.30,0:27:01.26,Default,,0,0,0,,I have a friend named Tama.
 Dialogue: 0,0:27:01.70,0:27:05.24,Default,,0,0,0,,She made sure I could eat even\Nwhen she had nothing herself.
 Dialogue: 0,0:27:07.14,0:27:10.90,Default,,0,0,0,,So I owe it to her to make this country a
@@ -448,12 +419,14 @@ Dialogue: 0,0:28:34.58,0:28:36.60,Default,,0,0,0,,Or are you with Kaido?
 Dialogue: 0,0:28:45.34,0:28:47.02,Default,,0,0,0,,You really mean it?
 Dialogue: 0,0:28:57.62,0:29:00.04,Default,,0,0,0,,Truly, you're not lying.
 Dialogue: 0,0:29:00.94,0:29:03.26,Default,,0,0,0,,You're giving this another shot.
-Dialogue: 0,0:29:18.82,0:29:24.80,Default,,0,0,0,,He's winning everyone over. That\Nman can sure capture a heart,
-Dialogue: 0,0:29:24.88,0:29:31.40,Default,,0,0,0,,it seems like you guys\Nare going weak on me, huh?
-Dialogue: 0,0:29:31.48,0:29:36.34,Default,,0,0,0,,No matter, I can still sway you to\Nmy side with a little crowd control.
-Dialogue: 0,0:29:36.42,0:29:41.90,Default,,0,0,0,,Just one shot in the middle, then\Neverything will turn to chaos again.
-Dialogue: 0,0:29:41.98,0:29:46.92,Default,,0,0,0,,Time to break out the big one—how\Ndoes 200 times the amount sound?
-Dialogue: 0,0:29:47.00,0:29:49.66,Default,,0,0,0,,sound Here comes your plague shot!
+Dialogue: 0,0:29:18.82,0:29:23.18,Default,,0,0,0,,he's winning everyone over that man can
+Dialogue: 0,0:29:23.26,0:29:30.04,Default,,0,0,0,,sure capture a heart\Nit seems like you guys
+Dialogue: 0,0:29:30.12,0:29:33.40,Default,,0,0,0,,are going weak on me huh no matter I can
+Dialogue: 0,0:29:33.48,0:29:35.70,Default,,0,0,0,,still sway you to my\Nside with a little crowd
+Dialogue: 0,0:29:35.78,0:29:39.94,Default,,0,0,0,,control just one shot in the middle then
+Dialogue: 0,0:29:40.02,0:29:43.24,Default,,0,0,0,,everything will turn\Nto chaos again time to
+Dialogue: 0,0:29:43.32,0:29:46.38,Default,,0,0,0,,break out the big one how does 200 times
+Dialogue: 0,0:29:46.46,0:29:49.66,Default,,0,0,0,,the amount sound Here\Ncomes your plague shot!
 Dialogue: 0,0:29:53.42,0:29:54.64,Default,,0,0,0,,Take this!
 Dialogue: 0,0:29:55.04,0:29:57.20,Default,,0,0,0,,A plague-packed elephant smart shoe!
 Dialogue: 0,0:29:58.54,0:30:00.54,Default,,0,0,0,,Please don't do this, warden!
@@ -468,24 +441,24 @@ Dialogue: 0,0:30:28.44,0:30:29.27,Default,,0,0,0,,Ha-ha!
 Dialogue: 0,0:30:37.20,0:30:39.86,Default,,0,0,0,,Ha-ha! No! Wait!
 Dialogue: 0,0:30:42.54,0:30:44.06,Default,,0,0,0,,Had to do it.
 Dialogue: 0,0:30:44.36,0:30:46.36,Default,,0,0,0,,The future I saw took a bad turn.
-Dialogue: 0,0:30:47.42,0:30:48.32,Default,,0,0,0,,Oh! Oh!
+Dialogue: 0,0:30:47.42,0:30:48.34,Default,,0,0,0,,Oh! Oh!
 Dialogue: 0,0:30:49.80,0:30:50.63,Default,,0,0,0,,Oh!
-Dialogue: 0,0:30:59.14,0:31:01.06,Default,,0,0,0,,Ah, let it go. No game!
-Dialogue: 0,0:31:01.84,0:31:02.67,Default,,0,0,0,,Oh, no!
-Dialogue: 0,0:31:11.80,0:31:12.63,Default,,0,0,0,,Incredible.
-Dialogue: 0,0:31:14.74,0:31:16.78,Default,,0,0,0,,What a capable fellow!
-Dialogue: 0,0:31:19.56,0:31:21.26,Default,,0,0,0,,Handle the rest for me.
-Dialogue: 0,0:31:30.12,0:31:32.56,Default,,0,0,0,,Leave it to us. Hang on a sec.
-Dialogue: 0,0:31:32.92,0:31:35.00,Default,,0,0,0,,I'm in charge. Take it over.
-Dialogue: 0,0:31:35.56,0:31:38.32,Default,,0,0,0,,Remember what happens to\Nanyone who defies a jailer.
-Dialogue: 0,0:31:38.40,0:31:40.78,Default,,0,0,0,,First defense is you lose your arms.
-Dialogue: 0,0:31:40.86,0:31:43.24,Default,,0,0,0,,We know, but we don't care.
-Dialogue: 0,0:31:43.32,0:31:46.32,Default,,0,0,0,,Call us rebels, but\Nwe've had enough of you!
-Dialogue: 0,0:31:49.20,0:31:51.43,Default,,0,0,0,,You're gonna pay for\Nour years of suffering!
-Dialogue: 0,0:31:51.51,0:31:53.47,Default,,0,0,0,,Get her! Yeah!
-Dialogue: 0,0:32:05.51,0:32:08.61,Default,,0,0,0,,Eight days remain before\Nthe great battle begins.
-Dialogue: 0,0:32:09.19,0:32:11.78,Default,,0,0,0,,The enemy's main forces\Nare still oblivious.
-Dialogue: 0,0:32:22.35,0:32:26.93,Default,,0,0,0,,Udon has been conquered. Mr. Straw Hat!
-Dialogue: 0,0:32:27.23,0:32:29.07,Default,,0,0,0,,That was magnificent!
-Dialogue: 0,0:32:38.77,0:32:42.57,Default,,0,0,0,,I have to admit you found\None hell of an ally.
-Dialogue: 0,0:32:43.07,0:32:44.75,Default,,0,0,0,,Thank you, Kin'emon.
+Dialogue: 0,0:30:54.42,0:30:55.25,Default,,0,0,0,,Oh!
+Dialogue: 0,0:31:01.16,0:31:02.48,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:31:11.18,0:31:12.48,Default,,0,0,0,,Incredible.
+Dialogue: 0,0:31:14.92,0:31:16.78,Default,,0,0,0,,What a capable fellow.
+Dialogue: 0,0:31:19.60,0:31:21.28,Default,,0,0,0,,Handle the rest for me.
+Dialogue: 0,0:31:30.20,0:31:32.56,Default,,0,0,0,,Leave it to us. Hang on a sec.
+Dialogue: 0,0:31:32.88,0:31:35.00,Default,,0,0,0,,I'm in charge. Take it over.
+Dialogue: 0,0:31:35.48,0:31:38.36,Default,,0,0,0,,Remember what happens to\Nanyone who defies a jailer.
+Dialogue: 0,0:31:38.44,0:31:40.80,Default,,0,0,0,,First defense is you lose your arms.
+Dialogue: 0,0:31:41.00,0:31:43.30,Default,,0,0,0,,We know, but we don't care.
+Dialogue: 0,0:31:43.76,0:31:46.35,Default,,0,0,0,,Call us rebels, but\Nwe've had enough of you.
+Dialogue: 0,0:31:48.96,0:31:51.73,Default,,0,0,0,,You're going to pay for\Nour years of suffering.
+Dialogue: 0,0:31:52.02,0:31:53.42,Default,,0,0,0,,Get her! Yeah!
+Dialogue: 0,0:32:05.06,0:32:08.60,Default,,0,0,0,,Eight days remain before\Nthe great battle begins.
+Dialogue: 0,0:32:09.20,0:32:12.06,Default,,0,0,0,,The enemy's main forces\Nare still oblivious.
+Dialogue: 0,0:32:22.40,0:32:25.94,Default,,0,0,0,,Udon has been conquered, Mr.
+Dialogue: 0,0:32:26.06,0:32:29.16,Default,,0,0,0,,Straw Hat, that was magnificent.
+Dialogue: 0,0:32:38.80,0:32:44.76,Default,,0,0,0,,I have to admit you found one hell\Nof an ally. Thank you, Kin'emon.
+Dialogue: 0,0:32:47.42,0:32:49.54,Default,,0,0,0,,Thank you.

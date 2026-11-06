@@ -25,28 +25,29 @@ Style: Flashbacks-207+,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H780
 Style: Karaoke,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
 Style: Translation,Duality,90,&H00D7536A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,15,15,25,1
 Style: Dummy,Duality,105,&H00B35679,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.8,0,8,15,15,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.82,Dubtitles,,0,0,0,,e coat chimes
-Dialogue: 0,0:00:04.90,0:00:11.48,Dubtitles,,0,0,0,,In, eh you?
-Dialogue: 0,0:00:11.56,0:00:13.72,Dubtitles,,0,0,0,,guys is everybody gonna be
-Dialogue: 0,0:00:13.80,0:00:17.22,Dubtitles,,0,0,0,,ready for that big party\Nafter we kick kai no sorry but
-Dialogue: 0,0:00:19.18,0:00:21.58,Dubtitles,,0,0,0,,Your head, my way.
+Dialogue: 0,0:00:00.00,0:00:05.40,Dubtitles,,0,0,0,,Episode 2
+Dialogue: 0,0:00:10.76,0:00:12.08,Dubtitles,,0,0,0,,Hey, you guys!
+Dialogue: 0,0:00:12.42,0:00:17.28,Dubtitles,,0,0,0,,Is everybody gonna be ready for that big\Nparty after we kick Kaido's sorry butt?
+Dialogue: 0,0:00:18.50,0:00:19.33,Dubtitles,,0,0,0,,Yeah!
+Dialogue: 0,0:00:19.41,0:00:20.24,Dubtitles,,0,0,0,,Move it!
+Dialogue: 0,0:00:20.33,0:00:21.50,Dubtitles,,0,0,0,,You're in my way!
 Dialogue: 0,0:00:34.46,0:00:36.56,Dubtitles,,0,0,0,,Look, it's Draghi!
 Dialogue: 0,0:00:36.72,0:00:39.40,Dubtitles,,0,0,0,,I already said I got dibs on Kaido.
-Dialogue: 0,0:00:39.92,0:00:41.98,Dubtitles,,0,0,0,,It's personal. Lanes.
+Dialogue: 0,0:00:39.92,0:00:41.98,Dubtitles,,0,0,0,,It's personal, Lanes.
 Dialogue: 0,0:00:44.96,0:00:46.36,Dubtitles,,0,0,0,,Sure it is.
 Dialogue: 0,0:00:57.44,0:01:01.62,Dubtitles,,0,0,0,,If I were you, I'd go brush my\Nhair and wash my face, Kaido.
 Dialogue: 0,0:01:01.90,0:01:06.96,Dubtitles,,0,0,0,,Because I'm taking that head of yours\Nand putting it on the bow of my ship.
-Dialogue: 0,0:01:07.34,0:01:10.18,Dubtitles,,0,0,0,,Yeah, he's going to pay\Nfor making Call so happy.
+Dialogue: 0,0:01:07.34,0:01:10.18,Dubtitles,,0,0,0,,Yeah, he's going to pay\Nfor making Killa so happy.
 Dialogue: 0,0:01:10.26,0:01:11.61,Dubtitles,,0,0,0,,That's not cool at all.
 Dialogue: 0,0:01:11.82,0:01:14.90,Dubtitles,,0,0,0,,Now we all got to be\Nhappy so he feels at home.
-Dialogue: 0,0:01:14.98,0:01:16.84,Dubtitles,,0,0,0,,No, you don't.
-Dialogue: 0,0:01:25.22,0:01:29.34,Dubtitles,,0,0,0,,See you later, straw\Nhats, if you can keep up.
-Dialogue: 0,0:01:35.66,0:01:38.52,Dubtitles,,0,0,0,,Please, they're having fun.
-Dialogue: 0,0:01:41.10,0:01:41.93,Dubtitles,,0,0,0,,Gene Bay!
+Dialogue: 0,0:01:14.98,0:01:16.84,Dubtitles,,0,0,0,,No, you don't
+Dialogue: 0,0:01:25.22,0:01:29.34,Dubtitles,,0,0,0,,See you later straw\Nhats if you can keep up
+Dialogue: 0,0:01:35.66,0:01:38.52,Dubtitles,,0,0,0,,Please they're having fun
+Dialogue: 0,0:01:41.10,0:01:41.93,Dubtitles,,0,0,0,,Jinbe!
 Dialogue: 0,0:01:42.26,0:01:43.73,Dubtitles,,0,0,0,,You know what to do next!
 Dialogue: 0,0:01:43.92,0:01:46.16,Dubtitles,,0,0,0,,Don't let us fall behind Jaggy's ship!
 Dialogue: 0,0:01:48.10,0:01:50.72,Dubtitles,,0,0,0,,Having a race, are we? Sounds good!
@@ -26307,7 +26308,7 @@ Dialogue: 1,0:02:51.23,0:02:51.27,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-130,-80,
 Dialogue: 1,0:02:51.23,0:02:51.27,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-90,-40,210,710)\an7\pos(925.82,1017.21)\frz300.69\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:02:51.23,0:02:51.27,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-50,0,250,750)\an7\pos(930.94,996.08)\frz136.72\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:02:51.23,0:02:51.27,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-10,40,290,790)\an7\pos(978.85,994.65)\frz177.12\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
-Dialogue: 0,0:02:51.26,0:02:52.28,Dubtitles,,0,0,0,,I'm not.
+Dialogue: 0,0:02:51.26,0:02:53.54,Dubtitles,,0,0,0,,I'm not. Shut it up!
 Dialogue: 1,0:02:51.27,0:02:51.31,Karaoke,,0,0,0,fx,{\fad(255,0,255,-771,-721,-471,29)\an7\pos(982.30,5.18)\frz281.78\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:02:51.27,0:02:51.31,Karaoke,,0,0,0,fx,{\fad(255,0,255,-731,-681,-431,69)\an7\pos(1012.66,151.57)\frz22.19\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:02:51.27,0:02:51.31,Karaoke,,0,0,0,fx,{\fad(255,0,255,-691,-641,-391,109)\an7\pos(945.49,190.56)\frz157.33\bord0\blur1\1c&HCFC9F8&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -27562,7 +27563,6 @@ Dialogue: 1,0:02:52.36,0:02:52.40,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-276,-226
 Dialogue: 1,0:02:52.36,0:02:52.40,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-236,-186,64,564)\an7\pos(1452.27,986.26)\frz95.25\bord0\blur1\1c&HCFC9F8&\p1}m -19.01 23.54 b -6.67 -17.31 19.34 -30.99 6.75 31.64 1.32 28.71 -5.61 20.43 -6.49 14.89 -9.09 16.51 -14.53 20.57 -18.26 24.35
 Dialogue: 1,0:02:52.36,0:02:52.40,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-196,-146,104,604)\an7\pos(1434.54,1031.24)\frz93.47\bord0\blur1\1c&HCFC9F8&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:02:52.36,0:02:52.40,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-156,-106,144,644)\an7\pos(1427.42,1031.46)\frz21.78\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
-Dialogue: 0,0:02:52.36,0:02:53.54,Dubtitles,,0,0,0,,Shut it up!
 Dialogue: 1,0:02:52.40,0:02:52.44,Karaoke,,0,0,0,fx,{\fad(255,0,255,-787,-737,-487,13)\an7\pos(992.93,72.10)\frz316.86\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:02:52.40,0:02:52.44,Karaoke,,0,0,0,fx,{\fad(255,0,255,-747,-697,-447,53)\an7\pos(1124.73,-3.93)\frz299.86\bord0\blur1\1c&HCFC9F8&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:02:52.40,0:02:52.44,Karaoke,,0,0,0,fx,{\fad(255,0,255,-707,-657,-407,93)\an7\pos(1016.99,36.37)\frz256.79\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
@@ -47308,7 +47308,7 @@ Dialogue: 1,0:03:10.33,0:03:10.37,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-112,-62,
 Dialogue: 1,0:03:10.33,0:03:10.37,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-72,-22,228,728)\an7\pos(951.71,1024.60)\frz104.67\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:03:10.33,0:03:10.37,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-32,18,268,768)\an7\pos(918.42,1006.36)\frz341.51\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
 Dialogue: 1,0:03:10.33,0:03:10.37,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,8,58,308,808)\an7\pos(968.73,1038.13)\frz217.46\bord0\blur1\1c&H9389F2&\p1}m -7.85 12.89 b -20.75 1.2 -1.94 -19.3 3.29 -9.57 20.75 2.78 6.5 13.63 4.85 19.3 3.47 16.09 2.32 7.47 -8.13 12.89
-Dialogue: 0,0:03:10.36,0:03:11.88,Dubtitles,,0,0,0,,I'll see
+Dialogue: 0,0:03:10.36,0:03:11.88,Dubtitles,,0,0,0,,I'll see.
 Dialogue: 1,0:03:10.37,0:03:10.42,Karaoke,,0,0,0,fx,{\fad(255,0,255,-674,-624,-374,126)\an7\pos(730.88,43.45)\frz1.74\bord0\blur1\1c&HCFC9F8&\p1}m -11.76 15.01 b -14.6 -8.85 2.56 -18.61 4.77 -5.23 12.98 -8.39 13.88 6.2 4.95 17.73 4.36 4.8 -5.9 6.66 -11.78 15.14
 Dialogue: 1,0:03:10.37,0:03:10.42,Karaoke,,0,0,0,fx,{\fad(255,0,255,-674,-624,-374,126)\an7\pos(801.80,117.17)\frz105.73\bord0\blur1\1c&HCFC9F8&\p1}m -11.76 15.01 b -14.6 -8.85 2.56 -18.61 4.77 -5.23 12.98 -8.39 13.88 6.2 4.95 17.73 4.36 4.8 -5.9 6.66 -11.78 15.14
 Dialogue: 1,0:03:10.37,0:03:10.42,Karaoke,,0,0,0,fx,{\fad(255,0,255,-674,-624,-374,126)\an7\pos(820.60,81.17)\frz267.14\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -66269,7 +66269,7 @@ Dialogue: 1,0:03:26.43,0:03:26.47,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-101,-51,
 Dialogue: 1,0:03:26.43,0:03:26.47,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-61,-11,239,739)\an7\pos(1456.02,1023.84)\frz228.53\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:03:26.43,0:03:26.47,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,-21,29,279,779)\an7\pos(1485.71,1012.57)\frz261.80\bord0\blur1\1c&HCFC9F8&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
 Dialogue: 1,0:03:26.43,0:03:26.47,Karaoke,eng,0,0,0,fx,{\fad(255,0,255,19,69,319,819)\an7\pos(1438.41,995.11)\frz293.13\bord0\blur1\1c&H9389F2&\p1}m -21.06 23.42 b -8.01 -19.51 21.06 -34.38 8.22 34.38 2.83 32.04 -5.79 23.96 -7.23 17.49 -10.69 18.49 -17.06 21.18 -20.34 24.32
-Dialogue: 0,0:03:26.46,0:03:27.78,Dubtitles,,0,0,0,,Dreaming on!
+Dialogue: 0,0:03:26.46,0:03:27.78,Dubtitles,,0,0,0,,Dreamin' on!
 Dialogue: 1,0:03:26.47,0:03:26.52,Karaoke,,0,0,0,fx,{\fad(255,0,255,-793,-743,-493,7)\an7\pos(1113.92,22.65)\frz326.06\bord0\blur1\1c&H9389F2&\p1}m -11.24 14.55 b -14.96 -8.27 1.55 -17.75 4.58 -7.4 13.54 -10.6 14.96 5.23 5.62 17.75 5.18 4.05 -5.28 5.87 -11.31 14.63
 Dialogue: 1,0:03:26.47,0:03:26.52,Karaoke,,0,0,0,fx,{\fad(255,0,255,-753,-703,-453,47)\an7\pos(1095.16,124.03)\frz212.67\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
 Dialogue: 1,0:03:26.47,0:03:26.52,Karaoke,,0,0,0,fx,{\fad(255,0,255,-713,-663,-413,87)\an7\pos(1249.36,5.83)\frz341.44\bord0\blur1\1c&H9389F2&\p1}m 7.42 25.06 b 10.6 11.07 -2.76 12.69 -12.13 -3.63 -18.13 -14.12 -3.25 -25.06 3.12 -18.69 11.41 -9.01 18.13 12.69 8.5 24.7
@@ -88263,24 +88263,19 @@ Dialogue: 0,0:03:57.30,0:03:59.16,Dubtitles,,0,0,0,,We shall meet again shortly.
 Dialogue: 0,0:03:59.40,0:04:01.11,Dubtitles,,0,0,0,,See you at the back entrance.
 Dialogue: 3,0:04:03.18,0:04:05.60,Title-207+,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(730,0)}{Family Problem - OG, match 23:55}A Family Matter{Gord}
 Dialogue: 2,0:04:03.18,0:04:05.60,Title-207+,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(730,0)\t(689,730,\1a&H00&)}{Family Problem - OG, match 23:55}A Family Matter{Gord}
-Dialogue: 0,0:04:05.44,0:04:06.54,Dubtitles,,0,0,0,,Neat, neat!
+Dialogue: 0,0:04:05.44,0:04:06.54,Dubtitles,,0,0,0,,Nin, nin!
 Dialogue: 0,0:04:10.80,0:04:13.50,Dubtitles,,0,0,0,,Sir Law, it's in your hands!
 Dialogue: 0,0:04:13.72,0:04:14.64,Dubtitles,,0,0,0,,Guide us!
 Dialogue: 0,0:04:15.50,0:04:16.82,Dubtitles,,0,0,0,,Submerge the ship!
 Dialogue: 0,0:04:17.24,0:04:18.42,Dubtitles,,0,0,0,,Yes, sir!
-Dialogue: 0,0:04:26.20,0:04:28.38,Dubtitles,,0,0,0,,Penguin, adjust our trim 30 degrees.
-Dialogue: 0,0:04:28.46,0:04:30.96,Dubtitles,,0,0,0,,Adjusting trim, 30 degrees. Got it.
-Dialogue: 0,0:04:35.08,0:04:36.96,Dubtitles,,0,0,0,,Sustain a depth of 100 meters.
-Dialogue: 0,0:04:37.04,0:04:39.86,Dubtitles,,0,0,0,,Captain, can you confirm\Nour final destination?
-Dialogue: 0,0:04:40.24,0:04:42.06,Dubtitles,,0,0,0,,To the rear shore of Onigashima.
-Dialogue: 0,0:04:42.14,0:04:43.94,Dubtitles,,0,0,0,,Go full speed ahead!
-Dialogue: 0,0:04:44.02,0:04:45.64,Dubtitles,,0,0,0,,Aye, aye, sir!
-Dialogue: 0,0:04:53.46,0:04:56.66,Dubtitles,,0,0,0,,We are drawing near; stay sharp,
-Dialogue: 0,0:04:56.74,0:05:00.16,Dubtitles,,0,0,0,,everyone—we don't know what\Nto expect from here on out.
-Dialogue: 0,0:05:00.24,0:05:02.10,Dubtitles,,0,0,0,,There could be an ambush at any instant;
-Dialogue: 0,0:05:02.18,0:05:06.38,Dubtitles,,0,0,0,,haven't lost your touch in all\Nthese years, I hope—just the
-Dialogue: 0,0:05:07.46,0:05:11.02,Dubtitles,,0,0,0,,opposite, my friend; why else\Nwould I endure two decades of pain?
-Dialogue: 0,0:05:11.10,0:05:11.93,Dubtitles,,0,0,0,,of pain
+Dialogue: 0,0:04:26.20,0:04:30.96,Dubtitles,,0,0,0,,Penguin, adjust our trim 30 degrees!\NAdjusting trim, 30 degrees. Got it!
+Dialogue: 0,0:04:35.08,0:04:39.86,Dubtitles,,0,0,0,,Sustain a depth of 100 meters! Captain,\Ncan you confirm our final destination?
+Dialogue: 0,0:04:40.24,0:04:45.64,Dubtitles,,0,0,0,,To the rear shore of Onigashima\NGo full speed ahead Aye, aye, sir
+Dialogue: 0,0:04:53.46,0:04:58.56,Dubtitles,,0,0,0,,We are drawing near.\NStay sharp, everyone. We
+Dialogue: 0,0:04:58.64,0:05:00.44,Dubtitles,,0,0,0,,don't know what to expect from here on out
+Dialogue: 0,0:05:00.52,0:05:04.08,Dubtitles,,0,0,0,,there could be an ambush\Nat any instant haven't
+Dialogue: 0,0:05:04.16,0:05:06.57,Dubtitles,,0,0,0,,lost your touch in all these years i hope
+Dialogue: 0,0:05:07.46,0:05:11.74,Dubtitles,,0,0,0,,just the opposite my friend why else\Nwould i endure two decades of pain
 Dialogue: 0,0:05:13.66,0:05:14.78,Dubtitles,,0,0,0,,Ha ha ha!
 Dialogue: 0,0:05:14.86,0:05:15.86,Dubtitles,,0,0,0,,Grim, but I'll take it.
 Dialogue: 0,0:05:15.94,0:05:17.64,Dubtitles,,0,0,0,,Let's put an end to this.
@@ -88300,7 +88295,7 @@ Dialogue: 0,0:06:16.12,0:06:18.78,Dubtitles,,0,0,0,,Either way, their\Ncomplacen
 Dialogue: 0,0:06:18.86,0:06:21.57,Dubtitles,,0,0,0,,Now, we will continue\Nforward with confidence.
 Dialogue: 0,0:06:21.98,0:06:24.75,Dubtitles,,0,0,0,,We shall strike before\Nthey know what hit them.
 Dialogue: 0,0:06:27.52,0:06:29.50,Dubtitles,,0,0,0,,The castle's in the center, right?
-Dialogue: 0,0:06:29.58,0:06:31.96,Dubtitles,,0,0,0,,Inside that giant skull. That's right.
+Dialogue: 0,0:06:29.58,0:06:31.96,Dubtitles,,0,0,0,,Inside that giant skull, that's right.
 Dialogue: 0,0:06:32.14,0:06:33.91,Dubtitles,,0,0,0,,Hard to see from here, though.
 Dialogue: 0,0:06:34.06,0:06:37.60,Dubtitles,,0,0,0,,I thought it'd be closer to the\Nshore, but we still got a ways to go.
 Dialogue: 0,0:06:37.68,0:06:39.94,Dubtitles,,0,0,0,,I don't think they've noticed us.
@@ -88361,7 +88356,7 @@ Dialogue: 0,0:09:45.76,0:09:49.56,Dubtitles,,0,0,0,,If they're sinking their shi
 Dialogue: 0,0:09:49.64,0:09:50.92,Dubtitles,,0,0,0,,Over my dead body?
 Dialogue: 0,0:09:51.18,0:09:53.36,Dubtitles,,0,0,0,,We can hide a few ships, don't worry.
 Dialogue: 0,0:09:53.60,0:09:56.19,Dubtitles,,0,0,0,,But you should disembark,\Nit's time to move.
-Dialogue: 0,0:09:57.96,0:09:59.52,Dubtitles,,0,0,0,,Okie, dock! Here we go!
+Dialogue: 0,0:09:57.96,0:09:59.52,Dubtitles,,0,0,0,,Okie dokie, here we go!
 Dialogue: 0,0:10:02.74,0:10:04.24,Dubtitles,,0,0,0,,Wait, who are they?
 Dialogue: 0,0:10:05.08,0:10:06.55,Dubtitles,,0,0,0,,We're in trouble already.
 Dialogue: 0,0:10:07.02,0:10:08.02,Dubtitles,,0,0,0,,What's wrong, Carrot?
@@ -88386,7 +88381,7 @@ Dialogue: 0,0:11:09.82,0:11:13.94,Dubtitles,,0,0,0,,So I advise you to take adva
 Dialogue: 0,0:11:15.16,0:11:16.32,Dubtitles,,0,0,0,,Works for me.
 Dialogue: 0,0:11:16.62,0:11:18.44,Dubtitles,,0,0,0,,We're only interested in Kaido.
 Dialogue: 0,0:11:18.80,0:11:21.57,Dubtitles,,0,0,0,,The fewer lackeys we have\Nto fight, the better.
-Dialogue: 0,0:11:22.76,0:11:24.62,Dubtitles,,0,0,0,,Let's go. Yeah.
+Dialogue: 0,0:11:22.76,0:11:24.62,Dubtitles,,0,0,0,,Let's go! Yeah.
 Dialogue: 0,0:11:26.18,0:11:27.50,Dubtitles,,0,0,0,,This way, Sir Luffy.
 Dialogue: 0,0:11:28.10,0:11:30.78,Dubtitles,,0,0,0,,You and your crew should pass\Nthrough the gate as well.
 Dialogue: 0,0:11:30.86,0:11:31.69,Dubtitles,,0,0,0,,Awesome.
@@ -88396,7 +88391,7 @@ Dialogue: 0,0:11:44.38,0:11:45.22,Dubtitles,,0,0,0,,Transform!
 Dialogue: 0,0:11:46.96,0:11:50.16,Dubtitles,,0,0,0,,Holy crap, beast mode! Yeah!
 Dialogue: 0,0:11:52.16,0:11:54.82,Dubtitles,,0,0,0,,Wow, Chobro, looking cool!
 Dialogue: 0,0:11:55.28,0:11:56.60,Dubtitles,,0,0,0,,Now it's my turn!
-Dialogue: 0,0:12:06.66,0:12:11.02,Dubtitles,,0,0,0,,You're a savage beauty, Nami,\Nthe queen of the beasts! Mama!
+Dialogue: 0,0:12:06.66,0:12:11.02,Dubtitles,,0,0,0,,You're a savage beauty, Nami,\Nthe queen of the beasts! Nami!
 Dialogue: 0,0:12:11.78,0:12:13.42,Dubtitles,,0,0,0,,All right, let me try.
 Dialogue: 0,0:12:19.58,0:12:21.54,Dubtitles,,0,0,0,,How do I look, Robin?
 Dialogue: 0,0:12:21.76,0:12:22.76,Dubtitles,,0,0,0,,Am I beastly?
@@ -88478,7 +88473,7 @@ Dialogue: 0,0:15:11.96,0:15:13.90,Dubtitles,,0,0,0,,Could you hurry it up, Frank
 Dialogue: 0,0:15:14.66,0:15:17.66,Dubtitles,,0,0,0,,What the heck are you doing in\Nthere that's taking so long?
 Dialogue: 0,0:15:17.74,0:15:19.52,Dubtitles,,0,0,0,,Everybody else already left.
 Dialogue: 0,0:15:20.14,0:15:22.73,Dubtitles,,0,0,0,,Can't rush genius, bro,\Nbut don't you worry.
-Dialogue: 0,0:15:22.96,0:15:25.04,Dubtitles,,0,0,0,,We'll catch up in no time
+Dialogue: 0,0:15:22.96,0:15:25.04,Dubtitles,,0,0,0,,We'll catch up in no time.
 Dialogue: 1,0:15:48.21,0:15:48.26,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\org(1028.95,904.56)\frz20.67\fscx200\fscy200\bord0\shad10\blur0.8\1a&HFE&\pos(1552.59,1250.9)}Black Rhino\NFR-U4
 Dialogue: 2,0:15:48.21,0:15:48.26,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\org(1028.95,904.56)\frz20.67\fscx200\fscy200\bord1\1a&HFF&\blur0.8\pos(1552.59,1250.9)\3c&HFFFFFF&}Black Rhino\NFR-U4
 Dialogue: 3,0:15:48.21,0:15:48.26,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\org(1028.95,904.56)\frz20.67\fscx200\fscy200\bord0\blur0.8\pos(1552.59,1250.9)\c&H1A25DA&}Black Rhino\NFR-U4
@@ -88525,10 +88520,10 @@ Dialogue: 1,0:15:48.80,0:15:50.30,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\or
 Dialogue: 2,0:15:48.80,0:15:50.30,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\org(1046,858)\frz20.67\fscx200\fscy200\bord1\1a&HFF&\blur0.8\pos(1569.64,1204.34)\3c&HFFFFFF&}Black Rhino\NFR-U4
 Dialogue: 3,0:15:48.80,0:15:50.30,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\org(1046,858)\frz20.67\fscx200\fscy200\bord0\blur0.8\pos(1569.64,1204.34)\c&H1A25DA&}Black Rhino\NFR-U4
 Dialogue: 0,0:15:52.86,0:15:55.98,Dubtitles,,0,0,0,,I saw that thing during the\Nbattle on Fishman Island!
-Dialogue: 0,0:15:56.14,0:15:58.58,Dubtitles,,0,0,0,,Don't call my child a thing she made!
+Dialogue: 0,0:15:56.14,0:15:58.58,Dubtitles,,0,0,0,,Don't call my child a thing, she made!
 Dialogue: 0,0:15:59.18,0:16:00.74,Dubtitles,,0,0,0,,It's Black Rhino, baby!
 Dialogue: 0,0:16:01.12,0:16:03.36,Dubtitles,,0,0,0,,And there's more where that came from!
-Dialogue: 0,0:16:11.50,0:16:13.04,Dubtitles,,0,0,0,,Rick, take five!
+Dialogue: 0,0:16:11.50,0:16:13.04,Dubtitles,,0,0,0,,Brachio, take five!
 Dialogue: 0,0:16:13.36,0:16:14.28,Dubtitles,,0,0,0,,You're up!
 Dialogue: 1,0:16:15.53,0:16:15.57,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx200\fscy200\bord0\shad10\blur0.8\1a&HFE&\org(750.97,558.54)\pos(576.74,678.3)\frz24.13}Brachio Tank 5
 Dialogue: 2,0:16:15.53,0:16:15.57,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx200\fscy200\bord1\1a&HFF&\blur0.8\3c&HFFFFFF&\org(750.97,558.54)\pos(576.74,678.3)\frz24.13}Brachio Tank 5
@@ -88575,7 +88570,7 @@ Dialogue: 3,0:16:16.07,0:16:16.12,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fs
 Dialogue: 1,0:16:16.12,0:16:17.74,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx200\fscy200\bord0\shad10\blur0.8\1a&HFE&\org(768,512)\pos(593.77,631.76)\frz24.13}Brachio Tank 5
 Dialogue: 2,0:16:16.12,0:16:17.74,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx200\fscy200\bord1\1a&HFF&\blur0.8\3c&HFFFFFF&\org(768,512)\pos(593.77,631.76)\frz24.13}Brachio Tank 5
 Dialogue: 3,0:16:16.12,0:16:17.74,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx200\fscy200\bord0\blur0.8\c&H1A25DA&\org(768,512)\pos(593.77,631.76)\frz24.13}Brachio Tank 5
-Dialogue: 0,0:16:20.42,0:16:22.16,Dubtitles,,0,0,0,,Take commander, Chopper!
+Dialogue: 0,0:16:20.42,0:16:22.16,Dubtitles,,0,0,0,,Take commander, Chobro!
 Dialogue: 1,0:16:22.50,0:16:22.54,Captions-207+,,0,0,0,,{\3a&H86&\fnDFGKanTeiRyu-XB-CP\bord3.5\c&HF6F6F6&\3c&HCEECF8&\blur0.8\frz12.623\1a&HFF&\pos(647.23,690.65)}C
 Dialogue: 1,0:16:22.50,0:16:22.54,Captions-207+,,0,0,0,,{\3a&H86&\fnDFGKanTeiRyu-XB-CP\bord3.5\c&HF6F6F6&\3c&HCEECF8&\blur0.8\frz7.737\1a&HFF&\pos(688.37,683.92)}o
 Dialogue: 1,0:16:22.50,0:16:22.54,Captions-207+,,0,0,0,,{\3a&H86&\fnDFGKanTeiRyu-XB-CP\bord3.5\c&HF6F6F6&\3c&HCEECF8&\blur0.8\frz7.737\1a&HFF&\pos(731.53,677.82)}m
@@ -88742,7 +88737,7 @@ Dialogue: 0,0:16:28.36,0:16:30.00,Dubtitles,,0,0,0,,Tough armor and a free ride!
 Dialogue: 0,0:16:30.08,0:16:31.22,Dubtitles,,0,0,0,,Own it, Chobro!
 Dialogue: 0,0:16:32.00,0:16:34.46,Dubtitles,,0,0,0,,I won't let you down! Nice!
 Dialogue: 0,0:16:35.36,0:16:37.10,Dubtitles,,0,0,0,,Let me handle the cannon!
-Dialogue: 0,0:16:39.44,0:16:41.06,Dubtitles,,0,0,0,,Chopper! Who's that?
+Dialogue: 0,0:16:39.44,0:16:41.06,Dubtitles,,0,0,0,,Chobro! Who's that?
 Dialogue: 0,0:16:42.00,0:16:42.83,Dubtitles,,0,0,0,,Franky!
 Dialogue: 1,0:16:42.73,0:16:42.77,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx300\fscy300\bord0\shad15\blur0.8\1a&HFE&\4c&HFFFFFF&\pos(558.97,1096.52)}We're here!
 Dialogue: 2,0:16:42.73,0:16:42.77,Captions-207+,,0,0,0,,{\alpha&H00&\fnEdo SZ\fscx300\fscy300\bord0\shad10\blur0.8\1a&HFE&\4c&H000000&\pos(558.97,1096.52)\4a&HC8&}We're here!
@@ -88819,7 +88814,7 @@ Dialogue: 0,0:17:14.98,0:17:16.16,Dubtitles,,0,0,0,,Hey, Luffy, hold it!
 Dialogue: 0,0:17:17.98,0:17:20.69,Dubtitles,,0,0,0,,He'll just lose his way\Nand make things worse!
 Dialogue: 0,0:17:21.10,0:17:21.98,Dubtitles,,0,0,0,,Oh, I see.
 Dialogue: 0,0:17:22.68,0:17:24.68,Dubtitles,,0,0,0,,We can have fun without those two!
-Dialogue: 0,0:17:24.90,0:17:29.38,Dubtitles,,0,0,0,,Let's go for a ride through\Nthe battlefield, Nami!
+Dialogue: 0,0:17:24.90,0:17:29.38,Dubtitles,,0,0,0,,Let's go for a romantic drive\Nthrough the battlefield, Nami-sweeet!
 Dialogue: 0,0:17:35.34,0:17:36.30,Dubtitles,,0,0,0,,Where the...?
 Dialogue: 0,0:17:37.42,0:17:39.02,Dubtitles,,0,0,0,,Let me take your place!
 Dialogue: 0,0:17:39.16,0:17:41.16,Dubtitles,,0,0,0,,You don't deserve to go to heaven!
@@ -88855,8 +88850,8 @@ Dialogue: 0,0:19:20.44,0:19:21.30,Dubtitles,,0,0,0,,Come on.
 Dialogue: 0,0:19:21.58,0:19:23.18,Dubtitles,,0,0,0,,Don't force me to drag you.
 Dialogue: 0,0:19:26.20,0:19:28.94,Dubtitles,,0,0,0,,Kanjuro kidnapped Momonosuke and escaped,
 Dialogue: 0,0:19:29.08,0:19:32.76,Dubtitles,,0,0,0,,but has been met with one\Nobstacle after another ever since.
-Dialogue: 0,0:19:32.98,0:19:36.42,Dubtitles,,0,0,0,,As Kin'emon had hoped, he\Nhas yet to reach Orochi.
-Dialogue: 0,0:19:37.86,0:19:40.14,Dubtitles,,0,0,0,,I've never been down\Nin the tunnels before.
+Dialogue: 0,0:19:32.98,0:19:36.42,Dubtitles,,0,0,0,,As Kin'emon had hoped, he\Nhas yet to make it to Orochi.
+Dialogue: 0,0:19:37.86,0:19:40.14,Dubtitles,,0,0,0,,I've never been down here before.
 Dialogue: 0,0:19:40.22,0:19:42.57,Dubtitles,,0,0,0,,I didn't know that they were so complex.
 Dialogue: 0,0:19:43.06,0:19:45.60,Dubtitles,,0,0,0,,The underlings still\Nthink I'm with the enemy.
 Dialogue: 0,0:19:45.68,0:19:48.62,Dubtitles,,0,0,0,,They wouldn't believe me\Nif I told them the truth.
@@ -88872,7 +88867,7 @@ Dialogue: 0,0:20:26.18,0:20:27.44,Dubtitles,,0,0,0,,Ah, fair enough.
 Dialogue: 0,0:20:27.98,0:20:30.66,Dubtitles,,0,0,0,,In that case, we can all\Ngo to the hall later.
 Dialogue: 0,0:20:30.74,0:20:32.80,Dubtitles,,0,0,0,,No standing on ceremony today.
 Dialogue: 0,0:20:33.26,0:20:35.84,Dubtitles,,0,0,0,,Is there something we don't\Nknow about going on right now?
-Dialogue: 0,0:20:35.92,0:20:38.96,Dubtitles,,0,0,0,,The plan was to introduce you to\NLin-Lin before we kick things off.
+Dialogue: 0,0:20:35.92,0:20:38.96,Dubtitles,,0,0,0,,The plan was to introduce you to\NLinlin before we kick things off.
 Dialogue: 0,0:20:39.04,0:20:40.90,Dubtitles,,0,0,0,,but it seems she wants to make me wait.
 Dialogue: 0,0:20:40.98,0:20:43.10,Dubtitles,,0,0,0,,They said she's still getting dressed.
 Dialogue: 0,0:20:43.18,0:20:44.95,Dubtitles,,0,0,0,,Who knows when she'll be done.
@@ -88970,12 +88965,11 @@ Dialogue: 0,0:22:44.64,0:22:50.10,Dubtitles,,0,0,0,,Then, Lord Orochi and Comman
 Dialogue: 0,0:22:50.88,0:22:53.42,Dubtitles,,0,0,0,,Next, the special guests will arrive.
 Dialogue: 0,0:22:53.84,0:22:58.44,Dubtitles,,0,0,0,,The Big Mom Pirates reach the\Nisland on their ship and then...
 Dialogue: 0,0:22:58.52,0:23:04.70,Dubtitles,,0,0,0,,Commander Kaido and Big Mom will join\Ntogether and formally announce...
-Dialogue: 0,0:23:04.78,0:23:07.96,Dubtitles,,0,0,0,,The world's strongest pirate alliance.
+Dialogue: 0,0:23:04.78,0:23:07.96,Dubtitles,,0,0,0,,The world's strongest pirate alliance!
 Dialogue: 0,0:23:09.94,0:23:12.58,Dubtitles,,0,0,0,,Finally, Commander Kaido will make.
-Dialogue: 0,0:23:18.20,0:23:21.02,Dubtitles,,0,0,0,,That is all an.
-Dialogue: 0,0:23:21.10,0:23:22.12,Dubtitles,,0,0,0,,Important announcement.
+Dialogue: 0,0:23:18.20,0:23:22.12,Dubtitles,,0,0,0,,That is all. An important announcement.
 Dialogue: 0,0:23:22.20,0:23:24.86,Dubtitles,,0,0,0,,It's not like you to keep\Nus hanging like that.
-Dialogue: 0,0:23:24.94,0:23:27.30,Dubtitles,,0,0,0,,It's ever ever so annoying Yeah,
+Dialogue: 0,0:23:24.94,0:23:27.30,Dubtitles,,0,0,0,,It's ever, ever so annoying. Yeah,
 Dialogue: 0,0:23:27.38,0:23:31.92,Dubtitles,,0,0,0,,I know I know but it'll cause\Nconfusion if I say it now
 Dialogue: 0,0:23:33.38,0:23:36.48,Dubtitles,,0,0,0,,Anyway, let's talk about\Nthat job I need you to do.
 Dialogue: 0,0:23:36.94,0:23:40.08,Dubtitles,,0,0,0,,My fool of a son Yamato disappeared today.
@@ -88987,7 +88981,7 @@ Dialogue: 0,0:23:51.92,0:23:53.60,Dubtitles,,0,0,0,,Seems you're catching on.
 Dialogue: 0,0:23:53.94,0:23:54.82,Dubtitles,,0,0,0,,I see.
 Dialogue: 0,0:23:55.28,0:23:57.81,Dubtitles,,0,0,0,,Making us clean up your\Nfamily issues, huh?
 Dialogue: 0,0:23:59.56,0:24:02.32,Dubtitles,,0,0,0,,Okay, so what happens\Nif we bring him back?
-Dialogue: 0,0:24:02.64,0:24:06.82,Dubtitles,,0,0,0,,I'll give you the right to challenge\Nthe lead performer of your choice.
+Dialogue: 0,0:24:02.64,0:24:06.82,Dubtitles,,0,0,0,,I'll give you the right to challenge\Nthe Superstar of your choice.
 Dialogue: 0,0:24:07.34,0:24:08.34,Dubtitles,,0,0,0,,How's that?
 Dialogue: 0,0:24:09.10,0:24:09.93,Dubtitles,,0,0,0,,Seriously?
 Dialogue: 0,0:24:10.38,0:24:11.84,Dubtitles,,0,0,0,,Oh, I'll do it.
@@ -89001,15 +88995,15 @@ Dialogue: 0,0:24:28.60,0:24:30.52,Dubtitles,,0,0,0,,Well, don't bring it here, s
 Dialogue: 0,0:24:30.60,0:24:31.88,Dubtitles,,0,0,0,,Where should we put it?
 Dialogue: 0,0:24:31.96,0:24:34.04,Dubtitles,,0,0,0,,Come on, where are you?
 Dialogue: 0,0:24:34.74,0:24:37.39,Dubtitles,,0,0,0,,I bet you've never even\Nheard of Odin before.
-Dialogue: 0,0:24:37.62,0:24:39.24,Dubtitles,,0,0,0,,Don't you ruin this jaggy.
+Dialogue: 0,0:24:37.62,0:24:39.24,Dubtitles,,0,0,0,,Don't you ruin this, jaggy.
 Dialogue: 0,0:24:40.26,0:24:43.60,Dubtitles,,0,0,0,,Hey, have you seen a jaggy\Nin here? The what now?
 Dialogue: 0,0:24:44.06,0:24:45.04,Dubtitles,,0,0,0,,Is that food?
-Dialogue: 0,0:24:45.24,0:24:46.95,Dubtitles,,0,0,0,,That kind of food's no baker.
+Dialogue: 0,0:24:45.24,0:24:46.95,Dubtitles,,0,0,0,,That kind of food's no good.
 Dialogue: 0,0:24:47.04,0:24:48.02,Dubtitles,,0,0,0,,Hold on.
 Dialogue: 0,0:24:48.74,0:24:51.80,Dubtitles,,0,0,0,,I got enough fans attracted to my...
 Dialogue: 0,0:24:52.66,0:24:54.76,Dubtitles,,0,0,0,,Think I'd run into balloons yet?
 Dialogue: 0,0:24:55.46,0:24:56.64,Dubtitles,,0,0,0,,Just showed up?
-Dialogue: 0,0:24:56.74,0:24:58.02,Dubtitles,,0,0,0,,Then grab a Betty!
+Dialogue: 0,0:24:56.74,0:24:58.02,Dubtitles,,0,0,0,,Then grab a bitey!
 Dialogue: 0,0:24:58.88,0:25:02.38,Dubtitles,,0,0,0,,We got the goods right\Nthere! All right! Hell yeah!
 Dialogue: 0,0:25:04.00,0:25:06.84,Dubtitles,,0,0,0,,You guys really know how\Nto chow down, don't you?
 Dialogue: 0,0:25:06.92,0:25:08.64,Dubtitles,,0,0,0,,Got more coming, help yourself!
@@ -89023,7 +89017,7 @@ Dialogue: 0,0:25:28.02,0:25:28.85,Dubtitles,,0,0,0,,No!
 Dialogue: 0,0:25:29.18,0:25:30.01,Dubtitles,,0,0,0,,No!
 Dialogue: 0,0:25:30.09,0:25:30.92,Dubtitles,,0,0,0,,Hot, hot, hot, hot!
 Dialogue: 0,0:25:31.01,0:25:31.84,Dubtitles,,0,0,0,,What the hell, dude?
-Dialogue: 0,0:25:31.92,0:25:33.00,Dubtitles,,0,0,0,,Why did you bring Oshiniko?
+Dialogue: 0,0:25:31.92,0:25:33.00,Dubtitles,,0,0,0,,Why did you bring oshiruko?
 Dialogue: 0,0:25:33.08,0:25:35.67,Dubtitles,,0,0,0,,We're doing drinks and\Nappetizers right now!
 Dialogue: 0,0:25:36.74,0:25:37.57,Dubtitles,,0,0,0,,Oshiniko?
 Dialogue: 0,0:25:37.65,0:25:38.48,Dubtitles,,0,0,0,,Don't blame me.
