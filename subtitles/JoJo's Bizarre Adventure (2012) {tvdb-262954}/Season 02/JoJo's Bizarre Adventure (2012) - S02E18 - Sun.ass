@@ -45,14 +45,18 @@ Style: SC18 Map Pakistan,Beer,10,&H3C000000,&H000000FF,&H00000000,&H00000000,0,0
 Style: SC18 Map India,Beer,7.5,&H3C000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,1000,1000,0.3,0,1,0,0,8,90,90,40,1
 Style: SC18 Map ArabSea,Beer,7,&H3CD5140D,&H000000FF,&H00000000,&H00000000,0,0,0,0,1000,1000,0.3,0,1,0,0,8,90,90,40,1
 Style: SC18 Map RedSea,Beer,5.3,&H3CD5140D,&H000000FF,&H00000000,&H00000000,0,0,0,0,1000,1000,0.3,0,1,0,0,8,90,90,40,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.44,0:00:32.64,Dubtitles,,0,0,0,,The End. How could this have happened?
+Dialogue: 0,0:00:28.44,0:00:32.64,Dubtitles,,0,0,0,,The end. How could this have happened?
 Dialogue: 0,0:00:33.50,0:00:35.54,Dubtitles,,0,0,0,,I can't believe.
 Dialogue: 0,0:00:36.28,0:00:38.66,Dubtitles,,0,0,0,,We totally fell for it.
 Dialogue: 0,0:00:56.56,0:00:59.36,Dubtitles,,0,0,0,,Let's go.
+Dialogue: 0,0:01:08.74,0:01:14.76,Dubtitles,,0,0,0,,The men are going to go to the
+Dialogue: 0,0:01:14.84,0:01:18.04,Dubtitles,,0,0,0,,Moon. The moon will be on the
+Dialogue: 0,0:01:18.12,0:01:24.40,Dubtitles,,0,0,0,,Moon. The moon will be on the
+Dialogue: 0,0:01:24.48,0:01:30.80,Dubtitles,,0,0,0,,Moon. The moon will be on the moon.
 Dialogue: 1,0:02:11.48,0:02:11.52,SC18 Map Karachi,map,0,0,0,,{\fscx1000\fscy1000\pos(1548,300)}Karachi
 Dialogue: 1,0:02:11.48,0:02:11.52,SC18 Map Iran,map,0,0,0,,{\fscx1000\fscy1000\pos(675,-100)}Iran
 Dialogue: 1,0:02:11.48,0:02:11.56,SC18 Map ArabSea,map,0,0,0,,{\fscx1080\fscy1080\pos(1382.5,1030)}Arabian Sea
@@ -115,13 +119,13 @@ Dialogue: 1,0:02:11.90,0:02:11.94,SC18 Map AbuDhabi,map,0,0,0,,{\fscx865.93\fscy
 Dialogue: 1,0:02:11.90,0:02:11.94,SC18 Map Karachi,map,0,0,0,,{\fscx823.68\fscy823.68\pos(1554.33,286.37)}Karachi
 Dialogue: 1,0:02:11.90,0:02:11.94,SC18 Map Iran,map,0,0,0,,{\fscx828.11\fscy828.11\pos(834.23,-44.87)}Iran
 Dialogue: 1,0:02:11.90,0:02:11.94,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx836.06\fscy836.06\pos(147.29,365.36)}Saudi Arabia
+Dialogue: 0,0:02:11.90,0:02:14.90,Dubtitles,,0,0,0,,Having managed to halt the\Nlovers' invasive attack,
 Dialogue: 1,0:02:11.94,0:02:11.98,SC18 Map ArabSea,map,0,0,0,,{\fscx916.52\fscy916.52\pos(1416.21,900.47)}Arabian Sea
 Dialogue: 1,0:02:11.94,0:02:11.98,SC18 Map Pakistan,map,0,0,0,,{\fscx810.46\fscy810.46\pos(1546.87,28.92)}Pakistan
 Dialogue: 1,0:02:11.94,0:02:11.98,SC18 Map AbuDhabi,map,0,0,0,,{\fscx850.95\fscy850.95\pos(757.83,261.43)}Abu Dhabi
 Dialogue: 1,0:02:11.94,0:02:11.98,SC18 Map Karachi,map,0,0,0,,{\fscx808.75\fscy808.75\pos(1554.81,285.35)}Karachi
 Dialogue: 1,0:02:11.94,0:02:11.98,SC18 Map Iran,map,0,0,0,,{\fscx813.74\fscy813.74\pos(847.13,-40.31)}Iran
 Dialogue: 1,0:02:11.94,0:02:11.98,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx822.81\fscy822.81\pos(171.61,362.68)}Saudi Arabia
-Dialogue: 0,0:02:11.96,0:02:14.96,Dubtitles,,0,0,0,,Having managed to halt the\Nlover's invasive attack,
 Dialogue: 1,0:02:11.98,0:02:12.02,SC18 Map ArabSea,map,0,0,0,,{\fscx901.4\fscy901.4\pos(1419.19,888.96)}Arabian Sea
 Dialogue: 1,0:02:11.98,0:02:12.02,SC18 Map Pakistan,map,0,0,0,,{\fscx796.61\fscy796.61\pos(1547.49,32.21)}Pakistan
 Dialogue: 1,0:02:11.98,0:02:12.02,SC18 Map AbuDhabi,map,0,0,0,,{\fscx837.15\fscy837.15\pos(771.97,260.48)}Abu Dhabi
@@ -893,7 +897,7 @@ Dialogue: 1,0:02:15.23,0:02:15.28,SC18 Map Cairo,map,0,0,0,,{\fscx662.86\fscy662
 Dialogue: 1,0:02:15.23,0:02:15.28,SC18 Map Iraq,map,0,0,0,,{\fscx820.04\fscy820.04\pos(946.29,-5.51)}Iraq
 Dialogue: 1,0:02:15.23,0:02:15.28,SC18 Map Iran,map,0,0,0,,{\fscx366.74\fscy366.74\pos(1249.41,101.93)}Iran
 Dialogue: 1,0:02:15.23,0:02:15.28,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx382.26\fscy382.26\pos(938.52,283.62)}Saudi Arabia
-Dialogue: 0,0:02:15.24,0:02:19.34,Dubtitles,,0,0,0,,Jotaro and company choose to avoid\Nthe political unrest in Iran and Iraq,
+Dialogue: 0,0:02:15.24,0:02:19.80,Dubtitles,,0,0,0,,Jotaro and company choose to avoid the\Npolitical unrest in Iran and Iraq and
 Dialogue: 1,0:02:15.28,0:02:15.32,SC18 Map RedSea,map,0,0,0,,{\fscx546.76\fscy546.76\frz290.3\pos(791.51,450.92)}Sea
 Dialogue: 1,0:02:15.28,0:02:15.32,SC18 Map RedSea,map,0,0,0,,{\fscx546.76\fscy546.76\frz290.3\pos(724.81,272.68)}Red
 Dialogue: 1,0:02:15.28,0:02:15.32,SC18 Map ArabSea,map,0,0,0,,{\fscx415.36\fscy415.36\pos(1509.14,529.98)}Arabian Sea
@@ -1312,7 +1316,6 @@ Dialogue: 1,0:02:19.36,0:02:19.41,SC18 Map Iraq,map,0,0,0,,{\fscx777.96\fscy777.
 Dialogue: 1,0:02:19.36,0:02:19.45,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx365.37\fscy365.37\pos(965.71,281.13)}Saudi Arabia
 Dialogue: 1,0:02:19.41,0:02:19.45,SC18 Map Cairo,map,0,0,0,,{\fscx621.37\fscy621.37\pos(659.28,52.28)}Cairo
 Dialogue: 1,0:02:19.41,0:02:19.45,SC18 Map Iraq,map,0,0,0,,{\fscx777.91\fscy777.91\pos(973,4.63)}Iraq
-Dialogue: 0,0:02:19.42,0:02:25.24,Dubtitles,,0,0,0,,and instead cross the Arabian Sea at Karachi\Nto arrive at the United Arab Emirates.
 Dialogue: 1,0:02:19.45,0:02:19.49,SC18 Map Cairo,map,0,0,0,,{\fscx621.31\fscy621.31\pos(659.28,52.28)}Cairo
 Dialogue: 1,0:02:19.45,0:02:19.49,SC18 Map Iraq,map,0,0,0,,{\fscx777.89\fscy777.89\pos(973,4.64)}Iraq
 Dialogue: 1,0:02:19.45,0:02:19.74,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx365.36\fscy365.36\pos(965.72,281.13)}Saudi Arabia
@@ -1338,6 +1341,7 @@ Dialogue: 1,0:02:19.82,0:02:19.86,SC18 Map Cairo,map,0,0,0,,{\fscx620.88\fscy620
 Dialogue: 1,0:02:19.82,0:02:19.86,SC18 Map Iraq,map,0,0,0,,{\fscx777.63\fscy777.63\pos(972.98,4.67)}Iraq
 Dialogue: 1,0:02:19.86,0:02:19.91,SC18 Map Cairo,map,0,0,0,,{\fscx620.82\fscy620.82\pos(659.3,52.3)}Cairo
 Dialogue: 1,0:02:19.86,0:02:19.91,SC18 Map Iraq,map,0,0,0,,{\fscx777.6\fscy777.6\pos(972.98,4.67)}Iraq
+Dialogue: 0,0:02:19.88,0:02:25.24,Dubtitles,,0,0,0,,instead cross the Arabian Sea at Karachi\Nto arrive at the United Arab Emirates.
 Dialogue: 1,0:02:19.91,0:02:19.95,SC18 Map Cairo,map,0,0,0,,{\fscx620.76\fscy620.76\pos(659.3,52.3)}Cairo
 Dialogue: 1,0:02:19.91,0:02:19.95,SC18 Map Iraq,map,0,0,0,,{\fscx777.57\fscy777.57\pos(972.98,4.68)}Iraq
 Dialogue: 1,0:02:19.91,0:02:20.07,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx365.37\fscy365.37\pos(965.72,281.14)}Saudi Arabia
@@ -1741,68 +1745,66 @@ Dialogue: 1,0:02:25.37,0:02:25.45,SC18 Map Iran,map,0,0,0,,{\fscx350.44\fscy350.
 Dialogue: 1,0:02:25.41,0:02:25.45,SC18 Map Cairo,map,0,0,0,,{\fscx631.98\fscy631.98\pos(659.57,51.44)}Cairo
 Dialogue: 1,0:02:25.41,0:02:25.45,SC18 Map Saudi Arabia,map,0,0,0,,{\fscx367.32\fscy367.32\pos(965.53,280.92)}Saudi Arabia
 Dialogue: 2,0:02:25.62,0:02:29.46,Title 3,ep,0,0,0,,{\fad(440,0)\pos(192,815)}Episode 18: The Sun
-Dialogue: 0,0:02:26.00,0:02:29.24,Dubtitles,,0,0,0,,Now then, if you'd be so kind\Nas to sign this document,
-Dialogue: 0,0:02:29.48,0:02:31.66,Dubtitles,,0,0,0,,everything will be squared away, sir.
-Dialogue: 0,0:02:32.24,0:02:33.07,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:02:33.30,0:02:34.48,Dubtitles,,0,0,0,,Right here, yes?
-Dialogue: 0,0:02:38.12,0:02:39.24,Dubtitles,,0,0,0,,Man, oh man.
+Dialogue: 0,0:02:25.96,0:02:29.12,Dubtitles,,0,0,0,,Now then, if you'd be so kind\Nas to sign this document,
+Dialogue: 0,0:02:29.20,0:02:31.62,Dubtitles,,0,0,0,,Everything will be squared away, sir.
+Dialogue: 0,0:02:32.28,0:02:33.11,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:02:33.40,0:02:34.46,Dubtitles,,0,0,0,,Right here, yes?
+Dialogue: 0,0:02:38.08,0:02:39.30,Dubtitles,,0,0,0,,Man, oh, man.
 Dialogue: 0,0:02:39.58,0:02:43.26,Dubtitles,,0,0,0,,You know, I'm the kind of guy who'd\Ndo almost anything for a pretty girl,
-Dialogue: 0,0:02:43.34,0:02:44.34,Dubtitles,,0,0,0,,even by a car.
-Dialogue: 0,0:02:44.52,0:02:45.86,Dubtitles,,0,0,0,,My, aren't you sweet.
+Dialogue: 0,0:02:43.34,0:02:44.38,Dubtitles,,0,0,0,,even by a car.
+Dialogue: 0,0:02:44.50,0:02:45.84,Dubtitles,,0,0,0,,My, aren't you sweet?
 Dialogue: 0,0:02:45.98,0:02:49.63,Dubtitles,,0,0,0,,How would you feel about the two\Nof us having dinner sometime?
-Dialogue: 0,0:02:50.74,0:02:51.72,Dubtitles,,0,0,0,,Sorry, Polnareff.
+Dialogue: 0,0:02:50.66,0:02:51.66,Dubtitles,,0,0,0,,Sorry, Polnareff.
 Dialogue: 0,0:02:51.80,0:02:56.40,Dubtitles,,0,0,0,,I hate to interrupt when you're\Nobviously so busy, but... Mr. Joestar!
-Dialogue: 0,0:02:56.80,0:02:58.38,Dubtitles,,0,0,0,,Come on, it's time to leave.
-Dialogue: 0,0:02:58.46,0:02:59.29,Dubtitles,,0,0,0,,Seriously.
-Dialogue: 0,0:02:59.37,0:03:01.08,Dubtitles,,0,0,0,,Try not to mess with the hair.
-Dialogue: 0,0:03:01.16,0:03:04.28,Dubtitles,,0,0,0,,Do you know how hard it is\Nto make it look this good?
-Dialogue: 0,0:03:04.48,0:03:06.74,Dubtitles,,0,0,0,,as if anybody cares about your hairdo.
-Dialogue: 0,0:03:07.08,0:03:08.02,Dubtitles,,0,0,0,,You're driving.
-Dialogue: 0,0:03:08.84,0:03:09.67,Dubtitles,,0,0,0,,Radio.
-Dialogue: 0,0:03:10.18,0:03:11.80,Dubtitles,,0,0,0,,Au River, mademoiselle.
-Dialogue: 0,0:03:12.84,0:03:14.30,Dubtitles,,0,0,0,,Hey, Mr. Joestar,
-Dialogue: 0,0:03:14.68,0:03:17.06,Dubtitles,,0,0,0,,I don't get why we're\Nriding in such a fancy,
-Dialogue: 0,0:03:17.14,0:03:19.43,Dubtitles,,0,0,0,,expensive car in this sandy death trap.
-Dialogue: 0,0:03:19.72,0:03:23.49,Dubtitles,,0,0,0,,Wouldn't it be better for us to\Nget an off-road vehicle instead?
-Dialogue: 0,0:03:27.22,0:03:29.70,Dubtitles,,0,0,0,,Oh, there's a method to my madness.
-Dialogue: 0,0:03:32.74,0:03:34.14,Dubtitles,,0,0,0,,C 'est magnifique!
-Dialogue: 0,0:03:34.52,0:03:35.87,Dubtitles,,0,0,0,,This country's amazing!
+Dialogue: 0,0:02:56.80,0:02:58.45,Dubtitles,,0,0,0,,Come on, it's time to leave.
+Dialogue: 0,0:02:58.68,0:03:01.08,Dubtitles,,0,0,0,,Seriously, try not to mess with the hair.
+Dialogue: 0,0:03:01.16,0:03:04.14,Dubtitles,,0,0,0,,Do you know how hard it is\Nto make it look this good?
+Dialogue: 0,0:03:04.22,0:03:06.72,Dubtitles,,0,0,0,,As if anybody cares about your hairdo.
+Dialogue: 0,0:03:07.08,0:03:08.00,Dubtitles,,0,0,0,,You're driving.
+Dialogue: 0,0:03:09.66,0:03:10.49,Dubtitles,,0,0,0,,Right-o.
+Dialogue: 0,0:03:10.57,0:03:11.80,Dubtitles,,0,0,0,,Au River, mademoiselle.
+Dialogue: 0,0:03:12.92,0:03:14.32,Dubtitles,,0,0,0,,Hey, Mr. Joestar,
+Dialogue: 0,0:03:14.70,0:03:19.64,Dubtitles,,0,0,0,,I don't get why we're riding in such a fancy\Nexpensive car in this sandy death trap.
+Dialogue: 0,0:03:19.74,0:03:23.51,Dubtitles,,0,0,0,,Wouldn't it be better for us to\Nget an off-road vehicle instead?
+Dialogue: 0,0:03:27.20,0:03:29.72,Dubtitles,,0,0,0,,Oh, there's a method to my madness.
+Dialogue: 0,0:03:32.70,0:03:34.14,Dubtitles,,0,0,0,,C 'est magnifique!
+Dialogue: 0,0:03:34.52,0:03:35.87,Dubtitles,,0,0,0,,This country's amazing.
 Dialogue: 0,0:03:36.20,0:03:38.26,Dubtitles,,0,0,0,,Are you guys seeing what I am here?
-Dialogue: 0,0:03:38.40,0:03:41.56,Dubtitles,,0,0,0,,It's like every house is a\Ncrazy mansion or something.
-Dialogue: 0,0:03:41.64,0:03:42.47,Dubtitles,,0,0,0,,Yeah.
-Dialogue: 0,0:03:43.00,0:03:47.20,Dubtitles,,0,0,0,,In Tokyo, a house like one of these\Nwould cost 3 or 4 billion yen.
-Dialogue: 0,0:03:48.10,0:03:51.81,Dubtitles,,0,0,0,,However, for most people in this\Ncountry, it's standard living.
-Dialogue: 0,0:03:52.08,0:03:55.70,Dubtitles,,0,0,0,,It wasn't but 20 years ago that\Nthis place was a barren desert,
-Dialogue: 0,0:03:55.78,0:03:58.26,Dubtitles,,0,0,0,,Though thanks to a thriving oil industry,
-Dialogue: 0,0:03:58.56,0:04:01.03,Dubtitles,,0,0,0,,it's grown into a playground for the rich.
-Dialogue: 0,0:04:01.16,0:04:04.34,Dubtitles,,0,0,0,,The sun is merciless, but at\Nleast with air conditioning,
-Dialogue: 0,0:04:04.42,0:04:06.86,Dubtitles,,0,0,0,,it's perfectly comfortable inside the car.
-Dialogue: 0,0:04:06.94,0:04:08.62,Dubtitles,,0,0,0,,So no complaints here.
-Dialogue: 0,0:04:09.98,0:04:10.81,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:04:11.44,0:04:12.90,Dubtitles,,0,0,0,,What's up, Kakyoin?
-Dialogue: 0,0:04:13.26,0:04:14.44,Dubtitles,,0,0,0,,It's nothing.
-Dialogue: 0,0:04:14.52,0:04:17.06,Dubtitles,,0,0,0,,I was just thinking about\Nhow open it is here.
-Dialogue: 0,0:04:17.14,0:04:19.50,Dubtitles,,0,0,0,,I know we could spot anyone following us,
-Dialogue: 0,0:04:19.58,0:04:23.99,Dubtitles,,0,0,0,,but I just can't shake the feeling that\Nthere's someone out there watching.
-Dialogue: 0,0:04:24.16,0:04:26.10,Dubtitles,,0,0,0,,Yeah, can't say that I blame you.
+Dialogue: 0,0:03:38.40,0:03:41.54,Dubtitles,,0,0,0,,It's like every house is a\Ncrazy mansion or something.
+Dialogue: 0,0:03:41.62,0:03:42.45,Dubtitles,,0,0,0,,Yeah.
+Dialogue: 0,0:03:43.00,0:03:47.22,Dubtitles,,0,0,0,,In Tokyo, a house like one of these\Nwould cost 3 or 4 billion yen.
+Dialogue: 0,0:03:48.02,0:03:51.73,Dubtitles,,0,0,0,,However, for most people in this\Ncountry, it's standard living.
+Dialogue: 0,0:03:52.06,0:03:55.78,Dubtitles,,0,0,0,,It wasn't but 20 years ago that\Nthis place was a barren desert,
+Dialogue: 0,0:03:56.04,0:03:58.45,Dubtitles,,0,0,0,,though thanks to a thriving oil industry,
+Dialogue: 0,0:03:58.62,0:04:01.08,Dubtitles,,0,0,0,,it's grown into a playground for the rich.
+Dialogue: 0,0:04:01.16,0:04:04.32,Dubtitles,,0,0,0,,The sun is merciless, but at\Nleast with air conditioning,
+Dialogue: 0,0:04:04.40,0:04:06.87,Dubtitles,,0,0,0,,it's perfectly comfortable inside the car.
+Dialogue: 0,0:04:06.96,0:04:08.62,Dubtitles,,0,0,0,,So no complaints here.
+Dialogue: 0,0:04:10.00,0:04:10.83,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:04:11.46,0:04:12.90,Dubtitles,,0,0,0,,What's wrong, Kakyoin?
+Dialogue: 0,0:04:13.28,0:04:14.42,Dubtitles,,0,0,0,,It's nothing.
+Dialogue: 0,0:04:14.50,0:04:16.82,Dubtitles,,0,0,0,,I was just thinking about\Nhow open it is here.
+Dialogue: 0,0:04:16.90,0:04:19.44,Dubtitles,,0,0,0,,I know we could spot anyone following us,
+Dialogue: 0,0:04:19.56,0:04:23.96,Dubtitles,,0,0,0,,but I just can't shake the feeling that\Nthere's someone out there watching.
+Dialogue: 0,0:04:24.04,0:04:25.98,Dubtitles,,0,0,0,,Yeah, can't say that I blame you.
 Dialogue: 0,0:04:26.98,0:04:28.60,Dubtitles,,0,0,0,,Well, back to business.
-Dialogue: 0,0:04:28.82,0:04:31.80,Dubtitles,,0,0,0,,I've given a bit of thought\Nto the route we should take.
-Dialogue: 0,0:04:31.88,0:04:35.64,Dubtitles,,0,0,0,,About 100 kilometers northwest\Nis a village called Yarplein.
-Dialogue: 0,0:04:35.88,0:04:39.88,Dubtitles,,0,0,0,,The desert and mountains make taking\Na direct route near impossible.
-Dialogue: 0,0:04:40.12,0:04:42.80,Dubtitles,,0,0,0,,It normally takes two\Ndays to reach my car.
-Dialogue: 0,0:04:43.00,0:04:46.88,Dubtitles,,0,0,0,,So to expedite the travel time, the\Nlocals use a Cessna to get there.
-Dialogue: 0,0:04:46.96,0:04:48.38,Dubtitles,,0,0,0,,If you want my opinion,
-Dialogue: 0,0:04:48.46,0:04:50.54,Dubtitles,,0,0,0,,we should go to the\Nvillage and buy a Cessna
-Dialogue: 0,0:04:50.62,0:04:53.44,Dubtitles,,0,0,0,,in order to cross the\Nvast Saudi Arabian desert.
-Dialogue: 0,0:04:53.82,0:04:57.42,Dubtitles,,0,0,0,,You know, I've been apprehensive\Nabout getting anywhere near a plane.
-Dialogue: 0,0:04:57.50,0:05:00.04,Dubtitles,,0,0,0,,If a stand user attacked\Nand the plane went down,
-Dialogue: 0,0:05:00.12,0:05:02.30,Dubtitles,,0,0,0,,we'd be putting innocent\Nlives in harm's way.
+Dialogue: 0,0:04:28.80,0:04:31.82,Dubtitles,,0,0,0,,I've given a bit of thought\Nto the route we should take.
+Dialogue: 0,0:04:31.90,0:04:35.72,Dubtitles,,0,0,0,,About a hundred kilometers northwest\Nis a village called Yarplein.
+Dialogue: 0,0:04:35.80,0:04:39.80,Dubtitles,,0,0,0,,The desert and mountains make taking\Na direct route near impossible.
+Dialogue: 0,0:04:40.08,0:04:42.80,Dubtitles,,0,0,0,,It normally takes two\Ndays to reach my car,
+Dialogue: 0,0:04:42.94,0:04:46.82,Dubtitles,,0,0,0,,so to expedite the travel time, the\Nlocals use a Cessna to get there.
+Dialogue: 0,0:04:46.90,0:04:48.42,Dubtitles,,0,0,0,,If you want my opinion,
+Dialogue: 0,0:04:48.62,0:04:50.52,Dubtitles,,0,0,0,,we should go to the\Nvillage and buy a Cessna
+Dialogue: 0,0:04:50.60,0:04:53.42,Dubtitles,,0,0,0,,in order to cross the\Nvast Saudi Arabian desert.
+Dialogue: 0,0:04:53.82,0:04:57.46,Dubtitles,,0,0,0,,You know, I've been apprehensive\Nabout getting anywhere near a plane.
+Dialogue: 0,0:04:57.54,0:05:00.06,Dubtitles,,0,0,0,,If a stand user attacked\Nand the plane went down,
+Dialogue: 0,0:05:00.14,0:05:02.30,Dubtitles,,0,0,0,,we'd be putting innocent\Nlives in harm's way.
 Dialogue: 0,0:05:02.38,0:05:04.76,Dubtitles,,0,0,0,,But if we had a Cessna,\NI could be the pilot.
-Dialogue: 0,0:05:04.84,0:05:07.50,Dubtitles,,0,0,0,,We'd be able to save a\Ncouple of days for sure.
-Dialogue: 0,0:05:07.58,0:05:11.06,Dubtitles,,0,0,0,,Flying in a Cessna with a man\Nwho's been in three plane crashes.
+Dialogue: 0,0:05:04.84,0:05:07.48,Dubtitles,,0,0,0,,We'd be able to save a\Ncouple of days for sure.
+Dialogue: 0,0:05:07.56,0:05:11.06,Dubtitles,,0,0,0,,Flying in a Cessna with a man\Nwho's been in three plane crashes.
 Dialogue: 0,0:05:11.14,0:05:13.67,Dubtitles,,0,0,0,,Yeah, that seems like\Na perfect idea to me.
 Dialogue: 0,0:05:16.14,0:05:18.14,Dubtitles,,0,0,0,,That comment notwithstanding,
-Dialogue: 0,0:05:18.70,0:05:20.78,Dubtitles,,0,0,0,,our priority should be\Ncrossing the desert.
+Dialogue: 0,0:05:18.70,0:05:20.78,Dubtitles,,0,0,0,,our priority should be crossing the desert
 Dialogue: 0,0:05:20.86,0:05:23.20,Dubtitles,,0,0,0,,and hightailing it to\Nthe village of Yarpline.
 Dialogue: 0,0:05:23.28,0:05:25.44,Dubtitles,,0,0,0,,It'll take us one day on Camelback.
 Dialogue: 0,0:05:26.40,0:05:27.23,Dubtitles,,0,0,0,,Camelback?
@@ -1819,7 +1821,7 @@ Dialogue: 0,0:05:55.66,0:05:58.43,Dubtitles,,0,0,0,,As for payment, how about\Na
 Dialogue: 0,0:05:59.70,0:06:04.00,Dubtitles,,0,0,0,,I couldn't possibly accept such a\Ngenerous offer! Yeah, Mr. Joestar!
 Dialogue: 0,0:06:04.36,0:06:07.18,Dubtitles,,0,0,0,,And besides, you literally\Njust bought that car!
 Dialogue: 0,0:06:07.90,0:06:11.56,Dubtitles,,0,0,0,,What other reason did you think I had\Nto buy such a fancy, expensive car?
-Dialogue: 0,0:06:11.64,0:06:14.76,Dubtitles,,0,0,0,,It's true an off-road vehicle\Nwould perform better here,
+Dialogue: 0,0:06:11.64,0:06:14.76,Dubtitles,,0,0,0,,It's true an off-road vehicle\Nwould perform better here.
 Dialogue: 0,0:06:14.84,0:06:16.61,Dubtitles,,0,0,0,,but we're not in the big city.
 Dialogue: 0,0:06:16.72,0:06:19.19,Dubtitles,,0,0,0,,We can't just write a check in this place.
 Dialogue: 0,0:06:19.52,0:06:21.60,Dubtitles,,0,0,0,,And cash isn't accepted here.
@@ -1873,29 +1875,18 @@ Dialogue: 0,0:08:42.30,0:08:43.88,Dubtitles,,0,0,0,,I made the camel sit down.
 Dialogue: 0,0:08:44.10,0:08:48.92,Dubtitles,,0,0,0,,If you just take the time to get inside\Nits head, it'll sit down for you for sure.
 Dialogue: 0,0:08:51.50,0:08:53.34,Dubtitles,,0,0,0,,Whoa, I did it!
 Dialogue: 0,0:08:54.96,0:08:57.54,Dubtitles,,0,0,0,,Whoa, it's so high off the ground.
-Dialogue: 0,0:08:57.98,0:09:00.24,Dubtitles,,0,0,0,,By the way, did you know camels?
-Dialogue: 0,0:09:00.32,0:09:04.54,Dubtitles,,0,0,0,,Can close their nostrils to keep\Nthe sand out and before I forget,
-Dialogue: 0,0:09:04.62,0:09:07.34,Dubtitles,,0,0,0,,you're forbidden from\Nmaking Stupid camel jokes!
-Dialogue: 0,0:09:07.42,0:09:08.32,Dubtitles,,0,0,0,,Is that understood?
-Dialogue: 0,0:09:08.40,0:09:11.02,Dubtitles,,0,0,0,,Your turn now, you greenhorns!
-Dialogue: 0,0:09:11.10,0:09:13.56,Dubtitles,,0,0,0,,Get to learn the finer\Npoints Of riding a camel!
-Dialogue: 0,0:09:13.64,0:09:15.12,Dubtitles,,0,0,0,,Listen up!
-Dialogue: 0,0:09:15.20,0:09:19.16,Dubtitles,,0,0,0,,The first thing you need to know is that\Ncamels don't walk anything Like horses!
-Dialogue: 0,0:09:19.24,0:09:22.24,Dubtitles,,0,0,0,,The front and back legs on either\Nside move forward together,
-Dialogue: 0,0:09:22.32,0:09:25.26,Dubtitles,,0,0,0,,so these things can sway a Lot\Nbut don't let that throw you off!
-Dialogue: 0,0:09:25.34,0:09:29.12,Dubtitles,,0,0,0,,If you find a way to ride with a camel's\Nrhythm, I know you'll Be just fine!
-Dialogue: 0,0:09:29.20,0:09:30.16,Dubtitles,,0,0,0,,For example!
-Dialogue: 0,0:09:30.24,0:09:32.36,Dubtitles,,0,0,0,,Yeah! Hey! Wait!
-Dialogue: 0,0:09:32.44,0:09:33.74,Dubtitles,,0,0,0,,You're going too fast!
-Dialogue: 0,0:09:33.82,0:09:34.74,Dubtitles,,0,0,0,,Slow down!
-Dialogue: 0,0:09:34.82,0:09:37.34,Dubtitles,,0,0,0,,Listen to me! Damn it! Yeah!
-Dialogue: 0,0:09:37.42,0:09:39.60,Dubtitles,,0,0,0,,I didn't tell you to go that way!
-Dialogue: 0,0:09:43.78,0:09:44.61,Dubtitles,,0,0,0,,Okay!
-Dialogue: 0,0:09:44.69,0:09:48.91,Dubtitles,,0,0,0,,Then now that everyone's gotten the hang\Nof mounting and riding their camels!
-Dialogue: 0,0:09:51.00,0:09:51.83,Dubtitles,,0,0,0,,All right!
-Dialogue: 0,0:09:51.91,0:09:53.46,Dubtitles,,0,0,0,,We have a desert to get through!
-Dialogue: 0,0:09:53.54,0:09:55.40,Dubtitles,,0,0,0,,The time has arrived! Men!
-Dialogue: 0,0:09:55.48,0:09:57.13,Dubtitles,,0,0,0,,Onward toward the northwest!
+Dialogue: 0,0:08:57.98,0:08:59.00,Dubtitles,,0,0,0,,By the way,
+Dialogue: 0,0:08:59.22,0:09:04.12,Dubtitles,,0,0,0,,did you know camels can close their\Nnostrils to keep the sand out and before i
+Dialogue: 0,0:09:04.20,0:09:09.38,Dubtitles,,0,0,0,,forget you're forbidden from making\Nstupid camel jokes is that understood your
+Dialogue: 0,0:09:09.46,0:09:14.74,Dubtitles,,0,0,0,,turn now you greenhorns get to learn the\Nfiner points of riding a camel listen
+Dialogue: 0,0:09:14.82,0:09:19.16,Dubtitles,,0,0,0,,up the first thing you need to know is\Nthat camels don't walk anything like horses
+Dialogue: 0,0:09:19.24,0:09:22.90,Dubtitles,,0,0,0,,the front and back legs on either side\Nmove forward together so these things
+Dialogue: 0,0:09:22.98,0:09:26.90,Dubtitles,,0,0,0,,can sway a lot but don't let that throw\Nyou off if you find a way to ride with a
+Dialogue: 0,0:09:26.98,0:09:33.12,Dubtitles,,0,0,0,,camel's rhythm i know you'll be just fine\Nfor example yeah hey wait you're going
+Dialogue: 0,0:09:33.20,0:09:39.60,Dubtitles,,0,0,0,,too fast slow down listen to me damn it\Nyeah i didn't tell you to go that way
+Dialogue: 0,0:09:43.78,0:09:48.62,Dubtitles,,0,0,0,,okay then now that everyone's gotten the\Nhang of mounting and riding their camels
+Dialogue: 0,0:09:51.00,0:09:54.20,Dubtitles,,0,0,0,,all right we have a\Ndesert to get through the
+Dialogue: 0,0:09:54.28,0:09:57.10,Dubtitles,,0,0,0,,time has arrived men\Nonward toward the northwest
 Dialogue: 0,0:09:58.38,0:09:59.88,Dubtitles,,0,0,0,,Hey, now, wait just a minute!
 Dialogue: 0,0:09:59.96,0:10:00.79,Dubtitles,,0,0,0,,Hey!
 Dialogue: 0,0:10:12.04,0:10:13.00,Dubtitles,,0,0,0,,Something's wrong.
@@ -1919,7 +1910,7 @@ Dialogue: 0,0:11:06.36,0:11:07.24,Dubtitles,,0,0,0,,But what is it?
 Dialogue: 0,0:11:08.98,0:11:11.08,Dubtitles,,0,0,0,,Hey, let's hurry up and go.
 Dialogue: 0,0:11:12.36,0:11:13.19,Dubtitles,,0,0,0,,Yeah.
 Dialogue: 0,0:11:13.27,0:11:14.78,Dubtitles,,0,0,0,,Let's get as far away as we can.
-Dialogue: 0,0:11:15.00,0:11:18.16,Dubtitles,,0,0,0,,We'll keep pressing forward until\Nthe sun goes down this evening,
+Dialogue: 0,0:11:15.00,0:11:18.16,Dubtitles,,0,0,0,,We'll keep pressing forward until\Nthe sun goes down this evening.
 Dialogue: 0,0:11:18.24,0:11:19.96,Dubtitles,,0,0,0,,then stop to pitch our tents.
 Dialogue: 0,0:11:20.30,0:11:23.06,Dubtitles,,0,0,0,,It's much too dangerous\Nfor us to travel at night.
 Dialogue: 0,0:11:23.14,0:11:26.14,Dubtitles,,0,0,0,,I only wish we could get\Nout of this freaking heat.
@@ -2097,7 +2088,7 @@ Dialogue: 0,0:13:04.89,0:13:06.52,Dubtitles,,0,0,0,,Though I doubt it'll take th
 Dialogue: 0,0:13:06.64,0:13:11.14,Dubtitles,,0,0,0,,The thing is, a sauna can dangerously\Nraise the body's temperature in minutes.
 Dialogue: 0,0:13:11.22,0:13:12.99,Dubtitles,,0,0,0,,Okay, then how do we fight it?
 Dialogue: 0,0:13:14.08,0:13:15.32,Dubtitles,,0,0,0,,C 'est des conneries!
-Dialogue: 0,0:13:15.40,0:13:16.40,Dubtitles,,0,0,0,,It's 70 degrees Celsius!
+Dialogue: 0,0:13:15.40,0:13:16.40,Dubtitles,,0,0,0,,It's 70 degrees now!
 Dialogue: 0,0:13:16.48,0:13:21.08,Dubtitles,,0,0,0,,And to add insult to injury, we can't\Ntell if the stand is close or not.
 Dialogue: 0,0:13:21.32,0:13:23.44,Dubtitles,,0,0,0,,The distance is impossible to judge.
 Dialogue: 0,0:13:23.96,0:13:28.08,Dubtitles,,0,0,0,,Our only option here is to\Nquickly take out the stand user.
@@ -2117,8 +2108,8 @@ Dialogue: 0,0:13:56.10,0:13:58.24,Dubtitles,,0,0,0,,The STAN user has to be near
 Dialogue: 0,0:14:11.06,0:14:12.24,Dubtitles,,0,0,0,,Hey, check it out.
 Dialogue: 0,0:14:12.32,0:14:15.36,Dubtitles,,0,0,0,,The camels are starting to\Ncollapse from exposure to the heat,
 Dialogue: 0,0:14:15.44,0:14:18.02,Dubtitles,,0,0,0,,and this wading isn't getting us anywhere.
-Dialogue: 0,0:14:18.34,0:14:21.54,Dubtitles,,0,0,0,,I'll use my Hierophant\Nto look around the area.
-Dialogue: 0,0:14:21.62,0:14:25.09,Dubtitles,,0,0,0,,Kakyoin! I'm only searching\Nfor the stand's rough location.
+Dialogue: 0,0:14:18.34,0:14:21.54,Dubtitles,,0,0,0,,I'll use Hierophant to do some\Nreconnaissance around the area.
+Dialogue: 0,0:14:21.62,0:14:25.09,Dubtitles,,0,0,0,,Kakyoin, I'm only searching\Nfor the stand's rough location.
 Dialogue: 0,0:14:25.26,0:14:30.14,Dubtitles,,0,0,0,,Once we know how far away it actually is,\Nwe might just be able to locate the user.
 Dialogue: 0,0:14:31.82,0:14:36.68,Dubtitles,,0,0,0,,20 meters, 40 meters, 60\Nmeters, 80 meters, 100!
 Dialogue: 0,0:14:38.52,0:14:39.81,Dubtitles,,0,0,0,,Something's not right.
@@ -2146,13 +2137,10 @@ Dialogue: 0,0:15:56.48,0:15:57.82,Dubtitles,,0,0,0,,Just lay low for now.
 Dialogue: 0,0:15:58.10,0:16:01.28,Dubtitles,,0,0,0,,We'll sit tight for a while\Nand see what happens next.
 Dialogue: 0,0:16:01.84,0:16:02.67,Dubtitles,,0,0,0,,Hmm?
 Dialogue: 0,0:16:04.60,0:16:05.64,Dubtitles,,0,0,0,,Oh, shit!
-Dialogue: 0,0:16:28.04,0:16:30.00,Dubtitles,,0,0,0,,Things can't go on like this.
-Dialogue: 0,0:16:30.08,0:16:32.20,Dubtitles,,0,0,0,,Come on, think! Damn it!
-Dialogue: 0,0:16:32.28,0:16:35.04,Dubtitles,,0,0,0,,It's time for this old timer\Nto take the bull by the horns!
-Dialogue: 0,0:16:35.12,0:16:37.36,Dubtitles,,0,0,0,,But this isn't the most ideal spot.
-Dialogue: 0,0:16:37.44,0:16:39.48,Dubtitles,,0,0,0,,I can't even use my best technique!
-Dialogue: 0,0:16:39.56,0:16:41.16,Dubtitles,,0,0,0,,It's crucial.
-Dialogue: 0,0:16:41.24,0:16:43.02,Dubtitles,,0,0,0,,that I get more information.
+Dialogue: 0,0:16:28.04,0:16:32.58,Dubtitles,,0,0,0,,Things can't go on like this!\NCome on, think, damn it, it's
+Dialogue: 0,0:16:32.66,0:16:35.04,Dubtitles,,0,0,0,,time for this old timer to\Ntake the bull by the horns
+Dialogue: 0,0:16:35.12,0:16:38.80,Dubtitles,,0,0,0,,but this isn't the most ideal\Nspot i can't even use my
+Dialogue: 0,0:16:38.88,0:16:43.02,Dubtitles,,0,0,0,,best technique it's crucial\Nthat I get more information.
 Dialogue: 0,0:16:43.92,0:16:44.75,Dubtitles,,0,0,0,,Jotaro!
 Dialogue: 0,0:16:52.76,0:16:54.62,Dubtitles,,0,0,0,,Son of a bitch!
 Dialogue: 0,0:16:54.86,0:16:56.21,Dubtitles,,0,0,0,,Where the hell are you?
@@ -2164,7 +2152,7 @@ Dialogue: 0,0:18:11.10,0:18:11.93,Dubtitles,,0,0,0,,already.
 Dialogue: 0,0:18:12.14,0:18:13.54,Dubtitles,,0,0,0,,Control yourself, man.
 Dialogue: 0,0:18:17.60,0:18:18.43,Dubtitles,,0,0,0,,Jotaro!
 Dialogue: 0,0:18:18.74,0:18:20.51,Dubtitles,,0,0,0,,This is happening to you, too?
-Dialogue: 0,0:18:29.28,0:18:30.22,Dubtitles,,0,0,0,,Polarib! No!
+Dialogue: 0,0:18:29.28,0:18:30.22,Dubtitles,,0,0,0,,Polnareff, no!
 Dialogue: 0,0:18:30.48,0:18:31.32,Dubtitles,,0,0,0,,Not you, too!
 Dialogue: 0,0:18:37.24,0:18:39.20,Dubtitles,,0,0,0,,Oh, my God! No!
 Dialogue: 0,0:18:39.52,0:18:40.72,Dubtitles,,0,0,0,,They've all lost it!
@@ -2178,13 +2166,12 @@ Dialogue: 0,0:19:00.02,0:19:03.24,Dubtitles,,0,0,0,,Please, please don't get the
 Dialogue: 0,0:19:03.32,0:19:04.15,Dubtitles,,0,0,0,,Joestar.
 Dialogue: 0,0:19:04.44,0:19:06.56,Dubtitles,,0,0,0,,Have a look at that rock over there.
 Dialogue: 0,0:19:06.90,0:19:10.55,Dubtitles,,0,0,0,,It's large enough for someone\Nto hide behind, don't you agree?
-Dialogue: 0,0:19:14.96,0:19:16.96,Dubtitles,,0,0,0,,What I don't follow you.
-Dialogue: 0,0:19:17.04,0:19:20.94,Dubtitles,,0,0,0,,Oh you will now take a look at the rock\Nthat's sitting on the opposite side.
-Dialogue: 0,0:19:21.02,0:19:22.84,Dubtitles,,0,0,0,,Opposite side huh.
-Dialogue: 0,0:19:22.92,0:19:28.52,Dubtitles,,0,0,0,,Um you still don't see it sir?
-Dialogue: 0,0:19:28.60,0:19:31.76,Dubtitles,,0,0,0,,Have another look. There's\Na rock that's exactly
-Dialogue: 0,0:19:31.84,0:19:34.34,Dubtitles,,0,0,0,,the same way but it's\Non the opposite side.
-Dialogue: 0,0:19:34.42,0:19:38.52,Dubtitles,,0,0,0,,The shadow is also reversed which means?
+Dialogue: 0,0:19:14.96,0:19:19.72,Dubtitles,,0,0,0,,What? I don't follow you. Oh, you will.\NNow take a look at the rock that's
+Dialogue: 0,0:19:19.80,0:19:20.94,Dubtitles,,0,0,0,,sitting on the opposite side
+Dialogue: 0,0:19:21.02,0:19:22.84,Dubtitles,,0,0,0,,opposite side huh
+Dialogue: 0,0:19:22.92,0:19:27.96,Dubtitles,,0,0,0,,um you still don't
+Dialogue: 0,0:19:28.04,0:19:32.90,Dubtitles,,0,0,0,,See it, sir, have another look. There's\Na rock that's exactly the same way.
+Dialogue: 0,0:19:32.98,0:19:38.52,Dubtitles,,0,0,0,,but it's on the opposite side the\Nshadow is also reversed which means
 Dialogue: 0,0:19:41.10,0:19:42.78,Dubtitles,,0,0,0,,What a stupid trick!
 Dialogue: 0,0:19:43.58,0:19:44.41,Dubtitles,,0,0,0,,Move.
 Dialogue: 0,0:19:44.49,0:19:45.44,Dubtitles,,0,0,0,,Stay here, old man.
@@ -2196,16 +2183,16 @@ Dialogue: 0,0:20:04.84,0:20:06.10,Dubtitles,,0,0,0,,Good grief, old man.
 Dialogue: 0,0:20:06.42,0:20:07.92,Dubtitles,,0,0,0,,You really are pathetic.
 Dialogue: 0,0:20:08.94,0:20:09.77,Dubtitles,,0,0,0,,Well,
 Dialogue: 0,0:20:09.85,0:20:13.38,Dubtitles,,0,0,0,,I'll just assume that the intense\Nheat was too much for you or
-Dialogue: 0,0:20:13.46,0:20:17.28,Dubtitles,,0,0,0,,else I'd find it very hard to\Nbelieve that you're my grandfather.
-Dialogue: 0,0:20:17.42,0:20:19.22,Dubtitles,,0,0,0,,Since we defeated the enemy stand,
-Dialogue: 0,0:20:19.30,0:20:23.22,Dubtitles,,0,0,0,,night's finally fallen or maybe I\Nshould say it's back to being night.
-Dialogue: 0,0:20:23.30,0:20:24.78,Dubtitles,,0,0,0,,However, you want to slice it.
+Dialogue: 0,0:20:13.46,0:20:17.23,Dubtitles,,0,0,0,,else I'd find it very hard to\Nbelieve that you're my grandfather
+Dialogue: 0,0:20:17.42,0:20:20.76,Dubtitles,,0,0,0,,Since we defeated the enemy\Nstand night's finally fallen
+Dialogue: 0,0:20:20.84,0:20:23.80,Dubtitles,,0,0,0,,or maybe I should say it's\Nback to being night However,
+Dialogue: 0,0:20:23.88,0:20:24.78,Dubtitles,,0,0,0,,you want to slice it.
 Dialogue: 0,0:20:24.86,0:20:28.92,Dubtitles,,0,0,0,,We're safe at last. Just how long\Ndo you plan on hiding in that hole?
 Dialogue: 0,0:20:29.10,0:20:30.34,Dubtitles,,0,0,0,,Oh, yeah, right?
 Dialogue: 0,0:20:31.92,0:20:32.96,Dubtitles,,0,0,0,,Good grief.
 Dialogue: 0,0:20:33.30,0:20:35.44,Dubtitles,,0,0,0,,It's finally gotten dark around here
 Dialogue: 0,0:20:38.72,0:20:39.94,Dubtitles,,0,0,0,,Well, what do you know?
-Dialogue: 0,0:20:40.02,0:20:40.85,Dubtitles,,0,0,0,,It's a mirror.
+Dialogue: 0,0:20:40.02,0:20:40.85,Dubtitles,,0,0,0,,It's a mirror!
 Dialogue: 0,0:20:40.94,0:20:41.94,Dubtitles,,0,0,0,,And look at this.
 Dialogue: 0,0:20:42.52,0:20:45.14,Dubtitles,,0,0,0,,Check out the little car\Nhe's got behind the mirror.
 Dialogue: 0,0:20:45.22,0:20:47.00,Dubtitles,,0,0,0,,It looks like it's rather comfy.
@@ -2220,7 +2207,7 @@ Dialogue: 0,0:21:01.40,0:21:02.84,Dubtitles,,0,0,0,,Oh, and here's a drink.
 Dialogue: 0,0:21:06.64,0:21:07.47,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:21:07.55,0:21:09.07,Dubtitles,,0,0,0,,Let me understand all this.
 Dialogue: 0,0:21:09.42,0:21:12.66,Dubtitles,,0,0,0,,You mean, we've already\Ndefeated the stand user?
-Dialogue: 0,0:21:12.94,0:21:14.53,Dubtitles,,0,0,0,,There's nothing else to do?
+Dialogue: 0,0:21:12.94,0:21:14.53,Dubtitles,,0,0,0,,There's nothing else to do.
 Dialogue: 0,0:21:14.74,0:21:16.80,Dubtitles,,0,0,0,,We don't even know this guy's name!
 Dialogue: 0,0:21:16.98,0:21:20.40,Dubtitles,,0,0,0,,But somehow we've already\Nmade short work of his stand?
 Dialogue: 0,0:21:21.42,0:21:23.60,Dubtitles,,0,0,0,,Yes, you've hit the nail on the head.
@@ -2252,53 +2239,47 @@ Dialogue: 0,0:21:41.44,0:21:42.44,Dubtitles,,0,0,0,,Hold your horses.
 Dialogue: 0,0:21:42.86,0:21:44.46,Dubtitles,,0,0,0,,Traveling at night is dangerous.
 Dialogue: 0,0:21:44.54,0:21:46.44,Dubtitles,,0,0,0,,If we're not careful,\Nwe could lose our way.
 Dialogue: 0,0:21:46.52,0:21:50.76,Dubtitles,,0,0,0,,Yeah, and with that idiot out of the\Nway, it'll be sweet dreams tonight.
-Dialogue: 0,0:22:11.76,0:22:14.50,Dubtitles,,0,0,0,,All the old paintings on the tomb.
+Dialogue: 0,0:22:11.76,0:22:15.90,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb. They do the sand dance,
 Dialogue: 1,0:22:12.26,0:22:14.68,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:22:14.58,0:22:16.52,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
 Dialogue: 1,0:22:14.68,0:22:16.94,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:22:16.60,0:22:18.08,Dubtitles,,0,0,0,,If they move too quick.
+Dialogue: 0,0:22:15.98,0:22:20.34,Dubtitles,,0,0,0,,Don't you know? If they move too\Nquick, they're falling down like
 Dialogue: 1,0:22:16.94,0:22:18.40,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:18.16,0:22:21.20,Dubtitles,,0,0,0,,They're falling down like a domino.
 Dialogue: 1,0:22:19.19,0:22:21.65,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:21.28,0:22:23.86,Dubtitles,,0,0,0,,All the birds are men by the Nile.
+Dialogue: 0,0:22:20.42,0:22:24.44,Dubtitles,,0,0,0,,A domino. All the birds are men\Nby the Nile. They've got their
 Dialogue: 1,0:22:21.65,0:22:23.98,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:22:23.94,0:22:25.90,Dubtitles,,0,0,0,,They've got their money on a bed.
 Dialogue: 1,0:22:23.98,0:22:26.32,Lyrics 2,,0,0,0,,They got the money on a bet
-Dialogue: 0,0:22:25.98,0:22:27.50,Dubtitles,,0,0,0,,Called crocodiles.
+Dialogue: 0,0:22:24.52,0:22:29.86,Dubtitles,,0,0,0,,money on a bed Called crocodiles\NThey snap their teeth on your
 Dialogue: 1,0:22:26.32,0:22:27.82,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:22:27.58,0:22:30.46,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
 Dialogue: 1,0:22:28.49,0:22:30.95,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
-Dialogue: 0,0:22:30.54,0:22:32.50,Dubtitles,,0,0,0,,Foreign types of the hookah. Walk
+Dialogue: 0,0:22:29.94,0:22:32.50,Dubtitles,,0,0,0,,Cigarette foreign types\Nof the hookah walk.
 Dialogue: 1,0:22:30.95,0:22:33.16,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
 Dialogue: 0,0:22:32.58,0:22:39.58,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:40.17,0:22:42.71,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:40.94,0:22:41.77,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:22:53.52,0:22:55.10,Dubtitles,,0,0,0,,The blonde waitresses.
+Dialogue: 0,0:22:40.94,0:22:41.77,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:22:53.52,0:22:57.76,Dubtitles,,0,0,0,,The blonde waitresses take their\Ntrays, spin around and they
 Dialogue: 1,0:22:54.10,0:22:56.56,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
-Dialogue: 0,0:22:55.18,0:22:56.48,Dubtitles,,0,0,0,,Take their trays.
-Dialogue: 0,0:22:56.56,0:22:58.48,Dubtitles,,0,0,0,,Spin around and they cross the floor.
 Dialogue: 1,0:22:56.56,0:22:58.94,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:22:58.56,0:23:00.00,Dubtitles,,0,0,0,,They've got the moves.
+Dialogue: 0,0:22:57.84,0:23:02.22,Dubtitles,,0,0,0,,Cross the floor. They've got the\Nmoves. You drop your drink. Then
 Dialogue: 1,0:22:58.94,0:23:00.19,Lyrics 2,,0,0,0,,They've got the moves
-Dialogue: 0,0:23:00.08,0:23:01.96,Dubtitles,,0,0,0,,You drop your drink.
 Dialogue: 1,0:23:01.23,0:23:03.57,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:23:02.04,0:23:03.14,Dubtitles,,0,0,0,,Then they bring you more.
-Dialogue: 0,0:23:03.22,0:23:05.78,Dubtitles,,0,0,0,,All the school kids so sick of books.
+Dialogue: 0,0:23:02.30,0:23:05.78,Dubtitles,,0,0,0,,they bring you more All the\Nschool kids so sick of books
 Dialogue: 1,0:23:03.57,0:23:05.90,Lyrics 2,,0,0,0,,All the school kids so sick of books
-Dialogue: 0,0:23:05.86,0:23:07.84,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:23:05.86,0:23:09.51,Dubtitles,,0,0,0,,They're like the punk and the\Nmetal band When the buzzer rings
 Dialogue: 1,0:23:05.90,0:23:08.24,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:23:07.92,0:23:09.40,Dubtitles,,0,0,0,,When the buzzer rings.
 Dialogue: 1,0:23:08.24,0:23:09.70,Lyrics 2,,0,0,0,,When the buzzer rings
-Dialogue: 0,0:23:10.12,0:23:12.10,Dubtitles,,0,0,0,,They're walking like an Egyptian.
+Dialogue: 0,0:23:10.12,0:23:13.36,Dubtitles,,0,0,0,,They're walking like an\NEgyptian. All the kids
 Dialogue: 1,0:23:10.53,0:23:12.87,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:23:12.18,0:23:14.74,Dubtitles,,0,0,0,,All the kids in the marketplace say.
 Dialogue: 1,0:23:12.87,0:23:15.08,Lyrics 2,,0,0,0,,All the kids in the marketplace say
+Dialogue: 0,0:23:13.44,0:23:14.74,Dubtitles,,0,0,0,,in the marketplace say
 Dialogue: 0,0:23:14.82,0:23:15.65,Dubtitles,,0,0,0,,Walk
 Dialogue: 0,0:23:15.73,0:23:22.66,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:23:22.21,0:23:25.30,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:23:22.90,0:23:23.73,Dubtitles,,0,0,0,,an Egyptian?
+Dialogue: 0,0:23:22.90,0:23:23.73,Dubtitles,,0,0,0,,an Egyptian
 Dialogue: 2,0:23:26.50,0:23:28.51,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:28.98,0:23:30.38,Dubtitles,,0,0,0,,Aaaaaaaaaaaaarrrrr
+Dialogue: 0,0:23:28.56,0:23:29.80,Dubtitles,,0,0,0,,Aaaaaaaah!
+Dialogue: 0,0:23:30.14,0:23:32.82,Dubtitles,,0,0,0,,Aqua -
+Dialogue: 0,0:23:34.00,0:23:34.92,Dubtitles,,0,0,0,,Aaaaaaah!
+Dialogue: 0,0:23:36.30,0:23:39.76,Dubtitles,,0,0,0,,M! NOOOOO!
 Dialogue: 2,0:23:39.52,0:23:41.52,Next Episode,sign,0,0,0,,{\pos(960,215)\fs100}Episode 19
 Dialogue: 2,0:23:39.52,0:23:41.52,Next Episode,sign,0,0,0,,{\fs100\pos(960,850)}Death 13, Part 1
 

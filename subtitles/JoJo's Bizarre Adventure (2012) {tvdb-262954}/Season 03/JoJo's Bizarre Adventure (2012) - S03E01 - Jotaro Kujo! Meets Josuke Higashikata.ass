@@ -44,14 +44,14 @@ Style: SFXYellow,KG Turning Tables,160,&H0061C4F5,&H000000FF,&H00091626,&H000711
 Style: SFXRed,LeviNaiveLetter,170,&H00331DC1,&H000000FF,&H0031C5E5,&H000A061B,0,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXGreen,Shaky Hand Some Comic Bold,170,&H697966DD,&H000000FF,&H00020104,&H00020104,0,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H2B69001E,&H000000FF,&H00000000,&H1FC2002B,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.72,0:00:09.58,Dubtitles,,0,0,0,,Good morning, rise and shine, everyone!
 Dialogue: 1,0:00:06.98,0:00:08.48,Narrator,Radio,0,0,0,,{\an8}Good morning!
 Dialogue: 1,0:00:08.48,0:00:11.49,Narrator,Radio,0,0,0,,{\an8}Greetings, all. It's Morioh Radio!
-Dialogue: 0,0:00:09.98,0:00:12.04,Dubtitles,,0,0,0,,You're listening to Mariah Radio.
+Dialogue: 0,0:00:09.98,0:00:12.04,Dubtitles,,0,0,0,,You're listening to Morio Radio.
 Dialogue: 1,0:00:11.49,0:00:15.74,Narrator,Radio,0,0,0,,{\an8}Coming at you once again is yours truly, Kai Harada.
 Dialogue: 0,0:00:12.52,0:00:16.20,Dubtitles,,0,0,0,,Kai Harada here, keeping you\Ncompany on this beautiful morning.
 Dialogue: 1,0:00:15.74,0:00:17.58,Narrator,Radio,0,0,0,,{\an8}Beautiful morning we're having, isn't it?
@@ -59,8 +59,7 @@ Dialogue: 0,0:00:16.28,0:00:20.52,Dubtitles,,0,0,0,,The day is shaping up to be 
 Dialogue: 1,0:00:17.58,0:00:20.83,Narrator,Radio,0,0,0,,{\an8}I have the perfect tune lined up here to start your day off right.
 Dialogue: 0,0:00:20.60,0:00:22.64,Dubtitles,,0,0,0,,So sit back, relax, and enjoy.
 Dialogue: 1,0:00:20.83,0:00:23.21,Narrator,Radio,0,0,0,,{\an8}Have a listen to our first song of the morning!
-Dialogue: 0,0:00:38.22,0:00:41.68,Dubtitles,,0,0,0,,As you know, I'm a man of loose!
-Dialogue: 0,0:00:41.76,0:00:44.48,Dubtitles,,0,0,0,,And I never believe in love?
+Dialogue: 0,0:00:38.22,0:00:44.48,Dubtitles,,0,0,0,,As you know, I'm a man of loose.\NAnd I never believe in love.
 Dialogue: 0,0:01:08.42,0:01:10.13,Dubtitles,,0,0,0,,Well, we're back in business.
 Dialogue: 0,0:01:10.48,0:01:13.72,Dubtitles,,0,0,0,,The reception usually clears\Nup once you're past the tower.
 Dialogue: 0,0:01:13.80,0:01:16.62,Dubtitles,,0,0,0,,Anyway, is this your\Nfirst time visiting Mario?
@@ -77,14 +76,13 @@ Dialogue: 0,0:01:38.52,0:01:40.86,Dubtitles,,0,0,0,,We're going to the front of 
 Dialogue: 0,0:01:40.94,0:01:42.14,Dubtitles,,0,0,0,,Right, almost there.
 Dialogue: 0,0:01:46.02,0:01:47.28,Dubtitles,,0,0,0,,Good freaking grief.
 Dialogue: 0,0:01:47.82,0:01:50.54,Dubtitles,,0,0,0,,I swear this better not\Nbe what I think it is.
-Dialogue: 0,0:01:59.80,0:02:01.96,Dubtitles,,0,0,0,,It happened in April 1999.
+Dialogue: 0,0:01:59.80,0:02:04.64,Dubtitles,,0,0,0,,It happened in April 1999. It was\Nmy first day of high school, and I
 Dialogue: 1,0:01:59.93,0:02:08.27,Thoughts,Koichi,0,0,0,,{\an8}During April of 1999, on my first day\Nof high school, I met two very bizarre men.
 Dialogue: 1,0:02:01.60,0:02:07.48,Title Part 4 Episode 1,Title,0,0,0,,{\fad(563,646)\pos(132,873)\fs60}Episode 1: {\fs80} Jotaro Kujo! Meets Josuke Higashikata
 Dialogue: 1,0:02:01.60,0:02:07.48,Title Part 4 Episode 1,Title,0,0,0,,{\fad(563,646)\pos(132,873)\fs(60)}Episode 1: {\fs(80)} Kujo Jotaro Meets Higashikata Josuke!
-Dialogue: 0,0:02:02.04,0:02:06.94,Dubtitles,,0,0,0,,It was my first day of high school and I\Nwas about to make two very bizarre friends.
-Dialogue: 0,0:02:07.02,0:02:12.14,Dubtitles,,0,0,0,,I was about to become a high School and\Nwondered what the others would be like.
-Dialogue: 0,0:02:12.22,0:02:15.78,Dubtitles,,0,0,0,,In case you were wondering,\Nmy name's Koichi Hirose.
-Dialogue: 0,0:02:15.86,0:02:18.14,Dubtitles,,0,0,0,,Though I guess it's not that important.
+Dialogue: 0,0:02:04.72,0:02:09.88,Dubtitles,,0,0,0,,was about to make two very bizarre\Nfriends i was about to become a high
+Dialogue: 0,0:02:09.96,0:02:14.00,Dubtitles,,0,0,0,,schooler and wondered what the\Nothers would be like in case you were
+Dialogue: 0,0:02:14.08,0:02:18.14,Dubtitles,,0,0,0,,wondering my name's koichi hirosei\Nthough i guess it's not that important
 Dialogue: 0,0:02:18.22,0:02:21.58,Dubtitles,,0,0,0,,Anyway, I was nervously\Nwalking myself to class when...
 Dialogue: 1,0:02:21.49,0:02:21.53,SFX,1,0,0,0,,{=9}{\blur0.6\bord4.44\fscx44.39\fscy34.14\pos(1026.68,430.25)\frz48.77\c&H010307&}Pow
 Dialogue: 2,0:02:21.49,0:02:21.53,SFX,1,0,0,0,,{=9}{\blur0.6\bord0\fscx44.39\fscy34.14\pos(1026.68,430.25)\frz48.77\4a&HFF&}Pow
@@ -359,11 +357,11 @@ Dialogue: 0,0:07:24.24,0:07:25.40,Dubtitles,,0,0,0,,So I was right.
 Dialogue: 0,0:07:25.76,0:07:27.88,Dubtitles,,0,0,0,,Somehow, the turtle's completely healed.
 Dialogue: 0,0:07:27.96,0:07:29.86,Dubtitles,,0,0,0,,Josuke Higashikata.
 Dialogue: 0,0:07:30.24,0:07:32.30,Dubtitles,,0,0,0,,You were born in the year 1983.
-Dialogue: 0,0:07:33.10,0:07:34.54,Dubtitles,,0,0,0,,Mother's name is Tomoko.
+Dialogue: 0,0:07:33.10,0:07:34.54,Dubtitles,,0,0,0,,Mother's name, Tomoko.
 Dialogue: 0,0:07:34.90,0:07:37.70,Dubtitles,,0,0,0,,She was 21, attending university in Tokyo.
 Dialogue: 0,0:07:38.54,0:07:40.90,Dubtitles,,0,0,0,,This town's the only\Nhome you've ever known.
 Dialogue: 0,0:07:40.98,0:07:46.08,Dubtitles,,0,0,0,,But everything changed in 1987, when you\Ncame down with a mysterious fever at age 4.
-Dialogue: 0,0:07:46.86,0:07:50.18,Dubtitles,,0,0,0,,For 50 days, you were a\Nknockaway from death's door.
+Dialogue: 0,0:07:46.86,0:07:50.18,Dubtitles,,0,0,0,,For 50 days, you were a\Nknock away from death's door.
 Dialogue: 0,0:07:51.26,0:07:52.96,Dubtitles,,0,0,0,,Your father's name is...
 Dialogue: 0,0:07:53.48,0:07:54.42,Dubtitles,,0,0,0,,Good grief.
 Dialogue: 0,0:07:54.70,0:07:56.04,Dubtitles,,0,0,0,,How'd I get mixed up in this?
@@ -558,7 +556,7 @@ Dialogue: 0,0:13:36.86,0:13:39.82,Dubtitles,,0,0,0,,He's one of the other bizarr
 Dialogue: 0,0:13:39.90,0:13:43.68,Dubtitles,,0,0,0,,One second he's a wallflower, the\Nnext he's acting like a crazy person.
 Dialogue: 0,0:13:43.76,0:13:45.88,Dubtitles,,0,0,0,,He's got some family drama going on.
 Dialogue: 0,0:13:47.58,0:13:50.05,Dubtitles,,0,0,0,,That's one way to make a first impression.
-Dialogue: 0,0:13:51.30,0:13:52.13,Dubtitles,,0,0,0,,Josuke.
+Dialogue: 0,0:13:51.30,0:13:52.13,Dubtitles,,0,0,0,,Chosuke.
 Dialogue: 0,0:13:52.21,0:13:53.52,Dubtitles,,0,0,0,,That kid's a strange one.
 Dialogue: 0,0:13:53.80,0:13:55.32,Dubtitles,,0,0,0,,Not to mention his stand.
 Dialogue: 0,0:13:56.60,0:13:59.36,Dubtitles,,0,0,0,,Given that my hat isn't\Ncurrently ripped all hell,
@@ -605,68 +603,52 @@ Dialogue: 1,0:14:27.67,0:14:30.51,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:14:27.76,0:14:27.84,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}C
 Dialogue: 2,0:14:27.76,0:14:27.84,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}C
 Dialogue: 3,0:14:27.76,0:14:27.84,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}C
-Dialogue: 1,0:14:27.76,0:14:27.84,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}C
 Dialogue: 1,0:14:27.84,0:14:27.93,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Cr
 Dialogue: 2,0:14:27.84,0:14:27.93,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Cr
 Dialogue: 3,0:14:27.84,0:14:27.93,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Cr
-Dialogue: 1,0:14:27.84,0:14:27.93,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Cr
 Dialogue: 1,0:14:27.93,0:14:28.01,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Cra
 Dialogue: 2,0:14:27.93,0:14:28.01,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Cra
 Dialogue: 3,0:14:27.93,0:14:28.01,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Cra
-Dialogue: 1,0:14:27.93,0:14:28.01,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Cra
 Dialogue: 1,0:14:28.01,0:14:28.09,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Craz
 Dialogue: 2,0:14:28.01,0:14:28.09,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Craz
 Dialogue: 3,0:14:28.01,0:14:28.09,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Craz
-Dialogue: 1,0:14:28.01,0:14:28.09,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Craz
 Dialogue: 1,0:14:28.09,0:14:28.18,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy
 Dialogue: 2,0:14:28.09,0:14:28.18,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy
 Dialogue: 3,0:14:28.09,0:14:28.18,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy
-Dialogue: 1,0:14:28.09,0:14:28.18,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy
 Dialogue: 1,0:14:28.18,0:14:28.22,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy D
 Dialogue: 2,0:14:28.18,0:14:28.22,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy D
 Dialogue: 3,0:14:28.18,0:14:28.22,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy D
-Dialogue: 1,0:14:28.18,0:14:28.22,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy D
 Dialogue: 1,0:14:28.22,0:14:28.30,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy Di
 Dialogue: 2,0:14:28.22,0:14:28.30,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy Di
 Dialogue: 3,0:14:28.22,0:14:28.30,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy Di
-Dialogue: 1,0:14:28.22,0:14:28.30,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy Di
 Dialogue: 1,0:14:28.30,0:14:28.38,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy Dia
 Dialogue: 2,0:14:28.30,0:14:28.38,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy Dia
 Dialogue: 3,0:14:28.30,0:14:28.38,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy Dia
-Dialogue: 1,0:14:28.30,0:14:28.38,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy Dia
 Dialogue: 1,0:14:28.38,0:14:28.47,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy Diam
 Dialogue: 2,0:14:28.38,0:14:28.47,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy Diam
 Dialogue: 3,0:14:28.38,0:14:28.47,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy Diam
-Dialogue: 1,0:14:28.38,0:14:28.47,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy Diam
 Dialogue: 1,0:14:28.47,0:14:28.55,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy Diamo
 Dialogue: 2,0:14:28.47,0:14:28.55,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy Diamo
 Dialogue: 3,0:14:28.47,0:14:28.55,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy Diamo
-Dialogue: 1,0:14:28.47,0:14:28.55,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy Diamo
 Dialogue: 1,0:14:28.55,0:14:28.63,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy Diamon
 Dialogue: 2,0:14:28.55,0:14:28.63,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy Diamon
 Dialogue: 3,0:14:28.55,0:14:28.63,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy Diamon
-Dialogue: 1,0:14:28.55,0:14:28.63,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy Diamon
 Dialogue: 1,0:14:28.63,0:14:30.51,Eyecatch - Right,signbot,0,0,0,,{\blur14\pos(1357,782)\alpha&H40&\3c&HFFFFFF&}Crazy Diamond
 Dialogue: 2,0:14:28.63,0:14:30.51,Eyecatch - Right,signbot,0,0,0,,{\blur0.6\pos(1357,782)\c&H050707&}Crazy Diamond
 Dialogue: 3,0:14:28.63,0:14:30.51,Eyecatch - Right,signbot,0,0,0,,{\bord0\blur0.6\pos(1357,782)\shad2\4a&HFF&}Crazy Diamond
-Dialogue: 1,0:14:28.63,0:14:30.51,Eyecatch - Right,signbot,0,0,0,,{\pos(1357,782)}Crazy Diamond
 Dialogue: 1,0:14:29.09,0:14:29.22,Eyecatch - Left,signtop,0,0,0,,{\blur14\pos(130,372.2)\alpha&H40&\3c&HFFFFFF&}Higashi
 Dialogue: 2,0:14:29.09,0:14:29.22,Eyecatch - Left,signtop,0,0,0,,{\blur0.6\pos(130,372.2)\c&H0F0A0A&}Higashi
 Dialogue: 3,0:14:29.09,0:14:29.22,Eyecatch - Left,signtop,0,0,0,,{\bord0\blur0.6\pos(130,372.2)\shad2\4a&HFF&}Higashi
-Dialogue: 1,0:14:29.09,0:14:29.22,Eyecatch - Left,signtop,0,0,0,,{\pos(130,372.2)}Higashi
 Dialogue: 1,0:14:29.22,0:14:29.34,Eyecatch - Left,signtop,0,0,0,,{\blur14\pos(130,372.2)\alpha&H40&\3c&HFFFFFF&}Higashikata
 Dialogue: 2,0:14:29.22,0:14:29.34,Eyecatch - Left,signtop,0,0,0,,{\blur0.6\pos(130,372.2)\c&H0F0A0A&}Higashikata
 Dialogue: 3,0:14:29.22,0:14:29.34,Eyecatch - Left,signtop,0,0,0,,{\bord0\blur0.6\pos(130,372.2)\shad2\4a&HFF&}Higashikata
-Dialogue: 1,0:14:29.22,0:14:29.34,Eyecatch - Left,signtop,0,0,0,,{\pos(130,372.2)}Higashikata
 Dialogue: 1,0:14:29.22,0:14:30.51,Eyecatch - Stats,sign bot,0,0,0,,{\fad(300,0)}Power: A \NSpeed: A \NRange: D \NDurability: B \NPrecision: B \NGrowth Potential: C
 Dialogue: 1,0:14:29.34,0:14:29.47,Eyecatch - Left,signtop,0,0,0,,{\blur14\pos(130,372.2)\alpha&H40&\3c&HFFFFFF&}Higashikata Jo
 Dialogue: 2,0:14:29.34,0:14:29.47,Eyecatch - Left,signtop,0,0,0,,{\blur0.6\pos(130,372.2)\c&H0F0A0A&}Higashikata Jo
 Dialogue: 3,0:14:29.34,0:14:29.47,Eyecatch - Left,signtop,0,0,0,,{\bord0\blur0.6\pos(130,372.2)\shad2\4a&HFF&}Higashikata Jo
-Dialogue: 1,0:14:29.34,0:14:29.47,Eyecatch - Left,signtop,0,0,0,,{\pos(130,372.2)}Higashikata Jo
 Dialogue: 1,0:14:29.47,0:14:30.51,Eyecatch - Left,signtop,0,0,0,,{\blur14\pos(130,372.2)\alpha&H40&\3c&HFFFFFF&}Higashikata Josuke
 Dialogue: 2,0:14:29.47,0:14:30.51,Eyecatch - Left,signtop,0,0,0,,{\blur0.6\pos(130,372.2)\c&H0F0A0A&}Higashikata Josuke
 Dialogue: 3,0:14:29.47,0:14:30.51,Eyecatch - Left,signtop,0,0,0,,{\bord0\blur0.6\pos(130,372.2)\shad2\4a&HFF&}Higashikata Josuke
-Dialogue: 1,0:14:29.47,0:14:30.51,Eyecatch - Left,signtop,0,0,0,,{\pos(130,372.2)}Higashikata Josuke
 Dialogue: 0,0:14:31.50,0:14:33.20,Dubtitles,,0,0,0,,Hey, good looking!
 Dialogue: 0,0:14:33.56,0:14:34.52,Dubtitles,,0,0,0,,Where you headed?
 Dialogue: 0,0:14:34.60,0:14:36.31,Dubtitles,,0,0,0,,I'll take you where you want.
@@ -778,7 +760,7 @@ Dialogue: 0,0:16:17.84,0:16:19.28,Dubtitles,,0,0,0,,That was actually my plan.
 Dialogue: 0,0:16:19.36,0:16:21.34,Dubtitles,,0,0,0,,I doubt he'll come straight home, though.
 Dialogue: 0,0:16:21.42,0:16:23.46,Dubtitles,,0,0,0,,That child of mine likes his detours.
 Dialogue: 0,0:16:23.54,0:16:24.37,Dubtitles,,0,0,0,,That he does.
-Dialogue: 0,0:16:24.86,0:16:27.44,Dubtitles,,0,0,0,,Hey, I want to stop by Kameyu, can we?
+Dialogue: 0,0:16:24.86,0:16:27.44,Dubtitles,,0,0,0,,Hey, I want to stop by Kame Yu, can we?
 Dialogue: 0,0:16:27.66,0:16:28.56,Dubtitles,,0,0,0,,Are you crazy?
 Dialogue: 0,0:16:28.82,0:16:31.14,Dubtitles,,0,0,0,,I just bought you an\Nexpensive bag, remember?
 Dialogue: 0,0:16:31.22,0:16:33.93,Dubtitles,,0,0,0,,Please, baby, I want to\Nlook at clothes today.
@@ -789,9 +771,9 @@ Dialogue: 0,0:16:42.00,0:16:45.34,Dubtitles,,0,0,0,,What kind of moron slams int
 Dialogue: 0,0:16:45.42,0:16:46.25,Dubtitles,,0,0,0,,Forget him.
 Dialogue: 0,0:16:46.33,0:16:47.60,Dubtitles,,0,0,0,,Let's just get out of here, babe.
 Dialogue: 0,0:16:47.68,0:16:50.97,Dubtitles,,0,0,0,,Yeah, yeah, you're still\Nangling for Kameyu, aren't you?
-Dialogue: 0,0:16:58.72,0:17:01.38,Dubtitles,,0,0,0,,Angelo Katagiri, a .k. a. Angelo.
+Dialogue: 0,0:16:58.72,0:17:01.38,Dubtitles,,0,0,0,,Angelo Katagiri, a.k.a. Angelo.
 Dialogue: 0,0:17:01.78,0:17:06.84,Dubtitles,,0,0,0,,He was born in Morioh in\N1964 and has an IQ of 160.
-Dialogue: 0,0:17:07.52,0:17:11.76,Dubtitles,,0,0,0,,He was sent to Juvie for robbery and\Nrape when he was only 12 years old.
+Dialogue: 0,0:17:07.52,0:17:11.76,Dubtitles,,0,0,0,,He was sent to juvie for theft and\Nrape when he was only 12 years old.
 Dialogue: 0,0:17:12.14,0:17:14.52,Dubtitles,,0,0,0,,That was the beginning of his depravity.
 Dialogue: 0,0:17:16.48,0:17:19.40,Dubtitles,,0,0,0,,He earned a reputation for\Nbeing the most violent,
 Dialogue: 0,0:17:19.48,0:17:22.42,Dubtitles,,0,0,0,,abominable criminal to\Never walk on Japanese soil.
@@ -803,12 +785,12 @@ Dialogue: 0,0:17:36.94,0:17:40.72,Dubtitles,,0,0,0,,He was eventually arrested,\
 Dialogue: 0,0:17:40.80,0:17:43.82,Dubtitles,,0,0,0,,But unfortunately for all\Ninvolved, the execution
 Dialogue: 0,0:17:45.20,0:17:46.03,Dubtitles,,0,0,0,,didn't stick.
 Dialogue: 0,0:17:46.11,0:17:48.48,Dubtitles,,0,0,0,,Angelo escaped from custody shortly after,
-Dialogue: 0,0:17:48.56,0:17:53.14,Dubtitles,,0,0,0,,and he most likely became a Stand user\Nright before his execution I'm not sure
-Dialogue: 0,0:17:53.22,0:17:59.20,Dubtitles,,0,0,0,,why but he's now hiding in the shadows\Nof this quiet town and I have no idea
-Dialogue: 0,0:17:59.28,0:18:05.28,Dubtitles,,0,0,0,,where oh hey Koichi
+Dialogue: 0,0:17:48.56,0:17:53.14,Dubtitles,,0,0,0,,and he most likely became a stand user\Nright before his execution i'm not sure
+Dialogue: 0,0:17:53.22,0:17:59.20,Dubtitles,,0,0,0,,why but he's now hiding in the shadows\Nof this quiet town and i have no idea
+Dialogue: 0,0:17:59.28,0:18:05.28,Dubtitles,,0,0,0,,where oh hey koichi
 Dialogue: 0,0:18:05.36,0:18:06.92,Dubtitles,,0,0,0,,you headed home uh
 Dialogue: 0,0:18:07.00,0:18:10.68,Dubtitles,,0,0,0,,yeah guess so so we're classmates yeah
-Dialogue: 0,0:18:10.76,0:18:15.70,Dubtitles,,0,0,0,,what a coincidence well I'll catch you\Ntomorrow have a good evening hey uh Josuke,
+Dialogue: 0,0:18:10.76,0:18:15.70,Dubtitles,,0,0,0,,what a coincidence well i'll catch you\Ntomorrow have a good evening hey uh Josuke,
 Dialogue: 0,0:18:15.84,0:18:17.13,Dubtitles,,0,0,0,,can you wait a moment?
 Dialogue: 0,0:18:18.34,0:18:19.17,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:18:20.90,0:18:21.73,Dubtitles,,0,0,0,,I see.
@@ -849,8 +831,8 @@ Dialogue: 0,0:19:45.40,0:19:48.93,Dubtitles,,0,0,0,,Yeah, you're probably you ov
 Dialogue: 0,0:19:49.30,0:19:51.72,Dubtitles,,0,0,0,,I told your ass to get away from the car.
 Dialogue: 0,0:19:51.90,0:19:53.08,Dubtitles,,0,0,0,,What do you want me to kill you?
 Dialogue: 0,0:19:53.16,0:19:54.34,Dubtitles,,0,0,0,,I have a bad feeling
-Dialogue: 0,0:19:54.92,0:19:56.27,Dubtitles,,0,0,0,,This is gonna get ugly.
-Dialogue: 0,0:19:58.58,0:19:59.96,Dubtitles,,0,0,0,,Yep, I knew it!
+Dialogue: 0,0:19:54.92,0:19:56.26,Dubtitles,,0,0,0,,This is gonna get ugly
+Dialogue: 0,0:19:58.58,0:19:59.96,Dubtitles,,0,0,0,,Yep, I knew it
 Dialogue: 1,0:20:02.13,0:20:02.18,SFXGreen,5,0,0,0,,{=23}{\blur2\bord16.11\fscx209.45\fscy161.12\pos(1918.13,149.52)\frz34.27\c&H020104&}Zam!
 Dialogue: 2,0:20:02.13,0:20:02.18,SFXGreen,5,0,0,0,,{=23}{\blur2\bord0\fscx209.45\fscy161.12\pos(1918.13,149.52)\frz34.27\c&H3A8631&\4a&HFF&}Zam!
 Dialogue: 1,0:20:02.18,0:20:02.22,SFXGreen,5,0,0,0,,{=23}{\blur2\bord13.71\fscx178.2\fscy137.08\pos(1820.43,230.38)\frz34.27\c&H020104&}Zam!
@@ -865,7 +847,7 @@ Dialogue: 1,0:20:02.34,0:20:02.38,SFXGreen,5,0,0,0,,{=23}{\blur1\bord9.84\fscx12
 Dialogue: 2,0:20:02.34,0:20:02.38,SFXGreen,5,0,0,0,,{=23}{\blur1\bord0\fscx127.94\fscy98.41\pos(1634.32,341.53)\frz34.27\4a&HFF&}Z{*\c&H6063A7&}a{*\c&H475F72&}m{\c&H2E5C3C&}!
 Dialogue: 1,0:20:02.38,0:20:02.43,SFXGreen,5,0,0,0,,{=23}{\blur1\bord9.85\fscx128.09\fscy98.53\pos(1633.74,339.68)\frz34.27\c&H020104&}Zam!
 Dialogue: 2,0:20:02.38,0:20:02.43,SFXGreen,5,0,0,0,,{=23}{\blur1\bord0\fscx128.09\fscy98.53\pos(1633.74,339.68)\frz34.27\4a&HFF&}Z{*\c&H6063A7&}a{*\c&H475F72&}m{\c&H2E5C3C&}!
-Dialogue: 0,0:20:02.42,0:20:04.10,Dubtitles,,0,0,0,,Oh no, here it comes?
+Dialogue: 0,0:20:02.42,0:20:04.10,Dubtitles,,0,0,0,,Oh no, here it comes
 Dialogue: 1,0:20:02.43,0:20:02.47,SFXGreen,5,0,0,0,,{=23}{\blur1\bord9.96\fscx129.44\fscy99.57\pos(1634.74,338.61)\frz34.27\c&H020104&}Zam!
 Dialogue: 2,0:20:02.43,0:20:02.47,SFXGreen,5,0,0,0,,{=23}{\blur1\bord0\fscx129.44\fscy99.57\pos(1634.74,338.61)\frz34.27\4a&HFF&}Z{*\c&H6063A7&}a{*\c&H475F72&}m{\c&H2E5C3C&}!
 Dialogue: 1,0:20:02.47,0:20:02.51,SFXGreen,5,0,0,0,,{=23}{\blur1\bord9.92\fscx128.96\fscy99.2\pos(1636.86,340.39)\frz34.27\c&H020104&}Zam!
@@ -1028,21 +1010,21 @@ Dialogue: 0,0:22:10.71,0:22:12.81,Dubtitles,,0,0,0,,Jotaro was telling the truth
 Dialogue: 1,0:22:17.31,0:22:21.06,Main,Josuke,0,0,0,,{\an8}Lemme go! I did nothing wrong!
 Dialogue: 0,0:22:18.18,0:22:20.24,Dubtitles,,0,0,0,,Something's happening in this town.
 Dialogue: 0,0:22:20.40,0:22:22.93,Dubtitles,,0,0,0,,It's almost as if I\Ncan feel it in the air.
-Dialogue: 0,0:22:23.96,0:22:27.02,Dubtitles,,0,0,0,,Whatever found its way\Ninto Mariah... It's...
+Dialogue: 0,0:22:23.96,0:22:27.02,Dubtitles,,0,0,0,,Whatever found its way\Ninto Morioh... It's...
 Dialogue: 0,0:22:27.10,0:22:28.26,Dubtitles,,0,0,0,,it's monstrous.
 Dialogue: 0,0:22:34.58,0:22:36.64,Dubtitles,,0,0,0,,Hey, Josuke, can you get the phone?
 Dialogue: 0,0:22:37.52,0:22:39.00,Dubtitles,,0,0,0,,What are you doing, Josuke?
 Dialogue: 0,0:22:39.08,0:22:40.14,Dubtitles,,0,0,0,,Answer the damn phone!
 Dialogue: 0,0:22:40.22,0:22:42.87,Dubtitles,,0,0,0,,Yeah, yeah, don't have\Na cow, I'm getting it.
 Dialogue: 0,0:22:44.34,0:22:45.17,Dubtitles,,0,0,0,,Hello?
-Dialogue: 0,0:22:45.76,0:22:46.68,Dubtitles,,0,0,0,,It's Jotsuro.
+Dialogue: 0,0:22:45.76,0:22:46.68,Dubtitles,,0,0,0,,It's Jotaro.
 Dialogue: 0,0:22:47.00,0:22:47.88,Dubtitles,,0,0,0,,Oh, hi.
 Dialogue: 0,0:22:48.70,0:22:51.08,Dubtitles,,0,0,0,,Our conversation yesterday was too brief.
 Dialogue: 0,0:22:51.16,0:22:53.88,Dubtitles,,0,0,0,,We need to talk about the\Nguy hiding in this town.
 Dialogue: 0,0:22:53.96,0:22:56.08,Dubtitles,,0,0,0,,Um, I wanted to talk about that too.
 Dialogue: 0,0:22:56.18,0:22:57.06,Dubtitles,,0,0,0,,We should meet.
 Dialogue: 0,0:22:57.34,0:22:59.10,Dubtitles,,0,0,0,,You staying somewhere in town?
-Dialogue: 0,0:22:59.18,0:23:01.36,Dubtitles,,0,0,0,,I'm at the Mariah Grand Hotel for now.
+Dialogue: 0,0:22:59.18,0:23:01.36,Dubtitles,,0,0,0,,I'm at the Morio Grand Hotel for now.
 Dialogue: 0,0:23:01.48,0:23:02.66,Dubtitles,,0,0,0,,What's on your mind?
 Dialogue: 0,0:23:03.12,0:23:04.42,Dubtitles,,0,0,0,,Well, to be honest.
 Dialogue: 0,0:23:05.72,0:23:07.78,Dubtitles,,0,0,0,,Damn it, this really pisses me off.
@@ -1054,54 +1036,39 @@ Dialogue: 0,0:23:19.48,0:23:21.20,Dubtitles,,0,0,0,,Not that he could appreciate
 Dialogue: 0,0:23:21.28,0:23:24.00,Dubtitles,,0,0,0,,That kid's such a lucky bastard.
 Dialogue: 0,0:23:24.52,0:23:25.94,Dubtitles,,0,0,0,,Josuke Higashikata.
 Dialogue: 0,0:23:26.36,0:23:28.84,Dubtitles,,0,0,0,,You'd better not get too\Ncocky, you little pissant.
-Dialogue: 0,0:23:28.92,0:23:32.74,Dubtitles,,0,0,0,,Because I'm going to stamp your\Nsoul and your precious little life.
+Dialogue: 0,0:23:28.92,0:23:32.74,Dubtitles,,0,0,0,,Because I'm going to stomp your\Nsoul and your precious little life.
 Dialogue: 0,0:23:32.82,0:23:35.29,Dubtitles,,0,0,0,,I'm going to get to have my fun after all.
 Dialogue: 1,0:23:40.14,0:23:41.14,Next Episode Title,sign,0,0,0,,{\an3\fad(350,0)\be25\pos(1830,794)}Josuke Meets Angelo!
 Dialogue: 1,0:23:40.14,0:23:43.02,Next Episode,sign,0,0,0,,{\fad(350,0)\be25\pos(325,250)}Episode 2
 Dialogue: 1,0:23:40.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\fad(350,0)\be25\pos(398,724)}Higashikata
 Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,795)\fs142\1c&H120B13&}Jo
 Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,795)\fs(142)\1c&H120B13&}Jo
 Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,796)\fs144\1c&H210826&}Jo
 Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,796)\fs(144)\1c&H210826&}Jo
 Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,796)\fs146\1c&H2D0334&}Jo
 Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,796)\fs(146)\1c&H2D0334&}Jo
 Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,797)\fs148\1c&H390142&}Jo
 Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,797)\fs(148)\1c&H390142&}Jo
 Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,797)\fs150\1c&H470052&}Jo
 Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,797)\fs(150)\1c&H470052&}Jo
 Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,798)\fs152\1c&H530062&}Jo
 Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,798)\fs(152)\1c&H530062&}Jo
 Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,798)\fs154\1c&H620073&}Jo
 Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,798)\fs(154)\1c&H620073&}Jo
 Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,799)\fs156\1c&H6F0083&}Jo
 Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,799)\fs(156)\1c&H6F0083&}Jo
 Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,799)\fs158\1c&H7B0092&}Jo
 Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,799)\fs(158)\1c&H7B0092&}Jo
 Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,800)\fs160\1c&H8A00A3&}Jo
 Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,800)\fs(160)\1c&H8A00A3&}Jo
 Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,800)\fs162\1c&H9600B1&}Jo
 Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,800)\fs(162)\1c&H9600B1&}Jo
 Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,801)\fs164\1c&HA000BF&}Jo
 Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,801)\fs(164)\1c&HA000BF&}Jo
 Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,801)\fs166\1c&HAA00C6&}Jo
 Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,801)\fs(166)\1c&HAA00C6&}Jo
 Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,802)\fs168\1c&HB000D3&}Jo
 Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,802)\fs(168)\1c&HB000D3&}Jo
 Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,802)\fs170\1c&HB500D7&}Jo
 Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\be25\an3\pos(1830,794)}suke Meets Angelo!
-Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(855,802)\fs(170)\1c&HB500D7&}Jo
 

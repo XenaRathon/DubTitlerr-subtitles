@@ -51,7 +51,7 @@ Style: SFXFunk,KG Turning Tables,150,&H009086E6,&H000000FF,&H00141920,&H00000000
 Style: SFXPurple,d puntillas B to tiptoe,140,&H005F3562,&H000000FF,&H00232733,&H00000000,0,0,0,0,90,100,5,0,1,8,0,8,50,40,20,1
 Style: SFXpink2,Shaky Hand Some Comic Bold,150,&H009B3DC1,&H000000FF,&H00481060,&H313C1E3A,-1,0,0,0,130,100,0,0,1,9,5,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00160E0C,&H000000FF,&H00000000,&H965E3125,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -153,15 +153,15 @@ Dialogue: 0,0:00:39.64,0:00:40.47,Dubtitles,,0,0,0,,Mr.
 Dialogue: 0,0:00:40.55,0:00:43.56,Dubtitles,,0,0,0,,Joestar, I really hate saying this, but...
 Dialogue: 0,0:00:43.64,0:00:47.23,Dubtitles,,0,0,0,,Yeah, I know, we've gotten\Nourselves into a world of trouble.
 Dialogue: 1,0:00:57.53,0:01:00.37,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,953)}Seeking out...
-Dialogue: 0,0:01:26.06,0:01:27.90,Dubtitles,,0,0,0,,Let's
-Dialogue: 0,0:01:27.98,0:01:34.98,Dubtitles,,0,0,0,,go.
-Dialogue: 0,0:01:56.06,0:01:58.52,Dubtitles,,0,0,0,,In the last page of the last page,
-Dialogue: 0,0:02:03.64,0:02:05.04,Dubtitles,,0,0,0,,End of the world!
-Dialogue: 0,0:02:22.26,0:02:23.26,Dubtitles,,0,0,0,,Hora!
+Dialogue: 0,0:01:56.38,0:02:00.88,Dubtitles,,0,0,0,,In the last page, we turn that bitch to
+Dialogue: 0,0:02:00.96,0:02:05.36,Dubtitles,,0,0,0,,Hit the heart in the end of the world.
+Dialogue: 0,0:02:07.52,0:02:08.76,Dubtitles,,0,0,0,,for the world's death
+Dialogue: 0,0:02:16.46,0:02:17.29,Dubtitles,,0,0,0,,ORA
+Dialogue: 0,0:02:23.26,0:02:24.09,Dubtitles,,0,0,0,,ORA
 Dialogue: 1,0:02:25.66,0:02:29.96,Title 3,title,0,0,0,,{\fad(692,646)\pos(151,850)}Episode 31: Bast's Mariah, Part 2
-Dialogue: 0,0:02:28.46,0:02:31.16,Dubtitles,,0,0,0,,Hey, wait a sec! Damn it all!
-Dialogue: 0,0:02:35.50,0:02:36.33,Dubtitles,,0,0,0,,Look!
-Dialogue: 0,0:02:36.41,0:02:37.87,Dubtitles,,0,0,0,,She's getting away after her!
+Dialogue: 0,0:02:28.44,0:02:31.18,Dubtitles,,0,0,0,,Hey, wait a sec! Damn it all!
+Dialogue: 0,0:02:35.48,0:02:36.31,Dubtitles,,0,0,0,,Look!
+Dialogue: 0,0:02:36.39,0:02:37.87,Dubtitles,,0,0,0,,She's getting away after her!
 Dialogue: 1,0:02:44.68,0:02:44.72,SFX,1,0,0,0,,{=8}{\blur0.8\bord3.65\fscx72.94\fscy56.11\fade(255,0,255,0,0,2360,2710)\frz15.95\pos(1144.54,792.24)\c&H24202E&}Stuck
 Dialogue: 2,0:02:44.68,0:02:44.72,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx72.94\fscy56.11\fade(255,0,255,0,0,2360,2710)\frz15.95\pos(1144.54,792.24)\4a&HFF&}Stuck
 Dialogue: 1,0:02:44.72,0:02:44.76,SFX,1,0,0,0,,{=8}{\blur0.8\bord3.65\fscx72.94\fscy56.11\fade(255,0,255,-40,-40,2320,2670)\frz15.95\pos(1144.54,792.24)\c&H24202E&}Stuck
@@ -213,7 +213,7 @@ Dialogue: 1,0:02:45.64,0:02:45.68,SFX,1,0,0,0,,{=8}{\blur0.8\bord5.34\fscx106.85
 Dialogue: 2,0:02:45.64,0:02:45.68,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx106.85\fscy82.19\fade(255,0,255,-920,-920,1440,1790)\frz15.95\pos(1267.32,829.43)\4a&HFF&}Stuck
 Dialogue: 1,0:02:45.68,0:02:45.72,SFX,1,0,0,0,,{=8}{\blur0.8\bord5.41\fscx108.17\fscy83.21\fade(255,0,255,-1000,-1000,1360,1710)\frz15.95\pos(1271.52,828.24)\c&H24202E&}Stuck
 Dialogue: 2,0:02:45.68,0:02:45.72,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx108.17\fscy83.21\fade(255,0,255,-1000,-1000,1360,1710)\frz15.95\pos(1271.52,828.24)\4a&HFF&}Stuck
-Dialogue: 0,0:02:45.71,0:02:46.87,Dubtitles,,0,0,0,,Now my body's a magnet!
+Dialogue: 0,0:02:45.71,0:02:46.93,Dubtitles,,0,0,0,,Now my body's a magnet!
 Dialogue: 1,0:02:45.72,0:02:45.77,SFX,1,0,0,0,,{=8}{\blur0.8\bord5.41\fscx108.17\fscy83.21\fade(255,0,255,-1000,-1000,1360,1710)\frz15.95\pos(1271.52,828.24)\c&H24202E&}Stuck
 Dialogue: 2,0:02:45.72,0:02:45.77,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx108.17\fscy83.21\fade(255,0,255,-1000,-1000,1360,1710)\frz15.95\pos(1271.52,828.24)\4a&HFF&}Stuck
 Dialogue: 1,0:02:45.77,0:02:45.81,SFX,1,0,0,0,,{=8}{\blur0.8\bord5.47\fscx109.49\fscy84.23\fade(255,0,255,-1090,-1090,1270,1620)\frz15.95\pos(1275.73,827.1)\c&H24202E&}Stuck
@@ -276,9 +276,9 @@ Dialogue: 1,0:02:46.93,0:02:46.97,SFX,1,0,0,0,,{=8}{\blur0.8\bord6.23\fscx124.61
 Dialogue: 2,0:02:46.93,0:02:46.97,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx124.61\fscy95.85\fade(255,0,255,-2250,-2250,110,460)\frz15.95\pos(1317.97,820.15)\4a&HFF&}Stuck
 Dialogue: 1,0:02:46.97,0:02:47.02,SFX,1,0,0,0,,{=8}{\blur0.8\bord6.28\fscx125.53\fscy96.56\fade(255,0,255,-2290,-2290,70,420)\frz15.95\pos(1319.49,819.82)\c&H24202E&}Stuck
 Dialogue: 2,0:02:46.97,0:02:47.02,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx125.53\fscy96.56\fade(255,0,255,-2290,-2290,70,420)\frz15.95\pos(1319.49,819.82)\4a&HFF&}Stuck
-Dialogue: 0,0:02:47.00,0:02:49.88,Dubtitles,,0,0,0,,I can't believe we allowed ourselves\Nto play right into her hands!
 Dialogue: 1,0:02:47.02,0:02:47.06,SFX,1,0,0,0,,{=8}{\blur0.8\bord6.3\fscx126.03\fscy96.95\fade(255,0,255,-2340,-2340,20,370)\frz15.95\pos(1320.45,819.91)\c&H24202E&}Stuck
 Dialogue: 2,0:02:47.02,0:02:47.06,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx126.03\fscy96.95\fade(255,0,255,-2340,-2340,20,370)\frz15.95\pos(1320.45,819.91)\4a&HFF&}Stuck
+Dialogue: 0,0:02:47.02,0:02:49.88,Dubtitles,,0,0,0,,I can't believe we allowed ourselves\Nto play right into her hands!
 Dialogue: 1,0:02:47.06,0:02:47.10,SFX,1,0,0,0,,{=8}{\blur0.8\bord6.33\fscx126.53\fscy97.33\fade(255,0,255,-2380,-2380,-20,330)\frz15.95\pos(1321.39,819.99)\c&H24202E&}Stuck
 Dialogue: 2,0:02:47.06,0:02:47.10,SFX,1,0,0,0,,{=8}{\blur0.8\bord0\fscx126.53\fscy97.33\fade(255,0,255,-2380,-2380,-20,330)\frz15.95\pos(1321.39,819.99)\4a&HFF&}Stuck
 Dialogue: 1,0:02:47.10,0:02:47.14,SFX,1,0,0,0,,{=8}{\blur0.8\bord6.35\fscx127.03\fscy97.71\fade(255,0,255,-2420,-2420,-60,290)\frz15.95\pos(1322.33,820.04)\c&H24202E&}Stuck
@@ -321,16 +321,16 @@ Dialogue: 0,0:03:53.58,0:03:56.52,Dubtitles,,0,0,0,,What a perfect day for danci
 Dialogue: 0,0:03:57.04,0:03:57.88,Dubtitles,,0,0,0,,Now run along!
 Dialogue: 0,0:03:58.12,0:03:59.53,Dubtitles,,0,0,0,,Get out of here, dammit!
 Dialogue: 0,0:04:02.80,0:04:03.70,Dubtitles,,0,0,0,,There we go!
-Dialogue: 0,0:04:03.98,0:04:05.34,Dubtitles,,0,0,0,,Almost got it, Avdul!
+Dialogue: 0,0:04:03.98,0:04:05.34,Dubtitles,,0,0,0,,Almost got it, Avdol!
 Dialogue: 0,0:04:06.80,0:04:07.63,Dubtitles,,0,0,0,,And one!
 Dialogue: 0,0:04:07.71,0:04:08.64,Dubtitles,,0,0,0,,And two!
 Dialogue: 0,0:04:10.26,0:04:11.20,Dubtitles,,0,0,0,,We did it!
 Dialogue: 0,0:04:11.38,0:04:13.14,Dubtitles,,0,0,0,,We made it and we're still standing!
 Dialogue: 0,0:04:13.22,0:04:14.72,Dubtitles,,0,0,0,,Yes, a remarkable feat!
-Dialogue: 0,0:04:15.50,0:04:19.91,Dubtitles,,0,0,0,,Abdaal, now that we've gotten over\Nhere, do you think you can slide off me?
+Dialogue: 0,0:04:15.50,0:04:19.91,Dubtitles,,0,0,0,,Avdol, now that we've gotten over here,\Ndo you think you can slide off me?
 Dialogue: 0,0:04:20.52,0:04:24.18,Dubtitles,,0,0,0,,I think I might be able to. All right.
 Dialogue: 0,0:04:24.62,0:04:26.82,Dubtitles,,0,0,0,,Here's what we're going to\Ndo, so listen carefully.
-Dialogue: 0,0:04:26.90,0:04:30.10,Dubtitles,,0,0,0,,I'll hold onto the fence as tightly\Nas I can while you slide down.
+Dialogue: 0,0:04:26.90,0:04:30.10,Dubtitles,,0,0,0,,I'll hang on to the fence as tightly\Nas I can while you slide down.
 Dialogue: 0,0:04:30.18,0:04:32.72,Dubtitles,,0,0,0,,Free yourself once you've\Ngotten to the tip of my foot.
 Dialogue: 0,0:04:32.80,0:04:36.46,Dubtitles,,0,0,0,,Do you see how our faces are stuck together\Nas opposed to the other way around?
 Dialogue: 0,0:04:36.54,0:04:37.37,Dubtitles,,0,0,0,,Well,
@@ -340,7 +340,7 @@ Dialogue: 1,0:04:38.38,0:04:44.72,SC 31 Positive,sign,0,0,0,,{\fad(375,0)\be0.2\
 Dialogue: 1,0:04:38.38,0:04:44.72,SC 31 Negative,sign,0,0,0,,{\fad(375,0)\be0.2\pos(1789.429,949.714)}Negative
 Dialogue: 1,0:04:38.38,0:04:44.72,SC 31 Negative,sign,0,0,0,,{\fad(375,0)\be0.2\pos(148.858,198.856)}Negative
 Dialogue: 0,0:04:40.30,0:04:42.44,Dubtitles,,0,0,0,,Yes, that makes a lot of sense.
-Dialogue: 0,0:04:46.14,0:04:47.34,Dubtitles,,0,0,0,,That's the way, Abdal.
+Dialogue: 0,0:04:46.14,0:04:47.34,Dubtitles,,0,0,0,,That's the way, Avdol.
 Dialogue: 0,0:04:47.42,0:04:48.42,Dubtitles,,0,0,0,,Just keep moving.
 Dialogue: 0,0:04:56.56,0:04:59.54,Dubtitles,,0,0,0,,Uh, hey, what's the\Nmatter with you, Avdol?
 Dialogue: 0,0:05:00.16,0:05:02.75,Dubtitles,,0,0,0,,Don't you think this\Nposition is a little...
@@ -474,9 +474,9 @@ Dialogue: 0,0:05:56.43,0:05:59.86,Dubtitles,,0,0,0,,Joestar, moving around like 
 Dialogue: 0,0:06:01.50,0:06:03.98,Dubtitles,,0,0,0,,Oh no, it's that old hag again!
 Dialogue: 0,0:06:04.98,0:06:08.20,Dubtitles,,0,0,0,,I come back expecting\Nto find my handsome man,
 Dialogue: 0,0:06:08.32,0:06:10.80,Dubtitles,,0,0,0,,and instead my eyes are\Nassaulted with this?
-Dialogue: 0,0:06:10.88,0:06:13.72,Dubtitles,,0,0,0,,How dare you tie with the\Nfragile gift of a maiden's heart!
+Dialogue: 0,0:06:10.88,0:06:13.72,Dubtitles,,0,0,0,,How dare you toy with the\Nfragile gift of a maiden's heart!
 Dialogue: 0,0:06:13.80,0:06:15.12,Dubtitles,,0,0,0,,You filthy cheater!
-Dialogue: 0,0:06:15.66,0:06:17.58,Dubtitles,,0,0,0,,For the love of God, hurry, Abdel!
+Dialogue: 0,0:06:15.66,0:06:17.58,Dubtitles,,0,0,0,,For the love of God, hurry, Avdol!
 Dialogue: 0,0:06:17.66,0:06:21.14,Dubtitles,,0,0,0,,She's getting closer and I can\Nalready feel the tears coming!
 Dialogue: 0,0:06:21.22,0:06:23.16,Dubtitles,,0,0,0,,There they are, Father Skel-Draw!
 Dialogue: 0,0:06:24.86,0:06:25.82,Dubtitles,,0,0,0,,Help me!
@@ -833,7 +833,7 @@ Dialogue: 0,0:10:29.10,0:10:31.92,Dubtitles,,0,0,0,,Doing things this way is\Na 
 Dialogue: 0,0:10:33.38,0:10:35.80,Dubtitles,,0,0,0,,So you think you've outsmarted me?
 Dialogue: 0,0:10:37.22,0:10:38.05,Dubtitles,,0,0,0,,You...
 Dialogue: 0,0:10:38.60,0:10:40.54,Dubtitles,,0,0,0,,obnoxious pieces of shit!
-Dialogue: 0,0:10:42.22,0:10:43.24,Dubtitles,,0,0,0,,Elections! Run!
+Dialogue: 0,0:10:42.22,0:10:43.24,Dubtitles,,0,0,0,,Elections, run!
 Dialogue: 1,0:10:45.83,0:10:45.87,SFXGreen,5,0,0,0,,{=15}{\blur7\bord3\shad2\fscx34.05\fscy26.19\pos(988.5,829.01)\frz3.673\alpha&H80&}Fwoosh
 Dialogue: 2,0:10:45.83,0:10:45.87,SFXGreen,5,0,0,0,,{=15}{\blur1\bord3\shad2\fscx34.05\fscy26.19\pos(988.5,829.01)\frz3.673\c&H08170C&}Fwoosh
 Dialogue: 3,0:10:45.83,0:10:45.87,SFXGreen,5,0,0,0,,{=15}{\blur1\bord0\fscx34.05\fscy26.19\pos(988.5,829.01)\frz3.673\shad2\4a&HFF&}Fwoosh
@@ -1000,9 +1000,9 @@ Dialogue: 2,0:10:52.42,0:10:52.46,SFXOang2,6,0,0,0,,{=35}{\blur0.7\bord0\fscx131
 Dialogue: 1,0:10:52.46,0:10:52.50,SFXOang2,6,0,0,0,,{=35}{\blur0.7\bord10\fscx130\fscy100\frz51.84\pos(1109.27,73.07)\c&H0A1618&}Grab
 Dialogue: 2,0:10:52.46,0:10:52.50,SFXOang2,6,0,0,0,,{=35}{\blur0.7\bord0\fscx130\fscy100\frz51.84\pos(1109.27,73.07)\4a&HFF&}Grab
 Dialogue: 0,0:10:58.30,0:10:59.68,Dubtitles,,0,0,0,,Now we've got you.
-Dialogue: 0,0:11:00.24,0:11:02.24,Dubtitles,,0,0,0,,Unfortunately for you, young lady?
-Dialogue: 0,0:11:02.36,0:11:04.94,Dubtitles,,0,0,0,,I've got to keep a grip on\Nyour neck until you pass out!
-Dialogue: 0,0:11:05.02,0:11:08.28,Dubtitles,,0,0,0,,so you can count on being in the\Nhospital for at least a week or so.
+Dialogue: 0,0:11:00.24,0:11:02.24,Dubtitles,,0,0,0,,Unfortunately for you, young lady,
+Dialogue: 0,0:11:02.36,0:11:05.24,Dubtitles,,0,0,0,,I've got to keep a grip on your\Nneck until you pass out so you
+Dialogue: 0,0:11:05.32,0:11:08.28,Dubtitles,,0,0,0,,can count on being in the hospital\Nfor at least a week or so.
 Dialogue: 0,0:11:08.36,0:11:12.02,Dubtitles,,0,0,0,,I can't just let you and your\Nmagnetic power run free, can I?
 Dialogue: 1,0:11:19.78,0:11:19.82,SFXPurp,7,0,0,0,,{=36}{\blur0.9\bord4.04\fscx75.03\fscy57.72\shad2.31\xshad-2.89\yshad-2.89\frz347.19\pos(1394.67,505)\c&H090E1A&}Boom
 Dialogue: 2,0:11:19.78,0:11:19.82,SFXPurp,7,0,0,0,,{=36}{\blur0.9\bord0\fscx75.03\fscy57.72\xshad-2.89\yshad-2.89\frz347.19\pos(1394.67,505)\shad2.31\4a&HFF&}B{*\c&H5607CC&}o{*\c&H4205C6&}o{\c&H2D02C0&}m
@@ -1146,7 +1146,7 @@ Dialogue: 0,0:11:33.54,0:11:35.84,Dubtitles,,0,0,0,,But there's no need to worry
 Dialogue: 0,0:11:35.92,0:11:38.14,Dubtitles,,0,0,0,,because your magnetism's\Ngrowing even stronger.
 Dialogue: 0,0:11:38.22,0:11:42.56,Dubtitles,,0,0,0,,And lucky for me, I just happened\Nto stuff my bra with weapons!
 Dialogue: 0,0:11:43.08,0:11:43.91,Dubtitles,,0,0,0,,Mr.
-Dialogue: 0,0:11:43.99,0:11:45.33,Dubtitles,,0,0,0,,Shuichi, we have incoming!
+Dialogue: 0,0:11:43.99,0:11:45.33,Dubtitles,,0,0,0,,Showshoe, we have incoming!
 Dialogue: 0,0:11:50.36,0:11:51.66,Dubtitles,,0,0,0,,But you should run!
 Dialogue: 0,0:12:01.74,0:12:04.06,Dubtitles,,0,0,0,,Your magnetism will keep intensifying.
 Dialogue: 0,0:12:04.34,0:12:08.50,Dubtitles,,0,0,0,,Well, at least until your bodies\Nare crushed to tiny pieces. Ugh!
@@ -1166,8 +1166,8 @@ Dialogue: 0,0:12:40.02,0:12:42.26,Dubtitles,,0,0,0,,Should we keep running\Nunti
 Dialogue: 0,0:12:42.34,0:12:44.48,Dubtitles,,0,0,0,,That might be our best bet. No way.
 Dialogue: 0,0:12:44.72,0:12:47.62,Dubtitles,,0,0,0,,We might be able to get away from our\Npowers for a short amount of time,
 Dialogue: 0,0:12:47.70,0:12:49.38,Dubtitles,,0,0,0,,but the stand would still prevail.
-Dialogue: 0,0:12:49.46,0:12:51.20,Dubtitles,,0,0,0,,I've run away from fights before,
-Dialogue: 0,0:12:51.28,0:12:54.64,Dubtitles,,0,0,0,,but I've only done so when retreat\Nwas part of the overall strategy.
+Dialogue: 0,0:12:49.46,0:12:51.20,Dubtitles,,0,0,0,,I've run away from fights before.
+Dialogue: 0,0:12:51.28,0:12:54.64,Dubtitles,,0,0,0,,but I've only done so when running\Nwas part of the overall strategy.
 Dialogue: 0,0:12:54.72,0:12:58.78,Dubtitles,,0,0,0,,No matter how hopeless things look,\NJoseph Joestar never throws in the towel.
 Dialogue: 0,0:12:58.86,0:13:01.66,Dubtitles,,0,0,0,,The real showdown begins now!
 Dialogue: 0,0:13:05.64,0:13:07.35,Dubtitles,,0,0,0,,I've drawn a map of the town.
@@ -1243,7 +1243,7 @@ Dialogue: 0,0:18:09.74,0:18:12.50,Dubtitles,,0,0,0,,This weight is crushing me.
 Dialogue: 0,0:18:18.26,0:18:20.42,Dubtitles,,0,0,0,,I can't hold it any longer.
 Dialogue: 0,0:18:21.70,0:18:22.74,Dubtitles,,0,0,0,,Joseph Joestar,
 Dialogue: 0,0:18:23.14,0:18:28.30,Dubtitles,,0,0,0,,since you're going to die anyway, I can\Nconfess that I find you to be quite a catch.
-Dialogue: 0,0:18:28.74,0:18:31.56,Dubtitles,,0,0,0,,It's true that I only\Nknew you for a short time,
+Dialogue: 0,0:18:28.74,0:18:31.56,Dubtitles,,0,0,0,,It's true that I only\Nknew you for a short time.
 Dialogue: 0,0:18:31.64,0:18:33.94,Dubtitles,,0,0,0,,but you were so clever and hilarious.
 Dialogue: 0,0:18:34.42,0:18:38.44,Dubtitles,,0,0,0,,Not to mention your experience would\Nmake younger men green with envy.
 Dialogue: 0,0:18:38.52,0:18:40.14,Dubtitles,,0,0,0,,Plus, you're very handsome.
@@ -1317,7 +1317,7 @@ Dialogue: 1,0:19:45.20,0:19:45.24,SFXFunk,9,0,0,0,,{=26}{\blur1.2\fscx130\fscy10
 Dialogue: 2,0:19:45.20,0:19:45.24,SFXFunk,9,0,0,0,,{=26}{\bord0\blur1.2\fscx130\fscy100\frz11.32\pos(1609,117.33)\4a&HFF&}Crash
 Dialogue: 0,0:19:48.34,0:19:52.52,Dubtitles,,0,0,0,,Weren't you listening to us earlier or\Nyou've been caught between us the whole time?
 Dialogue: 0,0:19:52.60,0:19:54.82,Dubtitles,,0,0,0,,Magnets are attracted\Nto each other, you know?
-Dialogue: 0,0:19:54.90,0:19:57.28,Dubtitles,,0,0,0,,It's too late to do anything about it now,
+Dialogue: 0,0:19:54.90,0:19:57.28,Dubtitles,,0,0,0,,It's too late to do anything about it now.
 Dialogue: 0,0:19:57.36,0:19:59.76,Dubtitles,,0,0,0,,but getting between us\Nwas your biggest blunder.
 Dialogue: 0,0:19:59.84,0:20:01.62,Dubtitles,,0,0,0,,There's no way she can hear you, Mr.
 Dialogue: 0,0:20:01.70,0:20:02.53,Dubtitles,,0,0,0,,Joestar.
@@ -1960,14 +1960,14 @@ Dialogue: 0,0:22:16.52,0:22:18.14,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 0,0:22:51.86,0:22:53.90,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:23:26.96,0:23:28.97,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
 Dialogue: 0,0:23:27.60,0:23:31.52,Dubtitles,,0,0,0,,All right, we're going to take a bath, so\Nlet's take those clothes off, shall we?
-Dialogue: 0,0:23:31.60,0:23:32.43,Dubtitles,,0,0,0,,Atta boy.
+Dialogue: 0,0:23:31.60,0:23:32.43,Dubtitles,,0,0,0,,Attaboy.
 Dialogue: 0,0:23:32.51,0:23:33.81,Dubtitles,,0,0,0,,I'll take them off for you.
-Dialogue: 0,0:23:34.08,0:23:34.91,Dubtitles,,0,0,0,,Atta boy.
+Dialogue: 0,0:23:34.08,0:23:34.91,Dubtitles,,0,0,0,,Attaboy.
 Dialogue: 0,0:23:34.99,0:23:36.11,Dubtitles,,0,0,0,,I'll clean those wounds.
-Dialogue: 0,0:23:36.36,0:23:37.19,Dubtitles,,0,0,0,,Atta.
+Dialogue: 0,0:23:36.36,0:23:37.19,Dubtitles,,0,0,0,,Attaboy.
 Dialogue: 0,0:23:37.27,0:23:40.43,Dubtitles,,0,0,0,,Are you positive it's okay\Nfor me to touch you like this?
 Dialogue: 1,0:23:39.98,0:23:41.98,Next Episode,sign,0,0,0,,{\fs90\pos(964,153)}Episode 32
 Dialogue: 1,0:23:39.98,0:23:41.98,Next Episode,sign,0,0,0,,{\pos(960,925)\fs100}Set's Alessi, Part 1
-Dialogue: 0,0:23:40.92,0:23:41.75,Dubtitles,,0,0,0,,Atta boy.
-Dialogue: 0,0:23:41.84,0:23:42.68,Dubtitles,,0,0,0,,You
+Dialogue: 0,0:23:40.92,0:23:41.75,Dubtitles,,0,0,0,,Attaboy.
+Dialogue: 0,0:23:41.84,0:23:42.68,Dubtitles,,0,0,0,,You.
 

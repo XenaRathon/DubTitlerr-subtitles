@@ -53,11 +53,11 @@ Style: SFX,Shaky Hand Some Comic Bold,170,&H004D26A9,&H000000FF,&H000D0B0E,&H000
 Style: SFXRed,Franciscan,140,&H00090098,&H000000FF,&H00020102,&H00000000,-1,0,0,0,120,100,0,0,1,9,0,8,50,40,20,1
 Style: SFXRed2,Shaky Hand Some Comic Bold,170,&H002B22B5,&H000000FF,&H00151823,&H00151823,0,0,0,0,130,100,0,0,1,15,4,8,50,40,20,1
 Style: SFXRed3,Comic Neue Angular,150,&H00000078,&H000000FF,&H00060115,&H00000000,-1,0,0,0,90,100,0,0,1,5,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.74,0:00:04.15,Dubtitles,,0,0,0,,For the love of - Josuke, are\Nyou still playing that game?
+Dialogue: 0,0:00:00.74,0:00:04.15,Dubtitles,,0,0,0,,For the love of—Josuke, are\Nyou still playing that game?
 Dialogue: 0,0:00:04.30,0:00:06.94,Dubtitles,,0,0,0,,If you don't turn it off right\Nthis second, I'm gonna scream!
 Dialogue: 0,0:00:07.02,0:00:08.14,Dubtitles,,0,0,0,,Five more minutes, please!
 Dialogue: 0,0:00:08.22,0:00:09.16,Dubtitles,,0,0,0,,Just five more minutes!
@@ -66,6 +66,7 @@ Dialogue: 0,0:00:10.86,0:00:12.08,Dubtitles,,0,0,0,,I can't stop now!
 Dialogue: 0,0:00:12.28,0:00:14.28,Dubtitles,,0,0,0,,I'm about to get to the best part!
 Dialogue: 0,0:00:14.36,0:00:16.62,Dubtitles,,0,0,0,,Quitting guarantees I'll\Nlive the pathetic life of
 Dialogue: 0,0:00:16.70,0:00:18.32,Dubtitles,,0,0,0,,a scrub who doesn't follow\Nthrough on his promise!
+Dialogue: 1,0:00:18.24,0:00:24.50,Main,Mom,0,0,0,,{\an8}Enough excuses! The kicking won't stop until you turn it off! {I think I messed something up here? D: -T}
 Dialogue: 0,0:00:18.40,0:00:19.24,Dubtitles,,0,0,0,,Have it your way!
 Dialogue: 0,0:00:19.32,0:00:24.56,Dubtitles,,0,0,0,,The longer you play your little game, the\Nharder these kicks are gonna get! I don't!
 Dialogue: 0,0:00:24.68,0:00:27.03,Dubtitles,,0,0,0,,How long do you think you can hold out?!
@@ -79,11 +80,11 @@ Dialogue: 0,0:00:51.10,0:00:52.44,Dubtitles,,0,0,0,,Have the flames of our love 
 Dialogue: 0,0:00:52.52,0:00:53.46,Dubtitles,,0,0,0,,What's going on?
 Dialogue: 0,0:00:53.54,0:00:55.72,Dubtitles,,0,0,0,,I'm pretty sure that I turned it off.
 Dialogue: 0,0:00:56.84,0:00:58.52,Dubtitles,,0,0,0,,Ah, come on, shut off, will ya?
-Dialogue: 0,0:00:58.60,0:01:02.30,Dubtitles,,0,0,0,,It would seem Jotaro Kujo\Nhas refused to leave town.
-Dialogue: 0,0:01:03.04,0:01:06.68,Dubtitles,,0,0,0,,And after I went out of my way\Nto give him an explicit warning!
-Dialogue: 0,0:01:06.76,0:01:09.64,Dubtitles,,0,0,0,,There has to be a reason, right?
-Dialogue: 0,0:01:10.98,0:01:13.78,Dubtitles,,0,0,0,,Josuke Higashikata I know you!
-Dialogue: 0,0:01:17.52,0:01:18.92,Dubtitles,,0,0,0,,You're Chili Pepper?
+Dialogue: 0,0:00:58.60,0:01:02.30,Dubtitles,,0,0,0,,It would seem Jotaro Kujo\Nhas refused to leave town
+Dialogue: 0,0:01:03.04,0:01:05.60,Dubtitles,,0,0,0,,And after I went out of my way to give him
+Dialogue: 0,0:01:05.68,0:01:09.64,Dubtitles,,0,0,0,,an explicit warning There\Nhas to be a reason, right?
+Dialogue: 0,0:01:10.98,0:01:13.78,Dubtitles,,0,0,0,,Josuke Higashikata I know you
+Dialogue: 0,0:01:17.52,0:01:18.92,Dubtitles,,0,0,0,,You're Chili Pepper!
 Dialogue: 1,0:01:38.57,0:01:42.20,Part 4 OP Japanese,,0,0,0,,{\1c&H94D6DE&}{\fad(100,100)}surechigatteku kao no nai shisen
 Dialogue: 1,0:01:38.57,0:01:42.20,Part 4 OP English,,0,0,0,,{\1c&H94D6DE&}{\fad(100,100)}As I watch the indistinct faces passing me by
 Dialogue: 1,0:01:42.20,0:01:45.71,Part 4 OP Japanese,,0,0,0,,{\1c&HEF61E5&}{\fad(100,100)}mune no ana ga kaetetta nichijou
@@ -108,8 +109,9 @@ Dialogue: 1,0:02:16.11,0:02:19.45,Part 4 OP English,,0,0,0,,{\1c&HEDADC5&}{\fad(
 Dialogue: 1,0:02:19.45,0:02:25.41,Part 4 OP Japanese,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}Crazy Noisy Bizarre Town
 Dialogue: 1,0:02:19.45,0:02:25.41,Part 4 OP English,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}in this Crazy Noisy Bizarre Town!
 Dialogue: 1,0:02:36.17,0:02:40.80,Title Part 4,Title,0,0,0,,{\fad(648,562)\pos(142,885)\fs60}Episode 11: {\fs80} Red Hot Chili Pepper, Part 1
-Dialogue: 1,0:02:36.17,0:02:40.80,Title Part 4,Title,0,0,0,,{\fad(648,562)\pos(142,885)\fs60}Episode 11: {\fs80} Red Hot Chili Pepper Part 1
 Dialogue: 0,0:02:38.16,0:02:39.60,Dubtitles,,0,0,0,,What are you doing here?
+Dialogue: 1,0:02:38.55,0:02:39.76,Main,Josuke,0,0,0,,{\an8}What are you doing here?
+Dialogue: 1,0:02:39.76,0:02:42.01,Main,RHCP,0,0,0,,{\an8}Took you long enough to notice me!
 Dialogue: 0,0:02:39.78,0:02:41.88,Dubtitles,,0,0,0,,You're not the brightest bulb, are you?
 Dialogue: 0,0:02:41.96,0:02:43.82,Dubtitles,,0,0,0,,Clearly it escaped your\Nnotice that I've been
 Dialogue: 0,0:02:43.90,0:02:45.96,Dubtitles,,0,0,0,,popping in and out of\Nhere for a while now.
@@ -117,7 +119,7 @@ Dialogue: 0,0:02:46.04,0:02:46.87,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:02:46.95,0:02:50.18,Dubtitles,,0,0,0,,This asshole's been keeping\Ntabs on me the entire time?
 Dialogue: 0,0:02:51.38,0:02:55.32,Dubtitles,,0,0,0,,One of my other hot spots is\Nthe house belonging to Okuyasu,
 Dialogue: 0,0:02:55.54,0:02:57.22,Dubtitles,,0,0,0,,the brother of that fool I knocked off.
-Dialogue: 0,0:02:57.30,0:03:02.44,Dubtitles,,0,0,0,,I'm also well aware of that schoolgirl\NYukako Yamagishi and Koichi Hiroze's reverb.
+Dialogue: 0,0:02:57.30,0:03:02.44,Dubtitles,,0,0,0,,I'm also well aware of that schoolgirl\NYukako Yamagishi and Koichi Hiroze's Echoes.
 Dialogue: 0,0:03:02.84,0:03:07.30,Dubtitles,,0,0,0,,And I know Toshikazu Hazamada and\NTamami Kobayashi are in the hospital.
 Dialogue: 0,0:03:07.86,0:03:10.02,Dubtitles,,0,0,0,,Something about this isn't making sense.
 Dialogue: 0,0:03:10.10,0:03:13.12,Dubtitles,,0,0,0,,From everything I've seen, you're\Na conniving, bird-brained coward.
@@ -303,27 +305,26 @@ Dialogue: 0,0:08:44.41,0:08:45.72,Dubtitles,,0,0,0,,Just how old is this guy?
 Dialogue: 0,0:08:45.96,0:08:48.14,Dubtitles,,0,0,0,,I mean, you have met\Nhim before, haven't you?
 Dialogue: 0,0:08:48.22,0:08:50.54,Dubtitles,,0,0,0,,Yeah, I know him quite well, actually.
 Dialogue: 0,0:08:50.82,0:08:53.02,Dubtitles,,0,0,0,,He used to be pretty\Nstudly back in the day.
-Dialogue: 0,0:08:53.10,0:08:59.28,Dubtitles,,0,0,0,,But you wouldn't know it looking at him\Nnow he's 80 no make that 79 years old.
-Dialogue: 0,0:08:59.36,0:09:03.16,Dubtitles,,0,0,0,,79 the guy's practically a\Nfossil his legs definitely
-Dialogue: 0,0:09:03.24,0:09:05.70,Dubtitles,,0,0,0,,aren't what they used\Nto be so he uses a cane
-Dialogue: 0,0:09:05.78,0:09:08.74,Dubtitles,,0,0,0,,and two years ago he had\Ngallstones removed not
-Dialogue: 0,0:09:08.82,0:09:12.30,Dubtitles,,0,0,0,,to mention his cataracts\Nall his teeth are fake now
-Dialogue: 0,0:09:12.38,0:09:14.64,Dubtitles,,0,0,0,,so he grumbles about\Nmissing his t-bone stakes
-Dialogue: 0,0:09:14.72,0:09:19.06,Dubtitles,,0,0,0,,oh and he's going senile\Nto give it a rest next
-Dialogue: 0,0:09:19.14,0:09:21.54,Dubtitles,,0,0,0,,you're gonna tell me he\Nlikes to talk to mailboxes
-Dialogue: 0,0:09:21.62,0:09:25.66,Dubtitles,,0,0,0,,come on you have gotta be\Nyanking our chains the real
-Dialogue: 0,0:09:25.74,0:09:27.86,Dubtitles,,0,0,0,,reason i had you guys\Ncome here was so that you
-Dialogue: 0,0:09:27.94,0:09:30.90,Dubtitles,,0,0,0,,could protect the old man\Nif chili pepper gets wind
-Dialogue: 0,0:09:30.98,0:09:33.08,Dubtitles,,0,0,0,,of his arrival you can\Nbet he'll stop at nothing
-Dialogue: 0,0:09:33.16,0:09:36.72,Dubtitles,,0,0,0,,to take him down the thing\Nhe dreads most is one of
-Dialogue: 0,0:09:36.80,0:09:41.22,Dubtitles,,0,0,0,,us discovering the true\Nidentity of his user but
-Dialogue: 0,0:09:41.30,0:09:43.64,Dubtitles,,0,0,0,,that doesn't explain how\Nthe old timer is gonna help
-Dialogue: 0,0:09:43.72,0:09:46.96,Dubtitles,,0,0,0,,us i was against it too\Nbut as soon as he heard
-Dialogue: 0,0:09:47.04,0:09:50.04,Dubtitles,,0,0,0,,about the bow and arrow he\Nheaded to japan despite.
+Dialogue: 0,0:08:53.10,0:08:56.62,Dubtitles,,0,0,0,,But you wouldn't know it\Nlooking at him now. He's 80.
+Dialogue: 0,0:08:56.70,0:09:01.32,Dubtitles,,0,0,0,,no make that 79 years old\N79 the guy's practically a
+Dialogue: 0,0:09:01.40,0:09:04.24,Dubtitles,,0,0,0,,fossil his legs definitely\Naren't what they used to be
+Dialogue: 0,0:09:04.32,0:09:07.84,Dubtitles,,0,0,0,,so he uses a cane and two\Nyears ago he had gallstones
+Dialogue: 0,0:09:07.92,0:09:11.78,Dubtitles,,0,0,0,,removed not to mention his\Ncataracts all his teeth are
+Dialogue: 0,0:09:11.86,0:09:14.64,Dubtitles,,0,0,0,,fake now so he grumbles about\Nmissing his t-bone stakes
+Dialogue: 0,0:09:14.72,0:09:19.24,Dubtitles,,0,0,0,,oh and he's going senile to\Ngive it a rest next you're
+Dialogue: 0,0:09:19.32,0:09:22.86,Dubtitles,,0,0,0,,Gonna tell me he likes to talk\Nto mailboxes? Come on, you
+Dialogue: 0,0:09:22.94,0:09:26.34,Dubtitles,,0,0,0,,have gotta be yanking our\Nchains the real reason i had
+Dialogue: 0,0:09:26.42,0:09:28.60,Dubtitles,,0,0,0,,you guys come here was so\Nthat you could protect the
+Dialogue: 0,0:09:28.68,0:09:31.96,Dubtitles,,0,0,0,,old man if chili pepper gets\Nwind of his arrival you can
+Dialogue: 0,0:09:32.04,0:09:35.46,Dubtitles,,0,0,0,,bet he'll stop at nothing to\Ntake him down the thing he
+Dialogue: 0,0:09:35.54,0:09:38.50,Dubtitles,,0,0,0,,dreads most is one of us\Ndiscovering the true identity
+Dialogue: 0,0:09:38.58,0:09:42.90,Dubtitles,,0,0,0,,of his user but that doesn't\Nexplain how the old timer
+Dialogue: 0,0:09:42.98,0:09:46.74,Dubtitles,,0,0,0,,is gonna help us i was against\Nit too but as soon as he
+Dialogue: 0,0:09:46.82,0:09:50.04,Dubtitles,,0,0,0,,heard about the bow and arrow\Nhe headed to japan despite
 Dialogue: 0,0:09:50.12,0:09:51.10,Dubtitles,,0,0,0,,to Japan?
 Dialogue: 0,0:09:51.38,0:09:54.84,Dubtitles,,0,0,0,,So this person isn't\NJapanese, Mr. Jotaro? Correct.
 Dialogue: 0,0:09:55.66,0:10:00.58,Dubtitles,,0,0,0,,Josuke, this is life-changing! Huh? What\Nis? What do you mean? Think about it!
-Dialogue: 0,0:10:00.72,0:10:03.82,Dubtitles,,0,0,0,,He's a 79-year-old Stan\Nuser who isn't from Japan!
+Dialogue: 0,0:10:00.72,0:10:03.82,Dubtitles,,0,0,0,,He's a 79-year-old Stand\Nuser who isn't from Japan!
 Dialogue: 0,0:10:04.98,0:10:06.46,Dubtitles,,0,0,0,,Hey, you can't mean...
 Dialogue: 0,0:10:13.74,0:10:17.14,Dubtitles,,0,0,0,,That's what I needed to hear!\NWatch out! It's Chili Pepper!
 Dialogue: 0,0:10:17.22,0:10:18.06,Dubtitles,,0,0,0,,Blast it!
@@ -547,7 +548,7 @@ Dialogue: 2,0:10:38.40,0:10:38.45,SFXRed,2,0,0,0,,{=9}{\bord0\blur0.6\frz1.221\p
 Dialogue: 0,0:10:40.42,0:10:43.28,Dubtitles,,0,0,0,,He must have hidden inside it\Nand come here with Okuyasu.
 Dialogue: 0,0:10:43.36,0:10:44.70,Dubtitles,,0,0,0,,He hijacked my bike!
 Dialogue: 0,0:10:44.86,0:10:45.82,Dubtitles,,0,0,0,,And he heard everything!
-Dialogue: 0,0:10:45.90,0:10:48.08,Dubtitles,,0,0,0,,So, the port of Mariah at noon.
+Dialogue: 0,0:10:45.90,0:10:48.08,Dubtitles,,0,0,0,,So, the port of Morio at noon.
 Dialogue: 0,0:10:48.34,0:10:52.40,Dubtitles,,0,0,0,,That's where I'll find the old fogey\Nof a stand user who can locate me, huh?
 Dialogue: 0,0:10:52.48,0:10:54.76,Dubtitles,,0,0,0,,The moment that Caesar pulls into port,
 Dialogue: 1,0:10:52.79,0:10:52.84,SFXRed,3,0,0,0,,{=4}{\pos(962.241,13.047)\fade(255,0,255,0,200,4979,4980)\c&H1207A8&}Rumble
@@ -730,7 +731,7 @@ Dialogue: 0,0:11:40.84,0:11:42.62,Dubtitles,,0,0,0,,Well done, boy! Well done!
 Dialogue: 0,0:11:44.06,0:11:47.64,Dubtitles,,0,0,0,,Teleporting yourself to the motorcycle\Nwas exceptional, to say the least!
 Dialogue: 0,0:11:47.72,0:11:49.19,Dubtitles,,0,0,0,,But you wasted your time!
 Dialogue: 0,0:11:49.44,0:11:51.76,Dubtitles,,0,0,0,,That adorable scratching\Nmotion you do with a hand is
-Dialogue: 0,0:11:51.84,0:11:54.42,Dubtitles,,0,0,0,,hardly a match for Chili\NPepper's extraordinary speed,
+Dialogue: 0,0:11:51.84,0:11:54.42,Dubtitles,,0,0,0,,Hardly a match for Chili\NPepper's extraordinary speed.
 Dialogue: 0,0:11:54.50,0:11:55.38,Dubtitles,,0,0,0,,so as usual,
 Dialogue: 0,0:11:55.62,0:11:57.84,Dubtitles,,0,0,0,,I'm afraid your efforts\Nhave been all for naught!
 Dialogue: 0,0:11:57.92,0:11:58.86,Dubtitles,,0,0,0,,Face backs, kid!
@@ -938,7 +939,7 @@ Dialogue: 0,0:18:22.80,0:18:25.56,Dubtitles,,0,0,0,,That motorcycle battery\Nonl
 Dialogue: 0,0:18:25.74,0:18:28.80,Dubtitles,,0,0,0,,A few moments longer and I\Nwould have been done for!
 Dialogue: 0,0:18:31.76,0:18:34.54,Dubtitles,,0,0,0,,I must thank you for reviving me!
 Dialogue: 0,0:18:36.16,0:18:38.42,Dubtitles,,0,0,0,,Poor simple-minded Okuyasu.
-Dialogue: 0,0:18:38.70,0:18:42.96,Dubtitles,,0,0,0,,If only you'd been a good boy and\Ncontrolled yourself as Totoro instructed,
+Dialogue: 0,0:18:38.70,0:18:42.96,Dubtitles,,0,0,0,,If only you'd been a good boy and\Ncontrolled yourself as Jotaro instructed,
 Dialogue: 0,0:18:43.04,0:18:45.45,Dubtitles,,0,0,0,,I would have faded away with the battery.
 Dialogue: 0,0:18:45.96,0:18:50.38,Dubtitles,,0,0,0,,I know the location of every electrical\Nline running through this town.
 Dialogue: 0,0:18:50.62,0:18:53.56,Dubtitles,,0,0,0,,My original plan was to\Nescape into those cables,
@@ -947,8 +948,7 @@ Dialogue: 0,0:18:56.44,0:19:00.38,Dubtitles,,0,0,0,,And in the state I was in, d
 Dialogue: 0,0:19:00.76,0:19:02.26,Dubtitles,,0,0,0,,Why won't you die?
 Dialogue: 0,0:19:03.20,0:19:04.66,Dubtitles,,0,0,0,,He's faster than before.
 Dialogue: 0,0:19:04.92,0:19:07.39,Dubtitles,,0,0,0,,With this much electricity at my disposal,
-Dialogue: 0,0:19:07.62,0:19:09.62,Dubtitles,,0,0,0,,I have more than enough\Npower to challenge?
-Dialogue: 0,0:19:09.70,0:19:11.29,Dubtitles,,0,0,0,,your lackluster right hand.
+Dialogue: 0,0:19:07.62,0:19:11.74,Dubtitles,,0,0,0,,I have more than enough power to\Nchallenge your lackluster right hand.
 Dialogue: 0,0:19:15.64,0:19:16.47,Dubtitles,,0,0,0,,Ah!
 Dialogue: 1,0:19:22.09,0:19:22.14,SFXRed3,6,0,0,0,,{=14}{\bord5\fscx90\fscy100\fade(255,0,255,0,1,289,630)\frz21.2\pos(1564.2,491.2)}Slice
 Dialogue: 1,0:19:22.14,0:19:22.18,SFXRed3,6,0,0,0,,{=14}{\bord5\fscx90\fscy100\fade(255,0,255,-50,-49,239,580)\frz21.2\pos(1552.05,491.2)}Slice
@@ -974,9 +974,8 @@ Dialogue: 0,0:19:43.42,0:19:44.34,Dubtitles,,0,0,0,,Ah-ha-ha!
 Dialogue: 0,0:19:44.68,0:19:48.60,Dubtitles,,0,0,0,,Revenge was never going to be within\Nyour reach, you cocksure ignoramus!
 Dialogue: 0,0:19:48.68,0:19:50.38,Dubtitles,,0,0,0,,So long, Jotaro and Josuke.
 Dialogue: 0,0:19:50.76,0:19:51.64,Dubtitles,,0,0,0,,I'm taking off!
-Dialogue: 0,0:19:51.80,0:19:54.56,Dubtitles,,0,0,0,,But not before I find that\Nold coot Joseph Joestar?
-Dialogue: 0,0:19:54.64,0:19:56.52,Dubtitles,,0,0,0,,And see to it that he\Nshares the same fate!
-Dialogue: 0,0:19:56.60,0:19:58.72,Dubtitles,,0,0,0,,as the lamentable Nijimura brothers!
+Dialogue: 0,0:19:51.80,0:19:55.26,Dubtitles,,0,0,0,,But not before I find that old\Ncoot Joseph Joestar and see to it
+Dialogue: 0,0:19:55.34,0:19:58.86,Dubtitles,,0,0,0,,that he shares the same fate as\Nthe lamentable Nijimura brothers!
 Dialogue: 0,0:19:58.94,0:20:00.60,Dubtitles,,0,0,0,,To the victor go the spoils!
 Dialogue: 0,0:20:00.98,0:20:02.04,Dubtitles,,0,0,0,,Okuyasu, no!
 Dialogue: 0,0:20:08.92,0:20:10.94,Dubtitles,,0,0,0,,He pulled him into the cables!
@@ -985,6 +984,7 @@ Dialogue: 0,0:20:16.18,0:20:17.22,Dubtitles,,0,0,0,,Good grief.
 Dialogue: 0,0:20:17.40,0:20:20.24,Dubtitles,,0,0,0,,To think we were that close\Nand he still got away.
 Dialogue: 0,0:20:20.32,0:20:22.50,Dubtitles,,0,0,0,,That stand was absolutely terrifying.
 Dialogue: 0,0:20:22.90,0:20:25.90,Dubtitles,,0,0,0,,How do you even begin to fight\Na remote stand with boundless
+Dialogue: 1,0:20:25.49,0:20:29.04,Main,Koichi,0,0,0,,{\an8}What? What are you two talking about?!
 Dialogue: 0,0:20:25.98,0:20:27.40,Dubtitles,,0,0,0,,power to tap into every\Nelectrical company within reach?
 Dialogue: 0,0:20:27.48,0:20:28.94,Dubtitles,,0,0,0,,What the hell are you guys talking about?!
 Dialogue: 0,0:20:29.02,0:20:30.30,Dubtitles,,0,0,0,,Okuyasu was...
@@ -997,7 +997,7 @@ Dialogue: 0,0:20:41.96,0:20:45.14,Dubtitles,,0,0,0,,He must have had a guardian\
 Dialogue: 0,0:20:45.22,0:20:46.26,Dubtitles,,0,0,0,,Weird as it sounds,
 Dialogue: 0,0:20:46.34,0:20:49.44,Dubtitles,,0,0,0,,his right arm getting chopped off was\Nthe best thing that could have happened.
 Dialogue: 0,0:20:49.52,0:20:50.35,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:20:50.43,0:20:51.63,Dubtitles,,0,0,0,,Let's go, Shining Diamond!
+Dialogue: 0,0:20:50.43,0:20:51.63,Dubtitles,,0,0,0,,Let's go, Crazy Diamond!
 Dialogue: 0,0:20:53.64,0:20:56.50,Dubtitles,,0,0,0,,You don't have to worry,\Nso dry those tears, Koichi.
 Dialogue: 0,0:20:56.58,0:20:59.17,Dubtitles,,0,0,0,,Once I fix his arm, his\Nbody will come back.
 Dialogue: 0,0:21:02.28,0:21:03.36,Dubtitles,,0,0,0,,What the hell?
@@ -1032,23 +1032,22 @@ Dialogue: 1,0:22:57.31,0:22:58.98,ED Lyrics,,0,0,0,,{\fad(100,100)}Sweet like a 
 Dialogue: 1,0:22:58.98,0:23:01.35,ED Lyrics,,0,0,0,,{\fad(100,100)}I don't need to try to explain, I just hold on tight
 Dialogue: 1,0:23:01.35,0:23:03.73,ED Lyrics,,0,0,0,,{\fad(100,100)}And if it happens again, I might move so slightly
 Dialogue: 1,0:23:03.73,0:23:06.53,ED Lyrics,,0,0,0,,{\fad(100,100)}To the arms and the lips and the face of the human cannonball
-Dialogue: 0,0:23:05.71,0:23:07.28,Dubtitles,,0,0,0,,In the face of the humic\Nand of all that I need
+Dialogue: 0,0:23:05.71,0:23:09.26,Dubtitles,,0,0,0,,in the face of the humic and of all\Nthat I need to I want to come stand a
 Dialogue: 1,0:23:06.53,0:23:08.24,ED Lyrics,,0,0,0,,{\fad(100,100)}That I need to, I want to
-Dialogue: 0,0:23:07.36,0:23:10.26,Dubtitles,,0,0,0,,to I want to come stand\Na little bit closer.
 Dialogue: 1,0:23:08.24,0:23:10.49,ED Lyrics,,0,0,0,,{\fad(100,100)}Come stand a little bit closer
-Dialogue: 0,0:23:10.34,0:23:17.00,Dubtitles,,0,0,0,,Breathe in and get a bit higher you'll\Nnever know what hit you when I get to you.
+Dialogue: 0,0:23:09.34,0:23:14.34,Dubtitles,,0,0,0,,little bit closer breathe in and get a\Nbit higher you'll never know what hit
 Dialogue: 1,0:23:10.49,0:23:12.82,ED Lyrics,,0,0,0,,{\fad(100,100)}Breathe in and get a bit higher
 Dialogue: 1,0:23:12.82,0:23:14.45,ED Lyrics,,0,0,0,,{\fad(100,100)}You'll never know what hit you
+Dialogue: 0,0:23:14.42,0:23:19.18,Dubtitles,,0,0,0,,you when I get to you oh I want you I
 Dialogue: 1,0:23:14.45,0:23:17.08,ED Lyrics,,0,0,0,,{\fad(100,100)}When I get to you
-Dialogue: 0,0:23:17.08,0:23:20.36,Dubtitles,,0,0,0,,Oh I want you I don't know if I
 Dialogue: 1,0:23:17.08,0:23:21.58,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:20.44,0:23:24.34,Dubtitles,,0,0,0,,need you but oh I gotta find you.
+Dialogue: 0,0:23:19.26,0:23:23.02,Dubtitles,,0,0,0,,don't know if I need you but oh I gotta
 Dialogue: 1,0:23:21.58,0:23:25.13,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I'd die to find out
-Dialogue: 0,0:23:24.42,0:23:29.42,Dubtitles,,0,0,0,,Oh I want you I don't know if I
+Dialogue: 0,0:23:23.10,0:23:28.78,Dubtitles,,0,0,0,,find you oh I want you I don't know
 Dialogue: 1,0:23:26.13,0:23:30.59,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:29.50,0:23:33.38,Dubtitles,,0,0,0,,need you but oh I gotta find you.
+Dialogue: 0,0:23:28.86,0:23:33.38,Dubtitles,,0,0,0,,if I need you but oh I gotta find you
 Dialogue: 1,0:23:30.59,0:23:33.97,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I would die to find out
-Dialogue: 0,0:23:36.44,0:23:38.74,Dubtitles,,0,0,0,,Breakdown, breakdown.
+Dialogue: 0,0:23:36.44,0:23:41.40,Dubtitles,,0,0,0,,Breakdown, Breakdown.\NBreakdown, Breakdown.
 Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(306,780)}Re
 Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(372,780)}d
 Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(650,780)}Hot Ch
@@ -1059,149 +1058,72 @@ Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an1\fad
 Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(650,780)}Hot Ch
 Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(825,780)}ili
 Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1308,780)}Pepper, Part 2
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(326,780)}Re
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(392,780)}d
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(670,780)}Hot Ch
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(845,780)}ili
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1318,780)}Pepper Part 2
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(326,780)}Re
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(392,780)}d
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(670,780)}Hot Ch
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(845,780)}ili
-Dialogue: 1,0:23:38.48,0:23:39.64,Next Episode Title - 11b,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1318,780)}Pepper Part 2
 Dialogue: 1,0:23:38.48,0:23:41.52,Next Episode - 11,sign,0,0,0,,{\fad(350,0)\be25\pos(325,250)}Episode 12
 Dialogue: 1,0:23:38.48,0:23:41.52,Next Episode - 11b,sign,0,0,0,,{\fad(350,0)\be15\pos(325,250)}Episode 12
-Dialogue: 0,0:23:38.82,0:23:41.40,Dubtitles,,0,0,0,,Breakdown, breakdown.
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,780)\fs142\1c&H0D0C0F&}d
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,780)\fs142\1c&H0D0C0F&}d
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,780)\fs142\1c&H0C0F10&}ili
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,780)\fs142\1c&H0C0F10&}ili
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,780)\fs142\1c&H0D0C0F&}d
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,780)\fs142\1c&H0D0C0F&}d
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,780)\fs142\1c&H0C0F10&}ili
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,780)\fs142\1c&H0C0F10&}ili
 Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an2\be25\pos(306,780)}Re
 Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an2\be25\pos(650,780)}Hot Ch
 Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an2\be25\pos(1308,780)}Pepper, Part 2
 Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an2\be25\pos(306,780)}Re
 Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an2\be25\pos(650,780)}Hot Ch
 Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an2\be25\pos(1308,780)}Pepper, Part 2
-Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an2\be25\pos(326,780)}Re
-Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an2\be25\pos(670,780)}Hot Ch
-Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an2\be25\pos(1318,780)}Pepper Part 2
-Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an2\be25\pos(326,780)}Re
-Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an2\be25\pos(670,780)}Hot Ch
-Dialogue: 1,0:23:39.64,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an2\be25\pos(1318,780)}Pepper Part 2
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,780)\fs144\1c&H0E0D1B&}d
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,780)\fs144\1c&H0E0D1B&}d
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,780)\fs144\1c&H0B0C1C&}ili
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,780)\fs144\1c&H0B0C1C&}ili
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,780)\fs144\1c&H0E0D1B&}d
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,780)\fs144\1c&H0E0D1B&}d
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,780)\fs144\1c&H0B0C1C&}ili
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,780)\fs144\1c&H0B0C1C&}ili
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,780.5)\fs146\1c&H0C0F21&}d
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,780.5)\fs146\1c&H0C0F21&}d
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,780.5)\fs146\1c&H0D1028&}ili
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,780.5)\fs146\1c&H0D1028&}ili
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,780.5)\fs146\1c&H0C0F21&}d
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,780.5)\fs146\1c&H0C0F21&}d
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,780.5)\fs146\1c&H0D1028&}ili
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,780.5)\fs146\1c&H0D1028&}ili
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,781)\fs148\1c&H0D0E25&}d
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,781)\fs148\1c&H0D0E25&}d
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,781)\fs148\1c&H0B102B&}ili
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,781)\fs148\1c&H0B102B&}ili
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,781)\fs148\1c&H0D0E25&}d
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,781)\fs148\1c&H0D0E25&}d
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,781)\fs148\1c&H0B102B&}ili
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,781)\fs148\1c&H0B102B&}ili
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,782)\fs150\1c&H0B0F33&}d
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,782)\fs150\1c&H0B0F33&}d
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,782)\fs150\1c&H111242&}ili
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,782)\fs150\1c&H111242&}ili
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,782)\fs150\1c&H0B0F33&}d
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,782)\fs150\1c&H0B0F33&}d
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,782)\fs150\1c&H111242&}ili
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,782)\fs150\1c&H111242&}ili
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,782.5)\fs152\1c&H0C113F&}d
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,782.5)\fs152\1c&H0C113F&}d
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,782.5)\fs152\1c&H0E1248&}ili
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,782.5)\fs152\1c&H0E1248&}ili
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,782.5)\fs152\1c&H0C113F&}d
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,782.5)\fs152\1c&H0C113F&}d
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,782.5)\fs152\1c&H0E1248&}ili
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,782.5)\fs152\1c&H0E1248&}ili
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,783)\fs154\1c&H081548&}d
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,783)\fs154\1c&H081548&}d
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,783)\fs154\1c&H0E1556&}ili
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,783)\fs154\1c&H0E1556&}ili
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,783)\fs154\1c&H081548&}d
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,783)\fs154\1c&H081548&}d
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,783)\fs154\1c&H0E1556&}ili
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,783)\fs154\1c&H0E1556&}ili
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,783.5)\fs156\1c&H0D1556&}d
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,783.5)\fs156\1c&H0D1556&}d
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,783.5)\fs156\1c&H0D1464&}ili
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,783.5)\fs156\1c&H0D1464&}ili
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,783.5)\fs156\1c&H0D1556&}d
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,783.5)\fs156\1c&H0D1556&}d
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,783.5)\fs156\1c&H0D1464&}ili
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,783.5)\fs156\1c&H0D1464&}ili
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,784)\fs158\1c&H0B1563&}d
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,784)\fs158\1c&H0B1563&}d
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,784)\fs158\1c&H0C1673&}ili
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,784)\fs158\1c&H0C1673&}ili
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,784)\fs158\1c&H0B1563&}d
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,784)\fs158\1c&H0B1563&}d
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,784)\fs158\1c&H0C1673&}ili
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,784)\fs158\1c&H0C1673&}ili
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,784.5)\fs160\1c&H0F1870&}d
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,784.5)\fs160\1c&H0F1870&}d
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,784.5)\fs160\1c&H0A177E&}ili
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,784.5)\fs160\1c&H0A177E&}ili
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,784.5)\fs160\1c&H0F1870&}d
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,784.5)\fs160\1c&H0F1870&}d
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,784.5)\fs160\1c&H0A177E&}ili
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,784.5)\fs160\1c&H0A177E&}ili
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,785)\fs162\1c&H091777&}d
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,785)\fs162\1c&H091777&}d
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,785)\fs162\1c&H0B1890&}ili
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,785)\fs162\1c&H0B1890&}ili
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,785)\fs162\1c&H091777&}d
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,785)\fs162\1c&H091777&}d
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,785)\fs162\1c&H0B1890&}ili
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,785)\fs162\1c&H0B1890&}ili
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,785.5)\fs164\1c&H091881&}d
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,785.5)\fs164\1c&H091881&}d
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,785.5)\fs164\1c&H0B1999&}ili
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,785.5)\fs164\1c&H0B1999&}ili
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,785.5)\fs164\1c&H091881&}d
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,785.5)\fs164\1c&H091881&}d
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,785.5)\fs164\1c&H0B1999&}ili
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,785.5)\fs164\1c&H0B1999&}ili
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,786)\fs166\1c&H0C188B&}d
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,786)\fs166\1c&H0C188B&}d
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,786)\fs166\1c&H0B19A4&}ili
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,786)\fs166\1c&H0B19A4&}ili
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,786)\fs166\1c&H0C188B&}d
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,786)\fs166\1c&H0C188B&}d
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,786)\fs166\1c&H0B19A4&}ili
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,786)\fs166\1c&H0B19A4&}ili
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,786.5)\fs168\1c&H051993&}d
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,786.5)\fs168\1c&H051993&}d
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,786.5)\fs168\1c&H0B19AC&}ili
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,786.5)\fs168\1c&H0B19AC&}ili
-Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,786.5)\fs168\1c&H051993&}d
-Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,786.5)\fs168\1c&H051993&}d
-Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,786.5)\fs168\1c&H0B19AC&}ili
-Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,786.5)\fs168\1c&H0B19AC&}ili
 Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(372,787)\fs170\1c&H091996&}d
 Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(372,787)\fs170\1c&H091996&}d
 Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(825,787)\fs170\1c&H081ABB&}ili
 Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(825,787)\fs170\1c&H081ABB&}ili
-Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(392,787)\fs170\1c&H091996&}d
-Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(392,787)\fs170\1c&H091996&}d
-Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11,sign,0,0,0,,{\an1\be25\pos(845,787)\fs170\1c&H081ABB&}ili
-Dialogue: 1,0:23:40.23,0:23:41.52,Next Episode Title - 11b,sign,0,0,0,,{\an1\be25\pos(845,787)\fs170\1c&H081ABB&}ili
 

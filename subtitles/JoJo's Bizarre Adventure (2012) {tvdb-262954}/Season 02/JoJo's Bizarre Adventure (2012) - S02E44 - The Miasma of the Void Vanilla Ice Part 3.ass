@@ -50,7 +50,7 @@ Style: SFXPurple2,Scary Feet demo,160,&H00310B49,&H000000FF,&H00130810,&H0000000
 Style: SFXPurple - Copy,Scary Feet demo,140,&H00721F71,&H000000FF,&H0013080C,&H00000000,0,0,0,0,100,100,0,0,1,9,0,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H001E0F11,&H000000FF,&H00000000,&HA0602534,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
 Style: Eyecatch2 -Middle,Book Antiqua,65,&H00EFF4F2,&H000000FF,&H3C272C2D,&H3C272C2D,-1,0,0,0,105,100,3,0,1,1,2,1,90,90,40,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -63,30 +63,34 @@ Dialogue: 0,0:00:20.46,0:00:21.29,Dubtitles,,0,0,0,,Here we go!
 Dialogue: 0,0:00:21.50,0:00:23.18,Dubtitles,,0,0,0,,Break down this door, Jotaro!
 Dialogue: 0,0:00:23.26,0:00:25.08,Dubtitles,,0,0,0,,We're going in! Roger.
 Dialogue: 0,0:00:26.72,0:00:27.55,Dubtitles,,0,0,0,,Hurrah!
-Dialogue: 0,0:00:33.86,0:00:34.69,Dubtitles,,0,0,0,,Amazement.
 Dialogue: 1,0:00:34.51,0:00:37.35,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,952.999)}Seeking out...
-Dialogue: 0,0:00:35.26,0:00:37.00,Dubtitles,,0,0,0,,Let's go to the social media?
-Dialogue: 0,0:00:37.08,0:00:37.98,Dubtitles,,0,0,0,,My vision is like a simple!
-Dialogue: 0,0:00:38.06,0:00:40.52,Dubtitles,,0,0,0,,Suite of the connect with the mirror.
-Dialogue: 0,0:00:40.60,0:00:42.90,Dubtitles,,0,0,0,,I will wake you up.
-Dialogue: 0,0:00:45.52,0:00:48.29,Dubtitles,,0,0,0,,The arrow goes out to\Nthe journey of the light!
-Dialogue: 0,0:00:55.48,0:00:56.88,Dubtitles,,0,0,0,,Written,
-Dialogue: 0,0:01:32.58,0:01:39.46,Dubtitles,,0,0,0,,Kukaku no last page ni So\Nno kobushi wo Dead ki Cameo
-Dialogue: 0,0:01:40.02,0:01:41.94,Dubtitles,,0,0,0,,End of the world?
-Dialogue: 0,0:01:43.82,0:01:46.18,Dubtitles,,0,0,0,,So no Africa Kick
-Dialogue: 0,0:01:53.38,0:01:54.21,Dubtitles,,0,0,0,,Hear!
-Dialogue: 0,0:02:05.40,0:02:07.10,Dubtitles,,0,0,0,,Au River, Iggy.
+Dialogue: 0,0:00:55.40,0:00:57.28,Dubtitles,,0,0,0,,Now, the enemy will be with you.
+Dialogue: 0,0:00:57.60,0:01:01.10,Dubtitles,,0,0,0,,The enemy will be with you.
+Dialogue: 0,0:01:01.58,0:01:03.17,Dubtitles,,0,0,0,,The enemy will be with you.
+Dialogue: 0,0:01:04.08,0:01:05.79,Dubtitles,,0,0,0,,We are still waiting for you.
+Dialogue: 0,0:01:10.80,0:01:12.76,Dubtitles,,0,0,0,,When you see the end of the battle,
+Dialogue: 0,0:01:12.84,0:01:14.02,Dubtitles,,0,0,0,,we will be with you.
+Dialogue: 0,0:01:15.62,0:01:18.50,Dubtitles,,0,0,0,,The end of the world. Stop it now.
+Dialogue: 0,0:01:21.56,0:01:28.38,Dubtitles,,0,0,0,,The end of the story. Was the one who\Nwas lost. If we were to go to the end, we
+Dialogue: 0,0:01:28.46,0:01:34.98,Dubtitles,,0,0,0,,Will continue to go. The end of the world.\NThe end of the world. The last page.
+Dialogue: 0,0:01:35.56,0:01:42.16,Dubtitles,,0,0,0,,The end of the world.\NThe end of the world.
+Dialogue: 0,0:01:43.56,0:01:48.58,Dubtitles,,0,0,0,,There's no time to\Nregister. Quelle beaucoup de
+Dialogue: 0,0:01:56.46,0:01:58.58,Dubtitles,,0,0,0,,Lolly Mall. Take a stab.
+Dialogue: 0,0:02:00.00,0:02:01.16,Dubtitles,,0,0,0,,[inaudible]
+Dialogue: 0,0:02:04.24,0:02:05.40,Dubtitles,,0,0,0,,Evolve.
+Dialogue: 0,0:02:06.50,0:02:09.06,Dubtitles,,0,0,0,,E die Whoah Whaaaa
 Dialogue: 1,0:02:29.04,0:02:34.55,Title 3,title,0,0,0,,{\fad(985,689)\pos(135,858)}Episode 44: The Miasma of the Void, Cool Ice, Part 3
-Dialogue: 0,0:02:50.82,0:02:56.80,Dubtitles,,0,0,0,,Polnareff, the blood that stains my\Nbody is Avdol's handiwork, not yours.
-Dialogue: 0,0:02:59.88,0:03:04.76,Dubtitles,,0,0,0,,My plan was to eradicate you both\Nsimultaneously, but due to Avdol's intervention,
+Dialogue: 0,0:02:36.54,0:02:38.90,Dubtitles,,0,0,0,,I don't think I'm going to die.
+Dialogue: 0,0:02:50.86,0:02:56.80,Dubtitles,,0,0,0,,Polnareff... The blood that stains my\Nbody is Avdol's handiwork, not yours.
+Dialogue: 0,0:02:59.88,0:03:04.72,Dubtitles,,0,0,0,,My plan was to eradicate you both\Nsimultaneously, but due to Avdol's intervention,
 Dialogue: 0,0:03:05.06,0:03:06.59,Dubtitles,,0,0,0,,your demise was postponed.
 Dialogue: 0,0:03:07.58,0:03:10.94,Dubtitles,,0,0,0,,Anyone else would have instinctively\Nsaved himself over risking
 Dialogue: 0,0:03:11.02,0:03:14.37,Dubtitles,,0,0,0,,life and limb to come to the\Naid of an oblivious comrade.
-Dialogue: 0,0:03:14.68,0:03:17.56,Dubtitles,,0,0,0,,That alone makes him\Nresponsible for my injuries.
-Dialogue: 0,0:03:17.92,0:03:19.88,Dubtitles,,0,0,0,,He may have been able to injure me,
+Dialogue: 0,0:03:14.66,0:03:17.54,Dubtitles,,0,0,0,,That alone makes him\Nresponsible for my injuries.
+Dialogue: 0,0:03:18.02,0:03:19.88,Dubtitles,,0,0,0,,He may have been able to injure me,
 Dialogue: 0,0:03:19.96,0:03:23.37,Dubtitles,,0,0,0,,but it'll take far more than\Nthat to send me to the grave.
 Dialogue: 0,0:03:23.52,0:03:26.34,Dubtitles,,0,0,0,,Now I'll set my sights\Non the other interlopers.
-Dialogue: 0,0:03:26.60,0:03:28.89,Dubtitles,,0,0,0,,I'll kill them in the name of Lord Dio!
+Dialogue: 0,0:03:26.58,0:03:28.87,Dubtitles,,0,0,0,,I'll kill them in the name of Lord Dio!
 Dialogue: 0,0:03:33.66,0:03:34.49,Dubtitles,,0,0,0,,Damn it.
 Dialogue: 0,0:03:34.72,0:03:39.49,Dubtitles,,0,0,0,,I told you not to use your stand, Iggy,\Nbut you just had to show off, didn't you?
 Dialogue: 0,0:03:40.60,0:03:41.48,Dubtitles,,0,0,0,,Stupid dog.
@@ -94,7 +98,7 @@ Dialogue: 0,0:03:41.80,0:03:44.34,Dubtitles,,0,0,0,,Why'd you have to do it? Hol
 Dialogue: 0,0:03:44.70,0:03:46.88,Dubtitles,,0,0,0,,As far as Cool Ice was concerned,
 Dialogue: 0,0:03:47.18,0:03:51.12,Dubtitles,,0,0,0,,Iggy was nothing more than a filthy\Nstray without resolve or pride.
 Dialogue: 0,0:03:51.34,0:03:55.30,Dubtitles,,0,0,0,,But by its very nature, a stand\Nis a manifestation of the soul,
-Dialogue: 0,0:03:55.38,0:03:57.56,Dubtitles,,0,0,0,,and Iggy's had acted of its own volition?
+Dialogue: 0,0:03:55.38,0:03:57.56,Dubtitles,,0,0,0,,and Iggy's had acted of its own volition
 Dialogue: 0,0:03:57.64,0:04:00.35,Dubtitles,,0,0,0,,with something compelling\Nit from deep within.
 Dialogue: 0,0:04:06.08,0:04:09.28,Dubtitles,,0,0,0,,His sand, its spirit is gone.
 Dialogue: 0,0:04:10.06,0:04:12.60,Dubtitles,,0,0,0,,How could this have happened? Damn it!
@@ -250,10 +254,10 @@ Dialogue: 0,0:07:03.38,0:07:04.54,Dubtitles,,0,0,0,,You bastard!
 Dialogue: 0,0:07:10.76,0:07:15.64,Dubtitles,,0,0,0,,Since you're only feeling it now, the change\Nmust have started after I stabbed you.
 Dialogue: 0,0:07:15.90,0:07:16.73,Dubtitles,,0,0,0,,Come on!
 Dialogue: 0,0:07:16.94,0:07:19.80,Dubtitles,,0,0,0,,You made a vow to protect\Nyour lord and master, right?
-Dialogue: 0,0:07:19.88,0:07:22.92,Dubtitles,,0,0,0,,What are you waiting for? Bring it! Yeah?
+Dialogue: 0,0:07:19.88,0:07:22.92,Dubtitles,,0,0,0,,What are you waiting for? Bring it? Yeah?
 Dialogue: 0,0:07:23.28,0:07:25.32,Dubtitles,,0,0,0,,Go on do your worst.
 Dialogue: 0,0:07:25.50,0:07:28.32,Dubtitles,,0,0,0,,Hey, what's the hold up\Ncool ice? I'm waiting.
-Dialogue: 0,0:07:28.46,0:07:30.26,Dubtitles,,0,0,0,,You're not going to defeat me
+Dialogue: 0,0:07:28.46,0:07:30.26,Dubtitles,,0,0,0,,You're not going to defeat me.
 Dialogue: 0,0:07:31.74,0:07:33.66,Dubtitles,,0,0,0,,Now go to hell asshole
 Dialogue: 0,0:08:08.38,0:08:11.40,Dubtitles,,0,0,0,,Oh, my God.
 Dialogue: 0,0:08:20.76,0:08:22.28,Dubtitles,,0,0,0,,Ah, Avdol, wait!
@@ -397,19 +401,16 @@ Dialogue: 0,0:09:24.26,0:09:25.74,Dubtitles,,0,0,0,,Rosa, stop the car.
 Dialogue: 0,0:09:26.22,0:09:28.22,Dubtitles,,0,0,0,,Hit the brakes, I want to get out.
 Dialogue: 1,0:09:28.21,0:09:30.34,SC44 Sign 2 White,whiteblack,0,0,0,,{\pos(544.8,307.2)}Soba
 Dialogue: 1,0:09:28.21,0:09:30.34,SC44 Sign 2 Blue,whiteblack,0,0,0,,{\pos(1188,285.2)}Soba Midokoro
-Dialogue: 0,0:09:30.52,0:09:31.40,Dubtitles,,0,0,0,,Madam Joestar,
+Dialogue: 0,0:09:30.52,0:09:31.40,Dubtitles,,0,0,0,,Madam Joestar.
 Dialogue: 0,0:09:31.74,0:09:33.08,Dubtitles,,0,0,0,,I don't mean to overstep,
 Dialogue: 0,0:09:33.16,0:09:35.66,Dubtitles,,0,0,0,,but it's now really the best\Ntime to stop at a sober stand.
 Dialogue: 0,0:09:35.74,0:09:38.52,Dubtitles,,0,0,0,,Well, of course, I haven't\Nbeen to Japan in a while.
 Dialogue: 0,0:09:38.60,0:09:41.60,Dubtitles,,0,0,0,,I'd like to grab a quick bite\Nbefore visiting my little girl.
 Dialogue: 0,0:09:41.68,0:09:44.62,Dubtitles,,0,0,0,,Hon, would you be a dear\Nand hold on to my turtle?
-Dialogue: 0,0:09:45.58,0:09:48.96,Dubtitles,,0,0,0,,Please madam, you mustn't.\NPlaces such as these are
-Dialogue: 0,0:09:49.04,0:09:51.28,Dubtitles,,0,0,0,,for common businessmen\Nladies of your pedigree!
-Dialogue: 0,0:09:51.36,0:09:53.86,Dubtitles,,0,0,0,,Should only dine at fine\Nrestaurants i'm begging
-Dialogue: 0,0:09:53.94,0:09:57.02,Dubtitles,,0,0,0,,you madam don't go in\Nthere lighten up Roses!
-Dialogue: 0,0:09:57.10,0:09:59.38,Dubtitles,,0,0,0,,It's so quaint i just have to record it.
-Dialogue: 0,0:09:59.46,0:10:02.52,Dubtitles,,0,0,0,,Oh the local flavor is simply to die for!
-Dialogue: 0,0:10:02.60,0:10:04.32,Dubtitles,,0,0,0,,Oh this'll be a good shot.
+Dialogue: 0,0:09:45.58,0:09:50.14,Dubtitles,,0,0,0,,Please, Madam, you mustn't. Places such\Nas these are for common businessmen.
+Dialogue: 0,0:09:50.22,0:09:54.10,Dubtitles,,0,0,0,,ladies of your pedigree should only\Ndine at fine restaurants i'm begging you
+Dialogue: 0,0:09:54.18,0:09:58.74,Dubtitles,,0,0,0,,madam don't go in there lighten up\NRoses it's so quaint i just have to
+Dialogue: 0,0:09:58.82,0:10:04.32,Dubtitles,,0,0,0,,record it oh the local flavor is simply\Nto die for oh this'll be a good shot
 Dialogue: 1,0:10:04.79,0:10:04.83,SC44 Sign 3,sign,0,0,0,,{=18}{\blur3\fax-0.08\frz4.938\pos(1054.71,752.46)\frx354.3\fry0\c&HFFFFFF&}No Vomiting\N or Urinating
 Dialogue: 2,0:10:04.79,0:10:04.83,SC44 Sign 3,sign,0,0,0,,{=18}{\bord0\blur3\fax-0.08\frz4.938\pos(1054.71,752.46)\frx354.3\fry0\4a&HFF&}No Vomiting\N or Urinating
 Dialogue: 1,0:10:04.83,0:10:04.87,SC44 Sign 3,sign,0,0,0,,{=18}{\blur2.85\fax-0.08\frz4.938\pos(1051.57,753.43)\frx354.3\fry0\c&HFFFFFF&}No Vomiting\N or Urinating
@@ -519,14 +520,14 @@ Dialogue: 0,0:10:54.48,0:10:55.89,Dubtitles,,0,0,0,,Holly doesn't have long.
 Dialogue: 0,0:10:56.10,0:10:59.81,Dubtitles,,0,0,0,,If she's not saved, she'll likely\Ndie within the next few days.
 Dialogue: 0,0:11:00.16,0:11:02.94,Dubtitles,,0,0,0,,Would you prefer that I\Ntold Madam Joestar, sir?
 Dialogue: 0,0:11:03.02,0:11:04.16,Dubtitles,,0,0,0,,No, thank you.
-Dialogue: 0,0:11:04.46,0:11:07.64,Dubtitles,,0,0,0,,But I've made my bed with the\Nfalsehoods I've told the madam,
+Dialogue: 0,0:11:04.46,0:11:07.64,Dubtitles,,0,0,0,,But I've made my bed with the\Nfalsehoods I've told the madam.
 Dialogue: 0,0:11:07.72,0:11:09.37,Dubtitles,,0,0,0,,and now I have to lie in it.
 Dialogue: 0,0:11:09.86,0:11:12.06,Dubtitles,,0,0,0,,I have to be the one to inform her.
 Dialogue: 0,0:11:13.10,0:11:13.93,Dubtitles,,0,0,0,,Tell me,
 Dialogue: 0,0:11:14.01,0:11:16.42,Dubtitles,,0,0,0,,are you absolutely sure\Nthe curse afflicting
 Dialogue: 0,0:11:16.50,0:11:18.62,Dubtitles,,0,0,0,,Miss Holly will be\Nlifted if Dio is killed?
 Dialogue: 0,0:11:18.70,0:11:19.53,Dubtitles,,0,0,0,,I am.
-Dialogue: 0,0:11:19.70,0:11:22.18,Dubtitles,,0,0,0,,Dio's demise will end this. Trust me.
+Dialogue: 0,0:11:19.70,0:11:22.18,Dubtitles,,0,0,0,,Dio's demise will end this, trust me.
 Dialogue: 0,0:11:23.96,0:11:27.34,Dubtitles,,0,0,0,,Holly's body is reacting to energy\Nfrom something known as a stand.
 Dialogue: 0,0:11:27.42,0:11:30.95,Dubtitles,,0,0,0,,But only people with said stands\Ncan observe the phenomenon.
 Dialogue: 0,0:11:31.44,0:11:34.84,Dubtitles,,0,0,0,,Put simply, Dio's dark energy\Nis slowly destroying her.
@@ -848,16 +849,16 @@ Dialogue: 0,0:14:18.66,0:14:21.32,Dubtitles,,0,0,0,,he would tell me his busines
 Dialogue: 0,0:14:21.40,0:14:23.64,Dubtitles,,0,0,0,,but that I had nothing to worry about.
 Dialogue: 0,0:14:24.34,0:14:27.69,Dubtitles,,0,0,0,,But I knew they were keeping\Nsomething important from me.
 Dialogue: 0,0:14:27.84,0:14:32.24,Dubtitles,,0,0,0,,Deep down, I knew something terrible was\Nhappening to my daughter and husband.
-Dialogue: 0,0:14:32.32,0:14:35.06,Dubtitles,,0,0,0,,I've been married to\NJoseph for 50 years now,
+Dialogue: 0,0:14:32.32,0:14:35.06,Dubtitles,,0,0,0,,I've been married to\NJoseph for 50 years now.
 Dialogue: 0,0:14:35.14,0:14:38.02,Dubtitles,,0,0,0,,and my sweet Holly is\Nmy own flesh and blood.
 Dialogue: 0,0:14:39.44,0:14:43.64,Dubtitles,,0,0,0,,I never pressed them for more information\Nbecause I was afraid of what they'd say.
-Dialogue: 0,0:14:43.72,0:14:46.86,Dubtitles,,0,0,0,,I wanted nothing more than\Nto see my precious daughter.
-Dialogue: 0,0:14:46.94,0:14:50.35,Dubtitles,,0,0,0,,But the thought of what I'd\Nfind here was almost too much!
-Dialogue: 0,0:14:51.16,0:14:54.52,Dubtitles,,0,0,0,,You know this much, so you also\Nhave the right to know the rest.
-Dialogue: 0,0:14:54.60,0:14:57.74,Dubtitles,,0,0,0,,As it stands, your daughter only\Nhas a few days left to live.
-Dialogue: 0,0:14:57.82,0:14:58.94,Dubtitles,,0,0,0,,That's why Mr.
-Dialogue: 0,0:14:59.08,0:15:02.40,Dubtitles,,0,0,0,,Joestar and the others went to Egypt\NTo end the source of her illness?
-Dialogue: 0,0:15:02.48,0:15:05.04,Dubtitles,,0,0,0,,But there's been no news for a while.
+Dialogue: 0,0:14:43.72,0:14:46.86,Dubtitles,,0,0,0,,I wanted nothing more than\Nto see my precious daughter
+Dialogue: 0,0:14:46.94,0:14:50.29,Dubtitles,,0,0,0,,But the thought of what I'd\Nfind here was almost too much
+Dialogue: 0,0:14:51.16,0:14:52.42,Dubtitles,,0,0,0,,You know this much,
+Dialogue: 0,0:14:52.66,0:14:55.64,Dubtitles,,0,0,0,,so you also have the right to\Nknow the rest As it stands,
+Dialogue: 0,0:14:55.72,0:14:59.00,Dubtitles,,0,0,0,,your daughter only has a few\Ndays left to live That's why Mr.
+Dialogue: 0,0:14:59.08,0:15:01.82,Dubtitles,,0,0,0,,Joestar and the others went\Nto Egypt To end the source
+Dialogue: 0,0:15:01.90,0:15:05.04,Dubtitles,,0,0,0,,of her illness But there's\Nbeen no news for a while
 Dialogue: 0,0:15:06.00,0:15:10.00,Dubtitles,,0,0,0,,Please, can you find it in your heart\Nto forgive me for not telling you?
 Dialogue: 0,0:15:10.08,0:15:14.26,Dubtitles,,0,0,0,,There was nothing we could do for Miss Holly\Nso I wanted to spare you from the pain,
 Dialogue: 0,0:15:14.34,0:15:15.17,Dubtitles,,0,0,0,,but I was wrong.
@@ -1064,7 +1065,7 @@ Dialogue: 0,0:17:47.54,0:17:49.54,Dubtitles,,0,0,0,,I want a chance to fight the
 Dialogue: 0,0:17:49.94,0:17:52.06,Dubtitles,,0,0,0,,You're merely an ordinary vampire.
 Dialogue: 0,0:17:52.52,0:17:55.92,Dubtitles,,0,0,0,,You'd best stay out of our way\Nor we might end up killing you!
 Dialogue: 0,0:17:56.00,0:17:58.54,Dubtitles,,0,0,0,,Do try to behave yourself, loser.
-Dialogue: 0,0:18:01.88,0:18:04.29,Dubtitles,,0,0,0,,I'll be the one who finishes off Jotaro!
+Dialogue: 0,0:18:01.88,0:18:04.29,Dubtitles,,0,0,0,,I'll be the one to finish off Jotaro!
 Dialogue: 0,0:18:10.68,0:18:11.51,Dubtitles,,0,0,0,,Stop!
 Dialogue: 0,0:18:11.64,0:18:14.05,Dubtitles,,0,0,0,,There's something up ahead, to the right!
 Dialogue: 0,0:18:24.40,0:18:25.36,Dubtitles,,0,0,0,,A woman.
@@ -1072,7 +1073,7 @@ Dialogue: 0,0:18:27.16,0:18:28.92,Dubtitles,,0,0,0,,Please have mercy on me!
 Dialogue: 0,0:18:29.12,0:18:30.34,Dubtitles,,0,0,0,,I'm begging you!
 Dialogue: 0,0:18:30.46,0:18:31.64,Dubtitles,,0,0,0,,Don't suck my blood!
 Dialogue: 0,0:18:31.74,0:18:32.82,Dubtitles,,0,0,0,,Anything but that!
-Dialogue: 0,0:18:34.78,0:18:36.86,Dubtitles,,0,0,0,,I swear I'll do whatever you want.
+Dialogue: 0,0:18:34.78,0:18:36.86,Dubtitles,,0,0,0,,I swear I'll do whatever you want!
 Dialogue: 0,0:18:37.08,0:18:38.14,Dubtitles,,0,0,0,,Just let me live.
 Dialogue: 0,0:18:38.30,0:18:39.59,Dubtitles,,0,0,0,,That's all I'm asking.
 Dialogue: 0,0:18:40.88,0:18:42.60,Dubtitles,,0,0,0,,Hey, easy now.
@@ -1137,7 +1138,7 @@ Dialogue: 1,0:19:12.33,0:19:12.38,SFXBrown2,4,0,0,0,,{=39}{\blur0.7\bord9.88\fsc
 Dialogue: 2,0:19:12.33,0:19:12.38,SFXBrown2,4,0,0,0,,{=39}{\blur0.7\bord0\fscx128.45\fscy98.81\frz344.2\pos(1444.84,448.25)\4a&HFF&}Crush!
 Dialogue: 0,0:19:14.46,0:19:17.26,Dubtitles,,0,0,0,,Real good at punching evil in the face.
 Dialogue: 0,0:19:19.22,0:19:22.10,Dubtitles,,0,0,0,,If you still want help,\Nwe'll be happy to oblige.
-Dialogue: 0,0:19:22.24,0:19:25.08,Dubtitles,,0,0,0,,We'll help by sending you\Non a one-way trip to hell.
+Dialogue: 0,0:19:22.24,0:19:25.08,Dubtitles,,0,0,0,,We'll help by sending you\Non a one-way trip to hell!
 Dialogue: 0,0:19:25.16,0:19:26.40,Dubtitles,,0,0,0,,Sound good, Kakyoin?
 Dialogue: 0,0:19:30.80,0:19:31.63,Dubtitles,,0,0,0,,Help!
 Dialogue: 0,0:19:31.88,0:19:35.18,Dubtitles,,0,0,0,,Damn it! Help! Tell me! Help! Help!
@@ -1734,7 +1735,7 @@ Dialogue: 1,0:23:18.79,0:23:18.83,SFXPurple2,6,0,0,0,,{=32}{\blur0.7\iclip(m 452
 Dialogue: 2,0:23:18.79,0:23:18.83,SFXPurple2,6,0,0,0,,{=32}{\bord0\blur0.7\iclip(m 452 334 l 448 300 445 285 446 269 440 240 427 205 408 161 392 128 374 92 347 48 323 22 321 17 362 32 408 59 453 96 461 104 594 213)\fade(255,0,255,-5090,-5089,29,30)\frz6.389\org(19.76,65.217)\pos(19.76,65.217)\4a&HFF&}Rumble
 Dialogue: 0,0:23:20.80,0:23:22.32,Dubtitles,,0,0,0,,Dio, at last.
 Dialogue: 1,0:23:26.46,0:23:28.47,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:26.82,0:23:28.62,Dubtitles,,0,0,0,,You've finally come out, Dio.
+Dialogue: 0,0:23:26.82,0:23:28.62,Dubtitles,,0,0,0,,You've finally come out, Dio!
 Dialogue: 0,0:23:28.86,0:23:30.50,Dubtitles,,0,0,0,,I knew this day would come.
 Dialogue: 0,0:23:30.70,0:23:32.52,Dubtitles,,0,0,0,,I have absolutely no regrets.
 Dialogue: 0,0:23:32.84,0:23:34.92,Dubtitles,,0,0,0,,There's something you need to hear first.

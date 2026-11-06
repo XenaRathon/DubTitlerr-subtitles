@@ -73,17 +73,7 @@ Style: SFX - Copy,Ashcan BB,160,&H0036B4F7,&H000000FF,&H001C2740,&H00000000,0,0,
 Style: SFXBrown4,Franc Gothique Brush,140,&H00ADBFBB,&H000000FF,&H00414A37,&H00000000,0,0,0,0,120,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXTeal,Franc Gothique Brush,170,&H00E9FFB3,&H000000FF,&H005D9666,&H00000000,0,0,0,0,130,100,0,0,1,8,0,8,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: RippleSigns,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,2,100,100,45,1
-Style: RippleSigns - 5,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,5,100,100,45,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -288,8 +278,6 @@ Dialogue: 2,0:03:43.16,0:03:52.88,Geology1,Unknown,0,0,0,,{\clip(251,780,481,785
 Dialogue: 2,0:03:43.16,0:03:52.88,Geology1,Unknown,0,0,0,,{\clip(251,785,481,790)\pos(361,659)\c&H5590C1&}Body
 Dialogue: 2,0:03:43.16,0:03:52.88,Geology1,Unknown,0,0,0,,{\clip(251,790,481,795)\pos(361,659)\c&H5897C3&}Body
 Dialogue: 2,0:03:43.16,0:03:52.88,Geology1,Unknown,0,0,0,,{\clip(251,795,481,800)\pos(361,659)\c&H5C9EC5&}Body
-Dialogue: 1,0:03:43.16,0:03:52.88,Geology1,Unknown,0,0,0,,{\pos(653,811)}Body
-Dialogue: 1,0:03:43.16,0:03:52.88,Geology2,Unknown,0,0,0,,{\be2\pos(946,530)}Air
 Dialogue: 0,0:03:47.26,0:03:50.04,Dubtitles,,0,0,0,,As the outer layer burned\Naway with each passing second,
 Dialogue: 0,0:03:50.12,0:03:53.06,Dubtitles,,0,0,0,,But more bubbles worked their\Nway outward to replace them,
 Dialogue: 0,0:03:53.14,0:03:55.14,Dubtitles,,0,0,0,,maintaining a perfect equilibrium.
@@ -321,7 +309,7 @@ Dialogue: 0,0:05:43.56,0:05:45.64,Dubtitles,,0,0,0,,His very existence is a thre
 Dialogue: 0,0:05:45.72,0:05:49.04,Dubtitles,,0,0,0,,There is no place for one\Nsuch as him in this world.
 Dialogue: 0,0:05:49.18,0:05:51.38,Dubtitles,,0,0,0,,We have to wipe out his evil.
 Dialogue: 0,0:05:51.80,0:05:53.08,Dubtitles,,0,0,0,,Look at you fools.
-Dialogue: 0,0:05:53.50,0:05:56.15,Dubtitles,,0,0,0,,Don't you want to have\Ndominion over the sun?
+Dialogue: 0,0:05:53.50,0:05:56.15,Dubtitles,,0,0,0,,Don't you wish to conquer the sun?
 Dialogue: 0,0:05:56.32,0:05:59.20,Dubtitles,,0,0,0,,To stand in ascendance over all life?
 Dialogue: 0,0:05:59.84,0:06:03.12,Dubtitles,,0,0,0,,To purge your fears and\Nreign forever as gods?
 Dialogue: 3,0:06:03.80,0:06:03.84,SFXPurple4,2,0,0,0,,{=24}{\blur1.2\bord14.12\fscx204.02\fscy156.94\frz3.614\pos(1060.7,833.72)\c&H221527&}Bam
@@ -771,13 +759,13 @@ Dialogue: 4,0:06:42.21,0:06:42.26,SFXTeal,A1,0,0,0,,{=47}{\bord0\blur1.3\frz17.3
 Dialogue: 2,0:06:42.26,0:06:42.30,SFXTeal,A1,0,0,0,,{=47}{\blur8\frz17.38\pos(622.92,573.38)\alpha&H80&}{\c&HFFFFFF&\3c&HFFFFFF&}Bam
 Dialogue: 3,0:06:42.26,0:06:42.30,SFXTeal,A1,0,0,0,,{=47}{\blur1.3\frz17.38\pos(622.92,573.38)\c&H5D9666&}{\3c&HFFFFFF&\c&HFFFFFF&}Bam
 Dialogue: 4,0:06:42.26,0:06:42.30,SFXTeal,A1,0,0,0,,{=47}{\bord0\blur1.3\frz17.38\pos(622.92,573.38)\4a&HFF&}{\c&HFFFFFF&}Bam
-Dialogue: 0,0:06:44.78,0:06:48.42,Dubtitles,,0,0,0,,He's a god. This tyrant\Nhas become a deity.
+Dialogue: 0,0:06:44.78,0:06:48.42,Dubtitles,,0,0,0,,he's a god this tyrant has become a deity
 Dialogue: 0,0:06:48.50,0:06:52.46,Dubtitles,,0,0,0,,and against such a foe\Nthere is nothing that
 Dialogue: 0,0:06:52.54,0:06:54.88,Dubtitles,,0,0,0,,we can do we must submit
 Dialogue: 0,0:06:54.96,0:06:55.92,Dubtitles,,0,0,0,,or perish
 Dialogue: 0,0:06:56.00,0:07:02.54,Dubtitles,,0,0,0,,hear that
 Dialogue: 0,0:07:02.62,0:07:05.74,Dubtitles,,0,0,0,,i think jojo is trying\Nto tell me something
-Dialogue: 0,0:07:10.74,0:07:13.06,Dubtitles,,0,0,0,,Hamon, Overdrive!
+Dialogue: 0,0:07:10.74,0:07:13.06,Dubtitles,,0,0,0,,Hamon overdrive!
 Dialogue: 0,0:07:13.78,0:07:15.46,Dubtitles,,0,0,0,,What? Hamon?
 Dialogue: 1,0:07:16.62,0:07:16.67,SFXBBB,4,0,0,0,,{=27}{\blur6\bord9.53\frz4.984\pos(1517.68,405.72)\fscx93\fscy132\alpha&H80&}Slam
 Dialogue: 2,0:07:16.62,0:07:16.67,SFXBBB,4,0,0,0,,{=27}{\blur0.9\bord9.53\frz4.984\pos(1517.68,405.72)\fscx93\fscy132\c&H151329&}Slam
@@ -1463,7 +1451,7 @@ Dialogue: 3,0:10:19.27,0:10:19.31,SFXMuted,9,0,0,0,,{=30}{\blur1.2\bord0\fscx132
 Dialogue: 0,0:10:19.46,0:10:22.62,Dubtitles,,0,0,0,,Jojo's body did the one thing\Nthat could save his life!
 Dialogue: 1,0:10:19.85,0:10:26.44,Insert Jap,,0,0,0,,{\fad(100,100)}Kimyo na rasen no naka korogaritsuzukeru
 Dialogue: 1,0:10:19.85,0:10:26.44,Insert Eng,,0,0,0,,{\fad(100,100)}The eternally-wandering adventurer
-Dialogue: 0,0:10:22.70,0:10:27.56,Dubtitles,,0,0,0,,Having survived Karr's coup d'Atta,\Nhis will to live sprang into action.
+Dialogue: 0,0:10:22.70,0:10:27.56,Dubtitles,,0,0,0,,Having survived Karr's coup de Crazy,\Nhis will to live sprang into action.
 Dialogue: 1,0:10:26.44,0:10:31.86,Insert Jap,,0,0,0,,{\fad(100,100)}Eien wo samayo bokensha
 Dialogue: 1,0:10:26.44,0:10:31.86,Insert Eng,,0,0,0,,{\fad(100,100)}Tumbles through a bizarre spiral
 Dialogue: 0,0:10:28.14,0:10:32.02,Dubtitles,,0,0,0,,Yes, the red stone amplifies Hamon!
@@ -1671,7 +1659,7 @@ Dialogue: 0,0:11:22.84,0:11:24.48,Dubtitles,,0,0,0,,Who's laughing now, huh?
 Dialogue: 1,0:11:27.79,0:11:36.72,Insert Jap,,0,0,0,,{\fad(100,100)}Nidoto hodokenai karamiatta sadame
 Dialogue: 1,0:11:27.79,0:11:36.72,Insert Eng,,0,0,0,,{\fad(100,100)}Two fates knot into one inseparably
 Dialogue: 0,0:11:28.10,0:11:29.18,Dubtitles,,0,0,0,,Let me guess.
-Dialogue: 0,0:11:30.10,0:11:33.72,Dubtitles,,0,0,0,,You're gonna say, did you\Nplan this too, Jojo? Tell me.
+Dialogue: 0,0:11:30.10,0:11:33.72,Dubtitles,,0,0,0,,You're gonna say, "Did you\Nplan this too, Jojo?" Tell me.
 Dialogue: 0,0:11:34.04,0:11:35.64,Dubtitles,,0,0,0,,How do you always know?
 Dialogue: 0,0:11:36.12,0:11:40.48,Dubtitles,,0,0,0,,For a moment, Kars was distracted by\NJojo's arm and his cocky attitude.
 Dialogue: 1,0:11:37.55,0:11:47.56,Insert Jap,,0,0,0,,{\fad(100,100)}Subete wa koko kara hajimatteita no sa!
@@ -1680,7 +1668,7 @@ Dialogue: 0,0:11:40.70,0:11:42.52,Dubtitles,,0,0,0,,That moment was all it took.
 Dialogue: 0,0:11:43.84,0:11:48.72,Dubtitles,,0,0,0,,Scalding rocks he didn't see coming launched\Nhim even higher into the stratosphere!
 Dialogue: 1,0:11:49.02,0:11:53.90,Insert Jap,,0,0,0,,{\fad(100,100)}Furueru hodo kokoro moetsukiru hodo atsuku
 Dialogue: 1,0:11:49.02,0:11:53.90,Insert Eng,,0,0,0,,{\fad(100,100)}Let that burning in your soul calm the trembling of your heart
-Dialogue: 0,0:11:50.08,0:11:53.42,Dubtitles,,0,0,0,,Did you plan this too, Jojo? Tell me!
+Dialogue: 0,0:11:50.08,0:11:53.42,Dubtitles,,0,0,0,,Did you plan this too, Jojo?! Tell me!
 Dialogue: 0,0:11:53.82,0:11:55.26,Dubtitles,,0,0,0,,Why are you even asking?
 Dialogue: 1,0:11:53.90,0:11:57.20,Insert Jap,,0,0,0,,{\fad(100,100)}Sono te kara hanate kodou
 Dialogue: 1,0:11:53.90,0:11:57.20,Insert Eng,,0,0,0,,{\fad(100,100)}Strike down your fears,
@@ -1721,7 +1709,6 @@ Dialogue: 1,0:13:10.02,0:13:10.19,Obituary,Unknown,0,0,0,,{\pos(118,652)\be(1)}F
 Dialogue: 1,0:13:10.19,0:13:10.44,Obituary,Unknown,0,0,0,,{\pos(118,652)\be(1)}February
 Dialogue: 1,0:13:10.44,0:13:10.69,Obituary,Unknown,0,0,0,,{\pos(118,652)\be(1)}February 28,
 Dialogue: 1,0:13:10.69,0:13:18.03,Obituary,Unknown,0,0,0,,{\pos(118,652)\be(1)}February 28, 1939
-Dialogue: 1,0:13:10.69,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,652)\be(1)}February 28, 1939
 Dialogue: 1,0:13:11.52,0:13:11.69,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Jo
 Dialogue: 1,0:13:11.69,0:13:11.85,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Jose
 Dialogue: 1,0:13:11.85,0:13:12.02,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Josep
@@ -1731,7 +1718,6 @@ Dialogue: 1,0:13:12.35,0:13:12.52,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}J
 Dialogue: 1,0:13:12.52,0:13:12.69,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Joseph Joes
 Dialogue: 1,0:13:12.69,0:13:12.86,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Joseph Joesta
 Dialogue: 1,0:13:12.86,0:13:18.03,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:12.86,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:13.27,0:13:13.44,Obituary,Unknown,0,0,0,,{\pos(118,810)\be1}O
 Dialogue: 1,0:13:13.44,0:13:13.69,Obituary,Unknown,0,0,0,,{\pos(118,810)\be1}On
 Dialogue: 1,0:13:13.69,0:13:14.02,Obituary,Unknown,0,0,0,,{\pos(118,810)\be1}On I
@@ -1742,11 +1728,9 @@ Dialogue: 1,0:13:14.52,0:13:14.69,Obituary,Unknown,0,0,0,,{\pos(118,810)\be1}On 
 Dialogue: 1,0:13:14.69,0:13:14.94,Obituary,Unknown,0,0,0,,{\pos(118,810)\be1}On Isola di Vul
 Dialogue: 1,0:13:14.94,0:13:15.11,Obituary,Unknown,0,0,0,,{\pos(118,810)\be1}On Isola di Vulca
 Dialogue: 1,0:13:15.11,0:13:18.03,Obituary,Unknown,0,0,0,,{\pos(118,810)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:15.11,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,810)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:16.65,0:13:16.82,Obituary,Unknown,0,0,0,,{\pos(118,890)\be1}Has
 Dialogue: 1,0:13:16.82,0:13:17.32,Obituary,Unknown,0,0,0,,{\pos(118,890)\be1}Has Died
 Dialogue: 1,0:13:17.32,0:13:18.03,Obituary,Unknown,0,0,0,,{\pos(118,890)\be(1)}Has Died...
-Dialogue: 1,0:13:17.32,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,890)\be(1)}Has Died...
 Dialogue: 1,0:13:18.03,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,652)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.03,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,724)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.03,0:13:18.07,Obituary,Unknown,0,0,0,,{\pos(118,810)\be(1)}On Isola di Vulcano
@@ -1755,10 +1739,6 @@ Dialogue: 1,0:13:18.07,0:13:18.11,Obituary,Unknown,0,0,0,,{\pos(118,652.61)\be(1
 Dialogue: 1,0:13:18.07,0:13:18.11,Obituary,Unknown,0,0,0,,{\pos(118,724.61)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.07,0:13:18.11,Obituary,Unknown,0,0,0,,{\pos(118,810.61)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.07,0:13:18.11,Obituary,Unknown,0,0,0,,{\pos(118,890.61)\be(1)}Has Died...
-Dialogue: 1,0:13:18.07,0:13:18.19,Obituary,Unknown,0,0,0,,{\pos(118,653)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.07,0:13:18.19,Obituary,Unknown,0,0,0,,{\pos(118,725)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.07,0:13:18.19,Obituary,Unknown,0,0,0,,{\pos(118,811)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.07,0:13:18.19,Obituary,Unknown,0,0,0,,{\pos(118,891)\be(1)}Has Died...
 Dialogue: 1,0:13:18.11,0:13:18.15,Obituary,Unknown,0,0,0,,{\pos(118,653.69)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.11,0:13:18.15,Obituary,Unknown,0,0,0,,{\pos(118,725.69)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.11,0:13:18.15,Obituary,Unknown,0,0,0,,{\pos(118,811.69)\be(1)}On Isola di Vulcano
@@ -1771,373 +1751,206 @@ Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,657.11)\be(1
 Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,729.11)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,815.1)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,895.1)\be(1)}Has Died...
-Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,654)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,726)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,812)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.19,0:13:18.24,Obituary,Unknown,0,0,0,,{\pos(118,892)\be(1)}Has Died...
 Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,659.44)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,731.44)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,817.44)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,897.44)\be(1)}Has Died...
-Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,655)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,727)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,813)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.24,0:13:18.28,Obituary,Unknown,0,0,0,,{\pos(118,893)\be(1)}Has Died...
 Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,662.18)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,734.18)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,820.18)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,900.18)\be(1)}Has Died...
-Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,656)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,728)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,814)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.28,0:13:18.32,Obituary,Unknown,0,0,0,,{\pos(118,894)\be(1)}Has Died...
 Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,665.34)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,737.34)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,823.34)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,903.34)\be(1)}Has Died...
-Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,658)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,730)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,816)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.32,0:13:18.36,Obituary,Unknown,0,0,0,,{\pos(118,896)\be(1)}Has Died...
 Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,668.9)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,740.9)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,826.9)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,906.9)\be(1)}Has Died...
-Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,662)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,734)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,820)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.36,0:13:18.40,Obituary,Unknown,0,0,0,,{\pos(118,900)\be(1)}Has Died...
 Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,672.88)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,744.88)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,830.88)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,910.88)\be(1)}Has Died...
-Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,665)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,737)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,823)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.40,0:13:18.44,Obituary,Unknown,0,0,0,,{\pos(118,903)\be(1)}Has Died...
 Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,677.21)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,749.21)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,835.2)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,915.2)\be(1)}Has Died...
-Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,668)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,740)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,826)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.44,0:13:18.49,Obituary,Unknown,0,0,0,,{\pos(118,906)\be(1)}Has Died...
 Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,681.97)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,753.97)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,839.97)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,919.97)\be(1)}Has Died...
-Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,674)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,746)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,832)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.49,0:13:18.53,Obituary,Unknown,0,0,0,,{\pos(118,912)\be(1)}Has Died...
 Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,687.12)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,759.12)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,845.12)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,925.12)\be(1)}Has Died...
-Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,681)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,753)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,839)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.53,0:13:18.57,Obituary,Unknown,0,0,0,,{\pos(118,919)\be(1)}Has Died...
 Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,692.6)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,764.6)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,850.6)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,930.6)\be(1)}Has Died...
-Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,688)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,760)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,846)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.57,0:13:18.61,Obituary,Unknown,0,0,0,,{\pos(118,926)\be(1)}Has Died...
 Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,698.5)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,770.5)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,856.5)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,936.5)\be(1)}Has Died...
-Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,695)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,767)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,853)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.61,0:13:18.65,Obituary,Unknown,0,0,0,,{\pos(118,933)\be(1)}Has Died...
 Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,704.75)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,776.75)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,862.75)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,942.75)\be(1)}Has Died...
-Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,701)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,773)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,859)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.65,0:13:18.69,Obituary,Unknown,0,0,0,,{\pos(118,939)\be(1)}Has Died...
 Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,711.32)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,783.32)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,869.32)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,949.32)\be(1)}Has Died...
-Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,707)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,779)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,865)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.69,0:13:18.74,Obituary,Unknown,0,0,0,,{\pos(118,945)\be(1)}Has Died...
 Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,718.28)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,790.28)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,876.28)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,956.28)\be(1)}Has Died...
-Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,713)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,785)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,871)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.74,0:13:18.78,Obituary,Unknown,0,0,0,,{\pos(118,951)\be(1)}Has Died...
 Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,725.55)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,797.55)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,883.55)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,963.55)\be(1)}Has Died...
-Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,720)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,792)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,878)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.78,0:13:18.82,Obituary,Unknown,0,0,0,,{\pos(118,958)\be(1)}Has Died...
 Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,733.14)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,805.14)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,891.14)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,971.14)\be(1)}Has Died...
-Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,728)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,800)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,886)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.82,0:13:18.86,Obituary,Unknown,0,0,0,,{\pos(118,968)\be(1)}Has Died...
 Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,741.07)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,813.07)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,899.07)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,979.07)\be(1)}Has Died...
-Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,736)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,808)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,894)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.86,0:13:18.90,Obituary,Unknown,0,0,0,,{\pos(118,976)\be(1)}Has Died...
 Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,749.31)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,821.31)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,907.3)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,987.3)\be(1)}Has Died...
-Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,744)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,816)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,902)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.90,0:13:18.94,Obituary,Unknown,0,0,0,,{\pos(118,984)\be(1)}Has Died...
 Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,757.79)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,829.79)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,915.79)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,995.79)\be(1)}Has Died...
-Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,753)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,825)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,911)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.94,0:13:18.99,Obituary,Unknown,0,0,0,,{\pos(118,993)\be(1)}Has Died...
 Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,766.66)\be(1)}February 28, 1939
 Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,838.66)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,924.66)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,1004.66)\be(1)}Has Died...
-Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,762)\be(1)}February 28, 1939
-Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,834)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,920)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:18.99,0:13:19.03,Obituary,Unknown,0,0,0,,{\pos(118,1002)\be(1)}Has Died...
 Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,775.76)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,847.76)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,933.76)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,1013.76)\be(1)}Has Died...
-Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,772)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,844)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,930)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.03,0:13:19.07,Obituary,Unknown,0,0,0,,{\pos(118,1012)\be(1)}Has Died...
 Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,785.12)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,857.12)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,943.11)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,1023.11)\be(1)}Has Died...
-Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,782)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,854)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,940)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.07,0:13:19.11,Obituary,Unknown,0,0,0,,{\pos(118,1022)\be(1)}Has Died...
 Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,794.77)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,866.77)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,952.77)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,1032.77)\be(1)}Has Died...
-Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,792)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,864)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,950)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.11,0:13:19.15,Obituary,Unknown,0,0,0,,{\pos(118,1032)\be(1)}Has Died...
 Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,804.64)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,876.64)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,962.64)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,1042.64)\be(1)}Has Died...
-Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,801)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,873)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,959)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.15,0:13:19.19,Obituary,Unknown,0,0,0,,{\pos(118,1041)\be(1)}Has Died...
 Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,814.78)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,886.78)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,972.78)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,1052.78)\be(1)}Has Died...
-Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,810)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,882)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,968)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.19,0:13:19.24,Obituary,Unknown,0,0,0,,{\pos(118,1050)\be(1)}Has Died...
 Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(117.99,825.19)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(117.99,897.19)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(117.99,983.19)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(117.99,1063.19)\be(1)}Has Died...
-Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(118,820)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(118,892)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(118,978)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.24,0:13:19.28,Obituary,Unknown,0,0,0,,{\pos(118,1060)\be(1)}Has Died...
 Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,835.78)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,907.78)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,993.77)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,1073.77)\be(1)}Has Died...
-Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,830)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,902)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,988)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.28,0:13:19.32,Obituary,Unknown,0,0,0,,{\pos(118,1070)\be(1)}Has Died...
 Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,846.6)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,918.6)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,1004.6)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,1084.6)\be(1)}Has Died...
-Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,840)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,912)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,998)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.32,0:13:19.36,Obituary,Unknown,0,0,0,,{\pos(118,1080)\be(1)}Has Died...
 Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,857.64)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,929.64)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,1015.64)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,1095.64)\be(1)}Has Died...
-Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,851)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,923)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,1009)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.36,0:13:19.40,Obituary,Unknown,0,0,0,,{\pos(118,1091)\be(1)}Has Died...
 Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,868.9)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,940.9)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,1026.89)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,1106.89)\be(1)}Has Died...
-Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,862)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,934)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,1020)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.40,0:13:19.45,Obituary,Unknown,0,0,0,,{\pos(118,1102)\be(1)}Has Died...
 Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,880.37)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,952.37)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,1038.37)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,1118.37)\be(1)}Has Died...
-Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,874)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,946)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,1032)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.45,0:13:19.49,Obituary,Unknown,0,0,0,,{\pos(118,1114)\be(1)}Has Died...
 Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,891.96)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,963.96)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,1049.96)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,1129.96)\be(1)}Has Died...
-Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,886)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,958)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,1044)\be(1)}On Isola di Vulcano
-Dialogue: 1,0:13:19.49,0:13:19.53,Obituary,Unknown,0,0,0,,{\pos(118,1126)\be(1)}Has Died...
 Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,903.77)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,975.77)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,1061.77)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,1141.77)\be(1)}Has Died...
-Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,898)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,970)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.53,0:13:19.57,Obituary,Unknown,0,0,0,,{\pos(118,1056)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,915.75)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,987.75)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,1073.75)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,1153.75)\be(1)}Has Died...
-Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,910)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,982)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.57,0:13:19.61,Obituary,Unknown,0,0,0,,{\pos(118,1068)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,927.82)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,999.82)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,1085.82)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,1165.82)\be(1)}Has Died...
-Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,922)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,994)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.61,0:13:19.65,Obituary,Unknown,0,0,0,,{\pos(118,1080)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(117.99,940.13)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(117.99,1012.13)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(117.99,1098.13)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(117.99,1178.13)\be(1)}Has Died...
-Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(118,935)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(118,1007)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.65,0:13:19.70,Obituary,Unknown,0,0,0,,{\pos(118,1093)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,952.61)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,1024.61)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,1110.61)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,1190.61)\be(1)}Has Died...
-Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,948)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,1020)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.70,0:13:19.74,Obituary,Unknown,0,0,0,,{\pos(118,1106)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,965.18)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,1037.18)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,1123.18)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,1203.18)\be(1)}Has Died...
-Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,961)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,1033)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.74,0:13:19.78,Obituary,Unknown,0,0,0,,{\pos(118,1119)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,977.91)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,1049.91)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,1135.91)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,1215.91)\be(1)}Has Died...
-Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,974)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,1046)\be(1)}Joseph Joestar
-Dialogue: 1,0:13:19.78,0:13:19.82,Obituary,Unknown,0,0,0,,{\pos(118,1132)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.82,0:13:19.86,Obituary,Unknown,0,0,0,,{\pos(118,990.74)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.82,0:13:19.86,Obituary,Unknown,0,0,0,,{\pos(118,1062.74)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.82,0:13:19.86,Obituary,Unknown,0,0,0,,{\pos(118,1148.74)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.82,0:13:19.86,Obituary,Unknown,0,0,0,,{\pos(118,1228.74)\be(1)}Has Died...
-Dialogue: 1,0:13:19.82,0:13:19.86,Obituary,Unknown,0,0,0,,{\pos(118,987)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.82,0:13:19.86,Obituary,Unknown,0,0,0,,{\pos(118,1059)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.86,0:13:19.90,Obituary,Unknown,0,0,0,,{\pos(118,1003.7)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.86,0:13:19.90,Obituary,Unknown,0,0,0,,{\pos(118,1075.7)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.86,0:13:19.90,Obituary,Unknown,0,0,0,,{\pos(118,1161.7)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.86,0:13:19.90,Obituary,Unknown,0,0,0,,{\pos(118,1241.7)\be(1)}Has Died...
-Dialogue: 1,0:13:19.86,0:13:19.90,Obituary,Unknown,0,0,0,,{\pos(118,1000)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.86,0:13:19.90,Obituary,Unknown,0,0,0,,{\pos(118,1072)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.90,0:13:19.95,Obituary,Unknown,0,0,0,,{\pos(117.99,1016.82)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.90,0:13:19.95,Obituary,Unknown,0,0,0,,{\pos(117.99,1088.82)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.90,0:13:19.95,Obituary,Unknown,0,0,0,,{\pos(117.99,1174.82)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.90,0:13:19.95,Obituary,Unknown,0,0,0,,{\pos(117.99,1254.82)\be(1)}Has Died...
-Dialogue: 1,0:13:19.90,0:13:19.95,Obituary,Unknown,0,0,0,,{\pos(118,1013)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.90,0:13:19.95,Obituary,Unknown,0,0,0,,{\pos(118,1085)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.95,0:13:19.99,Obituary,Unknown,0,0,0,,{\pos(118,1030.01)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.95,0:13:19.99,Obituary,Unknown,0,0,0,,{\pos(118,1102.01)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.95,0:13:19.99,Obituary,Unknown,0,0,0,,{\pos(118,1188.01)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.95,0:13:19.99,Obituary,Unknown,0,0,0,,{\pos(118,1268.01)\be(1)}Has Died...
-Dialogue: 1,0:13:19.95,0:13:19.99,Obituary,Unknown,0,0,0,,{\pos(118,1026)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.95,0:13:19.99,Obituary,Unknown,0,0,0,,{\pos(118,1098)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.99,0:13:20.03,Obituary,Unknown,0,0,0,,{\pos(118,1043.29)\be(1)}February 28, 1939
 Dialogue: 1,0:13:19.99,0:13:20.03,Obituary,Unknown,0,0,0,,{\pos(118,1115.29)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:19.99,0:13:20.03,Obituary,Unknown,0,0,0,,{\pos(118,1201.29)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:19.99,0:13:20.03,Obituary,Unknown,0,0,0,,{\pos(118,1281.29)\be(1)}Has Died...
-Dialogue: 1,0:13:19.99,0:13:20.03,Obituary,Unknown,0,0,0,,{\pos(118,1039)\be(1)}February 28, 1939
-Dialogue: 1,0:13:19.99,0:13:20.03,Obituary,Unknown,0,0,0,,{\pos(118,1111)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.03,0:13:20.07,Obituary,Unknown,0,0,0,,{\pos(118,1056.74)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.03,0:13:20.07,Obituary,Unknown,0,0,0,,{\pos(118,1128.74)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.03,0:13:20.07,Obituary,Unknown,0,0,0,,{\pos(118,1214.74)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.03,0:13:20.07,Obituary,Unknown,0,0,0,,{\pos(118,1294.74)\be(1)}Has Died...
-Dialogue: 1,0:13:20.03,0:13:20.07,Obituary,Unknown,0,0,0,,{\pos(118,1052)\be(1)}February 28, 1939
-Dialogue: 1,0:13:20.03,0:13:20.07,Obituary,Unknown,0,0,0,,{\pos(118,1124)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.07,0:13:20.11,Obituary,Unknown,0,0,0,,{\pos(118,1070.23)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.07,0:13:20.11,Obituary,Unknown,0,0,0,,{\pos(118,1142.23)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.07,0:13:20.11,Obituary,Unknown,0,0,0,,{\pos(118,1228.23)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.07,0:13:20.11,Obituary,Unknown,0,0,0,,{\pos(118,1308.23)\be(1)}Has Died...
-Dialogue: 1,0:13:20.07,0:13:20.11,Obituary,Unknown,0,0,0,,{\pos(118,1065)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.11,0:13:20.15,Obituary,Unknown,0,0,0,,{\pos(118,1083.73)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.11,0:13:20.15,Obituary,Unknown,0,0,0,,{\pos(118,1155.73)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.11,0:13:20.15,Obituary,Unknown,0,0,0,,{\pos(118,1241.73)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.11,0:13:20.15,Obituary,Unknown,0,0,0,,{\pos(118,1321.73)\be(1)}Has Died...
-Dialogue: 1,0:13:20.11,0:13:20.15,Obituary,Unknown,0,0,0,,{\pos(118,1078)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.15,0:13:20.20,Obituary,Unknown,0,0,0,,{\pos(118,1097.45)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.15,0:13:20.20,Obituary,Unknown,0,0,0,,{\pos(118,1169.45)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.15,0:13:20.20,Obituary,Unknown,0,0,0,,{\pos(118,1255.45)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.15,0:13:20.20,Obituary,Unknown,0,0,0,,{\pos(118,1335.45)\be(1)}Has Died...
-Dialogue: 1,0:13:20.15,0:13:20.20,Obituary,Unknown,0,0,0,,{\pos(118,1091)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.20,0:13:20.24,Obituary,Unknown,0,0,0,,{\pos(118,1111.19)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.20,0:13:20.24,Obituary,Unknown,0,0,0,,{\pos(118,1183.19)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.20,0:13:20.24,Obituary,Unknown,0,0,0,,{\pos(118,1269.19)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.20,0:13:20.24,Obituary,Unknown,0,0,0,,{\pos(118,1349.19)\be(1)}Has Died...
-Dialogue: 1,0:13:20.20,0:13:20.24,Obituary,Unknown,0,0,0,,{\pos(118,1105)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.24,0:13:20.28,Obituary,Unknown,0,0,0,,{\pos(117.99,1124.96)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.24,0:13:20.28,Obituary,Unknown,0,0,0,,{\pos(117.99,1196.96)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.24,0:13:20.28,Obituary,Unknown,0,0,0,,{\pos(117.99,1282.96)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.24,0:13:20.28,Obituary,Unknown,0,0,0,,{\pos(117.99,1362.96)\be(1)}Has Died...
-Dialogue: 1,0:13:20.24,0:13:20.28,Obituary,Unknown,0,0,0,,{\pos(118,1119)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.28,0:13:20.32,Obituary,Unknown,0,0,0,,{\pos(117.7,1139.66)\be(1)}February 28, 1939
 Dialogue: 1,0:13:20.28,0:13:20.32,Obituary,Unknown,0,0,0,,{\pos(117.7,1211.66)\be(1)}Joseph Joestar
 Dialogue: 1,0:13:20.28,0:13:20.32,Obituary,Unknown,0,0,0,,{\pos(117.7,1297.66)\be(1)}On Isola di Vulcano
 Dialogue: 1,0:13:20.28,0:13:20.32,Obituary,Unknown,0,0,0,,{\pos(117.7,1377.66)\be(1)}Has Died...
-Dialogue: 1,0:13:20.28,0:13:20.32,Obituary,Unknown,0,0,0,,{\pos(118,1133)\be(1)}February 28, 1939
 Dialogue: 0,0:13:21.58,0:13:23.32,Dubtitles,,0,0,0,,No! No!
 Dialogue: 0,0:13:25.08,0:13:26.10,Dubtitles,,0,0,0,,Don't panic!
 Dialogue: 0,0:13:26.48,0:13:27.66,Dubtitles,,0,0,0,,Just find the Earth!
@@ -2146,11 +1959,8 @@ Dialogue: 0,0:13:33.88,0:13:37.76,Dubtitles,,0,0,0,,Once I'm back on solid groun
 Dialogue: 0,0:13:57.88,0:13:58.71,Dubtitles,,0,0,0,,No!
 Dialogue: 0,0:13:58.79,0:13:59.64,Dubtitles,,0,0,0,,It's not working!
 Dialogue: 0,0:14:00.16,0:14:01.58,Dubtitles,,0,0,0,,I'm freezing!
-Dialogue: 0,0:14:02.58,0:14:05.40,Dubtitles,,0,0,0,,The air is freezing around me.
-Dialogue: 0,0:14:05.48,0:14:08.02,Dubtitles,,0,0,0,,The moment it comes out of the jets!
-Dialogue: 0,0:14:08.10,0:14:09.56,Dubtitles,,0,0,0,,It turns to ice.
-Dialogue: 0,0:14:13.50,0:14:16.16,Dubtitles,,0,0,0,,I can't change my path.
-Dialogue: 0,0:14:16.24,0:14:18.46,Dubtitles,,0,0,0,,I can't move.
+Dialogue: 0,0:14:02.58,0:14:09.56,Dubtitles,,0,0,0,,The air is freezing around me. The moment\Nit comes out of the jets, it turns to ice.
+Dialogue: 0,0:14:13.50,0:14:18.46,Dubtitles,,0,0,0,,I can't change my path I can't move
 Dialogue: 4,0:14:21.22,0:14:21.26,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord10\fscx120\fscy100\fade(255,0,255,0,0,1460,2710)\frz6.692\pos(1067.4,22)\c&H120D17&}Doom
 Dialogue: 5,0:14:21.22,0:14:21.26,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord0\fscx120\fscy100\fade(255,0,255,0,0,1460,2710)\frz6.692\pos(1067.4,22)\4a&HFF&}Doom
 Dialogue: 4,0:14:21.26,0:14:21.30,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord9.92\fscx119.08\fscy99.24\fade(255,0,255,-40,-40,1420,2670)\frz6.692\pos(1067.63,5.82)\c&H120D17&}Doom
@@ -2269,7 +2079,7 @@ Dialogue: 4,0:14:23.59,0:14:23.63,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bo
 Dialogue: 5,0:14:23.59,0:14:23.63,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord0\fscx109.5\fscy91.25\fade(255,0,255,-2380,-2380,-920,330)\frz6.692\pos(1057.24,52.23)\4a&HFF&}Doom
 Dialogue: 4,0:14:23.63,0:14:23.68,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord9.36\fscx112.31\fscy93.59\fade(255,0,255,-2420,-2420,-960,290)\frz6.692\pos(1061.5,48.38)\c&H120D17&}Doom
 Dialogue: 5,0:14:23.63,0:14:23.68,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord0\fscx112.31\fscy93.59\fade(255,0,255,-2420,-2420,-960,290)\frz6.692\pos(1061.5,48.38)\4a&HFF&}Doom
-Dialogue: 0,0:14:23.64,0:14:25.72,Dubtitles,,0,0,0,,So ended Kars?
+Dialogue: 0,0:14:23.64,0:14:28.38,Dubtitles,,0,0,0,,So ended Kars Last and\Ngreatest of the Pillar Men
 Dialogue: 4,0:14:23.68,0:14:23.72,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord9.37\fscx112.39\fscy93.66\fade(255,0,255,-2460,-2460,-1000,250)\frz6.692\pos(1063.21,61.34)\c&H120D17&}Doom
 Dialogue: 5,0:14:23.68,0:14:23.72,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord0\fscx112.39\fscy93.66\fade(255,0,255,-2460,-2460,-1000,250)\frz6.692\pos(1063.21,61.34)\4a&HFF&}Doom
 Dialogue: 4,0:14:23.72,0:14:23.76,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord8.92\fscx107.02\fscy89.18\fade(255,0,255,-2500,-2500,-1040,210)\frz6.692\pos(1055.98,61.31)\c&H120D17&}Doom
@@ -2282,19 +2092,17 @@ Dialogue: 4,0:14:23.84,0:14:23.88,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bo
 Dialogue: 5,0:14:23.84,0:14:23.88,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord0\fscx112.54\fscy93.78\fade(255,0,255,-2630,-2630,-1170,80)\frz6.692\pos(1061.92,59.28)\4a&HFF&}Doom
 Dialogue: 4,0:14:23.88,0:14:23.93,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord9.17\fscx110.05\fscy91.71\fade(255,0,255,-2670,-2670,-1210,40)\frz6.692\pos(1051.66,66.97)\c&H120D17&}Doom
 Dialogue: 5,0:14:23.88,0:14:23.93,SFXMagentaMagenta2,13,0,0,0,,{=35}{\blur0.8\bord0\fscx110.05\fscy91.71\fade(255,0,255,-2670,-2670,-1210,40)\frz6.692\pos(1051.66,66.97)\4a&HFF&}Doom
-Dialogue: 0,0:14:25.80,0:14:28.38,Dubtitles,,0,0,0,,Last and greatest of the Pillar Men.
 Dialogue: 0,0:14:29.50,0:14:34.68,Dubtitles,,0,0,0,,His body turned hard as rock, and he\Nfloated through space for the rest of time,
 Dialogue: 0,0:14:35.14,0:14:36.36,Dubtitles,,0,0,0,,never to return.
 Dialogue: 0,0:14:37.08,0:14:41.28,Dubtitles,,0,0,0,,He wished for death, but there\Nwas nothing out there to kill him.
 Dialogue: 0,0:14:41.66,0:14:46.54,Dubtitles,,0,0,0,,The spark of thought within\Nhim went dim, and then silent.
 Dialogue: 1,0:14:49.62,0:14:55.50,Title2.1,Unknown,0,0,0,,{\fad(400,700)\pos(960,841)\bord3\blur2}Outside New York City, April 1939
-Dialogue: 1,0:14:49.62,0:14:55.50,Title2,Unknown,0,0,0,,{\fad(400,700)\pos(960,841)\be(2)}Outside New York City, April 1939
-Dialogue: 0,0:14:57.58,0:15:01.72,Dubtitles,,0,0,0,,We commend his soul unto the\Nheavenly father. Though his life
+Dialogue: 0,0:14:57.58,0:15:01.72,Dubtitles,,0,0,0,,We commend his soul unto the\Nheavenly Father, though his life
 Dialogue: 0,0:15:01.80,0:15:05.86,Dubtitles,,0,0,0,,on earth has ended far too\Nsoon he lives in grace with you
-Dialogue: 0,0:15:07.12,0:15:12.08,Dubtitles,,0,0,0,,comfort those he leaves behind Oh\NGod and let them know your peace
-Dialogue: 0,0:15:24.84,0:15:30.92,Dubtitles,,0,0,0,,Goodbye, Jojo I didn't know you for too\Nlong couldn't have been more than six months
-Dialogue: 0,0:15:33.98,0:15:37.82,Dubtitles,,0,0,0,,don't matter even though\Nyou're gone I'm your friend
-Dialogue: 0,0:15:39.62,0:15:40.45,Dubtitles,,0,0,0,,forever
+Dialogue: 0,0:15:07.12,0:15:12.08,Dubtitles,,0,0,0,,comfort those he leaves behind oh\Ngod and let them know your peace
+Dialogue: 0,0:15:24.84,0:15:30.92,Dubtitles,,0,0,0,,Goodbye, Jojo I didn't know you for too\Nlong Couldn't have been more than six months
+Dialogue: 0,0:15:33.98,0:15:37.82,Dubtitles,,0,0,0,,Don't matter Even though\Nyou're gone I'm your friend
+Dialogue: 0,0:15:39.62,0:15:40.45,Dubtitles,,0,0,0,,Forever
 Dialogue: 0,0:15:46.10,0:15:47.42,Dubtitles,,0,0,0,,Come, Iran.
 Dialogue: 0,0:15:47.50,0:15:49.44,Dubtitles,,0,0,0,,It won't do to catch cold.
 Dialogue: 0,0:15:49.52,0:15:50.96,Dubtitles,,0,0,0,,Let's get you home.
@@ -2315,13 +2123,14 @@ Dialogue: 0,0:16:30.94,0:16:32.62,Dubtitles,,0,0,0,,You leave these mourners alo
 Dialogue: 0,0:16:32.70,0:16:33.76,Dubtitles,,0,0,0,,This is a funeral!
 Dialogue: 0,0:16:33.90,0:16:35.08,Dubtitles,,0,0,0,,Show some respect, you own...
 Dialogue: 0,0:16:35.16,0:16:36.80,Dubtitles,,0,0,0,,Oh, so I'm oaf, am I?
-Dialogue: 0,0:16:36.88,0:16:40.28,Dubtitles,,0,0,0,,You need a lesson in manners,\Nand I'm glad to apply!
-Dialogue: 0,0:16:40.68,0:16:42.16,Dubtitles,,0,0,0,,All right, calm down.
+Dialogue: 0,0:16:36.88,0:16:40.35,Dubtitles,,0,0,0,,You need a lesson in manners,\Nand I'm glad to have blocked!
+Dialogue: 0,0:16:40.66,0:16:42.12,Dubtitles,,0,0,0,,All right, calm down.
 Dialogue: 0,0:16:42.40,0:16:43.52,Dubtitles,,0,0,0,,Let's not be hasty.
-Dialogue: 0,0:16:43.90,0:16:46.94,Dubtitles,,0,0,0,,I'm sure you didn't mean\Nnothing by it. No way.
-Dialogue: 0,0:16:47.56,0:16:50.10,Dubtitles,,0,0,0,,I'm talking to you, big\Nguy! You'd better...
-Dialogue: 0,0:16:50.18,0:16:51.44,Dubtitles,,0,0,0,,Back off, man!
-Dialogue: 0,0:16:51.62,0:16:54.46,Dubtitles,,0,0,0,,I'm just trying to catch up\Nwith my family and friends.
+Dialogue: 0,0:16:43.96,0:16:46.94,Dubtitles,,0,0,0,,I'm sure it doesn't mean\Nnothing by it. No way!
+Dialogue: 0,0:16:47.62,0:16:49.27,Dubtitles,,0,0,0,,I'm talking to you, big guy!
+Dialogue: 0,0:16:49.44,0:16:50.27,Dubtitles,,0,0,0,,You'd better...
+Dialogue: 0,0:16:50.35,0:16:51.44,Dubtitles,,0,0,0,,Back off, man!
+Dialogue: 0,0:16:51.62,0:16:54.36,Dubtitles,,0,0,0,,I'm just trying to catch up\Nwith my family and friends!
 Dialogue: 1,0:16:54.20,0:16:54.24,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-81.68,-47.63)\fade(255,0,255,-50,100,4650,4650)\frz2.814\c&H301E1B&}Rumble {Usually id move this earlier tracking where it doesnt touch any sfx on screen but theres no where else to put this}
 Dialogue: 2,0:16:54.20,0:16:54.24,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-81.68,-47.63)\fade(255,0,255,-50,100,4650,4650)\frz2.814\4a&HFF&}Rumble {Usually id move this earlier tracking where it doesnt touch any sfx on screen but theres no where else to put this}
 Dialogue: 1,0:16:54.24,0:16:54.28,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(6.9,8.39)\fade(255,0,255,-90,60,4610,4610)\frz2.814\c&H301E1B&}Rumble
@@ -2334,13 +2143,13 @@ Dialogue: 1,0:16:54.37,0:16:54.41,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-0.25,-0.
 Dialogue: 2,0:16:54.37,0:16:54.41,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-0.25,-0.71)\fade(255,0,255,-210,-60,4490,4490)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:54.41,0:16:54.45,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-7.61,6.64)\fade(255,0,255,-250,-100,4450,4450)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:54.41,0:16:54.45,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-7.61,6.64)\fade(255,0,255,-250,-100,4450,4450)\frz2.814\4a&HFF&}Rumble
+Dialogue: 0,0:16:54.44,0:16:55.27,Dubtitles,,0,0,0,,Juju!
 Dialogue: 1,0:16:54.45,0:16:54.49,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-8.91,2.76)\fade(255,0,255,-300,-150,4400,4400)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:54.45,0:16:54.49,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-8.91,2.76)\fade(255,0,255,-300,-150,4400,4400)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:54.49,0:16:54.53,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-5.87,17.92)\fade(255,0,255,-340,-190,4360,4360)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:54.49,0:16:54.53,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-5.87,17.92)\fade(255,0,255,-340,-190,4360,4360)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:54.53,0:16:54.58,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-2.84,4.49)\fade(255,0,255,-380,-230,4320,4320)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:54.53,0:16:54.58,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-2.84,4.49)\fade(255,0,255,-380,-230,4320,4320)\frz2.814\4a&HFF&}Rumble
-Dialogue: 0,0:16:54.54,0:16:55.37,Dubtitles,,0,0,0,,JoJo!
 Dialogue: 1,0:16:54.58,0:16:54.62,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(-4.12,5.34)\fade(255,0,255,-420,-270,4280,4280)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:54.58,0:16:54.62,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(-4.12,5.34)\fade(255,0,255,-420,-270,4280,4280)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:54.62,0:16:54.66,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(4.97,10.96)\fade(255,0,255,-460,-310,4240,4240)\frz2.814\c&H301E1B&}Rumble
@@ -2394,7 +2203,6 @@ Dialogue: 2,0:16:55.58,0:16:55.62,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(8.6
 Dialogue: 1,0:16:55.62,0:16:55.66,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(3.88,11.9)\fade(255,0,255,-1460,-1310,3240,3240)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:55.62,0:16:55.66,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(3.88,11.9)\fade(255,0,255,-1460,-1310,3240,3240)\frz2.814\4a&HFF&}Rumble
 Dialogue: 2,0:16:55.66,0:16:55.70,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(8.66,11.68)\fade(255,0,255,-1510,-1360,3190,3190)\frz2.814\4a&HFF&}Rumble
-Dialogue: 1,0:16:55.66,0:16:55.70,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(8.66,11.68)\fade(255,0,255,-1510,-1360,3190,3190)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 1,0:16:55.70,0:16:55.74,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(18.41,14.27)\fade(255,0,255,-1550,-1400,3150,3150)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:55.70,0:16:55.74,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(18.41,14.27)\fade(255,0,255,-1550,-1400,3150,3150)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:55.74,0:16:55.79,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(19.03,14.48)\fade(255,0,255,-1590,-1440,3110,3110)\frz2.814\c&H301E1B&}Rumble
@@ -2451,7 +2259,6 @@ Dialogue: 1,0:16:56.79,0:16:56.83,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(32.88,14.
 Dialogue: 2,0:16:56.79,0:16:56.83,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(32.88,14.72)\fade(255,0,255,-2630,-2480,2070,2070)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:56.83,0:16:56.87,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(35.65,37.03)\fade(255,0,255,-2670,-2520,2030,2030)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:56.83,0:16:56.87,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(35.65,37.03)\fade(255,0,255,-2670,-2520,2030,2030)\frz2.814\4a&HFF&}Rumble
-Dialogue: 0,0:16:56.84,0:16:59.58,Dubtitles,,0,0,0,,You're telling me JoJo's alive?! Huh?
 Dialogue: 1,0:16:56.87,0:16:56.91,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(22.92,20.14)\fade(255,0,255,-2720,-2570,1980,1980)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:56.87,0:16:56.91,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(22.92,20.14)\fade(255,0,255,-2720,-2570,1980,1980)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:56.91,0:16:56.95,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(19.23,18.23)\fade(255,0,255,-2760,-2610,1940,1940)\frz2.814\c&H301E1B&}Rumble
@@ -2462,81 +2269,81 @@ Dialogue: 1,0:16:57.00,0:16:57.04,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(42.81,22.
 Dialogue: 2,0:16:57.00,0:16:57.04,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(42.81,22.79)\fade(255,0,255,-2840,-2690,1860,1860)\frz2.814\4a&HFF&}Rumble
 Dialogue: 1,0:16:57.04,0:16:57.08,SFXBlue,14,0,0,0,,{=18}{\blur0.8\pos(33.12,9.15)\fade(255,0,255,-2880,-2730,1820,1820)\frz2.814\c&H301E1B&}Rumble
 Dialogue: 2,0:16:57.04,0:16:57.08,SFXBlue,14,0,0,0,,{=18}{\bord0\blur0.8\pos(33.12,9.15)\fade(255,0,255,-2880,-2730,1820,1820)\frz2.814\4a&HFF&}Rumble
-Dialogue: 0,0:16:59.92,0:17:00.88,Dubtitles,,0,0,0,,Yeah, of course.
-Dialogue: 0,0:17:01.54,0:17:02.95,Dubtitles,,0,0,0,,Wait, what's this about?
-Dialogue: 0,0:17:03.04,0:17:04.96,Dubtitles,,0,0,0,,You're all staring as\Nthough you've seen a ghost.
-Dialogue: 0,0:17:05.04,0:17:07.18,Dubtitles,,0,0,0,,I know it's a funeral, and uh-huh.
-Dialogue: 0,0:17:09.22,0:17:10.05,Dubtitles,,0,0,0,,What the?
-Dialogue: 0,0:17:10.20,0:17:11.68,Dubtitles,,0,0,0,,What's my name doing on there?
-Dialogue: 0,0:17:11.76,0:17:12.88,Dubtitles,,0,0,0,,I'm alive and well!
-Dialogue: 0,0:17:13.08,0:17:14.85,Dubtitles,,0,0,0,,Wait, this funeral was for me?
-Dialogue: 0,0:17:15.58,0:17:16.41,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:17:16.49,0:17:18.39,Dubtitles,,0,0,0,,You're still recovering, you big silly.
-Dialogue: 0,0:17:18.72,0:17:20.84,Dubtitles,,0,0,0,,Don't run off in the rain like that.
-Dialogue: 0,0:17:24.78,0:17:26.26,Dubtitles,,0,0,0,,Here, take this.
-Dialogue: 0,0:17:27.38,0:17:29.56,Dubtitles,,0,0,0,,Hey, that girl is Suzy Q.
-Dialogue: 0,0:17:29.86,0:17:32.16,Dubtitles,,0,0,0,,And that ring looks like a...
-Dialogue: 0,0:17:32.24,0:17:35.42,Dubtitles,,0,0,0,,Are you telling me you don't\Nknow that we got married?
-Dialogue: 0,0:17:35.80,0:17:37.34,Dubtitles,,0,0,0,,You got married?
-Dialogue: 0,0:17:38.30,0:17:39.50,Dubtitles,,0,0,0,,Isn't it crazy?
-Dialogue: 0,0:17:39.74,0:17:41.00,Dubtitles,,0,0,0,,Just think about it.
-Dialogue: 0,0:17:41.36,0:17:42.72,Dubtitles,,0,0,0,,I'm officially Mrs.
-Dialogue: 0,0:17:42.88,0:17:44.86,Dubtitles,,0,0,0,,Joseph Joestar. Goodness.
-Dialogue: 0,0:17:47.30,0:17:49.18,Dubtitles,,0,0,0,,It makes me blush.
-Dialogue: 0,0:17:50.20,0:17:51.80,Dubtitles,,0,0,0,,Wait a second here.
-Dialogue: 0,0:17:52.58,0:17:56.82,Dubtitles,,0,0,0,,Suzy Q, something about this doesn't\Nfeel right and I want to know what.
-Dialogue: 0,0:17:57.16,0:18:00.90,Dubtitles,,0,0,0,,The rock I was on fell into\Nthe ocean and me along with it.
-Dialogue: 0,0:18:00.98,0:18:02.63,Dubtitles,,0,0,0,,A fishing boat picked me up.
-Dialogue: 0,0:18:02.86,0:18:04.24,Dubtitles,,0,0,0,,So far, so good.
-Dialogue: 0,0:18:04.58,0:18:08.96,Dubtitles,,0,0,0,,You nursed me back to health in Venice\Nfor two weeks, and we tied the knot.
-Dialogue: 0,0:18:09.04,0:18:11.22,Dubtitles,,0,0,0,,So why did they all think I was dead?
-Dialogue: 0,0:18:12.42,0:18:15.56,Dubtitles,,0,0,0,,You never sent that telegram\Nlike I asked, did you?
-Dialogue: 0,0:18:15.82,0:18:18.90,Dubtitles,,0,0,0,,Uh, I don't really know.
-Dialogue: 0,0:18:19.22,0:18:20.92,Dubtitles,,0,0,0,,To me, that sounds like no.
-Dialogue: 0,0:18:24.62,0:18:28.10,Dubtitles,,0,0,0,,Uh, now, now, let's not\Nget all clicky fingers.
-Dialogue: 0,0:18:28.90,0:18:30.52,Dubtitles,,0,0,0,,I never sent it!
-Dialogue: 0,0:18:30.72,0:18:31.86,Dubtitles,,0,0,0,,I'm sorry, JoJo!
-Dialogue: 0,0:18:32.70,0:18:33.68,Dubtitles,,0,0,0,,Ah! Suzy Q!
-Dialogue: 0,0:18:34.04,0:18:35.00,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:18:35.20,0:18:37.38,Dubtitles,,0,0,0,,You had one job, woman! One job!
-Dialogue: 0,0:18:39.22,0:18:40.05,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:18:40.13,0:18:41.94,Dubtitles,,0,0,0,,JoJo came back to us all!
-Dialogue: 0,0:18:42.92,0:18:43.75,Dubtitles,,0,0,0,,Stop it!
-Dialogue: 0,0:18:43.83,0:18:45.52,Dubtitles,,0,0,0,,I said I was sorry! Sorry?
-Dialogue: 0,0:18:45.72,0:18:47.13,Dubtitles,,0,0,0,,They thought I was dead!
-Dialogue: 0,0:18:49.44,0:18:50.27,Dubtitles,,0,0,0,,JoJo.
+Dialogue: 0,0:16:57.42,0:16:58.83,Dubtitles,,0,0,0,,Wait, what's this about?
+Dialogue: 0,0:16:59.02,0:17:01.16,Dubtitles,,0,0,0,,You're all staring as\Nthough you've seen a ghost.
+Dialogue: 0,0:17:01.24,0:17:03.38,Dubtitles,,0,0,0,,I know it's a funeral and, uh-huh...
+Dialogue: 0,0:17:05.26,0:17:06.09,Dubtitles,,0,0,0,,What the?
+Dialogue: 0,0:17:06.22,0:17:07.68,Dubtitles,,0,0,0,,What's my name doing on there?
+Dialogue: 0,0:17:07.76,0:17:08.88,Dubtitles,,0,0,0,,I'm alive and well!
+Dialogue: 0,0:17:09.08,0:17:10.85,Dubtitles,,0,0,0,,Wait, this funeral was for me?
+Dialogue: 0,0:17:11.66,0:17:12.49,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:17:12.57,0:17:14.43,Dubtitles,,0,0,0,,You're still recovering, you big silly.
+Dialogue: 0,0:17:14.72,0:17:16.84,Dubtitles,,0,0,0,,Don't run off in the rain like that.
+Dialogue: 0,0:17:20.78,0:17:22.26,Dubtitles,,0,0,0,,Here, take this.
+Dialogue: 0,0:17:23.40,0:17:25.54,Dubtitles,,0,0,0,,Hey, that girl is Suzy Q.
+Dialogue: 0,0:17:25.84,0:17:28.30,Dubtitles,,0,0,0,,And that ring looks like a...
+Dialogue: 0,0:17:28.38,0:17:31.56,Dubtitles,,0,0,0,,Are you telling me you don't\Nknow that we got married?
+Dialogue: 0,0:17:31.82,0:17:33.32,Dubtitles,,0,0,0,,You got married?
+Dialogue: 0,0:17:34.32,0:17:35.48,Dubtitles,,0,0,0,,Isn't it crazy?
+Dialogue: 0,0:17:35.70,0:17:37.00,Dubtitles,,0,0,0,,Just think about it.
+Dialogue: 0,0:17:37.30,0:17:38.70,Dubtitles,,0,0,0,,I'm officially Mrs.
+Dialogue: 0,0:17:38.86,0:17:39.74,Dubtitles,,0,0,0,,Joseph Joestar.
+Dialogue: 0,0:17:40.28,0:17:41.11,Dubtitles,,0,0,0,,Goodness.
+Dialogue: 0,0:17:43.38,0:17:45.16,Dubtitles,,0,0,0,,It makes me blush.
+Dialogue: 0,0:17:46.22,0:17:47.74,Dubtitles,,0,0,0,,Wait a second here.
+Dialogue: 0,0:17:48.52,0:17:52.87,Dubtitles,,0,0,0,,Susie Q, something about this doesn't\Nfeel right, and I want to know what.
+Dialogue: 0,0:17:53.18,0:17:56.96,Dubtitles,,0,0,0,,The rock I was on fell into the\Nocean, and me along with it.
+Dialogue: 0,0:17:57.12,0:17:58.77,Dubtitles,,0,0,0,,A fishing boat picked me up.
+Dialogue: 0,0:17:58.90,0:18:00.14,Dubtitles,,0,0,0,,So far, so good.
+Dialogue: 0,0:18:00.22,0:18:04.86,Dubtitles,,0,0,0,,You nursed me back to health in Venice\Nfor two weeks, and we tied the knot.
+Dialogue: 0,0:18:05.06,0:18:07.24,Dubtitles,,0,0,0,,So why did they all think I was dead?
+Dialogue: 0,0:18:08.40,0:18:11.54,Dubtitles,,0,0,0,,You never sent that telegram\Nlike I asked, did you?
+Dialogue: 0,0:18:13.48,0:18:14.92,Dubtitles,,0,0,0,,I don't really know.
+Dialogue: 0,0:18:15.22,0:18:16.90,Dubtitles,,0,0,0,,To me, that sounds like no!
+Dialogue: 0,0:18:21.14,0:18:24.08,Dubtitles,,0,0,0,,Now, now, let's not\Nget all clicky fingers.
+Dialogue: 0,0:18:24.96,0:18:26.50,Dubtitles,,0,0,0,,I never sent it!
+Dialogue: 0,0:18:26.66,0:18:27.86,Dubtitles,,0,0,0,,I'm sorry, Jojo!
+Dialogue: 0,0:18:28.52,0:18:29.70,Dubtitles,,0,0,0,,Ah! Suzy Q!
+Dialogue: 0,0:18:30.00,0:18:30.98,Dubtitles,,0,0,0,,What the hell?
+Dialogue: 0,0:18:31.20,0:18:33.40,Dubtitles,,0,0,0,,You had one job, woman, one job!
+Dialogue: 0,0:18:35.16,0:18:35.99,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:18:36.07,0:18:37.96,Dubtitles,,0,0,0,,Jojo came back to us all!
+Dialogue: 0,0:18:38.94,0:18:39.77,Dubtitles,,0,0,0,,Stop it!
+Dialogue: 0,0:18:39.85,0:18:41.52,Dubtitles,,0,0,0,,I said I was sorry! Sorry?
+Dialogue: 0,0:18:41.72,0:18:43.13,Dubtitles,,0,0,0,,They thought I was dead!
+Dialogue: 0,0:18:45.38,0:18:46.21,Dubtitles,,0,0,0,,Jojo.
+Dialogue: 0,0:18:46.40,0:18:49.04,Dubtitles,,0,0,0,,Soon after, Lisa Lisa, a .k .a.
+Dialogue: 0,0:18:49.22,0:18:52.66,Dubtitles,,0,0,0,,Elizabeth Joestar told Jojo\Nthat she was his mother.
 Dialogue: 2,0:18:50.11,0:18:56.37,Obituary2,Unknown,0,0,0,,{\pos(960,890)\be(2)}Elizabeth Joestar
-Dialogue: 0,0:18:50.44,0:18:53.08,Dubtitles,,0,0,0,,Soon after, Lisa Lisa, a .k .a.
-Dialogue: 0,0:18:53.22,0:18:56.58,Dubtitles,,0,0,0,,Elizabeth Joestar, told JoJo\Nthat she was his mother.
-Dialogue: 0,0:18:56.66,0:18:58.76,Dubtitles,,0,0,0,,they moved to America.
-Dialogue: 0,0:19:00.80,0:19:04.98,Dubtitles,,0,0,0,,In 1948, she found love again and\Nmarried a Hollywood screenwriter.
+Dialogue: 0,0:18:53.02,0:18:54.74,Dubtitles,,0,0,0,,They moved to America.
+Dialogue: 0,0:18:55.58,0:19:00.98,Dubtitles,,0,0,0,,In 1948, she found love again and\Nmarried a Hollywood screenwriter.
+Dialogue: 0,0:19:04.42,0:19:07.38,Dubtitles,,0,0,0,,Iran Joestar continued\Nher work as a teacher.
 Dialogue: 2,0:19:07.38,0:19:11.13,Obituary2,Unknown,0,0,0,,{\pos(960,940)\be(2)}Erina Joestar
 Dialogue: 2,0:19:08.17,0:19:11.13,Narrator,Narrator,0,0,0,,{\an8}Erina Joestar continued her work as a teacher.
-Dialogue: 0,0:19:08.40,0:19:11.38,Dubtitles,,0,0,0,,Iran Joestar continued\Nher work as a teacher.
-Dialogue: 0,0:19:13.22,0:19:16.20,Dubtitles,,0,0,0,,In 1950, she died\Npeacefully at the age of 81,
-Dialogue: 0,0:19:16.58,0:19:19.35,Dubtitles,,0,0,0,,surrounded by family and\Nfriends who loved her.
+Dialogue: 0,0:19:09.22,0:19:12.18,Dubtitles,,0,0,0,,In 1950, she died\Npeacefully at the age of 81,
+Dialogue: 0,0:19:12.56,0:19:15.33,Dubtitles,,0,0,0,,surrounded by family and\Nfriends who loved her.
+Dialogue: 0,0:19:18.84,0:19:20.10,Dubtitles,,0,0,0,,Robert E .O.
+Dialogue: 0,0:19:20.30,0:19:24.06,Dubtitles,,0,0,0,,Speedwagon continued to pour his\Nenergy into philanthropic research,
 Dialogue: 2,0:19:21.89,0:19:24.89,Obituary2,Unknown,0,0,0,,{\pos(960,930)\be(2)}Robert E. O. Speedwagon
 Dialogue: 2,0:19:22.60,0:19:27.85,Narrator,Narrator,0,0,0,,{\an8}Robert E. O. Speedwagon continued with his various enterprises
-Dialogue: 0,0:19:22.84,0:19:24.10,Dubtitles,,0,0,0,,Robert E .O.
-Dialogue: 0,0:19:24.32,0:19:28.32,Dubtitles,,0,0,0,,Speedwagon continued to pour his\Nenergy into philanthropic research,
-Dialogue: 0,0:19:28.60,0:19:31.94,Dubtitles,,0,0,0,,helping to further science and\Nmedicine in countless ways.
-Dialogue: 0,0:19:32.02,0:19:36.24,Dubtitles,,0,0,0,,He died in 1952 of a heart\Nattack at 89 years of age.
-Dialogue: 0,0:19:36.44,0:19:39.82,Dubtitles,,0,0,0,,A lifelong bachelor, he\Nleft no family behind.
+Dialogue: 0,0:19:24.14,0:19:27.60,Dubtitles,,0,0,0,,helping to further science and\Nmedicine in countless ways.
+Dialogue: 0,0:19:27.96,0:19:32.24,Dubtitles,,0,0,0,,He died in 1952 of a heart\Nattack at 89 years of age.
+Dialogue: 0,0:19:32.46,0:19:35.80,Dubtitles,,0,0,0,,A lifelong bachelor, he\Nleft no family behind.
+Dialogue: 0,0:19:36.78,0:19:41.72,Dubtitles,,0,0,0,,Smokey Brown went on to work his way through\Ncollege, majoring in political science.
 Dialogue: 2,0:19:40.49,0:19:45.66,Narrator,Narrator,0,0,0,,{\an8}Smokey Brown worked his way through college, majoring in political science.
-Dialogue: 0,0:19:40.84,0:19:45.78,Dubtitles,,0,0,0,,Smokey Brown went on to work his way through\Ncollege, majoring in political science.
 Dialogue: 2,0:19:41.91,0:19:45.66,Obituary2,Unknown,0,0,0,,{\pos(960,940)\be(2)}Smokey Brown
-Dialogue: 0,0:19:47.20,0:19:51.79,Dubtitles,,0,0,0,,Later, he became the first black mayor\Nof a city in his home state of Georgia.
-Dialogue: 0,0:19:53.26,0:19:56.70,Dubtitles,,0,0,0,,Major Rudolph von Stroheim\Nwould never see Jojo.
-Dialogue: 0,0:19:56.78,0:20:00.82,Dubtitles,,0,0,0,,again he died in 1943 at\Nthe battle of Stalingrad.
+Dialogue: 0,0:19:43.14,0:19:47.73,Dubtitles,,0,0,0,,Later, he became the first black mayor\Nof a city in his home state of Georgia.
+Dialogue: 0,0:19:49.52,0:19:53.04,Dubtitles,,0,0,0,,Major Rudolf von Stroheim\Nwould never see Jojo again.
+Dialogue: 0,0:19:53.12,0:19:56.90,Dubtitles,,0,0,0,,He died in 1943 at the\NBattle of Stalingrad,
+Dialogue: 0,0:19:57.12,0:20:00.86,Dubtitles,,0,0,0,,a fearsome example of the German\Nscience he'd always championed.
 Dialogue: 2,0:19:57.18,0:19:59.30,Obituary2,Unknown,0,0,0,,{\pos(960,930)\be(2)\fad(0,150)}Rudol von Stroheim
 Dialogue: 2,0:19:57.18,0:19:59.30,Obituary2,Unknown,0,0,0,,{\pos(960,930)\be(2)\fad(0,150)}Rudolf von Stroheim
 Dialogue: 2,0:19:57.18,0:20:04.85,Narrator,Narrator,0,0,0,,{\an8}In 1943, he died as a proud German soldier, fighting in the Battle of Stalingrad.
-Dialogue: 0,0:20:00.90,0:20:03.86,Dubtitles,,0,0,0,,A fearsome example of\Nthe German science he'd
-Dialogue: 0,0:20:03.94,0:20:07.02,Dubtitles,,0,0,0,,always championed our\Ntechnology is the greatest.
-Dialogue: 0,0:20:14.54,0:20:20.58,Dubtitles,,0,0,0,,And so the years flowed\Nby to a new generation.
+Dialogue: 0,0:20:00.94,0:20:03.02,Dubtitles,,0,0,0,,Our technology is the greatest!
+Dialogue: 0,0:20:11.12,0:20:16.60,Dubtitles,,0,0,0,,And so, the years flowed\Nby to a new generation.
+Dialogue: 0,0:20:17.32,0:20:19.12,Dubtitles,,0,0,0,,And as for JoJo...
 Dialogue: 1,0:20:17.95,0:20:20.95,Title2.1,Unknown,0,0,0,,{\fad(0,370)\pos(960,841)\bord3\blur2}JFK International Airport, New York, 1987
-Dialogue: 1,0:20:17.95,0:20:20.95,Title2,Unknown,0,0,0,,{\fad(0,370)\pos(960,841)\be(2)}JFK International Airport, New York, 1987
-Dialogue: 0,0:20:21.72,0:20:24.02,Dubtitles,,0,0,0,,And as for JoJo...
+Dialogue: 0,0:20:23.18,0:20:24.46,Dubtitles,,0,0,0,,Break the leg, huh?
 Dialogue: 1,0:20:23.70,0:20:23.74,SFXFire,15,0,0,0,,{=36}{\blur4\bord2.85\fscx37.99\fscy31.66\pos(1396.14,682.11)\frz49.36\alpha&H80&}B{*\c&H40AEF8&}u{*\c&H3794F6&}m{\c&H2E7AF4&}p
 Dialogue: 2,0:20:23.70,0:20:23.74,SFXFire,15,0,0,0,,{=36}{\blur1\bord2.85\fscx37.99\fscy31.66\pos(1396.14,682.11)\frz49.36\c&H101324&}Bump
 Dialogue: 3,0:20:23.70,0:20:23.74,SFXFire,15,0,0,0,,{=36}{\blur1\bord0\fscx37.99\fscy31.66\pos(1396.14,682.11)\frz49.36\4a&HFF&}B{*\c&H40AEF8&}u{*\c&H3794F6&}m{\c&H2E7AF4&}p
@@ -2579,16 +2386,15 @@ Dialogue: 3,0:20:24.20,0:20:24.24,SFXFire,15,0,0,0,,{=36}{\blur1\bord0\fscx122.7
 Dialogue: 1,0:20:24.24,0:20:24.29,SFXFire,15,0,0,0,,{=36}{\blur4\bord9.03\fscx120.46\fscy100.39\pos(1082.16,308.66)\frz49.36\alpha&H80&}B{*\c&H40AEF8&}u{*\c&H3794F6&}m{\c&H2E7AF4&}p
 Dialogue: 2,0:20:24.24,0:20:24.29,SFXFire,15,0,0,0,,{=36}{\blur1\bord9.03\fscx120.46\fscy100.39\pos(1082.16,308.66)\frz49.36\c&H101324&}Bump
 Dialogue: 3,0:20:24.24,0:20:24.29,SFXFire,15,0,0,0,,{=36}{\blur1\bord0\fscx120.46\fscy100.39\pos(1082.16,308.66)\frz49.36\4a&HFF&}B{*\c&H40AEF8&}u{*\c&H3794F6&}m{\c&H2E7AF4&}p
-Dialogue: 0,0:20:26.60,0:20:28.46,Dubtitles,,0,0,0,,Oh, breaking the leg, huh?
-Dialogue: 0,0:20:28.64,0:20:29.64,Dubtitles,,0,0,0,,Sorry about that.
-Dialogue: 0,0:20:29.98,0:20:31.60,Dubtitles,,0,0,0,,You should watch where you're going.
-Dialogue: 0,0:20:31.68,0:20:33.64,Dubtitles,,0,0,0,,You wouldn't want a\Nbroken bone at your age.
-Dialogue: 0,0:20:33.72,0:20:34.55,Dubtitles,,0,0,0,,You're right.
-Dialogue: 0,0:20:34.63,0:20:35.80,Dubtitles,,0,0,0,,How careless of me.
-Dialogue: 0,0:20:36.24,0:20:39.20,Dubtitles,,0,0,0,,I guess this is a case\Nof live and learn. Hmm?
-Dialogue: 0,0:20:39.68,0:20:40.82,Dubtitles,,0,0,0,,Hey, wait a sec.
-Dialogue: 0,0:20:41.06,0:20:44.32,Dubtitles,,0,0,0,,You're Japanese, aren't\Nyou? I am. Why do you ask?
-Dialogue: 0,0:20:44.42,0:20:46.58,Dubtitles,,0,0,0,,In that case, watch your damn bag!
+Dialogue: 0,0:20:24.66,0:20:25.66,Dubtitles,,0,0,0,,Sorry about that.
+Dialogue: 0,0:20:25.96,0:20:27.64,Dubtitles,,0,0,0,,You should watch where you're going.
+Dialogue: 0,0:20:27.72,0:20:30.44,Dubtitles,,0,0,0,,You wouldn't want a broken\Nbone at your age You're right.
+Dialogue: 0,0:20:30.52,0:20:31.80,Dubtitles,,0,0,0,,How careless of me.
+Dialogue: 0,0:20:32.12,0:20:35.20,Dubtitles,,0,0,0,,I guess this is a case\Nof live and learn Hmm.
+Dialogue: 0,0:20:35.66,0:20:36.86,Dubtitles,,0,0,0,,Hey, wait a second.
+Dialogue: 0,0:20:37.04,0:20:39.34,Dubtitles,,0,0,0,,You're Japanese, aren't you? I am.
+Dialogue: 0,0:20:39.60,0:20:41.25,Dubtitles,,0,0,0,,Why do you ask in that case?
+Dialogue: 0,0:20:41.36,0:20:42.70,Dubtitles,,0,0,0,,Watch your damn bag?
 Dialogue: 1,0:20:46.60,0:20:46.64,SFXBrown2,16,0,0,0,,{=37}{\blur0.6\bord6.14\fscx88.66\fscy68.2\frz351.5\pos(1336.01,808.62)\c&H101317&}Kapow!
 Dialogue: 2,0:20:46.60,0:20:46.64,SFXBrown2,16,0,0,0,,{=37}{\blur0.6\bord0\fscx88.66\fscy68.2\frz351.5\pos(1336.01,808.62)\4a&HFF&}Kapow!
 Dialogue: 1,0:20:46.64,0:20:46.68,SFXBrown2,16,0,0,0,,{=37}{\blur0.6\bord6.72\fscx97.07\fscy74.67\frz351.5\pos(1347.94,702.24)\c&H101317&}Kapow!
@@ -2632,12 +2438,12 @@ Dialogue: 2,0:20:47.39,0:20:47.43,SFXBrown2,16,0,0,0,,{=37}{\blur0.6\bord0\fscx1
 Dialogue: 1,0:20:47.43,0:20:47.48,SFXBrown2,16,0,0,0,,{=37}{\blur0.6\bord9.9\fscx143.05\fscy110.04\frz351.5\pos(1748.87,194.77)\c&H101317&}Kapow!
 Dialogue: 2,0:20:47.43,0:20:47.48,SFXBrown2,16,0,0,0,,{=37}{\blur0.6\bord0\fscx143.05\fscy110.04\frz351.5\pos(1748.87,194.77)\4a&HFF&}Kapow!
 Dialogue: 2,0:20:51.65,0:20:55.65,Main,Announcement,0,0,0,,{\i1\an8\fs53}Alitalia flight 285 for Tokyo is now boarding.
+Dialogue: 0,0:20:54.10,0:20:58.58,Dubtitles,,0,0,0,,My only daughter has been married\Nto a Japanese man for over 20 years.
 Dialogue: 2,0:20:55.65,0:21:02.95,Main,Announcement,0,0,0,,{\i1\an8\fs53}I repeat. Alitalia flight 285 for Tokyo is now boarding.
-Dialogue: 0,0:20:58.10,0:21:02.62,Dubtitles,,0,0,0,,My only daughter has been married\Nto a Japanese man for over 20 years.
-Dialogue: 0,0:21:02.94,0:21:07.06,Dubtitles,,0,0,0,,Fell in love on the other side of\Nthe world and never came home again.
-Dialogue: 0,0:21:07.20,0:21:09.97,Dubtitles,,0,0,0,,Her son rarely gets to\Nsee his own grandfather.
-Dialogue: 0,0:21:10.32,0:21:13.28,Dubtitles,,0,0,0,,That's why I'll never\Nforgive the Japanese.
-Dialogue: 0,0:21:15.40,0:21:20.18,Dubtitles,,0,0,0,,Then again, they make\Nsome rather nifty gadgets.
+Dialogue: 0,0:20:58.98,0:21:03.06,Dubtitles,,0,0,0,,Fell in love on the other side of\Nthe world and never came home again.
+Dialogue: 0,0:21:03.14,0:21:05.91,Dubtitles,,0,0,0,,Her son rarely gets to\Nsee his own grandfather.
+Dialogue: 0,0:21:06.30,0:21:09.28,Dubtitles,,0,0,0,,That's why I'll never\Nforgive the Japanese.
+Dialogue: 0,0:21:11.40,0:21:16.16,Dubtitles,,0,0,0,,Then again, they make\Nsome rather nifty gadgets.
 Dialogue: 1,0:21:28.60,0:21:36.07,Lyrics OP2 Jap,,0,0,0,,Shijima no soko kara
 Dialogue: 1,0:21:28.60,0:21:36.07,Lyrics OP2 Eng,,0,0,0,,From out of the stillness
 Dialogue: 1,0:21:36.69,0:21:39.90,Lyrics OP2 Jap,,0,0,0,,Mezameru sono hashira tachi
@@ -2649,45 +2455,40 @@ Dialogue: 1,0:21:43.28,0:21:50.54,Lyrics OP2 Eng,,0,0,0,,The river of crimson bl
 Dialogue: 1,0:21:51.29,0:21:57.09,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuki wo hikiawaseru
 Dialogue: 1,0:21:51.29,0:21:57.09,Lyrics OP2 Eng,,0,0,0,,Carries with it the courage to stand and fight
 Dialogue: 1,0:21:51.29,0:21:57.09,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuuki wo hikiawaseru
+Dialogue: 0,0:21:53.12,0:21:54.98,Dubtitles,,0,0,0,,Thank
+Dialogue: 0,0:21:55.06,0:22:02.06,Dubtitles,,0,0,0,,you.
 Dialogue: 1,0:21:58.09,0:22:05.80,Lyrics OP2 Jap,,0,0,0,,Uketsugu ai wo sadame to yobu nara
 Dialogue: 1,0:21:58.09,0:22:05.80,Lyrics OP2 Eng,,0,0,0,,Even if the love I feel is just part of my legacy...
 Dialogue: 1,0:22:05.80,0:22:11.89,Lyrics OP2 Jap,,0,0,0,,Hohoemu me de tsugi no te wo
 Dialogue: 1,0:22:05.80,0:22:11.89,Lyrics OP2 Eng,,0,0,0,,I'll still be smiling as I stay one step ahead
 Dialogue: 1,0:22:13.69,0:22:18.53,Lyrics OP2 Jap,,0,0,0,,Yami wo azamuite setsuna wo kawashite
 Dialogue: 1,0:22:13.69,0:22:18.53,Lyrics OP2 Eng,,0,0,0,,Defying the darkness and dodging death at every turn
-Dialogue: 0,0:22:18.48,0:22:22.12,Dubtitles,,0,0,0,,Yeah, that's true. We're gonna\Nget Yasura no Seiko o tsuka!
 Dialogue: 1,0:22:18.53,0:22:22.36,Lyrics OP2 Jap,,0,0,0,,Yaiba surinuke yatsura no suki wo tsuke
 Dialogue: 1,0:22:18.53,0:22:22.36,Lyrics OP2 Eng,,0,0,0,,Slipping past the knife's edge and striking when you least expect
-Dialogue: 0,0:22:22.20,0:22:27.62,Dubtitles,,0,0,0,,Dario ni ta omoi ga, Mariah no Cairo ko?
 Dialogue: 1,0:22:22.36,0:22:27.78,Lyrics OP2 Jap,,0,0,0,,Tsuranuita omoi ga mirai wo hiraku
 Dialogue: 1,0:22:22.36,0:22:27.78,Lyrics OP2 Eng,,0,0,0,,The emotions running through me blaze a path to the future...
 Dialogue: 1,0:22:29.62,0:22:30.87,Lyrics OP2 Jap,,0,0,0,,Like a bloody storm
 Dialogue: 1,0:22:29.62,0:22:30.87,Lyrics OP2 Eng,,0,0,0,,Like a bloody storm
-Dialogue: 0,0:22:29.80,0:22:33.16,Dubtitles,,0,0,0,,Like a burning stone,\Nhot-suk like a burning stone.
 Dialogue: 1,0:22:30.87,0:22:33.12,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody stone
 Dialogue: 1,0:22:30.87,0:22:33.12,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody stone
 Dialogue: 1,0:22:30.87,0:22:33.12,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody storm
 Dialogue: 1,0:22:30.87,0:22:33.12,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody storm
 Dialogue: 1,0:22:33.12,0:22:36.96,Lyrics OP2 Jap,,0,0,0,,Ketsumyaku ni kizamareta innen ni
 Dialogue: 1,0:22:33.12,0:22:36.96,Lyrics OP2 Eng,,0,0,0,,When the time comes to end the vendetta carried by our blood
-Dialogue: 0,0:22:33.24,0:22:36.80,Dubtitles,,0,0,0,,Ketsu Mega ni kizamareta yunan ni.
-Dialogue: 0,0:22:36.88,0:22:41.18,Dubtitles,,0,0,0,,Uki no ni kei wa koi no kizuna.
 Dialogue: 1,0:22:36.96,0:22:42.76,Lyrics OP2 Jap,,0,0,0,,Ukiagaru kienai hokori no kizuna
 Dialogue: 1,0:22:36.96,0:22:42.76,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds of pride will carry you through any storm
 Dialogue: 1,0:22:42.76,0:22:47.72,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:22:42.76,0:22:47.72,Lyrics OP2 Eng,,0,0,0,,So hold them close
-Dialogue: 0,0:22:44.00,0:22:45.28,Dubtitles,,0,0,0,,Niigiri shimete.
 Dialogue: 1,0:22:44.26,0:22:52.23,FINALLY DONE!,Unknown,0,0,0,,{\fad(750,1600)\fs68\be1\pos(617.8,532.2)}Battle Tendency
 Dialogue: 1,0:22:44.26,0:22:52.23,FINALLY DONE!,Unknown,0,0,0,,{\fad(750,1600)\fs68\pos(469,545)\be(1)}Part 2: Battle Tendency
 Dialogue: 1,0:22:47.72,0:22:52.23,FINALLY DONE!,Unknown,0,0,0,,{\fad(0,1600)\fs88\pos(1634,702)\be(1)}The End
+Dialogue: 0,0:22:51.70,0:22:55.96,Dubtitles,,0,0,0,,Oh, all right, it's\Nfinally time to haul it up.
 Dialogue: 1,0:22:53.31,0:22:57.77,Title2.1,Unknown,0,0,0,,{\fad(1160,0)\pos(960,841)\bord3\blur2}Atlantic Ocean, near the Canary Islands, 1983
-Dialogue: 1,0:22:53.31,0:22:57.77,Title2,Unknown,0,0,0,,{\fad(1160,0)\pos(960,841)\be(2)}Atlantic Ocean, near the Canary Islands, 1983
-Dialogue: 0,0:22:57.32,0:22:59.96,Dubtitles,,0,0,0,,All right, it's finally\Ntime to haul it up.
-Dialogue: 0,0:23:00.20,0:23:01.12,Dubtitles,,0,0,0,,Oh, man.
-Dialogue: 0,0:23:01.50,0:23:03.74,Dubtitles,,0,0,0,,What do you think's inside it, you guys?
-Dialogue: 0,0:23:03.82,0:23:05.96,Dubtitles,,0,0,0,,A hundred-year-old chest like that?
-Dialogue: 0,0:23:06.14,0:23:07.44,Dubtitles,,0,0,0,,It could be anything.
-Dialogue: 0,0:23:08.02,0:23:10.14,Dubtitles,,0,0,0,,Come on, let's open that bad boy.
+Dialogue: 0,0:22:56.22,0:22:57.12,Dubtitles,,0,0,0,,Oh, man!
+Dialogue: 0,0:22:57.48,0:22:59.56,Dubtitles,,0,0,0,,What do you think's inside it, you guys?
+Dialogue: 0,0:22:59.64,0:23:01.96,Dubtitles,,0,0,0,,A hundred-year-old chest like that?
+Dialogue: 0,0:23:02.14,0:23:03.42,Dubtitles,,0,0,0,,Could be anything!
+Dialogue: 0,0:23:03.98,0:23:06.14,Dubtitles,,0,0,0,,Come on, let's open that bad boy!
 Dialogue: 1,0:23:13.12,0:23:13.16,SFXPurple2,17,0,0,0,,{=38}{\blur0.7\pos(959.05,18.549)\fade(255,0,255,0,1200,10040,10340)\c&H0E070A&}Menacing
 Dialogue: 2,0:23:13.12,0:23:13.16,SFXPurple2,17,0,0,0,,{=38}{\bord0\blur0.7\pos(959.05,18.549)\fade(255,0,255,0,1200,10040,10340)\4a&HFF&}Menacing
 Dialogue: 1,0:23:13.16,0:23:13.20,SFXPurple2,17,0,0,0,,{=38}{\blur0.7\pos(959.05,18.549)\fade(255,0,255,-40,1160,10000,10300)\c&H0E070A&}Menacing
@@ -3180,6 +2981,7 @@ Dialogue: 1,0:23:23.30,0:23:23.34,SFXPurple2,17,0,0,0,,{=38}{\blur0.7\pos(952.57
 Dialogue: 2,0:23:23.30,0:23:23.34,SFXPurple2,17,0,0,0,,{=38}{\bord0\blur0.7\pos(952.574,13.4)\fade(255,0,255,-10170,-8970,-130,170)\4a&HFF&}Menacing
 Dialogue: 1,0:23:23.34,0:23:23.38,SFXPurple2,17,0,0,0,,{=38}{\blur0.7\pos(952.574,13.4)\fade(255,0,255,-10210,-9010,-170,130)\c&H0E070A&}Menacing
 Dialogue: 2,0:23:23.34,0:23:23.38,SFXPurple2,17,0,0,0,,{=38}{\bord0\blur0.7\pos(952.574,13.4)\fade(255,0,255,-10210,-9010,-170,130)\4a&HFF&}Menacing
+Dialogue: 0,0:23:23.34,0:23:23.56,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:23:23.38,0:23:23.42,SFXPurple2,17,0,0,0,,{=38}{\blur0.7\pos(953.542,19.842)\fade(255,0,255,-10260,-9060,-220,80)\c&H0E070A&}Menacing
 Dialogue: 2,0:23:23.38,0:23:23.42,SFXPurple2,17,0,0,0,,{=38}{\bord0\blur0.7\pos(953.542,19.842)\fade(255,0,255,-10260,-9060,-220,80)\4a&HFF&}Menacing
 Dialogue: 1,0:23:23.42,0:23:23.47,SFXPurple2,17,0,0,0,,{=38}{\blur0.7\pos(953.542,19.842)\fade(255,0,255,-10300,-9100,-260,40)\c&H0E070A&}Menacing {Goodbye, Part 1 and 2.}

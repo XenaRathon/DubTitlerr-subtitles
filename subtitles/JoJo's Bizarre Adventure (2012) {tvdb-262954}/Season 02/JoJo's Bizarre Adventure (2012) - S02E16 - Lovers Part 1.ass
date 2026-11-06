@@ -36,11 +36,11 @@ Style: Eyecatch2 - Base,Book Antiqua,65,&H00EFF4F2,&H000000FF,&H3C545158,&H3C231
 Style: SC16 Map,Beer,34,&H50000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0.3,0,1,0,0,8,90,90,40,1
 Style: SFX,LeviNaiveLetter,140,&H0040242D,&H000000FF,&H00060708,&H00000000,-1,0,0,0,130,100,0,0,1,8,0,2,50,40,20,1
 Style: SFX2,LeviNaiveLetter,150,&H006AAFE8,&H000000FF,&H000A1219,&H00040D0F,-1,0,0,0,130,100,0,0,1,6,4,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.37,0:00:12.23,Dubtitles,,0,0,0,,With Inyaba in tow and\Na new carriage to boot,
+Dialogue: 0,0:00:09.37,0:00:12.23,Dubtitles,,0,0,0,,With Enya in tow and a\Nnew carriage to boot,
 Dialogue: 0,0:00:12.73,0:00:15.81,Dubtitles,,0,0,0,,JoJo and crew arrived in\Nthe coastal town of Karachi,
 Dialogue: 1,0:00:13.76,0:00:21.02,SC16 Map,sign,0,0,0,,{\pos(1528.8,615)}India
 Dialogue: 1,0:00:13.76,0:00:21.02,SC16 Map,sign,0,0,0,,{\pos(1224,320.8)}Pakistan
@@ -51,19 +51,15 @@ Dialogue: 1,0:00:13.76,0:00:21.02,SC16 Map,sign,0,0,0,,{\fs25\pos(1293,440)}Kara
 Dialogue: 1,0:00:13.76,0:00:21.02,SC16 Map,sign,0,0,0,,{\fs18\pos(1140,467.2)}Indus River
 Dialogue: 0,0:00:15.89,0:00:20.36,Dubtitles,,0,0,0,,Pakistan's industrial and financial\Ncenter located in the Indus River Delta.
 Dialogue: 0,0:00:41.83,0:00:44.63,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:01:00.01,0:01:05.09,Dubtitles,,0,0,0,,I'm a friend of mine, but I still\Nhave a name. I'm a friend of mine,
-Dialogue: 0,0:01:05.17,0:01:11.67,Dubtitles,,0,0,0,,but I don't have a dream.
-Dialogue: 0,0:01:14.19,0:01:20.05,Dubtitles,,0,0,0,,I'm a friend of mine,
-Dialogue: 0,0:01:20.13,0:01:24.01,Dubtitles,,0,0,0,,I'm a friend of mine.
-Dialogue: 0,0:01:25.55,0:01:29.91,Dubtitles,,0,0,0,,I'm a friend of mine,\Nand I'm a friend of mine.
-Dialogue: 0,0:01:29.99,0:01:34.33,Dubtitles,,0,0,0,,Take it out with vision to turn around.
+Dialogue: 0,0:01:12.49,0:01:13.89,Dubtitles,,0,0,0,,3
+Dialogue: 0,0:01:30.19,0:01:34.35,Dubtitles,,0,0,0,,Take it out with vision to turn around.
 Dialogue: 2,0:01:51.86,0:01:55.99,Title 3,ep,0,0,0,,{\fad(776,642)\pos(192,815)}Episode 16: The Lovers, Part 1
-Dialogue: 0,0:02:02.23,0:02:04.69,Dubtitles,,0,0,0,,Oh, hey, a Donner Kebab joint.
+Dialogue: 0,0:02:02.25,0:02:04.69,Dubtitles,,0,0,0,,Oh, hey, a Donner Kebab joint.
 Dialogue: 0,0:02:04.99,0:02:07.11,Dubtitles,,0,0,0,,Let's stop and get something to eat.
 Dialogue: 0,0:02:12.59,0:02:13.97,Dubtitles,,0,0,0,,The Donner Kebab.
 Dialogue: 0,0:02:14.27,0:02:16.77,Dubtitles,,0,0,0,,It's been called the\Nhamburger of the Middle East.
 Dialogue: 0,0:02:16.85,0:02:21.15,Dubtitles,,0,0,0,,A slab of meat is placed on a spit,\Nits outer layer roasting as it turns.
-Dialogue: 0,0:02:21.51,0:02:23.55,Dubtitles,,0,0,0,,Before long, the meat is cooked,
+Dialogue: 0,0:02:21.57,0:02:23.55,Dubtitles,,0,0,0,,Before long, the meat is cooked,
 Dialogue: 0,0:02:23.81,0:02:27.28,Dubtitles,,0,0,0,,sliced, and served with any\Nnumber of sides and condiments.
 Dialogue: 0,0:02:27.77,0:02:28.81,Dubtitles,,0,0,0,,Excuse me, sir.
 Dialogue: 0,0:02:29.01,0:02:30.23,Dubtitles,,0,0,0,,I'd like five of those.
@@ -87,15 +83,13 @@ Dialogue: 0,0:03:13.43,0:03:15.43,Dubtitles,,0,0,0,,A hearty laugh always helps.
 Dialogue: 0,0:03:15.81,0:03:17.99,Dubtitles,,0,0,0,,Then, how much would you buy him for?
 Dialogue: 0,0:03:18.31,0:03:20.31,Dubtitles,,0,0,0,,The merchant will test the waters.
 Dialogue: 0,0:03:20.73,0:03:22.91,Dubtitles,,0,0,0,,Make it 250 yen for five.
-Dialogue: 0,0:03:23.39,0:03:26.25,Dubtitles,,0,0,0,,In return, you throw out a price so low?
-Dialogue: 0,0:03:26.33,0:03:28.85,Dubtitles,,0,0,0,,You can't help but blush and then!
-Dialogue: 0,0:03:32.37,0:03:36.19,Dubtitles,,0,0,0,,He'll act as if you have no\Nsense at all catching on?
-Dialogue: 0,0:03:36.27,0:03:39.07,Dubtitles,,0,0,0,,If I sold them for that cheap,\NI'd be out on the streets!
-Dialogue: 0,0:03:39.15,0:03:42.03,Dubtitles,,0,0,0,,my wife and seven children\Nwould starve to death!
-Dialogue: 0,0:03:42.93,0:03:48.51,Dubtitles,,0,0,0,,Then he'll gesture the old throat slash,\Nbut you can't give up the fight just yet!
-Dialogue: 0,0:03:48.59,0:03:51.33,Dubtitles,,0,0,0,,Then maybe I'll just\Nbuy them somewhere else?
-Dialogue: 0,0:03:51.41,0:03:52.97,Dubtitles,,0,0,0,,pretend that you're leaving.
-Dialogue: 0,0:03:53.05,0:03:55.13,Dubtitles,,0,0,0,,Okay, friend, you win.
+Dialogue: 0,0:03:23.39,0:03:28.85,Dubtitles,,0,0,0,,In return, you throw out a price so\Nlow You can't help but blush and then
+Dialogue: 0,0:03:32.37,0:03:37.99,Dubtitles,,0,0,0,,He'll act as if you have no sense at all\Ncatching on If I sold them for that cheap,
+Dialogue: 0,0:03:38.13,0:03:42.48,Dubtitles,,0,0,0,,I'd be out on the streets my wife and\Nseven children would starve to death
+Dialogue: 0,0:03:42.93,0:03:45.61,Dubtitles,,0,0,0,,Then he'll gesture the old throat slash,
+Dialogue: 0,0:03:45.93,0:03:49.65,Dubtitles,,0,0,0,,But you can't give up the\Nfight just yet. Then maybe I'll
+Dialogue: 0,0:03:49.73,0:03:54.03,Dubtitles,,0,0,0,,just buy them somewhere else\Npretend that you're leaving Okay,
+Dialogue: 0,0:03:54.23,0:03:55.17,Dubtitles,,0,0,0,,friend, you win.
 Dialogue: 0,0:03:55.29,0:03:56.91,Dubtitles,,0,0,0,,I'm very much like foreigners.
 Dialogue: 0,0:03:56.99,0:03:59.09,Dubtitles,,0,0,0,,I'll sell you five for 700 yen.
 Dialogue: 0,0:03:59.53,0:04:01.21,Dubtitles,,0,0,0,,He'll try to stop you.
@@ -103,11 +97,11 @@ Dialogue: 0,0:04:01.45,0:04:02.83,Dubtitles,,0,0,0,,Then make it 300!
 Dialogue: 0,0:04:03.41,0:04:05.97,Dubtitles,,0,0,0,,Let the haggling begin! 600!
 Dialogue: 0,0:04:06.55,0:04:08.05,Dubtitles,,0,0,0,,350! 550!
 Dialogue: 0,0:04:08.75,0:04:10.05,Dubtitles,,0,0,0,,400! 450!
-Dialogue: 0,0:04:12.63,0:04:14.05,Dubtitles,,0,0,0,,425! I'll take him!
+Dialogue: 0,0:04:12.63,0:04:14.05,Dubtitles,,0,0,0,,425! I'll take it!
 Dialogue: 0,0:04:14.59,0:04:18.89,Dubtitles,,0,0,0,,Alright, I got them for less than\Nhalf his original price. Take that!
 Dialogue: 0,0:04:19.15,0:04:20.91,Dubtitles,,0,0,0,,I'm made out like a bandit.
 Dialogue: 0,0:04:20.99,0:04:23.35,Dubtitles,,0,0,0,,and just as you think you won.
-Dialogue: 0,0:04:23.93,0:04:28.99,Dubtitles,,0,0,0,,I usually sell five for 150\Nyen. Bye-bye. Thank you, sir.
+Dialogue: 0,0:04:23.93,0:04:28.99,Dubtitles,,0,0,0,,I usually sell five for 150\Nyen! Bye-bye, thank you kindly!
 Dialogue: 0,0:04:38.25,0:04:40.41,Dubtitles,,0,0,0,,Holy crap! Turn around!
 Dialogue: 0,0:04:40.67,0:04:41.96,Dubtitles,,0,0,0,,That old lady's awake!
 Dialogue: 0,0:04:50.17,0:04:51.00,Dubtitles,,0,0,0,,I...
@@ -531,7 +525,7 @@ Dialogue: 0,0:05:33.89,0:05:34.72,Dubtitles,,0,0,0,,Why?
 Dialogue: 0,0:05:34.80,0:05:36.01,Dubtitles,,0,0,0,,I have done nothing wrong!
 Dialogue: 0,0:05:36.25,0:05:38.25,Dubtitles,,0,0,0,,Why have you come here to kill me?
 Dialogue: 0,0:05:39.33,0:05:42.23,Dubtitles,,0,0,0,,Lord Dio places his trust in no one.
-Dialogue: 0,0:05:42.45,0:05:44.19,Dubtitles,,0,0,0,,Not even you and Yabba.
+Dialogue: 0,0:05:42.45,0:05:44.19,Dubtitles,,0,0,0,,Not even you, Abbacchio.
 Dialogue: 0,0:05:44.37,0:05:45.41,Dubtitles,,0,0,0,,That is why.
 Dialogue: 0,0:05:45.79,0:05:49.19,Dubtitles,,0,0,0,,And it's my job to make sure\Nthat you never speak again.
 Dialogue: 0,0:05:50.99,0:05:52.97,Dubtitles,,0,0,0,,As for the rest of you...
@@ -540,10 +534,10 @@ Dialogue: 0,0:06:00.53,0:06:01.36,Dubtitles,,0,0,0,,Mime!
 Dialogue: 0,0:06:03.81,0:06:04.64,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:06:06.69,0:06:08.23,Dubtitles,,0,0,0,,You can call me Dan.
 Dialogue: 0,0:06:08.95,0:06:10.05,Dubtitles,,0,0,0,,Dan of Steel.
-Dialogue: 0,0:06:10.75,0:06:13.55,Dubtitles,,0,0,0,,My stand represents the\None and only Lover's Card.
-Dialogue: 0,0:06:13.63,0:06:17.85,Dubtitles,,0,0,0,,I will see to it that you all meet the\Nsame fate as that pathetic witch Iniyaba.
+Dialogue: 0,0:06:10.75,0:06:13.55,Dubtitles,,0,0,0,,My Stand represents the\None and only Lovers card.
+Dialogue: 0,0:06:13.63,0:06:17.85,Dubtitles,,0,0,0,,I will see to it that you all meet the\Nsame fate as that pathetic witch Enya.
 Dialogue: 0,0:06:17.93,0:06:18.83,Dubtitles,,0,0,0,,How could you?
-Dialogue: 0,0:06:19.03,0:06:22.49,Dubtitles,,0,0,0,,That old lady was one of your\Nown, you son of a... Memory!
+Dialogue: 0,0:06:19.03,0:06:22.49,Dubtitles,,0,0,0,,That old lady was one of your\Nown, you son of a... Mimere!
 Dialogue: 0,0:06:23.73,0:06:24.56,Dubtitles,,0,0,0,,Lies!
 Dialogue: 0,0:06:25.01,0:06:25.84,Dubtitles,,0,0,0,,Lies!
 Dialogue: 0,0:06:26.89,0:06:29.13,Dubtitles,,0,0,0,,These are all lies!
@@ -553,7 +547,7 @@ Dialogue: 0,0:06:33.05,0:06:35.21,Dubtitles,,0,0,0,,I am his loyal servant.
 Dialogue: 0,0:06:35.77,0:06:36.60,Dubtitles,,0,0,0,,Loyal!
 Dialogue: 0,0:06:36.68,0:06:40.63,Dubtitles,,0,0,0,,These things coming out of her body,\Nthey're definitely not some stand.
 Dialogue: 0,0:06:40.71,0:06:41.85,Dubtitles,,0,0,0,,Don't you see it?
-Dialogue: 0,0:06:41.99,0:06:43.46,Dubtitles,,0,0,0,,They're actual tentacles.
+Dialogue: 0,0:06:41.99,0:06:43.46,Dubtitles,,0,0,0,,They're actual tentacles!
 Dialogue: 0,0:06:43.83,0:06:46.15,Dubtitles,,0,0,0,,I have dedicated everything to him.
 Dialogue: 0,0:06:46.35,0:06:48.53,Dubtitles,,0,0,0,,Lord Dio would never do me such harm.
 Dialogue: 0,0:06:49.45,0:06:52.13,Dubtitles,,0,0,0,,He'd never plant a flesh bud in me.
@@ -571,19 +565,19 @@ Dialogue: 0,0:07:19.61,0:07:21.61,Dubtitles,,0,0,0,,Since you're so astute, I'll
 Dialogue: 0,0:07:21.69,0:07:23.99,Dubtitles,,0,0,0,,This is what a full-grown\Nflesh bud looks like.
 Dialogue: 0,0:07:24.07,0:07:26.25,Dubtitles,,0,0,0,,I want to kill her, not control her.
 Dialogue: 0,0:07:26.35,0:07:28.57,Dubtitles,,0,0,0,,So I just grew it inside the old bag.
-Dialogue: 0,0:07:29.45,0:07:30.28,Dubtitles,,0,0,0,,And yarba,
-Dialogue: 0,0:07:30.41,0:07:34.85,Dubtitles,,0,0,0,,you may be the very one who told lord\Ndio about the stance but you're a
+Dialogue: 0,0:07:29.45,0:07:30.28,Dubtitles,,0,0,0,,And Yarba,
+Dialogue: 0,0:07:30.41,0:07:34.85,Dubtitles,,0,0,0,,You may be the very one who told Lord\NDIO about the Stands, but you're a
 Dialogue: 0,0:07:34.93,0:07:38.41,Dubtitles,,0,0,0,,fool to think that a man with such\Ncomplete power would ever trust a feeble
 Dialogue: 0,0:07:38.49,0:07:44.37,Dubtitles,,0,0,0,,old woman like you unfortunately\Nit's a point you fail to realize old
 Dialogue: 0,0:07:44.45,0:07:47.31,Dubtitles,,0,0,0,,lady what's the true identity of dio
 Dialogue: 0,0:07:47.39,0:07:52.65,Dubtitles,,0,0,0,,stan tell us you placed all your hope
 Dialogue: 0,0:07:52.73,0:07:56.49,Dubtitles,,0,0,0,,in dio you trusted him with your\Nlife and your sons and now after all
-Dialogue: 0,0:07:56.57,0:08:00.23,Dubtitles,,0,0,0,,you've sacrificed you know he's not\Nthe man you thought he was you know i'm
-Dialogue: 0,0:08:00.31,0:08:06.35,Dubtitles,,0,0,0,,right we must defeat dio no matter\Nthe cost you have to tell us we need
-Dialogue: 0,0:08:06.43,0:08:10.95,Dubtitles,,0,0,0,,to know tell us what we need to know\Nabout dio's stand before it's too late
-Dialogue: 0,0:08:15.95,0:08:17.47,Dubtitles,,0,0,0,,oh my lord
-Dialogue: 0,0:08:25.37,0:08:27.65,Dubtitles,,0,0,0,,he believes in me
-Dialogue: 0,0:08:27.87,0:08:32.71,Dubtitles,,0,0,0,,so i'll serve him even in\Ndeath i won't betray him
+Dialogue: 0,0:07:56.57,0:08:00.23,Dubtitles,,0,0,0,,you've sacrificed you know he's not\Nthe man you thought he was you know I'm
+Dialogue: 0,0:08:00.31,0:08:06.35,Dubtitles,,0,0,0,,right we must defeat Dio no matter\Nthe cost you have to tell us we need
+Dialogue: 0,0:08:06.43,0:08:10.95,Dubtitles,,0,0,0,,to know tell us what we need to know\Nabout Dio's stand before it's too late
+Dialogue: 0,0:08:15.95,0:08:17.47,Dubtitles,,0,0,0,,Oh, my lord
+Dialogue: 0,0:08:25.37,0:08:27.65,Dubtitles,,0,0,0,,He believes in me.
+Dialogue: 0,0:08:27.87,0:08:32.71,Dubtitles,,0,0,0,,So I'll serve him even in\Ndeath. I won't betray him.
 Dialogue: 0,0:08:37.77,0:08:39.09,Dubtitles,,0,0,0,,Oh, God!
 Dialogue: 0,0:08:46.65,0:08:47.73,Dubtitles,,0,0,0,,How pathetic.
 Dialogue: 0,0:08:49.39,0:08:52.23,Dubtitles,,0,0,0,,It's laughable how sad that old woman was.
@@ -654,7 +648,7 @@ Dialogue: 0,0:09:49.91,0:09:50.74,Dubtitles,,0,0,0,,What the?
 Dialogue: 0,0:09:50.82,0:09:51.93,Dubtitles,,0,0,0,,What What happened, Mr.
 Dialogue: 0,0:09:52.01,0:09:52.84,Dubtitles,,0,0,0,,Joestar?
 Dialogue: 0,0:09:52.92,0:09:54.49,Dubtitles,,0,0,0,,He flew back just like that guy.
-Dialogue: 0,0:09:56.35,0:09:57.59,Dubtitles,,0,0,0,,You're an utter fool.
+Dialogue: 0,0:09:56.35,0:09:57.59,Dubtitles,,0,0,0,,You're an utter fool!
 Dialogue: 0,0:09:57.77,0:10:00.39,Dubtitles,,0,0,0,,I was about to explain my\Npowers when you hit me.
 Dialogue: 0,0:10:00.47,0:10:02.67,Dubtitles,,0,0,0,,That impatience nearly\Nkilled your grandfather.
 Dialogue: 0,0:10:02.75,0:10:04.57,Dubtitles,,0,0,0,,I suggest you listen next time.
@@ -669,7 +663,7 @@ Dialogue: 0,0:10:21.89,0:10:23.25,Dubtitles,,0,0,0,,So tell us!
 Dialogue: 0,0:10:23.41,0:10:24.88,Dubtitles,,0,0,0,,What the hell does it do?
 Dialogue: 0,0:10:25.71,0:10:29.49,Dubtitles,,0,0,0,,What's the point in telling you\Nnow the battle's already begun, Mr.
 Dialogue: 0,0:10:29.57,0:10:30.40,Dubtitles,,0,0,0,,Joestar?
-Dialogue: 0,0:10:31.57,0:10:33.15,Dubtitles,,0,0,0,,You're all simpletense.
+Dialogue: 0,0:10:31.57,0:10:33.15,Dubtitles,,0,0,0,,You're all simpletons.
 Dialogue: 0,0:10:33.63,0:10:38.04,Dubtitles,,0,0,0,,You do know no matter how hard you\Nlook, you won't be able to see my stand.
 Dialogue: 0,0:10:39.13,0:10:40.39,Dubtitles,,0,0,0,,Hey, Half-Pine.
 Dialogue: 0,0:10:41.23,0:10:42.47,Dubtitles,,0,0,0,,You want some cash?
@@ -685,7 +679,7 @@ Dialogue: 0,0:11:05.37,0:11:07.35,Dubtitles,,0,0,0,,You mean you still haven't f
 Dialogue: 0,0:11:07.43,0:11:08.59,Dubtitles,,0,0,0,,That's so disappointing.
 Dialogue: 0,0:11:08.67,0:11:12.57,Dubtitles,,0,0,0,,My stand can't be seen because\Nit's rooted firmly inside you.
 Dialogue: 0,0:11:12.83,0:11:15.07,Dubtitles,,0,0,0,,The moment Inyaba died, it entered you.
-Dialogue: 0,0:11:15.15,0:11:19.27,Dubtitles,,0,0,0,,It got to your brain through your\Near, and that's how I'll get to you.
+Dialogue: 0,0:11:15.15,0:11:19.27,Dubtitles,,0,0,0,,It got to your brain through your\Near, and that's how I'll get to you!
 Dialogue: 0,0:11:26.37,0:11:29.45,Dubtitles,,0,0,0,,My stand and I are\Nconnected, just like yours.
 Dialogue: 0,0:11:29.85,0:11:34.29,Dubtitles,,0,0,0,,If my stand gets hurt, so do I,\Nand the reverse is also true.
 Dialogue: 0,0:11:35.99,0:11:37.31,Dubtitles,,0,0,0,,You're utterly helpless.
@@ -698,7 +692,7 @@ Dialogue: 0,0:11:49.47,0:11:51.41,Dubtitles,,0,0,0,,Now, I'll say it once more.
 Dialogue: 0,0:11:51.91,0:11:55.79,Dubtitles,,0,0,0,,Alone or together, you won't be\Nable to lay a single finger on me.
 Dialogue: 0,0:11:57.61,0:12:01.79,Dubtitles,,0,0,0,,Plus, the Lovers has taken one of\NLord Dio's flesh buds into your body.
 Dialogue: 0,0:12:01.87,0:12:03.91,Dubtitles,,0,0,0,,It's growing in your brain as we speak.
-Dialogue: 0,0:12:03.99,0:12:06.05,Dubtitles,,0,0,0,,Just like it did to Inyaba.
+Dialogue: 0,0:12:03.99,0:12:06.05,Dubtitles,,0,0,0,,Just like it did to Enya.
 Dialogue: 0,0:12:06.33,0:12:08.51,Dubtitles,,0,0,0,,It'll devour you from the inside out.
 Dialogue: 0,0:12:14.05,0:12:18.29,Dubtitles,,0,0,0,,I don't recall asking you to strike\Nme again, you stupid little brat!
 Dialogue: 0,0:12:22.59,0:12:27.67,Dubtitles,,0,0,0,,Well, to be honest, my stand of lovers\Nisn't as strong as you might think it'd be.
@@ -845,7 +839,7 @@ Dialogue: 0,0:13:01.89,0:13:06.83,Dubtitles,,0,0,0,,I might get banged up some, 
 Dialogue: 0,0:13:08.75,0:13:10.31,Dubtitles,,0,0,0,,What the? How?
 Dialogue: 0,0:13:10.51,0:13:13.55,Dubtitles,,0,0,0,,How am I feeling your knuckles\Ncracking in my prosthetic hand?
 Dialogue: 0,0:13:13.63,0:13:15.51,Dubtitles,,0,0,0,,You've got ten minutes, old man.
-Dialogue: 0,0:13:15.71,0:13:20.12,Dubtitles,,0,0,0,,Then your brain will be eaten through\Nand you'll be a corpse like in Yabba.
+Dialogue: 0,0:13:15.71,0:13:20.12,Dubtitles,,0,0,0,,Then your brain will be eaten through\Nand you'll be a corpse like Enya.
 Dialogue: 0,0:13:22.61,0:13:23.85,Dubtitles,,0,0,0,,Jotaro, calm down.
 Dialogue: 0,0:13:24.21,0:13:25.56,Dubtitles,,0,0,0,,Don't do anything rash.
 Dialogue: 0,0:13:25.65,0:13:26.49,Dubtitles,,0,0,0,,Sorry, but no.
@@ -857,7 +851,7 @@ Dialogue: 0,0:13:43.63,0:13:45.16,Dubtitles,,0,0,0,,I want to see what happens
 Dialogue: 0,0:13:45.57,0:13:47.51,Dubtitles,,0,0,0,,What are you waiting for, Jotaro?
 Dialogue: 0,0:13:48.13,0:13:49.57,Dubtitles,,0,0,0,,Come on, let's see it.
 Dialogue: 0,0:13:49.91,0:13:52.09,Dubtitles,,0,0,0,,Just what were you planning to strike?
-Dialogue: 0,0:13:52.17,0:13:54.75,Dubtitles,,0,0,0,,Tell me my face or maybe my throat
+Dialogue: 0,0:13:52.17,0:13:54.75,Dubtitles,,0,0,0,,Tell me, my face, or maybe my throat?
 Dialogue: 0,0:13:57.05,0:13:58.51,Dubtitles,,0,0,0,,What? You mad?
 Dialogue: 0,0:13:58.79,0:14:00.23,Dubtitles,,0,0,0,,Let's see what'll happen.
 Dialogue: 0,0:14:00.31,0:14:02.13,Dubtitles,,0,0,0,,Don't back down on me now, man.
@@ -874,7 +868,7 @@ Dialogue: 0,0:14:36.09,0:14:38.68,Dubtitles,,0,0,0,,Are you trying to kill\Nyour
 Dialogue: 0,0:14:38.77,0:14:40.59,Dubtitles,,0,0,0,,Uh, this is Jotaro we're talking about.
 Dialogue: 0,0:14:40.67,0:14:41.50,Dubtitles,,0,0,0,,He might be.
 Dialogue: 0,0:14:42.95,0:14:44.99,Dubtitles,,0,0,0,,You dumb good-for-nothing punk.
-Dialogue: 0,0:14:54.49,0:14:55.32,Dubtitles,,0,0,0,,Yotaro!
+Dialogue: 0,0:14:54.49,0:14:55.32,Dubtitles,,0,0,0,,Jotaro!
 Dialogue: 0,0:14:56.45,0:14:59.35,Dubtitles,,0,0,0,,Don't you toy with me, you bastard.
 Dialogue: 0,0:14:59.83,0:15:02.60,Dubtitles,,0,0,0,,After the geezer kicks\Nthe bucket, you're next.
 Dialogue: 0,0:15:03.11,0:15:04.01,Dubtitles,,0,0,0,,Look out!
@@ -888,7 +882,7 @@ Dialogue: 0,0:15:26.83,0:15:30.89,Dubtitles,,0,0,0,,I remember when that poison 
 Dialogue: 0,0:15:31.15,0:15:32.43,Dubtitles,,0,0,0,,But think, Joseph.
 Dialogue: 0,0:15:32.75,0:15:35.04,Dubtitles,,0,0,0,,There's got to be something you can do.
 Dialogue: 0,0:15:43.97,0:15:44.80,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:15:46.35,0:15:47.18,Dubtitles,,0,0,0,,Chotaro!
+Dialogue: 0,0:15:46.35,0:15:47.18,Dubtitles,,0,0,0,,Jotaro!
 Dialogue: 0,0:15:47.26,0:15:48.33,Dubtitles,,0,0,0,,Keep him away from Mr.
 Dialogue: 0,0:15:48.41,0:15:49.65,Dubtitles,,0,0,0,,Joestar at all costs!
 Dialogue: 0,0:15:49.77,0:15:53.12,Dubtitles,,0,0,0,,We're gonna try and get as\Nfar away from him as possible!
@@ -911,7 +905,7 @@ Dialogue: 0,0:16:34.13,0:16:35.33,Dubtitles,,0,0,0,,What's your plan?
 Dialogue: 0,0:16:35.51,0:16:38.25,Dubtitles,,0,0,0,,Follow me around till\NGrandpa Joseph keels over?
 Dialogue: 0,0:16:38.33,0:16:39.51,Dubtitles,,0,0,0,,Sounds like a blast.
 Dialogue: 0,0:16:40.07,0:16:41.49,Dubtitles,,0,0,0,,Den of steel, was it?
-Dialogue: 0,0:16:42.03,0:16:44.97,Dubtitles,,0,0,0,,I'll make you pay for this,\Njust a matter of when.
+Dialogue: 0,0:16:42.03,0:16:44.97,Dubtitles,,0,0,0,,I'll make you pay for this.\NJust a matter of when.
 Dialogue: 0,0:16:50.83,0:16:51.66,Dubtitles,,0,0,0,,Well,
 Dialogue: 0,0:16:51.74,0:16:53.47,Dubtitles,,0,0,0,,if you're gonna stick around for a while,
 Dialogue: 0,0:16:53.55,0:16:56.08,Dubtitles,,0,0,0,,I might as well help\Nmyself to your wallet.
@@ -947,9 +941,9 @@ Dialogue: 0,0:18:17.09,0:18:18.27,Dubtitles,,0,0,0,,You don't know that.
 Dialogue: 0,0:18:18.37,0:18:20.55,Dubtitles,,0,0,0,,Hey, try not to break anything\Nwhile you're in there.
 Dialogue: 0,0:18:20.63,0:18:21.55,Dubtitles,,0,0,0,,There's no time.
 Dialogue: 0,0:18:21.63,0:18:23.40,Dubtitles,,0,0,0,,We're going in now, Polnareff.
-Dialogue: 0,0:18:23.49,0:18:24.67,Dubtitles,,0,0,0,,Uh, all right.
+Dialogue: 0,0:18:23.49,0:18:24.67,Dubtitles,,0,0,0,,All right!
 Dialogue: 0,0:18:25.07,0:18:26.67,Dubtitles,,0,0,0,,I revenge green!
-Dialogue: 0,0:18:27.59,0:18:28.59,Dubtitles,,0,0,0,,Silver Chilliots!
+Dialogue: 0,0:18:27.59,0:18:28.59,Dubtitles,,0,0,0,,Silver Chariot!
 Dialogue: 0,0:18:30.31,0:18:31.14,Dubtitles,,0,0,0,,Smaller.
 Dialogue: 0,0:18:35.61,0:18:36.57,Dubtitles,,0,0,0,,Get smaller.
 Dialogue: 0,0:18:36.99,0:18:39.46,Dubtitles,,0,0,0,,We're going to be entering a blood vessel.
@@ -989,7 +983,7 @@ Dialogue: 0,0:20:39.11,0:20:41.63,Dubtitles,,0,0,0,,That's the point where\Nthe 
 Dialogue: 0,0:20:41.71,0:20:44.79,Dubtitles,,0,0,0,,Polnareff and I will enter a blood\Nvessel from inside your inner ear,
 Dialogue: 0,0:20:44.87,0:20:47.49,Dubtitles,,0,0,0,,then swim through the\Nveins toward the brainstem.
 Dialogue: 0,0:20:47.57,0:20:52.71,Dubtitles,,0,0,0,,But to do that, we need to tear the\Nwall of the blood vessel. Hey! Hold on!
-Dialogue: 0,0:20:52.89,0:20:54.36,Dubtitles,,0,0,0,,You're using your stance!
+Dialogue: 0,0:20:52.89,0:20:54.36,Dubtitles,,0,0,0,,You're using your Stands!
 Dialogue: 0,0:20:54.51,0:20:57.25,Dubtitles,,0,0,0,,Can't you just slip through\Nit without cutting me?
 Dialogue: 0,0:20:57.33,0:20:59.21,Dubtitles,,0,0,0,,At this size, it's not possible.
 Dialogue: 0,0:20:59.45,0:21:01.63,Dubtitles,,0,0,0,,The blood vessel's wall is too thick.
@@ -1004,56 +998,47 @@ Dialogue: 0,0:21:24.27,0:21:28.04,Dubtitles,,0,0,0,,It's taking a ton of stand p
 Dialogue: 0,0:21:29.17,0:21:30.13,Dubtitles,,0,0,0,,Oni va!
 Dialogue: 0,0:21:33.63,0:21:35.29,Dubtitles,,0,0,0,,Oh my god!
 Dialogue: 0,0:21:36.51,0:21:39.37,Dubtitles,,0,0,0,,I really don't feel so well.
-Dialogue: 0,0:22:11.87,0:22:14.55,Dubtitles,,0,0,0,,All the old paintings on the tomb.
+Dialogue: 0,0:22:11.87,0:22:15.97,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb. They do the sand dance,
 Dialogue: 1,0:22:12.24,0:22:14.66,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:22:14.63,0:22:16.59,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
 Dialogue: 1,0:22:14.66,0:22:16.91,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:22:16.67,0:22:18.25,Dubtitles,,0,0,0,,If they move too quick.
+Dialogue: 0,0:22:16.09,0:22:18.27,Dubtitles,,0,0,0,,don't you know If they move too quick
 Dialogue: 1,0:22:16.91,0:22:18.37,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:18.89,0:22:21.25,Dubtitles,,0,0,0,,They're falling down like a domino.
+Dialogue: 0,0:22:18.89,0:22:22.49,Dubtitles,,0,0,0,,They're falling down like\Na domino. All the birds are
 Dialogue: 1,0:22:19.17,0:22:21.63,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:21.33,0:22:23.91,Dubtitles,,0,0,0,,All the birds are men by the Nile.
 Dialogue: 1,0:22:21.63,0:22:23.96,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
+Dialogue: 0,0:22:22.57,0:22:26.49,Dubtitles,,0,0,0,,Men by the Nile. They've got\Ntheir money on a bed called
 Dialogue: 1,0:22:23.96,0:22:26.30,Lyrics 2,,0,0,0,,They got the money on a bet
-Dialogue: 0,0:22:23.99,0:22:25.97,Dubtitles,,0,0,0,,They've got their money on a bed.
-Dialogue: 0,0:22:26.05,0:22:27.57,Dubtitles,,0,0,0,,Called crocodiles.
 Dialogue: 1,0:22:26.30,0:22:27.80,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:22:27.65,0:22:30.55,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
+Dialogue: 0,0:22:26.57,0:22:30.55,Dubtitles,,0,0,0,,crocodiles They snap their\Nteeth on your cigarette
 Dialogue: 1,0:22:28.47,0:22:30.93,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
-Dialogue: 0,0:22:30.63,0:22:32.81,Dubtitles,,0,0,0,,Foreign types of the hookah. I say.
+Dialogue: 0,0:22:30.63,0:22:32.17,Dubtitles,,0,0,0,,Foreign types of the hookah
 Dialogue: 1,0:22:30.93,0:22:33.14,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:32.89,0:22:33.85,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:22:32.25,0:22:33.85,Dubtitles,,0,0,0,,I say. Walk
 Dialogue: 0,0:22:33.93,0:22:40.91,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:40.15,0:22:42.69,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:40.99,0:22:41.82,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:22:53.69,0:22:55.15,Dubtitles,,0,0,0,,The blonde waitresses.
+Dialogue: 0,0:22:40.99,0:22:41.82,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:22:53.69,0:22:57.35,Dubtitles,,0,0,0,,The blonde waitresses Take\Ntheir trays Spin around
 Dialogue: 1,0:22:54.08,0:22:56.54,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
-Dialogue: 0,0:22:55.23,0:22:57.35,Dubtitles,,0,0,0,,Take their trays. Spin around.
 Dialogue: 1,0:22:56.54,0:22:58.91,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:22:57.43,0:22:58.53,Dubtitles,,0,0,0,,And they cross the floor.
-Dialogue: 0,0:22:58.61,0:23:00.05,Dubtitles,,0,0,0,,They've got the moves.
+Dialogue: 0,0:22:57.43,0:23:00.57,Dubtitles,,0,0,0,,And they cross the floor.\NThey've got the moves. Oh,
 Dialogue: 1,0:22:58.91,0:23:00.17,Lyrics 2,,0,0,0,,They've got the moves
-Dialogue: 0,0:23:00.13,0:23:01.11,Dubtitles,,0,0,0,,Oh, hey, oh?
-Dialogue: 0,0:23:01.19,0:23:02.02,Dubtitles,,0,0,0,,You drop, you drink.
+Dialogue: 0,0:23:00.71,0:23:01.71,Dubtitles,,0,0,0,,hey, oh You drop,
 Dialogue: 1,0:23:01.21,0:23:03.54,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:23:02.10,0:23:03.21,Dubtitles,,0,0,0,,Then they bring you more.
-Dialogue: 0,0:23:03.29,0:23:05.83,Dubtitles,,0,0,0,,All the school kids so sick of books.
+Dialogue: 0,0:23:01.81,0:23:05.49,Dubtitles,,0,0,0,,you drink Then they bring you more\NAll the school kids so sick of
 Dialogue: 1,0:23:03.54,0:23:05.88,Lyrics 2,,0,0,0,,All the school kids so sick of books
+Dialogue: 0,0:23:05.57,0:23:09.57,Dubtitles,,0,0,0,,books They're like the punk and the\Nmetal band When the buzzer rings
 Dialogue: 1,0:23:05.88,0:23:08.21,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:23:05.91,0:23:07.89,Dubtitles,,0,0,0,,They're like the punk and the metal band.
-Dialogue: 0,0:23:07.97,0:23:09.45,Dubtitles,,0,0,0,,When the buzzer rings.
 Dialogue: 1,0:23:08.21,0:23:09.67,Lyrics 2,,0,0,0,,When the buzzer rings
-Dialogue: 0,0:23:10.23,0:23:12.15,Dubtitles,,0,0,0,,They're walking like an Egyptian.
+Dialogue: 0,0:23:10.23,0:23:13.39,Dubtitles,,0,0,0,,They're walking like an\NEgyptian. All the kids.
 Dialogue: 1,0:23:10.51,0:23:12.84,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:23:12.23,0:23:15.43,Dubtitles,,0,0,0,,All the kids in the marketplace say. Walk
 Dialogue: 1,0:23:12.84,0:23:15.06,Lyrics 2,,0,0,0,,All the kids in the marketplace say
+Dialogue: 0,0:23:13.47,0:23:15.43,Dubtitles,,0,0,0,,in the marketplace say Walk
 Dialogue: 0,0:23:15.51,0:23:22.51,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:23:22.19,0:23:25.27,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:23:22.95,0:23:23.78,Dubtitles,,0,0,0,,an Egyptian.
+Dialogue: 0,0:23:22.95,0:23:23.78,Dubtitles,,0,0,0,,an Egyptian
 Dialogue: 2,0:23:26.57,0:23:28.57,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode{THIS PREVIEW HAS NOT BEEN CHECKED WITH THE NEXT EPISODE}
-Dialogue: 0,0:23:26.77,0:23:29.07,Dubtitles,,0,0,0,,I have a very nasty itch.
-Dialogue: 0,0:23:29.15,0:23:31.41,Dubtitles,,0,0,0,,I'm in such a good mood\NI can hardly stand it.
-Dialogue: 0,0:23:31.49,0:23:33.65,Dubtitles,,0,0,0,,I want you to use your\Ntongue to shine them.
+Dialogue: 0,0:23:26.77,0:23:30.39,Dubtitles,,0,0,0,,I have a very nasty itch I'm\Nin such a good mood I can
+Dialogue: 0,0:23:30.47,0:23:33.65,Dubtitles,,0,0,0,,hardly stand it I want you to\Nuse your tongue to shine them.
 Dialogue: 0,0:23:33.73,0:23:36.51,Dubtitles,,0,0,0,,To win in life, one must\Nthoroughly know oneself.
 Dialogue: 0,0:23:36.59,0:23:40.00,Dubtitles,,0,0,0,,The spoils belong to those who\Nadmit their own weaknesses!
 Dialogue: 2,0:23:39.58,0:23:41.58,Next Episode,sign,0,0,0,,{\pos(960,215)\fs100}Episode 17

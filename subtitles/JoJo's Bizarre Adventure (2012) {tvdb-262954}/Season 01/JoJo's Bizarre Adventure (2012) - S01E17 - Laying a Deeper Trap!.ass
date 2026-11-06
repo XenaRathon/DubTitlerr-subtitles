@@ -50,15 +50,7 @@ Style: SFXYellow3,Franc Gothique Brush,140,&H000AC8F8,&H000000FF,&H000D161E,&H00
 Style: SFXWhite,Shaky Hand Some Comic Bold,100,&H00E2C5B7,&H000000FF,&H004D2D39,&H00000000,0,0,0,0,130,100,0,0,1,5,0,8,50,40,20,1
 Style: SFXBubble - Copy,Shaky Hand Some Comic Bold,170,&H00449944,&H000000FF,&H00181D1F,&H00000000,-1,0,0,0,130,100,0,0,1,9,0,8,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -79,14 +71,14 @@ Dialogue: 0,0:00:58.58,0:01:00.98,Dubtitles,,0,0,0,,We need a super Asia.
 Dialogue: 0,0:01:01.54,0:01:02.78,Dubtitles,,0,0,0,,Once we have that,
 Dialogue: 0,0:01:03.04,0:01:09.20,Dubtitles,,0,0,0,,we will conquer the sun and then become\Nthe final perfect step in evolution.
 Dialogue: 0,0:01:13.50,0:01:19.24,Dubtitles,,0,0,0,,The masks were invented by the oldest\Npillar man among them, and his name is Kars.
-Dialogue: 0,0:01:20.56,0:01:25.88,Dubtitles,,0,0,0,,Cars ACDC and Mama cross the Atlantic in\Ntheir search for a suitable Super Asia.
+Dialogue: 0,0:01:20.56,0:01:25.88,Dubtitles,,0,0,0,,Cars ACDC and Muamu cross the Atlantic in\Ntheir search for a suitable Super Asia.
 Dialogue: 0,0:01:26.22,0:01:27.57,Dubtitles,,0,0,0,,There you are, Susie Q.
 Dialogue: 0,0:01:27.96,0:01:30.46,Dubtitles,,0,0,0,,Signora, here, just like you wanted.
 Dialogue: 0,0:01:30.86,0:01:31.70,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 0,0:01:32.46,0:01:33.64,Dubtitles,,0,0,0,,You see this?
 Dialogue: 0,0:01:33.78,0:01:37.98,Dubtitles,,0,0,0,,What I have in my hand here is a\Nnatural, perfectly flawless stone.
 Dialogue: 0,0:01:38.22,0:01:40.46,Dubtitles,,0,0,0,,A Super Asia. Whoa!
-Dialogue: 0,0:01:41.96,0:01:44.90,Dubtitles,,0,0,0,,You've been carrying the\Nred stone of Asia around?
+Dialogue: 0,0:01:41.96,0:01:44.90,Dubtitles,,0,0,0,,You've been carrying the\NRed Stone of Aja around?
 Dialogue: 0,0:01:51.68,0:01:55.20,Dubtitles,,0,0,0,,The warriors of Harmon were\Nwiped out by the Pillar Men.
 Dialogue: 0,0:01:55.68,0:01:58.08,Dubtitles,,0,0,0,,This stone narrowly avoided being taken,
 Dialogue: 0,0:01:58.34,0:02:01.58,Dubtitles,,0,0,0,,and now I have been given\Nthe honor to be its guardian.
@@ -146,7 +138,6 @@ Dialogue: 1,0:04:14.65,0:04:20.45,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds
 Dialogue: 1,0:04:20.45,0:04:25.50,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:04:20.45,0:04:25.50,Lyrics OP2 Eng,,0,0,0,,So hold them close
 Dialogue: 1,0:04:30.92,0:04:35.55,Title2,,0,0,0,,{\fad(700,680)\pos(1275,865)\fscx95\blur1}Episode 17: "The Deeper Plan!" {I would use "A Deeper Trap" but they specifically use the phrase "deeper plan" so I'll keep it like this}
-Dialogue: 1,0:04:30.92,0:04:35.55,Title2,,0,0,0,,{\fad(700,680)\pos(1275,865)}Episode 17: "The Deeper Plan!"
 Dialogue: 0,0:04:35.40,0:04:37.14,Dubtitles,,0,0,0,,Are you ready, Caesar?
 Dialogue: 0,0:04:37.46,0:04:38.64,Dubtitles,,0,0,0,,I was born ready!
 Dialogue: 0,0:04:47.74,0:04:49.20,Dubtitles,,0,0,0,,It's almost dawn.
@@ -159,17 +150,15 @@ Dialogue: 0,0:05:04.60,0:05:06.56,Dubtitles,,0,0,0,,Is that Instructor Logs?
 Dialogue: 0,0:05:08.72,0:05:10.50,Dubtitles,,0,0,0,,Horrible! Unnatural!
 Dialogue: 0,0:05:11.70,0:05:12.84,Dubtitles,,0,0,0,,Instructor Logs!
 Dialogue: 0,0:05:14.20,0:05:15.18,Dubtitles,,0,0,0,,He's dead!
-Dialogue: 0,0:05:19.64,0:05:20.60,Dubtitles,,0,0,0,,Easy Pass!
+Dialogue: 0,0:05:19.64,0:05:20.60,Dubtitles,,0,0,0,,Easy peasy!
 Dialogue: 0,0:05:21.50,0:05:22.80,Dubtitles,,0,0,0,,So you came to Venice!
 Dialogue: 0,0:05:23.14,0:05:24.61,Dubtitles,,0,0,0,,Came here to this island!
 Dialogue: 0,0:05:32.56,0:05:37.56,Dubtitles,,0,0,0,,To think that the woman guarding the stone\Nis merely an island or two over that way.
-Dialogue: 0,0:05:44.24,0:05:46.04,Dubtitles,,0,0,0,,His lungs were pulled out.
-Dialogue: 0,0:05:47.00,0:05:49.02,Dubtitles,,0,0,0,,Lungs are vital for Harmon users.
-Dialogue: 0,0:05:50.24,0:05:53.01,Dubtitles,,0,0,0,,It had to have been a\Nkick of incredible power.
-Dialogue: 0,0:05:54.28,0:05:55.78,Dubtitles,,0,0,0,,The tyrant logs.
-Dialogue: 0,0:05:55.86,0:05:58.60,Dubtitles,,0,0,0,,You yelled at me for three weeks.
-Dialogue: 0,0:05:59.52,0:06:01.70,Dubtitles,,0,0,0,,You were relentless\Nwith your instructions.
-Dialogue: 0,0:06:01.78,0:06:04.04,Dubtitles,,0,0,0,,To be honest, I hated you.
+Dialogue: 0,0:05:44.24,0:05:46.04,Dubtitles,,0,0,0,,His lungs were pulled out
+Dialogue: 0,0:05:47.00,0:05:49.02,Dubtitles,,0,0,0,,Lungs are vital for Hamon users.
+Dialogue: 0,0:05:50.24,0:05:52.98,Dubtitles,,0,0,0,,It had to have been a\Nkick of incredible power
+Dialogue: 0,0:05:54.28,0:05:58.60,Dubtitles,,0,0,0,,The tyrant logs You yelled\Nat me for three weeks
+Dialogue: 0,0:05:59.52,0:06:04.04,Dubtitles,,0,0,0,,You were relentless with your\Ninstructions To be honest, I hated you
 Dialogue: 0,0:06:04.74,0:06:09.70,Dubtitles,,0,0,0,,I was sure that this would be my chance to\Nget you back for everything you did to me
 Dialogue: 0,0:06:09.78,0:06:12.48,Dubtitles,,0,0,0,,you'll have to watch me from where you are
 Dialogue: 0,0:06:12.56,0:06:16.20,Dubtitles,,0,0,0,,now instructor see what\Ni've learned from you
@@ -179,9 +168,9 @@ Dialogue: 0,0:06:34.92,0:06:38.30,Dubtitles,,0,0,0,,Out of my way, boy. I don't\
 Dialogue: 0,0:06:38.38,0:06:40.64,Dubtitles,,0,0,0,,with you you don't have\Nthe time what do you
 Dialogue: 0,0:06:40.72,0:06:46.22,Dubtitles,,0,0,0,,mean you have a lot more\Ntime than i do that was
 Dialogue: 0,0:06:46.30,0:06:49.12,Dubtitles,,0,0,0,,pretty sharp you may have\Na little more to offer
-Dialogue: 0,0:06:49.90,0:06:53.96,Dubtitles,,0,0,0,,but when someone looks at me with\Nan obvious challenge like that one?
+Dialogue: 0,0:06:49.90,0:06:53.90,Dubtitles,,0,0,0,,but when someone looks at me with\Nan obvious challenge like that one
 Dialogue: 0,0:06:54.70,0:06:56.76,Dubtitles,,0,0,0,,They are asking for their death.
-Dialogue: 0,0:07:01.48,0:07:04.38,Dubtitles,,0,0,0,,I'll tell you this one\Nmore time. Back away.
+Dialogue: 0,0:07:01.48,0:07:04.38,Dubtitles,,0,0,0,,I'll tell you this one\Nmore time: Back away.
 Dialogue: 0,0:07:04.84,0:07:09.08,Dubtitles,,0,0,0,,You know that with one touch of my hand,\Nyou'll soon be missing half of your body.
 Dialogue: 0,0:07:09.16,0:07:10.52,Dubtitles,,0,0,0,,Just try to move me.
 Dialogue: 1,0:07:10.58,0:07:10.62,SFX,1,0,0,0,,{=21}{\blur6\bord1.19\fscx14.92\fscy14.92\alpha&H80&\frz11.06\pos(609.36,316.16)}Shwoom
@@ -365,7 +354,7 @@ Dialogue: 1,0:07:15.37,0:07:15.41,SFXYellow,2,0,0,0,,{=24}{\blur6\bord10.25\fscx
 Dialogue: 2,0:07:15.37,0:07:15.41,SFXYellow,2,0,0,0,,{=24}{\blur0.8\bord10.25\fscx122.96\fscy102.47\alpha&H00&\frz342.5\pos(1149.53,534.4)\c&H181D2C&}Block
 Dialogue: 3,0:07:15.37,0:07:15.41,SFXYellow,2,0,0,0,,{=24}{\blur0.8\bord0\fscx122.96\fscy102.47\alpha&H00&\frz342.5\pos(1149.53,534.4)\4a&HFF&}Block
 Dialogue: 0,0:07:15.62,0:07:16.45,Dubtitles,,0,0,0,,Ooh.
-Dialogue: 0,0:07:16.84,0:07:19.02,Dubtitles,,0,0,0,,What's this now? Oh, look.
+Dialogue: 0,0:07:16.84,0:07:19.02,Dubtitles,,0,0,0,,What's this? Now? Oh, look.
 Dialogue: 0,0:07:19.14,0:07:20.20,Dubtitles,,0,0,0,,I'm still here.
 Dialogue: 0,0:07:20.42,0:07:23.83,Dubtitles,,0,0,0,,I only move for important\Nthings, like dog poo in my path.
 Dialogue: 0,0:07:25.96,0:07:30.14,Dubtitles,,0,0,0,,Using his hamon, he's able to break\Nright through the flesh of my hand.
@@ -380,11 +369,11 @@ Dialogue: 0,0:08:04.56,0:08:05.60,Dubtitles,,0,0,0,,Like this!
 Dialogue: 0,0:08:09.50,0:08:11.20,Dubtitles,,0,0,0,,Oh, you finally noticed!
 Dialogue: 0,0:08:11.58,0:08:15.04,Dubtitles,,0,0,0,,Your arm is wrapped up in\Na loop of fine silk thread.
 Dialogue: 0,0:08:15.40,0:08:20.00,Dubtitles,,0,0,0,,It's soaked in vegetable oil, so it\Nreally conducts Hamon quite well.
-Dialogue: 0,0:08:20.08,0:08:24.52,Dubtitles,,0,0,0,,I admit I was aiming for your neck,\Nbut you didn't give me the chance.
-Dialogue: 0,0:08:24.60,0:08:27.44,Dubtitles,,0,0,0,,How could a mortal have done this to me?
-Dialogue: 0,0:08:30.86,0:08:32.52,Dubtitles,,0,0,0,,But, that's.
+Dialogue: 0,0:08:20.08,0:08:23.04,Dubtitles,,0,0,0,,I admit I was aiming for your neck,
+Dialogue: 0,0:08:23.18,0:08:27.47,Dubtitles,,0,0,0,,but you didn't give me the chance how\Ncould a mortal have done this to me
+Dialogue: 0,0:08:30.86,0:08:32.52,Dubtitles,,0,0,0,,But... but that's...
 Dialogue: 0,0:08:33.40,0:08:35.76,Dubtitles,,0,0,0,,Actually a little morbid for my taste,
-Dialogue: 0,0:08:35.84,0:08:40.66,Dubtitles,,0,0,0,,but still first blood goes\Nto me and my instructor. Ah!
+Dialogue: 0,0:08:35.84,0:08:40.66,Dubtitles,,0,0,0,,But still first blood goes\Nto me and my instructor, Ah!
 Dialogue: 1,0:08:40.67,0:08:40.71,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord3.3\fscx71.56\fscy55.05\alpha&H00&\frz7.631\pos(1079.15,594.14)\c&H0F2126&}Slash
 Dialogue: 2,0:08:40.67,0:08:40.71,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord0\fscx71.56\fscy55.05\alpha&H00&\frz7.631\pos(1079.15,594.14)\4a&HFF&}Slash
 Dialogue: 1,0:08:40.71,0:08:40.75,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord4.53\fscx98.06\fscy75.43\alpha&H00&\frz7.631\pos(1115.09,665.46)\c&H0F2126&}Slash
@@ -483,15 +472,16 @@ Dialogue: 1,0:08:42.63,0:08:42.67,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord6.56\fscx1
 Dialogue: 2,0:08:42.63,0:08:42.67,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord0\fscx142.2\fscy109.39\alpha&H00&\frz7.631\pos(1244.43,825.28)\4a&HFF&}Slash
 Dialogue: 1,0:08:42.67,0:08:42.71,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord6.59\fscx142.88\fscy109.91\alpha&H00&\frz7.631\pos(1244.14,822.2)\c&H0F2126&}Slash
 Dialogue: 2,0:08:42.67,0:08:42.71,SFXOang,3,0,0,0,,{=25}{\blur0.9\bord0\fscx142.88\fscy109.91\alpha&H00&\frz7.631\pos(1244.14,822.2)\4a&HFF&}Slash
-Dialogue: 0,0:08:46.32,0:08:50.72,Dubtitles,,0,0,0,,2,500 years ago in China,\Na man wrote The Art of War.
-Dialogue: 0,0:08:51.96,0:08:57.02,Dubtitles,,0,0,0,,He said this, victory is decided\Nbefore the battle is fought.
+Dialogue: 0,0:08:46.68,0:08:50.72,Dubtitles,,0,0,0,,2,500 years ago in China,\Na man wrote The Art of War.
+Dialogue: 0,0:08:51.40,0:08:52.82,Dubtitles,,0,0,0,,He said this,
+Dialogue: 0,0:08:53.38,0:08:57.02,Dubtitles,,0,0,0,,victory is decided before\Nthe battle is fought.
 Dialogue: 0,0:08:58.20,0:09:00.42,Dubtitles,,0,0,0,,That means if you plan to win,
 Dialogue: 0,0:09:00.64,0:09:04.29,Dubtitles,,0,0,0,,you need to lay out strategies\Nwhile your opponent is unaware.
-Dialogue: 0,0:09:04.38,0:09:06.64,Dubtitles,,0,0,0,,It's true that I skipped school a lot,
-Dialogue: 0,0:09:06.72,0:09:10.32,Dubtitles,,0,0,0,,But Granny Iran made darn\Nsure I studied my history.
-Dialogue: 0,0:09:11.22,0:09:13.96,Dubtitles,,0,0,0,,So while you may have a lot\Nof years under your belt,
-Dialogue: 0,0:09:14.04,0:09:17.10,Dubtitles,,0,0,0,,you didn't leave any room\Nin your head for strategy.
-Dialogue: 0,0:09:19.36,0:09:20.22,Dubtitles,,0,0,0,,Take that!
+Dialogue: 0,0:09:04.38,0:09:06.62,Dubtitles,,0,0,0,,It's true that I skipped school a lot,
+Dialogue: 0,0:09:06.70,0:09:10.32,Dubtitles,,0,0,0,,But Granny Iran made darn\Nsure I studied my history.
+Dialogue: 0,0:09:11.22,0:09:13.94,Dubtitles,,0,0,0,,So while you may have a lot\Nof years under your belt,
+Dialogue: 0,0:09:14.02,0:09:17.08,Dubtitles,,0,0,0,,you didn't leave any room\Nin your head for strategy.
+Dialogue: 0,0:09:19.40,0:09:20.23,Dubtitles,,0,0,0,,Take this!
 Dialogue: 1,0:09:25.63,0:09:25.67,SFXFlesh,4,0,0,0,,{=27}{\blur7\alpha&HFF&\frz6.46\pos(989.85,743.67)}Sizzle
 Dialogue: 2,0:09:25.63,0:09:25.67,SFXFlesh,4,0,0,0,,{=27}{\blur1\alpha&HFF&\frz6.46\pos(989.85,743.67)\c&H22263B&}Sizzle
 Dialogue: 3,0:09:25.63,0:09:25.67,SFXFlesh,4,0,0,0,,{=27}{\bord0\blur1\alpha&HFF&\frz6.46\pos(989.85,743.67)\4a&HFF&}Sizzle
@@ -621,25 +611,25 @@ Dialogue: 3,0:09:27.38,0:09:27.42,SFXFlesh,4,0,0,0,,{=27}{\bord0\blur1\alpha&HD1
 Dialogue: 1,0:09:27.42,0:09:27.46,SFXFlesh,4,0,0,0,,{=27}{\blur7\alpha&HEB&\frz6.46\pos(1018.57,407.25)}Sizzle
 Dialogue: 2,0:09:27.42,0:09:27.46,SFXFlesh,4,0,0,0,,{=27}{\blur1\alpha&HEB&\frz6.46\pos(1018.57,407.25)\c&H22263B&}Sizzle
 Dialogue: 3,0:09:27.42,0:09:27.46,SFXFlesh,4,0,0,0,,{=27}{\bord0\blur1\alpha&HEB&\frz6.46\pos(1018.57,407.25)\4a&HFF&}Sizzle
-Dialogue: 0,0:09:29.46,0:09:30.64,Dubtitles,,0,0,0,,How dare you?
+Dialogue: 0,0:09:29.50,0:09:30.64,Dubtitles,,0,0,0,,How dare you?
 Dialogue: 0,0:09:30.98,0:09:32.40,Dubtitles,,0,0,0,,Oh, are you angry?
 Dialogue: 0,0:09:32.74,0:09:35.68,Dubtitles,,0,0,0,,Are you upset that I\Ndisintegrated your widow arm?
-Dialogue: 0,0:09:36.72,0:09:38.01,Dubtitles,,0,0,0,,Well, then, get upset!
-Dialogue: 0,0:09:38.12,0:09:40.02,Dubtitles,,0,0,0,,I'm far more furious than you!
+Dialogue: 0,0:09:36.70,0:09:37.99,Dubtitles,,0,0,0,,Well, then, get upset!
+Dialogue: 0,0:09:38.12,0:09:40.04,Dubtitles,,0,0,0,,I'm far more furious than you!
 Dialogue: 0,0:09:40.24,0:09:43.52,Dubtitles,,0,0,0,,Because of that little ring you\Nsaw fit to put inside my neck,
 Dialogue: 0,0:09:43.60,0:09:45.48,Dubtitles,,0,0,0,,I haven't slept right for weeks!
 Dialogue: 0,0:09:47.08,0:09:47.91,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:09:50.58,0:09:53.04,Dubtitles,,0,0,0,,I just can't take it!
+Dialogue: 0,0:09:50.70,0:09:53.04,Dubtitles,,0,0,0,,I just can't take it!
 Dialogue: 0,0:09:54.22,0:09:55.05,Dubtitles,,0,0,0,,No! No!
-Dialogue: 0,0:09:57.84,0:10:01.34,Dubtitles,,0,0,0,,I just can't take it!
-Dialogue: 0,0:10:01.42,0:10:02.58,Dubtitles,,0,0,0,,What the hell is this?
-Dialogue: 0,0:10:02.66,0:10:06.82,Dubtitles,,0,0,0,,He's bawling his eyes out, and I\Nthought he'd go on a bloody rampage.
-Dialogue: 0,0:10:07.14,0:10:08.84,Dubtitles,,0,0,0,,This is more than weird.
+Dialogue: 0,0:09:57.84,0:10:01.36,Dubtitles,,0,0,0,,I just can't take it!
+Dialogue: 0,0:10:01.44,0:10:02.73,Dubtitles,,0,0,0,,What the hell is this?
+Dialogue: 0,0:10:03.04,0:10:07.02,Dubtitles,,0,0,0,,He's bawling his eyes out! And I\Nthought he'd go on a bloody rampage.
+Dialogue: 0,0:10:07.10,0:10:08.84,Dubtitles,,0,0,0,,This is more than weird.
 Dialogue: 0,0:10:09.10,0:10:10.42,Dubtitles,,0,0,0,,This is embarrassing.
-Dialogue: 0,0:10:10.84,0:10:13.72,Dubtitles,,0,0,0,,He's throwing a tantrum\Nlike some three-year-old.
-Dialogue: 0,0:10:19.30,0:10:21.12,Dubtitles,,0,0,0,,My poor arm!
-Dialogue: 0,0:10:24.78,0:10:27.43,Dubtitles,,0,0,0,,Some things are creepier\Nthan mindless anger.
-Dialogue: 0,0:10:28.26,0:10:30.20,Dubtitles,,0,0,0,,I should finish him off quickly.
+Dialogue: 0,0:10:10.80,0:10:13.68,Dubtitles,,0,0,0,,He's throwing a tantrum\Nlike some three-year-old.
+Dialogue: 0,0:10:19.26,0:10:21.12,Dubtitles,,0,0,0,,My poor arm!
+Dialogue: 0,0:10:24.74,0:10:27.39,Dubtitles,,0,0,0,,Some things are creepier\Nthan mindless anger.
+Dialogue: 0,0:10:28.22,0:10:30.20,Dubtitles,,0,0,0,,I should finish him off quickly.
 Dialogue: 1,0:10:46.54,0:10:46.58,SFXBlue,5,0,0,0,,{=30}{\blur1\alpha&H00&\frz10.68\pos(349.2,165.6)\c&H434C3A&}Sigh
 Dialogue: 2,0:10:46.54,0:10:46.58,SFXBlue,5,0,0,0,,{=30}{\bord0\blur1\alpha&H00&\frz10.68\pos(349.2,165.6)\4a&HFF&}Sigh
 Dialogue: 1,0:10:46.58,0:10:46.63,SFXBlue,5,0,0,0,,{=30}{\blur1\alpha&H00&\frz10.68\pos(335.78,139.97)\c&H434C3A&}Sigh
@@ -724,22 +714,16 @@ Dialogue: 2,0:10:48.17,0:10:48.21,SFXBlue,5,0,0,0,,{=30}{\bord0\blur1\alpha&HCC&
 Dialogue: 1,0:10:48.21,0:10:48.25,SFXBlue,5,0,0,0,,{=30}{\blur1\alpha&HE8&\frz10.68\pos(259.5,-15.21)\c&H434C3A&}Sigh
 Dialogue: 2,0:10:48.21,0:10:48.25,SFXBlue,5,0,0,0,,{=30}{\bord0\blur1\alpha&HE8&\frz10.68\pos(259.5,-15.21)\4a&HFF&}Sigh
 Dialogue: 0,0:10:49.16,0:10:51.52,Dubtitles,,0,0,0,,Sometimes my emotions overwhelm me.
-Dialogue: 0,0:10:51.72,0:10:53.32,Dubtitles,,0,0,0,,And when I'm about to lose it,
+Dialogue: 0,0:10:51.70,0:10:53.32,Dubtitles,,0,0,0,,And when I'm about to lose it,
 Dialogue: 0,0:10:53.40,0:10:56.64,Dubtitles,,0,0,0,,I try to calm myself down by\Nventing with a crying jag.
-Dialogue: 0,0:10:58.08,0:11:00.70,Dubtitles,,0,0,0,,Earlier you referred\Nto Sun Tzu, didn't you?
-Dialogue: 0,0:11:01.56,0:11:03.32,Dubtitles,,0,0,0,,I knew him personally.
-Dialogue: 0,0:11:03.74,0:11:06.54,Dubtitles,,0,0,0,,Long ago, I journeyed to China to study.
-Dialogue: 0,0:11:07.40,0:11:09.12,Dubtitles,,0,0,0,,To fight us to delude.
-Dialogue: 0,0:11:09.52,0:11:10.76,Dubtitles,,0,0,0,,All war is deception.
-Dialogue: 0,0:11:11.20,0:11:13.62,Dubtitles,,0,0,0,,One tries to make their\Nenemies angry in order
-Dialogue: 0,0:11:13.70,0:11:16.35,Dubtitles,,0,0,0,,to lure them into\Ncommitting costly mistakes.
-Dialogue: 0,0:11:16.46,0:11:19.26,Dubtitles,,0,0,0,,That is precisely what you're\Nplanning on, am I right?
-Dialogue: 0,0:11:19.34,0:11:21.05,Dubtitles,,0,0,0,,Well, it's not going to work.
-Dialogue: 0,0:11:21.20,0:11:25.12,Dubtitles,,0,0,0,,But I must say, Jojo, I really\Nam shocked at your improvement.
-Dialogue: 0,0:11:26.16,0:11:28.30,Dubtitles,,0,0,0,,I admire your Hamon ability.
-Dialogue: 0,0:11:29.18,0:11:31.56,Dubtitles,,0,0,0,,I've been longing for a worthy opponent.
-Dialogue: 0,0:11:33.32,0:11:34.34,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:11:34.54,0:11:35.66,Dubtitles,,0,0,0,,What are you doing?
+Dialogue: 0,0:10:57.96,0:11:03.24,Dubtitles,,0,0,0,,Earlier you referred to Sun Tzu,\Ndidn't you? I knew him personally.
+Dialogue: 0,0:11:03.32,0:11:09.98,Dubtitles,,0,0,0,,long ago I journeyed to China to\Nstudy to fight us to delude all wars
+Dialogue: 0,0:11:10.06,0:11:14.22,Dubtitles,,0,0,0,,deception one tries to make their\Nenemies angry in order to lure them
+Dialogue: 0,0:11:14.30,0:11:18.50,Dubtitles,,0,0,0,,into committing costly mistakes that\Nis precisely what you're planning on
+Dialogue: 0,0:11:18.58,0:11:23.56,Dubtitles,,0,0,0,,Am I right? Well, it's not going to\Nwork, but I must say, JoJo, I really
+Dialogue: 0,0:11:23.64,0:11:29.70,Dubtitles,,0,0,0,,I'm shocked at your improvement. I\Nadmire your Hamon ability. I've been
+Dialogue: 0,0:11:29.78,0:11:33.94,Dubtitles,,0,0,0,,longing for worthy opponent what the
+Dialogue: 0,0:11:34.02,0:11:38.66,Dubtitles,,0,0,0,,hell what are you doing well it is
 Dialogue: 1,0:11:35.76,0:11:35.80,SFXRed,6,0,0,0,,{=31}{\blur6\bord7.22\fscx117.37\fscy90.28\alpha&H80&\frz336.5\pos(1431.8,332.3)\3c&H513EEF&}Snap
 Dialogue: 2,0:11:35.76,0:11:35.80,SFXRed,6,0,0,0,,{=31}{\blur0.9\bord7.22\fscx117.37\fscy90.28\alpha&H00&\frz336.5\pos(1431.8,332.3)\c&H1A1032&}Snap
 Dialogue: 3,0:11:35.76,0:11:35.80,SFXRed,6,0,0,0,,{=31}{\blur0.9\bord0\fscx117.37\fscy90.28\alpha&H00&\frz336.5\pos(1431.8,332.3)\4a&HFF&}Snap
@@ -824,35 +808,28 @@ Dialogue: 3,0:11:36.84,0:11:36.88,SFXRed,6,0,0,0,,{=31}{\blur0.9\bord0\fscx137.4
 Dialogue: 1,0:11:36.88,0:11:36.93,SFXRed,6,0,0,0,,{=31}{\blur6\bord8.46\fscx137.45\fscy105.73\alpha&H80&\frz336.5\pos(1606.93,230.66)\3c&H513EEF&}Snap
 Dialogue: 2,0:11:36.88,0:11:36.93,SFXRed,6,0,0,0,,{=31}{\blur0.9\bord8.46\fscx137.45\fscy105.73\alpha&H00&\frz336.5\pos(1606.93,230.66)\c&H1A1032&}Snap
 Dialogue: 3,0:11:36.88,0:11:36.93,SFXRed,6,0,0,0,,{=31}{\blur0.9\bord0\fscx137.45\fscy105.73\alpha&H00&\frz336.5\pos(1606.93,230.66)\4a&HFF&}Snap
-Dialogue: 0,0:11:37.94,0:11:39.90,Dubtitles,,0,0,0,,Well, it is a bit thin at the moment,
-Dialogue: 0,0:11:39.98,0:11:42.80,Dubtitles,,0,0,0,,but it'll grow thicker\Nwith the passage of time.
-Dialogue: 0,0:11:44.76,0:11:46.00,Dubtitles,,0,0,0,,He's too much.
-Dialogue: 0,0:11:46.08,0:11:48.10,Dubtitles,,0,0,0,,Just a minute ago, he was crying.
-Dialogue: 0,0:11:48.48,0:11:49.50,Dubtitles,,0,0,0,,Oh, Jojo.
-Dialogue: 0,0:11:49.90,0:11:51.67,Dubtitles,,0,0,0,,Did I just frighten you there?
-Dialogue: 0,0:11:51.80,0:11:53.00,Dubtitles,,0,0,0,,Come on, admit it.
-Dialogue: 0,0:11:53.08,0:11:54.28,Dubtitles,,0,0,0,,You're frightened a lot, aren't you?
-Dialogue: 0,0:11:54.36,0:11:56.60,Dubtitles,,0,0,0,,I can't read him.
-Dialogue: 0,0:11:57.00,0:11:59.30,Dubtitles,,0,0,0,,I've always been able to read my opponents
+Dialogue: 0,0:11:38.74,0:11:42.98,Dubtitles,,0,0,0,,a bit thin at the moment but it'll\Ngrow thicker with the passage of time
+Dialogue: 0,0:11:44.04,0:11:49.44,Dubtitles,,0,0,0,,he's too much just a minute\Nago he was crying oh jojo
+Dialogue: 0,0:11:49.52,0:11:53.06,Dubtitles,,0,0,0,,Did I just frighten you there?\NCome on, don't admit it.
+Dialogue: 0,0:11:53.14,0:11:55.10,Dubtitles,,0,0,0,,You're frightened a lot, aren't you?
+Dialogue: 0,0:11:55.18,0:11:56.60,Dubtitles,,0,0,0,,I can't read him.
+Dialogue: 0,0:11:57.16,0:11:59.30,Dubtitles,,0,0,0,,I've always been able to read my opponents
 Dialogue: 0,0:11:59.38,0:12:02.03,Dubtitles,,0,0,0,,and then use their own\Nfeelings against them.
-Dialogue: 0,0:12:02.32,0:12:05.40,Dubtitles,,0,0,0,,But this guy's personality is beyond me.
-Dialogue: 0,0:12:06.02,0:12:08.08,Dubtitles,,0,0,0,,Am I the one who's being read here?
-Dialogue: 0,0:12:12.32,0:12:14.26,Dubtitles,,0,0,0,,What's happening to Log's body?
-Dialogue: 0,0:12:18.64,0:12:19.94,Dubtitles,,0,0,0,,That burns!
-Dialogue: 0,0:12:20.30,0:12:22.58,Dubtitles,,0,0,0,,His body, it's boiling.
-Dialogue: 0,0:12:23.44,0:12:24.66,Dubtitles,,0,0,0,,What's going on?
-Dialogue: 0,0:12:25.58,0:12:28.16,Dubtitles,,0,0,0,,An animal's core temperature\Nwill increase when
-Dialogue: 0,0:12:28.24,0:12:31.12,Dubtitles,,0,0,0,,its fighting disease are\Ngreatly exerting itself.
-Dialogue: 0,0:12:31.38,0:12:35.48,Dubtitles,,0,0,0,,I can raise my blood up to 500\Ndegrees and then shoot it out at will.
-Dialogue: 0,0:12:35.68,0:12:37.72,Dubtitles,,0,0,0,,At the same time, I took off his arm.
-Dialogue: 0,0:12:37.80,0:12:40.94,Dubtitles,,0,0,0,,I also sent in some of my\Nboiling blood to show you.
-Dialogue: 0,0:12:41.96,0:12:45.32,Dubtitles,,0,0,0,,With his divine sandstorm,\NWamuu can control the wind.
-Dialogue: 0,0:12:45.94,0:12:48.24,Dubtitles,,0,0,0,,My domain is that of heat.
-Dialogue: 0,0:12:48.72,0:12:50.78,Dubtitles,,0,0,0,,I control the inferno.
-Dialogue: 0,0:12:51.60,0:12:56.20,Dubtitles,,0,0,0,,I'll grant that your power to destroy\Na defenseless, dead body is amazing.
-Dialogue: 0,0:12:56.82,0:13:00.94,Dubtitles,,0,0,0,,But I can also see that the reason\Nyou did it was to try and scare me!
-Dialogue: 0,0:13:01.98,0:13:04.04,Dubtitles,,0,0,0,,Now try a clack of volley!
-Dialogue: 0,0:13:04.78,0:13:07.52,Dubtitles,,0,0,0,,My hormone isn't like it was a month ago!
+Dialogue: 0,0:12:02.50,0:12:05.40,Dubtitles,,0,0,0,,But this guy's personality is beyond me.
+Dialogue: 0,0:12:05.90,0:12:07.96,Dubtitles,,0,0,0,,Am I the one who's being read here?
+Dialogue: 0,0:12:12.46,0:12:14.28,Dubtitles,,0,0,0,,What's happening to Log's body?
+Dialogue: 0,0:12:18.92,0:12:19.88,Dubtitles,,0,0,0,,That burns!
+Dialogue: 0,0:12:19.96,0:12:24.18,Dubtitles,,0,0,0,,His body, it's boiling! What's going
+Dialogue: 0,0:12:24.26,0:12:27.50,Dubtitles,,0,0,0,,on an animal's core temperature will
+Dialogue: 0,0:12:27.58,0:12:32.20,Dubtitles,,0,0,0,,increase when it's fighting disease\Nare greatly exerting itself i can raise
+Dialogue: 0,0:12:32.28,0:12:36.64,Dubtitles,,0,0,0,,my blood up to 500 degrees and then\Nshoot it out at will at the same time
+Dialogue: 0,0:12:36.72,0:12:40.98,Dubtitles,,0,0,0,,i took off his arm i also sent in\Nsome of my boiling blood to show you
+Dialogue: 0,0:12:41.64,0:12:44.90,Dubtitles,,0,0,0,,With his Divine Sandstorm,\NWamuu can control the
+Dialogue: 0,0:12:44.98,0:12:50.74,Dubtitles,,0,0,0,,Wind... My domain is that of\Nheat! I control the inferno.
+Dialogue: 0,0:12:50.82,0:12:54.52,Dubtitles,,0,0,0,,I'll grant that your power\Nto destroy a defenseless.
+Dialogue: 0,0:12:54.60,0:12:58.32,Dubtitles,,0,0,0,,dead body is amazing\Nbut I can also see that
+Dialogue: 0,0:12:58.40,0:13:05.22,Dubtitles,,0,0,0,,The reason you did it was\Nto try and scare me. My
+Dialogue: 0,0:13:05.30,0:13:12.18,Dubtitles,,0,0,0,,hormone isn't like it was\Na month ago I really did
 Dialogue: 1,0:13:08.14,0:13:08.18,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord6.53\fscx72.53\fscy72.53\alpha&H00&\frz4.289\pos(806.36,226.08)\c&H10060D&}Tear
 Dialogue: 2,0:13:08.14,0:13:08.18,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord0\fscx72.53\fscy72.53\alpha&H00&\frz4.289\pos(806.36,226.08)\4a&HFF&}Tear
 Dialogue: 1,0:13:08.18,0:13:08.23,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord6.53\fscx72.53\fscy72.53\alpha&H00&\frz4.289\pos(804.72,179.43)\c&H10060D&}Tear
@@ -869,18 +846,14 @@ Dialogue: 1,0:13:08.48,0:13:08.56,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord8.8
 Dialogue: 2,0:13:08.48,0:13:08.56,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord0\fscx98.58\fscy98.58\alpha&H00&\frz4.289\pos(788.56,95.58)\4a&HFF&}Tear
 Dialogue: 1,0:13:08.56,0:13:08.64,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord9\fscx100\fscy100\alpha&H00&\frz4.289\pos(787.6,90.4)\c&H10060D&}Tear
 Dialogue: 2,0:13:08.56,0:13:08.64,SFXKingCrimson,7,0,0,0,,{=32}{\blur0.8\bord0\fscx100\fscy100\alpha&H00&\frz4.289\pos(787.6,90.4)\4a&HFF&}Tear
-Dialogue: 0,0:13:11.04,0:13:12.96,Dubtitles,,0,0,0,,I really did frighten you.
-Dialogue: 0,0:13:13.90,0:13:15.04,Dubtitles,,0,0,0,,You see, Jojo,
-Dialogue: 0,0:13:15.12,0:13:19.66,Dubtitles,,0,0,0,,your uncontrolled emotions caused you\Nto attack me recklessly and too soon.
-Dialogue: 0,0:13:20.78,0:13:23.82,Dubtitles,,0,0,0,,My veins will inject boiling\Nblood into your skull
-Dialogue: 0,0:13:23.90,0:13:27.78,Dubtitles,,0,0,0,,and then turn your brain\Ninto a nice red stew.
-Dialogue: 0,0:13:28.44,0:13:32.62,Dubtitles,,0,0,0,,This is the reason that I am\Ncalled the Burning King! Gah!
-Dialogue: 0,0:13:33.34,0:13:34.17,Dubtitles,,0,0,0,,Gah!
-Dialogue: 0,0:13:35.36,0:13:38.28,Dubtitles,,0,0,0,,Gah! Gah! Gah! Gah!
-Dialogue: 0,0:13:39.32,0:13:40.15,Dubtitles,,0,0,0,,Gah!
-Dialogue: 0,0:13:42.52,0:13:43.35,Dubtitles,,0,0,0,,Gah!
-Dialogue: 0,0:13:50.66,0:13:52.00,Dubtitles,,0,0,0,,SEASUR, TAKE THIS!
-Dialogue: 0,0:13:52.86,0:13:53.69,Dubtitles,,0,0,0,,ABOLUNCHE!
+Dialogue: 0,0:13:12.26,0:13:16.54,Dubtitles,,0,0,0,,frighten you, you see, JoJo.\NYour uncontrolled emotions
+Dialogue: 0,0:13:16.62,0:13:19.60,Dubtitles,,0,0,0,,caused you to attack me\Nrecklessly and too soon
+Dialogue: 0,0:13:20.38,0:13:23.38,Dubtitles,,0,0,0,,My veins will inject\Nboiling blood into your
+Dialogue: 0,0:13:23.46,0:13:27.78,Dubtitles,,0,0,0,,skull and then turn your\Nbrain into a nice red stew
+Dialogue: 0,0:13:28.64,0:13:32.10,Dubtitles,,0,0,0,,This is the reason that I\Nam called the Burning King.
+Dialogue: 0,0:13:41.46,0:13:42.29,Dubtitles,,0,0,0,,Jojo.
+Dialogue: 0,0:13:50.26,0:13:52.04,Dubtitles,,0,0,0,,Caesar, take this!
+Dialogue: 0,0:13:52.24,0:13:53.26,Dubtitles,,0,0,0,,Double launcher!
 Dialogue: 1,0:13:53.60,0:13:53.65,SFXBubble - Copy,8.1,0,0,0,,{=33}{\blur5\bord15.46\fscx223.24\fscy171.72\alpha&H80&\frz346.8\pos(1744.19,650.95)\c&HBFD2C0&\3c&HAFB7B5&}Pow
 Dialogue: 2,0:13:53.60,0:13:53.65,SFXBubble - Copy,8.1,0,0,0,,{=33}{\blur0.8\bord15.46\fscx223.24\fscy171.72\alpha&H00&\frz346.8\pos(1744.19,650.95)\3c&HAFB7B5&\c&HAFB7B5&}Pow
 Dialogue: 3,0:13:53.60,0:13:53.65,SFXBubble - Copy,8.1,0,0,0,,{=33}{\blur0.8\bord0\fscx223.24\fscy171.72\alpha&H00&\frz346.8\pos(1744.19,650.95)\c&HBFD2C0&\4a&HFF&}Pow
@@ -1124,58 +1097,55 @@ Dialogue: 3,0:13:55.27,0:13:55.31,SFXBubble - Copy,8.1,0,0,0,,{=33}{\blur0.8\bor
 Dialogue: 1,0:13:55.27,0:13:55.31,SFXBubble,8.2,0,0,0,,{=34}{\blur7\bord9.54\fscx124\fscy95.38\alpha&H80&\pos(843.72,149.44)\frz35.9}B{*\c&HD87162&}a{*\c&HC2AC47&}n{\c&HADE72B&}g
 Dialogue: 2,0:13:55.27,0:13:55.31,SFXBubble,8.2,0,0,0,,{=34}{\blur0.8\bord9.54\fscx124\fscy95.38\alpha&H00&\pos(843.72,149.44)\frz35.9\c&H071E22&}Bang
 Dialogue: 3,0:13:55.27,0:13:55.31,SFXBubble,8.2,0,0,0,,{=34}{\blur0.8\bord0\fscx124\fscy95.38\alpha&H00&\pos(843.72,149.44)\frz35.9\4a&HFF&}B{*\c&HD87162&}a{*\c&HC2AC47&}n{\c&HADE72B&}g
-Dialogue: 0,0:13:59.92,0:14:00.75,Dubtitles,,0,0,0,,SEASUR, STOP!
-Dialogue: 0,0:14:00.90,0:14:01.90,Dubtitles,,0,0,0,,Hold your attack!
-Dialogue: 0,0:14:02.84,0:14:06.56,Dubtitles,,0,0,0,,If we continue this contest,\None or both of us will die.
-Dialogue: 0,0:14:07.00,0:14:10.82,Dubtitles,,0,0,0,,And much as my ego doesn't want\Nto admit it, I'd be the loser.
-Dialogue: 0,0:14:11.38,0:14:15.24,Dubtitles,,0,0,0,,For nearly ten years more than\Nyou, I've been in preparation here.
-Dialogue: 0,0:14:15.32,0:14:18.06,Dubtitles,,0,0,0,,But today, your hormone\Nattack was so focused,
-Dialogue: 0,0:14:18.22,0:14:20.87,Dubtitles,,0,0,0,,you were able to burn\Nthe hair off of my arm.
-Dialogue: 0,0:14:21.32,0:14:24.44,Dubtitles,,0,0,0,,What else can I do after\Nbeing shamed like this?
-Dialogue: 0,0:14:25.04,0:14:28.74,Dubtitles,,0,0,0,,You have passed your final\Nexam with flying colors.
-Dialogue: 0,0:14:41.30,0:14:43.68,Dubtitles,,0,0,0,,You should feel a sense of pride for this.
-Dialogue: 0,0:14:43.76,0:14:48.02,Dubtitles,,0,0,0,,Or are you more interested in how your\Ngood-for-nothing friend is doing in his exam,
+Dialogue: 0,0:13:59.82,0:14:01.66,Dubtitles,,0,0,0,,Caesar, stop! Hold your attack!
+Dialogue: 0,0:14:02.86,0:14:06.56,Dubtitles,,0,0,0,,If we continue this contest,\None or both of us will die.
+Dialogue: 0,0:14:07.20,0:14:10.85,Dubtitles,,0,0,0,,And much as my ego doesn't want\Nto admit it, I'd be the loser.
+Dialogue: 0,0:14:11.40,0:14:15.02,Dubtitles,,0,0,0,,For nearly ten years more than\Nyou, I've been in preparation here.
+Dialogue: 0,0:14:15.10,0:14:17.98,Dubtitles,,0,0,0,,But today your hormone\Nattack was so focused
+Dialogue: 0,0:14:18.06,0:14:20.71,Dubtitles,,0,0,0,,you were able to burn\Nthe hair off of my arm.
+Dialogue: 0,0:14:21.26,0:14:24.46,Dubtitles,,0,0,0,,What else can I do after\Nbeing shamed like this?
+Dialogue: 0,0:14:25.00,0:14:28.74,Dubtitles,,0,0,0,,You have passed your final\Nexam with flying colors.
+Dialogue: 0,0:14:41.24,0:14:43.52,Dubtitles,,0,0,0,,You should feel a sense of pride for this.
+Dialogue: 0,0:14:43.60,0:14:48.02,Dubtitles,,0,0,0,,Or are you more interested in how your\Ngood-for-nothing friend is doing in his exam,
 Dialogue: 0,0:14:48.10,0:14:48.93,Dubtitles,,0,0,0,,Caesar?
-Dialogue: 0,0:14:50.60,0:14:53.26,Dubtitles,,0,0,0,,The only reason I had\Nthe power I did in this
-Dialogue: 0,0:14:53.34,0:14:56.62,Dubtitles,,0,0,0,,training is that I wanted\Nto match Jojo's talents.
-Dialogue: 0,0:14:57.24,0:15:01.80,Dubtitles,,0,0,0,,In the end, we're both going to survive\Nthe trials being presented to us.
+Dialogue: 0,0:14:50.58,0:14:53.26,Dubtitles,,0,0,0,,The only reason I had\Nthe power I did in this
+Dialogue: 0,0:14:53.34,0:14:56.64,Dubtitles,,0,0,0,,training is that I wanted\Nto match Jojo's talents.
+Dialogue: 0,0:14:57.24,0:15:01.82,Dubtitles,,0,0,0,,In the end, we're both going to survive\Nthe trials being presented to us.
 Dialogue: 0,0:15:02.16,0:15:03.48,Dubtitles,,0,0,0,,I can't deny it.
 Dialogue: 0,0:15:03.70,0:15:05.70,Dubtitles,,0,0,0,,Jojo seems lazy and impudent.
 Dialogue: 0,0:15:06.46,0:15:09.11,Dubtitles,,0,0,0,,But deep down, he's\Nworth having as a friend.
-Dialogue: 0,0:15:10.00,0:15:12.90,Dubtitles,,0,0,0,,You're not so good at making\Nfriends for yourself, are you?
-Dialogue: 0,0:15:12.98,0:15:15.45,Dubtitles,,0,0,0,,But when you do, it's true love, isn't it?
-Dialogue: 0,0:15:16.76,0:15:17.60,Dubtitles,,0,0,0,,Look there!
-Dialogue: 0,0:15:19.52,0:15:20.36,Dubtitles,,0,0,0,,It's in easy!
-Dialogue: 0,0:15:21.38,0:15:22.21,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:15:22.29,0:15:24.78,Dubtitles,,0,0,0,,And there's another of those\Nclever dodges of yours.
-Dialogue: 0,0:15:24.86,0:15:25.69,Dubtitles,,0,0,0,,All right.
-Dialogue: 0,0:15:25.84,0:15:28.92,Dubtitles,,0,0,0,,The mask gave me some\Nprotection that time, but...
-Dialogue: 0,0:15:36.14,0:15:37.78,Dubtitles,,0,0,0,,Ah, damn him and his blood!
-Dialogue: 0,0:15:42.18,0:15:43.30,Dubtitles,,0,0,0,,Man, oh man,
-Dialogue: 0,0:15:43.50,0:15:45.36,Dubtitles,,0,0,0,,I finally have the chance for these sexy
-Dialogue: 0,0:15:45.44,0:15:47.64,Dubtitles,,0,0,0,,lips to come out from\Nunder that rotten mask.
-Dialogue: 0,0:15:47.72,0:15:51.13,Dubtitles,,0,0,0,,And the first thing you do,\Nyou bastard, is burn them off!
-Dialogue: 0,0:15:51.72,0:15:53.80,Dubtitles,,0,0,0,,Jojo, hmm, let's see.
-Dialogue: 0,0:15:53.88,0:15:56.02,Dubtitles,,0,0,0,,On the surface you make witty banter.
-Dialogue: 0,0:15:56.10,0:16:00.16,Dubtitles,,0,0,0,,But inside your head you're making\Nall sorts of plans, aren't you?
-Dialogue: 0,0:16:00.96,0:16:04.42,Dubtitles,,0,0,0,,You went pale, Jojo. Did I hit the mark?
-Dialogue: 0,0:16:04.58,0:16:07.24,Dubtitles,,0,0,0,,Was I anywhere close to the bullseye?
-Dialogue: 0,0:16:12.20,0:16:14.28,Dubtitles,,0,0,0,,My next plan...
+Dialogue: 0,0:15:09.96,0:15:12.72,Dubtitles,,0,0,0,,You're not so good at making\Nfriends for yourself, are you?
+Dialogue: 0,0:15:12.80,0:15:15.38,Dubtitles,,0,0,0,,But when you do, it's true love, isn't it?
+Dialogue: 0,0:15:16.74,0:15:17.58,Dubtitles,,0,0,0,,Look there!
+Dialogue: 0,0:15:19.52,0:15:20.35,Dubtitles,,0,0,0,,It's AC/DC!
+Dialogue: 0,0:15:21.54,0:15:24.60,Dubtitles,,0,0,0,,And there's another of those\Nclever dodges of yours.
+Dialogue: 0,0:15:24.90,0:15:25.73,Dubtitles,,0,0,0,,All right.
+Dialogue: 0,0:15:25.86,0:15:28.96,Dubtitles,,0,0,0,,The mask gave me some\Nprotection that time, but...
+Dialogue: 0,0:15:36.16,0:15:37.82,Dubtitles,,0,0,0,,Oh, damn him and his blood!
+Dialogue: 0,0:15:42.08,0:15:43.28,Dubtitles,,0,0,0,,Man, oh man,
+Dialogue: 0,0:15:43.52,0:15:46.16,Dubtitles,,0,0,0,,I finally have the chance for\Nthese sexy lips to come out
+Dialogue: 0,0:15:46.24,0:15:49.26,Dubtitles,,0,0,0,,from under that rotten mask\NAnd the first thing you do,
+Dialogue: 0,0:15:49.34,0:15:51.05,Dubtitles,,0,0,0,,you bastard, is burn them off
+Dialogue: 0,0:15:51.68,0:15:52.84,Dubtitles,,0,0,0,,Jojo, hmm,
+Dialogue: 0,0:15:53.30,0:15:56.66,Dubtitles,,0,0,0,,let's see On the surface\Nyou make witty banter But
+Dialogue: 0,0:15:56.74,0:15:59.58,Dubtitles,,0,0,0,,inside your head you're\Nmaking all sorts of plans,
+Dialogue: 0,0:15:59.66,0:16:00.49,Dubtitles,,0,0,0,,aren't you?
+Dialogue: 0,0:16:00.94,0:16:04.42,Dubtitles,,0,0,0,,You went pale, Jojo. Did I hit the mark?
+Dialogue: 0,0:16:04.58,0:16:07.08,Dubtitles,,0,0,0,,Was I anywhere close to the bullseye?
+Dialogue: 0,0:16:12.18,0:16:14.60,Dubtitles,,0,0,0,,My next plan...
 Dialogue: 0,0:16:15.24,0:16:17.92,Dubtitles,,0,0,0,,Right, yes, I'll use the string.
-Dialogue: 0,0:16:18.28,0:16:20.80,Dubtitles,,0,0,0,,I'll act like I'm dodging\Nto get away from him,
-Dialogue: 0,0:16:20.88,0:16:25.14,Dubtitles,,0,0,0,,but all the time I'll be running a string\Nalong these spikes with each move I make.
-Dialogue: 0,0:16:25.22,0:16:26.76,Dubtitles,,0,0,0,,I can't let him catch on.
-Dialogue: 0,0:16:27.02,0:16:28.90,Dubtitles,,0,0,0,,Once he steps inside the string,
-Dialogue: 0,0:16:28.98,0:16:32.63,Dubtitles,,0,0,0,,I'll wrap him up in it, then use\Nmy hormone to finish him off.
-Dialogue: 0,0:16:40.02,0:16:41.98,Dubtitles,,0,0,0,,That laugh means trouble.
-Dialogue: 0,0:16:42.86,0:16:44.76,Dubtitles,,0,0,0,,Could he be reading my plan?
-Dialogue: 0,0:16:44.92,0:16:45.76,Dubtitles,,0,0,0,,My intentions?
-Dialogue: 0,0:16:46.90,0:16:48.50,Dubtitles,,0,0,0,,No, it's impossible.
-Dialogue: 0,0:16:58.76,0:17:01.42,Dubtitles,,0,0,0,,Here is the Burning King's prison!
-Dialogue: 0,0:17:03.84,0:17:07.96,Dubtitles,,0,0,0,,How long can you possibly keep\Navoiding my attacks, Jojo?
-Dialogue: 0,0:17:10.82,0:17:12.88,Dubtitles,,0,0,0,,So I guess you finally noticed.
-Dialogue: 0,0:17:13.24,0:17:16.24,Dubtitles,,0,0,0,,Now what possible reason\Nwould my hat be shrieking?
-Dialogue: 0,0:17:16.80,0:17:18.88,Dubtitles,,0,0,0,,You appear to be caught in my well.
+Dialogue: 0,0:16:18.30,0:16:20.78,Dubtitles,,0,0,0,,I'll act like I'm dodging\Nto get away from him,
+Dialogue: 0,0:16:20.86,0:16:25.16,Dubtitles,,0,0,0,,but all the time I'll be running a string\Nalong these spikes with each move I make.
+Dialogue: 0,0:16:25.24,0:16:26.76,Dubtitles,,0,0,0,,I can't let him catch on.
+Dialogue: 0,0:16:27.00,0:16:28.88,Dubtitles,,0,0,0,,Once he steps inside the string,
+Dialogue: 0,0:16:28.98,0:16:32.63,Dubtitles,,0,0,0,,I'll wrap him up in it, then\Nuse my Hamon to finish him off.
+Dialogue: 0,0:16:39.94,0:16:45.76,Dubtitles,,0,0,0,,That laugh means trouble!\NCould he be reading my plan?!
+Dialogue: 0,0:16:46.82,0:16:48.50,Dubtitles,,0,0,0,,No, it's impossible
+Dialogue: 0,0:16:58.18,0:17:01.44,Dubtitles,,0,0,0,,Here is the burning king's prison
+Dialogue: 0,0:17:03.98,0:17:07.94,Dubtitles,,0,0,0,,How long can you possibly keep\Navoiding my attacks, Jojo?
+Dialogue: 0,0:17:10.70,0:17:12.88,Dubtitles,,0,0,0,,So I guess you finally noticed.
+Dialogue: 0,0:17:13.24,0:17:16.24,Dubtitles,,0,0,0,,Now what possible reason\Nwould my hat be shrinking?
+Dialogue: 0,0:17:16.68,0:17:18.88,Dubtitles,,0,0,0,,You appear to be caught in my well.
 Dialogue: 1,0:17:18.68,0:17:18.73,SFXFire,9,0,0,0,,{=35}{\bord16.87\fscx313.38\fscy241.06\alpha&H99&\frz27.75\pos(1146.71,-28.57)\blur7\c&H202D5E&}Bam {This looks weird to me}
 Dialogue: 2,0:17:18.68,0:17:18.73,SFXFire,9,0,0,0,,{=35}{\bord0\fscx313.38\fscy241.06\alpha&H99&\frz27.75\pos(1146.71,-28.57)\blur7\4a&HFF&}Bam {This looks weird to me}
 Dialogue: 1,0:17:18.73,0:17:18.77,SFXFire,9,0,0,0,,{=35}{\bord13.76\fscx255.62\fscy196.63\alpha&H99&\frz27.75\pos(1113.18,166.71)\blur5\c&H202D5E&}Bam {This looks weird to me}
@@ -1261,65 +1231,67 @@ Dialogue: 3,0:17:19.81,0:17:19.85,SFXFire,9,0,0,0,,{=35}{\blur1.1\bord0\fscx127.
 Dialogue: 1,0:17:19.85,0:17:19.89,SFXFire,9,0,0,0,,{=35}{\blur8\bord7\fscx130\fscy100\alpha&H80&\frz27.75\pos(973,360.8)\3c&H8FB2D0&}Bam {This looks weird to me}
 Dialogue: 2,0:17:19.85,0:17:19.89,SFXFire,9,0,0,0,,{=35}{\blur1.1\bord7\fscx130\fscy100\alpha&H00&\frz27.75\pos(973,360.8)\c&H202D5E&}Bam {This looks weird to me}
 Dialogue: 3,0:17:19.85,0:17:19.89,SFXFire,9,0,0,0,,{=35}{\blur1.1\bord0\fscx130\fscy100\alpha&H00&\frz27.75\pos(973,360.8)\4a&HFF&}Bam {This looks weird to me}
-Dialogue: 0,0:17:20.16,0:17:22.66,Dubtitles,,0,0,0,,My hat is made of 100 % wool.
+Dialogue: 0,0:17:20.04,0:17:22.66,Dubtitles,,0,0,0,,My hat is made of 100 % wool.
 Dialogue: 0,0:17:22.96,0:17:24.67,Dubtitles,,0,0,0,,It conducts harmon very well.
-Dialogue: 0,0:17:25.68,0:17:26.51,Dubtitles,,0,0,0,,And...
-Dialogue: 0,0:17:26.59,0:17:27.72,Dubtitles,,0,0,0,,You're smiling again.
+Dialogue: 0,0:17:25.56,0:17:26.39,Dubtitles,,0,0,0,,And...
+Dialogue: 0,0:17:26.47,0:17:27.72,Dubtitles,,0,0,0,,You're smiling again.
 Dialogue: 0,0:17:27.80,0:17:28.72,Dubtitles,,0,0,0,,I don't like it.
-Dialogue: 0,0:17:28.80,0:17:30.64,Dubtitles,,0,0,0,,What are you laughing about this time?
-Dialogue: 0,0:17:30.72,0:17:32.56,Dubtitles,,0,0,0,,The next words from your mouth are,
+Dialogue: 0,0:17:28.80,0:17:30.50,Dubtitles,,0,0,0,,What are you laughing about this time?
+Dialogue: 0,0:17:30.58,0:17:32.56,Dubtitles,,0,0,0,,The next words from your mouth are,
 Dialogue: 0,0:17:32.64,0:17:35.50,Dubtitles,,0,0,0,,I'm going to knock that\Nsmirk right off of your face.
 Dialogue: 0,0:17:35.58,0:17:36.41,Dubtitles,,0,0,0,,Watch.
-Dialogue: 0,0:17:36.49,0:17:39.02,Dubtitles,,0,0,0,,I'm going to knock that\Nsmirk right off your face!
-Dialogue: 0,0:17:39.48,0:17:41.40,Dubtitles,,0,0,0,,Wait a second, you can't do that!
-Dialogue: 0,0:17:41.48,0:17:42.44,Dubtitles,,0,0,0,,That's my trick!
-Dialogue: 0,0:17:42.78,0:17:44.22,Dubtitles,,0,0,0,,You said you had a web?
-Dialogue: 0,0:17:44.50,0:17:47.36,Dubtitles,,0,0,0,,Look around, I am the one with the web.
-Dialogue: 0,0:17:49.12,0:17:53.71,Dubtitles,,0,0,0,,I knew exactly what you had in mind with\Nyour little plan even before you did.
-Dialogue: 0,0:17:55.78,0:17:58.96,Dubtitles,,0,0,0,,So, Jojo, what was that\Nphrase you said earlier?
-Dialogue: 0,0:17:59.32,0:18:04.26,Dubtitles,,0,0,0,,Something like victory is decided before\Nthe battle is fought, was that what it was?
-Dialogue: 0,0:18:09.90,0:18:12.70,Dubtitles,,0,0,0,,How incredibly true were\Nthe words you spoke.
-Dialogue: 0,0:18:13.90,0:18:16.52,Dubtitles,,0,0,0,,But my plans were the ones to go deeper.
-Dialogue: 0,0:18:16.84,0:18:19.58,Dubtitles,,0,0,0,,My plans were the ones to decide victory.
-Dialogue: 0,0:18:20.20,0:18:23.96,Dubtitles,,0,0,0,,It looks like my veins have created\Nsome little holes on your body.
-Dialogue: 0,0:18:24.04,0:18:27.96,Dubtitles,,0,0,0,,So now I'll fill every one of them\Nwith a generous portion of my boiling,
-Dialogue: 0,0:18:28.04,0:18:28.87,Dubtitles,,0,0,0,,burning blood.
-Dialogue: 0,0:18:29.12,0:18:32.48,Dubtitles,,0,0,0,,You'll look like a lovely birthday\Ncake covered in candles flickering?
-Dialogue: 0,0:18:32.56,0:18:34.62,Dubtitles,,0,0,0,,with their merry little red flames.
-Dialogue: 0,0:18:35.08,0:18:36.55,Dubtitles,,0,0,0,,He's on the knife's edge.
-Dialogue: 0,0:18:37.10,0:18:39.26,Dubtitles,,0,0,0,,He's not going to make it. Caesar!
-Dialogue: 0,0:18:40.74,0:18:45.00,Dubtitles,,0,0,0,,Judging from what I can see, we have\Nto assume that Logs has been killed.
+Dialogue: 0,0:17:36.49,0:17:39.04,Dubtitles,,0,0,0,,I'm going to knock that\Nsmirk right off your face!
+Dialogue: 0,0:17:39.54,0:17:41.42,Dubtitles,,0,0,0,,Wait a second, you can't do that!
+Dialogue: 0,0:17:41.50,0:17:42.44,Dubtitles,,0,0,0,,That's my trick!
+Dialogue: 0,0:17:42.78,0:17:45.30,Dubtitles,,0,0,0,,You said you had a web? Look around.
+Dialogue: 0,0:17:45.72,0:17:47.36,Dubtitles,,0,0,0,,I am the one with the web.
+Dialogue: 0,0:17:49.20,0:17:53.79,Dubtitles,,0,0,0,,I knew exactly what you had in mind with\Nyour little plan even before you did.
+Dialogue: 0,0:17:55.86,0:17:58.88,Dubtitles,,0,0,0,,So, Jojo, what was that\Nphrase you said earlier?
+Dialogue: 0,0:17:58.96,0:18:02.58,Dubtitles,,0,0,0,,Something like victory is decided\Nbefore the battle is fought.
+Dialogue: 0,0:18:02.66,0:18:03.82,Dubtitles,,0,0,0,,Was that what it was?
+Dialogue: 0,0:18:03.90,0:18:05.36,Dubtitles,,0,0,0,,It's true. True.
+Dialogue: 0,0:18:09.80,0:18:12.70,Dubtitles,,0,0,0,,How incredibly true were\Nthe words you spoke.
+Dialogue: 0,0:18:13.86,0:18:16.52,Dubtitles,,0,0,0,,But my plans were the ones to go deeper.
+Dialogue: 0,0:18:16.88,0:18:19.54,Dubtitles,,0,0,0,,My plans were the ones to decide victory.
+Dialogue: 0,0:18:20.16,0:18:23.96,Dubtitles,,0,0,0,,It looks like my veins have created\Nsome little holes on your body.
+Dialogue: 0,0:18:24.04,0:18:27.90,Dubtitles,,0,0,0,,So now I fill every one of them with\Na generous portion of my boiling,
+Dialogue: 0,0:18:27.98,0:18:28.81,Dubtitles,,0,0,0,,burning blood.
+Dialogue: 0,0:18:28.96,0:18:31.50,Dubtitles,,0,0,0,,You'll look like a lovely\Nbirthday cake covered in
+Dialogue: 0,0:18:31.58,0:18:34.76,Dubtitles,,0,0,0,,candles flickering with their\Nmerry little red flames.
+Dialogue: 0,0:18:35.12,0:18:36.59,Dubtitles,,0,0,0,,He's on the knife's edge!
+Dialogue: 0,0:18:37.14,0:18:39.24,Dubtitles,,0,0,0,,He's not going to make it! Caesar!
+Dialogue: 0,0:18:40.72,0:18:45.00,Dubtitles,,0,0,0,,Judging from what I can see, we have\Nto assume that Logs has been killed.
 Dialogue: 0,0:18:45.08,0:18:50.42,Dubtitles,,0,0,0,,If Jojo is not the one to survive, we will\Nbe the ones AC/DC will come after next.
-Dialogue: 0,0:18:51.40,0:18:54.64,Dubtitles,,0,0,0,,Jojo is too far away for us\Nto be able to help him now.
-Dialogue: 0,0:18:55.04,0:18:56.36,Dubtitles,,0,0,0,,I know it's painful,
-Dialogue: 0,0:18:56.58,0:19:00.46,Dubtitles,,0,0,0,,but right now we have to think about\Nprotecting Lisa Lisa and the Red Stone.
-Dialogue: 0,0:19:00.54,0:19:02.72,Dubtitles,,0,0,0,,So come, let's make our preparations.
-Dialogue: 0,0:19:05.24,0:19:06.07,Dubtitles,,0,0,0,,Jojo...
-Dialogue: 0,0:19:08.72,0:19:12.94,Dubtitles,,0,0,0,,Let me hear your screams as you twitch\Nand writhe in despair and agony,
-Dialogue: 0,0:19:13.16,0:19:15.18,Dubtitles,,0,0,0,,knowing that you lost today, Jojo!
-Dialogue: 0,0:19:25.52,0:19:29.70,Dubtitles,,0,0,0,,Are you really laughing as I'm about\Nto deal you an excruciating death?
-Dialogue: 0,0:19:30.22,0:19:33.22,Dubtitles,,0,0,0,,Have you been driven\Ncompletely insane by the fear?
-Dialogue: 0,0:19:34.10,0:19:35.34,Dubtitles,,0,0,0,,Well, let's see here.
-Dialogue: 0,0:19:35.42,0:19:38.78,Dubtitles,,0,0,0,,You'll notice my arms are\Nfolded and my eyes are closed.
-Dialogue: 0,0:19:38.94,0:19:40.88,Dubtitles,,0,0,0,,so this laugh would be one of victory.
-Dialogue: 0,0:19:40.96,0:19:41.79,Dubtitles,,0,0,0,,AC/DC,
-Dialogue: 0,0:19:41.87,0:19:45.16,Dubtitles,,0,0,0,,you're the loser here today\Nbecause for the last 2,000 years,
-Dialogue: 0,0:19:45.24,0:19:46.82,Dubtitles,,0,0,0,,you have been asleep at the wheel.
-Dialogue: 0,0:19:46.90,0:19:47.73,Dubtitles,,0,0,0,,I lost?
-Dialogue: 0,0:19:48.04,0:19:50.38,Dubtitles,,0,0,0,,What do you mean by that? Oh, really?
-Dialogue: 0,0:19:50.60,0:19:51.66,Dubtitles,,0,0,0,,You don't get it?
-Dialogue: 0,0:19:51.82,0:19:54.62,Dubtitles,,0,0,0,,You can't read me as clearly\Nas you thought you could.
-Dialogue: 0,0:19:54.70,0:19:58.48,Dubtitles,,0,0,0,,Let me help you understand just\Nhow badly you've underestimated me.
-Dialogue: 0,0:19:58.56,0:20:00.62,Dubtitles,,0,0,0,,You said that your plans went deep.
+Dialogue: 0,0:18:51.36,0:18:54.44,Dubtitles,,0,0,0,,Jojo is too far away for us\Nto be able to help him now.
+Dialogue: 0,0:18:54.52,0:18:56.38,Dubtitles,,0,0,0,,I know it's painful,
+Dialogue: 0,0:18:56.58,0:18:58.74,Dubtitles,,0,0,0,,but right now we have to\Nthink about protecting Lisa
+Dialogue: 0,0:18:58.82,0:19:02.62,Dubtitles,,0,0,0,,Lisa and the red stone So come\Nlet's make our preparations
+Dialogue: 0,0:19:04.76,0:19:05.59,Dubtitles,,0,0,0,,Jojo
+Dialogue: 0,0:19:08.52,0:19:11.66,Dubtitles,,0,0,0,,Let me hear your screams\Nas you twitch and writhe
+Dialogue: 0,0:19:11.74,0:19:15.28,Dubtitles,,0,0,0,,In despair and agony, knowing\Nthat you lost today, Jojo.
+Dialogue: 0,0:19:25.90,0:19:30.08,Dubtitles,,0,0,0,,Are you really laughing as I'm about\Nto deal you an excruciating death?
+Dialogue: 0,0:19:30.26,0:19:33.26,Dubtitles,,0,0,0,,Have you been driven\Ncompletely insane by the fear?
+Dialogue: 0,0:19:34.14,0:19:35.40,Dubtitles,,0,0,0,,Well, let's see here.
+Dialogue: 0,0:19:35.72,0:19:38.84,Dubtitles,,0,0,0,,You'll notice my arms are\Nfolded and my eyes are closed.
+Dialogue: 0,0:19:38.92,0:19:40.92,Dubtitles,,0,0,0,,so this laugh would be one of victory.
+Dialogue: 0,0:19:41.00,0:19:41.83,Dubtitles,,0,0,0,,AC/DC,
+Dialogue: 0,0:19:41.91,0:19:45.14,Dubtitles,,0,0,0,,you're the loser here today\Nbecause for the last 2,000 years,
+Dialogue: 0,0:19:45.22,0:19:46.86,Dubtitles,,0,0,0,,you have been asleep at the wheel.
+Dialogue: 0,0:19:46.94,0:19:47.77,Dubtitles,,0,0,0,,I lost?
+Dialogue: 0,0:19:48.08,0:19:50.38,Dubtitles,,0,0,0,,What do you mean by that? Oh, really?
+Dialogue: 0,0:19:50.60,0:19:51.68,Dubtitles,,0,0,0,,You don't get it?
+Dialogue: 0,0:19:51.82,0:19:54.44,Dubtitles,,0,0,0,,You can't read me as clearly\Nas you thought you could.
+Dialogue: 0,0:19:54.52,0:19:58.46,Dubtitles,,0,0,0,,Let me help you understand just\Nhow badly you've underestimated me.
+Dialogue: 0,0:19:58.54,0:20:00.60,Dubtitles,,0,0,0,,You said that your plans went deep.
 Dialogue: 0,0:20:00.82,0:20:03.41,Dubtitles,,0,0,0,,Well, they didn't go\Nnearly as deep as mine.
-Dialogue: 0,0:20:05.42,0:20:10.36,Dubtitles,,0,0,0,,While you were snoozing for the past\N2,000 years, humans have progressed.
-Dialogue: 0,0:20:10.78,0:20:13.20,Dubtitles,,0,0,0,,During the 18th and 19th centuries,
-Dialogue: 0,0:20:13.62,0:20:18.36,Dubtitles,,0,0,0,,leisure de main, or sleight of hand, became\Na very popular form of entertainment.
-Dialogue: 0,0:20:18.44,0:20:20.58,Dubtitles,,0,0,0,,I'm a really big fan of it myself.
-Dialogue: 0,0:20:21.46,0:20:22.94,Dubtitles,,0,0,0,,Illusion is my thing!
-Dialogue: 0,0:20:23.42,0:20:25.30,Dubtitles,,0,0,0,,But I cut all those strings!
+Dialogue: 0,0:20:05.30,0:20:10.36,Dubtitles,,0,0,0,,While you were snoozing for the past\N2,000 years, humans have progressed.
+Dialogue: 0,0:20:11.12,0:20:13.20,Dubtitles,,0,0,0,,During the 18th and 19th centuries,
+Dialogue: 0,0:20:13.62,0:20:18.39,Dubtitles,,0,0,0,,leisure de main, or sleight of hand, became\Na very popular form of entertainment.
+Dialogue: 0,0:20:18.48,0:20:20.56,Dubtitles,,0,0,0,,I'm a really big fan of it myself.
+Dialogue: 0,0:20:21.48,0:20:22.86,Dubtitles,,0,0,0,,Illusion is my thing!
+Dialogue: 0,0:20:22.94,0:20:25.30,Dubtitles,,0,0,0,,But, I cut all those strings!
 Dialogue: 0,0:20:26.08,0:20:27.30,Dubtitles,,0,0,0,,I cut them!
-Dialogue: 0,0:20:27.62,0:20:28.58,Dubtitles,,0,0,0,,It can't be!
+Dialogue: 0,0:20:27.54,0:20:28.60,Dubtitles,,0,0,0,,It can't be!
 Dialogue: 1,0:20:29.04,0:20:29.08,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord17.02\fscx184.39\fscy141.84\alpha&H00&\frz32.83\pos(1491.94,175.25)\c&H281321&}Clench
 Dialogue: 2,0:20:29.04,0:20:29.08,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord0\fscx184.39\fscy141.84\alpha&H00&\frz32.83\pos(1491.94,175.25)\4a&HFF&}Clench
 Dialogue: 1,0:20:29.08,0:20:29.12,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord12.38\fscx134.13\fscy103.17\alpha&H00&\frz32.83\pos(1387.14,368.63)\c&H281321&}Clench
@@ -1382,16 +1354,17 @@ Dialogue: 1,0:20:30.25,0:20:30.29,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord11.59\f
 Dialogue: 2,0:20:30.25,0:20:30.29,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord0\fscx125.54\fscy96.57\alpha&H00&\frz32.83\pos(1378.6,383.89)\4a&HFF&}Clench
 Dialogue: 1,0:20:30.29,0:20:30.33,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord11.59\fscx125.54\fscy96.57\alpha&H00&\frz32.83\pos(1377.58,397.18)\c&H281321&}Clench
 Dialogue: 2,0:20:30.29,0:20:30.33,SFXPurple,10,0,0,0,,{=36}{\blur0.6\bord0\fscx125.54\fscy96.57\alpha&H00&\frz32.83\pos(1377.58,397.18)\4a&HFF&}Clench
-Dialogue: 0,0:20:30.38,0:20:32.22,Dubtitles,,0,0,0,,I'd say the rope magic works.
-Dialogue: 0,0:20:32.86,0:20:35.96,Dubtitles,,0,0,0,,I laid my trap carefully\Nso that even if the string
+Dialogue: 0,0:20:30.38,0:20:32.28,Dubtitles,,0,0,0,,I'd say the rope magic works.
+Dialogue: 0,0:20:32.98,0:20:36.56,Dubtitles,,0,0,0,,I laid my trap carefully so\Nthat even if the string was cut,
 Dialogue: 1,0:20:36.01,0:20:40.22,blueboxen,,0,0,0,,{\fad(470,0)\fscx(90)\an1\fs36\be3\bord0.5\pos(1205,624)}Even if these points are severed,
 Dialogue: 1,0:20:36.01,0:20:40.22,blueboxen,,0,0,0,,{\fad(470,0)\an1\fs36\be3\bord0.5\fscx90\pos(1205,736)}the white portions can pull
 Dialogue: 1,0:20:36.01,0:20:40.22,blueboxen,,0,0,0,,{\fad(470,0)\an1\fs36\be3\bord0.5\pos(1205,840)\fscx(90)}the whole string together.
-Dialogue: 0,0:20:36.04,0:20:39.80,Dubtitles,,0,0,0,,was cut it would still\Nfunction a simple trick.
-Dialogue: 0,0:20:43.76,0:20:47.04,Dubtitles,,0,0,0,,What you're going to say\Nnext is my veins will move
-Dialogue: 0,0:20:47.12,0:20:50.58,Dubtitles,,0,0,0,,faster than your pathetic\Nhormone can possibly go now!.
-Dialogue: 0,0:20:50.66,0:20:54.96,Dubtitles,,0,0,0,,My veins will move faster than your\Npathetic hormone could possibly go.
-Dialogue: 0,0:20:57.40,0:21:00.66,Dubtitles,,0,0,0,,Now feel the beat of\Nmy hormone overdrive?.
+Dialogue: 0,0:20:36.74,0:20:38.15,Dubtitles,,0,0,0,,it would still function.
+Dialogue: 0,0:20:38.40,0:20:39.80,Dubtitles,,0,0,0,,A simple trick.
+Dialogue: 0,0:20:43.72,0:20:45.74,Dubtitles,,0,0,0,,What you're going to say next is,
+Dialogue: 0,0:20:45.98,0:20:50.58,Dubtitles,,0,0,0,,my veins will move faster than your\Npathetic harmon can possibly go. Now!
+Dialogue: 0,0:20:50.66,0:20:54.92,Dubtitles,,0,0,0,,My veins will move faster than your\Npathetic hormone could possibly go!
+Dialogue: 0,0:20:57.30,0:21:00.66,Dubtitles,,0,0,0,,Now feel the beat of my hormone overdrive!
 Dialogue: 3,0:21:04.33,0:21:04.37,SFXYellow2,11,0,0,0,,{=37}{\blur10\bord14.12\fscx229.47\fscy176.51\alpha&H80&\pos(1463.66,902.24)\frz15.32\3c&H80CDE7&}Slice
 Dialogue: 4,0:21:04.33,0:21:04.37,SFXYellow2,11,0,0,0,,{=37}{\blur1.5\bord14.12\fscx229.47\fscy176.51\alpha&H00&\pos(1463.66,902.24)\frz15.32\c&H161D45&}Slice
 Dialogue: 5,0:21:04.33,0:21:04.37,SFXYellow2,11,0,0,0,,{=37}{\blur1.5\bord0\fscx229.47\fscy176.51\alpha&H00&\pos(1463.66,902.24)\frz15.32\4a&HFF&}Slice
@@ -1515,380 +1488,5 @@ Dialogue: 5,0:21:05.95,0:21:05.99,SFXYellow2,11,0,0,0,,{=37}{\blur1.5\bord0\fscx
 Dialogue: 3,0:21:05.99,0:21:06.04,SFXYellow2,11,0,0,0,,{=37}{\blur10\bord8.05\fscx130.83\fscy100.64\alpha&H80&\pos(1479.61,730.81)\frz15.32\3c&H80CDE7&}Slice
 Dialogue: 4,0:21:05.99,0:21:06.04,SFXYellow2,11,0,0,0,,{=37}{\blur1.5\bord8.05\fscx130.83\fscy100.64\alpha&H00&\pos(1479.61,730.81)\frz15.32\c&H161D45&}Slice
 Dialogue: 5,0:21:05.99,0:21:06.04,SFXYellow2,11,0,0,0,,{=37}{\blur1.5\bord0\fscx130.83\fscy100.64\alpha&H00&\pos(1479.61,730.81)\frz15.32\4a&HFF&}Slice
-Dialogue: 0,0:21:07.98,0:21:09.56,Dubtitles,,0,0,0,,I can't.
-Dialogue: 0,0:21:09.78,0:21:11.18,Dubtitles,,0,0,0,,I can't.
-Dialogue: 0,0:21:11.30,0:21:12.68,Dubtitles,,0,0,0,,You're only a human.
-Dialogue: 0,0:21:13.00,0:21:14.72,Dubtitles,,0,0,0,,I am the evolved one.
-Dialogue: 0,0:21:14.92,0:21:17.10,Dubtitles,,0,0,0,,The highest life form!
-Dialogue: 0,0:21:17.44,0:21:20.86,Dubtitles,,0,0,0,,I will not be beaten!
-Dialogue: 0,0:21:21.62,0:21:24.96,Dubtitles,,0,0,0,,Know that you pushed me too far!
-Dialogue: 1,0:21:25.56,0:21:25.60,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(174.6,736.8)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.56,0:21:25.60,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(174.6,736.8)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.56,0:21:25.60,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(174.6,736.8)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.60,0:21:25.64,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(183,560.6)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.60,0:21:25.64,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(183,560.6)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.60,0:21:25.64,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(183,560.6)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.64,0:21:25.68,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(178.72,505.46)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.64,0:21:25.68,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(178.72,505.46)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.64,0:21:25.68,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(178.72,505.46)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.68,0:21:25.72,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(167.61,502.89)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.68,0:21:25.72,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(167.61,502.89)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.68,0:21:25.72,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(167.61,502.89)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.72,0:21:25.76,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(166.75,521.7)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.72,0:21:25.76,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(166.75,521.7)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.72,0:21:25.76,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(166.75,521.7)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.76,0:21:25.81,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(180,654.64)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.76,0:21:25.81,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(180,654.64)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.76,0:21:25.81,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(180,654.64)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.81,0:21:25.85,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(170.6,675.58)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.81,0:21:25.85,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(170.6,675.58)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.81,0:21:25.85,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(170.6,675.58)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.85,0:21:25.89,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(165.04,654.64)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.85,0:21:25.89,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(165.04,654.64)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.85,0:21:25.89,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(165.04,654.64)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.89,0:21:25.93,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(171.45,582.83)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.89,0:21:25.93,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(171.45,582.83)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.89,0:21:25.93,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(171.45,582.83)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.93,0:21:25.97,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(173.16,557.61)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.93,0:21:25.97,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(173.16,557.61)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.93,0:21:25.97,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(173.16,557.61)\4a&HFF&}Whoom
-Dialogue: 1,0:21:25.97,0:21:26.01,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(177.01,409.71)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:25.97,0:21:26.01,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(177.01,409.71)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:25.97,0:21:26.01,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(177.01,409.71)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.01,0:21:26.06,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(187.7,674.73)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.01,0:21:26.06,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(187.7,674.73)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.01,0:21:26.06,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(187.7,674.73)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.06,0:21:26.10,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(189.41,767.06)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.06,0:21:26.10,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(189.41,767.06)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.06,0:21:26.10,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(189.41,767.06)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.10,0:21:26.14,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(183.85,646.52)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.10,0:21:26.14,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(183.85,646.52)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.10,0:21:26.14,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(183.85,646.52)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.14,0:21:26.18,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(182.57,736.71)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.14,0:21:26.18,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(182.57,736.71)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.14,0:21:26.18,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(182.57,736.71)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.18,0:21:26.22,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(194.54,525.55)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.18,0:21:26.22,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(194.54,525.55)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.18,0:21:26.22,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(194.54,525.55)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.22,0:21:26.26,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(187.7,558.46)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.22,0:21:26.26,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(187.7,558.46)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.22,0:21:26.26,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(187.7,558.46)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.26,0:21:26.31,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(180,760.22)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.26,0:21:26.31,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(180,760.22)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.26,0:21:26.31,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(180,760.22)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.31,0:21:26.35,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(184.71,736.71)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.31,0:21:26.35,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(184.71,736.71)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.31,0:21:26.35,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(184.71,736.71)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.35,0:21:26.39,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(189.41,567.44)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.35,0:21:26.39,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(189.41,567.44)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.35,0:21:26.39,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(189.41,567.44)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.39,0:21:26.43,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(185.99,645.66)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.39,0:21:26.43,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(185.99,645.66)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.39,0:21:26.43,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(185.99,645.66)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.43,0:21:26.47,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(206.51,630.28)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.43,0:21:26.47,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(206.51,630.28)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.43,0:21:26.47,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(206.51,630.28)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.47,0:21:26.52,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(186.84,681.57)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.47,0:21:26.52,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(186.84,681.57)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.47,0:21:26.52,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(186.84,681.57)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.52,0:21:26.56,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(185.13,438.35)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.52,0:21:26.56,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(185.13,438.35)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.52,0:21:26.56,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(185.13,438.35)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.56,0:21:26.60,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(176.16,589.24)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.56,0:21:26.60,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(176.16,589.24)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.56,0:21:26.60,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(176.16,589.24)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.60,0:21:26.64,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(183.42,477.67)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.60,0:21:26.64,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(183.42,477.67)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.60,0:21:26.64,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(183.42,477.67)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.64,0:21:26.68,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(179.58,687.98)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.64,0:21:26.68,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(179.58,687.98)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.64,0:21:26.68,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(179.58,687.98)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.68,0:21:26.72,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(200.95,606.77)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.68,0:21:26.72,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(200.95,606.77)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.68,0:21:26.72,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(200.95,606.77)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.72,0:21:26.77,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(183,754.24)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.72,0:21:26.77,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(183,754.24)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.72,0:21:26.77,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(183,754.24)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.77,0:21:26.81,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(192.4,790.14)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.77,0:21:26.81,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(192.4,790.14)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.77,0:21:26.81,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(192.4,790.14)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.81,0:21:26.85,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(192.4,496.48)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.81,0:21:26.85,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(192.4,496.48)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.81,0:21:26.85,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(192.4,496.48)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.85,0:21:26.89,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(206.51,604.63)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.85,0:21:26.89,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(206.51,604.63)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.85,0:21:26.89,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(206.51,604.63)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.89,0:21:26.93,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(197.53,775.61)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.89,0:21:26.93,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(197.53,775.61)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.89,0:21:26.93,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(197.53,775.61)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.93,0:21:26.97,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(203.51,673.88)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.93,0:21:26.97,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(203.51,673.88)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.93,0:21:26.97,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(203.51,673.88)\4a&HFF&}Whoom
-Dialogue: 1,0:21:26.97,0:21:27.02,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(214.2,534.95)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:26.97,0:21:27.02,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(214.2,534.95)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:26.97,0:21:27.02,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(214.2,534.95)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.02,0:21:27.06,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(203.09,472.12)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.02,0:21:27.06,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(203.09,472.12)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.02,0:21:27.06,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(203.09,472.12)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.06,0:21:27.10,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(190.69,527.69)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.06,0:21:27.10,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(190.69,527.69)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.06,0:21:27.10,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(190.69,527.69)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.10,0:21:27.14,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(191.12,552.05)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.10,0:21:27.14,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(191.12,552.05)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.10,0:21:27.14,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(191.12,552.05)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.14,0:21:27.18,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(188.13,461)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.14,0:21:27.18,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(188.13,461)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.14,0:21:27.18,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(188.13,461)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.18,0:21:27.22,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(180,623.86)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.18,0:21:27.22,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(180,623.86)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.18,0:21:27.22,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(180,623.86)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.22,0:21:27.27,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(182.57,580.69)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.22,0:21:27.27,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(182.57,580.69)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.22,0:21:27.27,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(182.57,580.69)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.27,0:21:27.31,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(176.58,580.26)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.27,0:21:27.31,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(176.58,580.26)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.27,0:21:27.31,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(176.58,580.26)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.31,0:21:27.35,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(191.97,582.4)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.31,0:21:27.35,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(191.97,582.4)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.31,0:21:27.35,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(191.97,582.4)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.35,0:21:27.39,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(200.52,563.16)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.35,0:21:27.39,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(200.52,563.16)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.35,0:21:27.39,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(200.52,563.16)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.39,0:21:27.43,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(215.06,378.08)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.39,0:21:27.43,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(215.06,378.08)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.39,0:21:27.43,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(215.06,378.08)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.43,0:21:27.47,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(215.48,764.5)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.43,0:21:27.47,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(215.48,764.5)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.43,0:21:27.47,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(215.48,764.5)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.47,0:21:27.52,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(213.35,514.01)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.47,0:21:27.52,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(213.35,514.01)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.47,0:21:27.52,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(213.35,514.01)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.52,0:21:27.56,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(222.75,675.16)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.52,0:21:27.56,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(222.75,675.16)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.52,0:21:27.56,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(222.75,675.16)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.56,0:21:27.60,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(223.6,494.34)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.56,0:21:27.60,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(223.6,494.34)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.56,0:21:27.60,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(223.6,494.34)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.60,0:21:27.64,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(220.18,518.71)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.60,0:21:27.64,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(220.18,518.71)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.60,0:21:27.64,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(220.18,518.71)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.64,0:21:27.68,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(218.47,682.42)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.64,0:21:27.68,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(218.47,682.42)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.64,0:21:27.68,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(218.47,682.42)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.68,0:21:27.72,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(230.44,458.86)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.68,0:21:27.72,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(230.44,458.86)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.68,0:21:27.72,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(230.44,458.86)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.72,0:21:27.77,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(227.45,626.85)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.72,0:21:27.77,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(227.45,626.85)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.72,0:21:27.77,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(227.45,626.85)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.77,0:21:27.81,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(226.6,549.06)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.77,0:21:27.81,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(226.6,549.06)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.77,0:21:27.81,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(226.6,549.06)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.81,0:21:27.85,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(208.22,405.01)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.81,0:21:27.85,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(208.22,405.01)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.81,0:21:27.85,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(208.22,405.01)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.85,0:21:27.89,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(220.18,746.54)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.85,0:21:27.89,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(220.18,746.54)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.85,0:21:27.89,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(220.18,746.54)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.89,0:21:27.93,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(217.62,451.17)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.89,0:21:27.93,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(217.62,451.17)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.89,0:21:27.93,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(217.62,451.17)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.93,0:21:27.97,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(242.41,716.62)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.93,0:21:27.97,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(242.41,716.62)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.93,0:21:27.97,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(242.41,716.62)\4a&HFF&}Whoom
-Dialogue: 1,0:21:27.97,0:21:28.02,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(238.99,649.51)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:27.97,0:21:28.02,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(238.99,649.51)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:27.97,0:21:28.02,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(238.99,649.51)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.02,0:21:28.06,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(233.86,534.53)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.02,0:21:28.06,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(233.86,534.53)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.02,0:21:28.06,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(233.86,534.53)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.06,0:21:28.10,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(194.54,531.11)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.06,0:21:28.10,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(194.54,531.11)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.06,0:21:28.10,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(194.54,531.11)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.10,0:21:28.14,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(202.66,582.4)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.10,0:21:28.14,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(202.66,582.4)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.10,0:21:28.14,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(202.66,582.4)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.14,0:21:28.18,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(205.65,736.28)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.14,0:21:28.18,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(205.65,736.28)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.14,0:21:28.18,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(205.65,736.28)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.18,0:21:28.23,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(216.77,565.3)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.18,0:21:28.23,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(216.77,565.3)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.18,0:21:28.23,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(216.77,565.3)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.23,0:21:28.27,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(216.77,603.77)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.23,0:21:28.27,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(216.77,603.77)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.23,0:21:28.27,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(216.77,603.77)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.27,0:21:28.31,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(218.47,761.93)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.27,0:21:28.31,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(218.47,761.93)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.27,0:21:28.31,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(218.47,761.93)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.31,0:21:28.35,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(223.18,746.12)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.31,0:21:28.35,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(223.18,746.12)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.31,0:21:28.35,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(223.18,746.12)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.35,0:21:28.39,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(227.02,769.2)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.35,0:21:28.39,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(227.02,769.2)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.35,0:21:28.39,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(227.02,769.2)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.39,0:21:28.43,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(227.88,702.52)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.39,0:21:28.43,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(227.88,702.52)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.39,0:21:28.43,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(227.88,702.52)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.43,0:21:28.48,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(243.27,431.51)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.43,0:21:28.48,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(243.27,431.51)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.43,0:21:28.48,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(243.27,431.51)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.48,0:21:28.52,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(250.11,524.27)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.48,0:21:28.52,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(250.11,524.27)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.48,0:21:28.52,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(250.11,524.27)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.52,0:21:28.56,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(251.39,386.2)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.52,0:21:28.56,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(251.39,386.2)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.52,0:21:28.56,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(251.39,386.2)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.56,0:21:28.60,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(244.98,680.71)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.56,0:21:28.60,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(244.98,680.71)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.56,0:21:28.60,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(244.98,680.71)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.60,0:21:28.64,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(233.44,550.34)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.60,0:21:28.64,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(233.44,550.34)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.60,0:21:28.64,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(233.44,550.34)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.64,0:21:28.68,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(223.6,500.33)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.64,0:21:28.68,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(223.6,500.33)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.64,0:21:28.68,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(223.6,500.33)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.68,0:21:28.73,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(232.15,528.97)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.68,0:21:28.73,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(232.15,528.97)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.68,0:21:28.73,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(232.15,528.97)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.73,0:21:28.77,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(230.87,437.92)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.73,0:21:28.77,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(230.87,437.92)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.73,0:21:28.77,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(230.87,437.92)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.77,0:21:28.81,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(231.3,466.13)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.77,0:21:28.81,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(231.3,466.13)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.77,0:21:28.81,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(231.3,466.13)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.81,0:21:28.85,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(231.73,568.72)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.81,0:21:28.85,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(231.73,568.72)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.81,0:21:28.85,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(231.73,568.72)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.85,0:21:28.89,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(226.6,679.86)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.85,0:21:28.89,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(226.6,679.86)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.85,0:21:28.89,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(226.6,679.86)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.89,0:21:28.93,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(239.85,608.9)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.89,0:21:28.93,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(239.85,608.9)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.89,0:21:28.93,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(239.85,608.9)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.93,0:21:28.98,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(240.28,736.71)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.93,0:21:28.98,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(240.28,736.71)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.93,0:21:28.98,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(240.28,736.71)\4a&HFF&}Whoom
-Dialogue: 1,0:21:28.98,0:21:29.02,SFXYellow3,12,0,0,0,,{=40}{\blur7\alpha&H80&\frz26.97\pos(245.41,549.49)\3c&H13DBFA&}Whoom
-Dialogue: 2,0:21:28.98,0:21:29.02,SFXYellow3,12,0,0,0,,{=40}{\blur1.3\alpha&H00&\frz26.97\pos(245.41,549.49)\c&H0D161E&}Whoom
-Dialogue: 3,0:21:28.98,0:21:29.02,SFXYellow3,12,0,0,0,,{=40}{\bord0\blur1.3\alpha&H00&\frz26.97\pos(245.41,549.49)\4a&HFF&}Whoom
-Dialogue: 0,0:21:35.02,0:21:38.08,Dubtitles,,0,0,0,,ACDC's body is shooting\Nsome kind of strange energy.
-Dialogue: 0,0:21:38.54,0:21:40.96,Dubtitles,,0,0,0,,That must come from living for millennia.
-Dialogue: 0,0:21:42.14,0:21:43.02,Dubtitles,,0,0,0,,Die already.
-Dialogue: 0,0:21:43.44,0:21:47.97,Dubtitles,,0,0,0,,Die with the power of life you stole\Nfrom thousands of innocent human beings.
-Dialogue: 0,0:21:50.26,0:21:53.82,Dubtitles,,0,0,0,,My instructor, I thank\Nyou for torturing me.
-Dialogue: 0,0:21:55.50,0:21:57.03,Dubtitles,,0,0,0,,Mille Crazy to you, Lord.
-Dialogue: 0,0:22:10.38,0:22:14.79,Dubtitles,,0,0,0,,When we defeated San Viento in the\Nwell, his entire body turned into stone.
-Dialogue: 0,0:22:15.44,0:22:18.36,Dubtitles,,0,0,0,,But even AC/DC's bones\Nwere completely destroyed.
-Dialogue: 0,0:22:18.70,0:22:20.16,Dubtitles,,0,0,0,,Why is he so different?
-Dialogue: 0,0:22:21.22,0:22:25.68,Dubtitles,,0,0,0,,Well, maybe it's because my harmon is\Nso much stronger than it was before.
-Dialogue: 0,0:22:26.28,0:22:30.75,Dubtitles,,0,0,0,,Well, he's dead now, and I have one of\Nthe antidotes I've been chasing down.
-Dialogue: 1,0:22:33.33,0:22:33.37,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&HFF&\frz8.075\pos(934.45,899.45)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.33,0:22:33.37,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&HFF&\frz8.075\pos(934.45,899.45)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.37,0:22:33.42,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&HEB&\frz8.075\pos(934.78,902.07)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.37,0:22:33.42,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&HEB&\frz8.075\pos(934.78,902.07)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.42,0:22:33.46,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&HD6&\frz8.075\pos(935.51,903.98)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.42,0:22:33.46,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&HD6&\frz8.075\pos(935.51,903.98)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.46,0:22:33.50,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&HC2&\frz8.075\pos(935.99,906.45)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.46,0:22:33.50,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&HC2&\frz8.075\pos(935.99,906.45)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.50,0:22:33.54,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&HAD&\frz8.075\pos(936.59,908.93)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.50,0:22:33.54,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&HAD&\frz8.075\pos(936.59,908.93)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.54,0:22:33.58,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H99&\frz8.075\pos(936.97,911.43)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.54,0:22:33.58,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H99&\frz8.075\pos(936.97,911.43)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.58,0:22:33.62,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H80&\frz8.075\pos(936.76,914.22)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.58,0:22:33.62,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H80&\frz8.075\pos(936.76,914.22)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.62,0:22:33.67,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H6B&\frz8.075\pos(937.16,916.73)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.62,0:22:33.67,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H6B&\frz8.075\pos(937.16,916.73)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.67,0:22:33.71,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H57&\frz8.075\pos(937.77,918.74)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.67,0:22:33.71,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H57&\frz8.075\pos(937.77,918.74)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.71,0:22:33.75,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H42&\frz8.075\pos(938.29,920.67)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.71,0:22:33.75,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H42&\frz8.075\pos(938.29,920.67)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.75,0:22:33.79,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H2E&\frz8.075\pos(938.66,922.61)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.75,0:22:33.79,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H2E&\frz8.075\pos(938.66,922.61)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.79,0:22:33.83,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H14&\frz8.075\pos(938.99,924.54)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.79,0:22:33.83,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H14&\frz8.075\pos(938.99,924.54)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.83,0:22:33.87,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.19,926.49)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.83,0:22:33.87,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.19,926.49)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.87,0:22:33.92,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.38,928.28)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.87,0:22:33.92,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.38,928.28)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.92,0:22:33.96,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.4,930.4)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.92,0:22:33.96,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.4,930.4)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:33.96,0:22:34.00,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.4,932.25)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:33.96,0:22:34.00,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.4,932.25)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.00,0:22:34.04,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.32,934.2)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.00,0:22:34.04,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.32,934.2)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.04,0:22:34.08,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.25,936.09)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.04,0:22:34.08,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.25,936.09)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.08,0:22:34.12,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(939.13,938.01)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.08,0:22:34.12,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(939.13,938.01)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.12,0:22:34.17,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(938.86,940.04)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.12,0:22:34.17,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(938.86,940.04)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.17,0:22:34.21,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(938.6,941.94)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.17,0:22:34.21,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(938.6,941.94)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.21,0:22:34.25,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(938.29,943.93)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.21,0:22:34.25,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(938.29,943.93)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.25,0:22:34.29,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(937.95,945.78)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.25,0:22:34.29,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(937.95,945.78)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 1,0:22:34.29,0:22:34.33,SFXWhite,13,0,0,0,,{=43}{\blur0.7\alpha&H00&\frz8.075\pos(937.61,947.81)\c&H4D2D39&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 2,0:22:34.29,0:22:34.33,SFXWhite,13,0,0,0,,{=43}{\bord0\blur0.7\alpha&H00&\frz8.075\pos(937.61,947.81)\4a&HFF&}Droop {This means that the drip is of a thicker liquid, like snot, but I cant find the right word for it.} {I'll go with droop this time}
-Dialogue: 0,0:22:36.48,0:22:38.64,Dubtitles,,0,0,0,,Oh, man, this reminds me of snot.
-Dialogue: 0,0:22:38.92,0:22:42.70,Dubtitles,,0,0,0,,Hopefully it's just because it's stripping\Nfrom a ring that came out of his nose.
-Dialogue: 0,0:22:42.78,0:22:44.72,Dubtitles,,0,0,0,,But I need to knock it back.
-Dialogue: 0,0:22:55.68,0:22:57.56,Dubtitles,,0,0,0,,Yes, I do think it worked.
-Dialogue: 0,0:22:57.94,0:23:01.76,Dubtitles,,0,0,0,,The ring around my windpipe is\Ngone and I can breathe free again.
-Dialogue: 0,0:23:02.22,0:23:05.28,Dubtitles,,0,0,0,,So, now I'll go see Caesar and Lisa Lisa.
-Dialogue: 0,0:23:07.44,0:23:10.79,Dubtitles,,0,0,0,,I think maybe I was using my\Nhead too much in that fight.
-Dialogue: 0,0:23:11.14,0:23:13.38,Dubtitles,,0,0,0,,My shoulders are really kind of stiff.
-Dialogue: 1,0:23:19.17,0:23:26.13,Rings,,0,0,0,,{\blur5\be0\fs103\bord0\shad3\fad(860,0)\pos(960,400)\alpha&H80&}Time Until The Remaining Ring Dissolves:
-Dialogue: 2,0:23:19.17,0:23:26.13,Rings,,0,0,0,,{\blur0.6\be0\fs103\bord0\shad3\fad(860,0)\pos(960,400)}Time Until The Remaining Ring Dissolves:
-Dialogue: 1,0:23:19.17,0:23:26.13,Rings,,0,0,0,,{\blur5\fs140\fscx(110)\bord0\shad3\fad(860,0)\pos(1480,870)\alpha&H80&}6 Days
-Dialogue: 2,0:23:19.17,0:23:26.13,Rings,,0,0,0,,{\blur0.6\fs140\fscx(110)\bord0\shad3\fad(860,0)\pos(1480,870)}6 Days
-Dialogue: 1,0:23:19.17,0:23:26.13,Rings,,0,0,0,,{\be0\fs103\bord0\shad3\fad(860,0)\pos(960,400)}Time Until The Remaining Ring Dissolves:
-Dialogue: 1,0:23:19.17,0:23:26.13,Rings,,0,0,0,,{\fs140\fscx(110)\bord0\shad3\fad(860,0)\pos(1480,870)}6 Days
-Dialogue: 0,0:23:39.04,0:23:42.12,Dubtitles,,0,0,0,,I'll be the roundabout.
-Dialogue: 1,0:23:39.19,0:23:42.78,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:23:42.20,0:23:46.26,Dubtitles,,0,0,0,,The words will make you out and out.
-Dialogue: 1,0:23:42.78,0:23:46.32,Lyrics 2,Yes,0,0,0,,The words will make you out 'n' out
-Dialogue: 1,0:23:46.32,0:23:51.66,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:23:46.34,0:23:49.94,Dubtitles,,0,0,0,,I'll spend the day your way.
-Dialogue: 0,0:23:51.62,0:23:54.36,Dubtitles,,0,0,0,,Call it morning driving through the sun.
-Dialogue: 1,0:23:51.66,0:23:54.33,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
-Dialogue: 1,0:23:54.33,0:23:58.79,Lyrics 2,Yes,0,0,0,,In and out the valley
-Dialogue: 0,0:23:54.44,0:23:56.04,Dubtitles,,0,0,0,,I'm in and out the valley.
-Dialogue: 0,0:24:05.92,0:24:09.14,Dubtitles,,0,0,0,,The music dances and sings.
-Dialogue: 1,0:24:06.30,0:24:09.89,Lyrics 2,Yes,0,0,0,,The music dance and sing
-Dialogue: 0,0:24:09.22,0:24:13.32,Dubtitles,,0,0,0,,They make the children really ring.
-Dialogue: 1,0:24:09.89,0:24:13.43,Lyrics 2,Yes,0,0,0,,They make the children really ring
-Dialogue: 0,0:24:13.40,0:24:17.42,Dubtitles,,0,0,0,,I spend the day your way.
-Dialogue: 1,0:24:13.43,0:24:18.77,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:24:18.62,0:24:21.46,Dubtitles,,0,0,0,,Cold in morning driving through the sun.
-Dialogue: 1,0:24:18.77,0:24:21.44,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
-Dialogue: 1,0:24:21.44,0:24:25.40,Lyrics 2,Yes,0,0,0,,In and out the valley
-Dialogue: 0,0:24:21.54,0:24:23.30,Dubtitles,,0,0,0,,And in and out the valley.
-Dialogue: 0,0:24:25.14,0:24:27.92,Dubtitles,,0,0,0,,And out around the lake.
-Dialogue: 1,0:24:25.40,0:24:27.82,Lyrics 2,Yes,0,0,0,,In and around the lake
-Dialogue: 0,0:24:28.94,0:24:31.32,Dubtitles,,0,0,0,,Mountains come out of the sky.
-Dialogue: 1,0:24:29.11,0:24:31.24,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
-Dialogue: 1,0:24:31.24,0:24:33.08,Lyrics 2,Yes,0,0,0,,and they stand there
-Dialogue: 0,0:24:31.40,0:24:33.10,Dubtitles,,0,0,0,,I understand, girl.
-Dialogue: 1,0:24:36.20,0:24:39.92,Lyrics 2,Yes,0,0,0,,One mile over we'll be there and we'll see you
-Dialogue: 0,0:24:36.30,0:24:39.80,Dubtitles,,0,0,0,,One mile over, we'll be\Nthere and we'll see you.
-Dialogue: 1,0:24:42.63,0:24:46.34,Lyrics 2,Yes,0,0,0,,Ten true summers we'll be there and laughing too
-Dialogue: 0,0:24:42.68,0:24:46.08,Dubtitles,,0,0,0,,Ten, two summers, we'll\Nbe there laughing too.
-Dialogue: 1,0:24:49.09,0:24:52.76,Lyrics 2,Yes,0,0,0,,Twenty-four before my love you'll see I'll be
-Dialogue: 0,0:24:49.24,0:24:52.22,Dubtitles,,0,0,0,,Twenty, forty, four miles\Nover, we'll see you.
-Dialogue: 0,0:24:52.30,0:24:54.48,Dubtitles,,0,0,0,,I'll be there with you.
-Dialogue: 1,0:24:52.76,0:24:56.14,Lyrics 2,Yes,0,0,0,,There with you
-Dialogue: 1,0:24:56.64,0:24:58.64,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:56.64,0:24:58.64,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
-Dialogue: 0,0:24:59.02,0:25:00.94,Dubtitles,,0,0,0,,I think the white one is pretty.
-Dialogue: 0,0:25:01.02,0:25:02.92,Dubtitles,,0,0,0,,We'll wait for that until we cross.
-Dialogue: 0,0:25:03.00,0:25:05.52,Dubtitles,,0,0,0,,But I really like the\Nlovely design on this one.
-Dialogue: 0,0:25:05.60,0:25:07.08,Dubtitles,,0,0,0,,I'll eradicate every one of them.
-Dialogue: 0,0:25:07.16,0:25:08.45,Dubtitles,,0,0,0,,Oh, which do I choose?
-Dialogue: 0,0:25:08.56,0:25:09.39,Dubtitles,,0,0,0,,Damn it all!
-Dialogue: 0,0:25:09.47,0:25:10.60,Dubtitles,,0,0,0,,I just can't hit her!
-Dialogue: 1,0:25:09.65,0:25:11.66,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 18:
-Dialogue: 1,0:25:09.65,0:25:11.66,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"Stroheim's Unit Strikes Back"{\i0}
-Dialogue: 1,0:25:09.65,0:25:11.66,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 18:
-Dialogue: 1,0:25:09.65,0:25:11.66,Title2,,0,0,0,,{\fs105\pos(960,772)}"Stroheim's Revenge!"
+Dialogue: 0,0:21:08.24,0:21:09.58,Dubtitles,,0,0,0,,I can't.
 

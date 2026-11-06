@@ -55,17 +55,7 @@ Style: SFXYellow2,Shaky Hand Some Comic,80,&H002EC1B5,&H000000FF,&H00061714,&H00
 Style: SFXAqua,Franc Gothique Brush,150,&H00C3DA76,&H000000FF,&H0038291A,&H696E4B2C,-1,0,0,0,120,100,0,0,1,8,7,8,50,40,20,1
 Style: SFXRed2,KG Turning Tables,150,&H007F72F0,&H000000FF,&H0022213C,&H00000000,0,0,0,0,120,100,0,0,1,8,0,8,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: RippleSigns,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,2,100,100,45,1
-Style: RippleSigns - 5,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,5,100,100,45,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -94,6 +84,7 @@ Dialogue: 1,0:01:18.39,0:01:23.23,Lyrics OP2 Jap,,0,0,0,,Yami wo azamuite setsun
 Dialogue: 1,0:01:18.39,0:01:23.23,Lyrics OP2 Eng,,0,0,0,,Defying the darkness and dodging death at every turn
 Dialogue: 1,0:01:23.23,0:01:27.07,Lyrics OP2 Jap,,0,0,0,,Yaiba surinuke yatsura no suki wo tsuke
 Dialogue: 1,0:01:23.23,0:01:27.07,Lyrics OP2 Eng,,0,0,0,,Slipping past the knife's edge and striking when you least expect
+Dialogue: 0,0:01:25.66,0:01:28.46,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 1,0:01:27.07,0:01:32.49,Lyrics OP2 Jap,,0,0,0,,Tsuranuita omoi ga mirai wo hiraku
 Dialogue: 1,0:01:27.07,0:01:32.49,Lyrics OP2 Eng,,0,0,0,,The emotions running through me blaze a path to the future...
 Dialogue: 1,0:01:34.32,0:01:35.58,Lyrics OP2 Jap,,0,0,0,,Like a bloody storm
@@ -108,37 +99,35 @@ Dialogue: 1,0:01:41.66,0:01:47.46,Lyrics OP2 Jap,,0,0,0,,Ukiagaru kienai hokori 
 Dialogue: 1,0:01:41.66,0:01:47.46,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds of pride will carry you through any storm
 Dialogue: 1,0:01:47.46,0:01:52.51,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:01:47.46,0:01:52.51,Lyrics OP2 Eng,,0,0,0,,So hold them close
+Dialogue: 0,0:01:48.50,0:01:49.90,Dubtitles,,0,0,0,,Nihilishimete
 Dialogue: 1,0:01:57.51,0:02:02.02,Title2,,0,0,0,,{\fad(0,500)\pos(1170,865)\fscx97\blur1}Episode 21: "A Hundred Against Two" {Toni, Check that the title matches the preview at the end of 20 -Fadeout4}
 Dialogue: 1,0:01:57.51,0:02:02.02,Title2,,0,0,0,,{\fad(0,500)\pos(1170,865)}Episode 21: "One-Hundred Versus Two" {Toni, Check that the title matches the preview at the end of 20 -Fadeout4}
-Dialogue: 0,0:02:01.52,0:02:07.08,Dubtitles,,0,0,0,,Really would it kill you to sweep a bit\Nokay I get it scary monsters don't do.
-Dialogue: 0,0:02:07.16,0:02:13.02,Dubtitles,,0,0,0,,Much house cleaning but that does leave\Nevidence see this blood trail it seems.
-Dialogue: 0,0:02:13.10,0:02:18.84,Dubtitles,,0,0,0,,As though Wamuu took a good hum on\Nthrashing Caesar didn't go down without.
-Dialogue: 0,0:02:18.92,0:02:20.86,Dubtitles,,0,0,0,,Giving a good account of himself?
-Dialogue: 0,0:02:27.44,0:02:29.64,Dubtitles,,0,0,0,,We mustn't let Wamuu heal anymore!
-Dialogue: 0,0:02:30.44,0:02:32.98,Dubtitles,,0,0,0,,Coach Lisa Lisa, it's\Ntime for some action!
-Dialogue: 0,0:02:36.34,0:02:37.28,Dubtitles,,0,0,0,,What is it?
-Dialogue: 0,0:02:37.72,0:02:38.88,Dubtitles,,0,0,0,,Uh, it's just...
-Dialogue: 0,0:02:38.96,0:02:42.61,Dubtitles,,0,0,0,,Well, when I took a hold of this\Ndoorknob, it wasn't pleasant.
-Dialogue: 0,0:02:42.80,0:02:46.57,Dubtitles,,0,0,0,,It felt like I was grabbing the\Nhand of something cold and dead.
-Dialogue: 0,0:02:47.10,0:02:49.04,Dubtitles,,0,0,0,,I'm not the door! Where's that?
-Dialogue: 0,0:02:50.50,0:02:51.96,Dubtitles,,0,0,0,,Why are you looking around?
-Dialogue: 0,0:02:52.04,0:02:54.74,Dubtitles,,0,0,0,,I'm not a door, but I am here! What?
-Dialogue: 0,0:02:57.18,0:02:58.42,Dubtitles,,0,0,0,,That's... that's a...
-Dialogue: 0,0:02:58.50,0:02:59.48,Dubtitles,,0,0,0,,A vampire!
-Dialogue: 0,0:03:01.64,0:03:02.70,Dubtitles,,0,0,0,,Careful, Jojo!
-Dialogue: 0,0:03:07.16,0:03:07.99,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:03:09.46,0:03:11.93,Dubtitles,,0,0,0,,If it weren't for your little Yuya there,
-Dialogue: 0,0:03:12.10,0:03:14.96,Dubtitles,,0,0,0,,I would've peeled your\Nface right off your head!
-Dialogue: 0,0:03:17.10,0:03:19.98,Dubtitles,,0,0,0,,Hi, I'm Wyatt Beck and\NI'll be slaying you now!
-Dialogue: 0,0:03:20.56,0:03:24.06,Dubtitles,,0,0,0,,I killed my sweetheart, but\Nthen I busted out of prison.
-Dialogue: 0,0:03:24.42,0:03:28.48,Dubtitles,,0,0,0,,In no time, Lord Kars took me in\Nand made me part of his little gang.
-Dialogue: 0,0:03:29.18,0:03:30.64,Dubtitles,,0,0,0,,He's got my loyalty.
-Dialogue: 0,0:03:30.96,0:03:33.48,Dubtitles,,0,0,0,,And I'm not going to let\Nyou go in there and disturb
+Dialogue: 0,0:02:17.30,0:02:21.01,Dubtitles,,0,0,0,,Caesar didn't go down without\Ngiving a good account of himself.
+Dialogue: 0,0:02:27.32,0:02:29.64,Dubtitles,,0,0,0,,We mustn't let Wamuu heal anymore!
+Dialogue: 0,0:02:30.34,0:02:32.98,Dubtitles,,0,0,0,,Coach Lisa Lisa, it's\Ntime for some action!
+Dialogue: 0,0:02:35.00,0:02:35.83,Dubtitles,,0,0,0,,Yuck!
+Dialogue: 0,0:02:36.32,0:02:37.28,Dubtitles,,0,0,0,,What is it?
+Dialogue: 0,0:02:37.70,0:02:38.86,Dubtitles,,0,0,0,,Uh, it's just...
+Dialogue: 0,0:02:38.94,0:02:42.38,Dubtitles,,0,0,0,,Well, when I took a hold of this\Ndoorknob, it wasn't pleasant.
+Dialogue: 0,0:02:42.46,0:02:46.28,Dubtitles,,0,0,0,,It felt like I was grabbing the\Nhand of something cold and dead.
+Dialogue: 0,0:02:46.94,0:02:49.04,Dubtitles,,0,0,0,,I'm not a door! Where's that?
+Dialogue: 0,0:02:50.14,0:02:51.78,Dubtitles,,0,0,0,,Why are you looking around?
+Dialogue: 0,0:02:52.06,0:02:54.74,Dubtitles,,0,0,0,,I'm not the door, but I am here! What?
+Dialogue: 0,0:02:57.24,0:02:58.40,Dubtitles,,0,0,0,,That's... that's a...
+Dialogue: 0,0:02:58.48,0:02:59.42,Dubtitles,,0,0,0,,A vampire!
+Dialogue: 0,0:03:01.62,0:03:02.70,Dubtitles,,0,0,0,,Careful, Jojo!
+Dialogue: 0,0:03:07.12,0:03:07.95,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:03:09.44,0:03:11.86,Dubtitles,,0,0,0,,If it weren't for your little yo-yo there,
+Dialogue: 0,0:03:11.94,0:03:14.98,Dubtitles,,0,0,0,,I would have peeled your\Nface right off your head.
+Dialogue: 0,0:03:17.18,0:03:20.00,Dubtitles,,0,0,0,,Hi, I'm Wired Beck, and\NI'll be slaying you now.
+Dialogue: 0,0:03:20.60,0:03:25.14,Dubtitles,,0,0,0,,I killed my sweetheart, but then\NI busted out of prison in no time.
+Dialogue: 0,0:03:25.38,0:03:28.73,Dubtitles,,0,0,0,,Lord Kars took me in and made\Nme part of his little gang.
+Dialogue: 0,0:03:29.22,0:03:30.56,Dubtitles,,0,0,0,,He's got my loyalty,
+Dialogue: 0,0:03:30.64,0:03:33.48,Dubtitles,,0,0,0,,and I'm not going to let\Nyou go in there and disturb
 Dialogue: 0,0:03:33.56,0:03:36.50,Dubtitles,,0,0,0,,Lord Kars when he's enjoying\Na well-deserved rest.
-Dialogue: 0,0:03:36.74,0:03:38.98,Dubtitles,,0,0,0,,So they've done it. It's begun.
-Dialogue: 0,0:03:39.30,0:03:43.48,Dubtitles,,0,0,0,,They've started unleashing their\Ndemon hounds on the weak and innocent.
-Dialogue: 0,0:03:45.62,0:03:46.78,Dubtitles,,0,0,0,,Stop that noise!
-Dialogue: 0,0:03:46.86,0:03:50.68,Dubtitles,,0,0,0,,You're just another vampire who's\Nbound for hell and leaving now.
+Dialogue: 0,0:03:36.76,0:03:38.90,Dubtitles,,0,0,0,,So they've done it. It's begun.
+Dialogue: 0,0:03:38.98,0:03:43.16,Dubtitles,,0,0,0,,They've started unleashing their\Ndemon hounds on the weak and innocent!
+Dialogue: 0,0:03:45.54,0:03:46.86,Dubtitles,,0,0,0,,Stop that noise!
 Dialogue: 1,0:03:47.04,0:03:47.08,SFXOang,1,0,0,0,,{=21}{\blur5\bord23.83\fscx344.2\fscy264.77\alpha&H80&\frz6.93\pos(1485.26,-242.5)}Zam
 Dialogue: 2,0:03:47.04,0:03:47.08,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord23.83\fscx344.2\fscy264.77\alpha&H00&\frz6.93\pos(1485.26,-242.5)\c&H1A374F&}Zam
 Dialogue: 3,0:03:47.04,0:03:47.08,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord0\fscx344.2\fscy264.77\alpha&H00&\frz6.93\pos(1485.26,-242.5)\4a&HFF&}Zam
@@ -151,6 +140,7 @@ Dialogue: 3,0:03:47.12,0:03:47.17,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord0\fscx197.
 Dialogue: 1,0:03:47.17,0:03:47.21,SFXOang,1,0,0,0,,{=21}{\blur5\bord8.89\fscx128.38\fscy98.75\alpha&H80&\frz6.93\pos(1617.04,449.02)}Zam
 Dialogue: 2,0:03:47.17,0:03:47.21,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord8.89\fscx128.38\fscy98.75\alpha&H00&\frz6.93\pos(1617.04,449.02)\c&H1A374F&}Zam
 Dialogue: 3,0:03:47.17,0:03:47.21,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord0\fscx128.38\fscy98.75\alpha&H00&\frz6.93\pos(1617.04,449.02)\4a&HFF&}Zam
+Dialogue: 0,0:03:47.18,0:03:50.84,Dubtitles,,0,0,0,,You're just another vampire who's\Nbound for hell and leaving now!
 Dialogue: 1,0:03:47.21,0:03:47.25,SFXOang,1,0,0,0,,{=21}{\blur5\bord8.92\fscx128.84\fscy99.11\alpha&H80&\frz6.93\pos(1617.08,449.67)}Zam
 Dialogue: 2,0:03:47.21,0:03:47.25,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord8.92\fscx128.84\fscy99.11\alpha&H00&\frz6.93\pos(1617.08,449.67)\c&H1A374F&}Zam
 Dialogue: 3,0:03:47.21,0:03:47.25,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord0\fscx128.84\fscy99.11\alpha&H00&\frz6.93\pos(1617.08,449.67)\4a&HFF&}Zam
@@ -220,9 +210,9 @@ Dialogue: 3,0:03:48.08,0:03:48.12,SFXOang,1,0,0,0,,{=21}{\blur4\bord0\fscx122.61
 Dialogue: 1,0:03:48.12,0:03:48.17,SFXOang,1,0,0,0,,{=21}{\blur5\bord8.43\fscx121.83\fscy93.71\alpha&HE6&\frz6.93\pos(1617.43,476.47)}Zam
 Dialogue: 2,0:03:48.12,0:03:48.17,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord8.43\fscx121.83\fscy93.71\alpha&HE6&\frz6.93\pos(1617.43,476.47)\c&H1A374F&}Zam
 Dialogue: 3,0:03:48.12,0:03:48.17,SFXOang,1,0,0,0,,{=21}{\blur0.6\bord0\fscx121.83\fscy93.71\alpha&HE6&\frz6.93\pos(1617.43,476.47)\4a&HFF&}Zam
-Dialogue: 0,0:03:50.90,0:03:55.02,Dubtitles,,0,0,0,,Well then, let me help you plan your trip\Nso you don't have to wait any longer.
-Dialogue: 0,0:03:55.10,0:03:55.93,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:03:56.54,0:03:57.44,Dubtitles,,0,0,0,,Lisa, Lisa.
+Dialogue: 0,0:03:50.92,0:03:55.57,Dubtitles,,0,0,0,,Well then, let me help you plan your trip\Nso you don't have to wait any longer!
+Dialogue: 0,0:03:56.02,0:03:56.85,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:03:56.93,0:03:57.76,Dubtitles,,0,0,0,,Lisa Lisa?
 Dialogue: 1,0:03:58.47,0:03:58.51,SFXOang2,2,0,0,0,,{=22}{\blur7\bord5.3\fscx68.93\fscy53.02\alpha&H80&\frz0.76\pos(125.65,309.89)\3c&H88B1D1&}Grin
 Dialogue: 2,0:03:58.47,0:03:58.51,SFXOang2,2,0,0,0,,{=22}{\blur1\bord5.3\fscx68.93\fscy53.02\alpha&H00&\frz0.76\pos(125.65,309.89)\c&H0D2037&}Grin
 Dialogue: 3,0:03:58.47,0:03:58.51,SFXOang2,2,0,0,0,,{=22}{\blur1\bord0\fscx68.93\fscy53.02\alpha&H00&\frz0.76\pos(125.65,309.89)\4a&HFF&}Grin
@@ -313,28 +303,28 @@ Dialogue: 3,0:03:59.64,0:03:59.68,SFXOang2,2,0,0,0,,{=22}{\blur1\bord0\fscx130.0
 Dialogue: 1,0:03:59.68,0:03:59.72,SFXOang2,2,0,0,0,,{=22}{\blur7\bord10\fscx130\fscy100\alpha&H80&\frz4.57\pos(95.87,297.33)\3c&H88B1D1&}Grin
 Dialogue: 2,0:03:59.68,0:03:59.72,SFXOang2,2,0,0,0,,{=22}{\blur1\bord10\fscx130\fscy100\alpha&H00&\frz4.57\pos(95.87,297.33)\c&H0D2037&}Grin
 Dialogue: 3,0:03:59.68,0:03:59.72,SFXOang2,2,0,0,0,,{=22}{\blur1\bord0\fscx130\fscy100\alpha&H00&\frz4.57\pos(95.87,297.33)\4a&HFF&}Grin
-Dialogue: 0,0:04:01.46,0:04:03.23,Dubtitles,,0,0,0,,You're beautiful, magnificent.
-Dialogue: 0,0:04:03.34,0:04:05.81,Dubtitles,,0,0,0,,Your skin is so soft, heavenly, and clear.
-Dialogue: 0,0:04:05.98,0:04:10.02,Dubtitles,,0,0,0,,Let me hold you, and then I'll drink\Nyour life right through that skin.
-Dialogue: 0,0:04:10.10,0:04:12.48,Dubtitles,,0,0,0,,You're really not impressing me. Hmm?
-Dialogue: 0,0:04:12.56,0:04:17.33,Dubtitles,,0,0,0,,I refuse to waste my time listening to\Nyour weak flirtations and shallow threats.
-Dialogue: 0,0:04:17.64,0:04:20.88,Dubtitles,,0,0,0,,But if you want to hold me,\Ngo ahead and give it a try.
-Dialogue: 0,0:04:21.52,0:04:24.34,Dubtitles,,0,0,0,,I guarantee it'll be the\Nlast thing that you do.
-Dialogue: 0,0:04:30.96,0:04:31.79,Dubtitles,,0,0,0,,Spikes!
-Dialogue: 0,0:04:31.87,0:04:33.12,Dubtitles,,0,0,0,,He's covered top to bottom!
-Dialogue: 0,0:04:33.52,0:04:36.38,Dubtitles,,0,0,0,,They're popping out of him like\Nhundreds of pointed fingers!
-Dialogue: 0,0:04:36.46,0:04:39.88,Dubtitles,,0,0,0,,They're metallic and racist\Nsharp, like an Iron Maiden jacket!
-Dialogue: 0,0:04:39.96,0:04:44.20,Dubtitles,,0,0,0,,I don't appreciate it when stuck-up\Nfemales are insulting like that.
-Dialogue: 0,0:04:45.60,0:04:47.28,Dubtitles,,0,0,0,,They need to be punished.
-Dialogue: 0,0:04:47.42,0:04:48.54,Dubtitles,,0,0,0,,Wouldn't you agree?
-Dialogue: 0,0:04:50.82,0:04:52.80,Dubtitles,,0,0,0,,I'll give you a nice squeeze!
+Dialogue: 0,0:04:01.40,0:04:03.22,Dubtitles,,0,0,0,,You're beautiful! Magnificent!
+Dialogue: 0,0:04:03.32,0:04:05.52,Dubtitles,,0,0,0,,Your skin is so soft, heavenly and clear!
+Dialogue: 0,0:04:05.60,0:04:09.78,Dubtitles,,0,0,0,,Let me hold you, and then I'll drink\Nyour life right through that skin!
+Dialogue: 0,0:04:10.12,0:04:12.12,Dubtitles,,0,0,0,,You're really not impressing me.
+Dialogue: 0,0:04:12.62,0:04:17.39,Dubtitles,,0,0,0,,I refuse to waste my time listening to\Nyour weak flirtations and shallow threats.
+Dialogue: 0,0:04:17.68,0:04:20.92,Dubtitles,,0,0,0,,But if you want to hold me,\Ngo ahead and give it a try.
+Dialogue: 0,0:04:21.54,0:04:24.36,Dubtitles,,0,0,0,,I guarantee it'll be the\Nlast thing that you do.
+Dialogue: 0,0:04:30.98,0:04:31.81,Dubtitles,,0,0,0,,Spikes!
+Dialogue: 0,0:04:31.89,0:04:33.04,Dubtitles,,0,0,0,,He's covered top to bottom!
+Dialogue: 0,0:04:33.12,0:04:36.32,Dubtitles,,0,0,0,,They're popping out of him like\Nhundreds of pointed fingers!
+Dialogue: 0,0:04:36.40,0:04:40.11,Dubtitles,,0,0,0,,They're metallic and razor-sharp,\Nlike an Iron Maiden jacket!
+Dialogue: 0,0:04:40.30,0:04:44.30,Dubtitles,,0,0,0,,I don't appreciate it when stuck-up\Nfemales are insulting like that!
+Dialogue: 0,0:04:45.64,0:04:47.28,Dubtitles,,0,0,0,,They need to be punished!
+Dialogue: 0,0:04:47.40,0:04:48.52,Dubtitles,,0,0,0,,Wouldn't you agree?
+Dialogue: 0,0:04:50.84,0:04:52.78,Dubtitles,,0,0,0,,I'll give you a nice squeeze!
 Dialogue: 1,0:04:53.40,0:04:53.44,SFXYellow,3,0,0,0,,{=25}{\blur9\bord4.3\fscx64.52\fscy53.76\1a&H00&\3a&H80&\frz11.71\pos(770.24,360.42)\alpha&H80&}Dash
 Dialogue: 2,0:04:53.40,0:04:53.44,SFXYellow,3,0,0,0,,{=25}{\blur1.3\bord4.3\fscx64.52\fscy53.76\1a&H00&\3a&H00&\frz11.71\pos(770.24,360.42)\c&H0D161A&}Dash
 Dialogue: 3,0:04:53.40,0:04:53.44,SFXYellow,3,0,0,0,,{=25}{\blur1.3\bord0\fscx64.52\fscy53.76\1a&H00&\3a&H00&\frz11.71\pos(770.24,360.42)\4a&HFF&}Dash
-Dialogue: 0,0:04:53.42,0:04:56.24,Dubtitles,,0,0,0,,I'm going to hug you to death! Oh, no!
 Dialogue: 1,0:04:53.44,0:04:53.48,SFXYellow,3,0,0,0,,{=25}{\blur9\bord4.62\fscx69.28\fscy57.74\1a&H00&\3a&H80&\frz11.71\pos(1257.72,653.44)\alpha&H80&}Dash
 Dialogue: 2,0:04:53.44,0:04:53.48,SFXYellow,3,0,0,0,,{=25}{\blur1.3\bord4.62\fscx69.28\fscy57.74\1a&H00&\3a&H00&\frz11.71\pos(1257.72,653.44)\c&H0D161A&}Dash
 Dialogue: 3,0:04:53.44,0:04:53.48,SFXYellow,3,0,0,0,,{=25}{\blur1.3\bord0\fscx69.28\fscy57.74\1a&H00&\3a&H00&\frz11.71\pos(1257.72,653.44)\4a&HFF&}Dash
+Dialogue: 0,0:04:53.44,0:04:56.20,Dubtitles,,0,0,0,,I'm going to hug you to death! Oh no!
 Dialogue: 1,0:04:53.48,0:04:53.52,SFXYellow,3,0,0,0,,{=25}{\blur9\bord5.45\fscx81.74\fscy68.12\1a&H00&\3a&H80&\frz11.71\pos(1510.03,754.41)\alpha&H80&}Dash
 Dialogue: 2,0:04:53.48,0:04:53.52,SFXYellow,3,0,0,0,,{=25}{\blur1.3\bord5.45\fscx81.74\fscy68.12\1a&H00&\3a&H00&\frz11.71\pos(1510.03,754.41)\c&H0D161A&}Dash
 Dialogue: 3,0:04:53.48,0:04:53.52,SFXYellow,3,0,0,0,,{=25}{\blur1.3\bord0\fscx81.74\fscy68.12\1a&H00&\3a&H00&\frz11.71\pos(1510.03,754.41)\4a&HFF&}Dash
@@ -897,81 +887,77 @@ Dialogue: 3,0:05:02.28,0:05:02.32,SFX,Messedup,0,0,0,,{=35}{\blur0.9\bord0\fscx1
 Dialogue: 1,0:05:02.32,0:05:02.37,SFX,Messedup,0,0,0,,{=35}{\blur6\bord10\fscx130\fscy100\fade(255,0,255,-3130,-2530,40,40)\frz9.4\pos(362.87,399.2)\alpha&H80&}Fwoom
 Dialogue: 2,0:05:02.32,0:05:02.37,SFX,Messedup,0,0,0,,{=35}{\blur0.9\bord10\fscx130\fscy100\fade(255,0,255,-3130,-2530,40,40)\frz9.4\pos(362.87,399.2)\c&H0E2339&}Fwoom
 Dialogue: 3,0:05:02.32,0:05:02.37,SFX,Messedup,0,0,0,,{=35}{\blur0.9\bord0\fscx130\fscy100\fade(255,0,255,-3130,-2530,40,40)\frz9.4\pos(362.87,399.2)\4a&HFF&}Fwoom
-Dialogue: 0,0:05:02.56,0:05:03.58,Dubtitles,,0,0,0,,Wait, I see.
+Dialogue: 0,0:05:02.56,0:05:03.60,Dubtitles,,0,0,0,,Wait, I see.
 Dialogue: 0,0:05:03.78,0:05:07.52,Dubtitles,,0,0,0,,Her scarf becomes a hormone-filled\Nweapon with incredibly long reach.
 Dialogue: 0,0:05:07.60,0:05:08.43,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:05:08.51,0:05:09.34,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:05:09.43,0:05:10.89,Dubtitles,,0,0,0,,Gosh, thanks for the thought.
-Dialogue: 0,0:05:12.14,0:05:14.04,Dubtitles,,0,0,0,,You can't catch me like that.
-Dialogue: 0,0:05:14.40,0:05:15.86,Dubtitles,,0,0,0,,Don't make me laugh.
-Dialogue: 0,0:05:17.30,0:05:18.72,Dubtitles,,0,0,0,,See, I'm free.
-Dialogue: 0,0:05:20.38,0:05:21.98,Dubtitles,,0,0,0,,Hmm, that's all?
-Dialogue: 0,0:05:22.10,0:05:23.38,Dubtitles,,0,0,0,,Where do you think you're going?
-Dialogue: 0,0:05:23.46,0:05:25.24,Dubtitles,,0,0,0,,Come, Jojo, let's go.
-Dialogue: 0,0:05:25.92,0:05:26.75,Dubtitles,,0,0,0,,Uh, okay.
-Dialogue: 0,0:05:28.32,0:05:31.91,Dubtitles,,0,0,0,,Lisa Lisa's movements, they're\Neffortless and flow like silk.
-Dialogue: 0,0:05:32.42,0:05:34.84,Dubtitles,,0,0,0,,Efficient, she doesn't waste any energy.
-Dialogue: 0,0:05:35.04,0:05:37.26,Dubtitles,,0,0,0,,Come back, you can't just walk away.
-Dialogue: 0,0:05:37.90,0:05:38.73,Dubtitles,,0,0,0,,Hey, you!
-Dialogue: 0,0:05:38.96,0:05:42.88,Dubtitles,,0,0,0,,Wouldn't you agree that a woman who\Nbehaves like that needs to be punished?
-Dialogue: 0,0:05:42.96,0:05:45.48,Dubtitles,,0,0,0,,Oh, no, you are the one being punished.
+Dialogue: 0,0:05:09.12,0:05:10.83,Dubtitles,,0,0,0,,Gosh, thanks for the thought.
+Dialogue: 0,0:05:12.12,0:05:14.02,Dubtitles,,0,0,0,,You can't catch me like that.
+Dialogue: 0,0:05:14.36,0:05:15.86,Dubtitles,,0,0,0,,Don't make me laugh, man!
+Dialogue: 0,0:05:17.28,0:05:18.72,Dubtitles,,0,0,0,,See? I'm free!
+Dialogue: 0,0:05:21.18,0:05:22.01,Dubtitles,,0,0,0,,That's all?
+Dialogue: 0,0:05:22.10,0:05:23.36,Dubtitles,,0,0,0,,Where do you think you're going?
+Dialogue: 0,0:05:23.44,0:05:25.20,Dubtitles,,0,0,0,,Come, Jojo. Let's go.
+Dialogue: 0,0:05:25.86,0:05:26.69,Dubtitles,,0,0,0,,Uh, okay.
+Dialogue: 0,0:05:28.50,0:05:32.09,Dubtitles,,0,0,0,,Lisa Lisa's movements, they're\Neffortless and flow like silk.
+Dialogue: 0,0:05:32.52,0:05:33.35,Dubtitles,,0,0,0,,Efficient.
+Dialogue: 0,0:05:33.43,0:05:35.58,Dubtitles,,0,0,0,,She doesn't waste any energy. Come back!
+Dialogue: 0,0:05:35.88,0:05:38.32,Dubtitles,,0,0,0,,You can't just walk away! Hey, you!
+Dialogue: 0,0:05:38.94,0:05:42.88,Dubtitles,,0,0,0,,Wouldn't you agree that a woman who\Nbehaves like that needs to be punished?
+Dialogue: 0,0:05:42.96,0:05:43.79,Dubtitles,,0,0,0,,Oh, no.
+Dialogue: 0,0:05:43.88,0:05:45.70,Dubtitles,,0,0,0,,You are the one being punished.
 Dialogue: 0,0:05:45.86,0:05:48.04,Dubtitles,,0,0,0,,You see, you've just run out of time.
-Dialogue: 0,0:05:48.40,0:05:50.50,Dubtitles,,0,0,0,,Harmon is now running\Nall through your body.
-Dialogue: 0,0:05:50.58,0:05:51.41,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:05:52.12,0:05:54.40,Dubtitles,,0,0,0,,Don't be ridiculous, I'm not. Ah!
-Dialogue: 0,0:05:56.82,0:05:57.78,Dubtitles,,0,0,0,,Oh, no!
-Dialogue: 0,0:06:06.64,0:06:08.78,Dubtitles,,0,0,0,,Lisa, Lisa has really got what it takes.
-Dialogue: 0,0:06:08.86,0:06:11.32,Dubtitles,,0,0,0,,I thought she might be out\Nof her depth in a fight.
-Dialogue: 0,0:06:11.40,0:06:14.16,Dubtitles,,0,0,0,,But it's plainly obvious\Nshe's even better than me.
-Dialogue: 0,0:06:14.24,0:06:15.64,Dubtitles,,0,0,0,,I am so impressed.
-Dialogue: 0,0:06:15.72,0:06:17.90,Dubtitles,,0,0,0,,I'm lucky to have her training me.
-Dialogue: 0,0:06:19.08,0:06:20.44,Dubtitles,,0,0,0,,By the way, Jojo.
-Dialogue: 0,0:06:20.52,0:06:22.10,Dubtitles,,0,0,0,,Have you taken it?
-Dialogue: 0,0:06:22.22,0:06:24.32,Dubtitles,,0,0,0,,You really shouldn't delay any longer.
-Dialogue: 0,0:06:24.40,0:06:27.16,Dubtitles,,0,0,0,,You must use the antidote! Huh?
-Dialogue: 0,0:06:27.78,0:06:29.02,Dubtitles,,0,0,0,,Oh, you mean this?
-Dialogue: 0,0:06:29.64,0:06:30.90,Dubtitles,,0,0,0,,Yes, of course.
-Dialogue: 0,0:06:31.34,0:06:34.11,Dubtitles,,0,0,0,,I'm going to drink it\Nonly after I defeat Wamu.
+Dialogue: 0,0:05:48.38,0:05:50.58,Dubtitles,,0,0,0,,Harmon is now running\Nall through your body.
+Dialogue: 0,0:05:50.66,0:05:51.49,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:05:52.10,0:05:53.96,Dubtitles,,0,0,0,,Don't be ridiculous. I'm not...
+Dialogue: 0,0:06:06.66,0:06:07.49,Dubtitles,,0,0,0,,Lisa.
+Dialogue: 0,0:06:07.57,0:06:09.60,Dubtitles,,0,0,0,,Lisa has really got what\Nit takes I thought she
+Dialogue: 0,0:06:09.68,0:06:11.76,Dubtitles,,0,0,0,,might be out of her\Ndepth in a fight But it's
+Dialogue: 0,0:06:11.84,0:06:14.76,Dubtitles,,0,0,0,,plainly obvious she's\Neven better than me I am
+Dialogue: 0,0:06:14.84,0:06:17.90,Dubtitles,,0,0,0,,so impressed I'm lucky\Nto have her training me
+Dialogue: 0,0:06:19.10,0:06:22.10,Dubtitles,,0,0,0,,By the way, Jojo... Have you taken it?
+Dialogue: 0,0:06:22.22,0:06:27.14,Dubtitles,,0,0,0,,You really shouldn't delay any\Nlonger You must use the antidote Huh?
+Dialogue: 0,0:06:27.68,0:06:29.04,Dubtitles,,0,0,0,,Oh, you mean this?
+Dialogue: 0,0:06:29.66,0:06:30.90,Dubtitles,,0,0,0,,Yes, of course.
+Dialogue: 0,0:06:31.32,0:06:34.09,Dubtitles,,0,0,0,,I'm going to drink it\Nonly after I defeat Wamu.
 Dialogue: 0,0:06:35.42,0:06:36.54,Dubtitles,,0,0,0,,See this ring?
-Dialogue: 0,0:06:36.72,0:06:39.90,Dubtitles,,0,0,0,,It no longer signifies a\Npromise between me and Wamu.
+Dialogue: 0,0:06:36.74,0:06:39.90,Dubtitles,,0,0,0,,It no longer signifies a\Npromise between me and Wamu.
 Dialogue: 0,0:06:40.86,0:06:45.80,Dubtitles,,0,0,0,,It's now a promise I make to Caesar, that\NI will go on living and stay in the fight.
-Dialogue: 0,0:06:46.52,0:06:50.52,Dubtitles,,0,0,0,,Would you please hold it for me\Nuntil I actually need it, Lisa-Lisa?
+Dialogue: 0,0:06:46.52,0:06:50.52,Dubtitles,,0,0,0,,Would you please hold it for me\Nuntil I actually need it, Lisa Lisa?
 Dialogue: 0,0:06:53.40,0:06:54.23,Dubtitles,,0,0,0,,No.
 Dialogue: 0,0:06:54.31,0:06:56.33,Dubtitles,,0,0,0,,It would be better if it stayed with you.
 Dialogue: 0,0:06:57.14,0:06:59.42,Dubtitles,,0,0,0,,Who knows what might happen to me?
-Dialogue: 0,0:07:00.10,0:07:00.93,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:07:03.08,0:07:08.06,Dubtitles,,0,0,0,,As they ventured further into the depths,\Nthe trail of blood grew ever thinner.
-Dialogue: 0,0:07:08.98,0:07:13.51,Dubtitles,,0,0,0,,Both Jojo and Lisa Lisa knew well what\Nmeaning could be drawn from that fact.
-Dialogue: 0,0:07:14.14,0:07:17.46,Dubtitles,,0,0,0,,Wamuu's Hamon wounds were healing.
-Dialogue: 0,0:07:21.14,0:07:22.48,Dubtitles,,0,0,0,,So you're here.
-Dialogue: 0,0:07:34.28,0:07:35.42,Dubtitles,,0,0,0,,I've been waiting.
-Dialogue: 0,0:07:36.24,0:07:39.28,Dubtitles,,0,0,0,,I see your powers have grown greatly.
-Dialogue: 0,0:07:40.50,0:07:41.33,Dubtitles,,0,0,0,,Bastard!
-Dialogue: 0,0:07:41.41,0:07:43.80,Dubtitles,,0,0,0,,You're the one who killed Caesar! Now I...
-Dialogue: 0,0:07:43.88,0:07:45.56,Dubtitles,,0,0,0,,Cool your head, Jojo.
-Dialogue: 0,0:07:45.92,0:07:47.21,Dubtitles,,0,0,0,,Now look at the floor.
-Dialogue: 0,0:07:48.04,0:07:49.34,Dubtitles,,0,0,0,,I'm very calm.
-Dialogue: 0,0:07:49.82,0:07:51.72,Dubtitles,,0,0,0,,Don't worry, I'm in control here.
-Dialogue: 0,0:07:51.80,0:07:53.62,Dubtitles,,0,0,0,,You mean the footprints, right?
-Dialogue: 0,0:07:53.72,0:07:54.80,Dubtitles,,0,0,0,,I noticed it too.
-Dialogue: 0,0:07:54.88,0:07:56.46,Dubtitles,,0,0,0,,There are two sets.
-Dialogue: 0,0:07:57.42,0:07:59.08,Dubtitles,,0,0,0,,That means Kars is here!
-Dialogue: 0,0:07:59.32,0:08:01.09,Dubtitles,,0,0,0,,Tell me where I can fight him!
+Dialogue: 0,0:06:59.98,0:07:00.81,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:07:03.06,0:07:08.06,Dubtitles,,0,0,0,,As they ventured further into the depths,\Nthe trail of blood grew ever thinner.
+Dialogue: 0,0:07:08.62,0:07:13.24,Dubtitles,,0,0,0,,Both Jojo and Lisa Lisa knew well what\Nmeaning could be drawn from that fact.
+Dialogue: 0,0:07:14.10,0:07:17.46,Dubtitles,,0,0,0,,Wamuu's Hamon wounds were healing!
+Dialogue: 0,0:07:21.12,0:07:22.48,Dubtitles,,0,0,0,,So you're here.
+Dialogue: 0,0:07:34.30,0:07:35.44,Dubtitles,,0,0,0,,I've been waiting.
+Dialogue: 0,0:07:36.26,0:07:39.30,Dubtitles,,0,0,0,,I see your powers have grown greatly.
+Dialogue: 0,0:07:40.54,0:07:41.37,Dubtitles,,0,0,0,,Bastard!
+Dialogue: 0,0:07:41.45,0:07:43.10,Dubtitles,,0,0,0,,You're the one who killed Caesar!
+Dialogue: 0,0:07:43.18,0:07:44.01,Dubtitles,,0,0,0,,Now I...
+Dialogue: 0,0:07:44.09,0:07:45.58,Dubtitles,,0,0,0,,Cool your head, Jojo.
+Dialogue: 0,0:07:45.90,0:07:47.19,Dubtitles,,0,0,0,,Now look at the floor.
+Dialogue: 0,0:07:48.04,0:07:49.32,Dubtitles,,0,0,0,,I'm very calm.
+Dialogue: 0,0:07:49.82,0:07:51.66,Dubtitles,,0,0,0,,Don't worry, I'm in control here.
+Dialogue: 0,0:07:51.74,0:07:53.56,Dubtitles,,0,0,0,,You mean the footprints, right?
+Dialogue: 0,0:07:53.72,0:07:54.88,Dubtitles,,0,0,0,,I noticed it too.
+Dialogue: 0,0:07:55.18,0:07:56.44,Dubtitles,,0,0,0,,There are two sets.
+Dialogue: 0,0:07:57.42,0:07:59.10,Dubtitles,,0,0,0,,That means Kars is here!
+Dialogue: 0,0:07:59.30,0:08:01.07,Dubtitles,,0,0,0,,Tell me where I can fight him!
 Dialogue: 0,0:08:01.58,0:08:03.60,Dubtitles,,0,0,0,,Show your cowardly self now!
-Dialogue: 0,0:08:05.92,0:08:08.98,Dubtitles,,0,0,0,,Indeed, there are two sets\Nof footprints. He's here.
-Dialogue: 0,0:08:09.16,0:08:12.82,Dubtitles,,0,0,0,,But I feel dozens of lungs moving\Nthe air around as well. Huh?
-Dialogue: 0,0:08:13.88,0:08:14.96,Dubtitles,,0,0,0,,So it's you.
-Dialogue: 0,0:08:16.00,0:08:16.83,Dubtitles,,0,0,0,,Fascinating.
-Dialogue: 0,0:08:16.91,0:08:19.33,Dubtitles,,0,0,0,,You are extremely composed and perceptive,
-Dialogue: 0,0:08:19.56,0:08:20.91,Dubtitles,,0,0,0,,though you are a woman.
-Dialogue: 0,0:08:21.00,0:08:24.30,Dubtitles,,0,0,0,,I can see how Jojo and\NCaesar we're able to learn so
-Dialogue: 0,0:08:24.38,0:08:29.56,Dubtitles,,0,0,0,,much so quickly and you can feel\Neven the lightest? respiration.
-Dialogue: 0,0:08:30.04,0:08:32.84,Dubtitles,,0,0,0,,You rank among the\Nfinest Hormone warriors.
+Dialogue: 0,0:08:05.92,0:08:08.33,Dubtitles,,0,0,0,,Indeed, there are two sets of footprints.
+Dialogue: 0,0:08:08.42,0:08:09.25,Dubtitles,,0,0,0,,He's here.
+Dialogue: 0,0:08:09.33,0:08:12.52,Dubtitles,,0,0,0,,But I feel dozens of lungs\Nmoving the air around as well.
+Dialogue: 0,0:08:14.90,0:08:16.56,Dubtitles,,0,0,0,,So it's you. Fascinating.
+Dialogue: 0,0:08:16.86,0:08:20.74,Dubtitles,,0,0,0,,You are extremely composed and\Nperceptive, though you are a woman.
+Dialogue: 0,0:08:21.00,0:08:25.48,Dubtitles,,0,0,0,,I can see how Jojo and Caesar were\Nable to learn so much so quickly.
+Dialogue: 0,0:08:26.36,0:08:29.54,Dubtitles,,0,0,0,,And you can feel even\Nthe lightest respiration.
+Dialogue: 0,0:08:30.08,0:08:32.84,Dubtitles,,0,0,0,,You rank among the\Nfinest Hormone warriors.
 Dialogue: 0,0:08:36.98,0:08:37.81,Dubtitles,,0,0,0,,Damn!
 Dialogue: 0,0:08:37.89,0:08:38.72,Dubtitles,,0,0,0,,Look at that!
-Dialogue: 0,0:08:39.18,0:08:40.30,Dubtitles,,0,0,0,,There's so many!
-Dialogue: 0,0:08:40.66,0:08:43.31,Dubtitles,,0,0,0,,I'd guess you're all\Nvampires, is that right?
-Dialogue: 0,0:08:45.12,0:08:46.34,Dubtitles,,0,0,0,,No response.
+Dialogue: 0,0:08:39.12,0:08:42.77,Dubtitles,,0,0,0,,There's so many, I'd guess you're\Nall vampires, is that right?
+Dialogue: 0,0:08:45.08,0:08:46.36,Dubtitles,,0,0,0,,No response.
 Dialogue: 0,0:08:46.68,0:08:47.74,Dubtitles,,0,0,0,,That's creepy too.
 Dialogue: 1,0:08:52.18,0:08:52.22,SFXBBB,4,0,0,0,,{=27}{\blur9\bord4.58\fscx91.59\fscy91.59\alpha&H80&\frz10.68\pos(987.7,616)}Shine
 Dialogue: 2,0:08:52.18,0:08:52.22,SFXBBB,4,0,0,0,,{=27}{\blur0.8\bord4.58\fscx91.59\fscy91.59\alpha&H00&\frz10.68\pos(987.7,616)\c&H64496A&}Shine
@@ -1072,30 +1058,30 @@ Dialogue: 3,0:08:53.47,0:08:53.51,SFXBBB,4,0,0,0,,{=27}{\blur0.8\bord0\fscx105.4
 Dialogue: 1,0:08:53.51,0:08:53.55,SFXBBB,4,0,0,0,,{=27}{\blur9\bord5.34\fscx106.85\fscy106.85\alpha&H80&\frz10.68\pos(878.74,620.89)}Shine
 Dialogue: 2,0:08:53.51,0:08:53.55,SFXBBB,4,0,0,0,,{=27}{\blur0.8\bord5.34\fscx106.85\fscy106.85\alpha&H00&\frz10.68\pos(878.74,620.89)\c&H64496A&}Shine
 Dialogue: 3,0:08:53.51,0:08:53.55,SFXBBB,4,0,0,0,,{=27}{\blur0.8\bord0\fscx106.85\fscy106.85\alpha&H00&\frz10.68\pos(878.74,620.89)\4a&HFF&}Shine
-Dialogue: 0,0:08:56.82,0:08:57.65,Dubtitles,,0,0,0,,Khaas!
-Dialogue: 0,0:09:00.34,0:09:04.74,Dubtitles,,0,0,0,,Lord Khaas saw fit to give us, his\Nchosen ones, the gift of eternal life.
-Dialogue: 0,0:09:04.94,0:09:06.46,Dubtitles,,0,0,0,,We, number a hundred,
-Dialogue: 0,0:09:06.94,0:09:12.04,Dubtitles,,0,0,0,,on our master's order, we'll tear you both\Nto shreds, a hundred against two! Jojo!
-Dialogue: 0,0:09:13.70,0:09:14.82,Dubtitles,,0,0,0,,You fiends!
-Dialogue: 0,0:09:24.44,0:09:26.14,Dubtitles,,0,0,0,,This really is not good.
-Dialogue: 0,0:09:26.62,0:09:28.98,Dubtitles,,0,0,0,,It's a hundred of them\Nagainst the two of us.
-Dialogue: 0,0:09:29.06,0:09:29.89,Dubtitles,,0,0,0,,We can't win!
-Dialogue: 0,0:09:30.88,0:09:32.40,Dubtitles,,0,0,0,,Lord Kars, a moment.
-Dialogue: 0,0:09:33.66,0:09:37.40,Dubtitles,,0,0,0,,Back in Rome, Jojo and I promised\Nto fight one another again.
+Dialogue: 0,0:08:56.78,0:08:57.61,Dubtitles,,0,0,0,,Kars!
+Dialogue: 0,0:09:00.32,0:09:04.72,Dubtitles,,0,0,0,,Lord Kars saw fit to give us, his\Nchosen ones, the gift of eternal life.
+Dialogue: 0,0:09:04.96,0:09:10.00,Dubtitles,,0,0,0,,We, number 100, on our master's\Norder, we'll tear you both to shreds.
+Dialogue: 0,0:09:10.08,0:09:12.02,Dubtitles,,0,0,0,,100 against who? Jojo!
+Dialogue: 0,0:09:13.68,0:09:14.84,Dubtitles,,0,0,0,,You fiends!
+Dialogue: 0,0:09:24.46,0:09:26.14,Dubtitles,,0,0,0,,This really is not good.
+Dialogue: 0,0:09:26.36,0:09:28.94,Dubtitles,,0,0,0,,It's a hundred of them\Nagainst the two of us.
+Dialogue: 0,0:09:29.02,0:09:29.85,Dubtitles,,0,0,0,,We can't win!
+Dialogue: 0,0:09:30.92,0:09:32.40,Dubtitles,,0,0,0,,Lord Kars, a moment.
+Dialogue: 0,0:09:33.70,0:09:37.42,Dubtitles,,0,0,0,,Back in Rome, Jojo and I promised\Nto fight one another again.
 Dialogue: 0,0:09:37.86,0:09:40.10,Dubtitles,,0,0,0,,I want revenge for ACDC.
-Dialogue: 0,0:09:40.60,0:09:42.95,Dubtitles,,0,0,0,,Please allow me the chance to fight him.
-Dialogue: 0,0:09:43.42,0:09:44.25,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:09:44.33,0:09:48.52,Dubtitles,,0,0,0,,Remember that my goal is only\Nto obtain the Red Stone of Asia.
-Dialogue: 0,0:09:48.98,0:09:50.68,Dubtitles,,0,0,0,,Don't forget that, Wamuu.
-Dialogue: 0,0:09:51.84,0:09:52.67,Dubtitles,,0,0,0,,Yes, Lord.
-Dialogue: 0,0:09:53.50,0:09:55.06,Dubtitles,,0,0,0,,Oh, darn. No fight.
-Dialogue: 0,0:09:55.28,0:09:57.24,Dubtitles,,0,0,0,,Well, I'm not in the mood anyway.
+Dialogue: 0,0:09:40.62,0:09:42.97,Dubtitles,,0,0,0,,Please allow me the chance to fight him.
+Dialogue: 0,0:09:44.06,0:09:44.89,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:09:44.97,0:09:48.52,Dubtitles,,0,0,0,,Remember that my goal is only\Nto obtain the Red Stone of Asia.
+Dialogue: 0,0:09:49.04,0:09:50.66,Dubtitles,,0,0,0,,Don't forget that, Wamuu.
+Dialogue: 0,0:09:51.82,0:09:52.65,Dubtitles,,0,0,0,,Yes, Lord.
+Dialogue: 0,0:09:53.34,0:09:55.06,Dubtitles,,0,0,0,,Oh, darn. No fight.
+Dialogue: 0,0:09:55.32,0:09:57.26,Dubtitles,,0,0,0,,Well, I'm not in the mood anyway.
 Dialogue: 0,0:09:57.64,0:09:59.99,Dubtitles,,0,0,0,,Of course we both know I would beat you.
-Dialogue: 0,0:10:00.10,0:10:01.20,Dubtitles,,0,0,0,,But to what end?
-Dialogue: 0,0:10:01.36,0:10:02.94,Dubtitles,,0,0,0,,All these vampires are here.
-Dialogue: 0,0:10:03.02,0:10:05.66,Dubtitles,,0,0,0,,What sort of motivation\Nis that, I ask you?
-Dialogue: 0,0:10:06.16,0:10:09.34,Dubtitles,,0,0,0,,Win or lose, I would still\Ncome out of it dead, right?
-Dialogue: 0,0:10:09.58,0:10:13.05,Dubtitles,,0,0,0,,With odds like that, giving up\Nis the only rational choice.
+Dialogue: 0,0:10:00.08,0:10:01.20,Dubtitles,,0,0,0,,But to what end?
+Dialogue: 0,0:10:01.38,0:10:02.96,Dubtitles,,0,0,0,,All these vampires are here.
+Dialogue: 0,0:10:03.04,0:10:05.66,Dubtitles,,0,0,0,,What sort of motivation\Nis that, I ask you?
+Dialogue: 0,0:10:06.10,0:10:09.18,Dubtitles,,0,0,0,,Win or lose, I would still\Ncome out of it dead, right?
+Dialogue: 0,0:10:09.26,0:10:12.92,Dubtitles,,0,0,0,,With odds like that, giving up\Nis the only rational choice.
 Dialogue: 0,0:10:13.26,0:10:14.97,Dubtitles,,0,0,0,,So I'm throwing in the towel.
 Dialogue: 1,0:10:14.55,0:10:14.59,SFXBlue,5,0,0,0,,{=28}{\blur0.7\bord6.32\fscx117.35\fscy90.27\alpha&HDD&\frz351.3\pos(97.94,959.76)\c&H1F150C&}Stare
 Dialogue: 2,0:10:14.55,0:10:14.59,SFXBlue,5,0,0,0,,{=28}{\blur0.7\bord0\fscx117.35\fscy90.27\alpha&HDD&\frz351.3\pos(97.94,959.76)\4a&HFF&}Stare
@@ -1237,104 +1223,101 @@ Dialogue: 1,0:10:17.39,0:10:17.43,SFXBlue,5,0,0,0,,{=28}{\blur0.7\bord6.98\fscx1
 Dialogue: 2,0:10:17.39,0:10:17.43,SFXBlue,5,0,0,0,,{=28}{\blur0.7\bord0\fscx129.56\fscy99.66\alpha&H00&\frz351.3\pos(618.8,813.41)\4a&HFF&}Stare
 Dialogue: 1,0:10:17.43,0:10:17.47,SFXBlue,5,0,0,0,,{=28}{\blur0.7\bord7\fscx130\fscy100\alpha&H00&\frz351.3\pos(618.53,813.07)\c&H1F150C&}Stare
 Dialogue: 2,0:10:17.43,0:10:17.47,SFXBlue,5,0,0,0,,{=28}{\blur0.7\bord0\fscx130\fscy100\alpha&H00&\frz351.3\pos(618.53,813.07)\4a&HFF&}Stare
-Dialogue: 0,0:10:17.66,0:10:18.49,Dubtitles,,0,0,0,,Damn.
-Dialogue: 0,0:10:18.57,0:10:19.40,Dubtitles,,0,0,0,,Had to try.
-Dialogue: 0,0:10:19.49,0:10:21.03,Dubtitles,,0,0,0,,I thought it was worth a shot.
-Dialogue: 0,0:10:21.20,0:10:25.10,Dubtitles,,0,0,0,,Even if you were watching all the\Ntime, a Hamonet was a good idea.
+Dialogue: 0,0:10:17.64,0:10:19.26,Dubtitles,,0,0,0,,Damn, had to try.
+Dialogue: 0,0:10:19.52,0:10:21.14,Dubtitles,,0,0,0,,I thought it was worth a shot.
+Dialogue: 0,0:10:21.22,0:10:25.22,Dubtitles,,0,0,0,,Even if you were watching all the\Ntime, a Hamonette was a good idea.
 Dialogue: 0,0:10:25.58,0:10:27.48,Dubtitles,,0,0,0,,Kill them without any further delay.
 Dialogue: 0,0:10:27.56,0:10:28.39,Dubtitles,,0,0,0,,Your choice.
 Dialogue: 0,0:10:28.48,0:10:31.25,Dubtitles,,0,0,0,,But if you kill us, you'll\Nnever get the stone.
-Dialogue: 0,0:10:31.58,0:10:32.41,Dubtitles,,0,0,0,,Hold it.
-Dialogue: 0,0:10:32.50,0:10:34.32,Dubtitles,,0,0,0,,What are you saying now, woman?
-Dialogue: 0,0:10:34.46,0:10:37.00,Dubtitles,,0,0,0,,You don't think I'd have\Nthe stone here with me.
-Dialogue: 0,0:10:37.08,0:10:39.20,Dubtitles,,0,0,0,,That wouldn't be wise, now would it?
-Dialogue: 0,0:10:39.98,0:10:41.34,Dubtitles,,0,0,0,,We're headed to our destination.
-Dialogue: 0,0:10:41.42,0:10:43.92,Dubtitles,,0,0,0,,If we're not there in\Ntime to set the device,
-Dialogue: 0,0:10:44.00,0:10:47.41,Dubtitles,,0,0,0,,the red stone will be destroyed\Nand you will have nothing.
-Dialogue: 0,0:10:51.92,0:10:55.84,Dubtitles,,0,0,0,,Look woman don't try to\Nfool me are you confident
-Dialogue: 0,0:10:55.92,0:10:58.28,Dubtitles,,0,0,0,,that you and your minions\Nwill be able to find
-Dialogue: 0,0:10:58.36,0:11:01.52,Dubtitles,,0,0,0,,it in time the ball my\Nset is a very small one
-Dialogue: 0,0:11:01.60,0:11:04.58,Dubtitles,,0,0,0,,but enough to damage the\Nstone and prevent its use
-Dialogue: 0,0:11:07.02,0:11:11.52,Dubtitles,,0,0,0,,could this really be true she\Nnever said anything whatever
-Dialogue: 0,0:11:11.60,0:11:15.14,Dubtitles,,0,0,0,,i'll follow her lead were\NAre you fellows listening?
-Dialogue: 0,0:11:15.62,0:11:18.24,Dubtitles,,0,0,0,,If we don't stop it,\Nthe bomb will go boom.
-Dialogue: 0,0:11:18.50,0:11:21.46,Dubtitles,,0,0,0,,Even if true, we cannot\Nlet you leave here alive.
-Dialogue: 0,0:11:22.68,0:11:24.50,Dubtitles,,0,0,0,,Therefore, I have a suggestion.
-Dialogue: 0,0:11:25.66,0:11:28.66,Dubtitles,,0,0,0,,Jojo and Mwabu can have\Ntheir fight one-on-one.
-Dialogue: 0,0:11:29.00,0:11:32.48,Dubtitles,,0,0,0,,And Kaz, you and I will\Nalso fight one-on-one.
-Dialogue: 0,0:11:33.02,0:11:37.90,Dubtitles,,0,0,0,,And those who are left standing\Nwill possess the stone. What?
-Dialogue: 0,0:11:39.08,0:11:43.04,Dubtitles,,0,0,0,,The winners of this fight will have\Nthe red stone and all of its power.
-Dialogue: 0,0:11:43.12,0:11:44.90,Dubtitles,,0,0,0,,It'll be made very clear.
-Dialogue: 0,0:11:45.40,0:11:49.20,Dubtitles,,0,0,0,,Which one of us will prove strong\Nenough to wield the stone's power?
-Dialogue: 0,0:11:49.28,0:11:50.96,Dubtitles,,0,0,0,,Who is fit to survive?
-Dialogue: 0,0:11:51.22,0:11:53.18,Dubtitles,,0,0,0,,The Pillowmen or humankind?
-Dialogue: 0,0:11:53.70,0:11:55.08,Dubtitles,,0,0,0,,How dare you say?
-Dialogue: 0,0:11:56.32,0:11:57.15,Dubtitles,,0,0,0,,Wamu.
-Dialogue: 0,0:11:57.96,0:12:00.16,Dubtitles,,0,0,0,,Lord Kars, this is most absurd.
-Dialogue: 0,0:12:00.60,0:12:01.88,Dubtitles,,0,0,0,,She is good.
-Dialogue: 0,0:12:02.44,0:12:07.26,Dubtitles,,0,0,0,,She's just proven herself to be a better\Ngambler than I could ever dream of being.
+Dialogue: 0,0:10:31.56,0:10:32.39,Dubtitles,,0,0,0,,Hold it.
+Dialogue: 0,0:10:32.60,0:10:34.34,Dubtitles,,0,0,0,,What are you saying now, woman?
+Dialogue: 0,0:10:34.42,0:10:37.00,Dubtitles,,0,0,0,,You don't think I'd have\Nthe stone here with me.
+Dialogue: 0,0:10:37.08,0:10:39.18,Dubtitles,,0,0,0,,That wouldn't be wise, now would it?
+Dialogue: 0,0:10:39.26,0:10:41.14,Dubtitles,,0,0,0,,We're headed to our destination.
+Dialogue: 0,0:10:41.26,0:10:43.91,Dubtitles,,0,0,0,,If we're not there in\Ntime to set the device,
+Dialogue: 0,0:10:44.02,0:10:47.43,Dubtitles,,0,0,0,,the red stone will be destroyed\Nand you will have nothing!
+Dialogue: 0,0:10:52.04,0:10:54.48,Dubtitles,,0,0,0,,Look, woman, don't try to fool me.
+Dialogue: 0,0:10:54.94,0:10:59.24,Dubtitles,,0,0,0,,Are you confident that you and your\Nminions will be able to find it in time?
+Dialogue: 0,0:10:59.32,0:11:01.60,Dubtitles,,0,0,0,,The balm I set is a very small one,
+Dialogue: 0,0:11:01.92,0:11:04.92,Dubtitles,,0,0,0,,but enough to damage the\Nstone and prevent its use.
+Dialogue: 0,0:11:07.06,0:11:08.60,Dubtitles,,0,0,0,,Could this really be true?
+Dialogue: 0,0:11:08.88,0:11:10.23,Dubtitles,,0,0,0,,She never said anything
+Dialogue: 0,0:11:10.92,0:11:15.14,Dubtitles,,0,0,0,,Whatever, I'll follow her lead.\NWere you fellows listening?
+Dialogue: 0,0:11:15.60,0:11:19.44,Dubtitles,,0,0,0,,If we don't stop it, the bomb\Nwill go boom Even if true,
+Dialogue: 0,0:11:19.66,0:11:21.66,Dubtitles,,0,0,0,,we cannot let you leave here alive
+Dialogue: 0,0:11:22.64,0:11:24.48,Dubtitles,,0,0,0,,Therefore, I have a suggestion
+Dialogue: 0,0:11:25.50,0:11:29.80,Dubtitles,,0,0,0,,Jojo and Wamuu can have their\Nfight one-on-one. And Kars,
+Dialogue: 0,0:11:30.10,0:11:33.46,Dubtitles,,0,0,0,,you and I will also fight one-on-one And
+Dialogue: 0,0:11:33.54,0:11:37.90,Dubtitles,,0,0,0,,those who are left standing\Nwill possess the stone! What?
+Dialogue: 0,0:11:39.02,0:11:43.20,Dubtitles,,0,0,0,,The winners of this fight will have\Nthe red stone and all of its power.
+Dialogue: 0,0:11:43.46,0:11:44.93,Dubtitles,,0,0,0,,It'll be made very clear.
+Dialogue: 0,0:11:45.44,0:11:49.12,Dubtitles,,0,0,0,,Which one of us will prove strong\Nenough to wield the stone's power?
+Dialogue: 0,0:11:49.20,0:11:51.00,Dubtitles,,0,0,0,,Who is fit to survive?
+Dialogue: 0,0:11:51.26,0:11:53.20,Dubtitles,,0,0,0,,The Pillar Men or humankind?
+Dialogue: 0,0:11:53.70,0:11:55.10,Dubtitles,,0,0,0,,How dare you say?
+Dialogue: 0,0:11:56.36,0:11:57.19,Dubtitles,,0,0,0,,Wamuu.
+Dialogue: 0,0:11:58.00,0:12:00.14,Dubtitles,,0,0,0,,Lord Kars, this is most absurd.
+Dialogue: 0,0:12:00.76,0:12:02.40,Dubtitles,,0,0,0,,She is good!
+Dialogue: 0,0:12:02.48,0:12:07.30,Dubtitles,,0,0,0,,She's just proven herself to be a better\Ngambler than I could ever dream of being.
 Dialogue: 0,0:12:08.04,0:12:09.00,Dubtitles,,0,0,0,,No doubt.
-Dialogue: 0,0:12:09.32,0:12:10.52,Dubtitles,,0,0,0,,You do have pluck.
-Dialogue: 0,0:12:11.12,0:12:11.95,Dubtitles,,0,0,0,,Very well.
-Dialogue: 0,0:12:12.03,0:12:15.96,Dubtitles,,0,0,0,,Then we will battle for the\Nstone, but don't get cocky.
-Dialogue: 0,0:12:16.28,0:12:18.20,Dubtitles,,0,0,0,,You have no tomorrow
-Dialogue: 0,0:12:19.32,0:12:24.50,Dubtitles,,0,0,0,,Using only words she just turned a dire\Nsituation into more or less even odds.
-Dialogue: 0,0:12:24.78,0:12:26.20,Dubtitles,,0,0,0,,Then so be it.
-Dialogue: 0,0:12:26.46,0:12:27.74,Dubtitles,,0,0,0,,Let's do this
-Dialogue: 0,0:12:41.40,0:12:45.70,Dubtitles,,0,0,0,,And so now we need to arrange a\Ntime and place for our battle.
-Dialogue: 0,0:12:46.22,0:12:48.28,Dubtitles,,0,0,0,,Wamuu, what are your thoughts?
-Dialogue: 0,0:12:49.66,0:12:53.96,Dubtitles,,0,0,0,,We fight tonight under\Nthe gaze of the full moon.
-Dialogue: 0,0:12:54.68,0:12:59.04,Dubtitles,,0,0,0,,The arena at the base of Piz Bernina,\N15 kilometers to the southeast.
-Dialogue: 0,0:13:00.18,0:13:03.60,Dubtitles,,0,0,0,,We will meet at the Skeleton's\NHeel Stone Circle there.
+Dialogue: 0,0:12:09.34,0:12:10.52,Dubtitles,,0,0,0,,You do have pluck.
+Dialogue: 0,0:12:11.26,0:12:12.09,Dubtitles,,0,0,0,,Very well.
+Dialogue: 0,0:12:12.18,0:12:14.18,Dubtitles,,0,0,0,,Then we will battle for the stone.
+Dialogue: 0,0:12:14.38,0:12:15.94,Dubtitles,,0,0,0,,But don't get cocky.
+Dialogue: 0,0:12:16.24,0:12:18.18,Dubtitles,,0,0,0,,You have no tomorrow.
+Dialogue: 0,0:12:19.52,0:12:24.46,Dubtitles,,0,0,0,,Using only words, she just turned a dire\Nsituation into more or less even odds.
+Dialogue: 0,0:12:24.80,0:12:26.18,Dubtitles,,0,0,0,,Then so be it!
+Dialogue: 0,0:12:26.44,0:12:27.66,Dubtitles,,0,0,0,,Let's do this!
+Dialogue: 0,0:12:41.44,0:12:45.70,Dubtitles,,0,0,0,,And so now, we need to arrange\Na time and place for our battle.
+Dialogue: 0,0:12:46.24,0:12:48.28,Dubtitles,,0,0,0,,Wamuu, what are your thoughts?
+Dialogue: 0,0:12:49.72,0:12:54.00,Dubtitles,,0,0,0,,We fight tonight, under\Nthe gaze of the full moon.
+Dialogue: 0,0:12:54.70,0:12:59.04,Dubtitles,,0,0,0,,The arena at the base of Piz Bernina,\N15 kilometers to the southeast.
+Dialogue: 0,0:13:00.18,0:13:03.62,Dubtitles,,0,0,0,,We will meet at the Skeleton's\NHeel Stone Circle there.
 Dialogue: 0,0:13:04.28,0:13:09.22,Dubtitles,,0,0,0,,Many warriors have found death, glory, or\Nboth throughout the history of that place.
 Dialogue: 0,0:13:09.70,0:13:11.30,Dubtitles,,0,0,0,,In a stone circle?
-Dialogue: 0,0:13:11.96,0:13:12.79,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:13:12.87,0:13:16.41,Dubtitles,,0,0,0,,You can't just choose a place\Nbecause it happens to suit you!
-Dialogue: 0,0:13:16.76,0:13:17.80,Dubtitles,,0,0,0,,Yes, Wamu.
+Dialogue: 0,0:13:11.98,0:13:12.81,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:13:12.89,0:13:16.41,Dubtitles,,0,0,0,,You can't just choose a place\Nbecause it happens to suit you!
+Dialogue: 0,0:13:16.78,0:13:17.80,Dubtitles,,0,0,0,,Yes, Wamuu.
 Dialogue: 0,0:13:17.96,0:13:20.02,Dubtitles,,0,0,0,,I believe that to be a fine choice.
-Dialogue: 0,0:13:20.26,0:13:22.30,Dubtitles,,0,0,0,,Now let's speak of the Red Stone.
-Dialogue: 0,0:13:22.96,0:13:23.79,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:13:24.00,0:13:28.72,Dubtitles,,0,0,0,,You will bring the Redstone of Asia to\Nthe Skeleton's Heel at midnight tonight.
-Dialogue: 0,0:13:29.96,0:13:32.60,Dubtitles,,0,0,0,,And don't forget to remove the bomb.
-Dialogue: 0,0:13:33.00,0:13:36.08,Dubtitles,,0,0,0,,The woman will remain\Nhere with us as insurance.
-Dialogue: 0,0:13:51.70,0:13:52.74,Dubtitles,,0,0,0,,Well, Lisa, Lisa?
-Dialogue: 0,0:13:53.02,0:13:55.98,Dubtitles,,0,0,0,,They want to make sure that we\Ndon't run away from the fight.
-Dialogue: 0,0:13:56.06,0:13:57.65,Dubtitles,,0,0,0,,It is a reasonable request.
-Dialogue: 0,0:13:58.04,0:14:00.16,Dubtitles,,0,0,0,,Jojo, go and fetch us the Red Stone.
-Dialogue: 0,0:14:00.36,0:14:02.06,Dubtitles,,0,0,0,,You mustn't worry about me.
-Dialogue: 0,0:14:02.64,0:14:03.47,Dubtitles,,0,0,0,,Would I?
-Dialogue: 0,0:14:03.55,0:14:05.34,Dubtitles,,0,0,0,,I'll see you back at the arena.
-Dialogue: 0,0:14:05.84,0:14:07.02,Dubtitles,,0,0,0,,Trust me, all right?
-Dialogue: 0,0:14:07.24,0:14:08.74,Dubtitles,,0,0,0,,I assure you I do.
-Dialogue: 0,0:14:14.50,0:14:15.33,Dubtitles,,0,0,0,,Caesar.
-Dialogue: 0,0:14:25.82,0:14:30.64,Dubtitles,,0,0,0,,Until yesterday, I lived my\Nlife thinking only about myself.
-Dialogue: 0,0:14:30.72,0:14:35.56,Dubtitles,,0,0,0,,But now there's a new intense\Nfeeling burning up inside of me.
-Dialogue: 0,0:14:36.64,0:14:38.24,Dubtitles,,0,0,0,,Is this compassion?
-Dialogue: 0,0:14:39.74,0:14:44.26,Dubtitles,,0,0,0,,I swear, I just want to destroy\Nthose bastards and all their line.
-Dialogue: 0,0:14:44.48,0:14:45.64,Dubtitles,,0,0,0,,I have to do it.
-Dialogue: 0,0:14:45.82,0:14:47.68,Dubtitles,,0,0,0,,For Caesar and for Machina too.
-Dialogue: 0,0:14:48.04,0:14:50.46,Dubtitles,,0,0,0,,Lisa, Lisa, and for everyone else I know.
-Dialogue: 0,0:14:51.38,0:14:53.16,Dubtitles,,0,0,0,,I'll fight for you all.
-Dialogue: 0,0:15:04.00,0:15:07.42,Dubtitles,,0,0,0,,Obviously, there's no bomb here\Nor anywhere else for that matter.
-Dialogue: 0,0:15:07.50,0:15:12.06,Dubtitles,,0,0,0,,Lisa Lisa, even when you're under pressure,\Nyou are one deceptive young woman.
-Dialogue: 0,0:15:12.14,0:15:12.97,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:15:13.05,0:15:17.43,Dubtitles,,0,0,0,,Well now, maybe I should bring you a\Nchange of panties in case you get scared.
-Dialogue: 0,0:15:20.24,0:15:21.14,Dubtitles,,0,0,0,,Wait a minute.
-Dialogue: 0,0:15:21.44,0:15:22.73,Dubtitles,,0,0,0,,What are these photos?
-Dialogue: 0,0:15:23.30,0:15:24.13,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:15:24.21,0:15:25.10,Dubtitles,,0,0,0,,It's Granny Arena.
-Dialogue: 0,0:15:25.52,0:15:28.98,Dubtitles,,0,0,0,,What would Lisa Lisa be\Ndoing with this? Huh?
-Dialogue: 0,0:15:33.76,0:15:34.59,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:15:34.67,0:15:35.50,Dubtitles,,0,0,0,,Who are these people?
-Dialogue: 0,0:15:35.59,0:15:37.40,Dubtitles,,0,0,0,,May Knight, 1889?
-Dialogue: 0,0:15:37.48,0:15:38.84,Dubtitles,,0,0,0,,50 years ago?
-Dialogue: 0,0:15:38.92,0:15:42.22,Dubtitles,,0,0,0,,Then that young guy there is Speedwagon!
-Dialogue: 0,0:15:42.42,0:15:43.80,Dubtitles,,0,0,0,,And Granny Arena!
-Dialogue: 0,0:15:43.88,0:15:46.88,Dubtitles,,0,0,0,,And that straightzo, holding a baby!
-Dialogue: 0,0:15:48.40,0:15:49.34,Dubtitles,,0,0,0,,Lisa, Lisa,
-Dialogue: 0,0:15:49.64,0:15:54.52,Dubtitles,,0,0,0,,I don't know anything about your past or\Nthe life you have led or who you've known.
-Dialogue: 0,0:15:54.68,0:15:57.68,Dubtitles,,0,0,0,,What could you possibly be\Ndoing with these photos?
-Dialogue: 0,0:16:06.96,0:16:09.38,Dubtitles,,0,0,0,,I don't know.
+Dialogue: 0,0:13:20.30,0:13:22.30,Dubtitles,,0,0,0,,Now let's speak of the Red Stone.
+Dialogue: 0,0:13:23.12,0:13:23.95,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:13:24.03,0:13:28.72,Dubtitles,,0,0,0,,You will bring the Red Stone of Asia to\Nthe Skeleton's Heel at midnight tonight.
+Dialogue: 0,0:13:30.14,0:13:32.62,Dubtitles,,0,0,0,,And don't forget to remove the bomb.
+Dialogue: 0,0:13:32.90,0:13:36.08,Dubtitles,,0,0,0,,The woman will remain\Nhere with us as insurance.
+Dialogue: 0,0:13:51.60,0:13:52.74,Dubtitles,,0,0,0,,Well, Lisa, Lisa?
+Dialogue: 0,0:13:53.02,0:13:55.76,Dubtitles,,0,0,0,,They want to make sure that we\Ndon't run away from the fight.
+Dialogue: 0,0:13:55.84,0:13:57.46,Dubtitles,,0,0,0,,It is a reasonable request.
+Dialogue: 0,0:13:58.08,0:14:00.20,Dubtitles,,0,0,0,,JoJo, go and fetch the Red Stone.
+Dialogue: 0,0:14:00.56,0:14:02.15,Dubtitles,,0,0,0,,You mustn't worry about me.
+Dialogue: 0,0:14:02.76,0:14:03.59,Dubtitles,,0,0,0,,Would I?
+Dialogue: 0,0:14:03.67,0:14:05.38,Dubtitles,,0,0,0,,I'll see you back at the arena.
+Dialogue: 0,0:14:05.82,0:14:07.00,Dubtitles,,0,0,0,,Trust me, all right?
+Dialogue: 0,0:14:07.24,0:14:08.72,Dubtitles,,0,0,0,,I assure you I do.
+Dialogue: 0,0:14:14.68,0:14:15.51,Dubtitles,,0,0,0,,Caesar.
+Dialogue: 0,0:14:25.74,0:14:29.42,Dubtitles,,0,0,0,,Until yesterday, I lived my life thinking.
+Dialogue: 0,0:14:29.50,0:14:32.72,Dubtitles,,0,0,0,,only about myself but now there's a
+Dialogue: 0,0:14:32.80,0:14:35.04,Dubtitles,,0,0,0,,new intense feeling burning up inside
+Dialogue: 0,0:14:35.12,0:14:41.62,Dubtitles,,0,0,0,,of me is this compassion i swear i just
+Dialogue: 0,0:14:41.70,0:14:46.48,Dubtitles,,0,0,0,,I want to destroy those bastards and all\Ntheir line. I have to do it for Caesar.
+Dialogue: 0,0:14:46.56,0:14:53.24,Dubtitles,,0,0,0,,and for machina too lisa lisa and for\Neveryone else i know i'll fight for you all
+Dialogue: 0,0:15:03.84,0:15:07.64,Dubtitles,,0,0,0,,obviously there's no bomb here or\Nanywhere else for that matter lisa
+Dialogue: 0,0:15:07.72,0:15:11.28,Dubtitles,,0,0,0,,lisa even when you're under pressure\Nyou are one deceptive young woman
+Dialogue: 0,0:15:11.36,0:15:15.78,Dubtitles,,0,0,0,,hmm well now maybe i should bring\Nyou a change of panties in case you
+Dialogue: 0,0:15:15.86,0:15:21.74,Dubtitles,,0,0,0,,get scared wait a minute what are
+Dialogue: 0,0:15:21.82,0:15:25.14,Dubtitles,,0,0,0,,these photos what it's granny arena
+Dialogue: 0,0:15:25.74,0:15:28.00,Dubtitles,,0,0,0,,what would lisa lisa be doing with this
+Dialogue: 0,0:15:28.08,0:15:34.54,Dubtitles,,0,0,0,,huh who are these people may 22nd 1889
+Dialogue: 0,0:15:34.62,0:15:39.46,Dubtitles,,0,0,0,,50 years ago, then that young guy there
+Dialogue: 0,0:15:39.54,0:15:44.66,Dubtitles,,0,0,0,,Is Speedwagon. And Granny Erina. And that
+Dialogue: 0,0:15:44.74,0:15:50.06,Dubtitles,,0,0,0,,straight so holding a baby Lisa Lisa I
+Dialogue: 0,0:15:50.14,0:15:52.40,Dubtitles,,0,0,0,,don't know anything about your past or the
+Dialogue: 0,0:15:52.48,0:15:57.42,Dubtitles,,0,0,0,,life you have led or who you know what could\Nyou possibly be doing with these photos
+Dialogue: 0,0:16:07.40,0:16:13.72,Dubtitles,,0,0,0,,I have to be careful if you can get\Nme back in the middle of the realize.
+Dialogue: 0,0:16:13.80,0:16:17.54,Dubtitles,,0,0,0,,The final chapter is 10.
+Dialogue: 0,0:16:18.80,0:16:25.40,Dubtitles,,0,0,0,,Based on the increase in\Nincreases is 1,000 times.
+Dialogue: 0,0:16:28.12,0:16:28.95,Dubtitles,,0,0,0,,This is how I feel.
+Dialogue: 0,0:16:29.03,0:16:29.90,Dubtitles,,0,0,0,,I don't know if I'm hurt.
+Dialogue: 0,0:16:29.98,0:16:31.40,Dubtitles,,0,0,0,,I'll sleep again.
 Dialogue: 1,0:16:37.56,0:16:37.60,SFXRed,6,0,0,0,,{=29}{\blur8\bord13.24\fscx191.31\fscy147.16\alpha&H80&\frz23.08\pos(1326.95,739.42)}G{*\c&H8906E6&}l{*\c&H7C0CE1&}i{*\c&H6E12DC&}s{*\c&H6117D8&}t{*\c&H541DD4&}e{\c&H4723CF&}n
 Dialogue: 2,0:16:37.56,0:16:37.60,SFXRed,6,0,0,0,,{=29}{\blur0.8\bord13.24\fscx191.31\fscy147.16\alpha&H00&\frz23.08\pos(1326.95,739.42)\c&H1A1351&}Glisten
 Dialogue: 3,0:16:37.56,0:16:37.60,SFXRed,6,0,0,0,,{=29}{\blur0.8\bord0\fscx191.31\fscy147.16\alpha&H00&\frz23.08\pos(1326.95,739.42)\4a&HFF&}G{*\c&H8906E6&}l{*\c&H7C0CE1&}i{*\c&H6E12DC&}s{*\c&H6117D8&}t{*\c&H541DD4&}e{\c&H4723CF&}n
@@ -1410,27 +1393,28 @@ Dialogue: 3,0:16:38.52,0:16:38.56,SFXRed,6,0,0,0,,{=29}{\blur0.8\bord0\fscx130.7
 Dialogue: 1,0:16:38.56,0:16:38.60,SFXRed,6,0,0,0,,{=29}{\blur8\bord9.04\fscx130.56\fscy100.43\alpha&H80&\pos(979.56,720.85)\frz16.27}G{*\c&H8906E6&}l{*\c&H7C0CE1&}i{*\c&H6E12DC&}s{*\c&H6117D8&}t{*\c&H541DD4&}e{\c&H4723CF&}n
 Dialogue: 2,0:16:38.56,0:16:38.60,SFXRed,6,0,0,0,,{=29}{\blur0.8\bord9.04\fscx130.56\fscy100.43\alpha&H00&\pos(979.56,720.85)\frz16.27\c&H1A1351&}Glisten
 Dialogue: 3,0:16:38.56,0:16:38.60,SFXRed,6,0,0,0,,{=29}{\blur0.8\bord0\fscx130.56\fscy100.43\alpha&H00&\pos(979.56,720.85)\frz16.27\4a&HFF&}G{*\c&H8906E6&}l{*\c&H7C0CE1&}i{*\c&H6E12DC&}s{*\c&H6117D8&}t{*\c&H541DD4&}e{\c&H4723CF&}n
-Dialogue: 0,0:16:41.84,0:16:45.02,Dubtitles,,0,0,0,,it's genuine we accept your proposal
-Dialogue: 0,0:16:45.10,0:16:48.86,Dubtitles,,0,0,0,,we honor you by fighting one-on-one
-Dialogue: 0,0:17:06.10,0:17:10.94,Dubtitles,,0,0,0,,I suppose this means you saw the photos,\Nand you'd like to talk about it, right?
-Dialogue: 0,0:17:11.38,0:17:14.82,Dubtitles,,0,0,0,,Actually, I had intended to\Ndiscuss this with you anyway.
-Dialogue: 0,0:17:15.04,0:17:16.64,Dubtitles,,0,0,0,,Start with who you are.
-Dialogue: 0,0:17:19.06,0:17:23.90,Dubtitles,,0,0,0,,Fifty years ago now, Iran lost her\Nhusband on a ship sailing the Atlantic.
-Dialogue: 0,0:17:24.36,0:17:27.74,Dubtitles,,0,0,0,,He was Jonathan Joestar, your grandfather.
+Dialogue: 0,0:16:41.84,0:16:45.04,Dubtitles,,0,0,0,,it's genuine we accept your proposal
+Dialogue: 0,0:16:45.12,0:16:48.86,Dubtitles,,0,0,0,,we honor you by fighting one-on-one
+Dialogue: 0,0:17:06.14,0:17:10.94,Dubtitles,,0,0,0,,I suppose this means you saw the photos,\Nand you'd like to talk about it, right?
+Dialogue: 0,0:17:11.40,0:17:14.82,Dubtitles,,0,0,0,,Actually, I had intended to\Ndiscuss this with you anyway.
+Dialogue: 0,0:17:15.02,0:17:16.64,Dubtitles,,0,0,0,,Start with who you are.
+Dialogue: 0,0:17:19.10,0:17:23.90,Dubtitles,,0,0,0,,Fifty years ago now, Iran lost her\Nhusband on a ship sailing the Atlantic.
+Dialogue: 0,0:17:24.40,0:17:27.74,Dubtitles,,0,0,0,,He was Jonathan Joestar, your grandfather.
 Dialogue: 0,0:17:29.10,0:17:33.78,Dubtitles,,0,0,0,,That horrible day, your grandmother\Nsaved the life of a baby girl.
 Dialogue: 0,0:17:34.10,0:17:35.16,Dubtitles,,0,0,0,,That was me.
 Dialogue: 0,0:17:35.62,0:17:37.82,Dubtitles,,0,0,0,,I am the baby in that photograph.
 Dialogue: 0,0:17:39.26,0:17:40.50,Dubtitles,,0,0,0,,Wait a moment here.
 Dialogue: 0,0:17:40.66,0:17:42.30,Dubtitles,,0,0,0,,That was 50 years ago.
-Dialogue: 0,0:17:42.66,0:17:45.72,Dubtitles,,0,0,0,,So if you were a baby 50 years ago...
-Dialogue: 0,0:17:45.80,0:17:47.00,Dubtitles,,0,0,0,,Hold on now!
-Dialogue: 0,0:17:47.16,0:17:48.88,Dubtitles,,0,0,0,,Just how old are you anyway?
-Dialogue: 0,0:17:50.74,0:17:51.84,Dubtitles,,0,0,0,,You're 50?
-Dialogue: 0,0:17:54.22,0:18:00.38,Dubtitles,,0,0,0,,Oh, man, if you're 50, that\Nmeans then you're really old.
-Dialogue: 0,0:18:03.24,0:18:04.24,Dubtitles,,0,0,0,,Is that right?
+Dialogue: 0,0:17:42.66,0:17:45.80,Dubtitles,,0,0,0,,So if you were a baby 50 years ago...
+Dialogue: 0,0:17:45.88,0:17:46.98,Dubtitles,,0,0,0,,Hold on now.
+Dialogue: 0,0:17:47.14,0:17:48.88,Dubtitles,,0,0,0,,Just how old are you anyway?
+Dialogue: 0,0:17:50.74,0:17:51.86,Dubtitles,,0,0,0,,You're 50?
+Dialogue: 0,0:17:54.18,0:17:55.34,Dubtitles,,0,0,0,,Oh, man!
+Dialogue: 0,0:17:55.68,0:18:00.36,Dubtitles,,0,0,0,,If you're 50, that means\Nthen you're really old!
+Dialogue: 0,0:18:03.20,0:18:04.24,Dubtitles,,0,0,0,,Is that right?
 Dialogue: 0,0:18:04.52,0:18:08.38,Dubtitles,,0,0,0,,Normally, you look like\Nyou're in your late 20s.
-Dialogue: 0,0:18:09.14,0:18:13.18,Dubtitles,,0,0,0,,They say that harmon energy is\Nlife energy and keeps you young.
-Dialogue: 0,0:18:14.42,0:18:16.68,Dubtitles,,0,0,0,,I guess that explains why you really don't
+Dialogue: 0,0:18:09.12,0:18:13.18,Dubtitles,,0,0,0,,They say that Hamon energy is\Nlife energy and keeps you young.
+Dialogue: 0,0:18:14.40,0:18:16.68,Dubtitles,,0,0,0,,I guess that explains why you really don't
 Dialogue: 0,0:18:16.76,0:18:19.29,Dubtitles,,0,0,0,,act like a young woman\Nwould behave at all.
 Dialogue: 0,0:18:19.84,0:18:23.50,Dubtitles,,0,0,0,,Ah, I think I see a little\Nwrinkle back there. Yep.
 Dialogue: 1,0:18:23.62,0:18:23.67,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&HFF&\frz356.7\pos(1358.78,750.6)\c&H3B181D&}Stare
@@ -1471,7 +1455,7 @@ Dialogue: 1,0:18:24.33,0:18:24.37,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&H00&\frz
 Dialogue: 2,0:18:24.33,0:18:24.37,SFXPurple,7,0,0,0,,{=31}{\bord0\blur1\alpha&H00&\frz356.7\pos(1379.83,750.18)\4a&HFF&}Stare
 Dialogue: 1,0:18:24.37,0:18:24.42,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&H00&\frz356.7\pos(1379.71,750.13)\c&H3B181D&}Stare
 Dialogue: 2,0:18:24.37,0:18:24.42,SFXPurple,7,0,0,0,,{=31}{\bord0\blur1\alpha&H00&\frz356.7\pos(1379.71,750.13)\4a&HFF&}Stare
-Dialogue: 0,0:18:24.38,0:18:26.32,Dubtitles,,0,0,0,,Hey, I'm just kidding, all right?
+Dialogue: 0,0:18:24.38,0:18:26.26,Dubtitles,,0,0,0,,Hey, I'm just kidding, all right
 Dialogue: 1,0:18:24.42,0:18:24.50,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&H00&\frz356.7\pos(1381.94,750.09)\c&H3B181D&}Stare
 Dialogue: 2,0:18:24.42,0:18:24.50,SFXPurple,7,0,0,0,,{=31}{\bord0\blur1\alpha&H00&\frz356.7\pos(1381.94,750.09)\4a&HFF&}Stare
 Dialogue: 1,0:18:24.50,0:18:24.54,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&H00&\frz356.7\pos(1384.12,750.13)\c&H3B181D&}Stare
@@ -1536,18 +1520,16 @@ Dialogue: 1,0:18:25.92,0:18:25.96,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&H00&\frz
 Dialogue: 2,0:18:25.92,0:18:25.96,SFXPurple,7,0,0,0,,{=31}{\bord0\blur1\alpha&H00&\frz356.7\pos(1420.91,750.54)\4a&HFF&}Stare
 Dialogue: 1,0:18:25.96,0:18:26.00,SFXPurple,7,0,0,0,,{=31}{\blur1\alpha&H00&\frz356.7\pos(1420.9,750.54)\c&H3B181D&}Stare
 Dialogue: 2,0:18:25.96,0:18:26.00,SFXPurple,7,0,0,0,,{=31}{\bord0\blur1\alpha&H00&\frz356.7\pos(1420.9,750.54)\4a&HFF&}Stare
-Dialogue: 0,0:18:28.44,0:18:30.02,Dubtitles,,0,0,0,,Vampires, prepare the arena!
-Dialogue: 0,0:18:30.10,0:18:31.82,Dubtitles,,0,0,0,,Light the fires!
-Dialogue: 0,0:18:40.52,0:18:43.26,Dubtitles,,0,0,0,,There is not enough\Ntime for us to talk now.
-Dialogue: 0,0:18:43.94,0:18:46.22,Dubtitles,,0,0,0,,But we really do need to find the time?
-Dialogue: 0,0:18:46.30,0:18:49.54,Dubtitles,,0,0,0,,Because our roots are deeply connected.
+Dialogue: 0,0:18:28.44,0:18:31.82,Dubtitles,,0,0,0,,Vampires, prepare the\Narena Light the fires!
+Dialogue: 0,0:18:40.52,0:18:43.26,Dubtitles,,0,0,0,,There is not enough\Ntime for us to talk now
+Dialogue: 0,0:18:43.94,0:18:49.54,Dubtitles,,0,0,0,,But we really do need to find the time\NBecause our roots are deeply connected.
 Dialogue: 0,0:18:50.06,0:18:51.00,Dubtitles,,0,0,0,,Our roots?
 Dialogue: 0,0:18:51.32,0:18:54.10,Dubtitles,,0,0,0,,The stone mask killed my parents.
 Dialogue: 0,0:18:55.36,0:18:58.56,Dubtitles,,0,0,0,,Iran was pregnant when she rescued\Nthe little girl on the ship.
-Dialogue: 0,0:18:58.64,0:19:02.88,Dubtitles,,0,0,0,,She couldn't raise two children,\Nso Straitzo became a father to me.
-Dialogue: 0,0:19:04.18,0:19:05.48,Dubtitles,,0,0,0,,Straitzo as a father?
+Dialogue: 0,0:18:58.64,0:19:02.88,Dubtitles,,0,0,0,,She couldn't raise two children,\Nso Straizo became a father to me.
+Dialogue: 0,0:19:04.18,0:19:05.48,Dubtitles,,0,0,0,,Straizo as a father?
 Dialogue: 0,0:19:05.70,0:19:06.64,Dubtitles,,0,0,0,,Are you serious?
-Dialogue: 0,0:19:07.08,0:19:10.46,Dubtitles,,0,0,0,,Everything I know about\NHarmon, Straitzo taught me.
+Dialogue: 0,0:19:07.08,0:19:10.46,Dubtitles,,0,0,0,,Everything I know about\NHamon, Straitzo taught me.
 Dialogue: 0,0:19:11.42,0:19:14.22,Dubtitles,,0,0,0,,He even gave me the red stone of Asia.
 Dialogue: 0,0:19:14.70,0:19:15.60,Dubtitles,,0,0,0,,He did that?
 Dialogue: 0,0:19:15.68,0:19:19.03,Dubtitles,,0,0,0,,Wow, this is all just so\Nunbelievable and hard to accept.
@@ -1570,12 +1552,12 @@ Dialogue: 0,0:20:14.12,0:20:16.00,Dubtitles,,0,0,0,,Huh? What's that? No!
 Dialogue: 0,0:20:21.48,0:20:23.06,Dubtitles,,0,0,0,,Out of the way!
 Dialogue: 0,0:20:23.32,0:20:26.48,Dubtitles,,0,0,0,,I don't care how many of\Nyou get crushed! What?
 Dialogue: 0,0:20:26.68,0:20:28.62,Dubtitles,,0,0,0,,What is that thing? A dinosaur?
-Dialogue: 0,0:20:29.02,0:20:31.22,Dubtitles,,0,0,0,,No, I think a horse! That's a horse!
-Dialogue: 0,0:20:32.98,0:20:34.66,Dubtitles,,0,0,0,,Lord Kars! Lord Wamu!
+Dialogue: 0,0:20:29.02,0:20:31.22,Dubtitles,,0,0,0,,No, it's a horse! That's a horse!
+Dialogue: 0,0:20:32.98,0:20:34.66,Dubtitles,,0,0,0,,Lord Kars! Lord Wamuu!
 Dialogue: 0,0:20:34.80,0:20:35.66,Dubtitles,,0,0,0,,Please, move!
-Dialogue: 0,0:20:35.98,0:20:36.81,Dubtitles,,0,0,0,,They've got Berserk!
+Dialogue: 0,0:20:35.98,0:20:36.81,Dubtitles,,0,0,0,,They've gone mad!
 Dialogue: 0,0:20:36.89,0:20:38.14,Dubtitles,,0,0,0,,I can't control them!
-Dialogue: 0,0:20:39.68,0:20:41.94,Dubtitles,,0,0,0,,Lord WAMU, PLEASE!
+Dialogue: 0,0:20:39.68,0:20:41.94,Dubtitles,,0,0,0,,Lord Wamuu, please!
 Dialogue: 1,0:20:44.76,0:20:44.81,SFXYellow2,8,0,0,0,,{=32}{\blur0.8\bord20.11\fscx435.63\fscy335.1\alpha&H00&\frz36.07\pos(733.37,876.12)\c&H061714&}Glare
 Dialogue: 2,0:20:44.76,0:20:44.81,SFXYellow2,8,0,0,0,,{=32}{\blur0.8\bord0\fscx435.63\fscy335.1\alpha&H00&\frz36.07\pos(733.37,876.12)\4a&HFF&}Glare
 Dialogue: 1,0:20:44.81,0:20:44.85,SFXYellow2,8,0,0,0,,{=32}{\blur0.8\bord10.89\fscx235.89\fscy181.45\alpha&H00&\frz36.07\pos(610.61,597.31)\c&H061714&}Glare
@@ -1630,26 +1612,24 @@ Dialogue: 0,0:21:03.96,0:21:05.10,Dubtitles,,0,0,0,,On that track,
 Dialogue: 0,0:21:05.32,0:21:07.38,Dubtitles,,0,0,0,,Jojo and Wamuu will face each other one-on
 Dialogue: 0,0:21:07.46,0:21:10.10,Dubtitles,,0,0,0,,-one in a fierce\Nancient-style chariot duel.
 Dialogue: 0,0:21:12.92,0:21:14.04,Dubtitles,,0,0,0,,What do you mean?
-Dialogue: 0,0:21:14.68,0:21:16.68,Dubtitles,,0,0,0,,An ancient Roman-style deathmatch.
+Dialogue: 0,0:21:14.68,0:21:16.68,Dubtitles,,0,0,0,,An ancient Roman-style deathmatch!
 Dialogue: 0,0:21:17.60,0:21:21.54,Dubtitles,,0,0,0,,You will battle, racing around the\Narena trying to kill each other.
 Dialogue: 0,0:21:21.68,0:21:23.38,Dubtitles,,0,0,0,,Lord Wamuu or Jojo,
 Dialogue: 0,0:21:23.58,0:21:25.70,Dubtitles,,0,0,0,,who will be the first\None to fall under the
 Dialogue: 0,0:21:25.78,0:21:28.25,Dubtitles,,0,0,0,,wheels or get beaten down by his opponent?
 Dialogue: 0,0:21:28.66,0:21:29.58,Dubtitles,,0,0,0,,The loser dies!
-Dialogue: 0,0:21:29.66,0:21:31.36,Dubtitles,,0,0,0,,Dies those are the rules.
-Dialogue: 0,0:21:31.44,0:21:36.14,Dubtitles,,0,0,0,,Jojo the beasts have a hundred times\Nnormal strength even lord Wamuu.
-Dialogue: 0,0:21:36.22,0:21:37.40,Dubtitles,,0,0,0,,Can barely control them.
-Dialogue: 0,0:21:37.48,0:21:39.22,Dubtitles,,0,0,0,,Hold it just a minute.
-Dialogue: 0,0:21:39.30,0:21:42.16,Dubtitles,,0,0,0,,I will fight you on any\Nfield or in any cage.
-Dialogue: 0,0:21:42.24,0:21:44.90,Dubtitles,,0,0,0,,But vampires are your minions even horses.
-Dialogue: 0,0:21:44.98,0:21:46.14,Dubtitles,,0,0,0,,So how is that fair?
-Dialogue: 0,0:21:46.22,0:21:49.28,Dubtitles,,0,0,0,,Don't fret human the reins you use.
-Dialogue: 0,0:21:49.36,0:21:50.42,Dubtitles,,0,0,0,,Will conduct hamon.
-Dialogue: 0,0:21:50.50,0:21:56.22,Dubtitles,,0,0,0,,Wamuu will use his superior strength\Nand you can use your hamon to control.
+Dialogue: 0,0:21:29.66,0:21:33.14,Dubtitles,,0,0,0,,Dies! Those are the rules,\NJoJo! The beasts have...
+Dialogue: 0,0:21:33.22,0:21:36.14,Dubtitles,,0,0,0,,A hundred times normal\Nstrength. Even Lord Wham.
+Dialogue: 0,0:21:36.22,0:21:39.22,Dubtitles,,0,0,0,,can barely control them\Nhold it just a minute
+Dialogue: 0,0:21:39.30,0:21:42.58,Dubtitles,,0,0,0,,i will fight you on any\Nfield or in any cage but
+Dialogue: 0,0:21:42.66,0:21:45.38,Dubtitles,,0,0,0,,vampires are your minions\Neven horses so how
+Dialogue: 0,0:21:45.46,0:21:49.28,Dubtitles,,0,0,0,,is that fair don't fret\Nhuman the reins you use
+Dialogue: 0,0:21:49.36,0:21:52.64,Dubtitles,,0,0,0,,Will conduct Hamon. Whamu\Nwill use his superior
+Dialogue: 0,0:21:52.72,0:21:56.22,Dubtitles,,0,0,0,,strength and you can use\Nyour hamon to control
 Dialogue: 0,0:21:57.14,0:21:58.62,Dubtitles,,0,0,0,,Are you sure about that?
 Dialogue: 0,0:21:58.82,0:22:00.29,Dubtitles,,0,0,0,,They look pretty vicious.
 Dialogue: 0,0:22:00.54,0:22:02.06,Dubtitles,,0,0,0,,Be careful, they're mean!
-Dialogue: 0,0:22:07.92,0:22:10.64,Dubtitles,,0,0,0,,That's true, but a\Nlittle hormone does help.
+Dialogue: 0,0:22:07.92,0:22:10.64,Dubtitles,,0,0,0,,That's true, but a little Hamon does help.
 Dialogue: 0,0:22:12.32,0:22:15.36,Dubtitles,,0,0,0,,Wamuu, Wamuu, Wamuu, Wamuu,
 Dialogue: 0,0:22:15.46,0:22:19.98,Dubtitles,,0,0,0,,Wamuu, Wamuu, Wamuu, Wamuu, Wamuu!
 Dialogue: 1,0:22:19.99,0:22:20.03,SFXAqua,9,0,0,0,,{=33}{\blur6\bord15.72\fscx235.76\fscy196.46\shad13.75\1a&H00&\3a&H80&\4a&H69&\xshad-11.79\frz349.1\pos(1498.96,672.83)\clip(m 1356 650 l 1345 857 1353 1021 845 908 886 545)\alpha&H80&}Fwoosh
@@ -1886,7 +1866,7 @@ Dialogue: 3,0:22:23.15,0:22:23.20,SFXAqua,9,0,0,0,,{=33}{\blur1\bord0\fscx103.48
 Dialogue: 1,0:22:23.20,0:22:23.24,SFXAqua,9,0,0,0,,{=33}{\blur6\bord6.87\fscx103.04\fscy85.87\shad6.01\1a&H00&\3a&H80&\4a&H69&\xshad-5.15\frz349.1\pos(1418.72,396.76)\alpha&H80&}Fwoosh
 Dialogue: 2,0:22:23.20,0:22:23.24,SFXAqua,9,0,0,0,,{=33}{\blur1\bord6.87\fscx103.04\fscy85.87\shad6.01\1a&H00&\3a&H00&\4a&H69&\xshad-5.15\frz349.1\pos(1418.72,396.76)\c&H38291A&}Fwoosh
 Dialogue: 3,0:22:23.20,0:22:23.24,SFXAqua,9,0,0,0,,{=33}{\blur1\bord0\fscx103.04\fscy85.87\1a&H00&\3a&H00&\4a&H69&\xshad-5.15\frz349.1\pos(1418.72,396.76)\shad6.01\4a&HFF&}Fwoosh
-Dialogue: 0,0:22:25.50,0:22:26.44,Dubtitles,,0,0,0,,See, Wamu?
+Dialogue: 0,0:22:25.50,0:22:26.44,Dubtitles,,0,0,0,,See, Wamuu?
 Dialogue: 0,0:22:26.62,0:22:29.34,Dubtitles,,0,0,0,,He has chosen an ancient\Nform for this battle.
 Dialogue: 0,0:22:29.58,0:22:31.40,Dubtitles,,0,0,0,,That's a sign he means to win.
 Dialogue: 0,0:22:31.70,0:22:32.76,Dubtitles,,0,0,0,,It's not for fun.
@@ -1895,7 +1875,7 @@ Dialogue: 0,0:22:35.46,0:22:37.06,Dubtitles,,0,0,0,,He wants to take your life.
 Dialogue: 0,0:22:37.64,0:22:38.98,Dubtitles,,0,0,0,,Just beat him, Jojo.
 Dialogue: 0,0:22:39.28,0:22:41.48,Dubtitles,,0,0,0,,We have no choice but to win this.
 Dialogue: 0,0:22:41.76,0:22:42.94,Dubtitles,,0,0,0,,There are no draws.
-Dialogue: 0,0:22:46.08,0:22:47.00,Dubtitles,,0,0,0,,Wamu! Hey!
+Dialogue: 0,0:22:46.08,0:22:47.00,Dubtitles,,0,0,0,,Wham! Wham!
 Dialogue: 0,0:22:50.26,0:22:53.32,Dubtitles,,0,0,0,,Did you notice that I haven't\Ntaken this antidote yet?
 Dialogue: 0,0:22:53.40,0:22:58.04,Dubtitles,,0,0,0,,I made a promise to Caesar that I wouldn't\Ndrink this until after I took you down.
 Dialogue: 0,0:22:58.12,0:23:02.77,Dubtitles,,0,0,0,,That promise is going to provide me with\Na power I've never experienced before.
@@ -1908,14 +1888,13 @@ Dialogue: 1,0:24:20.69,0:24:26.19,Lyrics 2,Yes,0,0,0,,Go closer hold the land, f
 Dialogue: 1,0:24:27.90,0:24:33.24,Lyrics 2,Yes,0,0,0,,We stand to lose all time, a thousand answers by in our hand
 Dialogue: 1,0:24:35.04,0:24:40.63,Lyrics 2,Yes,0,0,0,,Next to your deeper fears, we stand surrounded by million years
 Dialogue: 1,0:24:41.29,0:24:44.92,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:24:41.78,0:24:48.58,Dubtitles,,0,0,0,,I'll be the round and out, the\Nbirds will make you one and out.
+Dialogue: 0,0:24:41.78,0:24:48.58,Dubtitles,,0,0,0,,I'll be the round and out. The\Nbirds will make you one and out.
 Dialogue: 1,0:24:44.92,0:24:48.47,Lyrics 2,Yes,0,0,0,,The words will make you out and out
 Dialogue: 1,0:24:48.47,0:24:52.14,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:24:48.68,0:24:51.70,Dubtitles,,0,0,0,,I'll be the round and out,
+Dialogue: 0,0:24:48.68,0:24:51.70,Dubtitles,,0,0,0,,I'll be the round and out.
 Dialogue: 0,0:24:51.92,0:24:55.74,Dubtitles,,0,0,0,,the birds will make you one and out.
 Dialogue: 1,0:24:52.14,0:24:56.06,Lyrics 2,Yes,0,0,0,,The words will make you out and out
 Dialogue: 1,0:24:56.56,0:24:58.56,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:56.56,0:24:58.56,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
 Dialogue: 1,0:25:08.82,0:25:08.86,SFXRed2,P1,0,0,0,,{=15}{\blur0.8\bord19.28\fscx289.18\fscy240.99\alpha&H00&\frz20.48\pos(420.73,287.87)\iclip(m 496 624 l 490 594 502 550 478 540 430 564 390 578 384 536 428 514 450 502 482 522 510 534 532 528 540 488 556 474 586 458 592 432 604 342 582 332 494 364 408 400 278 354 280 404 272 446 236 462 246 426 226 400 198 406 172 448 138 504 130 512 138 526 124 564 87 440 -18 461 0 618 86 750 176 708 162 684 176 666 210 634 228 642 248 610 260 602 260 640 256 668 212 696)\c&H22213C&}Whoosh {In preview for last episode}
 Dialogue: 2,0:25:08.82,0:25:08.86,SFXRed2,P1,0,0,0,,{=15}{\blur0.8\bord0\fscx289.18\fscy240.99\alpha&H00&\frz20.48\pos(420.73,287.87)\iclip(m 496 624 l 490 594 502 550 478 540 430 564 390 578 384 536 428 514 450 502 482 522 510 534 532 528 540 488 556 474 586 458 592 432 604 342 582 332 494 364 408 400 278 354 280 404 272 446 236 462 246 426 226 400 198 406 172 448 138 504 130 512 138 526 124 564 87 440 -18 461 0 618 86 750 176 708 162 684 176 666 210 634 228 642 248 610 260 602 260 640 256 668 212 696)\4a&HFF&}Whoosh {In preview for last episode}
 Dialogue: 1,0:25:08.86,0:25:08.90,SFXRed2,P1,0,0,0,,{=15}{\blur0.8\bord15.52\fscx232.8\fscy194\alpha&H00&\frz20.48\pos(555.68,416.88)\iclip(m 532 694 l 528 654 534 630 516 626 452 654 444 656 446 622 502 598 536 620 556 620 562 598 578 572 600 562 614 466 602 460 452 516 379 507 324 562 330 532 316 516 298 518 278 542 242 602 230 680 224 742 278 738 296 708 306 700 316 710 330 684 344 674 346 722 304 758 296 744 272 784 242 840)\c&H22213C&}Whoosh {In preview for last episode}
@@ -1955,7 +1934,5 @@ Dialogue: 1,0:25:09.53,0:25:09.57,SFXRed2,P1,0,0,0,,{=15}{\blur0.8\alpha&H00&\fr
 Dialogue: 2,0:25:09.53,0:25:09.57,SFXRed2,P1,0,0,0,,{=15}{\bord0\blur0.8\alpha&H00&\frz20.48\pos(835.8,629.42)\4a&HFF&}Whoosh {In preview for last episode}
 Dialogue: 1,0:25:09.57,0:25:11.57,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 22:
 Dialogue: 1,0:25:09.57,0:25:11.57,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"A True Warrior"{\i0}
-Dialogue: 1,0:25:09.57,0:25:11.57,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 22:
-Dialogue: 1,0:25:09.57,0:25:11.57,Title2,,0,0,0,,{\fs105\pos(960,772)}"A True Warrior"
 Dialogue: 0,0:25:11.78,0:25:12.51,Dubtitles,,0,0,0,,You
 

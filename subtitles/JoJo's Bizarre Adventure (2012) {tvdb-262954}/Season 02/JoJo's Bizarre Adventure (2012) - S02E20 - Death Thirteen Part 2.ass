@@ -52,15 +52,14 @@ Style: SFXGreen2,Shaky Hand Some Comic,170,&H006CA63E,&H000000FF,&H000B1007,&H00
 Style: SFXGreen3,Boogaloo,170,&H0083E9C2,&H000000FF,&H001A1D1B,&H00000000,-1,0,0,0,130,100,0,0,1,8,0,8,50,40,20,1
 Style: SFX2U,Shaky Hand Some Comic Bold,140,&H009D5ED6,&H000000FF,&H002F2E3D,&H00000000,0,0,0,0,130,100,0,0,1,6,0,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,45,&H000E2115,&H000000FF,&H00000000,&HC42C9B51,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.44,0:00:02.76,Dubtitles,,0,0,0,,Gelies cerca
-Dialogue: 0,0:00:29.14,0:00:34.02,Dubtitles,,0,0,0,,who are facing the direction of the sea of
-Dialogue: 0,0:00:34.10,0:00:37.10,Dubtitles,,0,0,0,,the sea of the sea
+Dialogue: 0,0:00:27.46,0:00:31.90,Dubtitles,,0,0,0,,The men who are facing the
+Dialogue: 0,0:00:31.98,0:00:35.48,Dubtitles,,0,0,0,,direction of the sea of the sea
 Dialogue: 0,0:00:41.56,0:00:44.16,Dubtitles,,0,0,0,,a ringer,
-Dialogue: 0,0:00:44.58,0:00:48.92,Dubtitles,,0,0,0,,a ringer, a ringer
+Dialogue: 0,0:00:44.58,0:00:48.92,Dubtitles,,0,0,0,,A ringer, a ringer.
 Dialogue: 2,0:01:30.77,0:01:35.61,Title 3,ep,0,0,0,,{\fad(690,930)\pos(192,815)\fscx86}Episode 20: Death 13, Part 2
 Dialogue: 0,0:01:46.32,0:01:48.42,Dubtitles,,0,0,0,,So this is Saudi Arabia.
 Dialogue: 0,0:01:48.92,0:01:51.34,Dubtitles,,0,0,0,,About 8,800 kilometers from Japan.
@@ -69,25 +68,18 @@ Dialogue: 0,0:01:58.92,0:02:01.98,Dubtitles,,0,0,0,,If we don't hurry, we'll\Nbe
 Dialogue: 0,0:02:12.60,0:02:13.43,Dubtitles,,0,0,0,,Kakyoin.
 Dialogue: 0,0:02:17.86,0:02:18.69,Dubtitles,,0,0,0,,Hey, Jotaro
 Dialogue: 0,0:02:19.34,0:02:21.50,Dubtitles,,0,0,0,,What do you think is up with Kakyoin?
-Dialogue: 0,0:02:21.58,0:02:23.62,Dubtitles,,0,0,0,,First he nearly kills us in his sleep.
-Dialogue: 0,0:02:23.70,0:02:25.66,Dubtitles,,0,0,0,,Now he looks like he's\Ncoming apart at the seams.
-Dialogue: 0,0:02:25.74,0:02:27.70,Dubtitles,,0,0,0,,He even went after the baby.
-Dialogue: 0,0:02:29.20,0:02:30.42,Dubtitles,,0,0,0,,Something's just not right.
-Dialogue: 0,0:02:30.50,0:02:32.96,Dubtitles,,0,0,0,,If you ask me, he's at his wit's end.
-Dialogue: 0,0:02:33.86,0:02:35.94,Dubtitles,,0,0,0,,I hate to say it, I really do.
-Dialogue: 0,0:02:36.44,0:02:38.56,Dubtitles,,0,0,0,,But we may have to send him packing.
-Dialogue: 0,0:02:43.72,0:02:47.14,Dubtitles,,0,0,0,,For a second there I thought\Nhe'd actually figured me out
+Dialogue: 0,0:02:21.58,0:02:24.34,Dubtitles,,0,0,0,,First he nearly kills us in\Nhis sleep Now he looks like
+Dialogue: 0,0:02:24.42,0:02:27.83,Dubtitles,,0,0,0,,he's coming apart at the seams\NHe even went after the baby
+Dialogue: 0,0:02:29.20,0:02:32.96,Dubtitles,,0,0,0,,Something's just not right If\Nyou ask me, he's at his wit's end
+Dialogue: 0,0:02:33.86,0:02:38.24,Dubtitles,,0,0,0,,I hate to say it, I really do But\Nwe may have to send him packing
+Dialogue: 0,0:02:43.72,0:02:47.14,Dubtitles,,0,0,0,,for a second there i thought\Nhe'd actually figured me out
 Dialogue: 0,0:02:47.22,0:02:52.20,Dubtitles,,0,0,0,,but now the poor louse is half\Ndoubting himself to top things
-Dialogue: 0,0:02:52.28,0:02:56.16,Dubtitles,,0,0,0,,off we're in the middle of\Nthe desert all I have to do is
-Dialogue: 0,0:02:56.24,0:03:00.50,Dubtitles,,0,0,0,,wait until they fall asleep if\Nthere's no one to wake them up.
-Dialogue: 0,0:03:03.94,0:03:05.26,Dubtitles,,0,0,0,,Something smells good.
-Dialogue: 0,0:03:05.34,0:03:06.80,Dubtitles,,0,0,0,,What kind of food is that?
-Dialogue: 0,0:03:06.88,0:03:08.46,Dubtitles,,0,0,0,,This is baby food.
-Dialogue: 0,0:03:08.54,0:03:11.08,Dubtitles,,0,0,0,,It's a delicious concoction of milk,
-Dialogue: 0,0:03:11.16,0:03:13.80,Dubtitles,,0,0,0,,egg yolks, bananas and\Nbread, all stewed together.
-Dialogue: 0,0:03:13.88,0:03:16.34,Dubtitles,,0,0,0,,So you want to taste it?
-Dialogue: 0,0:03:25.00,0:03:26.12,Dubtitles,,0,0,0,,Easy now.
-Dialogue: 0,0:03:26.20,0:03:29.14,Dubtitles,,0,0,0,,At this rate there won't\Nbe any left for the baby.
+Dialogue: 0,0:02:52.28,0:02:56.16,Dubtitles,,0,0,0,,off we're in the middle of\Nthe desert all i have to do is
+Dialogue: 0,0:02:56.24,0:03:00.50,Dubtitles,,0,0,0,,wait until they fall asleep if\Nthere's no one to wake them up
+Dialogue: 0,0:03:03.94,0:03:09.84,Dubtitles,,0,0,0,,something smells good what kind of food\Nis that this is baby food it's a delicious
+Dialogue: 0,0:03:09.92,0:03:12.74,Dubtitles,,0,0,0,,concoction of milk egg\Nyolks bananas and bread
+Dialogue: 0,0:03:12.82,0:03:16.34,Dubtitles,,0,0,0,,all stewed together so\Nyou want to taste it
+Dialogue: 0,0:03:25.00,0:03:28.76,Dubtitles,,0,0,0,,easy now at this rate there\Nwon't be any left for the baby
 Dialogue: 0,0:03:29.72,0:03:31.16,Dubtitles,,0,0,0,,You incompetent bastard!
 Dialogue: 0,0:03:31.40,0:03:32.87,Dubtitles,,0,0,0,,How dare you eat my food?
 Dialogue: 0,0:03:32.96,0:03:36.58,Dubtitles,,0,0,0,,I'm wasting away over here, so\Nhurry up and feed me, dammit!
@@ -116,7 +108,7 @@ Dialogue: 0,0:04:45.52,0:04:47.22,Dubtitles,,0,0,0,,He's not even a year old yet
 Dialogue: 0,0:04:47.30,0:04:49.18,Dubtitles,,0,0,0,,But he knew what a scorpion was.
 Dialogue: 0,0:04:49.26,0:04:51.97,Dubtitles,,0,0,0,,And he killed it with\Nthose tiny hands of his.
 Dialogue: 0,0:04:52.72,0:04:53.68,Dubtitles,,0,0,0,,A scorpion?
-Dialogue: 0,0:04:54.48,0:04:56.18,Dubtitles,,0,0,0,,Where is it? It's in here.
+Dialogue: 0,0:04:54.48,0:04:56.18,Dubtitles,,0,0,0,,Where is it?! In here!
 Dialogue: 0,0:04:57.40,0:04:58.26,Dubtitles,,0,0,0,,Where did it go?
 Dialogue: 0,0:04:58.34,0:05:00.75,Dubtitles,,0,0,0,,There should be an impaled scorpion here!
 Dialogue: 0,0:05:04.36,0:05:05.52,Dubtitles,,0,0,0,,It's gone.
@@ -131,7 +123,7 @@ Dialogue: 0,0:05:23.36,0:05:24.40,Dubtitles,,0,0,0,,Let's table this.
 Dialogue: 0,0:05:24.56,0:05:25.70,Dubtitles,,0,0,0,,At least for tonight.
 Dialogue: 0,0:05:25.78,0:05:27.90,Dubtitles,,0,0,0,,We'll talk after you've calmed down.
 Dialogue: 0,0:05:28.34,0:05:29.17,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:05:40.84,0:05:43.26,Dubtitles,,0,0,0,,OK, here's the Shuichi.
+Dialogue: 0,0:05:40.84,0:05:43.26,Dubtitles,,0,0,0,,OK, here's the choo-choo.
 Dialogue: 0,0:05:43.56,0:05:44.46,Dubtitles,,0,0,0,,It's delicious!
 Dialogue: 0,0:05:48.52,0:05:49.40,Dubtitles,,0,0,0,,Uh-oh.
 Dialogue: 0,0:05:49.74,0:05:51.12,Dubtitles,,0,0,0,,What's the matter?
@@ -152,7 +144,7 @@ Dialogue: 0,0:06:19.98,0:06:21.62,Dubtitles,,0,0,0,,Can't you see that it's a wa
 Dialogue: 0,0:06:21.70,0:06:24.99,Dubtitles,,0,0,0,,It must have happened to me\Nwhen I was sleeping earlier.
 Dialogue: 0,0:06:25.60,0:06:27.18,Dubtitles,,0,0,0,,Oh, my God!
 Dialogue: 0,0:06:30.16,0:06:34.80,Dubtitles,,0,0,0,,Kakyoin, you didn't do that to\Nyourself, did you? Say what?
-Dialogue: 0,0:06:35.92,0:06:38.48,Dubtitles,,0,0,0,,It's finally happened. Kakyoin.
+Dialogue: 0,0:06:35.92,0:06:38.48,Dubtitles,,0,0,0,,It's finally happened, Kakyoin.
 Dialogue: 0,0:06:39.50,0:06:41.36,Dubtitles,,0,0,0,,Oh, my God!
 Dialogue: 0,0:06:44.32,0:06:46.10,Dubtitles,,0,0,0,,You colossal buffoon!
 Dialogue: 0,0:06:46.26,0:06:47.64,Dubtitles,,0,0,0,,How stupid can you be?
@@ -161,7 +153,7 @@ Dialogue: 0,0:06:51.02,0:06:52.67,Dubtitles,,0,0,0,,they'd think you were crazy?
 Dialogue: 0,0:06:52.86,0:06:53.88,Dubtitles,,0,0,0,,What's going on?
 Dialogue: 0,0:06:54.36,0:06:56.07,Dubtitles,,0,0,0,,Did I make things even worse?
 Dialogue: 0,0:06:56.72,0:06:59.60,Dubtitles,,0,0,0,,Then it looks like I have no other choice.
-Dialogue: 0,0:07:00.06,0:07:01.98,Dubtitles,,0,0,0,,It's time for a little force!
+Dialogue: 0,0:07:00.06,0:07:01.98,Dubtitles,,0,0,0,,It's time for a little force.
 Dialogue: 0,0:07:03.12,0:07:04.86,Dubtitles,,0,0,0,,I revenge Green!
 Dialogue: 1,0:07:04.48,0:07:04.52,SFX4,1,0,0,0,,{=34}{\blur6\bord3.9\fscx72.36\fscy55.66\pos(1282.75,661.66)\frz357.5\alpha&H80&}Boom!
 Dialogue: 2,0:07:04.48,0:07:04.52,SFX4,1,0,0,0,,{=34}{\blur1\bord3.9\fscx72.36\fscy55.66\pos(1282.75,661.66)\frz357.5\c&H283424&}Boom!
@@ -267,12 +259,12 @@ Dialogue: 0,0:08:17.32,0:08:18.36,Dubtitles,,0,0,0,,You say something?
 Dialogue: 0,0:08:18.44,0:08:21.10,Dubtitles,,0,0,0,,No, he's just really heavy.
 Dialogue: 0,0:08:21.34,0:08:23.28,Dubtitles,,0,0,0,,I've got you right where I want you.
 Dialogue: 0,0:08:23.36,0:08:27.36,Dubtitles,,0,0,0,,I'm gonna slice you up and scatter\Nyour remains all over the desert.
-Dialogue: 0,0:08:53.66,0:08:56.34,Dubtitles,,0,0,0,,What in the world why\Nare we in the middle of
-Dialogue: 0,0:08:56.42,0:08:58.72,Dubtitles,,0,0,0,,an amusement park we were\Njust out in the desert?
-Dialogue: 0,0:08:58.80,0:09:04.68,Dubtitles,,0,0,0,,That's right. I know this\Nplace, Dotero, Mr. Joestar.
-Dialogue: 0,0:09:04.76,0:09:09.00,Dubtitles,,0,0,0,,be on your guard my memory\Nis coming back we've
-Dialogue: 0,0:09:09.08,0:09:13.28,Dubtitles,,0,0,0,,been transported to a\Ndream world a horrible one
-Dialogue: 0,0:09:13.36,0:09:17.28,Dubtitles,,0,0,0,,this is bad we've entered\Na world of nightmares.
+Dialogue: 0,0:08:53.66,0:08:57.56,Dubtitles,,0,0,0,,what in the world why are we in the\Nmiddle of an amusement park we were
+Dialogue: 0,0:08:57.64,0:08:59.86,Dubtitles,,0,0,0,,just out in the desert that's right
+Dialogue: 0,0:08:59.94,0:09:04.68,Dubtitles,,0,0,0,,i know this place dotero mr joestar
+Dialogue: 0,0:09:04.76,0:09:10.10,Dubtitles,,0,0,0,,be on your guard my memory is coming\Nback we've been transported to a
+Dialogue: 0,0:09:10.18,0:09:14.86,Dubtitles,,0,0,0,,dream world a horrible one this is
+Dialogue: 0,0:09:14.94,0:09:17.28,Dubtitles,,0,0,0,,bad we've entered a world of nightmares
 Dialogue: 0,0:09:17.80,0:09:19.82,Dubtitles,,0,0,0,,Oh, so it's a dream, huh?
 Dialogue: 0,0:09:20.36,0:09:22.62,Dubtitles,,0,0,0,,You had me a little\Nworried for a minute there.
 Dialogue: 0,0:09:22.70,0:09:24.99,Dubtitles,,0,0,0,,Don't make the same mistake that I did!
@@ -673,13 +665,8 @@ Dialogue: 2,0:12:03.61,0:12:03.66,SFXOrange,5,0,0,0,,{=40}{\blur0.9\bord0\fscx17
 Dialogue: 1,0:12:03.66,0:12:03.70,SFXOrange,5,0,0,0,,{=40}{\blur0.9\bord11.85\fscx171.11\fscy131.62\frz5.447\pos(1146.4,29.24)\c&H141628&}Clank
 Dialogue: 2,0:12:03.66,0:12:03.70,SFXOrange,5,0,0,0,,{=40}{\blur0.9\bord0\fscx171.11\fscy131.62\frz5.447\pos(1146.4,29.24)\4a&HFF&}Clank
 Dialogue: 0,0:12:06.68,0:12:07.51,Dubtitles,,0,0,0,,Hurrah?
-Dialogue: 0,0:12:08.48,0:12:09.31,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:12:09.96,0:12:10.79,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:12:11.46,0:12:12.29,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:12:12.54,0:12:13.90,Dubtitles,,0,0,0,,Oh! Oh!
-Dialogue: 0,0:12:14.44,0:12:15.27,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:12:16.76,0:12:17.88,Dubtitles,,0,0,0,,Lally-ho!
-Dialogue: 0,0:12:18.36,0:12:20.10,Dubtitles,,0,0,0,,Surprise, I'm a fake!
+Dialogue: 0,0:12:16.76,0:12:17.88,Dubtitles,,0,0,0,,Lali-ho!
+Dialogue: 0,0:12:18.38,0:12:20.10,Dubtitles,,0,0,0,,Surprise, I'm a fake!
 Dialogue: 1,0:12:21.13,0:12:21.17,SFXRed,6,0,0,0,,{=42}{\blur0.8\bord9.69\fscx189.93\fscy146.1\frz19.61\pos(-65.64,144.95)\clip(m 169 115 l 139 147 105 225 104 296 75 304 42 329 24 371 22 400 1 401 0 2)\c&H0E1411&}Bwaaa
 Dialogue: 2,0:12:21.13,0:12:21.17,SFXRed,6,0,0,0,,{=42}{\blur0.8\bord0\fscx189.93\fscy146.1\frz19.61\pos(-65.64,144.95)\clip(m 169 115 l 139 147 105 225 104 296 75 304 42 329 24 371 22 400 1 401 0 2)\4a&HFF&}Bwaaa
 Dialogue: 1,0:12:21.17,0:12:21.22,SFXRed,6,0,0,0,,{=42}{\blur0.8\bord9.69\fscx189.93\fscy146.1\frz19.61\pos(-57.53,142.93)\clip(m 152 143 l 134 176 115 234 112 298 85 304 60 322 36 363 31 392 0 397 0 0)\c&H0E1411&}Bwaaa
@@ -996,8 +983,8 @@ Dialogue: 2,0:12:27.56,0:12:27.60,SFXRed,6,0,0,0,,{=42}{\blur0.8\bord0\fscx130.1
 Dialogue: 1,0:12:27.60,0:12:27.64,SFXRed,6,0,0,0,,{=42}{\blur0.8\bord6\fscx130\fscy100\frz19.61\pos(363.4,225.6)\c&H0E1411&}Bwaaa
 Dialogue: 2,0:12:27.60,0:12:27.64,SFXRed,6,0,0,0,,{=42}{\blur0.8\bord0\fscx130\fscy100\frz19.61\pos(363.4,225.6)\4a&HFF&}Bwaaa
 Dialogue: 0,0:12:27.70,0:12:30.58,Dubtitles,,0,0,0,,A stand is a manifestation of the mind.
-Dialogue: 0,0:12:30.86,0:12:33.78,Dubtitles,,0,0,0,,And what are dreams if\Nnot the mind laid bare?
-Dialogue: 0,0:12:34.58,0:12:37.88,Dubtitles,,0,0,0,,My Death 13 has trapped you\Nwithin your subconscious.
+Dialogue: 0,0:12:30.86,0:12:33.76,Dubtitles,,0,0,0,,And what are dreams if\Nnot the mind laid bare?
+Dialogue: 0,0:12:34.58,0:12:37.88,Dubtitles,,0,0,0,,My Death 13 has trapped you\Nwithin your subconscious,
 Dialogue: 0,0:12:37.96,0:12:40.96,Dubtitles,,0,0,0,,which is why you can't\Nsummon your precious stands.
 Dialogue: 0,0:12:43.38,0:12:44.21,Dubtitles,,0,0,0,,Although,
 Dialogue: 1,0:12:43.61,0:12:43.65,SFXBlue,7,0,0,0,,{=16}{\blur0.9\fade(255,0,255,0,0,390,840)\frz354.2\pos(454.8,501.6)\c&H261815&}Slice!!
@@ -1041,8 +1028,8 @@ Dialogue: 1,0:12:44.36,0:12:44.41,SFXBlue,7,0,0,0,,{=16}{\blur0.9\fade(255,0,255
 Dialogue: 2,0:12:44.36,0:12:44.41,SFXBlue,7,0,0,0,,{=16}{\bord0\blur0.9\fade(255,0,255,-750,-750,-360,90)\frz354.2\pos(382.3,569.78)\4a&HFF&}Slice!!
 Dialogue: 1,0:12:44.41,0:12:44.45,SFXBlue,7,0,0,0,,{=16}{\blur0.9\fade(255,0,255,-800,-800,-410,40)\frz354.2\pos(383.52,562.49)\c&H261815&}Slice!!
 Dialogue: 2,0:12:44.41,0:12:44.45,SFXBlue,7,0,0,0,,{=16}{\bord0\blur0.9\fade(255,0,255,-800,-800,-410,40)\frz354.2\pos(383.52,562.49)\4a&HFF&}Slice!!
-Dialogue: 0,0:12:51.24,0:12:55.60,Dubtitles,,0,0,0,,Then they would have appeared here with\Nyou, just like your clothes, sleeping bags,?
-Dialogue: 0,0:12:55.68,0:12:57.15,Dubtitles,,0,0,0,,and your prosthetic hand.
+Dialogue: 0,0:12:51.24,0:12:54.96,Dubtitles,,0,0,0,,Then they would have appeared here\Nwith you, just like your clothes,
+Dialogue: 0,0:12:55.04,0:12:57.39,Dubtitles,,0,0,0,,sleeping bags, and your prosthetic hand.
 Dialogue: 0,0:12:57.96,0:13:02.46,Dubtitles,,0,0,0,,Death 13 will never be forced\Nto face another stand in battle.
 Dialogue: 0,0:13:02.72,0:13:06.74,Dubtitles,,0,0,0,,And as you know, the only thing that\Ncan defeat a stand is another stand.
 Dialogue: 0,0:13:06.82,0:13:08.90,Dubtitles,,0,0,0,,so I'll always come out on top!
@@ -1099,7 +1086,9 @@ Dialogue: 3,0:13:39.71,0:13:39.75,SFXOrange2,8,0,0,0,,{=17}{\bord0\blur1\frz349.
 Dialogue: 0,0:13:40.10,0:13:41.38,Dubtitles,,0,0,0,,It's normal!
 Dialogue: 0,0:13:42.14,0:13:43.96,Dubtitles,,0,0,0,,Look, it's Kakueen!
 Dialogue: 0,0:13:44.64,0:13:45.93,Dubtitles,,0,0,0,,Kakueen's right there!
-Dialogue: 0,0:13:47.06,0:13:50.40,Dubtitles,,0,0,0,,Obviously, it slipped your notice that\NI'd already summoned my Hierophant.
+Dialogue: 0,0:13:47.06,0:13:47.89,Dubtitles,,0,0,0,,Obviously,
+Dialogue: 0,0:13:47.97,0:13:49.58,Dubtitles,,0,0,0,,it slipped your notice\Nthat I'd already summoned
+Dialogue: 0,0:13:49.66,0:13:52.40,Dubtitles,,0,0,0,,my Hierophant by the time\NI was knocked unconscious.
 Dialogue: 1,0:13:49.97,0:13:50.05,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(308.68,947.16)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:49.97,0:13:50.05,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(308.68,947.16)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:50.05,0:13:50.14,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(305.47,945.73)\c&H0D0917&}Bam! {Kakyoin bam lets go}
@@ -1114,7 +1103,6 @@ Dialogue: 1,0:13:50.39,0:13:50.47,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(311.8
 Dialogue: 2,0:13:50.39,0:13:50.47,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(311.89,953.58)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:50.47,0:13:50.56,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(316.17,949.3)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:50.47,0:13:50.56,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(316.17,949.3)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
-Dialogue: 0,0:13:50.48,0:13:52.40,Dubtitles,,0,0,0,,by the time I was knocked unconscious.
 Dialogue: 1,0:13:50.56,0:13:50.64,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(311.18,943.59)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:50.56,0:13:50.64,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(311.18,943.59)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:50.64,0:13:50.72,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(310.82,953.23)\c&H0D0917&}Bam! {Kakyoin bam lets go}
@@ -1163,7 +1151,7 @@ Dialogue: 1,0:13:52.39,0:13:52.47,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(324.3
 Dialogue: 2,0:13:52.39,0:13:52.47,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(324.38,931.1)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:52.47,0:13:52.56,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(316.53,926.82)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:52.47,0:13:52.56,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(316.53,926.82)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
-Dialogue: 0,0:13:52.48,0:13:54.68,Dubtitles,,0,0,0,,What's more, I had to burrow underground?
+Dialogue: 0,0:13:52.48,0:13:53.31,Dubtitles,,0,0,0,,What's more,
 Dialogue: 1,0:13:52.56,0:13:52.64,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(309.39,923.96)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:52.56,0:13:52.64,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(309.39,923.96)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:52.64,0:13:52.72,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(312.25,932.53)\c&H0D0917&}Bam! {Kakyoin bam lets go}
@@ -1188,6 +1176,7 @@ Dialogue: 1,0:13:53.39,0:13:53.47,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(317.9
 Dialogue: 2,0:13:53.39,0:13:53.47,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(317.96,927.18)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:53.47,0:13:53.56,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(315.46,927.18)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:53.47,0:13:53.56,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(315.46,927.18)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
+Dialogue: 0,0:13:53.52,0:13:55.68,Dubtitles,,0,0,0,,I had to burrow underground\Nto conceal itself
 Dialogue: 1,0:13:53.56,0:13:53.64,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(316.53,921.11)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:53.56,0:13:53.64,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(316.53,921.11)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:53.64,0:13:53.72,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(315.1,917.54)\c&H0D0917&}Bam! {Kakyoin bam lets go}
@@ -1218,7 +1207,6 @@ Dialogue: 1,0:13:54.64,0:13:54.73,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(321.4
 Dialogue: 2,0:13:54.64,0:13:54.73,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(321.48,908.73)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:54.73,0:13:54.81,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(320.17,907.09)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:54.73,0:13:54.81,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(320.17,907.09)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
-Dialogue: 0,0:13:54.76,0:13:56.34,Dubtitles,,0,0,0,,to conceal itself from detection.
 Dialogue: 1,0:13:54.81,0:13:54.89,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(323.77,906.11)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:54.81,0:13:54.89,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(323.77,906.11)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:54.89,0:13:54.98,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(318.86,904.8)\c&H0D0917&}Bam! {Kakyoin bam lets go}
@@ -1243,6 +1231,7 @@ Dialogue: 1,0:13:55.64,0:13:55.73,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(320.1
 Dialogue: 2,0:13:55.64,0:13:55.73,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(320.17,893.99)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:55.73,0:13:55.81,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(317.22,899.89)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:55.73,0:13:55.81,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(317.22,899.89)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
+Dialogue: 0,0:13:55.76,0:13:58.17,Dubtitles,,0,0,0,,from detection just before I fell asleep.
 Dialogue: 1,0:13:55.81,0:13:55.89,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(319.84,897.92)\c&H0D0917&}Bam! {Kakyoin bam lets go}
 Dialogue: 2,0:13:55.81,0:13:55.89,SFXPink3,9,0,0,0,,{\bord0\blur0.9\frz29.08\pos(319.84,897.92)\shad4\4a&HFF&}Bam! {Kakyoin bam lets go}
 Dialogue: 1,0:13:55.89,0:13:55.98,SFXPink3,9,0,0,0,,{\blur0.9\frz29.08\pos(323.44,904.47)\c&H0D0917&}Bam! {Kakyoin bam lets go}
@@ -1261,7 +1250,6 @@ Dialogue: 1,0:13:56.35,0:13:56.39,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord6.46\fs
 Dialogue: 2,0:13:56.35,0:13:56.39,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord0\fscx84\fscy64.61\fade(255,0,255,-160,840,5150,5550)\frz7.404\pos(568.26,647.53)\4a&HFF&}Crush
 Dialogue: 1,0:13:56.39,0:13:56.44,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord6.95\fscx90.38\fscy69.52\fade(255,0,255,-200,800,5110,5510)\frz7.404\pos(539.73,633.68)\c&H0B1007&}Crush
 Dialogue: 2,0:13:56.39,0:13:56.44,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord0\fscx90.38\fscy69.52\fade(255,0,255,-200,800,5110,5510)\frz7.404\pos(539.73,633.68)\4a&HFF&}Crush
-Dialogue: 0,0:13:56.42,0:13:57.96,Dubtitles,,0,0,0,,just before I fell asleep.
 Dialogue: 1,0:13:56.44,0:13:56.48,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord7\fscx91.01\fscy70.01\fade(255,0,255,-250,750,5060,5460)\frz7.404\pos(522.11,635.12)\c&H0B1007&}Crush
 Dialogue: 2,0:13:56.44,0:13:56.48,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord0\fscx91.01\fscy70.01\fade(255,0,255,-250,750,5060,5460)\frz7.404\pos(522.11,635.12)\4a&HFF&}Crush
 Dialogue: 1,0:13:56.48,0:13:56.52,SFXGreen2,10,0,0,0,,{=46}{\blur0.6\bord7.15\fscx92.92\fscy71.48\fade(255,0,255,-290,710,5020,5420)\frz7.404\pos(522.7,645.74)\c&H0B1007&}Crush
@@ -1529,11 +1517,11 @@ Dialogue: 0,0:14:01.94,0:14:05.12,Dubtitles,,0,0,0,,Now it's time for your punis
 Dialogue: 0,0:14:07.38,0:14:08.21,Dubtitles,,0,0,0,,Ahhhh!
 Dialogue: 0,0:14:08.29,0:14:09.50,Dubtitles,,0,0,0,,Damn that bastard!
 Dialogue: 0,0:14:13.18,0:14:14.08,Dubtitles,,0,0,0,,Let's go!
-Dialogue: 0,0:14:15.32,0:14:16.92,Dubtitles,,0,0,0,,Give up, Death.
+Dialogue: 0,0:14:15.32,0:14:16.92,Dubtitles,,0,0,0,,Give up, Death 13.
 Dialogue: 0,0:14:17.28,0:14:20.22,Dubtitles,,0,0,0,,I had Hierophant place\Nhimself in your blind spot.
 Dialogue: 0,0:14:20.74,0:14:23.20,Dubtitles,,0,0,0,,If you keep up this futile struggling...
 Dialogue: 0,0:14:25.12,0:14:28.36,Dubtitles,,0,0,0,,I really don't care that\Nyou're a baby. I'll snap.
-Dialogue: 0,0:14:29.86,0:14:32.98,Dubtitles,,0,0,0,,Karkuin, the three of us\Nowe you an enormous apology.
+Dialogue: 0,0:14:29.86,0:14:32.98,Dubtitles,,0,0,0,,Kars, the three of us owe\Nyou an enormous apology.
 Dialogue: 0,0:14:33.82,0:14:36.74,Dubtitles,,0,0,0,,I thought after the hell you'd\Nbeen through on this trip,
 Dialogue: 0,0:14:36.82,0:14:38.35,Dubtitles,,0,0,0,,suddenly lost your sanity.
 Dialogue: 0,0:14:38.50,0:14:40.26,Dubtitles,,0,0,0,,I mean, a baby stand user?
@@ -1692,7 +1680,7 @@ Dialogue: 0,0:19:16.00,0:19:18.98,Dubtitles,,0,0,0,,However, don't come\Nanywher
 Dialogue: 0,0:19:19.34,0:19:21.58,Dubtitles,,0,0,0,,If you do, you'll have to be punished.
 Dialogue: 0,0:19:24.34,0:19:26.26,Dubtitles,,0,0,0,,In a manner such as this.
 Dialogue: 0,0:19:28.26,0:19:29.54,Dubtitles,,0,0,0,,Is that my poop?
-Dialogue: 0,0:19:36.48,0:19:37.68,Dubtitles,,0,0,0,,Oh, Akemi.
+Dialogue: 0,0:19:36.48,0:19:37.68,Dubtitles,,0,0,0,,Oh, Cujoh.
 Dialogue: 0,0:19:38.00,0:19:41.06,Dubtitles,,0,0,0,,I see you've made some baby\Nfood for the little lad.
 Dialogue: 0,0:19:41.54,0:19:43.00,Dubtitles,,0,0,0,,Yes, good work.
 Dialogue: 0,0:19:43.26,0:19:45.38,Dubtitles,,0,0,0,,I'm sure he must be starving by now.
@@ -1712,9 +1700,9 @@ Dialogue: 0,0:20:20.16,0:20:21.48,Dubtitles,,0,0,0,,A goji-goo?
 Dialogue: 0,0:20:21.66,0:20:24.06,Dubtitles,,0,0,0,,A goji-goo-ji-goo-ji-goo?
 Dialogue: 0,0:20:24.54,0:20:26.58,Dubtitles,,0,0,0,,A goji-goo-ji-goo-ji-goo?
 Dialogue: 0,0:20:31.64,0:20:36.94,Dubtitles,,0,0,0,,I told you it was\Ndelicious, but I'm bummed.
-Dialogue: 0,0:20:45.60,0:20:48.52,Dubtitles,,0,0,0,,Joestar and the others have now\Ncrossed the Arabian Peninsula
-Dialogue: 0,0:20:48.60,0:20:51.28,Dubtitles,,0,0,0,,and are currently making\Ntheir way across the Red Sea?
-Dialogue: 0,0:20:51.36,0:20:54.60,Dubtitles,,0,0,0,,as they prepare to enter Egypt, but...
+Dialogue: 0,0:20:45.60,0:20:49.10,Dubtitles,,0,0,0,,Joestar and the others have now\Ncrossed the Arabian Peninsula and are
+Dialogue: 0,0:20:49.18,0:20:53.42,Dubtitles,,0,0,0,,currently making their way across the\NRed Sea as they prepare to enter Egypt,
+Dialogue: 0,0:20:53.50,0:20:54.60,Dubtitles,,0,0,0,,but...
 Dialogue: 0,0:20:57.14,0:20:58.94,Dubtitles,,0,0,0,,Hey, old man. Something's off.
 Dialogue: 0,0:20:59.02,0:21:00.96,Dubtitles,,0,0,0,,You're going the wrong direction.
 Dialogue: 0,0:21:01.30,0:21:05.80,Dubtitles,,0,0,0,,If you're headed to Egypt, shouldn't\Nyou be traveling directly west? Hmm?
@@ -1869,34 +1857,28 @@ Dialogue: 0,0:21:21.52,0:21:22.35,Dubtitles,,0,0,0,,Hmm.
 Dialogue: 0,0:21:22.76,0:21:23.59,Dubtitles,,0,0,0,,Hmm.
 Dialogue: 0,0:21:23.67,0:21:25.96,Dubtitles,,0,0,0,,He's a man who is extremely\Nimportant to our journey.
 Dialogue: 0,0:21:27.02,0:21:28.82,Dubtitles,,0,0,0,,What is that supposed to mean?
-Dialogue: 0,0:21:52.08,0:21:53.42,Dubtitles,,0,0,0,,And dance, don't you know?
-Dialogue: 0,0:21:53.50,0:21:54.98,Dubtitles,,0,0,0,,If you move too quick!
-Dialogue: 0,0:21:55.06,0:21:58.10,Dubtitles,,0,0,0,,They're falling down like a domino.
-Dialogue: 0,0:21:58.18,0:22:00.76,Dubtitles,,0,0,0,,All the birds are men by the Nile.
-Dialogue: 0,0:22:00.84,0:22:04.40,Dubtitles,,0,0,0,,They've got the money on\Na bed Called crocodiles.
-Dialogue: 0,0:22:04.48,0:22:07.38,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
-Dialogue: 0,0:22:07.46,0:22:09.74,Dubtitles,,0,0,0,,Foreign types with a hookah. I say!
-Dialogue: 0,0:22:09.82,0:22:10.72,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:21:52.08,0:21:52.91,Dubtitles,,0,0,0,,And dance.
+Dialogue: 0,0:21:52.99,0:21:56.90,Dubtitles,,0,0,0,,Don't you know? If you move too\Nquick, they're falling down.
+Dialogue: 0,0:21:56.98,0:22:01.34,Dubtitles,,0,0,0,,Like a domino, all the birds are\Nmen by the Nile. They've got the
+Dialogue: 0,0:22:01.42,0:22:06.74,Dubtitles,,0,0,0,,Money on a bed. Called crocodiles.\NThey snap their teeth on your
+Dialogue: 0,0:22:06.82,0:22:08.60,Dubtitles,,0,0,0,,cigarette Foreign types with a
+Dialogue: 0,0:22:08.68,0:22:10.72,Dubtitles,,0,0,0,,hookah I say Walk
 Dialogue: 0,0:22:10.80,0:22:17.76,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:12.76,0:22:15.18,Lyrics 2,,0,0,0,,All the old paintings on the tomb
 Dialogue: 1,0:22:15.18,0:22:17.44,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
 Dialogue: 1,0:22:17.44,0:22:18.90,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:17.84,0:22:18.67,Dubtitles,,0,0,0,,an Egyptian.
+Dialogue: 0,0:22:17.84,0:22:18.67,Dubtitles,,0,0,0,,an Egyptian
 Dialogue: 1,0:22:19.69,0:22:22.15,Lyrics 2,,0,0,0,,They're falling down like a domino
 Dialogue: 1,0:22:22.15,0:22:24.48,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
 Dialogue: 1,0:22:24.48,0:22:26.82,Lyrics 2,,0,0,0,,They got the money on a bet
 Dialogue: 1,0:22:26.82,0:22:28.32,Lyrics 2,,0,0,0,,Gold crocodiles
 Dialogue: 1,0:22:28.99,0:22:31.45,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
-Dialogue: 0,0:22:29.16,0:22:32.14,Dubtitles,,0,0,0,,The blonde waitresses take their trays.
+Dialogue: 0,0:22:29.16,0:22:33.44,Dubtitles,,0,0,0,,The blonde waitresses take their\Ntrays. Spin around and they
 Dialogue: 1,0:22:31.45,0:22:33.66,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:32.22,0:22:34.14,Dubtitles,,0,0,0,,Spin around and they cross the floor.
-Dialogue: 0,0:22:34.22,0:22:35.66,Dubtitles,,0,0,0,,They've got the moves.
-Dialogue: 0,0:22:35.74,0:22:38.64,Dubtitles,,0,0,0,,You drop your drink, tick off books.
-Dialogue: 0,0:22:38.72,0:22:40.70,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:22:33.52,0:22:37.68,Dubtitles,,0,0,0,,Cross the floor. They've got\Nthe moves. You drop your drink,
+Dialogue: 0,0:22:37.78,0:22:42.31,Dubtitles,,0,0,0,,tick off books They're like the punk\Nand the metal band When the buzzer rings
 Dialogue: 1,0:22:40.67,0:22:43.21,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:40.78,0:22:42.26,Dubtitles,,0,0,0,,When the buzzer rings?
-Dialogue: 0,0:22:42.96,0:22:44.94,Dubtitles,,0,0,0,,They're walking like an Egyptian.
-Dialogue: 0,0:22:45.02,0:22:47.68,Dubtitles,,0,0,0,,All the kids in the marketplace say?
+Dialogue: 0,0:22:42.96,0:22:47.68,Dubtitles,,0,0,0,,They're walking like an Egyptian.\NAll the kids in the marketplace say
 Dialogue: 1,0:22:54.60,0:22:57.06,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
 Dialogue: 1,0:22:57.06,0:22:59.44,Lyrics 2,,0,0,0,,They spin around and they cross the floor
 Dialogue: 1,0:22:59.44,0:23:00.69,Lyrics 2,,0,0,0,,They've got the moves

@@ -42,7 +42,7 @@ Style: SFX,Ashcan BB,150,&H00C1FF5E,&H000000FF,&H00111E0A,&H00000000,-1,0,0,0,10
 Style: SFXOang,Franc Gothique Brush,170,&H2B64ABDA,&H000000FF,&H00030505,&H00000000,0,0,0,0,130,100,0,0,1,10,0,7,50,40,20,1
 Style: SFXPink,Franc Gothique Brush,200,&H00E793E9,&H000000FF,&H0030012F,&H00000000,0,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXRed,KG Turning Tables,170,&H003C3482,&H000000FF,&H00141127,&H00000000,-1,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -773,8 +773,10 @@ Dialogue: 0,0:01:41.23,0:01:43.51,Dubtitles,,0,0,0,,No see guys got room for one
 Dialogue: 0,0:02:04.17,0:02:05.00,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 0,0:02:46.17,0:02:53.09,Dubtitles,,0,0,0,,Thank you so
 Dialogue: 0,0:02:53.17,0:02:54.00,Dubtitles,,0,0,0,,much for watching.
-Dialogue: 0,0:02:54.09,0:03:11.15,Dubtitles,,0,0,0,,I'm gonna beat you up.
-Dialogue: 0,0:03:11.23,0:03:12.51,Dubtitles,,0,0,0,,Star and go.
+Dialogue: 0,0:02:54.09,0:02:56.27,Dubtitles,,0,0,0,,I'm going to beat you up.
+Dialogue: 0,0:02:58.41,0:03:04.59,Dubtitles,,0,0,0,,I'm going to beat you up.\NBreak you down, break you down,
+Dialogue: 0,0:03:04.67,0:03:10.95,Dubtitles,,0,0,0,,Break you down, I'm going to beat\Nyou up. Chain up with vision,
+Dialogue: 0,0:03:11.17,0:03:12.51,Dubtitles,,0,0,0,,Start and turn.
 Dialogue: 2,0:03:30.14,0:03:34.77,Title 3,ep,0,0,0,,{\fad(776,642)\pos(192,815)}Episode 13: Wheel of Fortune
 Dialogue: 0,0:03:30.35,0:03:32.27,Dubtitles,,0,0,0,,I mean, come on, I'm a girl.
 Dialogue: 0,0:03:32.61,0:03:35.23,Dubtitles,,0,0,0,,Soon I'll be doing girl\Nthings like wearing a bra
@@ -782,39 +784,30 @@ Dialogue: 0,0:03:35.31,0:03:38.14,Dubtitles,,0,0,0,,and doing my nails to get\Nt
 Dialogue: 0,0:03:38.25,0:03:41.96,Dubtitles,,0,0,0,,I'd look pathetic wandering around\Nthe world when I'm that age.
 Dialogue: 0,0:03:42.49,0:03:47.33,Dubtitles,,0,0,0,,This is the only chance I have to be\Nfree and see the world. Know what I mean?
 Dialogue: 0,0:03:48.39,0:03:52.43,Dubtitles,,0,0,0,,Look, I feel bad for lying about\Ngoing to see my dad in Singapore.
-Dialogue: 0,0:03:52.51,0:03:54.49,Dubtitles,,0,0,0,,Well let's just forget about that.
-Dialogue: 0,0:03:54.57,0:03:58.67,Dubtitles,,0,0,0,,Hey it's that car we passed.
-Dialogue: 0,0:03:58.75,0:04:00.53,Dubtitles,,0,0,0,,Looks like he's in a hurry.
-Dialogue: 0,0:04:00.61,0:04:01.95,Dubtitles,,0,0,0,,Let him pass. Okay.
-Dialogue: 0,0:04:02.03,0:04:03.33,Dubtitles,,0,0,0,,Polnareff. Yeah.
-Dialogue: 0,0:04:18.29,0:04:19.57,Dubtitles,,0,0,0,,What the hell.
-Dialogue: 0,0:04:19.65,0:04:22.81,Dubtitles,,0,0,0,,What's he trying to do.
-Dialogue: 0,0:04:22.89,0:04:24.15,Dubtitles,,0,0,0,,I let you pass.
-Dialogue: 0,0:04:24.23,0:04:25.89,Dubtitles,,0,0,0,,Now hurry up and go already.
-Dialogue: 0,0:04:29.79,0:04:33.73,Dubtitles,,0,0,0,,He's probably angry about your maneuver\Nand these are the consequences.
-Dialogue: 0,0:04:33.81,0:04:37.21,Dubtitles,,0,0,0,,So did you get a look at\Nthe driver's face. No.
-Dialogue: 0,0:04:37.29,0:04:39.45,Dubtitles,,0,0,0,,The windows were covered in thick dust.
-Dialogue: 0,0:04:39.53,0:04:40.67,Dubtitles,,0,0,0,,Couldn't see a thing.
-Dialogue: 0,0:04:40.75,0:04:41.97,Dubtitles,,0,0,0,,Neither could. I.
-Dialogue: 0,0:04:42.05,0:04:43.75,Dubtitles,,0,0,0,,Couldn't be.
-Dialogue: 0,0:04:43.83,0:04:46.37,Dubtitles,,0,0,0,,Be very careful. Polnareff.
-Dialogue: 0,0:04:46.45,0:04:52.61,Dubtitles,,0,0,0,,Now he wants me to pass.
-Dialogue: 0,0:04:52.69,0:04:54.55,Dubtitles,,0,0,0,,Looks like the fools realized.
-Dialogue: 0,0:04:54.63,0:04:56.57,Dubtitles,,0,0,0,,how shitty that piece of junk is.
+Dialogue: 0,0:03:52.51,0:03:58.67,Dubtitles,,0,0,0,,Well let's just forget about that.\NHey, it's that car we passed.
+Dialogue: 0,0:03:58.75,0:04:03.33,Dubtitles,,0,0,0,,looks like he's in a hurry let\Nhim pass okay Polnareff yeah
+Dialogue: 0,0:04:18.29,0:04:23.27,Dubtitles,,0,0,0,,What the hell, what's he trying to do?
+Dialogue: 0,0:04:23.35,0:04:25.89,Dubtitles,,0,0,0,,let you pass now hurry up and go already
+Dialogue: 0,0:04:29.79,0:04:35.05,Dubtitles,,0,0,0,,he's probably angry about your maneuver\Nand these are the consequences so did
+Dialogue: 0,0:04:35.13,0:04:39.45,Dubtitles,,0,0,0,,you get a look at the driver's face no\Nthe windows were covered in thick dust
+Dialogue: 0,0:04:39.53,0:04:41.97,Dubtitles,,0,0,0,,couldn't see a thing neither could i
+Dialogue: 0,0:04:42.05,0:04:45.07,Dubtitles,,0,0,0,,couldn't be be very
+Dialogue: 0,0:04:45.15,0:04:51.89,Dubtitles,,0,0,0,,careful polnareff now he
+Dialogue: 0,0:04:51.97,0:04:56.63,Dubtitles,,0,0,0,,wants me to pass looks like the fools\Nrealized how shitty that piece of junk is.
 Dialogue: 0,0:04:56.71,0:04:59.71,Dubtitles,,0,0,0,,You should've stayed behind\Nme the first place, dumbass!
 Dialogue: 0,0:04:59.79,0:05:00.68,Dubtitles,,0,0,0,,Coming through!
 Dialogue: 0,0:05:04.01,0:05:04.84,Dubtitles,,0,0,0,,What?!
 Dialogue: 0,0:05:06.91,0:05:09.89,Dubtitles,,0,0,0,,Where'd that come from?! No use! Hold on!
 Dialogue: 0,0:05:11.85,0:05:13.05,Dubtitles,,0,0,0,,Star Platinum!
 Dialogue: 0,0:05:18.51,0:05:19.75,Dubtitles,,0,0,0,,That was close!
-Dialogue: 0,0:05:21.77,0:05:24.43,Dubtitles,,0,0,0,,If it went for star\Nplatinum's power we would
+Dialogue: 0,0:05:21.77,0:05:24.43,Dubtitles,,0,0,0,,if it went for star\Nplatinum's power we would
 Dialogue: 0,0:05:24.51,0:05:25.89,Dubtitles,,0,0,0,,have been crushed beneath that like a tin
-Dialogue: 0,0:05:25.97,0:05:29.17,Dubtitles,,0,0,0,,can He's gone where\Ndid that blasted car go
+Dialogue: 0,0:05:25.97,0:05:29.17,Dubtitles,,0,0,0,,can he's gone where\Ndid that blasted car go
 Dialogue: 0,0:05:29.25,0:05:33.93,Dubtitles,,0,0,0,,looks like it just kept\Ngoing i think the driver
-Dialogue: 0,0:05:34.47,0:05:38.33,Dubtitles,,0,0,0,,Could have been one of the\Nstand users then again it could
-Dialogue: 0,0:05:38.41,0:05:42.21,Dubtitles,,0,0,0,,have just been some sick bastard\NOf course he's one of dio's
-Dialogue: 0,0:05:42.29,0:05:46.03,Dubtitles,,0,0,0,,lackeys we were almost road\Nkilled for god's sake Then why
-Dialogue: 0,0:05:46.11,0:05:49.91,Dubtitles,,0,0,0,,didn't he simply attack us with\Nhis stand when he had the chance?
+Dialogue: 0,0:05:34.47,0:05:38.33,Dubtitles,,0,0,0,,could have been one of the\Nstand users then again it could
+Dialogue: 0,0:05:38.41,0:05:42.21,Dubtitles,,0,0,0,,have just been some sick bastard\Nof course he's one of dio's
+Dialogue: 0,0:05:42.29,0:05:46.03,Dubtitles,,0,0,0,,lackeys we were almost road\Nkilled for god's sake then why
+Dialogue: 0,0:05:46.11,0:05:49.88,Dubtitles,,0,0,0,,didn't he simply attack us with\Nhis stand when he had the chance
 Dialogue: 0,0:05:49.99,0:05:53.49,Dubtitles,,0,0,0,,Anyway, we've got to keep\Nheading to Pakistan. Be on guard.
 Dialogue: 0,0:05:53.95,0:05:57.39,Dubtitles,,0,0,0,,If someone comes after us again,\Nwe'll make them eat our dust.
 Dialogue: 0,0:05:57.47,0:05:58.37,Dubtitles,,0,0,0,,Damn straight.
@@ -824,8 +817,8 @@ Dialogue: 0,0:06:04.65,0:06:05.48,Dubtitles,,0,0,0,,That's easy.
 Dialogue: 0,0:06:05.57,0:06:07.07,Dubtitles,,0,0,0,,We pretend we never saw it.
 Dialogue: 0,0:06:07.15,0:06:08.09,Dubtitles,,0,0,0,,Let's get going.
 Dialogue: 0,0:06:09.39,0:06:11.25,Dubtitles,,0,0,0,,He's so cool.
-Dialogue: 0,0:06:36.25,0:06:38.19,Dubtitles,,0,0,0,,A roadside T-Stand
-Dialogue: 0,0:06:40.53,0:06:44.23,Dubtitles,,0,0,0,,A brake would do us some\Ngood If we take our time,
+Dialogue: 0,0:06:36.25,0:06:38.19,Dubtitles,,0,0,0,,A roadside tea house...
+Dialogue: 0,0:06:40.53,0:06:44.23,Dubtitles,,0,0,0,,A brake would do us some\Ngood. If we take our time,
 Dialogue: 0,0:06:44.45,0:06:46.98,Dubtitles,,0,0,0,,we may avoid running\Ninto that crazy driver
 Dialogue: 0,0:06:57.91,0:06:59.35,Dubtitles,,0,0,0,,What is that stuff?
 Dialogue: 0,0:06:59.65,0:07:01.35,Dubtitles,,0,0,0,,Fresh sugar cane juice.
@@ -848,14 +841,12 @@ Dialogue: 0,0:07:48.81,0:07:50.52,Dubtitles,,0,0,0,,Yeah, poor innocent bastards
 Dialogue: 0,0:07:52.27,0:07:54.09,Dubtitles,,0,0,0,,We'll just beat them all down.
 Dialogue: 0,0:07:56.73,0:08:01.27,Dubtitles,,0,0,0,,Hey, Jotaro! This is crazy!\NMr. Joestar! Not you too!
 Dialogue: 0,0:08:01.51,0:08:05.59,Dubtitles,,0,0,0,,Pretty suspicious mug you got\Nthere. Was it you? Huh? Not me!
-Dialogue: 0,0:08:15.61,0:08:18.67,Dubtitles,,0,0,0,,That slippery bastard just\Nplayed the lot of us didn't he?
-Dialogue: 0,0:08:18.75,0:08:19.59,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:08:19.67,0:08:21.43,Dubtitles,,0,0,0,,Did anyone see his face?
-Dialogue: 0,0:08:21.51,0:08:22.34,Dubtitles,,0,0,0,,No
-Dialogue: 0,0:08:22.91,0:08:24.11,Dubtitles,,0,0,0,,What is he trying to do?
-Dialogue: 0,0:08:24.19,0:08:29.09,Dubtitles,,0,0,0,,He could be just some madman with a\Ncar or he could be trying to kill Us.
-Dialogue: 0,0:08:29.17,0:08:31.91,Dubtitles,,0,0,0,,Yeah we need to take care of this crap.
-Dialogue: 0,0:08:31.99,0:08:35.23,Dubtitles,,0,0,0,,I won't rest until I catch\Nhim and get to the bottom of
+Dialogue: 0,0:08:15.61,0:08:17.91,Dubtitles,,0,0,0,,that slippery bastard\Njust played the lot of
+Dialogue: 0,0:08:17.99,0:08:22.17,Dubtitles,,0,0,0,,us didn't he damn it did\Nanyone see his face no
+Dialogue: 0,0:08:22.91,0:08:26.41,Dubtitles,,0,0,0,,what is he trying to do\Nhe could be just some
+Dialogue: 0,0:08:26.49,0:08:28.79,Dubtitles,,0,0,0,,madman with a car or he\Ncould be trying to kill
+Dialogue: 0,0:08:28.87,0:08:32.65,Dubtitles,,0,0,0,,us yeah we need to take\Ncare of this crap i won't
+Dialogue: 0,0:08:32.73,0:08:35.50,Dubtitles,,0,0,0,,rest until i catch him\Nand get to the bottom of
 Dialogue: 0,0:08:36.23,0:08:40.65,Dubtitles,,0,0,0,,Not to mention we owe him payback for\Nthe truck that almost hit us earlier.
 Dialogue: 0,0:08:54.33,0:08:55.16,Dubtitles,,0,0,0,,Damn it.
 Dialogue: 0,0:08:55.35,0:08:56.59,Dubtitles,,0,0,0,,For a piece of shit.
@@ -1091,13 +1082,12 @@ Dialogue: 0,0:12:19.77,0:12:22.31,Dubtitles,,0,0,0,,He's an enemy stand user. Wh
 Dialogue: 0,0:12:22.47,0:12:24.81,Dubtitles,,0,0,0,,Could he really be sending a\Nsignal from the car down there?
 Dialogue: 0,0:12:24.89,0:12:25.72,Dubtitles,,0,0,0,,No way!
 Dialogue: 0,0:12:25.81,0:12:27.58,Dubtitles,,0,0,0,,Do you see the wreck down there?
-Dialogue: 0,0:12:27.87,0:12:31.33,Dubtitles,,0,0,0,,No that old jalopy could\Nvery well be a stand
-Dialogue: 0,0:12:31.41,0:12:35.11,Dubtitles,,0,0,0,,you remember the boat\Nstand this may be a repeat.
-Dialogue: 0,0:12:35.19,0:12:40.19,Dubtitles,,0,0,0,,Behold the wheel of fortune my\Nstand will lead you to your maker!
-Dialogue: 0,0:12:40.89,0:12:42.43,Dubtitles,,0,0,0,,The wheel of fortune?
-Dialogue: 0,0:12:44.05,0:12:49.47,Dubtitles,,0,0,0,,What the an earthquake I've got a\Nbad feeling everybody get in the car.
-Dialogue: 0,0:12:49.59,0:12:52.33,Dubtitles,,0,0,0,,No stay back Don't go anywhere near it.
-Dialogue: 0,0:12:52.41,0:12:54.09,Dubtitles,,0,0,0,,Couldn't be below us
+Dialogue: 0,0:12:27.87,0:12:34.13,Dubtitles,,0,0,0,,No that old jalopy could very well be a\Nstand you remember the boat stand this
+Dialogue: 0,0:12:34.21,0:12:40.19,Dubtitles,,0,0,0,,may be a repeat Behold the wheel of fortune\Nmy stand will lead you to your maker
+Dialogue: 0,0:12:40.89,0:12:42.43,Dubtitles,,0,0,0,,The wheel of fortune
+Dialogue: 0,0:12:44.05,0:12:49.47,Dubtitles,,0,0,0,,What the— An earthquake? I've got a\Nbad feeling. Everybody get in the car.
+Dialogue: 0,0:12:49.59,0:12:52.33,Dubtitles,,0,0,0,,No, stay back. Don't go anywhere near it.
+Dialogue: 0,0:12:52.41,0:12:54.09,Dubtitles,,0,0,0,,Couldn't be below us.
 Dialogue: 1,0:12:57.54,0:12:57.58,SFXOang,2,0,0,0,,{=1}{\fade(255,0,255,0,300,1000,1300)\frz7.16\org(132.45,21.14)\pos(132.45,21.14)}Burst {Originally I motion tracked this but you couldnt see anything.}
 Dialogue: 1,0:12:57.58,0:12:57.63,SFXOang,2,0,0,0,,{=1}{\fade(255,0,255,-40,260,960,1260)\frz7.16\org(118.97,21.21)\pos(118.97,21.21)}Burst {Originally I motion tracked this but you couldnt see anything.}
 Dialogue: 1,0:12:57.63,0:12:57.67,SFXOang,2,0,0,0,,{=1}{\fade(255,0,255,-90,210,910,1210)\frz7.16\org(124.87,9.02)\pos(124.87,9.02)}Burst {Originally I motion tracked this but you couldnt see anything.}
@@ -1191,8 +1181,8 @@ Dialogue: 0,0:15:02.57,0:15:03.51,Dubtitles,,0,0,0,,Oh, no!
 Dialogue: 0,0:15:03.93,0:15:05.59,Dubtitles,,0,0,0,,He's digging his way through!
 Dialogue: 0,0:15:05.67,0:15:07.35,Dubtitles,,0,0,0,,And we're no match for him in here.
 Dialogue: 0,0:15:07.43,0:15:08.26,Dubtitles,,0,0,0,,What a freak!
-Dialogue: 0,0:15:08.39,0:15:11.55,Dubtitles,,0,0,0,,He's acting like some stupid muscle\Nhead who got caught off in traffic?
-Dialogue: 0,0:15:11.63,0:15:13.47,Dubtitles,,0,0,0,,and flew into a bit of road rage!
+Dialogue: 0,0:15:08.39,0:15:10.67,Dubtitles,,0,0,0,,He's acting like some\Nstupid muscle head who got
+Dialogue: 0,0:15:10.75,0:15:13.47,Dubtitles,,0,0,0,,caught off in traffic and\Nflew into a bit of road rage!
 Dialogue: 0,0:15:13.55,0:15:14.61,Dubtitles,,0,0,0,,Just keep running!
 Dialogue: 0,0:15:20.49,0:15:21.75,Dubtitles,,0,0,0,,Wait! Come back!
 Dialogue: 0,0:15:21.91,0:15:22.93,Dubtitles,,0,0,0,,I can't keep up!
@@ -1208,7 +1198,7 @@ Dialogue: 0,0:15:50.57,0:15:55.71,Dubtitles,,0,0,0,,there's no path left for you
 Dialogue: 0,0:15:56.07,0:15:59.29,Dubtitles,,0,0,0,,and last but certainly\Nnot least, no future,
 Dialogue: 0,0:15:59.65,0:16:03.33,Dubtitles,,0,0,0,,because this wheel of\Nfortune is going to grind you
 Dialogue: 0,0:16:03.41,0:16:07.15,Dubtitles,,0,0,0,,into mid-speed and splatter\Nyou all over these boulders,
-Dialogue: 0,0:16:07.43,0:16:10.53,Dubtitles,,0,0,0,,I'll paint this mountain\Nred with your guts,
+Dialogue: 0,0:16:07.43,0:16:10.53,Dubtitles,,0,0,0,,I'll paint this mountain\Nred with your guts.
 Dialogue: 0,0:16:10.81,0:16:15.01,Dubtitles,,0,0,0,,oh no, it's climbing up The cliff!
 Dialogue: 0,0:16:15.17,0:16:17.57,Dubtitles,,0,0,0,,Is there anything this car can't do?
 Dialogue: 0,0:16:20.29,0:16:21.27,Dubtitles,,0,0,0,,Good grief.
@@ -1241,7 +1231,7 @@ Dialogue: 0,0:17:52.57,0:17:53.40,Dubtitles,,0,0,0,,Chotaro!
 Dialogue: 0,0:17:54.81,0:17:56.09,Dubtitles,,0,0,0,,I win!
 Dialogue: 0,0:17:56.39,0:17:59.11,Dubtitles,,0,0,0,,Your valiant hero finally bit the dust!
 Dialogue: 0,0:18:06.89,0:18:07.72,Dubtitles,,0,0,0,,Is that so?
-Dialogue: 0,0:18:07.99,0:18:11.45,Dubtitles,,0,0,0,,And who exactly would\Nreplace me, Chotaro Cujo?
+Dialogue: 0,0:18:07.99,0:18:11.45,Dubtitles,,0,0,0,,And who exactly would\Nreplace me, Chotaro Cujoh?
 Dialogue: 0,0:18:18.43,0:18:21.55,Dubtitles,,0,0,0,,Let me guess, you thought\Nit'd be you, you roadhog.
 Dialogue: 0,0:18:23.11,0:18:25.94,Dubtitles,,0,0,0,,You burrowed into the\Nground with star platinum,
 Dialogue: 0,0:18:26.11,0:18:29.00,Dubtitles,,0,0,0,,so the only thing that\Nburned up was your jacket!
@@ -1249,15 +1239,13 @@ Dialogue: 0,0:18:29.63,0:18:31.25,Dubtitles,,0,0,0,,A little parting wisdom.
 Dialogue: 0,0:18:31.61,0:18:35.99,Dubtitles,,0,0,0,,What you said earlier\Nabout paths was dead wrong.
 Dialogue: 0,0:18:36.47,0:18:39.41,Dubtitles,,0,0,0,,You see, in life, you have\Nto forge your own path.
 Dialogue: 0,0:18:39.69,0:18:43.11,Dubtitles,,0,0,0,,No one can do it for you, so\NI'll offer you some guidance.
-Dialogue: 0,0:18:44.67,0:18:47.85,Dubtitles,,0,0,0,,Oh, but first you have to\Ngo through a little pain
-Dialogue: 0,0:18:55.17,0:18:56.63,Dubtitles,,0,0,0,,A big crush.
-Dialogue: 0,0:18:56.79,0:18:57.77,Dubtitles,,0,0,0,,No, Jotaro.
-Dialogue: 0,0:19:01.45,0:19:02.28,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:19:03.39,0:19:04.25,Dubtitles,,0,0,0,,I love you.
-Dialogue: 0,0:19:09.49,0:19:11.13,Dubtitles,,0,0,0,,That is how it's done.
-Dialogue: 0,0:19:12.03,0:19:14.03,Dubtitles,,0,0,0,,See, you just paved your own path.
-Dialogue: 0,0:19:14.17,0:19:16.11,Dubtitles,,0,0,0,,Congrats on being a fast learner.
-Dialogue: 0,0:19:16.21,0:19:17.57,Dubtitles,,0,0,0,,Here ends the lesson.
+Dialogue: 0,0:18:44.67,0:18:47.85,Dubtitles,,0,0,0,,Oh, but first, you have to\Ngo through a little pain.
+Dialogue: 0,0:18:55.25,0:18:56.63,Dubtitles,,0,0,0,,A big crush!
+Dialogue: 0,0:18:56.79,0:18:57.77,Dubtitles,,0,0,0,,No, Jotaro!
+Dialogue: 0,0:19:09.57,0:19:11.13,Dubtitles,,0,0,0,,That is how it's done.
+Dialogue: 0,0:19:12.01,0:19:14.01,Dubtitles,,0,0,0,,See, you just paved your own path.
+Dialogue: 0,0:19:14.15,0:19:16.09,Dubtitles,,0,0,0,,Congrats on being a fast learner.
+Dialogue: 0,0:19:16.25,0:19:17.57,Dubtitles,,0,0,0,,Here ends the lesson.
 Dialogue: 0,0:19:24.81,0:19:26.31,Dubtitles,,0,0,0,,What an odd guy.
 Dialogue: 0,0:19:26.63,0:19:30.83,Dubtitles,,0,0,0,,His arms are the size of boulders\Nand yet everything else is so small.
 Dialogue: 0,0:19:31.33,0:19:32.59,Dubtitles,,0,0,0,,Talk about a bluff.
@@ -1269,18 +1257,17 @@ Dialogue: 0,0:20:00.01,0:20:01.79,Dubtitles,,0,0,0,,Oh, would you look at that,
 Dialogue: 0,0:20:01.99,0:20:06.07,Dubtitles,,0,0,0,,I can't believe the stand was disguising\Nsuch a small car that entire time.
 Dialogue: 0,0:20:06.15,0:20:10.98,Dubtitles,,0,0,0,,Kinda reminds me of a fluffy little sheep\Nthat just had all of its wool shorn off.
 Dialogue: 0,0:20:12.03,0:20:14.29,Dubtitles,,0,0,0,,What a pathetic hunk of junk!
-Dialogue: 0,0:20:15.09,0:20:16.63,Dubtitles,,0,0,0,,Ha ha ha ha ha!
+Dialogue: 0,0:20:18.25,0:20:25.25,Dubtitles,,0,0,0,,ha!
 Dialogue: 1,0:20:26.12,0:20:28.24,Note,Note,0,0,0,,{\fs(70)}I am a priest in training. \NPlease do not disturb my meditation by undoing my restraints.
-Dialogue: 0,0:20:27.03,0:20:29.86,Dubtitles,,0,0,0,,Well then, let's take his\Ncar across the border.
+Dialogue: 0,0:20:27.05,0:20:29.88,Dubtitles,,0,0,0,,Well then, let's take his\Ncar across the border.
 Dialogue: 0,0:20:30.01,0:20:32.01,Dubtitles,,0,0,0,,Only fair since he smashed ours.
-Dialogue: 0,0:20:32.31,0:20:33.73,Dubtitles,,0,0,0,,He's pretty beat up, though.
-Dialogue: 0,0:20:33.81,0:20:35.75,Dubtitles,,0,0,0,,I wonder if it'll last that long?
-Dialogue: 0,0:20:36.59,0:20:37.55,Dubtitles,,0,0,0,,Help! Help!
+Dialogue: 0,0:20:32.33,0:20:33.73,Dubtitles,,0,0,0,,It's pretty beat up, though.
+Dialogue: 0,0:20:33.81,0:20:36.47,Dubtitles,,0,0,0,,I wonder if it'll last that long. Help!
+Dialogue: 0,0:20:37.07,0:20:37.90,Dubtitles,,0,0,0,,Help!
 Dialogue: 0,0:20:38.61,0:20:41.65,Dubtitles,,0,0,0,,You're on the next flight to Hong\NKong once we find an airport.
-Dialogue: 0,0:20:41.73,0:20:42.97,Dubtitles,,0,0,0,,Oh, I know what!
-Dialogue: 0,0:20:43.05,0:20:43.97,Dubtitles,,0,0,0,,Shut up!
-Dialogue: 0,0:20:44.23,0:20:47.82,Dubtitles,,0,0,0,,Don't you understand that you're\Nin the way, you little brat?
-Dialogue: 0,0:20:48.27,0:20:50.71,Dubtitles,,0,0,0,,We might not make it that far.
+Dialogue: 0,0:20:41.73,0:20:43.85,Dubtitles,,0,0,0,,Oh, I know why! Shut up!
+Dialogue: 0,0:20:43.93,0:20:47.52,Dubtitles,,0,0,0,,Don't you understand that you're\Nin the way, you little brat?
+Dialogue: 0,0:20:47.61,0:20:50.71,Dubtitles,,0,0,0,,Er, we might not make it that far.
 Dialogue: 1,0:21:04.57,0:21:04.61,Eyecatch Stats,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:21:04.57,0:21:04.61,Eyecatch Stats,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:21:04.57,0:21:04.61,Eyecatch Stats,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -1428,14 +1415,87 @@ Dialogue: 3,0:21:06.62,0:21:08.49,Eyecatch2,signtop,0,0,0,,{\bord0\blur0.6\shad2
 Dialogue: 1,0:21:07.12,0:21:08.49,Eyecatch2 - Base,signbot,0,0,0,,{\blur13\alpha&H80&\3c&HFEFDFF&\pos(1638,798)}Zii Zii
 Dialogue: 2,0:21:07.12,0:21:08.49,Eyecatch2 - Base,signbot,0,0,0,,{\blur0.6\c&H3A3E4D&\pos(1638,798)}Zii Zii
 Dialogue: 3,0:21:07.12,0:21:08.49,Eyecatch2 - Base,signbot,0,0,0,,{\bord0\blur0.6\shad2\4a&HFF&\pos(1638,798)}Zii Zii
-Dialogue: 0,0:21:13.55,0:21:18.45,Dubtitles,,0,0,0,,My seven assassins have all\Nbeen defeated, and so easily!
-Dialogue: 0,0:21:19.61,0:21:23.31,Dubtitles,,0,0,0,,How could they be crushed\Nlike that? The shame!
-Dialogue: 0,0:21:23.73,0:21:26.05,Dubtitles,,0,0,0,,I cannot bear to face Lordeo!
-Dialogue: 0,0:21:28.33,0:21:29.43,Dubtitles,,0,0,0,,Damn you!
-Dialogue: 0,0:21:29.61,0:21:30.81,Dubtitles,,0,0,0,,Curse you, Polnareff!
+Dialogue: 0,0:21:13.93,0:21:18.47,Dubtitles,,0,0,0,,My seven assassins have all\Nbeen defeated, and so easily!
+Dialogue: 0,0:21:19.53,0:21:23.31,Dubtitles,,0,0,0,,How could they be crushed\Nlike that? The shame!
+Dialogue: 0,0:21:23.75,0:21:26.57,Dubtitles,,0,0,0,,I cannot bear to face Lord Dio!
+Dialogue: 0,0:21:28.35,0:21:29.43,Dubtitles,,0,0,0,,Damn you!
+Dialogue: 0,0:21:29.59,0:21:30.81,Dubtitles,,0,0,0,,Curse you, Polnareff!
 Dialogue: 0,0:21:30.89,0:21:32.05,Dubtitles,,0,0,0,,Curse Kakyoin!
 Dialogue: 0,0:21:32.25,0:21:34.72,Dubtitles,,0,0,0,,Curse Jotaro and his wretched grandfather!
-Dialogue: 0,0:21:38.47,0:21:42.65,Dubtitles,,0,0,0,,I, Inyava, shall be your\Nnext and final opponent!
-Dialogue: 0,0:21:43.13,0:21:47.49,Dubtitles,,0,0,0,,I will fight with my very own\Nstand, the stand of justice!
-Dialogue: 0,0:22:05.33,0:22:08.01,Dubtitles,,0,0,0,,All the old paintings on the tomb.
+Dialogue: 0,0:21:38.37,0:21:42.57,Dubtitles,,0,0,0,,I, Enyava, shall be your\Nnext and final opponent!
+Dialogue: 0,0:21:42.65,0:21:47.51,Dubtitles,,0,0,0,,I will fight with my very own\Nstand. The stand of justice
+Dialogue: 0,0:22:04.93,0:22:09.41,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb. They do the stand dance.
+Dialogue: 0,0:22:09.49,0:22:13.85,Dubtitles,,0,0,0,,Don't you know? If they move too\Nquick, they're falling down like
+Dialogue: 1,0:22:13.72,0:22:16.14,Lyrics 2,,0,0,0,,All the old paintings on the tomb
+Dialogue: 0,0:22:13.93,0:22:19.05,Dubtitles,,0,0,0,,a domino All the birds are men by\Nthe Nile They got their money on
+Dialogue: 1,0:22:16.14,0:22:18.40,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
+Dialogue: 1,0:22:18.40,0:22:19.85,Lyrics 2,,0,0,0,,If they move too quick
+Dialogue: 0,0:22:19.13,0:22:23.35,Dubtitles,,0,0,0,,A bed called crocodiles. They'll\Nlay snap their teeth on your
+Dialogue: 1,0:22:20.65,0:22:23.11,Lyrics 2,,0,0,0,,They're falling down like a domino
+Dialogue: 1,0:22:23.11,0:22:25.44,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
+Dialogue: 0,0:22:23.43,0:22:25.23,Dubtitles,,0,0,0,,cigarette Foreign types of the
+Dialogue: 0,0:22:25.31,0:22:26.41,Dubtitles,,0,0,0,,Hookah. I'm safe.
+Dialogue: 1,0:22:25.44,0:22:27.78,Lyrics 2,,0,0,0,,They got the money on a bet
+Dialogue: 0,0:22:26.49,0:22:27.67,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:22:27.75,0:22:34.43,Dubtitles,,0,0,0,,like
+Dialogue: 1,0:22:27.78,0:22:29.28,Lyrics 2,,0,0,0,,Gold crocodiles
+Dialogue: 1,0:22:29.95,0:22:32.41,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
+Dialogue: 1,0:22:32.41,0:22:34.62,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
+Dialogue: 0,0:22:34.51,0:22:35.34,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 1,0:22:41.63,0:22:44.17,Lyrics 2,,0,0,0,,Walk like an Egyptian
+Dialogue: 0,0:22:47.05,0:22:51.29,Dubtitles,,0,0,0,,The blonde waitresses take their\Ntrays, spin around and they
+Dialogue: 0,0:22:51.37,0:22:55.75,Dubtitles,,0,0,0,,Cross the floor. They've got the\Nmoves. You drop your drink then
+Dialogue: 1,0:22:55.56,0:22:58.02,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
+Dialogue: 0,0:22:55.83,0:22:59.29,Dubtitles,,0,0,0,,they bring you more All the\Nschool kids so sick of books
+Dialogue: 1,0:22:58.02,0:23:00.40,Lyrics 2,,0,0,0,,They spin around and they cross the floor
+Dialogue: 0,0:22:59.37,0:23:03.02,Dubtitles,,0,0,0,,They're like the punk and the\Nmetal band When the buzzer rings
+Dialogue: 1,0:23:00.40,0:23:01.65,Lyrics 2,,0,0,0,,They've got the moves
+Dialogue: 1,0:23:02.69,0:23:05.03,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
+Dialogue: 0,0:23:03.63,0:23:08.35,Dubtitles,,0,0,0,,They're walking like an Egyptian.\NAll the kids in the marketplace say.
+Dialogue: 1,0:23:05.03,0:23:07.36,Lyrics 2,,0,0,0,,All the school kids so sick of books
+Dialogue: 1,0:23:07.36,0:23:09.70,Lyrics 2,,0,0,0,,They like the punk and the metal band
+Dialogue: 1,0:23:09.70,0:23:11.16,Lyrics 2,,0,0,0,,When the buzzer rings
+Dialogue: 1,0:23:11.99,0:23:14.33,Lyrics 2,,0,0,0,,They're walking like an Egyptian
+Dialogue: 1,0:23:14.33,0:23:16.54,Lyrics 2,,0,0,0,,All the kids in the marketplace say
+Dialogue: 0,0:23:15.45,0:23:17.15,Dubtitles,,0,0,0,,Walk like an Egyptian
+Dialogue: 0,0:23:20.15,0:23:23.03,Dubtitles,,0,0,0,,The fog looks thicker up\Nahead He's dead with that
+Dialogue: 0,0:23:23.11,0:23:25.93,Dubtitles,,0,0,0,,look of fear What is with\Nthe people in this town?
+Dialogue: 1,0:23:23.67,0:23:26.76,Lyrics 2,,0,0,0,,Walk like an Egyptian
+Dialogue: 0,0:23:26.01,0:23:29.95,Dubtitles,,0,0,0,,This is no ordinary murder The Joestar\NParty is on the third floor Well,
+Dialogue: 2,0:23:28.01,0:23:30.01,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
+Dialogue: 0,0:23:30.03,0:23:34.51,Dubtitles,,0,0,0,,Hello, I see you are\Ntravelers. As-salam alaykum.
+Dialogue: 1,0:23:35.22,0:23:35.26,SFXRed,P1,0,0,0,,{=3}{\blur1\bord8.19\fscx106.44\fscy81.88\frz0.9406\pos(1269.29,634.92)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.22,0:23:35.26,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx106.44\fscy81.88\frz0.9406\pos(1269.29,634.92)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.26,0:23:35.31,SFXRed,P1,0,0,0,,{=3}{\blur1\bord7.44\fscx96.68\fscy74.37\frz3.718\pos(1218.68,594.53)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.26,0:23:35.31,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx96.68\fscy74.37\frz3.718\pos(1218.68,594.53)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.31,0:23:35.35,SFXRed,P1,0,0,0,,{=3}{\blur1\bord9.14\fscx118.78\fscy91.37\frz6.174\pos(1299.94,572.05)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.31,0:23:35.35,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx118.78\fscy91.37\frz6.174\pos(1299.94,572.05)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.35,0:23:35.39,SFXRed,P1,0,0,0,,{=3}{\blur1\bord9.04\fscx117.54\fscy90.42\frz8.32\pos(1278.26,534.42)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.35,0:23:35.39,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx117.54\fscy90.42\frz8.32\pos(1278.26,534.42)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.39,0:23:35.43,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.88\fscx141.49\fscy108.84\frz8.9\pos(1381.25,504.17)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.39,0:23:35.43,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx141.49\fscy108.84\frz8.9\pos(1381.25,504.17)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.43,0:23:35.47,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.58\fscx137.55\fscy105.8\frz9.77\pos(1356.06,485.71)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.43,0:23:35.47,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx137.55\fscy105.8\frz9.77\pos(1356.06,485.71)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.47,0:23:35.51,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.89\fscx141.6\fscy108.92\frz10.81\pos(1389.22,479.89)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.47,0:23:35.51,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx141.6\fscy108.92\frz10.81\pos(1389.22,479.89)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.51,0:23:35.56,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.67\fscx138.75\fscy106.73\frz11.57\pos(1370.34,465.71)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.51,0:23:35.56,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx138.75\fscy106.73\frz11.57\pos(1370.34,465.71)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.56,0:23:35.60,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.53\fscx136.86\fscy105.28\frz12.53\pos(1364.25,451.83)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.56,0:23:35.60,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx136.86\fscy105.28\frz12.53\pos(1364.25,451.83)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.60,0:23:35.64,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.31\fscx134.07\fscy103.13\frz14.16\pos(1345.58,438.88)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.60,0:23:35.64,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx134.07\fscy103.13\frz14.16\pos(1345.58,438.88)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.64,0:23:35.68,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10.19\fscx132.46\fscy101.89\frz14.52\pos(1338.19,411.17)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.64,0:23:35.68,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx132.46\fscy101.89\frz14.52\pos(1338.19,411.17)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.68,0:23:35.72,SFXRed,P1,0,0,0,,{=3}{\blur1\bord10\fscx130\fscy100\frz15.97\pos(1323,402)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.68,0:23:35.72,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx130\fscy100\frz15.97\pos(1323,402)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.72,0:23:35.76,SFXRed,P1,0,0,0,,{=3}{\blur1\bord9.93\fscx129.04\fscy99.26\frz16.14\pos(1318.54,398.79)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.72,0:23:35.76,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx129.04\fscy99.26\frz16.14\pos(1318.54,398.79)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.76,0:23:35.81,SFXRed,P1,0,0,0,,{=3}{\blur1\bord9.84\fscx127.91\fscy98.39\frz17.42\pos(1307.41,390.75)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.76,0:23:35.81,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx127.91\fscy98.39\frz17.42\pos(1307.41,390.75)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.81,0:23:35.85,SFXRed,P1,0,0,0,,{=3}{\blur1\bord9.84\fscx127.91\fscy98.39\frz16.92\pos(1326.76,389.17)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.81,0:23:35.85,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx127.91\fscy98.39\frz16.92\pos(1326.76,389.17)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 1,0:23:35.85,0:23:35.89,SFXRed,P1,0,0,0,,{=3}{\blur1\bord9.78\fscx127.2\fscy97.85\frz17.15\pos(1320.85,384.97)\c&H141127&}Doom {In preview for last episode}
+Dialogue: 2,0:23:35.85,0:23:35.89,SFXRed,P1,0,0,0,,{=3}{\blur1\bord0\fscx127.2\fscy97.85\frz17.15\pos(1320.85,384.97)\4a&HFF&}Doom {In preview for last episode}
+Dialogue: 2,0:23:41.02,0:23:43.02,Next Episode,sign,0,0,0,,{\pos(960,215)\fs100}Episode 14
+Dialogue: 2,0:23:41.02,0:23:43.02,Next Episode,sign,0,0,0,,{\fs100\pos(960,860)}Justice, Part 1
 

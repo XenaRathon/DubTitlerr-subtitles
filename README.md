@@ -32,12 +32,12 @@ as a draft.
 ## What's here
 
 <!-- shows-table:start -->
-Last updated 2026-11-05: **1074 episodes across 15 shows**, all unreviewed. Episodes and shows are added automatically as DubTitlerr finishes them, and this table is rebuilt from `manifest/` with each update. `manifest/` has the full per-episode list.
+Last updated 2026-11-06: **1076 episodes across 15 shows**, all unreviewed. Episodes and shows are added automatically as DubTitlerr finishes them, and this table is rebuilt from `manifest/` with each update. `manifest/` has the full per-episode list.
 
 | Show | Episodes |
 | --- | ---: |
 | One Pace | 497 |
-| JoJo's Bizarre Adventure (2012) | 195 |
+| JoJo's Bizarre Adventure (2012) | 197 |
 | Digimon Digital Monsters (1999) | 103 |
 | Sword Art Online (2012) | 98 |
 | Reborn as a Vending Machine, I Now Wander the Dungeon (2023) | 36 |

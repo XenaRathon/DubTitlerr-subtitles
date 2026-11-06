@@ -43,7 +43,7 @@ Style: SFXYellow,KG Turning Tables,140,&H0022D3F1,&H000000FF,&H0004111F,&H3F0411
 Style: SFXOang,Shaky Hand Some Comic Bold,130,&H003FA0F5,&H000000FF,&H0017323F,&H00000000,-1,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
 Style: SFXPurple,WorldsAtWar BB,170,&H00943778,&H000000FF,&H001D101F,&H00000000,0,0,0,0,120,100,0,0,1,8,0,8,50,40,20,1
 Style: SFXYellow2,Franc Gothique Brush,140,&H2F3DFBF9,&H000000FF,&H5411353E,&H00000000,0,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -126,11 +126,11 @@ Dialogue: 0,0:06:00.14,0:06:00.97,Dubtitles,,0,0,0,,Come here, quick!
 Dialogue: 0,0:06:01.05,0:06:01.88,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:06:04.20,0:06:05.03,Dubtitles,,0,0,0,,An ape!
 Dialogue: 0,0:06:05.40,0:06:07.28,Dubtitles,,0,0,0,,There's an ape inside that cage!
-Dialogue: 0,0:06:12.72,0:06:16.52,Dubtitles,,0,0,0,,It's an orangutan. Who\Ncares about a friggin' ape?
-Dialogue: 0,0:06:16.60,0:06:20.01,Dubtitles,,0,0,0,,let's split up and find whoever's\Nbeen feeding this thing?
+Dialogue: 0,0:06:12.72,0:06:16.52,Dubtitles,,0,0,0,,it's an orangutan who the\Nhell cares about a friggin ape
+Dialogue: 0,0:06:16.60,0:06:19.95,Dubtitles,,0,0,0,,let's split up and find\Nwhoever's been feeding this thing
 Dialogue: 0,0:06:38.24,0:06:42.78,Dubtitles,,0,0,0,,Well, it doesn't appear\Nto be broken, but...
 Dialogue: 0,0:06:49.74,0:06:50.57,Dubtitles,,0,0,0,,Avdol!
-Dialogue: 0,0:06:50.65,0:06:51.48,Dubtitles,,0,0,0,,That's Avdol!
+Dialogue: 0,0:06:50.65,0:06:51.48,Dubtitles,,0,0,0,,That's Sailor!
 Dialogue: 0,0:06:51.57,0:06:52.40,Dubtitles,,0,0,0,,Watch out!
 Dialogue: 0,0:06:57.52,0:06:58.64,Dubtitles,,0,0,0,,Oh, good grief.
 Dialogue: 0,0:06:58.90,0:07:03.02,Dubtitles,,0,0,0,,That isn't any way to greet a lady\Nyou've never met before now, is it?
@@ -139,28 +139,19 @@ Dialogue: 0,0:07:07.82,0:07:11.22,Dubtitles,,0,0,0,,I saw that crane move, even 
 Dialogue: 0,0:07:11.30,0:07:13.60,Dubtitles,,0,0,0,,I don't believe in\Nghosts, but what the hell?
 Dialogue: 0,0:07:13.68,0:07:14.72,Dubtitles,,0,0,0,,I saw it too!
 Dialogue: 0,0:07:15.08,0:07:17.26,Dubtitles,,0,0,0,,The crane impaled him all on its own!
-Dialogue: 0,0:07:18.22,0:07:19.40,Dubtitles,,0,0,0,,Keep your guard up.
-Dialogue: 0,0:07:19.48,0:07:22.06,Dubtitles,,0,0,0,,There's someone hostile here. Hey!
-Dialogue: 0,0:07:22.14,0:07:23.38,Dubtitles,,0,0,0,,Don't touch the machinery.
-Dialogue: 0,0:07:23.46,0:07:24.29,Dubtitles,,0,0,0,,You got that?
-Dialogue: 0,0:07:24.37,0:07:26.20,Dubtitles,,0,0,0,,If it moves or runs on electricity!
-Dialogue: 0,0:07:26.28,0:07:27.68,Dubtitles,,0,0,0,,Don't lay a finger on it!
-Dialogue: 0,0:07:27.76,0:07:30.84,Dubtitles,,0,0,0,,If you want to live, then\Nyou'll do exactly as I tell you!
-Dialogue: 0,0:07:30.92,0:07:31.75,Dubtitles,,0,0,0,,Understand!
-Dialogue: 0,0:07:31.83,0:07:35.40,Dubtitles,,0,0,0,,Get into the cabin below and stay\Nthere until I tell you otherwise!
-Dialogue: 0,0:07:40.52,0:07:43.62,Dubtitles,,0,0,0,,Did any one of you see even a\Nglimpse of a stand just now?
-Dialogue: 0,0:07:43.70,0:07:44.76,Dubtitles,,0,0,0,,I didn't.
-Dialogue: 0,0:07:44.84,0:07:45.74,Dubtitles,,0,0,0,,My apologies.
-Dialogue: 0,0:07:45.82,0:07:48.70,Dubtitles,,0,0,0,,I was the closest to the\Ncrane and yet I felt nothing.
-Dialogue: 0,0:07:48.78,0:07:50.46,Dubtitles,,0,0,0,,I should have been able to send something!
-Dialogue: 0,0:07:50.54,0:07:51.37,Dubtitles,,0,0,0,,All right!
-Dialogue: 0,0:07:51.45,0:07:54.81,Dubtitles,,0,0,0,,I'll send Hierophant Green to\Ntake a look around the ship!
-Dialogue: 0,0:08:02.58,0:08:04.76,Dubtitles,,0,0,0,,I have no idea what's going on!
-Dialogue: 0,0:08:04.84,0:08:06.52,Dubtitles,,0,0,0,,But scary things keep happening!
-Dialogue: 0,0:08:06.60,0:08:08.31,Dubtitles,,0,0,0,,Whenever you guys are around!
-Dialogue: 0,0:08:08.58,0:08:09.82,Dubtitles,,0,0,0,,Could you guys be jinxed?
-Dialogue: 0,0:08:09.90,0:08:13.02,Dubtitles,,0,0,0,,I've heard about people who cause\Ndisasters that endanger everyone?
-Dialogue: 0,0:08:13.10,0:08:15.98,Dubtitles,,0,0,0,,But if that's what you\Nare, I'd better stay away.
+Dialogue: 0,0:07:18.22,0:07:23.00,Dubtitles,,0,0,0,,Keep your guard up! There's someone\Nhostile here! Hey! Don't touch the
+Dialogue: 0,0:07:23.08,0:07:27.24,Dubtitles,,0,0,0,,machinery you got that if it moves or\Nruns on electricity don't lay a finger
+Dialogue: 0,0:07:27.32,0:07:31.34,Dubtitles,,0,0,0,,on it if you want to live then you'll\Ndo exactly as i tell you understand
+Dialogue: 0,0:07:31.42,0:07:35.40,Dubtitles,,0,0,0,,get into the cabin below and stay\Nthere until i tell you otherwise
+Dialogue: 0,0:07:40.52,0:07:44.26,Dubtitles,,0,0,0,,did any one of you see even a\Nglimpse of a stand just now i
+Dialogue: 0,0:07:44.34,0:07:48.16,Dubtitles,,0,0,0,,Didn't. My apologies, I was the\Nclosest to the crane and yet I
+Dialogue: 0,0:07:48.24,0:07:51.04,Dubtitles,,0,0,0,,felt nothing i should have\Nbeen able to send something all
+Dialogue: 0,0:07:51.12,0:07:54.83,Dubtitles,,0,0,0,,right i'll send hierophant green\Nto take a look around the ship
+Dialogue: 0,0:08:02.58,0:08:05.92,Dubtitles,,0,0,0,,i have no idea what's\Ngoing on but scary things
+Dialogue: 0,0:08:06.00,0:08:08.50,Dubtitles,,0,0,0,,keep happening whenever\Nyou guys are around
+Dialogue: 0,0:08:08.58,0:08:11.32,Dubtitles,,0,0,0,,could you guys be jinxed i've\Nheard about people who cause
+Dialogue: 0,0:08:11.40,0:08:14.60,Dubtitles,,0,0,0,,disasters that endanger everyone\NBut if that's what you are,
+Dialogue: 0,0:08:14.68,0:08:15.92,Dubtitles,,0,0,0,,I'd better stay away.
 Dialogue: 0,0:08:24.36,0:08:27.65,Dubtitles,,0,0,0,,I have just one bit of truth\Nfor you, so listen closely.
 Dialogue: 0,0:08:28.98,0:08:31.16,Dubtitles,,0,0,0,,Whatever happens, we're on your side.
 Dialogue: 0,0:08:33.90,0:08:34.73,Dubtitles,,0,0,0,,Stay safe.
@@ -214,11 +205,10 @@ Dialogue: 0,0:09:50.14,0:09:51.73,Dubtitles,,0,0,0,,Who trained you to do that?
 Dialogue: 0,0:10:02.84,0:10:03.67,Dubtitles,,0,0,0,,No way!
 Dialogue: 0,0:10:03.88,0:10:06.70,Dubtitles,,0,0,0,,A monkey like you is\Nactually into looking at...
 Dialogue: 0,0:10:07.44,0:10:08.70,Dubtitles,,0,0,0,,pin-ups of girls?
-Dialogue: 0,0:10:15.94,0:10:19.94,Dubtitles,,0,0,0,,Hey, kid! Be careful—there,\Nthey say an orangutan
-Dialogue: 0,0:10:20.02,0:10:22.26,Dubtitles,,0,0,0,,has five times the\Nstrength of a normal human?
-Dialogue: 0,0:10:22.34,0:10:25.70,Dubtitles,,0,0,0,,So it could easily rip\Noff your arm come on
-Dialogue: 0,0:10:25.78,0:10:27.90,Dubtitles,,0,0,0,,stay with us in the\Nroom on the other side!
-Dialogue: 0,0:10:27.98,0:10:31.14,Dubtitles,,0,0,0,,Don't go off by yourself. Oh, okay.
+Dialogue: 0,0:10:15.94,0:10:20.28,Dubtitles,,0,0,0,,Hey kid, be careful there.\NThey say an orangutan has
+Dialogue: 0,0:10:20.36,0:10:23.06,Dubtitles,,0,0,0,,five times the strength of\Na normal human so it could
+Dialogue: 0,0:10:23.14,0:10:26.80,Dubtitles,,0,0,0,,easily rip off your arm\Ncome on stay with us in the
+Dialogue: 0,0:10:26.88,0:10:31.14,Dubtitles,,0,0,0,,room on the other side don't\Ngo off by yourself oh okay
 Dialogue: 0,0:10:44.44,0:10:45.56,Dubtitles,,0,0,0,,It's inconceivable.
 Dialogue: 0,0:10:45.92,0:10:48.72,Dubtitles,,0,0,0,,I've had Hierophant Green\Nsearch every inch of this ship,
 Dialogue: 0,0:10:48.80,0:10:51.06,Dubtitles,,0,0,0,,but I can't find a single\Nsign of human life aboard.
@@ -230,10 +220,8 @@ Dialogue: 0,0:11:00.52,0:11:01.99,Dubtitles,,0,0,0,,Well, try again, damn it.
 Dialogue: 0,0:11:07.06,0:11:07.89,Dubtitles,,0,0,0,,Gross.
 Dialogue: 0,0:11:07.97,0:11:09.66,Dubtitles,,0,0,0,,I feel sticky from the salt water.
 Dialogue: 0,0:11:17.82,0:11:19.22,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:11:50.00,0:11:51.40,Dubtitles,,0,0,0,,Oh.
-Dialogue: 0,0:11:57.22,0:11:59.08,Dubtitles,,0,0,0,,Huh? Ahh!
-Dialogue: 0,0:12:00.86,0:12:01.69,Dubtitles,,0,0,0,,Ahh!
-Dialogue: 0,0:12:02.58,0:12:03.41,Dubtitles,,0,0,0,,Oh!
+Dialogue: 0,0:11:50.76,0:12:02.78,Dubtitles,,0,0,0,,Ah…
+Dialogue: 0,0:12:05.00,0:12:06.40,Dubtitles,,0,0,0,,Huh?
 Dialogue: 1,0:12:07.03,0:12:07.08,Eyecatch Stats,,0,0,0,,{=21}{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:12:07.03,0:12:07.08,Eyecatch Stats,,0,0,0,,{=24}{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:12:07.03,0:12:07.08,Eyecatch Stats,,0,0,0,,{=24}{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -337,11 +325,12 @@ Dialogue: 1,0:12:07.70,0:12:10.96,Eyecatch Stats,,0,0,0,,{\fscx90\fscy100\fade(2
 Dialogue: 1,0:12:07.70,0:12:10.96,Eyecatch Stats,,0,0,0,,{\fscx90\fscy100\fade(255,0,255,-660,-260,3260,3260)\be0.8\xshad-4\yshad4\pos(129.78,874.7)\frz300.2}PRECISION
 Dialogue: 1,0:12:07.70,0:12:10.96,Eyecatch Stats,,0,0,0,,{\fscx90\fscy100\fade(255,0,255,-660,-260,3260,3260)\be0.8\xshad-4\yshad4\frz58.59\pos(104,525.33)}POTENTIAL
 Dialogue: 0,0:12:26.02,0:12:28.84,Dubtitles,,0,0,0,,Oh, my God.
-Dialogue: 0,0:12:56.86,0:12:57.69,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:13:01.42,0:13:02.25,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:13:04.00,0:13:06.32,Dubtitles,,0,0,0,,Take your lock, you stinking ape!
-Dialogue: 0,0:13:09.26,0:13:12.92,Dubtitles,,0,0,0,,It seems that this ape isn't\Nyour run-of-the-mill monkey.
-Dialogue: 0,0:13:13.36,0:13:15.13,Dubtitles,,0,0,0,,Could it be that he's the one?
+Dialogue: 0,0:12:56.94,0:12:57.77,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:13:01.34,0:13:02.24,Dubtitles,,0,0,0,,Jiu-Jiu!
+Dialogue: 0,0:13:04.08,0:13:06.32,Dubtitles,,0,0,0,,Take your lock, you stinking ape!
+Dialogue: 0,0:13:09.20,0:13:11.08,Dubtitles,,0,0,0,,Seems at the same...
+Dialogue: 0,0:13:11.16,0:13:13.16,Dubtitles,,0,0,0,,Isn't your run-of-the-mill monkey?
+Dialogue: 0,0:13:13.34,0:13:15.11,Dubtitles,,0,0,0,,Could it be that he's the one?
 Dialogue: 1,0:13:21.32,0:13:21.36,SFXRed,2,0,0,0,,{\blur2\fade(255,0,255,0,0,650,1250)\frz328.24\pos(1107.99,980.88)\c&H090D16&}Slice
 Dialogue: 2,0:13:21.32,0:13:21.36,SFXRed,2,0,0,0,,{\bord0\blur2\fade(255,0,255,0,0,650,1250)\frz328.24\pos(1107.99,980.88)\4a&HFF&}Slice
 Dialogue: 1,0:13:21.36,0:13:21.40,SFXRed,2,0,0,0,,{\blur1.4\fade(255,0,255,-40,-40,610,1210)\frz328.24\pos(1343.37,665.78)\c&H090D16&}Slice
@@ -388,60 +377,61 @@ Dialogue: 1,0:13:22.40,0:13:22.44,SFXRed,2,0,0,0,,{\blur1\fade(255,0,255,-1080,-
 Dialogue: 1,0:13:22.44,0:13:22.48,SFXRed,2,0,0,0,,{\blur1\fade(255,0,255,-1120,-1120,-470,130)\frz354.3\pos(1314.11,260.57)}Slice
 Dialogue: 1,0:13:22.48,0:13:22.53,SFXRed,2,0,0,0,,{\blur1\fade(255,0,255,-1160,-1160,-510,90)\frz354.3\pos(1321.09,252.76)}Slice
 Dialogue: 1,0:13:22.53,0:13:22.57,SFXRed,2,0,0,0,,{\blur1\fade(255,0,255,-1200,-1200,-550,50)\frz354.3\pos(1320.68,245.78)}Slice
-Dialogue: 0,0:13:25.88,0:13:26.71,Dubtitles,,0,0,0,,Wait.
-Dialogue: 0,0:13:26.82,0:13:28.58,Dubtitles,,0,0,0,,Who the hell ripped out that fan?
-Dialogue: 0,0:13:28.66,0:13:29.49,Dubtitles,,0,0,0,,Had to be him.
+Dialogue: 0,0:13:26.40,0:13:28.60,Dubtitles,,0,0,0,,Wait, who the hell ripped out that fan?
+Dialogue: 0,0:13:28.68,0:13:29.51,Dubtitles,,0,0,0,,Had to be him.
 Dialogue: 0,0:13:30.02,0:13:32.86,Dubtitles,,0,0,0,,So this ape's a stand user,\Nbut where's the stand?
-Dialogue: 0,0:13:32.94,0:13:35.32,Dubtitles,,0,0,0,,I should be able to see the\Ndamn thing, but I can't.
-Dialogue: 0,0:13:35.40,0:13:36.93,Dubtitles,,0,0,0,,It doesn't make any sense.
-Dialogue: 0,0:13:37.96,0:13:38.79,Dubtitles,,0,0,0,,What the?
-Dialogue: 0,0:13:38.92,0:13:41.98,Dubtitles,,0,0,0,,The steel propeller bent\Non its own like it's alive!
+Dialogue: 0,0:13:32.94,0:13:35.50,Dubtitles,,0,0,0,,I should be able to see the\Ndamn thing, but I can't.
+Dialogue: 0,0:13:35.58,0:13:37.11,Dubtitles,,0,0,0,,It doesn't make any sense.
+Dialogue: 0,0:13:38.12,0:13:38.95,Dubtitles,,0,0,0,,What the...
+Dialogue: 0,0:13:39.03,0:13:42.04,Dubtitles,,0,0,0,,The steel propeller bent on\Nits own, like it's alive!
 Dialogue: 0,0:13:43.46,0:13:44.29,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:13:44.37,0:13:46.40,Dubtitles,,0,0,0,,Hey, what's going on here?
+Dialogue: 0,0:13:44.37,0:13:46.38,Dubtitles,,0,0,0,,Hey, what's going on here?
 Dialogue: 0,0:13:49.60,0:13:50.74,Dubtitles,,0,0,0,,Son of a bitch!
-Dialogue: 0,0:13:50.98,0:13:53.66,Dubtitles,,0,0,0,,There's no stand in sight\Nand somehow the window broke.
+Dialogue: 0,0:13:50.94,0:13:53.66,Dubtitles,,0,0,0,,There's no stand in sight,\Nand somehow the window broke?
 Dialogue: 0,0:13:53.74,0:13:54.88,Dubtitles,,0,0,0,,Star Platinum!
-Dialogue: 0,0:14:10.22,0:14:11.57,Dubtitles,,0,0,0,,What's with this thing?
-Dialogue: 0,0:14:11.80,0:14:14.62,Dubtitles,,0,0,0,,The ape just sank into\Nthe wall and disappeared.
-Dialogue: 0,0:14:15.26,0:14:16.96,Dubtitles,,0,0,0,,Hey, you saw that, right?
-Dialogue: 0,0:14:17.58,0:14:18.58,Dubtitles,,0,0,0,,Stay close to me.
-Dialogue: 0,0:14:18.88,0:14:20.54,Dubtitles,,0,0,0,,Something bad is going down.
-Dialogue: 0,0:14:21.36,0:14:23.22,Dubtitles,,0,0,0,,The ape vanished into the wall.
-Dialogue: 0,0:14:24.10,0:14:27.06,Dubtitles,,0,0,0,,But that orangutan has\Nto be the Stand user.
-Dialogue: 0,0:14:27.60,0:14:31.14,Dubtitles,,0,0,0,,When I touched it earlier, I felt\Na Stand's energy coming from it.
-Dialogue: 0,0:14:31.22,0:14:33.84,Dubtitles,,0,0,0,,I have no doubt that he's\Nthe one we're looking for.
-Dialogue: 0,0:14:33.92,0:14:38.04,Dubtitles,,0,0,0,,Doesn't make any sense. Why can't\NI see this Stand like I always do?
-Dialogue: 0,0:14:38.12,0:14:43.02,Dubtitles,,0,0,0,,Wait what If I'm seeing
-Dialogue: 0,0:14:43.10,0:14:49.78,Dubtitles,,0,0,0,,it already what's going
-Dialogue: 0,0:14:49.86,0:14:54.88,Dubtitles,,0,0,0,,on this isn't good it's\Nfollowing us is the
-Dialogue: 0,0:14:54.96,0:14:58.04,Dubtitles,,0,0,0,,Freighter trying to is\Nit possible the ship
-Dialogue: 0,0:14:58.12,0:15:02.16,Dubtitles,,0,0,0,,itself is so the stand is\Nactually the freighter!
-Dialogue: 0,0:15:07.90,0:15:09.42,Dubtitles,,0,0,0,,Damn, you son of a...
-Dialogue: 0,0:15:10.18,0:15:11.01,Dubtitles,,0,0,0,,All of it!
-Dialogue: 0,0:15:11.46,0:15:15.04,Dubtitles,,0,0,0,,This ship itself and everything\Non it is a gigantic stand!
-Dialogue: 0,0:15:15.36,0:15:16.58,Dubtitles,,0,0,0,,The entire ship?
-Dialogue: 0,0:15:16.80,0:15:21.24,Dubtitles,,0,0,0,,So there are stands that non-stand users\Nlike that girl on the crew members can see?
-Dialogue: 0,0:15:21.32,0:15:23.34,Dubtitles,,0,0,0,,The only possible explanation for that is.
-Dialogue: 0,0:15:23.42,0:15:25.28,Dubtitles,,0,0,0,,That its immense energy\Nis making it possible.
-Dialogue: 0,0:15:25.36,0:15:26.90,Dubtitles,,0,0,0,,to be seen with the naked eye.
-Dialogue: 0,0:15:26.98,0:15:30.88,Dubtitles,,0,0,0,,But all this must demand a tremendous\Namount of energy to operate.
-Dialogue: 0,0:15:31.10,0:15:32.82,Dubtitles,,0,0,0,,A stand as huge as this.
-Dialogue: 0,0:15:33.44,0:15:36.08,Dubtitles,,0,0,0,,Kick, send Hierophant green to Jotaro.
-Dialogue: 0,0:15:36.36,0:15:37.94,Dubtitles,,0,0,0,,He can help get us out of this.
+Dialogue: 0,0:14:10.24,0:14:11.59,Dubtitles,,0,0,0,,What's with this thing?
+Dialogue: 0,0:14:11.84,0:14:14.66,Dubtitles,,0,0,0,,The ape just sank into\Nthe wall and disappeared.
+Dialogue: 0,0:14:15.28,0:14:16.96,Dubtitles,,0,0,0,,Hey, you saw that, right?
+Dialogue: 0,0:14:17.56,0:14:18.56,Dubtitles,,0,0,0,,Stay close to me.
+Dialogue: 0,0:14:18.90,0:14:20.55,Dubtitles,,0,0,0,,Something bad is going down.
+Dialogue: 0,0:14:21.52,0:14:23.34,Dubtitles,,0,0,0,,The ape vanished into the wall.
+Dialogue: 0,0:14:24.10,0:14:27.06,Dubtitles,,0,0,0,,But that orangutan has\Nto be the stand user.
+Dialogue: 0,0:14:27.54,0:14:31.14,Dubtitles,,0,0,0,,When I touched it earlier, I felt\Na stand's energy coming from it.
+Dialogue: 0,0:14:31.22,0:14:34.28,Dubtitles,,0,0,0,,I have no doubt that he's\Nthe one we're looking for.
+Dialogue: 0,0:14:34.52,0:14:35.84,Dubtitles,,0,0,0,,Doesn't make any sense.
+Dialogue: 0,0:14:35.92,0:14:38.51,Dubtitles,,0,0,0,,Why can't I see this\Nstand like I always do?
+Dialogue: 0,0:14:40.84,0:14:43.78,Dubtitles,,0,0,0,,Wait, what if I'm seeing it already?
+Dialogue: 0,0:14:45.26,0:14:46.36,Dubtitles,,0,0,0,,What's happening?
+Dialogue: 0,0:14:48.22,0:14:50.32,Dubtitles,,0,0,0,,Whoa, what's going on?
+Dialogue: 0,0:14:50.60,0:14:52.28,Dubtitles,,0,0,0,,This isn't good.
+Dialogue: 0,0:14:52.58,0:14:54.28,Dubtitles,,0,0,0,,It's swallowing us.
+Dialogue: 0,0:14:54.62,0:14:56.12,Dubtitles,,0,0,0,,Is the freighter trying to...
+Dialogue: 0,0:14:56.20,0:14:58.86,Dubtitles,,0,0,0,,Is it possible the ship itself is?
+Dialogue: 0,0:14:59.42,0:15:02.10,Dubtitles,,0,0,0,,So the stand is actually the freighter.
+Dialogue: 0,0:15:07.66,0:15:12.86,Dubtitles,,0,0,0,,Damn it! All of it, this ship itself, and
+Dialogue: 0,0:15:12.94,0:15:16.04,Dubtitles,,0,0,0,,everything on it is a\Ngigantic stand the entire
+Dialogue: 0,0:15:16.12,0:15:18.90,Dubtitles,,0,0,0,,ship so there are stands\Nthat non-stand users
+Dialogue: 0,0:15:18.98,0:15:21.78,Dubtitles,,0,0,0,,like that girl on the crew\Nmembers can see the only
+Dialogue: 0,0:15:21.86,0:15:23.94,Dubtitles,,0,0,0,,possible explanation for\Nthat is that it's immense
+Dialogue: 0,0:15:24.02,0:15:26.18,Dubtitles,,0,0,0,,energy is making it\Npossible to be seen with the
+Dialogue: 0,0:15:26.26,0:15:29.22,Dubtitles,,0,0,0,,naked eye but all this\Nmust demand a tremendous
+Dialogue: 0,0:15:29.30,0:15:32.84,Dubtitles,,0,0,0,,amount of energy to operate\NA stand as huge as this!
+Dialogue: 0,0:15:33.46,0:15:36.10,Dubtitles,,0,0,0,,Kakyoin, send Hierophant Green to Jotaro.
+Dialogue: 0,0:15:36.38,0:15:37.94,Dubtitles,,0,0,0,,He can help get us out of this.
 Dialogue: 0,0:15:38.02,0:15:39.78,Dubtitles,,0,0,0,,I can't do that.
-Dialogue: 0,0:15:39.94,0:15:42.71,Dubtitles,,0,0,0,,It's got a firm hold on\Nmy stand and I'm stuck.
-Dialogue: 0,0:15:42.86,0:15:44.68,Dubtitles,,0,0,0,,This is what it means to face death.
-Dialogue: 0,0:15:44.76,0:15:46.04,Dubtitles,,0,0,0,,We fell for this trap.
-Dialogue: 0,0:15:46.12,0:15:49.41,Dubtitles,,0,0,0,,And now we're hopelessly\Nensnared with no way to escape.
-Dialogue: 0,0:15:50.84,0:15:52.82,Dubtitles,,0,0,0,,The pressure keeps increasing.
-Dialogue: 0,0:15:53.40,0:15:56.46,Dubtitles,,0,0,0,,At this rate, our bodies\Nare going to be pulverized.
-Dialogue: 0,0:15:56.54,0:15:57.94,Dubtitles,,0,0,0,,We will be...
-Dialogue: 0,0:15:58.02,0:15:59.66,Dubtitles,,0,0,0,,Damn, we were careless.
-Dialogue: 0,0:16:00.00,0:16:01.56,Dubtitles,,0,0,0,,We've got to...
-Dialogue: 0,0:16:10.00,0:16:13.90,Dubtitles,,0,0,0,,The word that the orangutan\Nwas pointing to was strength.
+Dialogue: 0,0:15:39.98,0:15:42.75,Dubtitles,,0,0,0,,It's got a firm hold on\Nmy stand and I'm stuck.
+Dialogue: 0,0:15:42.84,0:15:44.68,Dubtitles,,0,0,0,,This is what it means to face death.
+Dialogue: 0,0:15:44.76,0:15:46.02,Dubtitles,,0,0,0,,We fell for this trap.
+Dialogue: 0,0:15:46.10,0:15:49.39,Dubtitles,,0,0,0,,And now we're hopelessly\Nensnared with no way to escape.
+Dialogue: 0,0:15:50.86,0:15:52.84,Dubtitles,,0,0,0,,The pressure keeps increasing.
+Dialogue: 0,0:15:53.28,0:15:56.34,Dubtitles,,0,0,0,,At this rate, our bodies\Nare going to be pulverized.
+Dialogue: 0,0:15:56.50,0:15:58.24,Dubtitles,,0,0,0,,We will be...
+Dialogue: 0,0:15:58.32,0:15:59.58,Dubtitles,,0,0,0,,Damn, we were careless.
+Dialogue: 0,0:15:59.66,0:16:02.16,Dubtitles,,0,0,0,,We've got to...
+Dialogue: 0,0:16:10.02,0:16:13.94,Dubtitles,,0,0,0,,The word that the orangutan\Nwas pointing to was strength.
 Dialogue: 0,0:16:14.36,0:16:17.72,Dubtitles,,0,0,0,,It means force, energy, power, or aid.
-Dialogue: 0,0:16:17.92,0:16:21.18,Dubtitles,,0,0,0,,And it is the eighth\Ncard of the tarot deck.
-Dialogue: 0,0:16:21.74,0:16:26.42,Dubtitles,,0,0,0,,It suggests challenge, a\Nstrong will, and hidden powers.
+Dialogue: 0,0:16:17.94,0:16:21.16,Dubtitles,,0,0,0,,And it is the eighth\Ncard of the tarot deck.
+Dialogue: 0,0:16:21.78,0:16:26.40,Dubtitles,,0,0,0,,It suggests challenge, a\Nstrong will, and hidden powers.
 Dialogue: 1,0:16:27.21,0:16:27.25,SFXYellow2,3,0,0,0,,{=7}{\blur1\bord3\fscx33.33\fscy25.64\frz1.427\pos(686.21,549.83)\c&H11353E&}Bang
 Dialogue: 2,0:16:27.21,0:16:27.25,SFXYellow2,3,0,0,0,,{=7}{\blur1\bord0\fscx33.33\fscy25.64\frz1.427\pos(686.21,549.83)\4a&HFF&}Bang
 Dialogue: 1,0:16:27.25,0:16:27.29,SFXYellow2,3,0,0,0,,{=7}{\blur1\bord4\fscx45.04\fscy34.65\frz1.427\pos(736.33,574.01)\c&H11353E&}Bang
@@ -524,17 +514,18 @@ Dialogue: 1,0:16:28.84,0:16:28.88,SFXYellow2,3,0,0,0,,{=7}{\blur1\frz1.427\pos(1
 Dialogue: 2,0:16:28.84,0:16:28.88,SFXYellow2,3,0,0,0,,{=7}{\bord0\blur1\frz1.427\pos(1119.93,734.69)\4a&HFF&}Bang
 Dialogue: 1,0:16:28.88,0:16:28.92,SFXYellow2,3,0,0,0,,{=7}{\blur1\frz1.427\pos(1119.45,733.9)\c&H11353E&}Bang
 Dialogue: 2,0:16:28.88,0:16:28.92,SFXYellow2,3,0,0,0,,{=7}{\bord0\blur1\frz1.427\pos(1119.45,733.9)\4a&HFF&}Bang
-Dialogue: 0,0:16:41.86,0:16:45.62,Dubtitles,,0,0,0,,Damn ape, he thinks he's won already, huh?
-Dialogue: 0,0:16:46.40,0:16:49.86,Dubtitles,,0,0,0,,This entire ship is my\Nstand, and you've lost!
-Dialogue: 0,0:16:50.12,0:16:54.56,Dubtitles,,0,0,0,,You're totally outmatched and helpless,\Nand there's nothing you can do!
-Dialogue: 0,0:16:57.02,0:16:59.06,Dubtitles,,0,0,0,,Jotaro needed no explanation.
-Dialogue: 0,0:16:59.42,0:17:01.77,Dubtitles,,0,0,0,,He knew exactly what the ape was saying.
-Dialogue: 0,0:17:29.82,0:17:30.92,Dubtitles,,0,0,0,,Over here, monkey.
-Dialogue: 0,0:17:31.00,0:17:33.18,Dubtitles,,0,0,0,,That button's not part of your stand!
-Dialogue: 0,0:17:35.84,0:17:36.82,Dubtitles,,0,0,0,,Are you angry?
-Dialogue: 0,0:17:36.90,0:17:41.19,Dubtitles,,0,0,0,,I guess it wounded your pride, since\Nyou thought you'd already beaten us.
-Dialogue: 0,0:17:41.80,0:17:43.88,Dubtitles,,0,0,0,,Oh, it's not hurt at all, is it?
-Dialogue: 0,0:17:43.96,0:17:46.88,Dubtitles,,0,0,0,,Because apes like you\Ndon't have any pride.
+Dialogue: 0,0:16:41.84,0:16:43.02,Dubtitles,,0,0,0,,Damn ape.
+Dialogue: 0,0:16:43.60,0:16:45.60,Dubtitles,,0,0,0,,Thinks he's won already, huh?
+Dialogue: 0,0:16:46.44,0:16:49.88,Dubtitles,,0,0,0,,This entire ship is my\Nstand, and you've lost.
+Dialogue: 0,0:16:50.18,0:16:54.62,Dubtitles,,0,0,0,,You're totally outmatched and helpless,\Nand there's nothing you can do.
+Dialogue: 0,0:16:56.98,0:16:59.02,Dubtitles,,0,0,0,,Jotaro needed no explanation.
+Dialogue: 0,0:16:59.42,0:17:01.78,Dubtitles,,0,0,0,,He knew exactly what the ape was saying.
+Dialogue: 0,0:17:29.82,0:17:31.04,Dubtitles,,0,0,0,,Over here, monkey.
+Dialogue: 0,0:17:31.30,0:17:33.48,Dubtitles,,0,0,0,,That button's not part of your stand.
+Dialogue: 0,0:17:35.84,0:17:36.88,Dubtitles,,0,0,0,,Are you angry?
+Dialogue: 0,0:17:37.36,0:17:41.54,Dubtitles,,0,0,0,,I guess it wounded your pride since\Nyou thought you'd already beaten us.
+Dialogue: 0,0:17:41.62,0:17:43.96,Dubtitles,,0,0,0,,No, it's not hurt at all, is it?
+Dialogue: 0,0:17:44.36,0:17:46.89,Dubtitles,,0,0,0,,Because apes like you\Ndon't have any pride.
 Dialogue: 1,0:17:47.58,0:17:47.62,SFXYellow,4.1,0,0,0,,{=21}{\blur1\frz21.64\pos(36.97,624.34)\c&H04111F&}Raaagh!
 Dialogue: 2,0:17:47.58,0:17:47.62,SFXYellow,4.1,0,0,0,,{=21}{\bord0\blur1\frz21.64\pos(36.97,624.34)\shad7\4a&HFF&}R{*\c&H20CAEF&}a{*\c&H1EC0ED&}a{*\c&H1CB6EC&}a{*\c&H19ADEA&}g{*\c&H17A4E8&}h{\c&H159AE6&}!
 Dialogue: 1,0:17:47.62,0:17:47.67,SFXYellow,4.1,0,0,0,,{=21}{\blur1\frz21.64\pos(-35.95,242.56)\c&H04111F&}Raaagh!
@@ -574,7 +565,7 @@ Dialogue: 2,0:17:48.79,0:17:48.83,SFXYellow,4.3,0,0,0,,{=20}{\bord0\blur1\frz18.
 Dialogue: 1,0:17:48.83,0:17:48.88,SFXYellow,4.3,0,0,0,,{=20}{\blur1\frz18.89\pos(195.2,780.8)\c&H04111F&}Raaagh!
 Dialogue: 2,0:17:48.83,0:17:48.88,SFXYellow,4.3,0,0,0,,{=20}{\bord0\blur1\frz18.89\pos(195.2,780.8)\shad7\4a&HFF&}R{*\c&H20CAEF&}a{*\c&H1EC0ED&}a{*\c&H1CB6EC&}a{*\c&H19ADEA&}g{*\c&H17A4E8&}h{\c&H159AE6&}!
 Dialogue: 0,0:17:50.14,0:17:52.78,Dubtitles,,0,0,0,,That's exactly what makes\Nyou an ape and not a man.
-Dialogue: 0,0:17:52.86,0:17:55.74,Dubtitles,,0,0,0,,What's going to hurt now, is your head!
+Dialogue: 0,0:17:52.86,0:17:55.74,Dubtitles,,0,0,0,,What's going to hurt now is your head!
 Dialogue: 0,0:18:10.86,0:18:11.72,Dubtitles,,0,0,0,,Good grief.
 Dialogue: 0,0:18:18.84,0:18:20.66,Dubtitles,,0,0,0,,I've heard that, when frightened,
 Dialogue: 0,0:18:20.74,0:18:24.62,Dubtitles,,0,0,0,,animals show their stomachs to\Nsignal their submission to the enemy.
@@ -732,16 +723,15 @@ Dialogue: 0,0:18:53.30,0:18:55.54,Dubtitles,,0,0,0,,Hey, be surprised about it l
 Dialogue: 0,0:18:55.88,0:18:57.52,Dubtitles,,0,0,0,,This ship is about to sink.
 Dialogue: 0,0:18:58.04,0:18:59.28,Dubtitles,,0,0,0,,It's time to leave.
 Dialogue: 0,0:18:59.60,0:19:01.13,Dubtitles,,0,0,0,,Get back to the lifeboats!
-Dialogue: 0,0:19:07.68,0:19:09.38,Dubtitles,,0,0,0,,Wow, I can't believe it.
-Dialogue: 0,0:19:09.46,0:19:11.20,Dubtitles,,0,0,0,,The ship's shape is changing.
-Dialogue: 0,0:19:11.28,0:19:13.57,Dubtitles,,0,0,0,,It's turning into a shabby little boat.
-Dialogue: 0,0:19:14.34,0:19:17.08,Dubtitles,,0,0,0,,If I hadn't seen it myself,\NI wouldn't believe it.
-Dialogue: 0,0:19:17.16,0:19:19.98,Dubtitles,,0,0,0,,That ape was traveling\Nthe sea on his own stand.
-Dialogue: 0,0:19:20.46,0:19:22.10,Dubtitles,,0,0,0,,What terrifying power!
-Dialogue: 0,0:19:22.18,0:19:25.06,Dubtitles,,0,0,0,,That was the first time I've\Nencountered such energy.
-Dialogue: 0,0:19:25.14,0:19:28.06,Dubtitles,,0,0,0,,Hate to say it, but we were\Ncompletely overwhelmed this round.
-Dialogue: 0,0:19:28.14,0:19:30.14,Dubtitles,,0,0,0,,If Jotaro hadn't figured it out?
-Dialogue: 0,0:19:30.22,0:19:32.00,Dubtitles,,0,0,0,,we would have been done for.
+Dialogue: 0,0:19:07.68,0:19:08.51,Dubtitles,,0,0,0,,Wow,
+Dialogue: 0,0:19:08.59,0:19:10.70,Dubtitles,,0,0,0,,I can't believe it The ship's shape is
+Dialogue: 0,0:19:10.78,0:19:13.55,Dubtitles,,0,0,0,,changing It's turning\Ninto a shabby little boat
+Dialogue: 0,0:19:14.34,0:19:16.04,Dubtitles,,0,0,0,,If I hadn't seen it myself,
+Dialogue: 0,0:19:16.20,0:19:20.26,Dubtitles,,0,0,0,,I wouldn't believe it That ape was\Ntraveling the sea on his own stand
+Dialogue: 0,0:19:20.46,0:19:23.54,Dubtitles,,0,0,0,,What terrifying power\NThat was the first time
+Dialogue: 0,0:19:23.62,0:19:26.14,Dubtitles,,0,0,0,,I've encountered such\Nenergy Hate to say it,
+Dialogue: 0,0:19:26.22,0:19:29.10,Dubtitles,,0,0,0,,but we were completely\Noverwhelmed this round If Jotaro
+Dialogue: 0,0:19:29.18,0:19:32.12,Dubtitles,,0,0,0,,hadn't figured it out we\Nwould have been done for.
 Dialogue: 0,0:19:32.52,0:19:37.29,Dubtitles,,0,0,0,,Are we going to encounter even more stands\Nwith crazy unknown powers from now on?
 Dialogue: 0,0:19:37.42,0:19:39.54,Dubtitles,,0,0,0,,We'll have to be ready for anything.
 Dialogue: 0,0:19:40.78,0:19:42.16,Dubtitles,,0,0,0,,Hey, you want some gum?
@@ -1211,54 +1201,47 @@ Dialogue: 0,0:21:28.28,0:21:30.84,Dubtitles,,0,0,0,,Good grief, we finally\Nmade
 Dialogue: 0,0:21:31.02,0:21:33.24,Dubtitles,,0,0,0,,We'll clean up and get\Nsome rest at a hotel.
 Dialogue: 0,0:21:33.32,0:21:36.38,Dubtitles,,0,0,0,,Once we've recharged, we'll\Nfigure out our route to Egypt.
 Dialogue: 0,0:21:36.46,0:21:38.58,Dubtitles,,0,0,0,,Alright, let's stay at that one.
-Dialogue: 0,0:22:12.24,0:22:14.90,Dubtitles,,0,0,0,,All the old paintings on the tomb.
+Dialogue: 0,0:22:12.24,0:22:16.34,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb They do the sand dance,
 Dialogue: 1,0:22:12.68,0:22:15.06,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:22:14.98,0:22:16.94,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
 Dialogue: 1,0:22:15.06,0:22:17.35,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:22:17.02,0:22:19.18,Dubtitles,,0,0,0,,If you move too quick, go away.
+Dialogue: 0,0:22:16.46,0:22:18.56,Dubtitles,,0,0,0,,don't you know If you move too quick,
 Dialogue: 1,0:22:17.35,0:22:18.81,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:19.26,0:22:21.56,Dubtitles,,0,0,0,,They're falling down like a domino.
+Dialogue: 0,0:22:18.64,0:22:22.22,Dubtitles,,0,0,0,,Go away. They're falling\Ndown like a domino. All the
 Dialogue: 1,0:22:19.60,0:22:22.07,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:21.64,0:22:24.26,Dubtitles,,0,0,0,,All the buzzer men by the Nile.
 Dialogue: 1,0:22:22.07,0:22:24.40,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:22:24.34,0:22:26.32,Dubtitles,,0,0,0,,They got the money on a bed.
+Dialogue: 0,0:22:22.30,0:22:26.84,Dubtitles,,0,0,0,,Buzzer men by the Nile. They\Ngot the money on a bed. Called
 Dialogue: 1,0:22:24.40,0:22:26.74,Lyrics 2,,0,0,0,,They got the money on a bet
-Dialogue: 0,0:22:26.40,0:22:27.92,Dubtitles,,0,0,0,,Called crocodiles.
 Dialogue: 1,0:22:26.74,0:22:28.24,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:22:28.00,0:22:30.88,Dubtitles,,0,0,0,,I snapped their teeth on your cigarette.
+Dialogue: 0,0:22:26.92,0:22:30.88,Dubtitles,,0,0,0,,Crocodiles. I snapped their\Nteeth on your cigarette.
 Dialogue: 1,0:22:28.91,0:22:31.37,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
-Dialogue: 0,0:22:30.96,0:22:33.18,Dubtitles,,0,0,0,,Falling tied to the hookah. I say.
+Dialogue: 0,0:22:30.96,0:22:32.50,Dubtitles,,0,0,0,,Falling tied to the hookah
 Dialogue: 1,0:22:31.37,0:22:33.58,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:33.26,0:22:34.18,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:22:32.58,0:22:34.18,Dubtitles,,0,0,0,,I say Walk
 Dialogue: 0,0:22:34.26,0:22:41.26,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:40.58,0:22:43.13,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:41.40,0:22:42.23,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:22:54.00,0:22:56.90,Dubtitles,,0,0,0,,The blonde waitresses take their trays.
+Dialogue: 0,0:22:41.40,0:22:42.23,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:22:54.00,0:22:58.20,Dubtitles,,0,0,0,,The blonde waitresses take their\Ntrays. Spin around and they
 Dialogue: 1,0:22:54.51,0:22:56.98,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
-Dialogue: 0,0:22:56.98,0:22:58.88,Dubtitles,,0,0,0,,Spin around and they cross the floor.
 Dialogue: 1,0:22:56.98,0:22:59.35,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:22:58.96,0:23:00.42,Dubtitles,,0,0,0,,They've got the moves.
+Dialogue: 0,0:22:58.28,0:23:02.64,Dubtitles,,0,0,0,,Cross the floor. They've got the\Nmoves. You drop your drink then
 Dialogue: 1,0:22:59.35,0:23:00.60,Lyrics 2,,0,0,0,,They've got the moves
-Dialogue: 0,0:23:00.50,0:23:03.56,Dubtitles,,0,0,0,,You drop your drink then\Nthey bring you more.
 Dialogue: 1,0:23:01.65,0:23:03.98,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:23:03.64,0:23:06.20,Dubtitles,,0,0,0,,All the school kids so sick of books.
+Dialogue: 0,0:23:02.72,0:23:06.20,Dubtitles,,0,0,0,,they bring you more All the\Nschool kids so sick of books
 Dialogue: 1,0:23:03.98,0:23:06.32,Lyrics 2,,0,0,0,,All the school kids so sick of books
-Dialogue: 0,0:23:06.28,0:23:08.26,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:23:06.28,0:23:09.93,Dubtitles,,0,0,0,,They're like the punk and the\Nmetal band When the buzzer rings
 Dialogue: 1,0:23:06.32,0:23:08.65,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:23:08.34,0:23:09.82,Dubtitles,,0,0,0,,When the buzzer rings.
 Dialogue: 1,0:23:08.65,0:23:10.11,Lyrics 2,,0,0,0,,When the buzzer rings
-Dialogue: 0,0:23:10.58,0:23:12.50,Dubtitles,,0,0,0,,They're walking like an Egyptian.
+Dialogue: 0,0:23:10.58,0:23:16.24,Dubtitles,,0,0,0,,They're walking like an Egyptian. All\Nthe kids in the marketplace say Way-oh,
 Dialogue: 1,0:23:10.95,0:23:13.28,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:23:12.58,0:23:15.16,Dubtitles,,0,0,0,,All the kids in the marketplace say?
 Dialogue: 1,0:23:13.28,0:23:15.49,Lyrics 2,,0,0,0,,All the kids in the marketplace say
-Dialogue: 0,0:23:22.32,0:23:24.04,Dubtitles,,0,0,0,,Walk like an Egyptian.
+Dialogue: 0,0:23:22.28,0:23:24.04,Dubtitles,,0,0,0,,Walk like an Egyptian.
 Dialogue: 1,0:23:22.63,0:23:25.71,Lyrics 2,,0,0,0,,Walk like an Egyptian
 Dialogue: 1,0:23:26.96,0:23:28.97,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode{PREVIEW IS UNFINISHED}
-Dialogue: 0,0:23:27.24,0:23:31.44,Dubtitles,,0,0,0,,Couldn't you guys at least give us a\Nchance to rest, persistent bastard?
+Dialogue: 0,0:23:27.20,0:23:31.44,Dubtitles,,0,0,0,,Couldn't you guys at least give us a\Nchance to rest, persistent bastard?
 Dialogue: 0,0:23:31.52,0:23:33.36,Dubtitles,,0,0,0,,She'll be in danger if she stays with us.
 Dialogue: 0,0:23:33.44,0:23:36.42,Dubtitles,,0,0,0,,Polareff must have fallen\Nfor Soul Sacrifices' trick.
-Dialogue: 0,0:23:36.50,0:23:37.33,Dubtitles,,0,0,0,,Train!
-Dialogue: 0,0:23:37.68,0:23:39.46,Dubtitles,,0,0,0,,Who's among us all?
+Dialogue: 0,0:23:36.50,0:23:37.33,Dubtitles,,0,0,0,,Trade! Door!
+Dialogue: 0,0:23:37.80,0:23:39.44,Dubtitles,,0,0,0,,Who's among us all?
 Dialogue: 2,0:23:38.02,0:23:38.06,SFXPurple,P1,0,0,0,,{=15}{\blur0.9\bord10.16\fscx152.37\fscy126.97\frz5.05\pos(1480.56,-24.02)\c&H1D0E1B&}Slam {In preview for last episode}
 Dialogue: 3,0:23:38.02,0:23:38.06,SFXPurple,P1,0,0,0,,{=15}{\blur0.9\bord0\fscx152.37\fscy126.97\frz5.05\pos(1480.56,-24.02)\c&H993769&\4a&HFF&}Slam {In preview for last episode}
 Dialogue: 2,0:23:38.06,0:23:38.10,SFXPurple,P1,0,0,0,,{=15}{\blur0.9\bord12.64\fscx189.67\fscy158.06\frz3.2\pos(1578.84,240.95)\c&H1D0E1B&}Slam {In preview for last episode}

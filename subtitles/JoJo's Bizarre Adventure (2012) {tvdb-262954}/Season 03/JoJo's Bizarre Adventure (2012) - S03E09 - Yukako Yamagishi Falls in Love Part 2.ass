@@ -70,7 +70,7 @@ Style: SFXSizzle2,Shaky Hand Some Comic Bold,150,&H000E0CFF,&H000000FF,&H002D2CA
 Style: SFX5,Shaky Hand Some Comic,130,&H0039AB1A,&H000000FF,&H00245310,&H00245310,-1,0,0,0,130,100,0,0,1,3.5,0,8,50,40,20,1
 Style: SFX51,Shaky Hand Some Comic,130,&H0036C015,&H000000FF,&H0021580D,&H0021580D,-1,0,0,0,130,100,0,0,1,3.5,0,8,50,40,20,1
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H341C1C1C,&H000000FF,&H00000000,&H1F514F02,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -90,90 +90,47 @@ Dialogue: 0,0:00:33.70,0:00:34.86,Dubtitles,,0,0,0,,It won't open!
 Dialogue: 0,0:00:35.16,0:00:36.96,Dubtitles,,0,0,0,,This can't be happening to me!
 Dialogue: 2,0:00:37.39,0:00:37.43,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1250.866,48.867)\clip(m 980 63 l 997 61 1001 58 1004 54 1007 51 1008 47 1015 39 1019 35 1023 30 1026 28 1028 31 1029 36 1030 41 1030 45 1030 50 1030 54 1031 58 1031 62 1130 65 1136 65 1141 60 1144 54 1149 49 1154 45 1155 42 1160 37 1163 33 1165 29 1167 26 1170 21 1173 25 1175 31 1177 38 1180 46 1181 50 1181 47 1181 50 1182 54 1184 61 1186 68 1715 103 1595 1 653 -13 800 49)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.39,0:00:37.43,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx87\fscy87\an2\pos(1230.4,1.58)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.39,0:00:37.43,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1250.866,48.867)\clip(m 980 63 l 997 61 1001 58 1004 54 1007 51 1008 47 1015 39 1019 35 1023 30 1026 28 1028 31 1029 36 1030 41 1030 45 1030 50 1030 54 1031 58 1031 62 1130 65 1136 65 1141 60 1144 54 1149 49 1154 45 1155 42 1160 37 1163 33 1165 29 1167 26 1170 21 1173 25 1175 31 1177 38 1180 46 1181 50 1181 47 1181 50 1182 54 1184 61 1186 68 1715 103 1595 1 653 -13 800 49)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.39,0:00:37.43,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1215,15.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.43,0:00:37.47,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1225.266,106.467)\clip(m 963 115 l 980 113 984 110 987 106 990 103 991 99 998 91 1002 87 1006 82 1009 80 1011 83 1012 88 1013 93 1013 97 1013 102 1013 106 1014 110 1014 114 1114 119 1120 119 1125 114 1128 108 1133 103 1138 99 1139 96 1144 91 1147 87 1149 83 1151 80 1154 75 1157 79 1159 85 1161 92 1164 100 1165 104 1165 101 1165 104 1166 108 1168 115 1170 122 1702 147 1666 -7 653 -13 787 93)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.43,0:00:37.47,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx87.91\fscy87.91\an2\pos(1214.79,55.85)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.43,0:00:37.47,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1225.266,106.467)\clip(m 963 115 l 980 113 984 110 987 106 990 103 991 99 998 91 1002 87 1006 82 1009 80 1011 83 1012 88 1013 93 1013 97 1013 102 1013 106 1014 110 1014 114 1114 119 1120 119 1125 114 1128 108 1133 103 1138 99 1139 96 1144 91 1147 87 1149 83 1151 80 1154 75 1157 79 1159 85 1161 92 1164 100 1165 104 1165 101 1165 104 1166 108 1168 115 1170 122 1702 147 1666 -7 653 -13 787 93)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.43,0:00:37.47,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1215,71.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.47,0:00:37.51,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1207.333,168.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.47,0:00:37.51,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx88.99\fscy88.99\an2\pos(1196.09,120.84)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 1,0:00:37.47,0:00:37.51,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1207.333,168.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.47,0:00:37.51,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1200,137.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.51,0:00:37.55,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1184.933,241.8)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.51,0:00:37.55,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx90.2\fscy90.2\an2\pos(1174.75,194.93)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 1,0:00:37.51,0:00:37.55,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1184.933,241.8)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.51,0:00:37.55,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1176,212.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.55,0:00:37.60,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1180.133,320.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.55,0:00:37.60,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx91.51\fscy91.51\an2\pos(1151.44,275.75)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 1,0:00:37.55,0:00:37.60,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1180.133,320.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.55,0:00:37.60,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1152,295.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.60,0:00:37.64,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1123.933,415)\clip(m 863 425 l 880 423 884 420 887 416 890 413 891 409 898 401 902 397 906 392 909 390 911 393 912 398 913 403 913 407 913 412 913 416 914 420 914 424 1022 425 1028 425 1033 420 1036 414 1041 409 1046 405 1049 402 1052 398 1055 393 1057 389 1059 386 1062 381 1065 385 1067 391 1069 398 1072 406 1073 410 1073 407 1073 410 1074 414 1076 421 1078 428 1622 423 1595 1 653 -13 690 427)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.60,0:00:37.64,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx92.86\fscy92.86\an2\pos(1127.01,360.41)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.60,0:00:37.64,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1123.933,415)\clip(m 863 425 l 880 423 884 420 887 416 890 413 891 409 898 401 902 397 906 392 909 390 911 393 912 398 913 403 913 407 913 412 913 416 914 420 914 424 1022 425 1028 425 1033 420 1036 414 1041 409 1046 405 1049 402 1052 398 1055 393 1057 389 1059 386 1062 381 1065 385 1067 391 1069 398 1072 406 1073 410 1073 407 1073 410 1074 414 1076 421 1078 428 1622 423 1595 1 653 -13 690 427)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.60,0:00:37.64,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1132,382.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.64,0:00:37.68,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1111.133,504.6)\clip(m 835 511 l 852 509 856 506 859 502 862 499 863 495 870 487 874 483 878 478 881 476 883 479 884 484 885 489 885 493 885 498 885 502 886 506 886 510 997 511 1003 511 1008 506 1011 500 1016 495 1021 491 1024 488 1027 484 1030 479 1032 475 1034 472 1037 467 1040 471 1042 477 1044 484 1047 492 1048 496 1048 493 1048 496 1049 500 1051 507 1053 514 1596 511 1595 1 653 -13 664 515)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.64,0:00:37.68,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx94.2\fscy94.2\an2\pos(1102.37,445.71)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.64,0:00:37.68,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1111.133,504.6)\clip(m 835 511 l 852 509 856 506 859 502 862 499 863 495 870 487 874 483 878 478 881 476 883 479 884 484 885 489 885 493 885 498 885 502 886 506 886 510 997 511 1003 511 1008 506 1011 500 1016 495 1021 491 1024 488 1027 484 1030 479 1032 475 1034 472 1037 467 1040 471 1042 477 1044 484 1047 492 1048 496 1048 493 1048 496 1049 500 1051 507 1053 514 1596 511 1595 1 653 -13 664 515)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.64,0:00:37.68,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1100,470.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.68,0:00:37.72,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1076.847,577.743)\clip(m 809 593 l 826 591 830 588 833 584 836 581 837 577 844 569 848 565 852 560 855 558 856.5 561 857 566 858 571 858 575 858 580 858 584 859 588 859 592 972 595 978 595 983 590 986 584 991 579 996 573 999 569 1001 567 1004 563 1007 559 1009 556 1012 551 1015 555 1017 561 1019 568 1022 576 1023 580 1023 577 1023 580 1024 584 1026 591 1028 598 1572 592 1595 1 653 -13 640 596)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.68,0:00:37.72,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx95.47\fscy95.47\an2\pos(1078.53,528.18)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.68,0:00:37.72,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1076.847,577.743)\clip(m 809 593 l 826 591 830 588 833 584 836 581 837 577 844 569 848 565 852 560 855 558 856.5 561 857 566 858 571 858 575 858 580 858 584 859 588 859 592 972 595 978 595 983 590 986 584 991 579 996 573 999 569 1001 567 1004 563 1007 559 1009 556 1012 551 1015 555 1017 561 1019 568 1022 576 1023 580 1023 577 1023 580 1024 584 1026 591 1028 598 1572 592 1595 1 653 -13 640 596)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.68,0:00:37.72,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1080,553.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.72,0:00:37.76,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1058.533,651.4)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.72,0:00:37.76,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx96.63\fscy96.63\an2\pos(1056.37,604.74)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 1,0:00:37.72,0:00:37.76,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1058.533,651.4)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.72,0:00:37.76,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1052,623.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.76,0:00:37.80,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1029.733,725)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.76,0:00:37.80,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx97.64\fscy97.64\an2\pos(1036.69,672.74)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 1,0:00:37.76,0:00:37.80,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1029.733,725)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.76,0:00:37.80,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1030,685.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.80,0:00:37.85,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1016.933,784.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.80,0:00:37.85,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx98.49\fscy98.49\an2\pos(1020.06,730.12)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 1,0:00:37.80,0:00:37.85,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(1016.933,784.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.80,0:00:37.85,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1016,737.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.85,0:00:37.89,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1027.933,850.2)\clip(m 727 842 l 744 840 748 837 751 833 754 830 755 826 762 818 766 814 770 809 774 807 776 812 776 815 777 820 777 824 777 829 777 833 778 837 778 841 898 842 904 842 909 837 912 831 917 826 922 822 925 819 928 815 931 810 933 806 935 803 938 798 941 802 943 808 945 815 948 823 949 827 949 824 949 827 950 831 952 838 954 845 1495 853 1494 343 552 328 567 857)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.85,0:00:37.89,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx99.15\fscy99.15\an2\pos(1006.91,775.49)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.85,0:00:37.89,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1027.933,850.2)\clip(m 727 842 l 744 840 748 837 751 833 754 830 755 826 762 818 766 814 770 809 774 807 776 812 776 815 777 820 777 824 777 829 777 833 778 837 778 841 898 842 904 842 909 837 912 831 917 826 922 822 925 819 928 815 931 810 933 806 935 803 938 798 941 802 943 808 945 815 948 823 949 827 949 824 949 827 950 831 952 838 954 845 1495 853 1494 343 552 328 567 857)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.85,0:00:37.89,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(1005,780.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.89,0:00:37.93,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1010.333,874.2)\clip(m 717 873 l 734 871 738 868 741 864 744 861 745 857 752 849 756 845 760 840 764 838 766 843 766 846 767 848 767 855 767 860 767 864 768 868 768 872 888 873 894 873 899 868 902 862 907 857 912 853 915 850 918 846 921 841 923 837 925 834 928 829 931 833 933 839 935 846 938 854 939 858 939 855 939 858 940 862 942 869 944 876 1485 884 1484 374 542 359 557 888)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.89,0:00:37.93,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx99.63\fscy99.63\an2\pos(997.48,808.02)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.89,0:00:37.93,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1010.333,874.2)\clip(m 717 873 l 734 871 738 868 741 864 744 861 745 857 752 849 756 845 760 840 764 838 766 843 766 846 767 848 767 855 767 860 767 864 768 868 768 872 888 873 894 873 899 868 902 862 907 857 912 853 915 850 918 846 921 841 923 837 925 834 928 829 931 833 933 839 935 846 938 854 939 858 939 855 939 858 940 862 942 869 944 876 1485 884 1484 374 542 359 557 888)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.89,0:00:37.93,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(997,810.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 2,0:00:37.93,0:00:37.97,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1000.333,880.2)\clip(m 711 895 l 728 893 732 890 735 886 738 883 739 879 746 871 750 867 754 862 758 860 760 865 760 868 761 870 761 877 761 882 761 886 762 890 762 894 882 895 888 895 893 890 896 884 901 879 906 875 909 872 912 868 915 863 917 859 919 856 922 851 925 855 927 861 929 868 932 876 933 880 933 877 933 880 934 884 936 891 938 898 1479 906 1478 396 536 381 551 910)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.93,0:00:37.97,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx99.9\fscy99.9\an2\pos(991.85,827.42)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.93,0:00:37.97,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(1000.333,880.2)\clip(m 711 895 l 728 893 732 890 735 886 738 883 739 879 746 871 750 867 754 862 758 860 760 865 760 868 761 870 761 877 761 882 761 886 762 890 762 894 882 895 888 895 893 890 896 884 901 879 906 875 909 872 912 868 915 863 917 859 919 856 922 851 925 855 927 861 929 868 932 876 933 880 933 877 933 880 934 884 936 891 938 898 1479 906 1478 396 536 381 551 910)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 2,0:00:37.93,0:00:37.97,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(992,828.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:37.97,0:00:38.10,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:37.97,0:00:38.10,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 2,0:00:37.97,0:00:39.72,Episode 9 Typesetting 1,Sign,0,0,0,,{=146}{\fscx100\fscy100\an2\pos(990,833.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
-Dialogue: 2,0:00:37.97,0:00:39.72,Episode 9 Typesetting 1,Sign,0,0,0,,{\an2\pos(990,833.8)\be0.1}In what year did\N Christopher Columbus \Ndiscover the new continent? \N\N{\fs60}The answer is the combination to the lock.
 Dialogue: 1,0:00:38.10,0:00:38.22,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.10,0:00:38.22,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.22,0:00:38.35,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.22,0:00:38.35,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.35,0:00:38.47,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.35,0:00:38.47,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.47,0:00:38.60,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.47,0:00:38.60,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.60,0:00:38.72,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.60,0:00:38.72,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.72,0:00:38.85,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.72,0:00:38.85,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.85,0:00:38.97,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.85,0:00:38.97,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:38.97,0:00:39.10,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:38.97,0:00:39.10,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:39.10,0:00:39.22,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:39.10,0:00:39.22,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:39.22,0:00:39.35,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:39.22,0:00:39.35,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:39.35,0:00:39.47,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:39.35,0:00:39.47,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:39.47,0:00:39.60,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:39.47,0:00:39.60,Episode 9 Typesetting 1 Box,Sign (nohair),0,0,0,,{\pos(999.333,888.2)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 1,0:00:39.60,0:00:39.72,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\be0.1\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
-Dialogue: 1,0:00:39.60,0:00:39.72,Episode 9 Typesetting 1 Box,Sign (hairf),0,0,0,,{\pos(999.333,888.2)\clip(m 709 901 l 726 899 730 896 733 892 736 889 737 885 744 877 748 873 752 868 756 866 757 871 757 874 757 875 758 883 759 888 759 892 759 896 759 900 880 901 886 901 891 896 894 890 899 885 904 881 907 878 910 874 913 869 915 865 917 862 920 857 923 861 925 867 927 874 930 882 931 886 931 883 931 886 932 890 934 897 936 904 1477 912 1476 402 534 387 549 916)}{\p1\pos(999.333,925)}m 0 0 l 800 0 800 450 0 450{\p0}
 Dialogue: 0,0:00:39.70,0:00:40.53,Dubtitles,,0,0,0,,Damn,
 Dialogue: 0,0:00:40.61,0:00:43.08,Dubtitles,,0,0,0,,I'm pretty sure there was a\Nmovie that has the answer I need,
 Dialogue: 0,0:00:43.16,0:00:46.93,Dubtitles,,0,0,0,,but I never ended up watching it\Nbecause it looked way too long!
@@ -203,7 +160,6 @@ Dialogue: 1,0:02:02.01,0:02:05.35,Part 4 OP English,,0,0,0,,{\1c&HEDADC5&}{\fad(
 Dialogue: 1,0:02:05.35,0:02:11.06,Part 4 OP Japanese,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}Crazy Noisy Bizarre Town
 Dialogue: 1,0:02:05.35,0:02:11.06,Part 4 OP English,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}in this Crazy Noisy Bizarre Town!
 Dialogue: 1,0:02:20.82,0:02:25.29,Title Part 4,sign,0,0,0,,{\fad(654,590)\pos(139,880)\fs60}Episode 9: {\fs80} Yamagishi Yukako Falls in Love, Part 2
-Dialogue: 1,0:02:20.82,0:02:25.29,Title Part 4,sign,0,0,0,,{\fad(654,590)\pos(139,880)\fs60}Episode 9: {\fs80} Yamagishi Yukako Falls in Love Part 2
 Dialogue: 0,0:02:25.90,0:02:29.52,Dubtitles,,0,0,0,,I washed your pajama bottoms,\Nas well as your underwear.
 Dialogue: 0,0:02:32.94,0:02:34.16,Dubtitles,,0,0,0,,Is there a problem?
 Dialogue: 0,0:02:36.16,0:02:38.64,Dubtitles,,0,0,0,,I can't help if I don't know what's wrong.
@@ -249,8 +205,8 @@ Dialogue: 0,0:04:42.08,0:04:43.68,Dubtitles,,0,0,0,,I have to get out of here fa
 Dialogue: 0,0:04:43.76,0:04:45.70,Dubtitles,,0,0,0,,She's seriously going to kill me!
 Dialogue: 0,0:04:47.84,0:04:48.67,Dubtitles,,0,0,0,,But...
 Dialogue: 0,0:04:50.74,0:04:52.80,Dubtitles,,0,0,0,,How exactly do I do that?
-Dialogue: 0,0:04:57.26,0:04:59.58,Dubtitles,,0,0,0,,I might be completely wrong about this?
-Dialogue: 0,0:04:59.66,0:05:02.24,Dubtitles,,0,0,0,,But even if someone's found\Na way to keep Koichi quiet,
+Dialogue: 0,0:04:57.26,0:04:59.58,Dubtitles,,0,0,0,,I might be completely wrong about this,
+Dialogue: 0,0:04:59.66,0:05:02.24,Dubtitles,,0,0,0,,but even if someone's found\Na way to keep Koichi quiet,
 Dialogue: 0,0:05:02.32,0:05:04.91,Dubtitles,,0,0,0,,can he still call out\Nfor help using Reverb?
 Dialogue: 0,0:05:05.38,0:05:08.97,Dubtitles,,0,0,0,,Ideally, yes, but Reverb only\Nhas a range of about 50 meters.
 Dialogue: 0,0:05:09.30,0:05:12.68,Dubtitles,,0,0,0,,If he was taken somewhere isolated,\Nhis powers would be no good.
@@ -263,7 +219,7 @@ Dialogue: 0,0:05:29.78,0:05:31.36,Dubtitles,,0,0,0,,Hey, could it be?
 Dialogue: 0,0:05:36.86,0:05:38.76,Dubtitles,,0,0,0,,It is! A payphone!
 Dialogue: 0,0:05:39.86,0:05:41.62,Dubtitles,,0,0,0,,I'm 48 meters away!
 Dialogue: 0,0:05:41.94,0:05:43.94,Dubtitles,,0,0,0,,Yes, it's just within range!
-Dialogue: 0,0:05:45.94,0:05:48.34,Dubtitles,,0,0,0,,Thank goodness Reverb is a soundstand!
+Dialogue: 0,0:05:45.94,0:05:48.34,Dubtitles,,0,0,0,,Thank goodness! Reverb is a sound stand!
 Dialogue: 0,0:05:48.64,0:05:51.11,Dubtitles,,0,0,0,,Now I can signal Josuke and get some help!
 Dialogue: 0,0:05:53.86,0:05:56.48,Dubtitles,,0,0,0,,I don't have any 10 yen coins!
 Dialogue: 0,0:05:58.04,0:05:58.87,Dubtitles,,0,0,0,,planes!
@@ -2247,8 +2203,8 @@ Dialogue: 0,0:09:12.66,0:09:15.48,Dubtitles,,0,0,0,,nothing is more important th
 Dialogue: 0,0:09:15.56,0:09:17.04,Dubtitles,,0,0,0,,trust, and shared values, right?
 Dialogue: 0,0:09:17.12,0:09:22.04,Dubtitles,,0,0,0,,The two of us share something no one else\Ncould ever dream of having think about it.
 Dialogue: 0,0:09:22.12,0:09:23.92,Dubtitles,,0,0,0,,We could be the perfect couple
-Dialogue: 0,0:09:25.42,0:09:28.40,Dubtitles,,0,0,0,,So please Koichi open the door?
-Dialogue: 0,0:09:34.60,0:09:37.50,Dubtitles,,0,0,0,,When I say open the door\Nopen the goddamn door!
+Dialogue: 0,0:09:25.42,0:09:28.40,Dubtitles,,0,0,0,,So please Koichi open the door
+Dialogue: 0,0:09:34.60,0:09:37.50,Dubtitles,,0,0,0,,When I say open the door\Nopen the goddamn door
 Dialogue: 1,0:09:37.84,0:09:37.89,SFX4,5,0,0,0,,{=43}{\blur10\frz356.6\pos(1166.29,54.84)\3c&H263A99&\c&H263A99&\4c&H2C48A3&}I hate you!
 Dialogue: 2,0:09:37.84,0:09:37.89,SFX4,5,0,0,0,,{=43}{\bord0\blur10\frz356.6\pos(1166.29,54.84)\c&H4261E5&\4c&H2C48A3&\shad10\4a&HFF&}I hate you!
 Dialogue: 1,0:09:37.89,0:09:37.93,SFX4,5,0,0,0,,{=43}{\blur0.6\frz356.6\pos(1150.11,30.74)\c&H21167E&}I hate you!
@@ -3438,7 +3394,7 @@ Dialogue: 0,0:11:05.82,0:11:08.48,Dubtitles,,0,0,0,,I can't let her in here, no 
 Dialogue: 0,0:11:08.82,0:11:11.04,Dubtitles,,0,0,0,,I just need to land one\Nmore attack with Reverb!
 Dialogue: 0,0:11:11.12,0:11:14.77,Dubtitles,,0,0,0,,If I go all out, I'll be able\Nto unleash an even louder sound.
 Dialogue: 0,0:11:15.42,0:11:16.25,Dubtitles,,0,0,0,,Reverb!
-Dialogue: 0,0:11:23.04,0:11:24.54,Dubtitles,,0,0,0,,Something's wrong with Reverb.
+Dialogue: 0,0:11:23.04,0:11:24.54,Dubtitles,,0,0,0,,Something's wrong with Echoes.
 Dialogue: 0,0:11:24.62,0:11:25.68,Dubtitles,,0,0,0,,Are you all right?
 Dialogue: 0,0:11:27.32,0:11:28.44,Dubtitles,,0,0,0,,He's not moving!
 Dialogue: 0,0:11:30.40,0:11:32.38,Dubtitles,,0,0,0,,No, what's happening to him?
@@ -3479,41 +3435,29 @@ Dialogue: 1,0:11:45.14,0:11:48.02,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:11:45.14,0:11:48.02,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0)\fscx100\fscy100\be0.2\frz57.56\pos(1297.6,537.6)}POTENTIAL
 Dialogue: 1,0:11:45.30,0:11:45.39,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}E
 Dialogue: 2,0:11:45.30,0:11:45.39,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}E
-Dialogue: 1,0:11:45.30,0:11:45.39,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}E
 Dialogue: 1,0:11:45.39,0:11:45.51,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Ech
 Dialogue: 2,0:11:45.39,0:11:45.51,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Ech
-Dialogue: 1,0:11:45.39,0:11:45.51,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Ech
 Dialogue: 1,0:11:45.51,0:11:45.60,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Echo
 Dialogue: 2,0:11:45.51,0:11:45.60,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Echo
-Dialogue: 1,0:11:45.51,0:11:45.60,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Echo
 Dialogue: 1,0:11:45.60,0:11:45.80,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Echoes
 Dialogue: 2,0:11:45.60,0:11:45.80,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Echoes
-Dialogue: 1,0:11:45.60,0:11:45.80,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Echoes
 Dialogue: 1,0:11:45.80,0:11:45.89,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Echoes A
 Dialogue: 2,0:11:45.80,0:11:45.89,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Echoes A
-Dialogue: 1,0:11:45.80,0:11:45.89,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Echoes A
 Dialogue: 1,0:11:45.89,0:11:46.01,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Echoes Ac
 Dialogue: 2,0:11:45.89,0:11:46.01,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Echoes Ac
-Dialogue: 1,0:11:45.89,0:11:46.01,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Echoes Ac
 Dialogue: 1,0:11:46.01,0:11:46.10,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Echoes Act
 Dialogue: 2,0:11:46.01,0:11:46.10,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Echoes Act
-Dialogue: 1,0:11:46.01,0:11:46.10,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Echoes Act
 Dialogue: 1,0:11:46.10,0:11:48.02,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1456,350)\c&H000000&}Echoes Act 1
 Dialogue: 2,0:11:46.10,0:11:48.02,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1456,350)\shad2\4a&HFF&}Echoes Act 1
-Dialogue: 1,0:11:46.10,0:11:48.02,Eyecatch - Left,Signtop,0,0,0,,{\pos(1456,350)}Echoes Act 1
 Dialogue: 1,0:11:46.60,0:11:46.72,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H000000&}Hiro
 Dialogue: 2,0:11:46.60,0:11:46.72,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad2\4a&HFF&}Hiro
-Dialogue: 1,0:11:46.60,0:11:46.72,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Hiro
 Dialogue: 1,0:11:46.72,0:11:46.85,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H000000&}Hirose
 Dialogue: 2,0:11:46.72,0:11:46.85,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad2\4a&HFF&}Hirose
-Dialogue: 1,0:11:46.72,0:11:46.85,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Hirose
 Dialogue: 1,0:11:46.72,0:11:48.02,Eyecatch - Stats,sign bot,0,0,0,,{\an7\fad(300,0)\pos(48,31)}Power: E \NSpeed: E \NRange: B \NDurability: B \NPrecision: C \NGrowth Potential: A
 Dialogue: 1,0:11:46.85,0:11:46.97,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H000000&}Hirose Ko
 Dialogue: 2,0:11:46.85,0:11:46.97,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad2\4a&HFF&}Hirose Ko
-Dialogue: 1,0:11:46.85,0:11:46.97,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Hirose Ko
 Dialogue: 1,0:11:46.97,0:11:48.02,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H000000&}Hirose Koichi
 Dialogue: 2,0:11:46.97,0:11:48.02,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad2\4a&HFF&}Hirose Koichi
-Dialogue: 1,0:11:46.97,0:11:48.02,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Hirose Koichi
 Dialogue: 0,0:11:48.44,0:11:49.64,Dubtitles,,0,0,0,,What happened?
 Dialogue: 0,0:11:50.14,0:11:51.72,Dubtitles,,0,0,0,,No, Reverb.
 Dialogue: 0,0:11:51.90,0:11:55.34,Dubtitles,,0,0,0,,He's been turned into a\Nlifeless husk! But how?
@@ -3538,7 +3482,7 @@ Dialogue: 0,0:12:53.48,0:12:55.26,Dubtitles,,0,0,0,,Answer the damn question, Ko
 Dialogue: 0,0:12:55.34,0:12:57.05,Dubtitles,,0,0,0,,Where did you put that thing?
 Dialogue: 0,0:13:01.02,0:13:01.85,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:13:01.93,0:13:02.76,Dubtitles,,0,0,0,,Wait, is that...
-Dialogue: 0,0:13:02.85,0:13:05.06,Dubtitles,,0,0,0,,I don't believe it! It's reverb!
+Dialogue: 0,0:13:02.85,0:13:05.06,Dubtitles,,0,0,0,,I don't believe it. It's reverb!
 Dialogue: 0,0:13:06.80,0:13:08.00,Dubtitles,,0,0,0,,It's still alive!
 Dialogue: 0,0:13:08.24,0:13:11.70,Dubtitles,,0,0,0,,It must have been changing into a\Nnew form while it was in that shell!
 Dialogue: 0,0:13:11.78,0:13:12.96,Dubtitles,,0,0,0,,Is this a joke?
@@ -3836,7 +3780,7 @@ Dialogue: 1,0:13:58.60,0:13:58.65,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx100.42
 Dialogue: 2,0:13:58.60,0:13:58.65,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx100.42\fscy100.42\bord0\fs125\frz359.1\pos(985.61,255.09)\4a&HFF&}Fwoosh
 Dialogue: 1,0:13:58.65,0:13:58.69,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx100.63\fscy100.63\bord2.52\fs125\frz359.1\pos(985.67,254.5)\c&H5A605A&}Fwoosh
 Dialogue: 2,0:13:58.65,0:13:58.69,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx100.63\fscy100.63\bord0\fs125\frz359.1\pos(985.67,254.5)\4a&HFF&}Fwoosh
-Dialogue: 0,0:13:58.66,0:14:03.20,Dubtitles,,0,0,0,,The sensation of the word Fish literally\Nsent her flying. Wait a minute.
+Dialogue: 0,0:13:58.66,0:14:03.20,Dubtitles,,0,0,0,,The sensation of the word "Fwoosh!"\Nliterally sent her flying. Wait a minute.
 Dialogue: 1,0:13:58.69,0:13:58.73,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx100.84\fscy100.84\bord2.52\fs125\frz359.1\pos(985.73,253.91)\c&H5A605A&}Fwoosh
 Dialogue: 2,0:13:58.69,0:13:58.73,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx100.84\fscy100.84\bord0\fs125\frz359.1\pos(985.73,253.91)\4a&HFF&}Fwoosh
 Dialogue: 1,0:13:58.73,0:13:58.77,SFXBlue,13.1,0,0,0,,{=124}{\blur0.6\fscx101.05\fscy101.05\bord2.53\fs125\frz359.1\pos(985.79,253.33)\c&H5A605A&}Fwoosh
@@ -3942,9 +3886,8 @@ Dialogue: 0,0:14:42.40,0:14:47.60,Dubtitles,,0,0,0,,Once we find that booth, we'
 Dialogue: 0,0:14:49.92,0:14:53.78,Dubtitles,,0,0,0,,Search around all you want, sweet,\Nadorable Koichi belongs to me.
 Dialogue: 0,0:14:54.98,0:14:57.30,Dubtitles,,0,0,0,,I'll never let anyone else have him.
 Dialogue: 0,0:15:05.40,0:15:08.34,Dubtitles,,0,0,0,,I strongly suggest you\Nkeep your distance, Yukako.
-Dialogue: 0,0:15:10.96,0:15:13.04,Dubtitles,,0,0,0,,And you should believe me when I tell you?
-Dialogue: 0,0:15:13.12,0:15:15.16,Dubtitles,,0,0,0,,There's just no way that\Nyour powers can compete.
-Dialogue: 0,0:15:15.24,0:15:17.12,Dubtitles,,0,0,0,,with Rebervac 2's new abilities.
+Dialogue: 0,0:15:10.96,0:15:13.04,Dubtitles,,0,0,0,,And you should believe me when I tell you,
+Dialogue: 0,0:15:13.12,0:15:17.48,Dubtitles,,0,0,0,,there's just no way that your powers can\Ncompete with Rebervac 2's new abilities.
 Dialogue: 0,0:15:17.56,0:15:19.66,Dubtitles,,0,0,0,,Our days of playing house are over.
 Dialogue: 0,0:15:24.08,0:15:26.22,Dubtitles,,0,0,0,,Now my left eyelid is twitching.
 Dialogue: 0,0:15:26.46,0:15:30.80,Dubtitles,,0,0,0,,Since I was a kid, getting upset\Nalways set off my orbicularis oculi.
@@ -4122,7 +4065,7 @@ Dialogue: 0,0:18:06.42,0:18:07.48,Dubtitles,,0,0,0,,Good, she's alive!
 Dialogue: 0,0:18:09.04,0:18:11.08,Dubtitles,,0,0,0,,She might be a deranged, love-obsessed,
 Dialogue: 0,0:18:11.16,0:18:14.57,Dubtitles,,0,0,0,,matted mess of a she-devil,\Nbut I guess I should be happy.
 Dialogue: 0,0:18:19.74,0:18:22.48,Dubtitles,,0,0,0,,I wasn't able to keep hold\Nof you with my loving heart,
-Dialogue: 0,0:18:22.56,0:18:26.09,Dubtitles,,0,0,0,,but I think I'll destroy your\Nprecious standard consolation!
+Dialogue: 0,0:18:22.56,0:18:26.09,Dubtitles,,0,0,0,,But I think I'll destroy your\Nprecious Stand, consolation!
 Dialogue: 0,0:18:27.74,0:18:29.48,Dubtitles,,0,0,0,,You disrespecful heart-taker!
 Dialogue: 0,0:18:33.84,0:18:36.68,Dubtitles,,0,0,0,,Even as beaten up as she is,\Nshe's still able to fight?
 Dialogue: 0,0:18:36.76,0:18:38.54,Dubtitles,,0,0,0,,Her will is scary and tense!
@@ -4131,15 +4074,14 @@ Dialogue: 0,0:18:41.20,0:18:42.60,Dubtitles,,0,0,0,,Intense? Screw you!
 Dialogue: 0,0:18:42.74,0:18:44.21,Dubtitles,,0,0,0,,You panty-wetting douche!
 Dialogue: 0,0:18:45.00,0:18:48.71,Dubtitles,,0,0,0,,How dare you even speak when\Nyou're the one who did this to me!
 Dialogue: 0,0:18:48.84,0:18:50.18,Dubtitles,,0,0,0,,You rejected my love,
-Dialogue: 0,0:18:50.42,0:18:53.66,Dubtitles,,0,0,0,,blasted me with your stand, and\Nmade my treasured hair turn white?
-Dialogue: 0,0:18:53.74,0:18:55.92,Dubtitles,,0,0,0,,You pathetic little jerk-off!
+Dialogue: 0,0:18:50.42,0:18:51.72,Dubtitles,,0,0,0,,blasted me with your stand,
+Dialogue: 0,0:18:51.80,0:18:55.92,Dubtitles,,0,0,0,,and made my treasured hair turn\Nwhite, You pathetic little jerk-off!
 Dialogue: 0,0:18:56.92,0:18:59.80,Dubtitles,,0,0,0,,I loved you with every fiber of my being,
 Dialogue: 0,0:19:00.08,0:19:03.60,Dubtitles,,0,0,0,,but I refuse to let you get away\Nwith doing this to my gorgeous hair!
 Dialogue: 0,0:19:03.68,0:19:05.18,Dubtitles,,0,0,0,,I don't care if you're my soulmate.
 Dialogue: 0,0:19:05.26,0:19:07.32,Dubtitles,,0,0,0,,No one gets to undermine my beauty!
-Dialogue: 0,0:19:09.24,0:19:11.56,Dubtitles,,0,0,0,,I'm gonna yank off your piss-soaked prick,
-Dialogue: 0,0:19:11.64,0:19:13.46,Dubtitles,,0,0,0,,rip out your insides, and feed him to you?
-Dialogue: 0,0:19:13.54,0:19:15.14,Dubtitles,,0,0,0,,as you choke on my merciless love!
+Dialogue: 0,0:19:09.24,0:19:12.68,Dubtitles,,0,0,0,,I'm gonna yank off your piss-soaked\Nprick, rip out your insides,
+Dialogue: 0,0:19:12.76,0:19:15.14,Dubtitles,,0,0,0,,and feed him to you as you\Nchoke on my merciless love!
 Dialogue: 0,0:19:15.22,0:19:16.38,Dubtitles,,0,0,0,,Please, stop this!
 Dialogue: 0,0:19:16.46,0:19:17.96,Dubtitles,,0,0,0,,I told you, no words!
 Dialogue: 0,0:19:19.60,0:19:21.84,Dubtitles,,0,0,0,,It's time to get what's coming to you!
@@ -4359,7 +4301,7 @@ Dialogue: 2,0:20:07.72,0:20:07.76,SFXPink2B,18.2,0,0,0,,{=136}{\bord0\blur0.6\fa
 Dialogue: 0,0:20:13.68,0:20:15.80,Dubtitles,,0,0,0,,I told you the ground would crumble.
 Dialogue: 0,0:20:16.16,0:20:20.57,Dubtitles,,0,0,0,,Of course, you've proven time and again\Nthat nothing I say to you sinks in.
 Dialogue: 0,0:20:24.38,0:20:26.67,Dubtitles,,0,0,0,,You mean you'd already placed it there?
-Dialogue: 0,0:20:28.80,0:20:32.21,Dubtitles,,0,0,0,,So while I was in a frenzy\Ntrying to rip Reverb to pieces,
+Dialogue: 0,0:20:28.80,0:20:32.21,Dubtitles,,0,0,0,,So while I was in a frenzy\Ntrying to rip Echoes apart...
 Dialogue: 0,0:20:32.54,0:20:36.42,Dubtitles,,0,0,0,,you were using your stand to write\Non that rock beneath the cliff.
 Dialogue: 0,0:20:37.10,0:20:40.22,Dubtitles,,0,0,0,,The entire time I was thinking\Nof how to kill Koichi,
 Dialogue: 0,0:20:40.96,0:20:44.73,Dubtitles,,0,0,0,,He was focusing all of his energy\Non how to save me from myself.
@@ -4385,7 +4327,7 @@ Dialogue: 0,0:21:37.08,0:21:39.12,Dubtitles,,0,0,0,,And she's looking over here!
 Dialogue: 0,0:21:39.42,0:21:40.74,Dubtitles,,0,0,0,,Oh, yeah, you're right.
 Dialogue: 0,0:21:40.82,0:21:42.06,Dubtitles,,0,0,0,,That's really creepy.
 Dialogue: 0,0:21:42.20,0:21:43.84,Dubtitles,,0,0,0,,Quick, let's get out of here!
-Dialogue: 0,0:21:43.92,0:21:45.02,Dubtitles,,0,0,0,,Selfie Josuke!
+Dialogue: 0,0:21:43.92,0:21:45.02,Dubtitles,,0,0,0,,Save me, Josuke!
 Dialogue: 0,0:21:45.54,0:21:47.13,Dubtitles,,0,0,0,,It's every man for himself!
 Dialogue: 0,0:21:48.52,0:21:50.72,Dubtitles,,0,0,0,,Well, I'll be a seagull's beak.
 Dialogue: 0,0:21:50.96,0:21:52.08,Dubtitles,,0,0,0,,Did you see that?
@@ -4394,10 +4336,12 @@ Dialogue: 0,0:21:54.20,0:21:56.26,Dubtitles,,0,0,0,,You're not allowed to have a
 Dialogue: 1,0:21:57.58,0:22:11.10,Episode 9 Typesetting 2,sign,0,0,0,,{\fad(237,1)\pos(460,632)}Morioh Landmark #2
 Dialogue: 1,0:21:57.58,0:22:11.10,Episode 9 Typesetting 2a,sign,0,0,0,,{\fad(237,1)\pos(910,722)}Boing-Boing Cape:\N Location: Ask any local fisherman where \N"Boing-Boing Cape" is, and they'll gladly\Ntake you there by boat.
 Dialogue: 0,0:21:58.42,0:21:59.54,Dubtitles,,0,0,0,,Cape Bang.
-Dialogue: 0,0:21:59.72,0:22:02.64,Dubtitles,,0,0,0,,After apparently witnessing a\Nyoung woman jump to her death?
-Dialogue: 0,0:22:02.72,0:22:05.70,Dubtitles,,0,0,0,,Only to bounce off the rocks\Nbelow with a gentle Bang,
-Dialogue: 0,0:22:05.78,0:22:08.08,Dubtitles,,0,0,0,,a pair of fishermen\Ncreated an urban legend.
-Dialogue: 0,0:22:08.16,0:22:09.62,Dubtitles,,0,0,0,,and a new appellation.
+Dialogue: 1,0:21:58.54,0:22:00.13,Narrator,Narrator,0,0,0,,{\an8}Boing-Boing Cape.
+Dialogue: 0,0:21:59.72,0:22:02.64,Dubtitles,,0,0,0,,After apparently witnessing a\Nyoung woman jump to her death
+Dialogue: 1,0:22:00.13,0:22:05.92,Narrator,Narrator,0,0,0,,{\an8}A location made famous when two local fishermen claimed to see a young girl attempt to commit suicide there...
+Dialogue: 0,0:22:02.72,0:22:05.70,Dubtitles,,0,0,0,,only to bounce off the rocks\Nbelow with a gentle Bang,
+Dialogue: 0,0:22:05.78,0:22:09.66,Dubtitles,,0,0,0,,a pair of fishermen created an\Nurban legend and a new appellation.
+Dialogue: 1,0:22:05.92,0:22:10.30,Narrator,Narrator,0,0,0,,{\an8}...only for her to bounce off a rock and back onto the cliff with a "boing-boing!" sound.
 Dialogue: 0,0:22:13.54,0:22:16.89,Dubtitles,,0,0,0,,Hirose, I can tell you really\Ngave it your all this time.
 Dialogue: 0,0:22:17.00,0:22:19.35,Dubtitles,,0,0,0,,You get scores like that when you study.
 Dialogue: 0,0:22:20.16,0:22:21.12,Dubtitles,,0,0,0,,Oh, man.
@@ -4411,22 +4355,18 @@ Dialogue: 1,0:23:01.40,0:23:03.77,ED Lyrics,,0,0,0,,{\fad(100,100)}And if it hap
 Dialogue: 1,0:23:03.77,0:23:06.57,ED Lyrics,,0,0,0,,{\fad(100,100)}To the arms and the lips and the face of the human cannonball
 Dialogue: 1,0:23:06.57,0:23:08.28,ED Lyrics,,0,0,0,,{\fad(100,100)}That I need to, I want to
 Dialogue: 1,0:23:08.28,0:23:10.53,ED Lyrics,,0,0,0,,{\fad(100,100)}Come stand a little bit closer
-Dialogue: 0,0:23:08.85,0:23:10.24,Dubtitles,,0,0,0,,Come stand a little bit closer.
-Dialogue: 0,0:23:10.32,0:23:12.46,Dubtitles,,0,0,0,,Breathe in and get a bit higher.
+Dialogue: 0,0:23:08.85,0:23:11.98,Dubtitles,,0,0,0,,Come stand a little bit closer\NBreathe in and get a bit
 Dialogue: 1,0:23:10.53,0:23:12.87,ED Lyrics,,0,0,0,,{\fad(100,100)}Breathe in and get a bit higher
-Dialogue: 0,0:23:12.54,0:23:14.60,Dubtitles,,0,0,0,,You'll never know what hit you!
+Dialogue: 0,0:23:12.06,0:23:17.74,Dubtitles,,0,0,0,,Higher! You'll never know what\Nhit you when I get to you. Ooh,
 Dialogue: 1,0:23:12.87,0:23:14.49,ED Lyrics,,0,0,0,,{\fad(100,100)}You'll never know what hit you
 Dialogue: 1,0:23:14.49,0:23:17.12,ED Lyrics,,0,0,0,,{\fad(100,100)}When I get to you
-Dialogue: 0,0:23:14.68,0:23:16.96,Dubtitles,,0,0,0,,When I get to you?
-Dialogue: 0,0:23:17.04,0:23:18.80,Dubtitles,,0,0,0,,Ooh, I want you.
 Dialogue: 1,0:23:17.12,0:23:21.62,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:18.88,0:23:21.16,Dubtitles,,0,0,0,,I don't know if I need you.
-Dialogue: 0,0:23:21.24,0:23:24.40,Dubtitles,,0,0,0,,But ooh, I got to find you.
+Dialogue: 0,0:23:17.82,0:23:22.14,Dubtitles,,0,0,0,,I want you I don't know\Nif I need you But ooh,
 Dialogue: 1,0:23:21.62,0:23:25.17,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I'd die to find out
-Dialogue: 0,0:23:25.88,0:23:27.84,Dubtitles,,0,0,0,,Ooh, I want you.
+Dialogue: 0,0:23:22.38,0:23:24.40,Dubtitles,,0,0,0,,I got to find you.
+Dialogue: 0,0:23:25.88,0:23:26.71,Dubtitles,,0,0,0,,Ooh,
 Dialogue: 1,0:23:26.17,0:23:30.63,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:27.92,0:23:30.18,Dubtitles,,0,0,0,,I don't know if I need you.
-Dialogue: 0,0:23:30.26,0:23:33.42,Dubtitles,,0,0,0,,But ooh, I got to find you.
+Dialogue: 0,0:23:26.90,0:23:33.42,Dubtitles,,0,0,0,,I want you I don't know if I need\Nyou But ooh, I got to find you
 Dialogue: 1,0:23:30.63,0:23:34.01,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I would die to find out
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(330,780)}Let's
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(550,780)}Go
@@ -4434,77 +4374,57 @@ Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(977,780)}Some
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1297,780)}Italian
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1605,780)}Food
-Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(460,780)}Let's
-Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(700,780)}Go
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(917,780)}out
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1142,780)}for
-Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1430,780)}Italian
 Dialogue: 1,0:23:38.43,0:23:41.48,Next Episode,sign,0,0,0,,{\fad(350,0)\be25\pos(310,250)}Episode 10
 Dialogue: 2,0:23:39.60,0:23:39.64,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,780)\fs142\1c&H0F1615&}Eat
 Dialogue: 2,0:23:39.60,0:23:39.64,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,780)\fs142\1c&H0B0A13&}Food
-Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,780)\fs142\1c&H0F1615&}Go
 Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,780)\fs142\1c&H0B0A13&}for
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(330,780)}Let's
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(550,780)}Go
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(977,780)}Some
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1297,780)}Italian
-Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(460,780)}Let's
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(917,780)}out
-Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1430,780)}Italian
 Dialogue: 2,0:23:39.64,0:23:39.68,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,780)\fs144\1c&H0B1912&}Eat
 Dialogue: 2,0:23:39.64,0:23:39.68,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,780)\fs144\1c&H0B0B19&}Food
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,780)\fs144\1c&H0B1912&}Go
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,780)\fs144\1c&H0B0B19&}for
 Dialogue: 2,0:23:39.68,0:23:39.73,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,780.5)\fs146\1c&H0C2419&}Eat
 Dialogue: 2,0:23:39.68,0:23:39.73,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,780.5)\fs146\1c&H0D0E26&}Food
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,780.5)\fs146\1c&H0C2419&}Go
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,780.5)\fs146\1c&H0D0E26&}for
 Dialogue: 2,0:23:39.73,0:23:39.77,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,781)\fs148\1c&H0C321E&}Eat
 Dialogue: 2,0:23:39.73,0:23:39.77,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,781)\fs148\1c&H131230&}Food
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,781)\fs148\1c&H0C321E&}Go
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,781)\fs148\1c&H131230&}for
 Dialogue: 2,0:23:39.77,0:23:39.81,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,782)\fs150\1c&H0C4026&}Eat
 Dialogue: 2,0:23:39.77,0:23:39.81,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,782)\fs150\1c&H171343&}Food
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,782)\fs150\1c&H0C4026&}Go
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,782)\fs150\1c&H171343&}for
 Dialogue: 2,0:23:39.81,0:23:39.85,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,782.5)\fs152\1c&H0D5032&}Eat
 Dialogue: 2,0:23:39.81,0:23:39.85,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,782.5)\fs152\1c&H191551&}Food
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,782.5)\fs152\1c&H0D5032&}Go
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,782.5)\fs152\1c&H191551&}for
 Dialogue: 2,0:23:39.85,0:23:39.89,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,783)\fs154\1c&H0F603A&}Eat
 Dialogue: 2,0:23:39.85,0:23:39.89,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,783)\fs154\1c&H1A1660&}Food
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,783)\fs154\1c&H0F603A&}Go
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,783)\fs154\1c&H1A1660&}for
 Dialogue: 2,0:23:39.89,0:23:39.93,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,783.5)\fs156\1c&H0E7141&}Eat
 Dialogue: 2,0:23:39.89,0:23:39.93,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,783.5)\fs156\1c&H1E1C75&}Food
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,783.5)\fs156\1c&H0E7141&}Go
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,783.5)\fs156\1c&H1E1C75&}for
 Dialogue: 2,0:23:39.93,0:23:39.98,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,784)\fs158\1c&H0B814A&}Eat
 Dialogue: 2,0:23:39.93,0:23:39.98,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,784)\fs158\1c&H1E0E87&}Food
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,784)\fs158\1c&H0B814A&}Go
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,784)\fs158\1c&H1E0E87&}for
 Dialogue: 2,0:23:39.98,0:23:40.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,784.5)\fs160\1c&H089454&}Eat
 Dialogue: 2,0:23:39.98,0:23:40.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,784.5)\fs160\1c&H1E0D99&}Food
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,784.5)\fs160\1c&H089454&}Go
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,784.5)\fs160\1c&H1E0D99&}for
 Dialogue: 2,0:23:40.02,0:23:40.06,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,785)\fs162\1c&H07A45C&}Eat
 Dialogue: 2,0:23:40.02,0:23:40.06,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,785)\fs162\1c&H2210AB&}Food
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,785)\fs162\1c&H07A45C&}Go
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,785)\fs162\1c&H2210AB&}for
 Dialogue: 2,0:23:40.06,0:23:40.10,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,785.5)\fs164\1c&H0AB164&}Eat
 Dialogue: 2,0:23:40.06,0:23:40.10,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,785.5)\fs164\1c&H210AB9&}Food
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,785.5)\fs164\1c&H0AB164&}Go
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,785.5)\fs164\1c&H210AB9&}for
 Dialogue: 2,0:23:40.10,0:23:40.14,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,786)\fs166\1c&H09C06B&}Eat
 Dialogue: 2,0:23:40.10,0:23:40.14,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,786)\fs166\1c&H220DC6&}Food
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,786)\fs166\1c&H09C06B&}Go
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,786)\fs166\1c&H220DC6&}for
 Dialogue: 2,0:23:40.14,0:23:40.19,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,786.5)\fs168\1c&H0CCB73&}Eat
 Dialogue: 2,0:23:40.14,0:23:40.19,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,786.5)\fs168\1c&H220ED0&}Food
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,786.5)\fs168\1c&H0CCB73&}Go
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,786.5)\fs168\1c&H220ED0&}for
 Dialogue: 2,0:23:40.19,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(727,787)\fs170\1c&H0CD678&}Eat
 Dialogue: 2,0:23:40.19,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1606,787)\fs170\1c&H2610E1&}Food
-Dialogue: 1,0:23:40.19,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(700,787)\fs170\1c&H0CD678&}Go
 Dialogue: 1,0:23:40.19,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1142,787)\fs170\1c&H2610E1&}for
 

@@ -37,7 +37,7 @@ Style: SFXSun,Franciscan,170,&H003662BF,&H000000FF,&H000D1922,&H00000000,-1,0,0,
 Style: SFXSoul,KG Turning Tables,150,&H00B9657A,&H000000FF,&H000F0A0C,&H00000000,-1,0,0,0,120,100,0,0,1,9,0,8,50,40,20,1
 Style: SFXPurple,Shaky Hand Some Comic Bold,150,&H00793D47,&H000000FF,&H00070405,&H00070505,0,0,0,0,130,100,0,0,1,9,4,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H0005060E,&H000000FF,&H00000000,&HBB0D0929,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,7 +49,7 @@ Dialogue: 0,0:00:14.61,0:00:19.32,Dubtitles,,0,0,0,,Travelers who answer the rid
 Dialogue: 0,0:00:20.87,0:00:23.65,Dubtitles,,0,0,0,,Now, 30,000 kilometers from Japan,
 Dialogue: 0,0:00:23.73,0:00:27.38,Dubtitles,,0,0,0,,Jotaro and crew have finally\Nreached their destination, Cairo.
 Dialogue: 0,0:00:27.53,0:00:28.75,Dubtitles,,0,0,0,,Cairo is massive.
-Dialogue: 0,0:00:29.11,0:00:32.17,Dubtitles,,0,0,0,,It's in our best interest to\Nsystematically search the city,
+Dialogue: 0,0:00:29.11,0:00:32.17,Dubtitles,,0,0,0,,It's in our best interest to\Nsystematically search the city.
 Dialogue: 0,0:00:32.25,0:00:34.25,Dubtitles,,0,0,0,,working our way toward the center.
 Dialogue: 0,0:00:39.81,0:00:41.27,Dubtitles,,0,0,0,,We're finally here!
 Dialogue: 0,0:00:47.59,0:00:50.00,Dubtitles,,0,0,0,,Jotaro and the others have reached Cairo.
@@ -74,13 +74,13 @@ Dialogue: 0,0:01:56.01,0:01:58.89,Dubtitles,,0,0,0,,You should order a drink\Nbe
 Dialogue: 0,0:01:58.97,0:02:01.21,Dubtitles,,0,0,0,,Then iced teas, four of them.
 Dialogue: 0,0:02:14.21,0:02:15.63,Dubtitles,,0,0,0,,Never seen the place.
 Dialogue: 0,0:02:25.47,0:02:28.01,Dubtitles,,0,0,0,,Cairo is a city of six\Nmillion so there must
-Dialogue: 0,0:02:28.09,0:02:29.95,Dubtitles,,0,0,0,,be at least two or\Nthree million buildings.
-Dialogue: 0,0:02:30.03,0:02:35.31,Dubtitles,,0,0,0,,How are we gonna find him we know he's\Nhere there must be someone who can help us.
-Dialogue: 0,0:02:37.87,0:02:42.69,Dubtitles,,0,0,0,,This is the building huh this picture\Ndoesn't tell me anything sorry man but it
-Dialogue: 0,0:02:42.77,0:02:46.69,Dubtitles,,0,0,0,,doesn't look familiar.\NI see. Sorry to bother.
-Dialogue: 0,0:02:46.77,0:02:50.35,Dubtitles,,0,0,0,,you let's go we'll try somewhere else.
-Dialogue: 0,0:02:55.31,0:02:58.55,Dubtitles,,0,0,0,,I happen to know where your\Nlittle building is located.
-Dialogue: 0,0:03:02.61,0:03:06.19,Dubtitles,,0,0,0,,To be honest with you i'm\Nquite familiar with it.
+Dialogue: 0,0:02:28.09,0:02:29.95,Dubtitles,,0,0,0,,be at least two or three million buildings
+Dialogue: 0,0:02:30.03,0:02:35.31,Dubtitles,,0,0,0,,how are we gonna find him we know he's\Nhere there must be someone who can help us
+Dialogue: 0,0:02:37.87,0:02:42.69,Dubtitles,,0,0,0,,this is the building huh this picture\Ndoesn't tell me anything sorry man but it
+Dialogue: 0,0:02:42.77,0:02:46.43,Dubtitles,,0,0,0,,Doesn't look familiar. I see. Sorry to
+Dialogue: 0,0:02:46.51,0:02:50.35,Dubtitles,,0,0,0,,bother you let's go\Nwe'll try somewhere else
+Dialogue: 0,0:02:55.31,0:02:58.55,Dubtitles,,0,0,0,,i happen to know where your\Nlittle building is located
+Dialogue: 0,0:03:02.61,0:03:06.19,Dubtitles,,0,0,0,,to be honest with you i'm\Nquite familiar with it
 Dialogue: 1,0:03:11.56,0:03:11.60,SFXSun,1,0,0,0,,{=3}{\blur0.7\fade(255,0,255,0,200,1520,2420)\frz6.839\pos(1369.14,804.7)\c&H0D1922&}Fan {I like this one}
 Dialogue: 2,0:03:11.56,0:03:11.60,SFXSun,1,0,0,0,,{=3}{\bord0\blur0.7\fade(255,0,255,0,200,1520,2420)\frz6.839\pos(1369.14,804.7)\4a&HFF&}F{*\c&H326BC2&}a{\c&H2F74C6&}n {I like this one}
 Dialogue: 1,0:03:11.60,0:03:11.64,SFXSun,1,0,0,0,,{=3}{\blur0.7\fade(255,0,255,-40,160,1480,2380)\frz6.839\pos(1276.37,815.25)\c&H0D1922&}Fan
@@ -197,116 +197,112 @@ Dialogue: 1,0:03:13.90,0:03:13.94,SFXSun,1,0,0,0,,{=3}{\blur0.7\fade(255,0,255,-
 Dialogue: 2,0:03:13.90,0:03:13.94,SFXSun,1,0,0,0,,{=3}{\bord0\blur0.7\fade(255,0,255,-2340,-2140,-820,80)\pos(1133.96,861.98)\frz6.839\4a&HFF&}F{*\c&H326BC2&}a{\c&H2F74C6&}n
 Dialogue: 1,0:03:13.94,0:03:13.98,SFXSun,1,0,0,0,,{=3}{\blur0.7\fade(255,0,255,-2380,-2180,-860,40)\pos(1134.26,862.33)\frz6.839\c&H0D1922&}Fan
 Dialogue: 2,0:03:13.94,0:03:13.98,SFXSun,1,0,0,0,,{=3}{\bord0\blur0.7\fade(255,0,255,-2380,-2180,-860,40)\pos(1134.26,862.33)\frz6.839\4a&HFF&}F{*\c&H326BC2&}a{\c&H2F74C6&}n
-Dialogue: 0,0:03:21.77,0:03:22.93,Dubtitles,,0,0,0,,This is the end
+Dialogue: 0,0:03:21.77,0:03:22.93,Dubtitles,,0,0,0,,This is the end.
 Dialogue: 1,0:03:22.49,0:03:25.32,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,953)}Seeking out...
-Dialogue: 0,0:03:23.01,0:03:30.01,Dubtitles,,0,0,0,,of
-Dialogue: 0,0:03:41.23,0:03:42.81,Dubtitles,,0,0,0,,the game.
-Dialogue: 0,0:03:43.21,0:03:47.15,Dubtitles,,0,0,0,,He was sent to the King of Arabia.
-Dialogue: 0,0:03:47.23,0:03:51.51,Dubtitles,,0,0,0,,He has no power to go on.
-Dialogue: 0,0:03:51.59,0:03:54.73,Dubtitles,,0,0,0,,He is still looking for a place to go.
-Dialogue: 0,0:03:54.81,0:03:58.67,Dubtitles,,0,0,0,,It's still going to be\Nseen at the same time?
-Dialogue: 0,0:03:58.75,0:04:02.69,Dubtitles,,0,0,0,,He's done to the King of the World.
-Dialogue: 0,0:04:04.33,0:04:05.81,Dubtitles,,0,0,0,,Stop it!
-Dialogue: 0,0:04:09.15,0:04:10.92,Dubtitles,,0,0,0,,The story that started to come
-Dialogue: 0,0:04:11.89,0:04:15.67,Dubtitles,,0,0,0,,Now that we are going to end now,
-Dialogue: 0,0:04:15.75,0:04:18.43,Dubtitles,,0,0,0,,we will continue to walk on the
-Dialogue: 0,0:04:18.51,0:04:22.97,Dubtitles,,0,0,0,,end of the world of the last page.
-Dialogue: 0,0:04:26.01,0:04:32.43,Dubtitles,,0,0,0,,I will continue to walk\Non the end of the world,
-Dialogue: 0,0:04:32.51,0:04:34.11,Dubtitles,,0,0,0,,so I will not even live.
-Dialogue: 0,0:04:35.29,0:04:40.41,Dubtitles,,0,0,0,,In the last page, I will hold the sword\Nof the world and the end of the world.
+Dialogue: 0,0:03:23.01,0:03:30.01,Dubtitles,,0,0,0,,Of.
+Dialogue: 0,0:03:41.23,0:03:44.55,Dubtitles,,0,0,0,,the game. ... ... ... ...
+Dialogue: 0,0:03:45.35,0:03:46.35,Dubtitles,,0,0,0,,... ... ...
+Dialogue: 0,0:03:46.43,0:03:47.57,Dubtitles,,0,0,0,,I don't know what the name is.
+Dialogue: 0,0:03:47.65,0:03:51.45,Dubtitles,,0,0,0,,I'm not sure how it works.
+Dialogue: 0,0:03:51.83,0:03:53.81,Dubtitles,,0,0,0,,I'm not sure how the plan is.
+Dialogue: 0,0:03:54.07,0:03:56.07,Dubtitles,,0,0,0,,I'm still going to miss this time.
+Dialogue: 0,0:03:58.77,0:04:00.23,Dubtitles,,0,0,0,,I'm not sure how the time comes.
+Dialogue: 0,0:04:00.31,0:04:01.91,Dubtitles,,0,0,0,,It's time to get out of it.
+Dialogue: 0,0:04:03.15,0:04:06.01,Dubtitles,,0,0,0,,It's time to get out.
+Dialogue: 0,0:04:06.09,0:04:12.83,Dubtitles,,0,0,0,,of
+Dialogue: 0,0:04:12.91,0:04:13.74,Dubtitles,,0,0,0,,it.
+Dialogue: 0,0:04:14.05,0:04:16.03,Dubtitles,,0,0,0,,It's time to be out of time.
+Dialogue: 0,0:04:16.11,0:04:18.93,Dubtitles,,0,0,0,,You start to run, the Crusaders.
+Dialogue: 0,0:04:20.41,0:04:23.75,Dubtitles,,0,0,0,,On the last page of the last page, you
 Dialogue: 1,0:04:51.04,0:04:56.00,Title 3,title,0,0,0,,{\fad(479,477)\pos(159,871)}Episode 34: D'Arby the Gambler, Part 1
-Dialogue: 0,0:04:52.61,0:04:54.23,Dubtitles,,0,0,0,,Was that you?
-Dialogue: 0,0:04:54.51,0:04:56.25,Dubtitles,,0,0,0,,Were you the one who said that?
+Dialogue: 0,0:04:52.65,0:04:54.23,Dubtitles,,0,0,0,,W-was that you?
+Dialogue: 0,0:04:54.49,0:04:56.25,Dubtitles,,0,0,0,,Were you the one who said that?
 Dialogue: 0,0:04:56.33,0:04:58.86,Dubtitles,,0,0,0,,Do you actually know\Nwhere the building is?
-Dialogue: 0,0:05:00.57,0:05:01.40,Dubtitles,,0,0,0,,Yes.
-Dialogue: 0,0:05:01.48,0:05:03.87,Dubtitles,,0,0,0,,The exact location of\Nthe building in question
+Dialogue: 0,0:05:00.61,0:05:01.44,Dubtitles,,0,0,0,,Yes.
+Dialogue: 0,0:05:01.52,0:05:03.87,Dubtitles,,0,0,0,,The exact location of\Nthe building in question
 Dialogue: 0,0:05:03.95,0:05:06.59,Dubtitles,,0,0,0,,is information readily available to me.
-Dialogue: 0,0:05:07.09,0:05:08.17,Dubtitles,,0,0,0,,Are you serious?
-Dialogue: 0,0:05:08.41,0:05:09.24,Dubtitles,,0,0,0,,That's incredible!
-Dialogue: 0,0:05:09.32,0:05:11.43,Dubtitles,,0,0,0,,What remarkable news! Amazing!
-Dialogue: 0,0:05:11.77,0:05:13.39,Dubtitles,,0,0,0,,What are the odds that\Nwe would stumble upon
-Dialogue: 0,0:05:13.47,0:05:16.07,Dubtitles,,0,0,0,,someone who knows exactly\Nwhere the building is?
-Dialogue: 0,0:05:16.15,0:05:17.53,Dubtitles,,0,0,0,,Well, don't keep us in suspense!
-Dialogue: 0,0:05:17.61,0:05:18.73,Dubtitles,,0,0,0,,Where's it located?
-Dialogue: 0,0:05:26.51,0:05:29.28,Dubtitles,,0,0,0,,Are you really expecting\Nsomething for nothing?
-Dialogue: 0,0:05:30.03,0:05:31.85,Dubtitles,,0,0,0,,Yes, you bring up a good point.
-Dialogue: 0,0:05:32.03,0:05:32.86,Dubtitles,,0,0,0,,My apologies.
-Dialogue: 0,0:05:33.15,0:05:34.55,Dubtitles,,0,0,0,,Ten pounds for your help?
-Dialogue: 0,0:05:34.63,0:05:36.29,Dubtitles,,0,0,0,,Now then, where is it?
-Dialogue: 0,0:05:41.41,0:05:44.25,Dubtitles,,0,0,0,,Thing is, I'm something of a gambling man.
-Dialogue: 0,0:05:44.59,0:05:47.05,Dubtitles,,0,0,0,,I've been known to be a\Nsucker for cheap thrills,
-Dialogue: 0,0:05:47.13,0:05:49.97,Dubtitles,,0,0,0,,and some would even go so\Nfar as to say I'm an addict.
-Dialogue: 0,0:05:50.05,0:05:53.99,Dubtitles,,0,0,0,,However, when all's said and done,\Ngambling's how I make my living.
-Dialogue: 0,0:05:54.43,0:05:57.09,Dubtitles,,0,0,0,,Tell me, any of you boys like to gamble?
-Dialogue: 0,0:05:57.31,0:06:00.79,Dubtitles,,0,0,0,,I'm not sure I fully understand\Nwhat you're trying to get at.
-Dialogue: 0,0:06:00.87,0:06:02.87,Dubtitles,,0,0,0,,I thought I'd laid it out plainly.
-Dialogue: 0,0:06:02.99,0:06:05.19,Dubtitles,,0,0,0,,If you don't like gambling, then say so.
-Dialogue: 0,0:06:05.27,0:06:08.98,Dubtitles,,0,0,0,,For the last time, I have no idea\Nwhere you're going with this.
-Dialogue: 0,0:06:09.09,0:06:09.92,Dubtitles,,0,0,0,,Oh, all right.
-Dialogue: 0,0:06:10.07,0:06:14.54,Dubtitles,,0,0,0,,What I'm asking is if you and your\Nfriends would like to play a little game.
-Dialogue: 0,0:06:14.83,0:06:17.37,Dubtitles,,0,0,0,,Win, and I'll tell you the\Nlocation of your building.
-Dialogue: 0,0:06:17.45,0:06:19.83,Dubtitles,,0,0,0,,It's as simple as that. A bet?
+Dialogue: 0,0:05:07.07,0:05:08.17,Dubtitles,,0,0,0,,Are you serious?
+Dialogue: 0,0:05:08.37,0:05:09.21,Dubtitles,,0,0,0,,That's incredible!
+Dialogue: 0,0:05:09.29,0:05:11.45,Dubtitles,,0,0,0,,What remarkable news! Amazing!
+Dialogue: 0,0:05:11.75,0:05:13.39,Dubtitles,,0,0,0,,What are the odds that\Nwe would stumble upon
+Dialogue: 0,0:05:13.47,0:05:15.91,Dubtitles,,0,0,0,,someone who knows exactly\Nwhere the building is.
+Dialogue: 0,0:05:15.99,0:05:17.65,Dubtitles,,0,0,0,,Well, don't keep us in suspense.
+Dialogue: 0,0:05:17.73,0:05:18.85,Dubtitles,,0,0,0,,Where's it located?
+Dialogue: 0,0:05:26.55,0:05:29.32,Dubtitles,,0,0,0,,Are you really expecting\Nsomething for nothing?
+Dialogue: 0,0:05:30.11,0:05:31.93,Dubtitles,,0,0,0,,Yes, you bring up a good point.
+Dialogue: 0,0:05:32.01,0:05:32.84,Dubtitles,,0,0,0,,My apologies.
+Dialogue: 0,0:05:33.17,0:05:34.59,Dubtitles,,0,0,0,,Ten pounds for your help?
+Dialogue: 0,0:05:34.67,0:05:36.29,Dubtitles,,0,0,0,,Now then, where is it?
+Dialogue: 0,0:05:41.33,0:05:45.01,Dubtitles,,0,0,0,,Thing is, I'm something of\Na gambling man. I've been
+Dialogue: 0,0:05:45.09,0:05:47.31,Dubtitles,,0,0,0,,known to be a sucker for\Ncheap thrills and some
+Dialogue: 0,0:05:47.39,0:05:50.27,Dubtitles,,0,0,0,,would even go so far as to\Nsay i'm an addict however
+Dialogue: 0,0:05:50.35,0:05:52.85,Dubtitles,,0,0,0,,when all's said and done\Ngambling's how i make
+Dialogue: 0,0:05:52.93,0:05:57.01,Dubtitles,,0,0,0,,my living tell me any of\Nyou boys like to gamble
+Dialogue: 0,0:05:57.09,0:05:59.45,Dubtitles,,0,0,0,,i'm not sure i fully\Nunderstand what you're trying
+Dialogue: 0,0:05:59.53,0:06:03.25,Dubtitles,,0,0,0,,to get at i thought i'd\Nlaid it out plainly if you
+Dialogue: 0,0:06:03.33,0:06:06.27,Dubtitles,,0,0,0,,don't like gambling then\Nsay so For the last time,
+Dialogue: 0,0:06:06.39,0:06:08.95,Dubtitles,,0,0,0,,I have no idea where\Nyou're going with this.
+Dialogue: 0,0:06:09.03,0:06:09.87,Dubtitles,,0,0,0,,Oh, all right.
+Dialogue: 0,0:06:10.09,0:06:14.56,Dubtitles,,0,0,0,,What I'm asking is if you and your\Nfriends would like to play a little game.
+Dialogue: 0,0:06:14.83,0:06:17.37,Dubtitles,,0,0,0,,Win, and I'll tell you the\Nlocation of that place.
+Dialogue: 0,0:06:17.45,0:06:19.89,Dubtitles,,0,0,0,,It's as simple as that. A bet?
 Dialogue: 0,0:06:20.11,0:06:22.25,Dubtitles,,0,0,0,,Look, friend, I'm as\Nlucky as the next guy,
 Dialogue: 0,0:06:22.33,0:06:25.03,Dubtitles,,0,0,0,,but I'm afraid that we don't\Nhave time for poker right now.
 Dialogue: 0,0:06:25.11,0:06:27.89,Dubtitles,,0,0,0,,If I throw in another 20\Npounds, will you tell us?
 Dialogue: 0,0:06:27.97,0:06:29.23,Dubtitles,,0,0,0,,No need to worry.
 Dialogue: 0,0:06:29.41,0:06:31.35,Dubtitles,,0,0,0,,A bet can be anything, after all.
 Dialogue: 0,0:06:31.45,0:06:32.91,Dubtitles,,0,0,0,,It won't take very long.
-Dialogue: 0,0:06:34.29,0:06:37.33,Dubtitles,,0,0,0,,For example, take a look\Nat that wall over there.
-Dialogue: 0,0:06:37.55,0:06:38.73,Dubtitles,,0,0,0,,Do you see that cat?
-Dialogue: 0,0:06:43.87,0:06:46.23,Dubtitles,,0,0,0,,so two pieces of dried fish?
-Dialogue: 0,0:06:46.31,0:06:49.75,Dubtitles,,0,0,0,,question is which of the\Ntwo will the cat eat first?
-Dialogue: 0,0:06:50.85,0:06:53.23,Dubtitles,,0,0,0,,the right one or the left one?
-Dialogue: 0,0:06:53.31,0:06:57.15,Dubtitles,,0,0,0,,i must say there's something\Nthrilling about its simplicity.
-Dialogue: 0,0:06:58.49,0:07:01.09,Dubtitles,,0,0,0,,hey i've had just about\Nenough of your games!
-Dialogue: 0,0:07:01.17,0:07:03.41,Dubtitles,,0,0,0,,so take the money and tell\Nus what we want to know.
-Dialogue: 0,0:07:03.49,0:07:04.32,Dubtitles,,0,0,0,,you bastard!
-Dialogue: 0,0:07:04.40,0:07:06.43,Dubtitles,,0,0,0,,Take it down a notch, Polnareff!
-Dialogue: 0,0:07:06.51,0:07:09.28,Dubtitles,,0,0,0,,that's not the way you\Nask someone for a favor.
-Dialogue: 0,0:07:09.37,0:07:10.20,Dubtitles,,0,0,0,,Fine!
-Dialogue: 0,0:07:10.28,0:07:12.33,Dubtitles,,0,0,0,,If it'll make you shut\Nup, I'll take the bet.
-Dialogue: 0,0:07:12.41,0:07:14.93,Dubtitles,,0,0,0,,The cat'll choose the\Npiece of fish on the right.
-Dialogue: 0,0:07:15.01,0:07:17.07,Dubtitles,,0,0,0,,Okay, now it's getting interesting.
-Dialogue: 0,0:07:17.15,0:07:19.33,Dubtitles,,0,0,0,,I'll be placing my bet on the left.
-Dialogue: 0,0:07:19.85,0:07:20.79,Dubtitles,,0,0,0,,Hold the ref.
-Dialogue: 0,0:07:22.75,0:07:26.49,Dubtitles,,0,0,0,,Say, Jotaro, are you getting a\Nstrange feeling from him? I am.
-Dialogue: 0,0:07:26.73,0:07:28.65,Dubtitles,,0,0,0,,He might be an enemy stand user.
-Dialogue: 0,0:07:29.47,0:07:32.18,Dubtitles,,0,0,0,,That or he could just\Nbe a compulsive gambler.
-Dialogue: 0,0:07:32.55,0:07:35.37,Dubtitles,,0,0,0,,If he does anything at\Nall that seems suspicious,
-Dialogue: 0,0:07:35.45,0:07:37.85,Dubtitles,,0,0,0,,you should immediately attack\Nhim with Star Platinum.
-Dialogue: 0,0:07:37.93,0:07:38.76,Dubtitles,,0,0,0,,Understood.
-Dialogue: 0,0:07:39.97,0:07:41.05,Dubtitles,,0,0,0,,Let's say I lose.
+Dialogue: 0,0:06:34.05,0:06:37.35,Dubtitles,,0,0,0,,For example, take a look\Nat that wall over there.
+Dialogue: 0,0:06:37.65,0:06:38.83,Dubtitles,,0,0,0,,Do you see that cat?
+Dialogue: 0,0:06:43.53,0:06:46.31,Dubtitles,,0,0,0,,So, two pieces of dried fish.
+Dialogue: 0,0:06:46.53,0:06:49.75,Dubtitles,,0,0,0,,Question is, which of the\Ntwo will the cat eat first?
+Dialogue: 0,0:06:50.73,0:06:53.29,Dubtitles,,0,0,0,,The right one, or the left one?
+Dialogue: 0,0:06:53.59,0:06:57.18,Dubtitles,,0,0,0,,I must say, there's something\Nthrilling about its simplicity.
+Dialogue: 0,0:06:58.05,0:06:58.88,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:06:59.03,0:07:01.09,Dubtitles,,0,0,0,,I've had just about enough of your games.
+Dialogue: 0,0:07:01.17,0:07:04.71,Dubtitles,,0,0,0,,So take the money and tell us\Nwhat we want to know, you bastard!
+Dialogue: 0,0:07:04.79,0:07:06.51,Dubtitles,,0,0,0,,Take it down a notch, Polnareff.
+Dialogue: 0,0:07:06.59,0:07:09.36,Dubtitles,,0,0,0,,That's not the way you\Nask someone for a favor.
+Dialogue: 0,0:07:09.45,0:07:10.28,Dubtitles,,0,0,0,,Fine!
+Dialogue: 0,0:07:10.36,0:07:12.29,Dubtitles,,0,0,0,,If it'll make you shut\Nup, I'll take the bet.
+Dialogue: 0,0:07:12.37,0:07:14.85,Dubtitles,,0,0,0,,The cat will choose the\Npiece of fish on the right.
+Dialogue: 0,0:07:14.93,0:07:16.99,Dubtitles,,0,0,0,,Okay, now it's getting interesting.
+Dialogue: 0,0:07:17.15,0:07:19.35,Dubtitles,,0,0,0,,I'll be placing my bet on the left.
+Dialogue: 0,0:07:20.55,0:07:21.38,Dubtitles,,0,0,0,,Polnareff.
+Dialogue: 0,0:07:22.53,0:07:26.47,Dubtitles,,0,0,0,,Say, Jotaro, are you getting a\Nstrange feeling from him? I am.
+Dialogue: 0,0:07:26.75,0:07:28.65,Dubtitles,,0,0,0,,He might be an enemy stand user.
+Dialogue: 0,0:07:29.47,0:07:32.21,Dubtitles,,0,0,0,,That or he could just\Nbe a compulsive gambler.
+Dialogue: 0,0:07:32.57,0:07:35.37,Dubtitles,,0,0,0,,If he does anything at\Nall that seems suspicious,
+Dialogue: 0,0:07:35.45,0:07:38.05,Dubtitles,,0,0,0,,you should immediately attack\Nhim with Star Platinum.
+Dialogue: 0,0:07:38.13,0:07:38.96,Dubtitles,,0,0,0,,Understood.
+Dialogue: 0,0:07:39.95,0:07:41.05,Dubtitles,,0,0,0,,Let's say I lose.
 Dialogue: 0,0:07:41.35,0:07:44.13,Dubtitles,,0,0,0,,It's fairly obvious that I'll\Nowe you a hefty amount of money.
-Dialogue: 0,0:07:44.21,0:07:45.65,Dubtitles,,0,0,0,,So when a hundred pounds do...
-Dialogue: 0,0:07:45.73,0:07:47.03,Dubtitles,,0,0,0,,I've no use for money.
-Dialogue: 0,0:07:47.71,0:07:50.42,Dubtitles,,0,0,0,,But what would you say\Nto giving me your soul?
-Dialogue: 0,0:07:50.61,0:07:52.08,Dubtitles,,0,0,0,,That should do just fine.
-Dialogue: 0,0:07:53.11,0:07:53.94,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:07:55.19,0:07:57.47,Dubtitles,,0,0,0,,Now the bastard thinks he's a comedian.
-Dialogue: 0,0:07:57.55,0:08:01.11,Dubtitles,,0,0,0,,I wish we could get the hell out\Nof here and away from this freak.
-Dialogue: 0,0:08:01.19,0:08:02.02,Dubtitles,,0,0,0,,Well?
-Dialogue: 0,0:08:02.10,0:08:03.89,Dubtitles,,0,0,0,,Yeah, yeah, that's fine with me.
-Dialogue: 0,0:08:03.97,0:08:05.44,Dubtitles,,0,0,0,,We'll do things your way.
-Dialogue: 0,0:08:08.53,0:08:11.79,Dubtitles,,0,0,0,,Ah, it appears the cat has\Ntaken notice of the fish.
+Dialogue: 0,0:07:44.21,0:07:45.63,Dubtitles,,0,0,0,,So when a hundred pounds do...
+Dialogue: 0,0:07:45.71,0:07:47.03,Dubtitles,,0,0,0,,I've no use for money.
+Dialogue: 0,0:07:47.69,0:07:50.43,Dubtitles,,0,0,0,,But what would you say\Nto giving me your soul?
+Dialogue: 0,0:07:50.59,0:07:52.06,Dubtitles,,0,0,0,,That should do just fine.
+Dialogue: 0,0:07:53.13,0:07:53.96,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:07:55.15,0:07:57.13,Dubtitles,,0,0,0,,Now the bastard thinks he's a comedian.
+Dialogue: 0,0:07:57.21,0:08:01.55,Dubtitles,,0,0,0,,I wish we could get the hell out of\Nhere and away from this freak. Well?
+Dialogue: 0,0:08:02.07,0:08:03.95,Dubtitles,,0,0,0,,Yeah, yeah, that's fine with me.
+Dialogue: 0,0:08:04.03,0:08:05.50,Dubtitles,,0,0,0,,We'll do things your way.
+Dialogue: 0,0:08:08.67,0:08:11.79,Dubtitles,,0,0,0,,It appears the cat has\Ntaken notice of the fish.
 Dialogue: 0,0:08:12.55,0:08:13.59,Dubtitles,,0,0,0,,Like I thought.
 Dialogue: 0,0:08:14.75,0:08:16.99,Dubtitles,,0,0,0,,He's going after the one on the right.
 Dialogue: 0,0:08:17.59,0:08:20.43,Dubtitles,,0,0,0,,If I were a cat, I'd pick\Nthe bigger piece of meat.
 Dialogue: 0,0:08:20.51,0:08:23.22,Dubtitles,,0,0,0,,And lucky for me, that's\Nthe one on the right.
-Dialogue: 0,0:08:35.73,0:08:36.99,Dubtitles,,0,0,0,,And there you have it.
-Dialogue: 0,0:08:37.07,0:08:40.49,Dubtitles,,0,0,0,,Our feline friend took the\Nleft, then the right, then ran.
-Dialogue: 0,0:08:40.79,0:08:42.44,Dubtitles,,0,0,0,,I win this round, gentlemen.
-Dialogue: 0,0:08:42.65,0:08:45.05,Dubtitles,,0,0,0,,Boy, you've outdone yourself\Nthis time, Polnareff.
-Dialogue: 0,0:08:45.13,0:08:46.23,Dubtitles,,0,0,0,,I hope you're thrilled.
-Dialogue: 0,0:08:46.31,0:08:48.23,Dubtitles,,0,0,0,,How exactly are we going\Nto get the information
-Dialogue: 0,0:08:48.31,0:08:50.96,Dubtitles,,0,0,0,,on the building's\Nwhereabouts out of him now?
-Dialogue: 0,0:08:51.37,0:08:56.03,Dubtitles,,0,0,0,,Well, if there's nothing else, as per\Nour agreement, it's time to pay up.
-Dialogue: 0,0:08:56.79,0:08:58.41,Dubtitles,,0,0,0,,Huh? Pay? With what?
-Dialogue: 0,0:08:58.89,0:09:00.65,Dubtitles,,0,0,0,,Your soul, of course.
-Dialogue: 0,0:09:01.57,0:09:04.61,Dubtitles,,0,0,0,,Surely you didn't forget\Nabout our wager, Polnareff.
-Dialogue: 0,0:09:04.69,0:09:09.69,Dubtitles,,0,0,0,,I want your soul, as I'm a stand user\Nwho prides himself on stealing them.
-Dialogue: 0,0:09:10.73,0:09:15.13,Dubtitles,,0,0,0,,I find that it's far easier to take a\Nperson's soul if they lose it in a bet,
-Dialogue: 0,0:09:15.21,0:09:19.09,Dubtitles,,0,0,0,,which is when my stand's power\Nactivates and collects what's mine.
-Dialogue: 0,0:09:23.07,0:09:24.53,Dubtitles,,0,0,0,,What the hell?!
+Dialogue: 0,0:08:35.61,0:08:40.03,Dubtitles,,0,0,0,,And there you have it, our feline\Nfriend took the left and the right, then
+Dialogue: 0,0:08:40.11,0:08:44.77,Dubtitles,,0,0,0,,ran i win this round gentlemen boy\Nyou've outdone yourself this time polnar
+Dialogue: 0,0:08:44.85,0:08:48.49,Dubtitles,,0,0,0,,f i hope you're thrilled how exactly\Nare we going to get the information on
+Dialogue: 0,0:08:48.57,0:08:53.07,Dubtitles,,0,0,0,,the building's whereabouts out of him\Nnow well if there's If nothing else,
+Dialogue: 0,0:08:53.33,0:08:56.07,Dubtitles,,0,0,0,,as per our agreement, it's time to pay up.
+Dialogue: 0,0:08:56.77,0:08:58.37,Dubtitles,,0,0,0,,Huh? Pay? With what?
+Dialogue: 0,0:08:58.89,0:09:00.63,Dubtitles,,0,0,0,,Your soul, of course.
+Dialogue: 0,0:09:01.57,0:09:04.69,Dubtitles,,0,0,0,,Surely you didn't forget\Nabout our wager, Naref.
+Dialogue: 0,0:09:05.03,0:09:09.69,Dubtitles,,0,0,0,,I want your soul, as I'm a stand user\Nwho prides himself on stealing them.
+Dialogue: 0,0:09:10.67,0:09:15.11,Dubtitles,,0,0,0,,I find that it's far easier to take a\Nperson's soul if they lose it in a bet,
+Dialogue: 0,0:09:15.19,0:09:19.07,Dubtitles,,0,0,0,,which is when my stand's power\Nactivates and collects what's mine.
+Dialogue: 0,0:09:22.97,0:09:24.11,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 1,0:09:23.39,0:09:23.43,SFXSoul,2,0,0,0,,{=11}{\blur0.9\bord11.67\fscx155.59\fscy129.66\frz348.3\pos(1679.71,55.43)\c&H0F0A0C&}Grab
 Dialogue: 2,0:09:23.39,0:09:23.43,SFXSoul,2,0,0,0,,{=11}{\blur0.9\bord0\fscx155.59\fscy129.66\frz348.3\pos(1679.71,55.43)\4a&HFF&}Grab
 Dialogue: 1,0:09:23.43,0:09:23.47,SFXSoul,2,0,0,0,,{=11}{\blur0.9\bord9.99\fscx133.15\fscy110.95\frz348.3\pos(1575.52,43.26)\c&H0F0A0C&}Grab
@@ -367,7 +363,7 @@ Dialogue: 1,0:09:24.56,0:09:24.60,SFXSoul,2,0,0,0,,{=11}{\blur0.9\frz348.3\pos(1
 Dialogue: 2,0:09:24.56,0:09:24.60,SFXSoul,2,0,0,0,,{=11}{\bord0\blur0.9\frz348.3\pos(1558.95,30.28)\4a&HFF&}Grab
 Dialogue: 1,0:09:24.60,0:09:24.64,SFXSoul,2,0,0,0,,{=11}{\blur0.9\frz348.3\pos(1557.37,29.76)\c&H0F0A0C&}Grab
 Dialogue: 2,0:09:24.60,0:09:24.64,SFXSoul,2,0,0,0,,{=11}{\bord0\blur0.9\frz348.3\pos(1557.37,29.76)\4a&HFF&}Grab
-Dialogue: 0,0:09:24.61,0:09:27.81,Dubtitles,,0,0,0,,My god, what's happening?! Pull the ref!
+Dialogue: 0,0:09:24.63,0:09:26.41,Dubtitles,,0,0,0,,My god! What's happening?
 Dialogue: 1,0:09:24.64,0:09:24.68,SFXSoul,2,0,0,0,,{=11}{\blur0.9\frz348.3\pos(1555.53,22.91)\c&H0F0A0C&}Grab
 Dialogue: 2,0:09:24.64,0:09:24.68,SFXSoul,2,0,0,0,,{=11}{\bord0\blur0.9\frz348.3\pos(1555.53,22.91)\4a&HFF&}Grab
 Dialogue: 1,0:09:24.68,0:09:24.73,SFXSoul,2,0,0,0,,{=11}{\blur0.9\frz348.3\pos(1560,27.39)\c&H0F0A0C&}Grab
@@ -478,75 +474,77 @@ Dialogue: 1,0:09:26.85,0:09:26.89,SFXSoul,2,0,0,0,,{=11}{\blur0.9\frz348.3\pos(1
 Dialogue: 2,0:09:26.85,0:09:26.89,SFXSoul,2,0,0,0,,{=11}{\bord0\blur0.9\frz348.3\pos(1613.93,-9.71)\4a&HFF&}Grab
 Dialogue: 1,0:09:26.89,0:09:26.94,SFXSoul,2,0,0,0,,{=11}{\blur0.9\frz348.3\pos(1611.04,-7.87)\c&H0F0A0C&}Grab
 Dialogue: 2,0:09:26.89,0:09:26.94,SFXSoul,2,0,0,0,,{=11}{\bord0\blur0.9\frz348.3\pos(1611.04,-7.87)\4a&HFF&}Grab
-Dialogue: 0,0:09:28.65,0:09:32.01,Dubtitles,,0,0,0,,Now, now, I wouldn't be so\Nquick to lash out if I were you.
-Dialogue: 0,0:09:32.09,0:09:35.51,Dubtitles,,0,0,0,,I know you desperately want\Nto kill me, but if I die,
-Dialogue: 0,0:09:35.75,0:09:37.69,Dubtitles,,0,0,0,,Polnareff will meet the same end.
-Dialogue: 0,0:09:38.15,0:09:39.83,Dubtitles,,0,0,0,,Polnareff! No!
-Dialogue: 0,0:09:41.63,0:09:43.73,Dubtitles,,0,0,0,,He has no pulse!
-Dialogue: 0,0:09:44.33,0:09:45.17,Dubtitles,,0,0,0,,He's dead!
-Dialogue: 0,0:09:45.75,0:09:47.07,Dubtitles,,0,0,0,,Polnareff is dead!
-Dialogue: 0,0:09:49.81,0:09:50.64,Dubtitles,,0,0,0,,Polnareff!
-Dialogue: 0,0:10:08.51,0:10:09.69,Dubtitles,,0,0,0,,Have a look.
-Dialogue: 0,0:10:09.87,0:10:11.81,Dubtitles,,0,0,0,,Polnareff's soul resides in this.
+Dialogue: 0,0:09:27.23,0:09:28.06,Dubtitles,,0,0,0,,Polnareff!
+Dialogue: 0,0:09:28.51,0:09:29.41,Dubtitles,,0,0,0,,Now, now.
+Dialogue: 0,0:09:29.59,0:09:32.27,Dubtitles,,0,0,0,,I wouldn't be so quick to\Nlash out if I were you.
+Dialogue: 0,0:09:32.35,0:09:35.53,Dubtitles,,0,0,0,,I know you desperately want\Nto kill me, but if I die,
+Dialogue: 0,0:09:35.77,0:09:37.71,Dubtitles,,0,0,0,,Polnareff will meet the same end.
+Dialogue: 0,0:09:38.27,0:09:40.35,Dubtitles,,0,0,0,,Polnareff! No! No!
+Dialogue: 0,0:09:41.87,0:09:43.71,Dubtitles,,0,0,0,,He has no pulse!
+Dialogue: 0,0:09:44.23,0:09:45.17,Dubtitles,,0,0,0,,He's dead!
+Dialogue: 0,0:09:45.87,0:09:47.07,Dubtitles,,0,0,0,,Polnareff is dead!
+Dialogue: 0,0:09:49.73,0:09:50.56,Dubtitles,,0,0,0,,Polnareff!
+Dialogue: 0,0:10:08.59,0:10:09.69,Dubtitles,,0,0,0,,Have a look.
+Dialogue: 0,0:10:09.95,0:10:11.89,Dubtitles,,0,0,0,,Polnareff's soul resides in this.
 Dialogue: 0,0:10:11.99,0:10:16.11,Dubtitles,,0,0,0,,Now Lord Dio has one less meddlesome\Nfool to interfere with his plans.
-Dialogue: 0,0:10:16.35,0:10:18.33,Dubtitles,,0,0,0,,And what a fool he was.
-Dialogue: 0,0:10:19.91,0:10:22.47,Dubtitles,,0,0,0,,Please allow me to introduce myself.
-Dialogue: 0,0:10:22.93,0:10:24.13,Dubtitles,,0,0,0,,My name is Darby.
-Dialogue: 0,0:10:24.69,0:10:28.03,Dubtitles,,0,0,0,,Tribe.
+Dialogue: 0,0:10:16.31,0:10:18.31,Dubtitles,,0,0,0,,And what a fool he was.
+Dialogue: 0,0:10:19.85,0:10:22.51,Dubtitles,,0,0,0,,Please allow me to introduce myself.
+Dialogue: 0,0:10:22.95,0:10:24.13,Dubtitles,,0,0,0,,My name is Darby.
+Dialogue: 0,0:10:24.55,0:10:27.31,Dubtitles,,0,0,0,,Tribe.
 Dialogue: 0,0:10:28.29,0:10:30.49,Dubtitles,,0,0,0,,There's an apostrophe after the D.
-Dialogue: 0,0:10:31.93,0:10:36.97,Dubtitles,,0,0,0,,GAMBLER, STEALER OF DEFEATED SOULS,\NAND USER OF THE OSIRIS STAND!
-Dialogue: 0,0:10:40.91,0:10:43.97,Dubtitles,,0,0,0,,I believe you've had the\Npleasure of meeting my cat.
-Dialogue: 0,0:10:44.19,0:10:45.78,Dubtitles,,0,0,0,,What is this, you bastard?!
-Dialogue: 0,0:10:47.81,0:10:49.45,Dubtitles,,0,0,0,,You call that a bet?!
-Dialogue: 0,0:10:49.53,0:10:51.77,Dubtitles,,0,0,0,,How dare you, you vile\Ncheating son of a...
-Dialogue: 0,0:10:51.85,0:10:52.85,Dubtitles,,0,0,0,,Cheater, you say?
-Dialogue: 0,0:10:52.95,0:10:55.53,Dubtitles,,0,0,0,,Have you considered\NPolnareff lost because he
+Dialogue: 0,0:10:31.87,0:10:36.77,Dubtitles,,0,0,0,,Gambler, Stealer of Defeated Souls,\Nand user of the Osiris Stand.
+Dialogue: 0,0:10:40.79,0:10:43.89,Dubtitles,,0,0,0,,I believe you've had the\Npleasure of meeting my cat.
+Dialogue: 0,0:10:44.15,0:10:45.74,Dubtitles,,0,0,0,,What is this, you bastard?!
+Dialogue: 0,0:10:48.31,0:10:49.47,Dubtitles,,0,0,0,,You call that a bet?
+Dialogue: 0,0:10:49.55,0:10:50.38,Dubtitles,,0,0,0,,How dare you?
+Dialogue: 0,0:10:50.46,0:10:51.77,Dubtitles,,0,0,0,,You vile cheating, son of a...
+Dialogue: 0,0:10:51.85,0:10:52.97,Dubtitles,,0,0,0,,A cheater, you say?
+Dialogue: 0,0:10:53.05,0:10:55.53,Dubtitles,,0,0,0,,Have you considered\NPolnareff lost because he
 Dialogue: 0,0:10:55.61,0:10:58.49,Dubtitles,,0,0,0,,lacked insight to consider\Nall the possibilities?
-Dialogue: 0,0:10:59.21,0:11:00.25,Dubtitles,,0,0,0,,Hear me out.
-Dialogue: 0,0:11:00.57,0:11:02.75,Dubtitles,,0,0,0,,Gambling is nothing more\Nthan a simple analogy
-Dialogue: 0,0:11:02.83,0:11:05.24,Dubtitles,,0,0,0,,for man's relationship with his brethren.
-Dialogue: 0,0:11:05.55,0:11:08.43,Dubtitles,,0,0,0,,A dance of deception where\Nthe loser cries first.
+Dialogue: 0,0:10:59.23,0:11:00.27,Dubtitles,,0,0,0,,Hear me out.
+Dialogue: 0,0:11:00.51,0:11:02.77,Dubtitles,,0,0,0,,Gambling is nothing more\Nthan a simple analogy
+Dialogue: 0,0:11:02.85,0:11:05.26,Dubtitles,,0,0,0,,for man's relationship with his brethren.
+Dialogue: 0,0:11:05.69,0:11:08.57,Dubtitles,,0,0,0,,A dance of deception where\Nthe loser cries first.
 Dialogue: 0,0:11:09.27,0:11:12.74,Dubtitles,,0,0,0,,Are you planning to kill me\Nwith your own two hands, Avdol?
-Dialogue: 0,0:11:13.27,0:11:16.99,Dubtitles,,0,0,0,,Go right ahead if you don't mind your\Nfriend's soul being lost forever.
-Dialogue: 0,0:11:17.07,0:11:20.23,Dubtitles,,0,0,0,,The choice is completely\Nup to you. Know this.
-Dialogue: 0,0:11:20.43,0:11:24.03,Dubtitles,,0,0,0,,We're not just going to let you\Nwaltz out of here in one piece.
-Dialogue: 0,0:11:24.11,0:11:28.87,Dubtitles,,0,0,0,,Try to think back to September\NKnight, 1984 at 11.15pm.
-Dialogue: 0,0:11:29.27,0:11:31.97,Dubtitles,,0,0,0,,Remember what you were doing\Nduring that time and date?
+Dialogue: 0,0:11:13.27,0:11:16.77,Dubtitles,,0,0,0,,Go right ahead if you don't mind your\Nfriend's soul being lost forever.
+Dialogue: 0,0:11:16.85,0:11:20.23,Dubtitles,,0,0,0,,The choice is completely\Nup to you. Know this.
+Dialogue: 0,0:11:20.45,0:11:24.05,Dubtitles,,0,0,0,,We're not just going to let you\Nwaltz out of here in one piece.
+Dialogue: 0,0:11:24.13,0:11:28.99,Dubtitles,,0,0,0,,Try to think back to September\N22nd, 1984 at 11.15 p .m.
+Dialogue: 0,0:11:29.19,0:11:31.97,Dubtitles,,0,0,0,,Remember what you were doing\Nduring that time and date?
 Dialogue: 0,0:11:32.05,0:11:33.59,Dubtitles,,0,0,0,,What does that even mean?
 Dialogue: 0,0:11:35.67,0:11:37.57,Dubtitles,,0,0,0,,I remember it quite clearly.
-Dialogue: 0,0:11:39.51,0:11:41.05,Dubtitles,,0,0,0,,I was in California,
-Dialogue: 0,0:11:41.13,0:11:44.85,Dubtitles,,0,0,0,,gambling against an American that\Nwent by the name of Stephen Moore.
-Dialogue: 0,0:11:44.93,0:11:47.87,Dubtitles,,0,0,0,,He said the same thing you\Njust said a moment ago.
-Dialogue: 0,0:11:51.71,0:11:54.59,Dubtitles,,0,0,0,,But now he's singing a more silent tune.
-Dialogue: 0,0:11:55.71,0:11:57.81,Dubtitles,,0,0,0,,The chip below him is his father.
-Dialogue: 0,0:11:57.89,0:12:00.01,Dubtitles,,0,0,0,,And the one next to him is his wife.
-Dialogue: 0,0:12:00.97,0:12:03.09,Dubtitles,,0,0,0,,If you want Polnareff's soul back?
-Dialogue: 0,0:12:03.17,0:12:05.77,Dubtitles,,0,0,0,,You have no choice but\Nto continue our game!
-Dialogue: 0,0:12:05.85,0:12:08.53,Dubtitles,,0,0,0,,How much is his life worth to you?
-Dialogue: 0,0:12:09.87,0:12:11.97,Dubtitles,,0,0,0,,This man is evil incarnate.
-Dialogue: 0,0:12:12.05,0:12:13.19,Dubtitles,,0,0,0,,So that's it!
-Dialogue: 0,0:12:13.27,0:12:15.04,Dubtitles,,0,0,0,,He wants to capture our souls.
-Dialogue: 0,0:12:16.95,0:12:18.29,Dubtitles,,0,0,0,,So what's it gonna be?
-Dialogue: 0,0:12:18.37,0:12:20.73,Dubtitles,,0,0,0,,You can leave if you're\Ntoo scared to play.
-Dialogue: 0,0:12:20.81,0:12:23.53,Dubtitles,,0,0,0,,I'll hold Polnareff here for safekeeping.
-Dialogue: 0,0:12:23.61,0:12:29.29,Dubtitles,,0,0,0,,Why don't you, fine gentlemen, have\Na drink and think things over a bit?
-Dialogue: 0,0:12:29.37,0:12:31.43,Dubtitles,,0,0,0,,Care for a piece of chocolate?
-Dialogue: 0,0:12:49.01,0:12:50.55,Dubtitles,,0,0,0,,What is this, Mr. Joestar?
-Dialogue: 0,0:12:50.89,0:12:52.89,Dubtitles,,0,0,0,,What are you trying to accomplish?
-Dialogue: 0,0:12:53.73,0:12:54.73,Dubtitles,,0,0,0,,I'm curious.
-Dialogue: 0,0:12:55.03,0:12:58.15,Dubtitles,,0,0,0,,Do you have any idea what\Nsurface tension is, Barbie?
-Dialogue: 0,0:12:58.59,0:12:59.85,Dubtitles,,0,0,0,,My name's Darby.
+Dialogue: 0,0:11:39.51,0:11:42.23,Dubtitles,,0,0,0,,I was in California gambling against an
+Dialogue: 0,0:11:42.31,0:11:44.59,Dubtitles,,0,0,0,,American that went by the\Nname of Stephen Moore.
+Dialogue: 0,0:11:44.67,0:11:47.71,Dubtitles,,0,0,0,,He said the same thing you\Njust said a moment ago.
+Dialogue: 0,0:11:51.75,0:11:54.53,Dubtitles,,0,0,0,,But now he's singing a more silent tune.
+Dialogue: 0,0:11:55.77,0:11:59.83,Dubtitles,,0,0,0,,The chip below him is his father\Nand the one next to him is his wife.
+Dialogue: 0,0:12:01.03,0:12:05.77,Dubtitles,,0,0,0,,If you want Polnareff's soul back, you\Nhave no choice but to continue our game.
+Dialogue: 0,0:12:06.35,0:12:08.51,Dubtitles,,0,0,0,,How much is his life worth to you?
+Dialogue: 0,0:12:09.91,0:12:11.95,Dubtitles,,0,0,0,,This man is evil incarnate.
+Dialogue: 0,0:12:12.03,0:12:13.27,Dubtitles,,0,0,0,,So that's it.
+Dialogue: 0,0:12:13.45,0:12:15.22,Dubtitles,,0,0,0,,He wants to capture our souls.
+Dialogue: 0,0:12:16.93,0:12:18.39,Dubtitles,,0,0,0,,So what's it gonna be?
+Dialogue: 0,0:12:18.73,0:12:21.11,Dubtitles,,0,0,0,,You can leave if you're\Ntoo scared to play.
+Dialogue: 0,0:12:21.19,0:12:23.60,Dubtitles,,0,0,0,,I'll hold Polnareff here for safekeeping.
+Dialogue: 0,0:12:25.67,0:12:29.79,Dubtitles,,0,0,0,,Why don't you fine gentlemen have a\Ndrink and think things over a bit?
+Dialogue: 0,0:12:29.87,0:12:31.64,Dubtitles,,0,0,0,,Care for a piece of chocolate?
+Dialogue: 0,0:12:49.05,0:12:50.15,Dubtitles,,0,0,0,,What is this, Mr.
+Dialogue: 0,0:12:50.25,0:12:51.08,Dubtitles,,0,0,0,,Joestar?
+Dialogue: 0,0:12:51.16,0:12:52.89,Dubtitles,,0,0,0,,What are you trying to accomplish?
+Dialogue: 0,0:12:53.77,0:12:54.69,Dubtitles,,0,0,0,,I'm curious.
+Dialogue: 0,0:12:54.77,0:12:58.13,Dubtitles,,0,0,0,,Do you have any idea what\Nsurface tension is, Barbie?
+Dialogue: 0,0:12:58.63,0:12:59.85,Dubtitles,,0,0,0,,My name's Darby.
 Dialogue: 0,0:13:00.09,0:13:01.63,Dubtitles,,0,0,0,,You know it's not Barbie.
-Dialogue: 0,0:13:02.51,0:13:04.75,Dubtitles,,0,0,0,,And I assume you're\Nreferring to how the liquor
+Dialogue: 0,0:13:02.53,0:13:04.75,Dubtitles,,0,0,0,,And I assume you're\Nreferring to how the liquor
 Dialogue: 0,0:13:04.83,0:13:07.73,Dubtitles,,0,0,0,,appears to almost overflow\Nbut stays in the glass.
-Dialogue: 0,0:13:07.81,0:13:10.17,Dubtitles,,0,0,0,,So, is there a point to all this build-up?
-Dialogue: 0,0:13:10.25,0:13:11.71,Dubtitles,,0,0,0,,We're playing a game.
-Dialogue: 0,0:13:11.91,0:13:13.03,Dubtitles,,0,0,0,,The rules are simple.
-Dialogue: 0,0:13:13.11,0:13:15.64,Dubtitles,,0,0,0,,We take turns dropping\Ncoins into the glass
-Dialogue: 0,0:13:15.83,0:13:20.33,Dubtitles,,0,0,0,,Whoever makes the liquor spill\Nloses. Old man. Mr. Joestar.
-Dialogue: 0,0:13:20.57,0:13:21.69,Dubtitles,,0,0,0,,You're not going to
-Dialogue: 0,0:13:23.73,0:13:24.75,Dubtitles,,0,0,0,,Exactly right.
-Dialogue: 0,0:13:24.99,0:13:26.49,Dubtitles,,0,0,0,,I'm going to bet my soul
+Dialogue: 0,0:13:07.81,0:13:10.28,Dubtitles,,0,0,0,,So, is there a point to all this build-up?
+Dialogue: 0,0:13:10.39,0:13:11.71,Dubtitles,,0,0,0,,We're playing a game.
+Dialogue: 0,0:13:12.03,0:13:13.01,Dubtitles,,0,0,0,,The rules are simple.
+Dialogue: 0,0:13:13.09,0:13:15.68,Dubtitles,,0,0,0,,We take turns dropping\Ncoins into the glass.
+Dialogue: 0,0:13:15.87,0:13:19.81,Dubtitles,,0,0,0,,Whoever makes the liquor\Nspill loses. Old man. Mr.
+Dialogue: 0,0:13:19.93,0:13:21.75,Dubtitles,,0,0,0,,Joestar, you're not going to...
+Dialogue: 0,0:13:23.75,0:13:24.77,Dubtitles,,0,0,0,,Exactly right!
+Dialogue: 0,0:13:24.93,0:13:26.43,Dubtitles,,0,0,0,,I'm going to bet my soul!
 Dialogue: 1,0:13:30.05,0:13:30.10,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:13:30.05,0:13:30.10,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:13:30.05,0:13:30.10,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -697,124 +695,120 @@ Dialogue: 3,0:13:32.85,0:13:32.93,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6
 Dialogue: 1,0:13:32.93,0:13:33.97,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\pos(1485,781.857)\alpha&H60&\3c&HFEFFFE&}D'Arby Elder
 Dialogue: 2,0:13:32.93,0:13:33.97,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\pos(1485,781.857)\c&H212226&}D'Arby Elder
 Dialogue: 3,0:13:32.93,0:13:33.97,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\pos(1485,781.857)\shad1.5\4a&HFF&}D'Arby Elder
-Dialogue: 0,0:13:34.37,0:13:35.37,Dubtitles,,0,0,0,,Exactly right.
-Dialogue: 0,0:13:35.65,0:13:39.77,Dubtitles,,0,0,0,,I'm going to bet my soul\NOkay, you've got to be kidding
-Dialogue: 0,0:13:40.25,0:13:41.53,Dubtitles,,0,0,0,,You can't go through with it, Mr.
+Dialogue: 0,0:13:34.37,0:13:35.39,Dubtitles,,0,0,0,,Exactly right!
+Dialogue: 0,0:13:35.59,0:13:38.01,Dubtitles,,0,0,0,,I'm going to bet my soul! Okay.
+Dialogue: 0,0:13:38.41,0:13:39.67,Dubtitles,,0,0,0,,You've got to be kidding!
+Dialogue: 0,0:13:39.75,0:13:41.53,Dubtitles,,0,0,0,,You can't go through with it, Mr.
 Dialogue: 0,0:13:41.61,0:13:42.44,Dubtitles,,0,0,0,,Joestar!
-Dialogue: 0,0:13:42.52,0:13:43.75,Dubtitles,,0,0,0,,This man is a good-for-nothing cheater!
-Dialogue: 0,0:13:43.83,0:13:45.27,Dubtitles,,0,0,0,,He won't cheat me this time.
-Dialogue: 0,0:13:45.35,0:13:47.95,Dubtitles,,0,0,0,,I've decided on the rules\Nmyself, so I'll be fine.
+Dialogue: 0,0:13:42.52,0:13:44.09,Dubtitles,,0,0,0,,This man is a good-for-nothing cheater!
+Dialogue: 0,0:13:44.17,0:13:45.21,Dubtitles,,0,0,0,,He won't cheat me this time.
+Dialogue: 0,0:13:45.29,0:13:47.95,Dubtitles,,0,0,0,,I've decided on the rules\Nmyself, so I'll be fine.
 Dialogue: 0,0:13:48.03,0:13:50.21,Dubtitles,,0,0,0,,Jotaro, you watch for funny business.
-Dialogue: 0,0:13:51.97,0:13:55.62,Dubtitles,,0,0,0,,Okay! Since you're so determined,\NI'll accept your conditions.
-Dialogue: 0,0:13:56.21,0:14:00.56,Dubtitles,,0,0,0,,However, before we begin, would you\Nmind if I inspect the glass and coins?
-Dialogue: 0,0:14:00.73,0:14:02.03,Dubtitles,,0,0,0,,Sure, have at it.
+Dialogue: 0,0:13:51.45,0:13:52.28,Dubtitles,,0,0,0,,Okay.
+Dialogue: 0,0:13:52.36,0:13:55.64,Dubtitles,,0,0,0,,Since you're so determined,\NI'll accept your conditions.
+Dialogue: 0,0:13:56.27,0:14:00.62,Dubtitles,,0,0,0,,However, before we begin, would you\Nmind if I inspect the glass and coins?
+Dialogue: 0,0:14:00.71,0:14:02.01,Dubtitles,,0,0,0,,Sure, have at it.
 Dialogue: 0,0:14:02.35,0:14:06.06,Dubtitles,,0,0,0,,You have the right to ensure that\NI'm playing on the up and up.
 Dialogue: 0,0:14:12.93,0:14:13.83,Dubtitles,,0,0,0,,A question.
 Dialogue: 0,0:14:14.17,0:14:18.99,Dubtitles,,0,0,0,,What guarantee do I have that you'll return\NPolnareff's soul if you lose the game?
-Dialogue: 0,0:14:22.25,0:14:25.41,Dubtitles,,0,0,0,,You've my word as a gambler\Nthat I'll keep my promise.
-Dialogue: 0,0:14:25.49,0:14:29.61,Dubtitles,,0,0,0,,If I lose, I assure you that I\Nwill pay in full, but I won't lose.
+Dialogue: 0,0:14:22.25,0:14:25.37,Dubtitles,,0,0,0,,You've my word as a gambler\Nthat I'll keep my promise.
+Dialogue: 0,0:14:25.45,0:14:29.61,Dubtitles,,0,0,0,,If I lose, I assure you that I\Nwill pay in full, but I won't lose.
 Dialogue: 0,0:14:31.25,0:14:33.41,Dubtitles,,0,0,0,,Well, in that case, you can go first.
 Dialogue: 0,0:14:33.49,0:14:35.97,Dubtitles,,0,0,0,,Go ahead and drop a coin in. Please, stop!
-Dialogue: 0,0:14:36.31,0:14:37.96,Dubtitles,,0,0,0,,Just leave everything to me.
-Dialogue: 0,0:14:39.13,0:14:42.31,Dubtitles,,0,0,0,,The old coin and glass trick\Nis one of my specialties.
-Dialogue: 0,0:14:42.91,0:14:45.73,Dubtitles,,0,0,0,,Surface tension is a\Nsurprisingly strong force.
+Dialogue: 0,0:14:36.33,0:14:37.98,Dubtitles,,0,0,0,,Just leave everything to me.
+Dialogue: 0,0:14:39.13,0:14:42.33,Dubtitles,,0,0,0,,The old coin and glass trick\Nis one of my specialties.
+Dialogue: 0,0:14:42.95,0:14:45.72,Dubtitles,,0,0,0,,Surface tension is a\Nsurprisingly strong force.
 Dialogue: 0,0:14:46.23,0:14:49.70,Dubtitles,,0,0,0,,There's room for at least eight\Nor nine coins in the glass.
 Dialogue: 0,0:14:49.79,0:14:53.44,Dubtitles,,0,0,0,,I just have to stay calm and\Nmake sure my fingers don't shake.
-Dialogue: 0,0:14:54.21,0:14:58.03,Dubtitles,,0,0,0,,Is it all right if I drop in more\Nthan one coin at the same time?
-Dialogue: 0,0:14:58.13,0:15:00.91,Dubtitles,,0,0,0,,As long as they all go\Nin at once? Well then!
-Dialogue: 0,0:15:01.97,0:15:02.80,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:15:02.88,0:15:03.71,Dubtitles,,0,0,0,,Five coins?
-Dialogue: 0,0:15:03.87,0:15:05.73,Dubtitles,,0,0,0,,Hey, that'll create a wave on the surface?
-Dialogue: 0,0:15:05.81,0:15:06.64,Dubtitles,,0,0,0,,Quiet, please!
-Dialogue: 0,0:15:08.73,0:15:10.97,Dubtitles,,0,0,0,,Please, take your hands off the table.
+Dialogue: 0,0:14:54.21,0:14:57.99,Dubtitles,,0,0,0,,Is it all right if I drop in more\Nthan one coin at the same time?
+Dialogue: 0,0:14:58.07,0:15:00.85,Dubtitles,,0,0,0,,As long as they all go\Nin at once. Well, then.
+Dialogue: 0,0:15:02.01,0:15:02.84,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:15:02.92,0:15:03.75,Dubtitles,,0,0,0,,Five coins?
+Dialogue: 0,0:15:03.85,0:15:06.11,Dubtitles,,0,0,0,,Hey, that'll create a wave on the surface.
+Dialogue: 0,0:15:06.19,0:15:07.02,Dubtitles,,0,0,0,,Quiet, please.
+Dialogue: 0,0:15:08.83,0:15:11.07,Dubtitles,,0,0,0,,Please, take your hands off the table.
 Dialogue: 0,0:15:37.07,0:15:41.19,Dubtitles,,0,0,0,,It looks like it's your turn.\NIt takes nerves of steel to
-Dialogue: 0,0:15:41.27,0:15:45.05,Dubtitles,,0,0,0,,put in five coins at once I\Nthink I'll go with one coin.
+Dialogue: 0,0:15:41.27,0:15:45.05,Dubtitles,,0,0,0,,I put in five coins at once.\NI think I'll go with one coin.
 Dialogue: 0,0:15:45.25,0:15:46.81,Dubtitles,,0,0,0,,It's too close to call.
-Dialogue: 0,0:15:52.57,0:15:53.65,Dubtitles,,0,0,0,,Typical old man.
-Dialogue: 0,0:15:54.25,0:15:56.31,Dubtitles,,0,0,0,,He's squeezing a cotton\Nball between his finger
-Dialogue: 0,0:15:56.39,0:15:58.19,Dubtitles,,0,0,0,,in the coin to leak liquid into the glass.
-Dialogue: 0,0:15:58.27,0:16:01.15,Dubtitles,,0,0,0,,So that's how he's gonna\Nmake the glass overflow!
-Dialogue: 0,0:16:01.81,0:16:03.99,Dubtitles,,0,0,0,,And he told me to watch for cheating.
-Dialogue: 0,0:16:04.81,0:16:05.81,Dubtitles,,0,0,0,,Clever bastard.
-Dialogue: 0,0:16:06.33,0:16:07.23,Dubtitles,,0,0,0,,Not bad.
-Dialogue: 0,0:16:17.29,0:16:19.17,Dubtitles,,0,0,0,,The glass has reached its limit.
-Dialogue: 0,0:16:19.41,0:16:21.70,Dubtitles,,0,0,0,,One more coin and the booze will spill.
-Dialogue: 0,0:16:21.79,0:16:22.83,Dubtitles,,0,0,0,,Victory is mine.
-Dialogue: 0,0:16:23.43,0:16:27.59,Dubtitles,,0,0,0,,It's like he said, we'll see\Nwhich dance partner cries first.
-Dialogue: 0,0:16:28.57,0:16:30.47,Dubtitles,,0,0,0,,Ooh, man, that was a close one.
-Dialogue: 0,0:16:30.65,0:16:32.45,Dubtitles,,0,0,0,,I thought it was going to spill for sure.
-Dialogue: 0,0:16:32.53,0:16:35.01,Dubtitles,,0,0,0,,Well, it's your turn. Good luck, Obi.
+Dialogue: 0,0:15:52.57,0:15:53.65,Dubtitles,,0,0,0,,Typical old man
+Dialogue: 0,0:15:54.25,0:15:57.15,Dubtitles,,0,0,0,,He's squeezing a cotton ball between\Nhis finger and the coin to leak
+Dialogue: 0,0:15:57.23,0:16:01.35,Dubtitles,,0,0,0,,liquid into the glass So that's how\Nhe's gonna make the glass overflow
+Dialogue: 0,0:16:01.81,0:16:03.95,Dubtitles,,0,0,0,,And he told me to watch for cheating
+Dialogue: 0,0:16:04.81,0:16:05.81,Dubtitles,,0,0,0,,clever bastard
+Dialogue: 0,0:16:06.43,0:16:07.26,Dubtitles,,0,0,0,,Not bad.
+Dialogue: 0,0:16:17.19,0:16:19.17,Dubtitles,,0,0,0,,The glass has reached its limit!
+Dialogue: 0,0:16:19.41,0:16:21.67,Dubtitles,,0,0,0,,One more coin and the booze will spill!
+Dialogue: 0,0:16:21.75,0:16:22.81,Dubtitles,,0,0,0,,Victory is mine!
+Dialogue: 0,0:16:23.35,0:16:27.63,Dubtitles,,0,0,0,,It's like he said, we'll see\Nwhich dance partner cries first.
+Dialogue: 0,0:16:28.55,0:16:30.49,Dubtitles,,0,0,0,,Ooh, man, that was a close one.
+Dialogue: 0,0:16:30.67,0:16:32.47,Dubtitles,,0,0,0,,I thought it was gonna spill for sure.
+Dialogue: 0,0:16:32.55,0:16:35.01,Dubtitles,,0,0,0,,Well, it's your turn. Good luck, Obi.
 Dialogue: 0,0:16:37.49,0:16:38.37,Dubtitles,,0,0,0,,It's Darby!
 Dialogue: 0,0:16:38.51,0:16:40.10,Dubtitles,,0,0,0,,Don't make me say it again!
 Dialogue: 0,0:16:40.31,0:16:42.66,Dubtitles,,0,0,0,,I told you my name is Darby, understand?
-Dialogue: 0,0:16:42.77,0:16:44.75,Dubtitles,,0,0,0,,Not Obi, not Barbie. Hmm?
-Dialogue: 0,0:16:46.15,0:16:46.98,Dubtitles,,0,0,0,,Apologies.
-Dialogue: 0,0:16:48.35,0:16:52.41,Dubtitles,,0,0,0,,He's messing up his name on purpose to\Nget him riled up and throw off his game.
-Dialogue: 0,0:16:52.49,0:16:54.07,Dubtitles,,0,0,0,,I gotta hand it to the old man.
-Dialogue: 0,0:16:54.15,0:16:55.09,Dubtitles,,0,0,0,,He's a natural.
+Dialogue: 0,0:16:42.79,0:16:44.75,Dubtitles,,0,0,0,,Not Obi, not Barbie. Hmm?
+Dialogue: 0,0:16:46.17,0:16:47.00,Dubtitles,,0,0,0,,Apologies.
+Dialogue: 0,0:16:48.35,0:16:52.39,Dubtitles,,0,0,0,,He's screwing up his name on purpose to\Nget him riled up and throw off his game.
+Dialogue: 0,0:16:52.47,0:16:54.11,Dubtitles,,0,0,0,,I gotta hand it to the old man.
+Dialogue: 0,0:16:54.19,0:16:55.09,Dubtitles,,0,0,0,,He's a natural.
 Dialogue: 0,0:16:55.79,0:16:57.85,Dubtitles,,0,0,0,,So what do you say we keep playing?
-Dialogue: 0,0:16:57.93,0:17:00.46,Dubtitles,,0,0,0,,I believe it's your\Nturn to drop a coin in.
-Dialogue: 0,0:17:00.79,0:17:01.62,Dubtitles,,0,0,0,,Darby!
-Dialogue: 0,0:17:11.07,0:17:13.77,Dubtitles,,0,0,0,,The shadow makes it\Ndifficult to see from here.
-Dialogue: 0,0:17:13.85,0:17:17.07,Dubtitles,,0,0,0,,I'll lower the coin in from\Nthe right side of the table.
-Dialogue: 0,0:17:17.15,0:17:19.53,Dubtitles,,0,0,0,,Drop it in from whatever angle you'd like.
-Dialogue: 0,0:17:19.61,0:17:24.13,Dubtitles,,0,0,0,,What he doesn't know is the glass is already\Nat its limit thanks to my little trick.
-Dialogue: 0,0:17:24.21,0:17:27.29,Dubtitles,,0,0,0,,There's no way the liquid\Ncould take another coin.
-Dialogue: 0,0:17:27.37,0:17:30.49,Dubtitles,,0,0,0,,Even the slightest touch\Nwill cause it to spill over.
-Dialogue: 0,0:17:30.75,0:17:31.58,Dubtitles,,0,0,0,,Hehehehe.
-Dialogue: 0,0:17:38.47,0:17:41.61,Dubtitles,,0,0,0,,You're probably thinking the\Nglass has reached its limit,
-Dialogue: 0,0:17:41.69,0:17:44.63,Dubtitles,,0,0,0,,that dropping in another\Ncoin would be impossible.
-Dialogue: 0,0:17:45.99,0:17:48.11,Dubtitles,,0,0,0,,Well, you'd be wrong about that.
-Dialogue: 0,0:17:56.65,0:17:57.87,Dubtitles,,0,0,0,,There's no way!
-Dialogue: 0,0:17:58.15,0:17:59.80,Dubtitles,,0,0,0,,How the hell did he do that?
-Dialogue: 0,0:18:00.01,0:18:01.49,Dubtitles,,0,0,0,,Why didn't it spill over?
-Dialogue: 0,0:18:01.75,0:18:03.28,Dubtitles,,0,0,0,,Your question's confusing.
-Dialogue: 0,0:18:03.63,0:18:05.41,Dubtitles,,0,0,0,,What do you mean, why didn't it spill?
-Dialogue: 0,0:18:05.49,0:18:07.73,Dubtitles,,0,0,0,,You saw the result with your own eyes.
-Dialogue: 0,0:18:08.89,0:18:11.71,Dubtitles,,0,0,0,,As far as I know, he\Ndidn't do anything devious.
-Dialogue: 0,0:18:11.83,0:18:14.07,Dubtitles,,0,0,0,,I was watching him with Star Platinum.
-Dialogue: 0,0:18:14.65,0:18:17.71,Dubtitles,,0,0,0,,It's hard to believe, but he\Ndropped it in fair and square.
-Dialogue: 0,0:18:17.79,0:18:18.79,Dubtitles,,0,0,0,,There's no doubt.
-Dialogue: 0,0:18:19.69,0:18:21.51,Dubtitles,,0,0,0,,But how did he do it?
-Dialogue: 0,0:18:21.93,0:18:24.21,Dubtitles,,0,0,0,,I'm positive I added enough liquid to the
-Dialogue: 0,0:18:24.29,0:18:26.55,Dubtitles,,0,0,0,,glass and one more coin\Nwould make it spill.
-Dialogue: 0,0:18:26.63,0:18:27.71,Dubtitles,,0,0,0,,I don't get it.
-Dialogue: 0,0:18:27.85,0:18:29.93,Dubtitles,,0,0,0,,There's no way it should have spilled.
-Dialogue: 0,0:18:30.01,0:18:31.27,Dubtitles,,0,0,0,,What's going on?
-Dialogue: 0,0:18:31.53,0:18:32.69,Dubtitles,,0,0,0,,Make your move.
-Dialogue: 0,0:18:32.87,0:18:34.28,Dubtitles,,0,0,0,,It's your turn, Joestar.
-Dialogue: 0,0:18:34.63,0:18:35.83,Dubtitles,,0,0,0,,Hurry it up already.
-Dialogue: 0,0:18:36.13,0:18:38.84,Dubtitles,,0,0,0,,Or are you trying to\Nwait until it evaporates?
-Dialogue: 0,0:18:50.11,0:18:50.94,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:18:51.05,0:18:52.89,Dubtitles,,0,0,0,,No, this can't be happening!
-Dialogue: 0,0:19:19.25,0:19:21.35,Dubtitles,,0,0,0,,Oh, Mr. Joestar!
-Dialogue: 0,0:19:21.43,0:19:22.43,Dubtitles,,0,0,0,,Come on!
-Dialogue: 0,0:19:27.81,0:19:29.46,Dubtitles,,0,0,0,,Deep in his heart of hearts,
-Dialogue: 0,0:19:29.57,0:19:33.63,Dubtitles,,0,0,0,,Joestar had already come to the\Nrealization that he'd lost this game.
-Dialogue: 0,0:19:33.77,0:19:36.03,Dubtitles,,0,0,0,,That's why his soul emerged so easily.
-Dialogue: 0,0:19:36.63,0:19:39.45,Dubtitles,,0,0,0,,I, Darby, have won this\Nbet like all the others.
-Dialogue: 0,0:19:41.89,0:19:42.75,Dubtitles,,0,0,0,,Polareff, I...
+Dialogue: 0,0:16:57.93,0:17:01.21,Dubtitles,,0,0,0,,I believe it's your turn\Nto drop a coin in, Darby!
+Dialogue: 0,0:17:11.07,0:17:13.84,Dubtitles,,0,0,0,,The shadow makes it\Ndifficult to see from here.
+Dialogue: 0,0:17:14.35,0:17:17.25,Dubtitles,,0,0,0,,I'll lower the coin in from\Nthe right side of the table.
+Dialogue: 0,0:17:17.33,0:17:19.79,Dubtitles,,0,0,0,,Drop it in from whatever angle you'd like.
+Dialogue: 0,0:17:19.87,0:17:24.51,Dubtitles,,0,0,0,,What he doesn't know is the glass is already\Nat its limit thanks to my little trick.
+Dialogue: 0,0:17:24.59,0:17:27.51,Dubtitles,,0,0,0,,There's no way the liquid\Ncould take another coin.
+Dialogue: 0,0:17:27.59,0:17:30.71,Dubtitles,,0,0,0,,Even the slightest touch\Nwill cause it to spill over.
+Dialogue: 0,0:17:38.47,0:17:41.57,Dubtitles,,0,0,0,,You're probably thinking the\Nglass has reached its limit.
+Dialogue: 0,0:17:41.65,0:17:44.59,Dubtitles,,0,0,0,,that dropping in another\Ncoin would be impossible.
+Dialogue: 0,0:17:45.99,0:17:48.13,Dubtitles,,0,0,0,,Well, you'd be wrong about that.
+Dialogue: 0,0:17:56.65,0:17:57.93,Dubtitles,,0,0,0,,There's no way!
+Dialogue: 0,0:17:58.15,0:17:59.81,Dubtitles,,0,0,0,,How the hell did he do that?
+Dialogue: 0,0:18:00.05,0:18:01.52,Dubtitles,,0,0,0,,Why didn't it spill over?
+Dialogue: 0,0:18:01.77,0:18:03.30,Dubtitles,,0,0,0,,Your question's confusing.
+Dialogue: 0,0:18:03.63,0:18:05.05,Dubtitles,,0,0,0,,What do you mean, why didn't it spill?
+Dialogue: 0,0:18:05.13,0:18:07.73,Dubtitles,,0,0,0,,You saw the result with your own eyes.
+Dialogue: 0,0:18:08.85,0:18:11.67,Dubtitles,,0,0,0,,As far as I know, he\Ndidn't do anything devious.
+Dialogue: 0,0:18:11.85,0:18:14.09,Dubtitles,,0,0,0,,I was watching him with Star Platinum.
+Dialogue: 0,0:18:14.49,0:18:17.73,Dubtitles,,0,0,0,,It's hard to believe, but he\Ndropped it in fair and square.
+Dialogue: 0,0:18:17.81,0:18:18.81,Dubtitles,,0,0,0,,There's no doubt.
+Dialogue: 0,0:18:19.61,0:18:21.51,Dubtitles,,0,0,0,,But how did he do it?
+Dialogue: 0,0:18:21.89,0:18:24.21,Dubtitles,,0,0,0,,I'm positive I added enough liquid to the
+Dialogue: 0,0:18:24.29,0:18:26.55,Dubtitles,,0,0,0,,glass that one more coin\Nwould make it spill.
+Dialogue: 0,0:18:26.63,0:18:27.69,Dubtitles,,0,0,0,,I don't get it.
+Dialogue: 0,0:18:27.85,0:18:29.91,Dubtitles,,0,0,0,,There's no way it shouldn't have spilled.
+Dialogue: 0,0:18:29.99,0:18:31.19,Dubtitles,,0,0,0,,What's going on?
+Dialogue: 0,0:18:31.57,0:18:32.55,Dubtitles,,0,0,0,,Make your move.
+Dialogue: 0,0:18:32.85,0:18:34.26,Dubtitles,,0,0,0,,It's your turn, Joestar.
+Dialogue: 0,0:18:34.81,0:18:38.79,Dubtitles,,0,0,0,,Hurry it up already, or are you\Ntrying to wait until it evaporates?
+Dialogue: 0,0:18:50.21,0:18:52.87,Dubtitles,,0,0,0,,No, no, this can't be happening!
+Dialogue: 0,0:19:20.33,0:19:21.67,Dubtitles,,0,0,0,,Oh, Mr. Joestar!
+Dialogue: 0,0:19:27.83,0:19:29.39,Dubtitles,,0,0,0,,Deep in his heart of hearts,
+Dialogue: 0,0:19:29.47,0:19:33.39,Dubtitles,,0,0,0,,Jostar had already come to the\Nrealization that he'd lost this game.
+Dialogue: 0,0:19:33.47,0:19:36.01,Dubtitles,,0,0,0,,That's why his soul emerged so easily.
+Dialogue: 0,0:19:36.65,0:19:39.47,Dubtitles,,0,0,0,,I, Darby, have won this\Nbet like all the others.
+Dialogue: 0,0:19:41.91,0:19:42.75,Dubtitles,,0,0,0,,Polareff, I...
 Dialogue: 0,0:19:42.83,0:19:43.83,Dubtitles,,0,0,0,,I failed you.
-Dialogue: 0,0:19:44.81,0:19:48.77,Dubtitles,,0,0,0,,Ollie, I'm so sorry, my beautiful\Ngirl, but Daddy's let you down.
-Dialogue: 0,0:19:51.93,0:19:53.73,Dubtitles,,0,0,0,,Mr. Joestar! Grandpa, no!
-Dialogue: 0,0:20:02.25,0:20:03.15,Dubtitles,,0,0,0,,Two down.
+Dialogue: 0,0:19:44.29,0:19:48.77,Dubtitles,,0,0,0,,Polnareff, I'm so sorry, my beautiful\Ngirl, but Daddy's let you down.
+Dialogue: 0,0:19:51.75,0:19:53.75,Dubtitles,,0,0,0,,Mr. Joestar! Old man, no!
+Dialogue: 0,0:20:02.27,0:20:03.15,Dubtitles,,0,0,0,,Two down.
 Dialogue: 0,0:20:03.43,0:20:06.63,Dubtitles,,0,0,0,,Now let's continue where\Nwe left off. That is,
 Dialogue: 0,0:20:06.73,0:20:09.07,Dubtitles,,0,0,0,,unless you two have decided\Nto abandon your friends
 Dialogue: 0,0:20:09.15,0:20:12.03,Dubtitles,,0,0,0,,and slink away with your\Ntails between your legs.
 Dialogue: 0,0:20:12.91,0:20:13.87,Dubtitles,,0,0,0,,You bastard!
 Dialogue: 0,0:20:16.39,0:20:17.97,Dubtitles,,0,0,0,,You don't get it, do you?
-Dialogue: 0,0:20:18.21,0:20:22.93,Dubtitles,,0,0,0,,I keep trying to tell you that if you take\Nmy life, your friends will die with me.
-Dialogue: 0,0:20:23.01,0:20:23.84,Dubtitles,,0,0,0,,Damn you!
-Dialogue: 0,0:20:24.07,0:20:25.19,Dubtitles,,0,0,0,,Antle, stand down!
-Dialogue: 0,0:20:25.37,0:20:28.21,Dubtitles,,0,0,0,,Hey! If you're going to cause trouble,\Nthen I'm going to have to ask you to leave.
-Dialogue: 0,0:20:28.29,0:20:30.25,Dubtitles,,0,0,0,,Shut your mouth and stay out of this!
+Dialogue: 0,0:20:18.21,0:20:22.95,Dubtitles,,0,0,0,,I keep trying to tell you that if you take\Nmy life, your friends will die with me.
+Dialogue: 0,0:20:23.03,0:20:23.87,Dubtitles,,0,0,0,,Damn you!
+Dialogue: 0,0:20:24.07,0:20:25.53,Dubtitles,,0,0,0,,Avdol, stand down! Hey,
+Dialogue: 0,0:20:25.77,0:20:26.93,Dubtitles,,0,0,0,,if you're gonna cause trouble,
+Dialogue: 0,0:20:27.01,0:20:30.25,Dubtitles,,0,0,0,,then I'm gonna have to ask you to leave\N- Shut your mouth and stay out of this!
 Dialogue: 0,0:20:30.33,0:20:31.16,Dubtitles,,0,0,0,,Right!
-Dialogue: 0,0:20:47.35,0:20:49.79,Dubtitles,,0,0,0,,You've noticed it too late, Jotaro.
+Dialogue: 0,0:20:47.37,0:20:49.77,Dubtitles,,0,0,0,,You've noticed it too late, Jotaro.
 Dialogue: 0,0:20:51.09,0:20:51.92,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:20:52.00,0:20:52.83,Dubtitles,,0,0,0,,Something's wrong with the glass?
-Dialogue: 0,0:20:52.92,0:20:56.05,Dubtitles,,0,0,0,,This is the reason the coin\Ndidn't make the boost spill over.
-Dialogue: 0,0:20:56.13,0:20:58.03,Dubtitles,,0,0,0,,If you look at the bottom of the glass,
-Dialogue: 0,0:20:58.11,0:21:00.89,Dubtitles,,0,0,0,,you'll see that there's a\Ntiny bit of chocolate on it.
+Dialogue: 0,0:20:52.00,0:20:52.87,Dubtitles,,0,0,0,,Something's wrong with the glass?
+Dialogue: 0,0:20:52.95,0:20:56.01,Dubtitles,,0,0,0,,This is the reason the coin\Ndidn't make the boost spill over.
+Dialogue: 0,0:20:56.09,0:20:57.87,Dubtitles,,0,0,0,,If you look at the bottom of the glass,
+Dialogue: 0,0:20:57.95,0:21:00.89,Dubtitles,,0,0,0,,you'll see that there's a\Ntiny bit of chocolate on it.
 Dialogue: 0,0:21:00.97,0:21:03.75,Dubtitles,,0,0,0,,He must have found a way to stick\Nit on when he was inspecting
 Dialogue: 0,0:21:03.83,0:21:07.01,Dubtitles,,0,0,0,,the glass and coins at the\Nvery beginning of the game.
 Dialogue: 0,0:21:07.55,0:21:09.37,Dubtitles,,0,0,0,,Surely you know the rules by now.

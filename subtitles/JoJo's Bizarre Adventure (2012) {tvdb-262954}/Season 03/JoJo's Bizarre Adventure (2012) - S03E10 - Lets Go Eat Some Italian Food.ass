@@ -55,7 +55,7 @@ Style: SFXWa,Shaky Hand Some Comic Bold,170,&H48ECC530,&H000000FF,&H00090202,&H0
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H000F5C52,&H000000FF,&H00000000,&H1FC2002B,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
 Style: Episode 10 Typesetting 5a,Gontserrat Medium,45,&H00000000,&H000000FF,&H00FFFFFF,&H00616161,0,0,0,0,100,105,0,0,1,0,0,1,10,10,10,1
 Style: Episode 10 Typesetting 5b,Cabin,80,&H000D0F0E,&H000000FF,&H00FEFEFE,&H00616161,0,0,0,0,100,100,0,0,1,3,0,1,10,10,10,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -79,7 +79,6 @@ Dialogue: 1,0:01:01.08,0:01:03.50,Episode 10 Typesetting 2back,Eyecatch,0,0,0,,{
 Dialogue: 1,0:01:01.08,0:01:03.50,Episode 10 Typesetting 2,Sign,0,0,0,,{\be2\fax-0.15\frz6.953\frx0.77\fry0.04999\pos(989.714,650.429)}TRUSSARDI
 Dialogue: 1,0:01:01.08,0:01:03.50,Episode 10 Typesetting 2back,Eyecatch,0,0,0,,{\p1\be0.3\pos(617.714,527.142)\clip(m 514 728 l 1470 600 1500 346 368 336)}m 0 0 l 800 0 800 200 0 200{\p0}
 Dialogue: 1,0:01:01.08,0:01:03.50,Episode 10 Typesetting 2back,Eyecatch,0,0,0,,{\p1\be0.3\clip(m 514 728 l 1470 600 1500 346 368 336)\pos(745.714,497.142)}m 0 0 l 800 0 800 200 0 200{\p0}
-Dialogue: 1,0:01:01.08,0:01:03.50,Episode 10 Typesetting 2,Sign,0,0,0,,{\be0.4\pos(976,671)\frz7.09}TRUSSARDI
 Dialogue: 0,0:01:01.12,0:01:03.18,Dubtitles,,0,0,0,,I thought this building was vacant.
 Dialogue: 0,0:01:03.48,0:01:04.89,Dubtitles,,0,0,0,,Maybe they remodeled it.
 Dialogue: 0,0:01:05.04,0:01:06.42,Dubtitles,,0,0,0,,It sure has character.
@@ -101,14 +100,14 @@ Dialogue: 0,0:01:39.64,0:01:40.68,Dubtitles,,0,0,0,,Uh, right.
 Dialogue: 0,0:01:41.42,0:01:43.74,Dubtitles,,0,0,0,,So chef, you a foreigner or what?
 Dialogue: 0,0:01:44.10,0:01:45.20,Dubtitles,,0,0,0,,Si, signore.
 Dialogue: 0,0:01:45.44,0:01:47.12,Dubtitles,,0,0,0,,I am originally from Italy.
-Dialogue: 0,0:01:47.56,0:01:50.90,Dubtitles,,0,0,0,,My name is Tonio Trussardi,\Nbut you can call me Tonio.
+Dialogue: 0,0:01:47.56,0:01:50.90,Dubtitles,,0,0,0,,My name is Tonio Trendi,\Nbut you can call me Tonio.
 Dialogue: 0,0:01:51.02,0:01:52.55,Dubtitles,,0,0,0,,This is the best day ever!
 Dialogue: 0,0:01:52.64,0:01:55.14,Dubtitles,,0,0,0,,I finally get to eat\Nauthentic Italian food!
 Dialogue: 0,0:01:55.22,0:01:58.10,Dubtitles,,0,0,0,,My role as a chef has\Ntaken me to many countries.
 Dialogue: 0,0:01:58.40,0:02:00.86,Dubtitles,,0,0,0,,I've used the flavors\Nof my homeland and fused
 Dialogue: 0,0:02:00.94,0:02:03.44,Dubtitles,,0,0,0,,them with the best culinary\Ntraditions in the world.
 Dialogue: 0,0:02:03.52,0:02:07.11,Dubtitles,,0,0,0,,Now I've made my way to Japan\Nin search of new opportunities.
-Dialogue: 0,0:02:07.48,0:02:10.06,Dubtitles,,0,0,0,,Your Mariah is such a magnificent town.
+Dialogue: 0,0:02:07.48,0:02:10.06,Dubtitles,,0,0,0,,Your Morioh is such a magnificent town.
 Dialogue: 0,0:02:10.34,0:02:13.87,Dubtitles,,0,0,0,,You can find several farms with\Nmany kinds of fresh produce.
 Dialogue: 0,0:02:13.98,0:02:15.92,Dubtitles,,0,0,0,,Its fruity de mari are great too.
 Dialogue: 0,0:02:16.14,0:02:17.38,Dubtitles,,0,0,0,,I adore it here.
@@ -478,7 +477,7 @@ Dialogue: 0,0:07:10.14,0:07:11.08,Dubtitles,,0,0,0,,It's the honest truth.
 Dialogue: 0,0:07:11.16,0:07:12.82,Dubtitles,,0,0,0,,We take pride in our work
 Dialogue: 0,0:07:13.70,0:07:17.02,Dubtitles,,0,0,0,,Now I hope you enjoy\Nyour meal, sir. Trust me.
 Dialogue: 0,0:07:17.16,0:07:17.99,Dubtitles,,0,0,0,,I will
-Dialogue: 0,0:07:29.94,0:07:33.72,Dubtitles,,0,0,0,,Well, this dish is pretty\Ngood. I'll give you that I
+Dialogue: 0,0:07:29.94,0:07:33.72,Dubtitles,,0,0,0,,Well this dish is pretty\Ngood, I'll give you that. I
 Dialogue: 0,0:07:33.80,0:07:38.34,Dubtitles,,0,0,0,,dare say this is very good\Nbut even so the cheese itself
 Dialogue: 0,0:07:38.42,0:07:41.44,Dubtitles,,0,0,0,,doesn't leave much of an\Nimpression which is a shame after
 Dialogue: 0,0:07:41.52,0:07:45.64,Dubtitles,,0,0,0,,all the hype no no it's not\Nmeant to be eaten by itself,
@@ -492,8 +491,8 @@ Dialogue: 0,0:08:04.24,0:08:08.86,Dubtitles,,0,0,0,,It's incredible how the toma
 Dialogue: 0,0:08:08.94,0:08:10.41,Dubtitles,,0,0,0,,What a great combination.
 Dialogue: 0,0:08:10.56,0:08:12.42,Dubtitles,,0,0,0,,The cheese and tomato enrich each other.
 Dialogue: 0,0:08:12.50,0:08:14.24,Dubtitles,,0,0,0,,It's a perfect symphony, I tell you.
-Dialogue: 0,0:08:14.32,0:08:19.66,Dubtitles,,0,0,0,,A harmony of tantalizing flavors, A dynamic\Nduo the likes of Simon and Garfunkel!
-Dialogue: 0,0:08:20.00,0:08:21.65,Dubtitles,,0,0,0,,or even Abbott and Costello.
+Dialogue: 0,0:08:14.32,0:08:16.52,Dubtitles,,0,0,0,,a harmony of tantalizing flavors,
+Dialogue: 0,0:08:16.88,0:08:21.36,Dubtitles,,0,0,0,,a dynamic duo the likes of Simon and\NGarfunkel, or even Abbott and Costello.
 Dialogue: 0,0:08:21.88,0:08:24.56,Dubtitles,,0,0,0,,It's like the writer-illustrator\Nteam Osuo Takamori
 Dialogue: 1,0:08:21.89,0:08:31.61,Note,Note,0,0,0,,Note: Manga about an orphaned young man trying to become a world-champion boxer.
 Dialogue: 1,0:08:21.89,0:08:31.61,Note,Note,0,0,0,,Note: Japanese comic about an orphaned young man trying to become a world-champion boxer.
@@ -534,7 +533,7 @@ Dialogue: 0,0:09:56.87,0:09:59.18,Dubtitles,,0,0,0,,vitamins and minerals of the
 Dialogue: 0,0:09:59.26,0:10:02.14,Dubtitles,,0,0,0,,your thyroid and its\Nmetabolic hormone secretion.
 Dialogue: 0,0:10:02.42,0:10:05.34,Dubtitles,,0,0,0,,The harmful cells are being\Nexpelled as dead skin,
 Dialogue: 0,0:10:05.42,0:10:08.54,Dubtitles,,0,0,0,,which is why you've been overcome\Nwith an itching sensation.
-Dialogue: 0,0:10:08.62,0:10:10.04,Dubtitles,,0,0,0,,Molto Bone, signore.
+Dialogue: 0,0:10:08.62,0:10:10.04,Dubtitles,,0,0,0,,Molto bene, signore.
 Dialogue: 0,0:10:10.20,0:10:11.58,Dubtitles,,0,0,0,,Keep scratching like that.
 Dialogue: 0,0:10:11.66,0:10:15.90,Dubtitles,,0,0,0,,Because at the rate you're going, the\Ndead skin will be gone in no time.
 Dialogue: 0,0:10:21.96,0:10:22.79,Dubtitles,,0,0,0,,Okuyasu!
@@ -573,7 +572,6 @@ Dialogue: 1,0:11:36.05,0:11:36.09,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bor
 Dialogue: 1,0:11:36.09,0:11:36.13,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bord2.18\fscx108.96\fscy108.96\u1\fs50\pos(1411.83,1029.62)}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
 Dialogue: 1,0:11:36.13,0:11:36.17,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bord2.04\fscx102.06\fscy102.06\u1\fs50\pos(1386.54,986.98)}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
 Dialogue: 1,0:11:36.17,0:11:36.21,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bord2\fscx100.03\fscy100.03\u1\fs50\pos(1378.14,974.18)}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
-Dialogue: 1,0:11:36.17,0:11:47.31,Episode 10 Typesetting 4,Sign,0,0,0,,{\move(1378,974,1330,955)\u1\fs50}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
 Dialogue: 1,0:11:36.21,0:11:36.25,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bord2\fscx100\fscy100\u1\fs50\pos(1378,974)}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
 Dialogue: 1,0:11:36.25,0:11:36.30,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bord2\fscx99.97\fscy99.97\u1\fs50\pos(1377.88,973.82)}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
 Dialogue: 1,0:11:36.30,0:11:36.34,Episode 10 Typesetting 4,Sign,0,0,0,,{=6}{\bord2\fscx99.94\fscy99.94\u1\fs50\pos(1377.74,973.64)}Ingredients:{\u0}\N{\fs40}• Spaghetti • Pitted black olives\N• Olive oil • Anchovies \N• Garlic • Red peppers\N• Cherry tomatoes\N•Misc: Parsley, salt, pepper, etc\N•Parmesan cheese\N\N(Best eaten while hot)
@@ -2398,9 +2396,8 @@ Dialogue: 0,0:13:25.08,0:13:25.91,Dubtitles,,0,0,0,,Spicy?
 Dialogue: 0,0:13:25.99,0:13:28.66,Dubtitles,,0,0,0,,You scratched off a\Nsoftball-sized wad of dead skin,
 Dialogue: 0,0:13:28.74,0:13:30.98,Dubtitles,,0,0,0,,and that's after you\Ncried a freaking river.
 Dialogue: 0,0:13:31.06,0:13:32.14,Dubtitles,,0,0,0,,I guess I did.
-Dialogue: 0,0:13:32.38,0:13:35.16,Dubtitles,,0,0,0,,But that time I went to\NShirabu Onsen in Yamagata,
-Dialogue: 0,0:13:35.24,0:13:37.36,Dubtitles,,0,0,0,,I lost even more dead\Nskin than I did today?
-Dialogue: 0,0:13:37.44,0:13:38.74,Dubtitles,,0,0,0,,and my back got better.
+Dialogue: 0,0:13:32.38,0:13:35.16,Dubtitles,,0,0,0,,But that time I went to\NShirabu Onsen in Yamagata.
+Dialogue: 0,0:13:35.24,0:13:38.74,Dubtitles,,0,0,0,,I lost even more dead skin than I\Ndid today and my back got better.
 Dialogue: 0,0:13:38.82,0:13:40.59,Dubtitles,,0,0,0,,It's totally normal, isn't it?
 Dialogue: 0,0:13:41.20,0:13:42.03,Dubtitles,,0,0,0,,Hot!
 Dialogue: 0,0:13:42.18,0:13:43.01,Dubtitles,,0,0,0,,Listen!
@@ -2424,7 +2421,7 @@ Dialogue: 0,0:14:32.22,0:14:33.05,Dubtitles,,0,0,0,,But now...
 Dialogue: 0,0:14:34.90,0:14:36.08,Dubtitles,,0,0,0,,I can't stop!
 Dialogue: 0,0:14:36.30,0:14:39.66,Dubtitles,,0,0,0,,After that first bite, the\Nspice bit back and won't let go!
 Dialogue: 1,0:14:39.60,0:14:50.66,Note,Note,0,0,0,,Note: A festival where beans are thrown to ward off evil spirits,\Nthen each person eats the number of beans corresponding to their age.
-Dialogue: 0,0:14:39.74,0:14:42.30,Dubtitles,,0,0,0,,It's like eating your age\Nin beans during a festival.
+Dialogue: 0,0:14:39.74,0:14:42.30,Dubtitles,,0,0,0,,It's like eating your weight\Nin beans during a festival.
 Dialogue: 0,0:14:42.38,0:14:45.96,Dubtitles,,0,0,0,,And even though they don't taste good,\Nbefore you know it, you've eaten a whole bag!
 Dialogue: 0,0:14:46.04,0:14:47.70,Dubtitles,,0,0,0,,And you don't regret a damn thing,
 Dialogue: 0,0:14:47.78,0:14:50.78,Dubtitles,,0,0,0,,because all you can feel\Nis your body wanting more!
@@ -2477,7 +2474,7 @@ Dialogue: 0,0:18:17.56,0:18:20.21,Dubtitles,,0,0,0,,Okuyasu, wait a sec,\Nwhat a
 Dialogue: 0,0:18:20.64,0:18:24.32,Dubtitles,,0,0,0,,I can't stand it, my stomach\Nhurts, but I can't stop eating.
 Dialogue: 0,0:18:24.64,0:18:27.52,Dubtitles,,0,0,0,,A tangy sweet apple relish\Ncombined with juice from
 Dialogue: 0,0:18:27.60,0:18:31.06,Dubtitles,,0,0,0,,the lambs makes every\Nsingle morsel pure ecstasy.
-Dialogue: 0,0:18:31.68,0:18:34.68,Dubtitles,,0,0,0,,Who knew food could taste\Nthis finger-licking good?
+Dialogue: 0,0:18:31.68,0:18:34.68,Dubtitles,,0,0,0,,Who knew food could taste\Nthis finger licking good?
 Dialogue: 0,0:18:35.06,0:18:37.12,Dubtitles,,0,0,0,,For the love of God, drop the meat.
 Dialogue: 0,0:18:37.36,0:18:39.16,Dubtitles,,0,0,0,,This is the best day ever.
 Dialogue: 0,0:18:39.36,0:18:42.30,Dubtitles,,0,0,0,,It's like a waterfall of\Npleasure washing over me.
@@ -2548,116 +2545,95 @@ Dialogue: 0,0:21:37.48,0:21:38.44,Dubtitles,,0,0,0,,Molte Crazy.
 Dialogue: 1,0:21:40.48,0:21:40.52,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx163.75\fscy148.86\fade(255,0,255,0,1,4049,4050)\c&H060951&\be0.7\fs53.5\pos(964.71,30.37)}TRUSSARDI
 Dialogue: 1,0:21:40.48,0:21:40.57,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-451.8,-376.3)\blur2.5\fscx100\fscy100\p1}m 1225 346 l 1420 324 1618 352 1642 416 1536 414 1386 413 1208 417
 Dialogue: 1,0:21:40.48,0:21:40.57,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,43.142)}m 0 0 l 500 0 500 150 0 150{\p0}
-Dialogue: 1,0:21:40.48,0:21:40.57,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs81\pos(962,46)}TRUSSARDI
 Dialogue: 1,0:21:40.52,0:21:40.57,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx163.75\fscy148.86\fade(255,0,255,-40,-39,4009,4010)\c&H060951&\be0.7\fs53.5\pos(964.71,30.37)}TRUSSARDI
 Dialogue: 1,0:21:40.57,0:21:40.61,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx157.03\fscy142.75\fade(255,0,255,-90,-89,3959,3960)\c&H060951&\be0.7\fs53.5\pos(965.75,62.25)}TRUSSARDI
 Dialogue: 1,0:21:40.57,0:21:40.65,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-413.15,-329.8)\blur2.5\fscx142.74\fscy142.74\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.57,0:21:40.65,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,73.142)}m 0 0 l 500 0 500 67 0 67{\p0}
-Dialogue: 1,0:21:40.57,0:21:40.65,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs77\pos(962,78)}TRUSSARDI
 Dialogue: 1,0:21:40.61,0:21:40.65,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx157.03\fscy142.75\fade(255,0,255,-130,-129,3919,3920)\c&H060951&\be0.7\fs53.5\pos(965.75,62.25)}TRUSSARDI
 Dialogue: 1,0:21:40.65,0:21:40.69,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx150.59\fscy136.9\fade(255,0,255,-170,-169,3879,3880)\c&H060951&\be0.7\fs53.5\pos(965.76,91.46)}TRUSSARDI
 Dialogue: 1,0:21:40.65,0:21:40.73,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-356.62,-284.54)\blur2.5\fscx136.89\fscy136.89\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.65,0:21:40.73,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,101.142)\clip(m 730 58 l 772 48 832 18 1126 36 1180 70 1224 152 666 176)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:40.65,0:21:40.73,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs74\pos(962,107)}TRUSSARDI
 Dialogue: 1,0:21:40.69,0:21:40.73,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx150.6\fscy136.91\fade(255,0,255,-210,-209,3839,3840)\c&H060951&\be0.7\fs53.5\pos(965.76,91.45)}TRUSSARDI
 Dialogue: 1,0:21:40.73,0:21:40.77,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx144.8\fscy131.64\fade(255,0,255,-250,-249,3799,3800)\c&H060951&\be0.7\fs53.5\pos(965.77,117.7)}TRUSSARDI
 Dialogue: 1,0:21:40.73,0:21:40.82,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-305.77,-243.85)\blur2.5\fscx131.63\fscy131.63\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.73,0:21:40.82,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,127.142)\clip(m 752 96 l 806 68 846 44 1118 58 1182 96 1224 152 666 176)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:40.73,0:21:40.82,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs71\pos(962,134)}TRUSSARDI
 Dialogue: 1,0:21:40.77,0:21:40.82,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx144.8\fscy131.64\fade(255,0,255,-290,-289,3759,3760)\c&H060951&\be0.7\fs53.5\pos(965.77,117.69)}TRUSSARDI
 Dialogue: 1,0:21:40.82,0:21:40.86,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-260.56,-207.73)\blur2.5\fscx126.95\fscy126.95\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.82,0:21:40.86,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx139.66\fscy126.97\fade(255,0,255,-340,-339,3709,3710)\c&H060951&\be0.7\fs53.5\pos(965.77,140.97)}TRUSSARDI
 Dialogue: 1,0:21:40.82,0:21:40.90,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,147.142)\clip(m 774 120 l 820 88 862 60 1116 76 1168 126 1224 152 666 176)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:40.82,0:21:40.90,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs69\pos(962,156)}TRUSSARDI
 Dialogue: 1,0:21:40.86,0:21:40.90,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-260.56,-207.74)\blur2.5\fscx126.95\fscy126.95\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.86,0:21:40.90,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx139.66\fscy126.97\fade(255,0,255,-380,-379,3669,3670)\c&H060951&\be0.7\fs53.5\pos(965.77,140.97)}TRUSSARDI
 Dialogue: 1,0:21:40.90,0:21:40.94,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-220.68,-175.92)\blur2.5\fscx122.82\fscy122.82\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.90,0:21:40.94,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx135.12\fscy122.83\fade(255,0,255,-420,-419,3629,3630)\c&H060951&\be0.7\fs53.5\pos(965.78,161.46)}TRUSSARDI
 Dialogue: 1,0:21:40.90,0:21:40.98,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,173.142)\clip(m 786 132 l 838 94 872 78 1100 98 1160 142 1244 228 638 248)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:40.90,0:21:40.98,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs67\pos(962,175)}TRUSSARDI
 Dialogue: 1,0:21:40.94,0:21:40.98,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-220.69,-175.92)\blur2.5\fscx122.82\fscy122.82\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.94,0:21:40.98,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx135.12\fscy122.83\fade(255,0,255,-460,-459,3589,3590)\c&H060951&\be0.7\fs53.5\pos(965.78,161.46)}TRUSSARDI
 Dialogue: 1,0:21:40.98,0:21:41.02,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx131.16\fscy119.23\fade(255,0,255,-500,-499,3549,3550)\c&H060951&\be0.7\fs53.5\pos(965.81,179.36)}TRUSSARDI
 Dialogue: 1,0:21:40.98,0:21:41.07,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-185.83,-148.09)\blur2.5\fscx119.22\fscy119.22\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:40.98,0:21:41.07,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,187.142)\clip(m 798 146 l 856 106 884 86 1100 122 1156 162 1244 228 638 248)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:40.98,0:21:41.07,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs65\pos(962,193)}TRUSSARDI
 Dialogue: 1,0:21:41.02,0:21:41.07,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx131.16\fscy119.23\fade(255,0,255,-540,-539,3509,3510)\c&H060951&\be0.7\fs53.5\pos(965.81,179.36)}TRUSSARDI
 Dialogue: 1,0:21:41.07,0:21:41.11,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx127.7\fscy116.09\fade(255,0,255,-590,-589,3459,3460)\c&H060951&\be0.7\fs53.5\pos(965.82,194.99)}TRUSSARDI
 Dialogue: 1,0:21:41.07,0:21:41.15,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-155.52,-123.85)\blur2.5\fscx116.08\fscy116.08\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.07,0:21:41.15,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,205.142)\clip(m 816 154 l 862 118 896 96 1092 128 1154 182 1212 234 668 252)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.07,0:21:41.15,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs63\pos(962,207)}TRUSSARDI
 Dialogue: 1,0:21:41.11,0:21:41.15,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx127.7\fscy116.09\fade(255,0,255,-630,-629,3419,3420)\c&H060951&\be0.7\fs53.5\pos(965.82,194.99)}TRUSSARDI
 Dialogue: 1,0:21:41.15,0:21:41.19,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-129.07,-102.76)\blur2.5\fscx113.34\fscy113.34\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.15,0:21:41.19,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx124.68\fscy113.35\fade(255,0,255,-670,-669,3379,3380)\c&H060951&\be0.7\fs53.5\pos(965.83,208.56)}TRUSSARDI
 Dialogue: 1,0:21:41.15,0:21:41.23,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,217.142)\clip(m 818 170 l 862 138 898 120 1090 142 1150 196 1186 240 690 258)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.15,0:21:41.23,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs61\pos(962,222)}TRUSSARDI
 Dialogue: 1,0:21:41.19,0:21:41.23,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-129.08,-102.76)\blur2.5\fscx113.34\fscy113.34\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.19,0:21:41.23,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx124.68\fscy113.35\fade(255,0,255,-710,-709,3339,3340)\c&H060951&\be0.7\fs53.5\pos(965.83,208.56)}TRUSSARDI
 Dialogue: 1,0:21:41.23,0:21:41.27,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx122.09\fscy110.99\fade(255,0,255,-750,-749,3299,3300)\c&H060951&\be0.7\fs53.5\pos(965.84,220.32)}TRUSSARDI
 Dialogue: 1,0:21:41.23,0:21:41.32,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-106.16,-84.5)\blur2.5\fscx110.97\fscy110.97\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.23,0:21:41.32,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,225.142)\clip(m 820 186 l 872 148 902 138 1086 156 1148 212 1194 270 704 264)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.23,0:21:41.32,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs60\pos(962,233)}TRUSSARDI
 Dialogue: 1,0:21:41.27,0:21:41.32,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx122.09\fscy110.99\fade(255,0,255,-790,-789,3259,3260)\c&H060951&\be0.7\fs53.5\pos(965.84,220.32)}TRUSSARDI
 Dialogue: 1,0:21:41.32,0:21:41.36,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx119.83\fscy108.94\fade(255,0,255,-840,-839,3209,3210)\c&H060951&\be0.7\fs53.5\pos(965.85,230.46)}TRUSSARDI
 Dialogue: 1,0:21:41.32,0:21:41.40,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-86.59,-68.78)\blur2.5\fscx108.95\fscy108.95\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.32,0:21:41.40,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,237.142)\clip(m 826 190 l 882 158 902 146 1084 170 1144 218 1194 270 754 270)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.32,0:21:41.40,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs59\pos(962,243)}TRUSSARDI
 Dialogue: 1,0:21:41.36,0:21:41.40,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx119.83\fscy108.94\fade(255,0,255,-880,-879,3169,3170)\c&H060951&\be0.7\fs53.5\pos(965.85,230.46)}TRUSSARDI
 Dialogue: 1,0:21:41.40,0:21:41.44,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-69.4,-55.17)\blur2.5\fscx107.17\fscy107.17\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.40,0:21:41.44,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx117.92\fscy107.2\fade(255,0,255,-920,-919,3129,3130)\c&H060951&\be0.7\fs53.5\pos(965.87,239.17)}TRUSSARDI
 Dialogue: 1,0:21:41.40,0:21:41.48,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,245.142)\clip(m 834 200 l 890 166 910 156 1082 182 1146 228 1194 270 754 270)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.40,0:21:41.48,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs58\pos(962,252)}TRUSSARDI
 Dialogue: 1,0:21:41.44,0:21:41.48,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-69.39,-55.17)\blur2.5\fscx107.17\fscy107.17\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.44,0:21:41.48,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx117.92\fscy107.2\fade(255,0,255,-960,-959,3089,3090)\c&H060951&\be0.7\fs53.5\pos(965.87,239.17)}TRUSSARDI
 Dialogue: 1,0:21:41.48,0:21:41.53,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-54.84,-43.57)\blur2.5\fscx105.66\fscy105.66\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.48,0:21:41.53,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx116.27\fscy105.7\fade(255,0,255,-1000,-999,3049,3050)\c&H060951&\be0.7\fs53.5\pos(965.88,246.65)}TRUSSARDI
 Dialogue: 1,0:21:41.48,0:21:41.57,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,255.142)\clip(m 824 206 l 896 174 922 162 1082 192 1138 238 1186 306 754 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.48,0:21:41.57,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs57\pos(962,260)}TRUSSARDI
 Dialogue: 1,0:21:41.53,0:21:41.57,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-54.83,-43.57)\blur2.5\fscx105.66\fscy105.66\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.53,0:21:41.57,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx116.27\fscy105.7\fade(255,0,255,-1050,-1049,2999,3000)\c&H060951&\be0.7\fs53.5\pos(965.88,246.65)}TRUSSARDI
 Dialogue: 1,0:21:41.57,0:21:41.61,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx114.85\fscy104.41\fade(255,0,255,-1090,-1089,2959,2960)\c&H060951&\be0.7\fs53.5\pos(965.9,252.98)}TRUSSARDI
 Dialogue: 1,0:21:41.57,0:21:41.65,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-42.45,-33.7)\blur2.5\fscx104.38\fscy104.38\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.57,0:21:41.65,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,259.142)\clip(m 822 218 l 896 174 922 162 1082 192 1138 238 1186 306 754 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.57,0:21:41.65,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs56\pos(962,265)}TRUSSARDI
 Dialogue: 1,0:21:41.61,0:21:41.65,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx114.85\fscy104.41\fade(255,0,255,-1130,-1129,2919,2920)\c&H060951&\be0.7\fs53.5\pos(965.9,252.98)}TRUSSARDI
 Dialogue: 1,0:21:41.65,0:21:41.69,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx113.67\fscy103.34\fade(255,0,255,-1170,-1169,2879,2880)\c&H060951&\be0.7\fs53.5\pos(965.91,258.34)}TRUSSARDI
 Dialogue: 1,0:21:41.65,0:21:41.73,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-32.05,-25.4)\blur2.5\fscx103.31\fscy103.31\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.65,0:21:41.73,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,263.142)\clip(m 826 228 l 898 182 936 164 1084 202 1138 246 1186 306 754 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.65,0:21:41.73,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs55.5\pos(962,271)}TRUSSARDI
 Dialogue: 1,0:21:41.69,0:21:41.73,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx113.67\fscy103.34\fade(255,0,255,-1210,-1209,2839,2840)\c&H060951&\be0.7\fs53.5\pos(965.91,258.34)}TRUSSARDI
 Dialogue: 1,0:21:41.73,0:21:41.78,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-23.38,-18.48)\blur2.5\fscx102.41\fscy102.41\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.73,0:21:41.78,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx112.69\fscy102.44\fade(255,0,255,-1250,-1249,2799,2800)\c&H060951&\be0.7\fs53.5\pos(965.92,262.78)}TRUSSARDI
 Dialogue: 1,0:21:41.73,0:21:41.82,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,267.142)\clip(m 830 232 l 898 182 936 164 1084 208 1138 252 1186 306 754 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.73,0:21:41.82,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs55\pos(962,275)}TRUSSARDI
 Dialogue: 1,0:21:41.78,0:21:41.82,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-23.39,-18.48)\blur2.5\fscx102.41\fscy102.41\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.78,0:21:41.82,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx112.69\fscy102.45\fade(255,0,255,-1300,-1299,2749,2750)\c&H060951&\be0.7\fs53.5\pos(965.92,262.78)}TRUSSARDI
 Dialogue: 1,0:21:41.82,0:21:41.86,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-16.1,-12.81)\blur2.5\fscx101.66\fscy101.66\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.82,0:21:41.86,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx111.86\fscy101.69\fade(255,0,255,-1340,-1339,2709,2710)\c&H060951&\be0.7\fs53.5\pos(965.93,266.42)}TRUSSARDI
 Dialogue: 1,0:21:41.82,0:21:41.90,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,273.142)\clip(m 828 236 l 894 190 936 176 1082 218 1138 258 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.82,0:21:41.90,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs54.5\pos(962,279)}TRUSSARDI
 Dialogue: 1,0:21:41.86,0:21:41.90,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-16.11,-12.81)\blur2.5\fscx101.66\fscy101.66\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.86,0:21:41.90,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx111.86\fscy101.69\fade(255,0,255,-1380,-1379,2669,2670)\c&H060951&\be0.7\fs53.5\pos(965.93,266.42)}TRUSSARDI
 Dialogue: 1,0:21:41.90,0:21:41.94,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-10.56,-8.33)\blur2.5\fscx101.09\fscy101.09\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.90,0:21:41.94,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx111.23\fscy101.12\fade(255,0,255,-1420,-1419,2629,2630)\c&H060951&\be0.7\fs53.5\pos(965.94,269.32)}TRUSSARDI
 Dialogue: 1,0:21:41.90,0:21:41.98,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,275.142)\clip(m 830 238 l 900 190 956 176 1082 218 1138 258 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.90,0:21:41.98,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs54\pos(962,282)}TRUSSARDI
 Dialogue: 1,0:21:41.94,0:21:41.98,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-10.58,-8.33)\blur2.5\fscx101.09\fscy101.09\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.94,0:21:41.98,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx111.23\fscy101.12\fade(255,0,255,-1460,-1459,2589,2590)\c&H060951&\be0.7\fs53.5\pos(965.94,269.32)}TRUSSARDI
 Dialogue: 1,0:21:41.98,0:21:42.03,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx110.75\fscy100.68\fade(255,0,255,-1500,-1499,2549,2550)\c&H060951&\be0.7\fs53.5\pos(965.96,271.55)}TRUSSARDI
 Dialogue: 1,0:21:41.98,0:21:42.07,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-6.23,-4.88)\blur2.5\fscx100.64\fscy100.64\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:41.98,0:21:42.07,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,275.142)\clip(m 830 238 l 900 190 956 176 1082 218 1138 258 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:41.98,0:21:42.07,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs53.5\pos(962,285)}TRUSSARDI
 Dialogue: 1,0:21:42.03,0:21:42.07,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx110.75\fscy100.68\fade(255,0,255,-1550,-1549,2499,2500)\c&H060951&\be0.7\fs53.5\pos(965.96,271.55)}TRUSSARDI
 Dialogue: 1,0:21:42.07,0:21:42.11,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-3,-2.37)\blur2.5\fscx100.31\fscy100.31\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.07,0:21:42.11,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx110.37\fscy100.34\fade(255,0,255,-1590,-1589,2459,2460)\c&H060951&\be0.7\fs53.5\pos(965.97,273.14)}TRUSSARDI
 Dialogue: 1,0:21:42.07,0:21:42.15,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.07,0:21:42.15,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\be0.3\fs53.5\pos(962,287)}TRUSSARDI
 Dialogue: 1,0:21:42.11,0:21:42.15,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-3.01,-2.37)\blur2.5\fscx100.31\fscy100.31\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.11,0:21:42.15,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx110.37\fscy100.34\fade(255,0,255,-1630,-1629,2419,2420)\c&H060951&\be0.7\fs53.5\pos(965.97,273.13)}TRUSSARDI
 Dialogue: 1,0:21:42.15,0:21:42.19,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-0.99,-0.78)\blur2.5\fscx100.1\fscy100.1\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.15,0:21:42.19,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx110.16\fscy100.14\fade(255,0,255,-1670,-1669,2379,2380)\c&H060951&\be0.7\fs53.5\pos(965.99,274.16)}TRUSSARDI
 Dialogue: 1,0:21:42.15,0:21:42.36,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\p1\be0.3\pos(980,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.15,0:21:42.36,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H050C4C&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.19,0:21:42.23,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(-1,-0.78)\blur2.5\fscx100.1\fscy100.1\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.19,0:21:42.23,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx110.16\fscy100.14\fade(255,0,255,-1710,-1709,2339,2340)\c&H060951&\be0.7\fs53.5\pos(965.99,274.16)}TRUSSARDI
 Dialogue: 1,0:21:42.23,0:21:42.28,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\an7\pos(0,0)\blur2.5\fscx100\fscy100\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
@@ -2669,55 +2645,42 @@ Dialogue: 1,0:21:42.32,0:21:42.36,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{
 Dialogue: 1,0:21:42.36,0:21:42.40,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&H82E4E4&\an7\pos(0.28,0.09)\blur2.5\fscx99.97\fscy99.97\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.36,0:21:42.40,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.99\fscy99.99\fade(255,0,255,-1880,-1879,2169,2170)\be0.7\fs53.5\pos(965.99,274.66)\c&H13195B&}TRUSSARDI
 Dialogue: 1,0:21:42.36,0:21:42.40,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&H82E4E4&\p1\be0.3\pos(980,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.36,0:21:42.40,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H161D5D&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.40,0:21:42.44,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&H85E5E4&\an7\pos(0.46,0.15)\blur2.5\fscx99.95\fscy99.95\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.40,0:21:42.44,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.98\fscy99.98\fade(255,0,255,-1920,-1919,2129,2130)\be0.7\fs53.5\pos(965.99,274.64)\c&H171F5E&}TRUSSARDI
 Dialogue: 1,0:21:42.40,0:21:42.44,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&H85E5E4&\p1\be0.3\pos(980,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.40,0:21:42.44,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H1C2260&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.44,0:21:42.48,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&H8DE5E7&\an7\pos(0.63,0.2)\blur2.5\fscx99.93\fscy99.93\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.44,0:21:42.48,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.97\fscy99.98\fade(255,0,255,-1960,-1959,2089,2090)\be0.7\fs53.5\pos(965.99,274.63)\c&H1B2461&}TRUSSARDI
 Dialogue: 1,0:21:42.44,0:21:42.48,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&H8DE5E7&\p1\be0.3\pos(980,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.44,0:21:42.48,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H212563&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.48,0:21:42.53,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&H93E5E7&\an7\pos(0.79,0.24)\blur2.5\fscx99.92\fscy99.92\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.48,0:21:42.53,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.98\fscy99.98\fade(255,0,255,-2000,-1999,2049,2050)\be0.7\fs53.5\pos(965.98,274.61)\c&H1F2964&}TRUSSARDI
 Dialogue: 1,0:21:42.48,0:21:42.53,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&H93E5E7&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.48,0:21:42.53,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H272E6C&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.53,0:21:42.57,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&H99E6EA&\an7\pos(0.95,0.28)\blur2.5\fscx99.9\fscy99.9\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.53,0:21:42.57,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.97\fscy99.97\fade(255,0,255,-2050,-2049,1999,2000)\be0.7\fs53.5\pos(965.97,274.61)\c&H232F67&}TRUSSARDI
 Dialogue: 1,0:21:42.53,0:21:42.57,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&H99E6EA&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.53,0:21:42.57,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H2B306B&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.57,0:21:42.61,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HA0E6EB&\an7\pos(1.13,0.33)\blur2.5\fscx99.88\fscy99.88\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.57,0:21:42.61,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.98\fscy99.98\fade(255,0,255,-2090,-2089,1959,1960)\be0.7\fs53.5\pos(965.97,274.6)\c&H28346B&}TRUSSARDI
 Dialogue: 1,0:21:42.57,0:21:42.61,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HA0E6EB&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.57,0:21:42.61,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H30376F&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.61,0:21:42.65,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HA7E8EE&\an7\pos(1.25,0.37)\blur2.5\fscx99.86\fscy99.86\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.61,0:21:42.65,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.98\fscy99.98\fade(255,0,255,-2130,-2129,1919,1920)\be0.7\fs53.5\pos(965.96,274.58)\c&H2C3A6E&}TRUSSARDI
 Dialogue: 1,0:21:42.61,0:21:42.65,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HA7E8EE&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.61,0:21:42.65,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H353C72&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.65,0:21:42.69,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HACE8EE&\an7\pos(1.44,0.42)\blur2.5\fscx99.84\fscy99.84\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.65,0:21:42.69,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.96\fscy99.96\fade(255,0,255,-2170,-2169,1879,1880)\be0.7\fs53.5\pos(965.93,274.56)\c&H303F71&}TRUSSARDI
 Dialogue: 1,0:21:42.65,0:21:42.69,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HACE8EE&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.65,0:21:42.69,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H3A4275&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.69,0:21:42.73,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HB2E8EF&\an7\pos(1.53,0.45)\blur2.5\fscx99.83\fscy99.83\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.69,0:21:42.73,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.97\fscy99.97\fade(255,0,255,-2210,-2209,1839,1840)\be0.7\fs53.5\pos(965.92,274.55)\c&H344474&}TRUSSARDI
 Dialogue: 1,0:21:42.69,0:21:42.73,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HB2E8EF&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.69,0:21:42.73,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H3E4779&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.73,0:21:42.78,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HB7E8F0&\an7\pos(1.66,0.49)\blur2.5\fscx99.82\fscy99.82\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.73,0:21:42.78,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.97\fscy99.97\fade(255,0,255,-2250,-2249,1799,1800)\be0.7\fs53.5\pos(965.92,274.54)\c&H384A77&}TRUSSARDI
 Dialogue: 1,0:21:42.73,0:21:42.78,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HB7E8F0&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.73,0:21:42.78,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H424C7C&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.78,0:21:42.82,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HBEE7F2&\an7\pos(1.77,0.53)\blur2.5\fscx99.81\fscy99.81\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.78,0:21:42.82,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.98\fscy99.99\fade(255,0,255,-2300,-2299,1749,1750)\be0.7\fs53.5\pos(965.92,274.54)\c&H3D4F7B&}TRUSSARDI
 Dialogue: 1,0:21:42.78,0:21:42.82,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HBEE7F2&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.78,0:21:42.82,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H465180&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.82,0:21:42.86,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HC5EAF4&\an7\pos(1.81,0.53)\blur2.5\fscx99.8\fscy99.8\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.82,0:21:42.86,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.98\fscy99.98\fade(255,0,255,-2340,-2339,1709,1710)\be0.7\fs53.5\pos(965.91,274.53)\c&H41557E&}TRUSSARDI
 Dialogue: 1,0:21:42.82,0:21:42.86,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HC5EAF4&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.82,0:21:42.86,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H4A5583&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.86,0:21:42.90,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.97\fscy99.97\fade(255,0,255,-2380,-2379,1669,1670)\1c&H455A81&\be0.7\fs53.5\pos(965.9,274.52)}TRUSSARDI
 Dialogue: 1,0:21:42.86,0:21:44.53,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{=29}{\1c&HC9EAF5&\an7\pos(1.88,0.53)\blur2.5\fscx99.8\fscy99.8\p1}m 835 236 l 968 221 1103 240 1114 280 1045 279 944 278 829 282
 Dialogue: 1,0:21:42.86,0:21:44.53,Episode 10 Typesetting 3back,Eyecatch,0,0,0,,{\1c&HC9EAF5&\p1\be0.3\pos(977.714,279.142)\clip(m 834 238 l 906 190 964 176 1076 222 1138 266 1166 308 770 304)}m 0 0 l 500 0 500 64 0 64{\p0}
-Dialogue: 1,0:21:42.86,0:21:44.53,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{\1c&H475784&\be0.3\fs53.5\pos(962,288)}TRUSSARDI
 Dialogue: 1,0:21:42.90,0:21:42.94,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.96\fscy99.97\fade(255,0,255,-2420,-2419,1629,1630)\1c&H455A81&\be0.7\fs53.5\pos(965.9,274.51)}TRUSSARDI
 Dialogue: 1,0:21:42.94,0:21:42.98,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.96\fscy99.96\fade(255,0,255,-2460,-2459,1589,1590)\1c&H455A81&\be0.7\fs53.5\pos(965.9,274.5)}TRUSSARDI
 Dialogue: 1,0:21:42.98,0:21:43.03,Episode 10 Typesetting 3,Eyecatch,0,0,0,,{=4}{\fscx109.96\fscy99.96\fade(255,0,255,-2500,-2499,1549,1550)\1c&H455A81&\be0.7\fs53.5\pos(965.91,274.49)}TRUSSARDI
@@ -2791,102 +2754,78 @@ Dialogue: 1,0:21:46.15,0:21:49.03,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:21:46.15,0:21:49.03,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0)\fscx100\fscy100\be0.2\frz57.56\pos(1297.673,536.491)}POTENTIAL
 Dialogue: 1,0:21:46.32,0:21:46.45,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}P
 Dialogue: 2,0:21:46.32,0:21:46.45,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}P
-Dialogue: 1,0:21:46.32,0:21:46.45,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}P
 Dialogue: 1,0:21:46.45,0:21:46.57,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}Pea
 Dialogue: 2,0:21:46.45,0:21:46.57,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}Pea
-Dialogue: 1,0:21:46.45,0:21:46.57,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}Pea
 Dialogue: 1,0:21:46.57,0:21:46.70,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}Pear
 Dialogue: 2,0:21:46.57,0:21:46.70,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}Pear
-Dialogue: 1,0:21:46.57,0:21:46.70,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}Pear
 Dialogue: 1,0:21:46.70,0:21:46.86,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}Pearl
 Dialogue: 2,0:21:46.70,0:21:46.86,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}Pearl
-Dialogue: 1,0:21:46.70,0:21:46.86,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}Pearl
 Dialogue: 1,0:21:46.86,0:21:46.99,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}Pearl J
 Dialogue: 2,0:21:46.86,0:21:46.99,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}Pearl J
-Dialogue: 1,0:21:46.86,0:21:46.99,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}Pearl J
 Dialogue: 1,0:21:46.99,0:21:47.11,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}Pearl Ja
 Dialogue: 2,0:21:46.99,0:21:47.11,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}Pearl Ja
-Dialogue: 1,0:21:46.99,0:21:47.11,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}Pearl Ja
 Dialogue: 1,0:21:47.11,0:21:49.03,Eyecatch - Left,Signtop,0,0,0,,{\blur0.6\pos(1556,355)\c&H15181B&}Pearl Jam
 Dialogue: 2,0:21:47.11,0:21:49.03,Eyecatch - Left,Signtop,0,0,0,,{\bord0\blur0.6\pos(1556,355)\shad1.5\4a&HFF&}Pearl Jam
-Dialogue: 1,0:21:47.11,0:21:49.03,Eyecatch - Left,Signtop,0,0,0,,{\pos(1556,355)}Pearl Jam
 Dialogue: 1,0:21:47.57,0:21:47.61,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}To
 Dialogue: 2,0:21:47.57,0:21:47.61,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}To
-Dialogue: 1,0:21:47.57,0:21:47.61,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}To
 Dialogue: 1,0:21:47.61,0:21:47.66,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Ton
 Dialogue: 2,0:21:47.61,0:21:47.66,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Ton
-Dialogue: 1,0:21:47.61,0:21:47.66,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Ton
 Dialogue: 1,0:21:47.66,0:21:47.70,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Toni
 Dialogue: 2,0:21:47.66,0:21:47.70,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Toni
-Dialogue: 1,0:21:47.66,0:21:47.70,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Toni
 Dialogue: 1,0:21:47.70,0:21:47.74,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio
 Dialogue: 2,0:21:47.70,0:21:47.74,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio
-Dialogue: 1,0:21:47.70,0:21:47.74,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio
 Dialogue: 1,0:21:47.70,0:21:49.03,Eyecatch - Stats - Episode 10,sign bot,0,0,0,,{\an7\fad(300,0)\pos(48,31)}Power: E \NSpeed: C \NRange: B \NDurability: A \NPrecision: E \NGrowth Potential: C
 Dialogue: 1,0:21:47.74,0:21:47.78,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio T
 Dialogue: 2,0:21:47.74,0:21:47.78,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio T
-Dialogue: 1,0:21:47.74,0:21:47.78,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio T
 Dialogue: 1,0:21:47.78,0:21:47.86,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio Tr
 Dialogue: 2,0:21:47.78,0:21:47.86,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio Tr
-Dialogue: 1,0:21:47.78,0:21:47.86,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio Tr
 Dialogue: 1,0:21:47.86,0:21:47.91,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio Tru
 Dialogue: 2,0:21:47.86,0:21:47.91,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio Tru
-Dialogue: 1,0:21:47.86,0:21:47.91,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio Tru
 Dialogue: 1,0:21:47.91,0:21:47.95,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio Trus
 Dialogue: 2,0:21:47.91,0:21:47.95,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio Trus
-Dialogue: 1,0:21:47.91,0:21:47.95,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio Trus
 Dialogue: 1,0:21:47.95,0:21:47.99,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio Truss
 Dialogue: 2,0:21:47.95,0:21:47.99,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio Truss
-Dialogue: 1,0:21:47.95,0:21:47.99,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio Truss
 Dialogue: 1,0:21:47.99,0:21:48.03,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio Trussar
 Dialogue: 2,0:21:47.99,0:21:48.03,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio Trussar
-Dialogue: 1,0:21:47.99,0:21:48.03,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio Trussar
 Dialogue: 1,0:21:48.03,0:21:49.03,Eyecatch - Right,Signbot,0,0,0,,{\blur0.6\pos(81,794)\c&H11151A&}Tonio Trussardi
 Dialogue: 2,0:21:48.03,0:21:49.03,Eyecatch - Right,Signbot,0,0,0,,{\bord0\blur0.6\pos(81,794)\shad1.5\4a&HFF&}Tonio Trussardi
-Dialogue: 1,0:21:48.03,0:21:49.03,Eyecatch - Left,Signbot,0,0,0,,{\pos(81,794)}Tonio Trussardi
 Dialogue: 0,0:21:56.80,0:21:59.94,Dubtitles,,0,0,0,,Unless I'm mistaken, you're Jotaro Kujo.
 Dialogue: 0,0:22:00.16,0:22:02.22,Dubtitles,,0,0,0,,I'm with the Speedwagon Foundation.
 Dialogue: 0,0:22:04.08,0:22:05.82,Dubtitles,,0,0,0,,Until you hear otherwise,
-Dialogue: 0,0:22:05.90,0:22:09.42,Dubtitles,,0,0,0,,any electrical wiring including\Nphone lines poses a threat
+Dialogue: 0,0:22:05.90,0:22:09.42,Dubtitles,,0,0,0,,Any electrical wiring including\Nphone lines poses a threat.
 Dialogue: 0,0:22:09.50,0:22:12.62,Dubtitles,,0,0,0,,and that's why I've come to\Ndeliver this message in person.
 Dialogue: 0,0:22:12.70,0:22:18.74,Dubtitles,,0,0,0,,At noon tomorrow I expect to\Narrive in the port of Morioh.
 Dialogue: 0,0:22:23.96,0:22:26.08,Dubtitles,,0,0,0,,Joseph Joestar
 Dialogue: 1,0:22:51.93,0:22:54.31,ED Lyrics,,0,0,0,,{\fad(100,100)}Any time I need to see your face, I just close my eyes
-Dialogue: 0,0:22:52.00,0:22:54.42,Dubtitles,,0,0,0,,Anytime I need to see a\Nface, it has closed my eyes.
+Dialogue: 0,0:22:52.00,0:22:53.40,Dubtitles,,0,0,0,,Anytime I need to see a face,
+Dialogue: 0,0:22:53.48,0:22:55.46,Dubtitles,,0,0,0,,it has closed my eyes And I am taken to a
 Dialogue: 1,0:22:54.31,0:22:56.56,ED Lyrics,,0,0,0,,{\fad(100,100)}And I am taken to a place where your crystal mind
-Dialogue: 0,0:22:54.50,0:22:56.68,Dubtitles,,0,0,0,,And I am taken to a place\Nwith a crystal mind.
+Dialogue: 0,0:22:55.54,0:22:57.94,Dubtitles,,0,0,0,,place with a crystal\Nmind A magenta feeling,
 Dialogue: 1,0:22:56.56,0:22:59.35,ED Lyrics,,0,0,0,,{\fad(100,100)}And magenta feelings take up shelter in the base of my spine
-Dialogue: 0,0:22:56.76,0:22:59.46,Dubtitles,,0,0,0,,A magenta feeling. Take a\Nshelter in the face of my spine.
+Dialogue: 0,0:22:58.02,0:22:59.86,Dubtitles,,0,0,0,,take a shelter in the face\Nof my spine Straight like
 Dialogue: 1,0:22:59.35,0:23:01.02,ED Lyrics,,0,0,0,,{\fad(100,100)}Sweet like a chic-a-cherry cola
-Dialogue: 0,0:22:59.54,0:23:00.86,Dubtitles,,0,0,0,,Straight like a Chaka cherry cola.
-Dialogue: 0,0:23:00.94,0:23:03.46,Dubtitles,,0,0,0,,I don't need to try to\Nexplain, I just hold on tight.
+Dialogue: 0,0:22:59.94,0:23:02.30,Dubtitles,,0,0,0,,a chicka cherry cola I don't\Nneed to try to explain,
 Dialogue: 1,0:23:01.02,0:23:03.40,ED Lyrics,,0,0,0,,{\fad(100,100)}I don't need to try to explain, I just hold on tight
+Dialogue: 0,0:23:02.38,0:23:04.64,Dubtitles,,0,0,0,,I just hold on tight\NAnd if it happens again,
 Dialogue: 1,0:23:03.40,0:23:05.78,ED Lyrics,,0,0,0,,{\fad(100,100)}And if it happens again, I might move so slightly
-Dialogue: 0,0:23:03.54,0:23:05.80,Dubtitles,,0,0,0,,And if it happens again,\NI'ma move so slightly.
+Dialogue: 0,0:23:04.72,0:23:07.04,Dubtitles,,0,0,0,,I'ma move so slightly To\Nthe arms and the lips and
 Dialogue: 1,0:23:05.78,0:23:08.57,ED Lyrics,,0,0,0,,{\fad(100,100)}To the arms and the lips and the face of the human cannonball
-Dialogue: 0,0:23:05.88,0:23:07.42,Dubtitles,,0,0,0,,To the arms and the lips and the face.
-Dialogue: 0,0:23:07.50,0:23:10.02,Dubtitles,,0,0,0,,To the human kind of all\Nthat I need, I want to.
+Dialogue: 0,0:23:07.12,0:23:09.48,Dubtitles,,0,0,0,,the face To the human kind\Nof all that I need to,
 Dialogue: 1,0:23:08.57,0:23:10.28,ED Lyrics,,0,0,0,,{\fad(100,100)}That I need to, I want to
-Dialogue: 0,0:23:10.10,0:23:12.24,Dubtitles,,0,0,0,,Come and stand a little bit closer.
+Dialogue: 0,0:23:09.56,0:23:13.64,Dubtitles,,0,0,0,,I want to Come and stand a little\Nbit closer Breathe in and get
 Dialogue: 1,0:23:10.28,0:23:12.53,ED Lyrics,,0,0,0,,{\fad(100,100)}Come stand a little bit closer
-Dialogue: 0,0:23:12.32,0:23:14.52,Dubtitles,,0,0,0,,Breathe in and get a bit higher.
 Dialogue: 1,0:23:12.53,0:23:14.87,ED Lyrics,,0,0,0,,{\fad(100,100)}Breathe in and get a bit higher
-Dialogue: 0,0:23:14.60,0:23:18.96,Dubtitles,,0,0,0,,You'll never know what\Nhit you when I get to you.
+Dialogue: 0,0:23:13.72,0:23:19.60,Dubtitles,,0,0,0,,A bit higher. You'll never know\Nwhat hit you when I get to you. Ooh,
 Dialogue: 1,0:23:14.87,0:23:16.49,ED Lyrics,,0,0,0,,{\fad(100,100)}You'll never know what hit you
 Dialogue: 1,0:23:16.49,0:23:19.12,ED Lyrics,,0,0,0,,{\fad(100,100)}When I get to you
-Dialogue: 0,0:23:19.04,0:23:23.26,Dubtitles,,0,0,0,,Ooh, I want you, I don't\Nknow if I need you.
 Dialogue: 1,0:23:19.12,0:23:23.63,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
+Dialogue: 0,0:23:19.68,0:23:23.26,Dubtitles,,0,0,0,,I want you, I don't know if I need you
 Dialogue: 1,0:23:23.63,0:23:27.17,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I'd die to find out
 Dialogue: 0,0:23:24.08,0:23:26.38,Dubtitles,,0,0,0,,Ooh, I got to find you.
-Dialogue: 0,0:23:27.88,0:23:32.26,Dubtitles,,0,0,0,,Ooh, I want you, I don't\Nknow if I need you.
+Dialogue: 0,0:23:27.88,0:23:32.26,Dubtitles,,0,0,0,,Ooh, I want you, I\Ndon't know if I need you
 Dialogue: 1,0:23:28.17,0:23:32.64,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
 Dialogue: 1,0:23:32.64,0:23:36.01,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I would die to find out
-Dialogue: 0,0:23:33.10,0:23:35.60,Dubtitles,,0,0,0,,Ooh, I got to find you.
-Dialogue: 1,0:23:39.98,0:23:41.14,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(326,780)}Re
-Dialogue: 1,0:23:39.98,0:23:41.14,Next Episode Title,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(392,780)}d
-Dialogue: 1,0:23:39.98,0:23:41.14,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(670,780)}Hot Ch
-Dialogue: 1,0:23:39.98,0:23:41.14,Next Episode Title,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(845,780)}ili
-Dialogue: 1,0:23:39.98,0:23:41.14,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(1318,780)}Pepper Part 1
+Dialogue: 0,0:23:33.10,0:23:35.60,Dubtitles,,0,0,0,,Ooh, I got to find you
 Dialogue: 1,0:23:39.98,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(306,780)}Re
 Dialogue: 1,0:23:39.98,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an1\fad(350,0)\be25\pos(372,780)}d
 Dialogue: 1,0:23:39.98,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(650,780)}Hot Ch
@@ -2895,68 +2834,35 @@ Dialogue: 1,0:23:39.98,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0
 Dialogue: 1,0:23:39.98,0:23:43.02,Next Episode,sign,0,0,0,,{\fad(350,0)\be25\pos(325,250)}Episode 11
 Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,780)\fs142\1c&H0D0C0F&}d
 Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,780)\fs142\1c&H0C0F10&}ili
-Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,780)\fs142\1c&H0D0C0F&}d
-Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,780)\fs142\1c&H0C0F10&}ili
 Dialogue: 1,0:23:41.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(306,780)}Re
 Dialogue: 1,0:23:41.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(650,780)}Hot Ch
 Dialogue: 1,0:23:41.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1308,780)}Pepper, Part 1
-Dialogue: 1,0:23:41.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(326,780)}Re
-Dialogue: 1,0:23:41.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(670,780)}Hot Ch
-Dialogue: 1,0:23:41.14,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an2\be25\pos(1318,780)}Pepper Part 1
 Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,780)\fs144\1c&H0E0D1B&}d
 Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,780)\fs144\1c&H0B0C1C&}ili
-Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,780)\fs144\1c&H0E0D1B&}d
-Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,780)\fs144\1c&H0B0C1C&}ili
 Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,780.5)\fs146\1c&H0C0F21&}d
 Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,780.5)\fs146\1c&H0D1028&}ili
-Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,780.5)\fs146\1c&H0C0F21&}d
-Dialogue: 1,0:23:41.23,0:23:41.27,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,780.5)\fs146\1c&H0D1028&}ili
 Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,781)\fs148\1c&H0D0E25&}d
 Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,781)\fs148\1c&H0B102B&}ili
-Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,781)\fs148\1c&H0D0E25&}d
-Dialogue: 1,0:23:41.27,0:23:41.31,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,781)\fs148\1c&H0B102B&}ili
 Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,782)\fs150\1c&H0B0F33&}d
 Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,782)\fs150\1c&H111242&}ili
-Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,782)\fs150\1c&H0B0F33&}d
-Dialogue: 1,0:23:41.31,0:23:41.35,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,782)\fs150\1c&H111242&}ili
 Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,782.5)\fs152\1c&H0C113F&}d
 Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,782.5)\fs152\1c&H0E1248&}ili
-Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,782.5)\fs152\1c&H0C113F&}d
-Dialogue: 1,0:23:41.35,0:23:41.39,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,782.5)\fs152\1c&H0E1248&}ili
 Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,783)\fs154\1c&H081548&}d
 Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,783)\fs154\1c&H0E1556&}ili
-Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,783)\fs154\1c&H081548&}d
-Dialogue: 1,0:23:41.39,0:23:41.44,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,783)\fs154\1c&H0E1556&}ili
 Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,783.5)\fs156\1c&H0D1556&}d
 Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,783.5)\fs156\1c&H0D1464&}ili
-Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,783.5)\fs156\1c&H0D1556&}d
-Dialogue: 1,0:23:41.44,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,783.5)\fs156\1c&H0D1464&}ili
 Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,784)\fs158\1c&H0B1563&}d
 Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,784)\fs158\1c&H0C1673&}ili
-Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,784)\fs158\1c&H0B1563&}d
-Dialogue: 1,0:23:41.48,0:23:41.52,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,784)\fs158\1c&H0C1673&}ili
 Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,784.5)\fs160\1c&H0F1870&}d
 Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,784.5)\fs160\1c&H0A177E&}ili
-Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,784.5)\fs160\1c&H0F1870&}d
-Dialogue: 1,0:23:41.52,0:23:41.56,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,784.5)\fs160\1c&H0A177E&}ili
 Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,785)\fs162\1c&H091777&}d
 Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,785)\fs162\1c&H0B1890&}ili
-Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,785)\fs162\1c&H091777&}d
-Dialogue: 1,0:23:41.56,0:23:41.60,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,785)\fs162\1c&H0B1890&}ili
 Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,785.5)\fs164\1c&H091881&}d
 Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,785.5)\fs164\1c&H0B1999&}ili
-Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,785.5)\fs164\1c&H091881&}d
-Dialogue: 1,0:23:41.60,0:23:41.64,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,785.5)\fs164\1c&H0B1999&}ili
 Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,786)\fs166\1c&H0C188B&}d
 Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,786)\fs166\1c&H0B19A4&}ili
-Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,786)\fs166\1c&H0C188B&}d
-Dialogue: 1,0:23:41.64,0:23:41.69,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,786)\fs166\1c&H0B19A4&}ili
 Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,786.5)\fs168\1c&H051993&}d
 Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,786.5)\fs168\1c&H0B19AC&}ili
-Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,786.5)\fs168\1c&H051993&}d
-Dialogue: 1,0:23:41.69,0:23:41.73,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,786.5)\fs168\1c&H0B19AC&}ili
 Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(372,787)\fs170\1c&H091996&}d
 Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(825,787)\fs170\1c&H081ABB&}ili
-Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(392,787)\fs170\1c&H091996&}d
-Dialogue: 1,0:23:41.73,0:23:43.02,Next Episode Title,sign,0,0,0,,{\an1\be25\pos(845,787)\fs170\1c&H081ABB&}ili
 

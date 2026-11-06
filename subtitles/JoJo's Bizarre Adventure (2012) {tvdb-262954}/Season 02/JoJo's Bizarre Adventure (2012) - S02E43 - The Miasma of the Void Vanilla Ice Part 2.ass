@@ -44,7 +44,7 @@ Style: SFXPurple3,Shaky Hand Some Comic,120,&H00570B55,&H000000FF,&H000E1617,&H0
 Style: SFXReddish,Evil Green Plant,130,&H004200B8,&H000000FF,&H001A1323,&H00120D28,-1,0,0,0,100,100,0,0,1,7,3,9,50,40,20,1
 Style: SFX Red,Shaky Hand Some Comic,150,&H001400A2,&H000000FF,&H00070B18,&H00000000,-1,0,0,0,130,100,0,0,1,6,0,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00080710,&H000000FF,&H00000000,&H87181548,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,7 +60,7 @@ Dialogue: 0,0:00:30.36,0:00:34.78,Dubtitles,,0,0,0,,as I scatter your atomic fra
 Dialogue: 0,0:00:41.34,0:00:42.66,Dubtitles,,0,0,0,,It can't be!
 Dialogue: 0,0:00:43.66,0:00:45.32,Dubtitles,,0,0,0,,I don't believe you!
 Dialogue: 0,0:00:46.06,0:00:47.06,Dubtitles,,0,0,0,,Avdol's not dead!
-Dialogue: 0,0:00:48.62,0:00:50.54,Dubtitles,,0,0,0,,Don't you lie to me!
+Dialogue: 0,0:00:48.62,0:00:50.54,Dubtitles,,0,0,0,,Don't fucking lie to me!
 Dialogue: 0,0:00:53.50,0:00:54.33,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:00:55.14,0:00:57.46,Dubtitles,,0,0,0,,I never would have\Nimagined Polareth's stand
 Dialogue: 0,0:00:57.54,0:00:59.82,Dubtitles,,0,0,0,,could attack this\Nswiftly from so far away.
@@ -96,45 +96,42 @@ Dialogue: 2,0:01:07.13,0:01:07.17,SFX Red,1,0,0,0,,{=21}{\blur0.9\bord0\fscx129.
 Dialogue: 1,0:01:07.17,0:01:07.21,SFX Red,1,0,0,0,,{=21}{\blur0.9\bord6\fscx130\fscy100\frz22.69\pos(569.86,308.29)\c&H070B18&}Stab
 Dialogue: 2,0:01:07.17,0:01:07.21,SFX Red,1,0,0,0,,{=21}{\blur0.9\bord0\fscx130\fscy100\frz22.69\pos(569.86,308.29)\4a&HFF&}Stab
 Dialogue: 1,0:01:18.47,0:01:21.31,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,952.999)}Seeking out...
-Dialogue: 0,0:01:34.34,0:01:35.50,Dubtitles,,0,0,0,,I'll see you
+Dialogue: 0,0:01:34.34,0:01:35.50,Dubtitles,,0,0,0,,I'll see you.
 Dialogue: 0,0:01:35.58,0:01:42.58,Dubtitles,,0,0,0,,next
 Dialogue: 0,0:01:48.04,0:01:48.87,Dubtitles,,0,0,0,,time.
 Dialogue: 0,0:01:52.78,0:01:55.36,Dubtitles,,0,0,0,,It's coming to the end of the battle.
-Dialogue: 0,0:01:56.86,0:02:00.02,Dubtitles,,0,0,0,,I'm going to hit the video of the world!
-Dialogue: 0,0:02:00.10,0:02:02.74,Dubtitles,,0,0,0,,Stop it now!
-Dialogue: 0,0:02:05.28,0:02:07.40,Dubtitles,,0,0,0,,It's the beginning of the story.
-Dialogue: 0,0:02:07.48,0:02:09.56,Dubtitles,,0,0,0,,I'm going to take the moment.
-Dialogue: 0,0:02:09.64,0:02:11.92,Dubtitles,,0,0,0,,I'm going to continue to go.
-Dialogue: 0,0:02:12.00,0:02:14.90,Dubtitles,,0,0,0,,I'm going to continue to go. Crusaders.
-Dialogue: 0,0:02:16.70,0:02:21.56,Dubtitles,,0,0,0,,The last page of the last page.
-Dialogue: 0,0:02:21.64,0:02:26.26,Dubtitles,,0,0,0,,And please land on the end of the war.
-Dialogue: 0,0:02:29.96,0:02:32.58,Dubtitles,,0,0,0,,July Lloyd.
-Dialogue: 0,0:02:32.66,0:02:36.66,Dubtitles,,0,0,0,,July Lloyd.
-Dialogue: 0,0:02:39.46,0:02:40.86,Dubtitles,,0,0,0,,Else version.
+Dialogue: 0,0:01:56.86,0:02:02.74,Dubtitles,,0,0,0,,I'm going to hit the video\Nof the world. Stop it now!
+Dialogue: 0,0:02:05.28,0:02:09.56,Dubtitles,,0,0,0,,It's the beginning of the story.\NI'm going to take the moment.
+Dialogue: 0,0:02:09.64,0:02:14.90,Dubtitles,,0,0,0,,I'm going to continue to go. I'm\Ngoing to continue to go Crusaders.
+Dialogue: 0,0:02:16.70,0:02:23.46,Dubtitles,,0,0,0,,The last page, the last\Npage! Take it away!
+Dialogue: 0,0:02:24.52,0:02:27.78,Dubtitles,,0,0,0,,It's the end of the world...
+Dialogue: 0,0:02:27.86,0:02:31.64,Dubtitles,,0,0,0,,You have my memory...
+Dialogue: 0,0:02:38.92,0:02:39.75,Dubtitles,,0,0,0,,Olaaaaaa!
 Dialogue: 1,0:02:47.02,0:02:52.19,Title 3,title,0,0,0,,{\fad(650,689)\pos(135,858)}Episode 43: The Miasma of the Void, Cool Ice, Part 2
-Dialogue: 0,0:02:49.10,0:02:52.40,Dubtitles,,0,0,0,,All right, now I'm sure\Nsomething fishy's going on.
-Dialogue: 0,0:02:52.62,0:02:55.88,Dubtitles,,0,0,0,,Ever since we escaped the Mirage,\NI've heard the sounds of a battle.
-Dialogue: 0,0:02:55.96,0:02:56.79,Dubtitles,,0,0,0,,Blast it!
-Dialogue: 0,0:02:56.87,0:02:58.70,Dubtitles,,0,0,0,,Avdol and Polareff are out there.
-Dialogue: 0,0:03:03.40,0:03:04.40,Dubtitles,,0,0,0,,Damn that guy!
-Dialogue: 0,0:03:04.70,0:03:07.52,Dubtitles,,0,0,0,,I know I hit the bastard, but\Nit wasn't enough to kill him.
-Dialogue: 0,0:03:07.60,0:03:10.78,Dubtitles,,0,0,0,,He just swallowed himself again\Nso he could hide in that abyss.
-Dialogue: 0,0:03:10.86,0:03:12.60,Dubtitles,,0,0,0,,Damn that guy in his stand!
-Dialogue: 0,0:03:21.26,0:03:23.46,Dubtitles,,0,0,0,,Avdol, how could you do that?
-Dialogue: 0,0:03:23.72,0:03:26.64,Dubtitles,,0,0,0,,How could you break the\None rule you gave us?
-Dialogue: 0,0:03:27.14,0:03:30.08,Dubtitles,,0,0,0,,Bulldoreff, Iggy, you have\Nto get out of here now!
+Dialogue: 0,0:02:48.04,0:02:48.87,Dubtitles,,0,0,0,,Huh?!
+Dialogue: 0,0:02:49.20,0:02:52.40,Dubtitles,,0,0,0,,Alright, now I'm sure\Nsomething fishy is going on.
+Dialogue: 0,0:02:52.58,0:02:55.86,Dubtitles,,0,0,0,,Ever since we escaped the Mirage,\NI've heard the sounds of a battle.
+Dialogue: 0,0:02:55.94,0:02:56.77,Dubtitles,,0,0,0,,Blast it!
+Dialogue: 0,0:02:56.86,0:02:58.86,Dubtitles,,0,0,0,,Avdol and Polnareff are out there!
+Dialogue: 0,0:03:03.38,0:03:04.38,Dubtitles,,0,0,0,,Damn that guy!
+Dialogue: 0,0:03:04.68,0:03:07.52,Dubtitles,,0,0,0,,I know I hit the bastard, but\Nit wasn't enough to kill him!
+Dialogue: 0,0:03:07.60,0:03:10.96,Dubtitles,,0,0,0,,He just swallowed himself again\Nso he could hide in that abyss!
+Dialogue: 0,0:03:11.04,0:03:12.69,Dubtitles,,0,0,0,,Damn that guy and his stand!
+Dialogue: 0,0:03:21.26,0:03:23.48,Dubtitles,,0,0,0,,Avdol, how could you do that?
+Dialogue: 0,0:03:23.74,0:03:26.66,Dubtitles,,0,0,0,,How could you break the\None rule you gave us?
+Dialogue: 0,0:03:27.14,0:03:30.02,Dubtitles,,0,0,0,,Polnareff, Iggy, you have\Nto get out of here now!
 Dialogue: 0,0:03:30.34,0:03:32.98,Dubtitles,,0,0,0,,You told us we had to watch our own backs!
-Dialogue: 0,0:03:33.22,0:03:36.28,Dubtitles,,0,0,0,,That you wouldn't save us\Neven if we were in danger!
+Dialogue: 0,0:03:33.20,0:03:36.26,Dubtitles,,0,0,0,,That you wouldn't save us\Neven if we were in danger!
 Dialogue: 0,0:03:36.76,0:03:37.80,Dubtitles,,0,0,0,,You liar!
-Dialogue: 0,0:03:40.02,0:03:42.32,Dubtitles,,0,0,0,,You've been meddling in\Nother people's business
-Dialogue: 0,0:03:42.40,0:03:45.04,Dubtitles,,0,0,0,,ever since the moment\Nwe set foot in India!
-Dialogue: 0,0:03:45.90,0:03:46.94,Dubtitles,,0,0,0,,Dammit, Avdol!
-Dialogue: 0,0:03:47.18,0:03:51.53,Dubtitles,,0,0,0,,Why couldn't you just leave me alone\Nand mind your own freaking business?!
-Dialogue: 0,0:03:53.74,0:03:56.90,Dubtitles,,0,0,0,,If I hadn't ducked, I'd\Nbe a dead man right now!
-Dialogue: 0,0:03:57.80,0:04:00.24,Dubtitles,,0,0,0,,It's like fate is telling me to carry on!
-Dialogue: 0,0:04:00.56,0:04:03.85,Dubtitles,,0,0,0,,This must be Avdol's way of\Nknocking some sense into me!
-Dialogue: 0,0:04:18.22,0:04:20.04,Dubtitles,,0,0,0,,It's way too dangerous in here.
-Dialogue: 0,0:04:20.78,0:04:21.78,Dubtitles,,0,0,0,,Let's move, Iggy!
+Dialogue: 0,0:03:40.00,0:03:42.34,Dubtitles,,0,0,0,,You've been meddling in\Nother people's business
+Dialogue: 0,0:03:42.42,0:03:45.04,Dubtitles,,0,0,0,,ever since the moment\Nwe set foot in India!
+Dialogue: 0,0:03:45.74,0:03:46.94,Dubtitles,,0,0,0,,Damn it, Avdol!
+Dialogue: 0,0:03:47.20,0:03:51.55,Dubtitles,,0,0,0,,Why couldn't you just leave me alone\Nand mind your own freaking business?!
+Dialogue: 0,0:03:53.78,0:03:56.90,Dubtitles,,0,0,0,,If I hadn't ducked, I'd\Nbe a dead man right now!
+Dialogue: 0,0:03:57.84,0:04:00.25,Dubtitles,,0,0,0,,It's like fate is telling me to carry on!
+Dialogue: 0,0:04:00.60,0:04:03.89,Dubtitles,,0,0,0,,This must be Avdol's way of\Nknocking some sense into me!
+Dialogue: 0,0:04:18.18,0:04:20.00,Dubtitles,,0,0,0,,It's way too dangerous in here!
+Dialogue: 0,0:04:20.74,0:04:21.74,Dubtitles,,0,0,0,,Let's get moving!
 Dialogue: 1,0:04:30.20,0:04:30.29,SFX,2,0,0,0,,{\be10\frz8.983\pos(956.37,599.15)}Zshoom {For this release I wanted something different for Cream and The Hand's void attack without it being "Bam" or "Boom", and the CR subs use Gwar or something like that which isnt even a direct romanization and sounds kinda stupid. I like this so I'll keep it}
 Dialogue: 1,0:04:30.29,0:04:30.33,SFX,2,0,0,0,,{\be10\frz8.983\pos(1041.28,569.12)\c&HF12C95&}Zshoom {For this release I wanted something different for Cream and The Hand's void attack without it being "Bam" or "Boom", and the CR subs use Gwar or something like that which isnt even a direct romanization and sounds kinda stupid. I like this so I'll keep it}
 Dialogue: 1,0:04:30.33,0:04:30.37,SFX,2,0,0,0,,{\be10\frz8.983\pos(1043.88,568.75)}Zshoom {For this release I wanted something different for Cream and The Hand's void attack without it being "Bam" or "Boom", and the CR subs use Gwar or something like that which isnt even a direct romanization and sounds kinda stupid. I like this so I'll keep it}
@@ -147,50 +144,50 @@ Dialogue: 1,0:04:30.58,0:04:30.62,SFX,2,0,0,0,,{\be10\frz8.983\pos(1106.91,559.4
 Dialogue: 1,0:04:30.62,0:04:30.66,SFX,2,0,0,0,,{\be10\frz8.983\pos(1112.1,560.22)}Zshoom {For this release I wanted something different for Cream and The Hand's void attack without it being "Bam" or "Boom", and the CR subs use Gwar or something like that which isnt even a direct romanization and sounds kinda stupid. I like this so I'll keep it}
 Dialogue: 1,0:04:30.66,0:04:30.70,SFX,2,0,0,0,,{\be10\frz8.983\pos(1114.33,561.33)}Zshoom {For this release I wanted something different for Cream and The Hand's void attack without it being "Bam" or "Boom", and the CR subs use Gwar or something like that which isnt even a direct romanization and sounds kinda stupid. I like this so I'll keep it}
 Dialogue: 1,0:04:30.70,0:04:30.75,SFX,2,0,0,0,,{\be10\frz8.983\pos(1122.86,538.34)}Zshoom {For this release I wanted something different for Cream and The Hand's void attack without it being "Bam" or "Boom", and the CR subs use Gwar or something like that which isnt even a direct romanization and sounds kinda stupid. I like this so I'll keep it}
-Dialogue: 0,0:04:31.74,0:04:32.76,Dubtitles,,0,0,0,,Come on, Iggy!
-Dialogue: 0,0:04:32.94,0:04:34.52,Dubtitles,,0,0,0,,We have to make it upstairs!
-Dialogue: 0,0:04:34.60,0:04:35.82,Dubtitles,,0,0,0,,Don't fall behind!
-Dialogue: 0,0:04:44.58,0:04:46.54,Dubtitles,,0,0,0,,Look up ahead! It's the exit!
-Dialogue: 0,0:04:46.76,0:04:47.88,Dubtitles,,0,0,0,,We're almost there!
+Dialogue: 0,0:04:31.66,0:04:32.76,Dubtitles,,0,0,0,,Come on, Iggy!
+Dialogue: 0,0:04:32.94,0:04:34.50,Dubtitles,,0,0,0,,We have to make it upstairs!
+Dialogue: 0,0:04:34.58,0:04:35.82,Dubtitles,,0,0,0,,Don't fall behind!
+Dialogue: 0,0:04:45.04,0:04:45.87,Dubtitles,,0,0,0,,Look up ahead!
+Dialogue: 0,0:04:45.95,0:04:46.78,Dubtitles,,0,0,0,,It's the exit!
+Dialogue: 0,0:04:46.87,0:04:47.90,Dubtitles,,0,0,0,,We're almost there!
 Dialogue: 0,0:04:49.36,0:04:52.38,Dubtitles,,0,0,0,,But I won't just turn tail and run away!
-Dialogue: 0,0:04:53.90,0:04:57.84,Dubtitles,,0,0,0,,Avdol sacrificed himself for us, and\NI'll repay that debt no matter what!
-Dialogue: 0,0:04:57.92,0:05:01.82,Dubtitles,,0,0,0,,He believed we had the power to\Nput an end to Dio once and for all!
-Dialogue: 0,0:05:01.90,0:05:04.64,Dubtitles,,0,0,0,,I can't betray his faith\Nin us by letting him down!
-Dialogue: 0,0:05:04.72,0:05:06.01,Dubtitles,,0,0,0,,That is not an option!
-Dialogue: 0,0:05:07.92,0:05:11.68,Dubtitles,,0,0,0,,I refuse to take the easy way\Nout like some common coward!
-Dialogue: 0,0:05:12.10,0:05:14.88,Dubtitles,,0,0,0,,I'm gonna see this fight\Nthrough to the bitter end!
-Dialogue: 0,0:05:14.96,0:05:18.00,Dubtitles,,0,0,0,,The only place I'm running\Nto is Dio's Shadow Den!
-Dialogue: 0,0:05:25.68,0:05:27.82,Dubtitles,,0,0,0,,So up the stairs we go!
-Dialogue: 0,0:05:36.32,0:05:39.10,Dubtitles,,0,0,0,,I expected him to dash out the door.
-Dialogue: 0,0:05:39.84,0:05:40.67,Dubtitles,,0,0,0,,Pity.
-Dialogue: 0,0:05:43.68,0:05:44.51,Dubtitles,,0,0,0,,Impressive.
-Dialogue: 0,0:05:44.74,0:05:46.10,Dubtitles,,0,0,0,,He managed a hit.
+Dialogue: 0,0:04:53.88,0:04:57.84,Dubtitles,,0,0,0,,Avdol sacrificed himself for us, and\NI'll repay that debt no matter what!
+Dialogue: 0,0:04:57.92,0:05:01.76,Dubtitles,,0,0,0,,He believed we had the power to\Nput an end to Dio once and for all!
+Dialogue: 0,0:05:01.84,0:05:04.68,Dubtitles,,0,0,0,,I can't betray his faith\Nin us by letting him down!
+Dialogue: 0,0:05:04.76,0:05:06.05,Dubtitles,,0,0,0,,That is not an option!
+Dialogue: 0,0:05:07.96,0:05:11.66,Dubtitles,,0,0,0,,I refuse to take the easy way\Nout like some common coward!
+Dialogue: 0,0:05:12.14,0:05:14.96,Dubtitles,,0,0,0,,I'm gonna see this fight\Nthrough to the bitter end!
+Dialogue: 0,0:05:15.04,0:05:18.04,Dubtitles,,0,0,0,,The only place I'm running\Nto is Dio's shadow den!
+Dialogue: 0,0:05:25.60,0:05:27.82,Dubtitles,,0,0,0,,So up the stairs we go!
+Dialogue: 0,0:05:36.36,0:05:39.10,Dubtitles,,0,0,0,,I expected him to dash out the door.
+Dialogue: 0,0:05:39.90,0:05:40.73,Dubtitles,,0,0,0,,Pity.
+Dialogue: 0,0:05:43.74,0:05:46.10,Dubtitles,,0,0,0,,Impressive, he managed a hit.
 Dialogue: 0,0:05:46.52,0:05:49.64,Dubtitles,,0,0,0,,It seems Polnareff's mental\Nfortitude gives him the
 Dialogue: 0,0:05:49.72,0:05:53.19,Dubtitles,,0,0,0,,ability to conquer his fears\Nin the face of imminent death.
-Dialogue: 0,0:05:53.30,0:05:56.64,Dubtitles,,0,0,0,,You will soon be joining\NAvdol, rest assured.
-Dialogue: 0,0:05:57.16,0:06:01.69,Dubtitles,,0,0,0,,Your strength pales in comparison to\Nthe harbinger of death that is my stand.
-Dialogue: 0,0:06:03.12,0:06:08.06,Dubtitles,,0,0,0,,If what he says is true, his stand's jaws\Nare the gateway to an alternate dimension.
-Dialogue: 0,0:06:08.20,0:06:10.16,Dubtitles,,0,0,0,,A dark, unimaginable abyss.
-Dialogue: 0,0:06:10.34,0:06:15.22,Dubtitles,,0,0,0,,One that allows him to move through our\Nrealm without leaving any trace of himself.
-Dialogue: 0,0:06:16.82,0:06:18.54,Dubtitles,,0,0,0,,But how does he do it?
-Dialogue: 0,0:06:19.64,0:06:22.17,Dubtitles,,0,0,0,,And how the heck am I\Nsupposed to beat him?
-Dialogue: 0,0:06:29.14,0:06:30.22,Dubtitles,,0,0,0,,Oh, no, no!
-Dialogue: 0,0:06:30.48,0:06:31.46,Dubtitles,,0,0,0,,He's cut us off!
-Dialogue: 0,0:06:33.34,0:06:34.17,Dubtitles,,0,0,0,,He's nearby!
-Dialogue: 0,0:06:34.78,0:06:35.94,Dubtitles,,0,0,0,,But where exactly?
-Dialogue: 0,0:06:36.52,0:06:38.52,Dubtitles,,0,0,0,,Iggy, I need you to watch my back.
-Dialogue: 0,0:06:39.84,0:06:42.31,Dubtitles,,0,0,0,,And don't worry, I'll do the same for you.
-Dialogue: 0,0:06:58.90,0:06:59.73,Dubtitles,,0,0,0,,Okay,
-Dialogue: 0,0:06:59.81,0:07:03.46,Dubtitles,,0,0,0,,if he wants to reach us, then he's going\Nto have to come out of that other realm.
-Dialogue: 0,0:07:03.54,0:07:04.42,Dubtitles,,0,0,0,,This is good.
-Dialogue: 0,0:07:04.72,0:07:07.58,Dubtitles,,0,0,0,,He has to come out from the\Ndark beyond at some point.
-Dialogue: 0,0:07:07.66,0:07:12.01,Dubtitles,,0,0,0,,When he does, I'll take my chance and\Nattack him with everything I've got.
-Dialogue: 0,0:07:12.22,0:07:14.69,Dubtitles,,0,0,0,,Alright, come at me, you demented pinball!
+Dialogue: 0,0:05:53.40,0:05:56.64,Dubtitles,,0,0,0,,You will soon be joining\NAvdol, rest assured.
+Dialogue: 0,0:05:57.18,0:06:01.71,Dubtitles,,0,0,0,,Your strength pales in comparison to\Nthe harbinger of death that is my stand.
+Dialogue: 0,0:06:03.06,0:06:04.64,Dubtitles,,0,0,0,,If what he says is true,
+Dialogue: 0,0:06:05.02,0:06:08.04,Dubtitles,,0,0,0,,his stand's jaws are the gateway\Nto an alternate dimension,
+Dialogue: 0,0:06:08.12,0:06:10.08,Dubtitles,,0,0,0,,a dark unimaginable abyss.
+Dialogue: 0,0:06:10.16,0:06:15.04,Dubtitles,,0,0,0,,One that allows him to move through our\Nrealm without leaving any trace of himself!
+Dialogue: 0,0:06:16.86,0:06:18.54,Dubtitles,,0,0,0,,But how does he do it?
+Dialogue: 0,0:06:19.68,0:06:22.21,Dubtitles,,0,0,0,,And how the heck am I\Nsupposed to beat him?
+Dialogue: 0,0:06:29.08,0:06:30.22,Dubtitles,,0,0,0,,Oh no, no!
+Dialogue: 0,0:06:30.46,0:06:31.44,Dubtitles,,0,0,0,,He's cut us off!
+Dialogue: 0,0:06:33.30,0:06:34.14,Dubtitles,,0,0,0,,He's nearby!
+Dialogue: 0,0:06:34.72,0:06:35.96,Dubtitles,,0,0,0,,But where exactly?
+Dialogue: 0,0:06:36.48,0:06:38.48,Dubtitles,,0,0,0,,Iggy, I need you to watch my back!
+Dialogue: 0,0:06:40.16,0:06:42.63,Dubtitles,,0,0,0,,And don't worry, I'll do the same for you!
+Dialogue: 0,0:06:59.40,0:07:03.52,Dubtitles,,0,0,0,,Okay, if he wants to reach us, then he's\Ngonna have to come out of that other realm.
+Dialogue: 0,0:07:03.60,0:07:04.44,Dubtitles,,0,0,0,,This is good.
+Dialogue: 0,0:07:04.72,0:07:07.34,Dubtitles,,0,0,0,,He has to come out from the\Ndark beyond at some point.
+Dialogue: 0,0:07:07.42,0:07:12.01,Dubtitles,,0,0,0,,But when he does, I'll take my chance\Nand attack him with everything I've got!
+Dialogue: 0,0:07:12.14,0:07:14.58,Dubtitles,,0,0,0,,Alright, come at me you demented pinball!
 Dialogue: 0,0:07:14.88,0:07:16.34,Dubtitles,,0,0,0,,I'll slice you in two!
 Dialogue: 0,0:07:16.62,0:07:19.27,Dubtitles,,0,0,0,,Now I pissed off so my\Nchariot's even faster!
-Dialogue: 0,0:07:19.52,0:07:24.42,Dubtitles,,0,0,0,,I may have lost Avdol, but it'll be a cool\Nday in hell before I let you get away!
-Dialogue: 0,0:07:37.62,0:07:38.86,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:07:39.20,0:07:40.92,Dubtitles,,0,0,0,,He was hiding under my foot!
+Dialogue: 0,0:07:19.50,0:07:24.40,Dubtitles,,0,0,0,,I may have lost Avdol, but it'll be a cool\Nday in hell before I let you get away!
+Dialogue: 0,0:07:37.70,0:07:38.86,Dubtitles,,0,0,0,,What the hell?
+Dialogue: 0,0:07:39.20,0:07:40.88,Dubtitles,,0,0,0,,He was hiding under my foot!
 Dialogue: 0,0:07:41.50,0:07:42.56,Dubtitles,,0,0,0,,Carry up!
 Dialogue: 3,0:07:48.44,0:07:48.48,SFX2,3.1,0,0,0,,{=26}{\blur1\bord3.12\fscx37.39\fscy31.16\frz51.02\pos(571.83,293.46)\c&H350711&}Zshoom
 Dialogue: 4,0:07:48.44,0:07:48.48,SFX2,3.1,0,0,0,,{=26}{\blur1\bord0\fscx37.39\fscy31.16\frz51.02\pos(571.83,293.46)\c&HF951B4&\4a&HFF&}Zshoom
@@ -304,38 +301,35 @@ Dialogue: 3,0:07:49.57,0:07:49.61,SFX2,3.1,0,0,0,,{=26}{\blur1\bord10\fscx120\fs
 Dialogue: 4,0:07:49.57,0:07:49.61,SFX2,3.1,0,0,0,,{=26}{\blur1\bord0\fscx120\fscy100\frz51.02\pos(401.8,580)\4a&HFF&}Zshoom
 Dialogue: 2,0:07:49.57,0:07:49.61,SFX2,3.2,0,0,0,,{=25}{\blur1\bord10\fscx120\fscy100\frz51.02\1a&HFF&\pos(409.8,583.2)\c&H350711&}Zshoom
 Dialogue: 3,0:07:49.57,0:07:49.61,SFX2,3.2,0,0,0,,{=25}{\blur1\bord0\fscx120\fscy100\frz51.02\c&HF7353F&\1a&HFF&\pos(409.8,583.2)\4a&HFF&}Zshoom
-Dialogue: 0,0:07:51.82,0:07:53.10,Dubtitles,,0,0,0,,My foot!
-Dialogue: 0,0:07:53.76,0:07:55.66,Dubtitles,,0,0,0,,Now you can't run away.
-Dialogue: 0,0:07:56.64,0:07:59.80,Dubtitles,,0,0,0,,I got your foot so that\Nyou can't hide anymore.
-Dialogue: 0,0:08:04.10,0:08:05.30,Dubtitles,,0,0,0,,Eat silver!
-Dialogue: 0,0:08:06.14,0:08:07.04,Dubtitles,,0,0,0,,I'll pass.
-Dialogue: 0,0:08:20.92,0:08:21.75,Dubtitles,,0,0,0,,Mr.
-Dialogue: 0,0:08:21.83,0:08:23.39,Dubtitles,,0,0,0,,Joestar, a brawl's underway.
-Dialogue: 0,0:08:23.52,0:08:24.84,Dubtitles,,0,0,0,,Avdol and Polnareff.
-Dialogue: 0,0:08:24.92,0:08:28.44,Dubtitles,,0,0,0,,Sounds like they came in after us and\Nwound up getting themselves into a fight.
+Dialogue: 0,0:07:51.84,0:07:53.10,Dubtitles,,0,0,0,,My foot!
+Dialogue: 0,0:07:53.82,0:07:55.66,Dubtitles,,0,0,0,,Now you can't run away.
+Dialogue: 0,0:07:56.62,0:07:59.78,Dubtitles,,0,0,0,,I got your foot so that\Nyou can't hide anymore.
+Dialogue: 0,0:08:04.10,0:08:05.28,Dubtitles,,0,0,0,,Eat, silver!
+Dialogue: 0,0:08:06.08,0:08:07.00,Dubtitles,,0,0,0,,I'll pass.
+Dialogue: 0,0:08:21.12,0:08:21.95,Dubtitles,,0,0,0,,Mr.
+Dialogue: 0,0:08:22.03,0:08:23.39,Dubtitles,,0,0,0,,Joestar, a brawl's underway.
+Dialogue: 0,0:08:23.64,0:08:24.92,Dubtitles,,0,0,0,,Avdol and Polnareff.
+Dialogue: 0,0:08:25.02,0:08:28.44,Dubtitles,,0,0,0,,Sounds like they came in after us and\Nwound up getting themselves into a fight.
 Dialogue: 0,0:08:28.52,0:08:29.52,Dubtitles,,0,0,0,,Come on, you two!
-Dialogue: 0,0:08:29.74,0:08:31.40,Dubtitles,,0,0,0,,We have to find them ASAP!
-Dialogue: 0,0:08:37.18,0:08:40.26,Dubtitles,,0,0,0,,You've managed to hide\Namid the chaos, Polnareff.
-Dialogue: 0,0:08:41.72,0:08:42.84,Dubtitles,,0,0,0,,How futile.
+Dialogue: 0,0:08:29.76,0:08:31.40,Dubtitles,,0,0,0,,We have to find them ASAP!
+Dialogue: 0,0:08:37.16,0:08:40.24,Dubtitles,,0,0,0,,You've managed to hide\Namid the chaos, Polnareff.
+Dialogue: 0,0:08:41.68,0:08:42.84,Dubtitles,,0,0,0,,How futile.
 Dialogue: 0,0:08:43.14,0:08:45.64,Dubtitles,,0,0,0,,You couldn't have gone\Nfar with that injury.
 Dialogue: 0,0:08:45.72,0:08:48.37,Dubtitles,,0,0,0,,Which means you're hiding\Nbeneath the rubble.
-Dialogue: 0,0:08:52.98,0:08:56.28,Dubtitles,,0,0,0,,By now you must have realized\Nyou're helpless against me.
+Dialogue: 0,0:08:52.94,0:08:56.28,Dubtitles,,0,0,0,,By now you must have realized\Nyou're helpless against me.
 Dialogue: 0,0:08:56.36,0:08:58.42,Dubtitles,,0,0,0,,You shall meet your end by my hand.
-Dialogue: 0,0:08:59.96,0:09:02.88,Dubtitles,,0,0,0,,Now then, where could you be, Polnareff?
-Dialogue: 0,0:09:03.10,0:09:05.32,Dubtitles,,0,0,0,,That's quite the ruckus, Cool Ice.
-Dialogue: 0,0:09:11.72,0:09:12.72,Dubtitles,,0,0,0,,Lord Dio!
-Dialogue: 0,0:09:14.96,0:09:16.40,Dubtitles,,0,0,0,,Please be careful, my lord.
-Dialogue: 0,0:09:16.48,0:09:20.60,Dubtitles,,0,0,0,,I believe Polnareff and that four-legged\NAkira are still hiding nearby.
-Dialogue: 0,0:09:20.68,0:09:22.66,Dubtitles,,0,0,0,,Allow me to handle the situation.
-Dialogue: 0,0:09:22.98,0:09:26.27,Dubtitles,,0,0,0,,You mustn't trouble yourself\Nwith such nonsense, Master.
-Dialogue: 0,0:09:38.66,0:09:40.76,Dubtitles,,0,0,0,,A fake deal made from the fool.
-Dialogue: 0,0:09:41.06,0:09:42.00,Dubtitles,,0,0,0,,We got him.
-Dialogue: 0,0:09:43.40,0:09:47.52,Dubtitles,,0,0,0,,You'd think I'd feel guilty about\Nattacking from behind like a coward.
-Dialogue: 0,0:09:47.72,0:09:49.04,Dubtitles,,0,0,0,,And you'd be wrong.
-Dialogue: 0,0:09:49.12,0:09:51.68,Dubtitles,,0,0,0,,Because you pulled the same shit on Avdol.
-Dialogue: 0,0:09:51.76,0:09:53.62,Dubtitles,,0,0,0,,This is the death you deserve!
-Dialogue: 0,0:09:53.70,0:09:56.14,Dubtitles,,0,0,0,,Now, Iggy, crucify him!
-Dialogue: 0,0:10:06.46,0:10:08.48,Dubtitles,,0,0,0,,Now, Iggy, crucify him!
+Dialogue: 0,0:08:59.88,0:09:02.80,Dubtitles,,0,0,0,,Now then, where could you be, Polnareff?
+Dialogue: 0,0:09:02.88,0:09:05.50,Dubtitles,,0,0,0,,That's quite the ruckus, Cool Ice.
+Dialogue: 0,0:09:11.64,0:09:12.74,Dubtitles,,0,0,0,,Lord Dio!
+Dialogue: 0,0:09:14.88,0:09:16.48,Dubtitles,,0,0,0,,Please be careful, my lord.
+Dialogue: 0,0:09:16.68,0:09:20.68,Dubtitles,,0,0,0,,I believe Polnareff and that four-legged\Nrudin are still hiding nearby.
+Dialogue: 0,0:09:20.76,0:09:22.70,Dubtitles,,0,0,0,,Allow me to handle the situation.
+Dialogue: 0,0:09:23.00,0:09:26.29,Dubtitles,,0,0,0,,You mustn't trouble yourself\Nwith such nonsense, Master.
+Dialogue: 0,0:09:38.66,0:09:44.00,Dubtitles,,0,0,0,,A fake deal made from the\Nfool. We got him, you'd think.
+Dialogue: 0,0:09:44.08,0:09:47.02,Dubtitles,,0,0,0,,i'd feel guilty about attacking\Nfrom behind like a coward
+Dialogue: 0,0:09:47.10,0:09:51.14,Dubtitles,,0,0,0,,and you'd be wrong because\Nyou pulled the same shit on
+Dialogue: 0,0:09:51.22,0:09:56.14,Dubtitles,,0,0,0,,avdol this is the death you\Ndeserve now iggy crucify him
+Dialogue: 0,0:10:06.36,0:10:08.48,Dubtitles,,0,0,0,,Now, Iggy, crucify him!
 Dialogue: 1,0:10:08.08,0:10:08.12,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:10:08.08,0:10:08.12,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:10:08.08,0:10:08.12,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -420,7 +414,7 @@ Dialogue: 1,0:10:08.62,0:10:08.67,Eyecatch Stats 2,,0,0,0,,{\fscx87.85\fscy97.61
 Dialogue: 1,0:10:08.62,0:10:08.67,Eyecatch Stats 2,,0,0,0,,{\fscx87.99\fscy97.77\fade(255,0,255,-540,-140,3380,3380)\be0.8\xshad-3.91\yshad3.91\pos(407.67,1023.83)}DURABILITY
 Dialogue: 1,0:10:08.62,0:10:08.67,Eyecatch Stats 2,,0,0,0,,{\fscx87.35\fscy97.06\fade(255,0,255,-540,-140,3380,3380)\be0.8\xshad-3.88\yshad3.88\pos(136.18,871.12)\frz300.2}PRECISION
 Dialogue: 1,0:10:08.62,0:10:08.67,Eyecatch Stats 2,,0,0,0,,{\fscx87.43\fscy97.14\fade(255,0,255,-540,-140,3380,3380)\be0.8\xshad-3.89\yshad3.89\frz58.59\pos(111.01,529.87)}POTENTIAL
-Dialogue: 0,0:10:08.62,0:10:13.26,Dubtitles,,0,0,0,,Make him pay for what he did End his life\Nin the same merciless way he did Avdol's.
+Dialogue: 0,0:10:08.64,0:10:10.14,Dubtitles,,0,0,0,,Make him pay for what he did.
 Dialogue: 1,0:10:08.67,0:10:08.71,Eyecatch Stats 2,,0,0,0,,{\fscx89.21\fscy99.12\fade(255,0,255,-580,-180,3340,3340)\be0.8\xshad-3.96\yshad3.96\pos(407.93,363.67)}POWER
 Dialogue: 1,0:10:08.67,0:10:08.71,Eyecatch Stats 2,,0,0,0,,{\fscx89.14\fscy99.04\fade(255,0,255,-580,-180,3340,3340)\xshad-3.96\yshad3.96\be0.8\pos(700.5,528.06)\frz302.3}SPEED
 Dialogue: 1,0:10:08.67,0:10:08.71,Eyecatch Stats 2,,0,0,0,,{\fscx88.97\fscy98.85\fade(255,0,255,-580,-180,3340,3340)\xshad-3.95\yshad3.95\be0.8\frz59.07\pos(674.11,871.35)}RANGE
@@ -457,6 +451,7 @@ Dialogue: 3,0:10:10.04,0:10:12.00,Eyecatch1,signtop,0,0,0,,{\bord0\blur0.6\shad2
 Dialogue: 1,0:10:10.13,0:10:10.29,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\pos(1601.4,780.2)\alpha&H80&\3c&HFEFDFE&}Co
 Dialogue: 2,0:10:10.13,0:10:10.29,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\pos(1601.4,780.2)\c&H353239&}Co
 Dialogue: 3,0:10:10.13,0:10:10.29,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\pos(1601.4,780.2)\shad1.5\4a&HFF&}Co
+Dialogue: 0,0:10:10.22,0:10:13.30,Dubtitles,,0,0,0,,End his life in the same\Nmerciless way he did Avdol's.
 Dialogue: 1,0:10:10.29,0:10:10.42,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\pos(1601.4,780.2)\alpha&H80&\3c&HFEFDFE&}Coo
 Dialogue: 2,0:10:10.29,0:10:10.42,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\pos(1601.4,780.2)\c&H353239&}Coo
 Dialogue: 3,0:10:10.29,0:10:10.42,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\pos(1601.4,780.2)\shad1.5\4a&HFF&}Coo
@@ -475,55 +470,54 @@ Dialogue: 3,0:10:10.84,0:10:10.96,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6
 Dialogue: 1,0:10:10.96,0:10:12.00,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\alpha&H80&\3c&HFEFDFE&\pos(1601.4,780.2)}Cool Ice
 Dialogue: 2,0:10:10.96,0:10:12.00,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\c&H353239&\pos(1601.4,780.2)}Cool Ice
 Dialogue: 3,0:10:10.96,0:10:12.00,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\shad1.5\4a&HFF&\pos(1601.4,780.2)}Cool Ice
-Dialogue: 0,0:10:13.34,0:10:14.98,Dubtitles,,0,0,0,,Send him straight to hell!
-Dialogue: 0,0:10:21.14,0:10:23.14,Dubtitles,,0,0,0,,You're kidding! He knows!
-Dialogue: 0,0:10:23.40,0:10:24.28,Dubtitles,,0,0,0,,But how?
-Dialogue: 0,0:10:25.06,0:10:29.12,Dubtitles,,0,0,0,,Because the windows to my left are\Nletting in the light from the sun.
-Dialogue: 0,0:10:29.72,0:10:32.78,Dubtitles,,0,0,0,,Lord Dio would never enter\Nthis room during the day.
-Dialogue: 0,0:10:33.60,0:10:36.54,Dubtitles,,0,0,0,,He'll suffer a thousand\Ndeaths for your deception!
-Dialogue: 0,0:10:37.26,0:10:38.09,Dubtitles,,0,0,0,,Iggy!
-Dialogue: 0,0:10:47.82,0:10:51.35,Dubtitles,,0,0,0,,I made a vow to Lord Dio that\NI would kill you, interlopers.
-Dialogue: 0,0:10:51.66,0:10:53.44,Dubtitles,,0,0,0,,He entrusted me with that honor.
-Dialogue: 0,0:10:53.52,0:10:55.32,Dubtitles,,0,0,0,,Lord Dio is a man of his word.
-Dialogue: 0,0:10:55.52,0:10:58.44,Dubtitles,,0,0,0,,He would never descend to the\Nsecond floor for any reason.
-Dialogue: 0,0:10:58.52,0:11:00.40,Dubtitles,,0,0,0,,No, he's gonna kill Iggy.
-Dialogue: 0,0:11:00.66,0:11:03.01,Dubtitles,,0,0,0,,He's about to be swallowed by the abyss.
-Dialogue: 0,0:11:03.52,0:11:05.86,Dubtitles,,0,0,0,,Now die, you filthy, pathetic dog.
-Dialogue: 0,0:11:06.98,0:11:10.86,Dubtitles,,0,0,0,,Your incorrigible ruse forced me\Nto destroy Lord Dio's likeness!
-Dialogue: 0,0:11:19.12,0:11:20.84,Dubtitles,,0,0,0,,Did he really just hit him?
-Dialogue: 0,0:11:21.44,0:11:22.92,Dubtitles,,0,0,0,,He didn't use the void.
-Dialogue: 0,0:11:23.12,0:11:25.94,Dubtitles,,0,0,0,,Instead of killing Iggy,\Nhe went in for a punch!
-Dialogue: 0,0:11:28.06,0:11:29.78,Dubtitles,,0,0,0,,Do you know what you've done?
-Dialogue: 0,0:11:30.64,0:11:32.50,Dubtitles,,0,0,0,,I don't care if it was a fake.
-Dialogue: 0,0:11:32.70,0:11:35.78,Dubtitles,,0,0,0,,You forced me to destroy a\Nfigure in the form of Lord Dio.
-Dialogue: 0,0:11:35.86,0:11:37.98,Dubtitles,,0,0,0,,and you must answer for that crime.
+Dialogue: 0,0:10:13.38,0:10:14.98,Dubtitles,,0,0,0,,Send him straight to hell!
+Dialogue: 0,0:10:21.20,0:10:24.28,Dubtitles,,0,0,0,,You're kidding! He knows! But how?
+Dialogue: 0,0:10:25.14,0:10:29.20,Dubtitles,,0,0,0,,Because the windows to my left are\Nletting in the light from the sun.
+Dialogue: 0,0:10:29.50,0:10:32.56,Dubtitles,,0,0,0,,Lord Dio would never enter\Nthis room during the day.
+Dialogue: 0,0:10:33.74,0:10:36.74,Dubtitles,,0,0,0,,You'll suffer a thousand\Ndeaths for your deception.
+Dialogue: 0,0:10:37.34,0:10:38.17,Dubtitles,,0,0,0,,Iggy!
+Dialogue: 0,0:10:47.82,0:10:51.34,Dubtitles,,0,0,0,,I made a vow to Lord Dio that\NI would kill you interlopers.
+Dialogue: 0,0:10:51.68,0:10:53.56,Dubtitles,,0,0,0,,He entrusted me with that honor.
+Dialogue: 0,0:10:53.76,0:10:55.46,Dubtitles,,0,0,0,,Lord Dio's a man of his word.
+Dialogue: 0,0:10:55.54,0:10:58.46,Dubtitles,,0,0,0,,He would never descend to the\Nsecond floor for any reason.
+Dialogue: 0,0:10:58.54,0:10:59.37,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:10:59.45,0:11:00.32,Dubtitles,,0,0,0,,He's gonna kill Iggy!
+Dialogue: 0,0:11:00.40,0:11:02.96,Dubtitles,,0,0,0,,He's about to be swallowed by the abyss!
+Dialogue: 0,0:11:03.50,0:11:05.86,Dubtitles,,0,0,0,,Now die, you filthy, pathetic dog!
+Dialogue: 0,0:11:06.88,0:11:10.88,Dubtitles,,0,0,0,,Your incorrigible ruse forced me\Nto destroy Lord Dio's likeness!
+Dialogue: 0,0:11:18.70,0:11:20.86,Dubtitles,,0,0,0,,Did he really just hit him?
+Dialogue: 0,0:11:21.38,0:11:22.92,Dubtitles,,0,0,0,,He didn't use the void!
+Dialogue: 0,0:11:23.38,0:11:26.20,Dubtitles,,0,0,0,,Instead of killing Iggy,\Nhe went in for a punch!
+Dialogue: 0,0:11:28.00,0:11:29.84,Dubtitles,,0,0,0,,Do you know what you've done?
+Dialogue: 0,0:11:30.62,0:11:32.50,Dubtitles,,0,0,0,,I don't care if it was a fake.
+Dialogue: 0,0:11:32.66,0:11:35.76,Dubtitles,,0,0,0,,You forced me to destroy a\Nfigure in the form of Lord Dio,
+Dialogue: 0,0:11:35.84,0:11:37.98,Dubtitles,,0,0,0,,and you must answer for that crime.
 Dialogue: 0,0:11:39.52,0:11:41.24,Dubtitles,,0,0,0,,Your life is mine now!
 Dialogue: 0,0:11:41.52,0:11:42.99,Dubtitles,,0,0,0,,I will kick you to death!
-Dialogue: 0,0:11:46.92,0:11:49.96,Dubtitles,,0,0,0,,My dark abyss could swallow\Nyou whole in an instant,
-Dialogue: 0,0:11:50.04,0:11:52.57,Dubtitles,,0,0,0,,but a quick death\Nwouldn't satiate my fury.
+Dialogue: 0,0:11:46.92,0:11:49.92,Dubtitles,,0,0,0,,My dark abyss could swallow\Nyou whole in an instant,
+Dialogue: 0,0:11:50.00,0:11:52.53,Dubtitles,,0,0,0,,but a quick death\Nwouldn't satiate my fury.
 Dialogue: 0,0:11:53.70,0:11:56.18,Dubtitles,,0,0,0,,This whole mess, it's all your fault!
-Dialogue: 0,0:11:56.54,0:11:59.07,Dubtitles,,0,0,0,,This is what happens\Nto those who anger me!
-Dialogue: 0,0:11:59.32,0:12:01.18,Dubtitles,,0,0,0,,Have you learned your lesson yet?
-Dialogue: 0,0:12:01.26,0:12:02.22,Dubtitles,,0,0,0,,How about it?
-Dialogue: 0,0:12:02.42,0:12:03.30,Dubtitles,,0,0,0,,Is this better?
-Dialogue: 0,0:12:08.04,0:12:09.80,Dubtitles,,0,0,0,,Stop it! Leave him alone!
+Dialogue: 0,0:11:56.54,0:11:58.86,Dubtitles,,0,0,0,,This is what happens\Nto those who anger me!
+Dialogue: 0,0:11:58.94,0:12:00.88,Dubtitles,,0,0,0,,Have you learned your lesson yet?
+Dialogue: 0,0:12:01.24,0:12:06.78,Dubtitles,,0,0,0,,How about it? Is this better?\NTell me! Is it? Is it? Is it?
+Dialogue: 0,0:12:08.04,0:12:09.82,Dubtitles,,0,0,0,,Stop it! Leave him alone!
 Dialogue: 0,0:12:10.48,0:12:12.72,Dubtitles,,0,0,0,,It's like Cool Ice's brain has melted!
-Dialogue: 0,0:12:13.10,0:12:15.36,Dubtitles,,0,0,0,,Is he really going batshit\Nbecause he destroyed
+Dialogue: 0,0:12:13.20,0:12:15.36,Dubtitles,,0,0,0,,Is he really going batshit\Nbecause he destroyed
 Dialogue: 0,0:12:15.44,0:12:17.73,Dubtitles,,0,0,0,,some pile of sand that looked like Dio?
-Dialogue: 0,0:12:18.44,0:12:21.40,Dubtitles,,0,0,0,,From over here, his\Nsoul is the murky abyss!
-Dialogue: 0,0:12:21.56,0:12:23.60,Dubtitles,,0,0,0,,It's a bottomless black\Nhole that obliterates
+Dialogue: 0,0:12:18.44,0:12:21.40,Dubtitles,,0,0,0,,From over here, his\Nsoul is the murky abyss.
+Dialogue: 0,0:12:21.60,0:12:23.60,Dubtitles,,0,0,0,,It's a bottomless black\Nhole that obliterates
 Dialogue: 0,0:12:23.68,0:12:26.03,Dubtitles,,0,0,0,,any and everything that gets in its way!
-Dialogue: 0,0:12:28.50,0:12:30.28,Dubtitles,,0,0,0,,I was warned about the humans!
-Dialogue: 0,0:12:30.36,0:12:34.60,Dubtitles,,0,0,0,,Lord Days said the Resolve in their\Nhearts must never be underestimated.
-Dialogue: 0,0:12:34.86,0:12:37.84,Dubtitles,,0,0,0,,But you, you're just a flea-bitten stray.
+Dialogue: 0,0:12:28.94,0:12:30.58,Dubtitles,,0,0,0,,I was warned about the humans.
+Dialogue: 0,0:12:30.66,0:12:34.78,Dubtitles,,0,0,0,,Lord Dio said the Resolve in their\Nhearts must never be underestimated.
+Dialogue: 0,0:12:34.86,0:12:37.86,Dubtitles,,0,0,0,,But you, you're just a flea-bitten stray.
 Dialogue: 0,0:12:38.16,0:12:42.16,Dubtitles,,0,0,0,,You've never known Resolve, and you\Ncertainly know nothing of pride.
-Dialogue: 0,0:12:46.18,0:12:47.86,Dubtitles,,0,0,0,,You can't grin at this!
-Dialogue: 0,0:12:48.18,0:12:49.30,Dubtitles,,0,0,0,,Leave him alone!
-Dialogue: 0,0:12:49.66,0:12:51.18,Dubtitles,,0,0,0,,You like that, do you?
-Dialogue: 0,0:12:51.72,0:12:53.00,Dubtitles,,0,0,0,,What did I say?
-Dialogue: 0,0:12:53.24,0:12:55.44,Dubtitles,,0,0,0,,Come on, your suffering's just begun!
-Dialogue: 0,0:12:56.16,0:12:58.34,Dubtitles,,0,0,0,,Cool ice, you're dealing with me now!
-Dialogue: 0,0:13:02.62,0:13:05.02,Dubtitles,,0,0,0,,I'm ending this, Polnareff.
+Dialogue: 0,0:12:46.30,0:12:47.72,Dubtitles,,0,0,0,,Yeah, Grand V!
+Dialogue: 0,0:12:48.02,0:12:49.38,Dubtitles,,0,0,0,,Leave him alone!
+Dialogue: 0,0:12:49.66,0:12:51.20,Dubtitles,,0,0,0,,You like that, do you?
+Dialogue: 0,0:12:51.72,0:12:53.06,Dubtitles,,0,0,0,,What did I say?
+Dialogue: 0,0:12:53.24,0:12:56.38,Dubtitles,,0,0,0,,Come on, your suffering's\Njust begun! Cool ice!
+Dialogue: 0,0:12:56.64,0:12:58.32,Dubtitles,,0,0,0,,You're dealing with me now!
+Dialogue: 0,0:13:02.62,0:13:05.04,Dubtitles,,0,0,0,,I'm ending this, Polnareff.
 Dialogue: 1,0:13:04.22,0:13:04.26,SFXBlue,4,0,0,0,,{\bord8\fscx130\fscy100\frz28.45\pos(1584.4,630)}B{*\c&HF14506&}a{*\c&HF35C09&}n{\c&HF5740D&}g
 Dialogue: 1,0:13:04.26,0:13:04.30,SFXBlue,4,0,0,0,,{\bord8\fscx130\fscy100\frz28.45\pos(1584.4,628.54)}B{*\c&HF14506&}a{*\c&HF35C09&}n{\c&HF5740D&}g
 Dialogue: 1,0:13:04.30,0:13:04.34,SFXBlue,4,0,0,0,,{\bord8.21\fscx133.46\fscy102.66\frz28.45\pos(1591.05,632.95)}B{*\c&HF14506&}a{*\c&HF35C09&}n{\c&HF5740D&}g
@@ -537,34 +531,34 @@ Dialogue: 1,0:13:04.59,0:13:04.63,SFXBlue,4,0,0,0,,{\bord8.28\fscx134.55\fscy103
 Dialogue: 1,0:13:04.63,0:13:04.68,SFXBlue,4,0,0,0,,{\bord8.28\fscx134.62\fscy103.56\frz28.45\pos(1599.96,660.63)}B{*\c&HF14506&}a{*\c&HF35C09&}n{\c&HF5740D&}g
 Dialogue: 1,0:13:04.68,0:13:04.72,SFXBlue,4,0,0,0,,{\bord8.28\fscx134.62\fscy103.56\frz28.45\pos(1601.42,665)}B{*\c&HF14506&}a{*\c&HF35C09&}n{\c&HF5740D&}g
 Dialogue: 0,0:13:12.16,0:13:12.99,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:13:14.70,0:13:15.62,Dubtitles,,0,0,0,,He's gone!
-Dialogue: 0,0:13:16.64,0:13:18.28,Dubtitles,,0,0,0,,But more importantly, Iggy!
-Dialogue: 0,0:13:18.60,0:13:21.22,Dubtitles,,0,0,0,,Our plan to trick Cool Ice\Nmay have fallen through,
-Dialogue: 0,0:13:21.30,0:13:23.56,Dubtitles,,0,0,0,,but your sand might have just saved us.
-Dialogue: 0,0:13:23.64,0:13:26.99,Dubtitles,,0,0,0,,Thanks to you, I think I found\Na way to find the bastard.
-Dialogue: 0,0:13:36.80,0:13:38.33,Dubtitles,,0,0,0,,Yeah, that's him, alright.
-Dialogue: 0,0:13:38.48,0:13:40.13,Dubtitles,,0,0,0,,I can see him moving around.
-Dialogue: 0,0:13:40.54,0:13:43.31,Dubtitles,,0,0,0,,Guess your stand power\Nis a double-edged sword.
-Dialogue: 0,0:13:43.64,0:13:48.30,Dubtitles,,0,0,0,,When you move, your stand has no choice\Nbut to absorb everything in your path.
-Dialogue: 0,0:13:48.84,0:13:52.84,Dubtitles,,0,0,0,,So choke on a mouthful of this and\Nget over here, you piece of shit!
-Dialogue: 0,0:13:53.04,0:13:57.45,Dubtitles,,0,0,0,,As soon as you come out from behind\Nyour stand's putrid teeth to attack me,
+Dialogue: 0,0:13:14.70,0:13:15.60,Dubtitles,,0,0,0,,He's gone!
+Dialogue: 0,0:13:16.68,0:13:18.28,Dubtitles,,0,0,0,,But more importantly, Iggy!
+Dialogue: 0,0:13:18.56,0:13:21.22,Dubtitles,,0,0,0,,Our plan to trick Cool Ice\Nmay have fallen through,
+Dialogue: 0,0:13:21.30,0:13:23.59,Dubtitles,,0,0,0,,but your sand might have just saved us.
+Dialogue: 0,0:13:23.68,0:13:27.03,Dubtitles,,0,0,0,,Thanks to you, I think I found\Na way to find the bastard.
+Dialogue: 0,0:13:36.80,0:13:38.27,Dubtitles,,0,0,0,,Yeah, that's him alright.
+Dialogue: 0,0:13:38.46,0:13:40.11,Dubtitles,,0,0,0,,I can see him moving around.
+Dialogue: 0,0:13:40.56,0:13:43.33,Dubtitles,,0,0,0,,Guess your stand power\Nis a double-edged sword.
+Dialogue: 0,0:13:43.66,0:13:48.30,Dubtitles,,0,0,0,,When you move, your stand has no choice\Nbut to absorb everything in your path.
+Dialogue: 0,0:13:48.86,0:13:52.86,Dubtitles,,0,0,0,,So choke on a mouthful of this and\Nget over here, you piece of shit!
+Dialogue: 0,0:13:53.06,0:13:57.47,Dubtitles,,0,0,0,,As soon as you come out from behind\Nyour stand's putrid teeth to attack me,
 Dialogue: 0,0:13:58.06,0:14:00.76,Dubtitles,,0,0,0,,I'll turn the tables and finish you off!
-Dialogue: 0,0:14:02.30,0:14:04.34,Dubtitles,,0,0,0,,Bullseye, yeah! Eat that!
-Dialogue: 0,0:14:05.18,0:14:06.78,Dubtitles,,0,0,0,,Well, would you look at that.
-Dialogue: 0,0:14:06.86,0:14:08.74,Dubtitles,,0,0,0,,I found your weakness, Cool Ice.
-Dialogue: 0,0:14:09.06,0:14:12.16,Dubtitles,,0,0,0,,Any attempt to pinpoint my\Nlocation leaves you vulnerable,
+Dialogue: 0,0:14:02.30,0:14:04.32,Dubtitles,,0,0,0,,Bullseye, yeah! Eat that!
+Dialogue: 0,0:14:05.18,0:14:06.80,Dubtitles,,0,0,0,,Well, would you look at that.
+Dialogue: 0,0:14:06.88,0:14:08.76,Dubtitles,,0,0,0,,I found your weakness, Cool Ice.
+Dialogue: 0,0:14:08.92,0:14:12.16,Dubtitles,,0,0,0,,Any attempt to pinpoint my\Nlocation leaves you vulnerable,
 Dialogue: 0,0:14:12.24,0:14:15.00,Dubtitles,,0,0,0,,which is probably a tad\Ninconvenient since you can't
 Dialogue: 0,0:14:15.08,0:14:17.96,Dubtitles,,0,0,0,,see me without emerging\Nfrom your dark dimension.
 Dialogue: 0,0:14:18.64,0:14:19.68,Dubtitles,,0,0,0,,It's over!
 Dialogue: 0,0:14:20.06,0:14:23.20,Dubtitles,,0,0,0,,Now suck on my sword and\Nburn in hell, field-a-put!
 Dialogue: 0,0:14:23.54,0:14:25.06,Dubtitles,,0,0,0,,Hurry up and die!
-Dialogue: 0,0:14:33.82,0:14:34.65,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:14:33.84,0:14:34.67,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:14:34.88,0:14:36.46,Dubtitles,,0,0,0,,How are you still alive?
-Dialogue: 0,0:14:36.78,0:14:39.14,Dubtitles,,0,0,0,,I skewered your throat and brainstem!
+Dialogue: 0,0:14:36.80,0:14:39.10,Dubtitles,,0,0,0,,I skew in your throat and brain stem!
 Dialogue: 0,0:14:39.48,0:14:40.90,Dubtitles,,0,0,0,,Would you die already?
-Dialogue: 0,0:14:43.80,0:14:45.68,Dubtitles,,0,0,0,,No way you're getting out of it!
-Dialogue: 0,0:14:45.82,0:14:47.46,Dubtitles,,0,0,0,,Hurry up and die!
-Dialogue: 0,0:14:47.54,0:14:51.28,Dubtitles,,0,0,0,,Stop making me repeat myself! Die! Die!
+Dialogue: 0,0:14:43.82,0:14:45.70,Dubtitles,,0,0,0,,No way you're getting out of it!
+Dialogue: 0,0:14:45.84,0:14:47.50,Dubtitles,,0,0,0,,Hurry up and die!
+Dialogue: 0,0:14:47.58,0:14:51.28,Dubtitles,,0,0,0,,Stop making me repeat myself! Die! Die!
 Dialogue: 0,0:14:54.78,0:14:56.22,Dubtitles,,0,0,0,,I cannot die.
 Dialogue: 0,0:14:56.48,0:14:59.36,Dubtitles,,0,0,0,,My mission is far too\Nimportant to feel any pain.
 Dialogue: 0,0:14:59.58,0:15:01.68,Dubtitles,,0,0,0,,I will not rest until I kill you.
@@ -723,7 +717,7 @@ Dialogue: 0,0:17:30.38,0:17:32.67,Dubtitles,,0,0,0,,why the hell is he devouring
 Dialogue: 0,0:17:36.18,0:17:39.10,Dubtitles,,0,0,0,,Wait a second, I'm starting\Nto think I was all wrong.
 Dialogue: 0,0:17:39.18,0:17:40.24,Dubtitles,,0,0,0,,This isn't random.
 Dialogue: 0,0:17:40.52,0:17:43.29,Dubtitles,,0,0,0,,It was all part of his\Nplan from the beginning.
-Dialogue: 0,0:17:43.58,0:17:45.62,Dubtitles,,0,0,0,,He's been drawing circles around me,
+Dialogue: 0,0:17:43.58,0:17:45.62,Dubtitles,,0,0,0,,He's been drawing circles around me.
 Dialogue: 0,0:17:45.70,0:17:48.70,Dubtitles,,0,0,0,,and with every lap, he's\Ngetting closer and closer!
 Dialogue: 0,0:17:50.02,0:17:53.46,Dubtitles,,0,0,0,,The odds are stacked against\Nme, but I have to do something.
 Dialogue: 0,0:17:53.54,0:17:54.66,Dubtitles,,0,0,0,,He's closing in!
@@ -918,25 +912,22 @@ Dialogue: 0,0:20:24.30,0:20:27.22,Dubtitles,,0,0,0,,If you keep moving or try\Nu
 Dialogue: 0,0:20:27.30,0:20:31.01,Dubtitles,,0,0,0,,your broken ribs will sink deeper\Ninto your lungs and kill you!
 Dialogue: 0,0:20:36.32,0:20:39.09,Dubtitles,,0,0,0,,Hey, you can drop the\Ntough guy act, you idiot!
 Dialogue: 0,0:20:39.18,0:20:43.24,Dubtitles,,0,0,0,,The only thing this will accomplish\Nis you dying right along with me!
-Dialogue: 0,0:20:47.56,0:20:51.94,Dubtitles,,0,0,0,,Just you wait I'm the one who's gonna\Nsave you you have to live on to tell
-Dialogue: 0,0:20:52.02,0:20:56.48,Dubtitles,,0,0,0,,Mr Joestar and the others about this\Nbastard you have to defeat him in my
-Dialogue: 0,0:20:56.56,0:21:02.14,Dubtitles,,0,0,0,,stead Avdol might have saved me but you\Nsure as hell better not if we all die
+Dialogue: 0,0:20:47.56,0:20:51.94,Dubtitles,,0,0,0,,just you wait i'm the one who's gonna\Nsave you you have to live on to tell
+Dialogue: 0,0:20:52.02,0:20:56.48,Dubtitles,,0,0,0,,mr joestar and the others about this\Nbastard you have to defeat him in my
+Dialogue: 0,0:20:56.56,0:21:02.14,Dubtitles,,0,0,0,,stead avdol might have saved me but you\Nsure as hell better not if we all die
 Dialogue: 0,0:21:02.22,0:21:03.74,Dubtitles,,0,0,0,,here then what was the point of this
-Dialogue: 0,0:21:03.82,0:21:10.00,Dubtitles,,0,0,0,,One more loop and it's lights—it's out.
+Dialogue: 0,0:21:03.82,0:21:10.00,Dubtitles,,0,0,0,,One more loop and it's lights. It's out.
 Dialogue: 0,0:21:10.38,0:21:12.04,Dubtitles,,0,0,0,,So it's number three.
 Dialogue: 0,0:21:12.50,0:21:14.58,Dubtitles,,0,0,0,,Life can be a bitch sometimes.
 Dialogue: 0,0:21:16.34,0:21:17.66,Dubtitles,,0,0,0,,We both wanted to win.
 Dialogue: 0,0:21:18.06,0:21:19.84,Dubtitles,,0,0,0,,Guess he wanted it more.
 Dialogue: 0,0:21:25.72,0:21:26.82,Dubtitles,,0,0,0,,Au River, Iggy.
 Dialogue: 0,0:22:45.96,0:22:48.02,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:23:21.48,0:23:25.00,Dubtitles,,0,0,0,,The blood that stings my\Nbody is Avdol's handiwork.
-Dialogue: 0,0:23:25.08,0:23:27.06,Dubtitles,,0,0,0,,I'm not privy to all of the details.
+Dialogue: 0,0:23:21.48,0:23:25.54,Dubtitles,,0,0,0,,The blood that stings my body\Nis Avdol's handiwork. I'm not
+Dialogue: 0,0:23:25.62,0:23:28.78,Dubtitles,,0,0,0,,privy to all of the details\Nyou're right i had some pretty
 Dialogue: 1,0:23:26.50,0:23:28.51,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:27.14,0:23:27.97,Dubtitles,,0,0,0,,You're right.
-Dialogue: 0,0:23:28.05,0:23:29.96,Dubtitles,,0,0,0,,I had some pretty selfless friends, huh?
-Dialogue: 0,0:23:30.04,0:23:31.90,Dubtitles,,0,0,0,,You're not going to defeat me!
-Dialogue: 0,0:23:31.98,0:23:33.84,Dubtitles,,0,0,0,,This is how it always is.
-Dialogue: 0,0:23:33.92,0:23:36.27,Dubtitles,,0,0,0,,I don't get it until after they're gone.
+Dialogue: 0,0:23:28.86,0:23:32.48,Dubtitles,,0,0,0,,selfless friends huh you're\Nnot going to defeat me this
+Dialogue: 0,0:23:32.56,0:23:36.03,Dubtitles,,0,0,0,,is how it always is i don't\Nget it until after they're gone
 Dialogue: 1,0:23:39.52,0:23:41.52,Next Episode,sign,0,0,0,,{\pos(960,145)\fs100.001}Episode 44
 Dialogue: 1,0:23:39.52,0:23:41.52,Next Episode,sign,0,0,0,,{\fs100.001\fscx94\pos(960,424)}The Miasma of the Void
 Dialogue: 1,0:23:39.52,0:23:41.52,Next Episode,sign,0,0,0,,{\pos(960,940.001)\fs100.001\fscx94}Cool Ice, Part 3

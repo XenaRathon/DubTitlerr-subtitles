@@ -50,17 +50,7 @@ Style: SFXRed2,Franc Gothique Brush,170,&H4E5635C2,&H000000FF,&H00262745,&H00000
 Style: SFXFire,LeviNaiveLetter,150,&H0064B7F6,&H000000FF,&H000E0A12,&H00000000,0,0,0,0,130,100,0,0,1,8,0,8,50,40,20,1
 Style: SFXBBB,Rene Levesque,170,&H00A4D342,&H000000FF,&H00214324,&H00000000,-1,0,0,0,110,100,0,0,1,8,0,8,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: RippleSigns,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,2,100,100,45,1
-Style: RippleSigns - 5,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,5,100,100,45,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -68,22 +58,18 @@ Dialogue: 0,0:00:07.72,0:00:10.06,Dubtitles,,0,0,0,,Battle for the Red Stone of 
 Dialogue: 0,0:00:10.30,0:00:16.44,Dubtitles,,0,0,0,,JoJo versus Wamuu in a\None-on-one chariot duel!
 Dialogue: 0,0:00:18.90,0:00:20.82,Dubtitles,,0,0,0,,The time is upon us.
 Dialogue: 0,0:00:21.12,0:00:26.50,Dubtitles,,0,0,0,,When the full moon once again emerges from\Nbehind that cloud, the battle will begin!
-Dialogue: 0,0:00:33.02,0:00:35.44,Dubtitles,,0,0,0,,I wish they wouldn't make all that noise?
-Dialogue: 0,0:00:35.52,0:00:38.26,Dubtitles,,0,0,0,,Why is it that the bad\Nguys get all the fans?
-Dialogue: 0,0:00:38.34,0:00:40.54,Dubtitles,,0,0,0,,One lap is 960 meters.
-Dialogue: 0,0:00:40.62,0:00:45.10,Dubtitles,,0,0,0,,It takes approximately one minute\Nfor these beasts to complete a lap.
-Dialogue: 0,0:00:45.18,0:00:47.00,Dubtitles,,0,0,0,,Do you see that column over there?
-Dialogue: 0,0:00:47.08,0:00:50.90,Dubtitles,,0,0,0,,On each lap a different weapon\Nwill be hanging from it.
-Dialogue: 0,0:00:50.98,0:00:52.28,Dubtitles,,0,0,0,,Weapons.
-Dialogue: 0,0:00:52.36,0:00:55.70,Dubtitles,,0,0,0,,No one.
-Dialogue: 0,0:00:55.78,0:00:56.96,Dubtitles,,0,0,0,,Weapon at at a time.
+Dialogue: 0,0:00:33.02,0:00:37.76,Dubtitles,,0,0,0,,I wish they wouldn't make all that noise.\NWhy is it that the bad guys get all
+Dialogue: 0,0:00:37.84,0:00:43.54,Dubtitles,,0,0,0,,the fans one lap is 960 meters it takes\Napproximately one minute for these
+Dialogue: 0,0:00:43.62,0:00:49.02,Dubtitles,,0,0,0,,beasts to complete a lap do you see\Nthat column over there on each lap a
+Dialogue: 0,0:00:49.10,0:00:50.68,Dubtitles,,0,0,0,,different weapon will be hanging from
+Dialogue: 0,0:00:50.76,0:00:56.68,Dubtitles,,0,0,0,,it weapons no one weapon at at a time.
 Dialogue: 0,0:00:57.28,0:00:59.76,Dubtitles,,0,0,0,,Whichever of us can capture\Nthat column before the
 Dialogue: 0,0:00:59.84,0:01:03.19,Dubtitles,,0,0,0,,other will then have the\Nopportunity to wield the weapon.
 Dialogue: 0,0:01:03.40,0:01:05.40,Dubtitles,,0,0,0,,Do you see the first one up there?
-Dialogue: 0,0:01:05.74,0:01:07.38,Dubtitles,,0,0,0,,It's a giant sledgehammer.
+Dialogue: 0,0:01:05.74,0:01:07.38,Dubtitles,,0,0,0,,It's a giant sledgehammer!
 Dialogue: 0,0:01:11.20,0:01:14.67,Dubtitles,,0,0,0,,That thing could smash right\Nthrough a chariot in one blow.
-Dialogue: 0,0:01:14.82,0:01:19.88,Dubtitles,,0,0,0,,If wamuu was able to get his hands on it,\Nmy situation isn't just going to be bad?
-Dialogue: 0,0:01:20.10,0:01:21.52,Dubtitles,,0,0,0,,it could be terminal.
+Dialogue: 0,0:01:14.82,0:01:17.24,Dubtitles,,0,0,0,,If Wamuu was able to get his hands on it,
+Dialogue: 0,0:01:17.46,0:01:21.52,Dubtitles,,0,0,0,,my situation isn't just going\Nto be bad, it could be terminal.
 Dialogue: 0,0:01:23.26,0:01:25.96,Dubtitles,,0,0,0,,But if I can get to it first,
 Dialogue: 0,0:01:26.20,0:01:30.66,Dubtitles,,0,0,0,,cover it with oil and fill it with\NHamon, then victory will be mine.
 Dialogue: 0,0:01:31.04,0:01:35.86,Dubtitles,,0,0,0,,I am looking forward to an excellent,\Nfulfilling fight from you, Jojo. Get ready.
@@ -137,13 +123,12 @@ Dialogue: 1,0:03:50.66,0:03:56.46,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds
 Dialogue: 1,0:03:56.46,0:04:01.51,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:03:56.46,0:04:01.51,Lyrics OP2 Eng,,0,0,0,,So hold them close
 Dialogue: 1,0:04:06.60,0:04:08.68,Title2,,0,0,0,,{\pos(1330,865)\fscx94\blur1}Episode 22: "A True Warrior" {Toni, Check that the title matches the preview at the end of 21 -Fadeout4}
-Dialogue: 1,0:04:06.60,0:04:08.68,Title2,,0,0,0,,{\pos(1330,865)}Episode 22: "A True Warrior" {Toni, Check that the title matches the preview at the end of 21 -Fadeout4}
 Dialogue: 0,0:04:08.86,0:04:09.69,Dubtitles,,0,0,0,,Hi-yah!
 Dialogue: 0,0:04:12.96,0:04:13.92,Dubtitles,,0,0,0,,What's this now?
-Dialogue: 0,0:04:14.56,0:04:16.36,Dubtitles,,0,0,0,,Lord Wabu is having trouble!
+Dialogue: 0,0:04:14.56,0:04:16.36,Dubtitles,,0,0,0,,Lord Wamuu is having trouble!
 Dialogue: 0,0:04:16.62,0:04:18.68,Dubtitles,,0,0,0,,His chariot is just standing there!
 Dialogue: 0,0:04:19.80,0:04:22.10,Dubtitles,,0,0,0,,Look at that, his wheels are blocked.
-Dialogue: 0,0:04:23.38,0:04:25.08,Dubtitles,,0,0,0,,Jojo, he did this.
+Dialogue: 0,0:04:23.38,0:04:25.08,Dubtitles,,0,0,0,,Jojo, he did this!
 Dialogue: 0,0:04:25.32,0:04:26.78,Dubtitles,,0,0,0,,The cheeky little devil.
 Dialogue: 0,0:04:27.02,0:04:28.06,Dubtitles,,0,0,0,,You bastard!
 Dialogue: 0,0:04:28.40,0:04:32.32,Dubtitles,,0,0,0,,You piled them there while we turned\Nour attention to watching the moon.
@@ -158,9 +143,9 @@ Dialogue: 0,0:04:52.30,0:04:53.13,Dubtitles,,0,0,0,,Yah!
 Dialogue: 0,0:05:00.08,0:05:03.64,Dubtitles,,0,0,0,,The human's getting close\Nto the column! Yah! Get him!
 Dialogue: 0,0:05:03.72,0:05:05.01,Dubtitles,,0,0,0,,Don't let him get him!
 Dialogue: 0,0:05:05.80,0:05:08.21,Dubtitles,,0,0,0,,JoJo will be the first one to the hammer.
-Dialogue: 0,0:05:09.96,0:05:14.72,Dubtitles,,0,0,0,,Yes yes yes yes I can't wait\Nto have you in my grasp.
-Dialogue: 0,0:05:16.52,0:05:22.62,Dubtitles,,0,0,0,,I've got you you're mine damn I'm going\Na lot faster than I thought I was!
-Dialogue: 0,0:05:23.48,0:05:29.00,Dubtitles,,0,0,0,,Now stay there Jojo it snagged\Nmy ring couldn't have predicted
+Dialogue: 0,0:05:09.96,0:05:14.72,Dubtitles,,0,0,0,,Yes! Yes! Yes! Yes! I can't\Nwait to have you in my grasp.
+Dialogue: 0,0:05:16.52,0:05:22.62,Dubtitles,,0,0,0,,i've got you you're mine damn i'm\Ngoing a lot faster than i thought i was
+Dialogue: 0,0:05:23.48,0:05:29.00,Dubtitles,,0,0,0,,now stay there jojo it snagged\Nmy ring couldn't have predicted
 Dialogue: 0,0:05:29.08,0:05:34.12,Dubtitles,,0,0,0,,that great that was lucky now\Nthe The fight is in the bag.
 Dialogue: 0,0:05:34.36,0:05:35.26,Dubtitles,,0,0,0,,I've got this.
 Dialogue: 0,0:05:35.62,0:05:37.04,Dubtitles,,0,0,0,,You can have the hammer.
@@ -170,16 +155,14 @@ Dialogue: 0,0:05:46.56,0:05:47.94,Dubtitles,,0,0,0,,Let me see it now.
 Dialogue: 0,0:05:48.18,0:05:49.53,Dubtitles,,0,0,0,,You're fighting genius.
 Dialogue: 0,0:05:50.70,0:05:53.22,Dubtitles,,0,0,0,,A little oil up here, add some pommel.
 Dialogue: 0,0:05:54.32,0:05:57.44,Dubtitles,,0,0,0,,I've got a little medicine\Nfor you right here, Wamuu.
-Dialogue: 0,0:06:02.72,0:06:04.49,Dubtitles,,0,0,0,,Wamu's starting to lose speed.
-Dialogue: 0,0:06:04.94,0:06:06.24,Dubtitles,,0,0,0,,It's not a race.
-Dialogue: 0,0:06:06.32,0:06:08.28,Dubtitles,,0,0,0,,They are in a fight to the death.
-Dialogue: 0,0:06:08.36,0:06:11.30,Dubtitles,,0,0,0,,The keys to winning are\Ntactics and strategy.
-Dialogue: 0,0:06:11.38,0:06:13.20,Dubtitles,,0,0,0,,The right weaponry.
-Dialogue: 0,0:06:13.28,0:06:15.26,Dubtitles,,0,0,0,,Control of the environment.
-Dialogue: 0,0:06:15.34,0:06:16.88,Dubtitles,,0,0,0,,All right then.
-Dialogue: 0,0:06:16.96,0:06:21.37,Dubtitles,,0,0,0,,I'll just slow down and introduce him\Nto my little friend here, the hammer.
-Dialogue: 0,0:06:22.88,0:06:25.48,Dubtitles,,0,0,0,,Jojo, listen, you mustn't\Nslow down anymore.
-Dialogue: 0,0:06:25.56,0:06:29.50,Dubtitles,,0,0,0,,Since you're the one with the\Nhammer, I'll just get something else.
+Dialogue: 0,0:06:02.72,0:06:04.43,Dubtitles,,0,0,0,,Wamu's starting to lose speed
+Dialogue: 0,0:06:04.94,0:06:09.28,Dubtitles,,0,0,0,,It's not a race. They are in\Na fight to the death. The keys
+Dialogue: 0,0:06:09.36,0:06:13.20,Dubtitles,,0,0,0,,to winning are tactics and\Nstrategy The right weaponry
+Dialogue: 0,0:06:13.28,0:06:17.96,Dubtitles,,0,0,0,,Control of the environment.\NAll right then I'll just
+Dialogue: 0,0:06:18.04,0:06:20.54,Dubtitles,,0,0,0,,slow down and introduce him\Nto my little friend here,
+Dialogue: 0,0:06:20.62,0:06:21.45,Dubtitles,,0,0,0,,The hammer!
+Dialogue: 0,0:06:22.88,0:06:27.58,Dubtitles,,0,0,0,,Jojo, listen, you mustn't slow down anymore\NSince you're the one with the hammer,
+Dialogue: 0,0:06:27.66,0:06:29.37,Dubtitles,,0,0,0,,I'll just get something else.
 Dialogue: 1,0:06:29.99,0:06:30.03,SFXFire,1,0,0,0,,{=16}{\blur1\bord13.9\fscx225.8\fscy173.69\alpha&H00&\frz29.46\pos(1679.53,883.91)\c&H0E0A12&}Crash
 Dialogue: 2,0:06:29.99,0:06:30.03,SFXFire,1,0,0,0,,{=16}{\blur1\bord0\fscx225.8\fscy173.69\alpha&H00&\frz29.46\pos(1679.53,883.91)\4a&HFF&}C{*\c&H549DF4&}r{*\c&H4583F2&}a{*\c&H3669F1&}s{\c&H264FEF&}h
 Dialogue: 1,0:06:30.03,0:06:30.07,SFXFire,1,0,0,0,,{=16}{\blur1\alpha&H00&\frz29.46\pos(1660.63,551.47)\c&H0E0A12&}Crash
@@ -293,8 +276,8 @@ Dialogue: 0,0:08:27.34,0:08:31.28,Dubtitles,,0,0,0,,The hammer's life kept him f
 Dialogue: 0,0:08:31.36,0:08:32.54,Dubtitles,,0,0,0,,How was that?
 Dialogue: 0,0:08:34.90,0:08:39.02,Dubtitles,,0,0,0,,And now for that big hammer\Nwhack you worked so hard to earn.
 Dialogue: 0,0:08:40.62,0:08:41.58,Dubtitles,,0,0,0,,He's gone.
-Dialogue: 0,0:08:42.06,0:08:43.06,Dubtitles,,0,0,0,,Where'd he go?
-Dialogue: 0,0:08:44.30,0:08:48.26,Dubtitles,,0,0,0,,You can clearly see that Wamu\Nis a step ahead of his quarry.
+Dialogue: 0,0:08:42.06,0:08:43.06,Dubtitles,,0,0,0,,Where'd he go?!
+Dialogue: 0,0:08:44.30,0:08:48.26,Dubtitles,,0,0,0,,You can clearly see that Wamuu\Nis a step ahead of his quarry.
 Dialogue: 0,0:08:52.04,0:08:53.20,Dubtitles,,0,0,0,,Wait, that's right!
 Dialogue: 0,0:08:53.44,0:08:56.73,Dubtitles,,0,0,0,,These fellas can hide themselves\Ninside other creatures!
 Dialogue: 0,0:08:59.24,0:09:00.07,Dubtitles,,0,0,0,,Ha-ha!
@@ -309,12 +292,12 @@ Dialogue: 0,0:09:18.06,0:09:20.41,Dubtitles,,0,0,0,,Now let's take a look at you
 Dialogue: 0,0:09:21.18,0:09:24.58,Dubtitles,,0,0,0,,Wamu, your own power has trapped\Nyou inside of that horse.
 Dialogue: 0,0:09:24.66,0:09:26.02,Dubtitles,,0,0,0,,That's not very lucky.
 Dialogue: 0,0:09:28.86,0:09:30.58,Dubtitles,,0,0,0,,And here we go.
-Dialogue: 0,0:09:31.00,0:09:35.20,Dubtitles,,0,0,0,,A little hum on for you and the\Nhorse you rode in on. You fool.
+Dialogue: 0,0:09:31.00,0:09:35.20,Dubtitles,,0,0,0,,A little Hamon for you and the\Nhorse you rode in on. You fool.
 Dialogue: 0,0:09:35.44,0:09:36.79,Dubtitles,,0,0,0,,You don't see the trap.
 Dialogue: 0,0:09:37.32,0:09:38.30,Dubtitles,,0,0,0,,Careful, Jojo.
 Dialogue: 0,0:09:38.56,0:09:40.85,Dubtitles,,0,0,0,,You need to keep an arm's leg from him.
-Dialogue: 0,0:09:44.84,0:09:48.58,Dubtitles,,0,0,0,,Now that Wamuu has merged with that\Nhorse, he's free to use his hands!
-Dialogue: 0,0:09:48.66,0:09:51.13,Dubtitles,,0,0,0,,without worrying about vibration or speed.
+Dialogue: 0,0:09:44.84,0:09:47.20,Dubtitles,,0,0,0,,Now that Whamu has merged with that horse,
+Dialogue: 0,0:09:47.28,0:09:51.34,Dubtitles,,0,0,0,,he's free to use his hands without\Nworrying about vibration or speed.
 Dialogue: 0,0:09:51.52,0:09:52.68,Dubtitles,,0,0,0,,Which means, then...
 Dialogue: 0,0:09:52.76,0:09:55.58,Dubtitles,,0,0,0,,No one has survived a\Ndirect hit by that attack.
 Dialogue: 0,0:09:55.86,0:09:56.86,Dubtitles,,0,0,0,,Caesar couldn't.
@@ -405,17 +388,17 @@ Dialogue: 1,0:10:04.54,0:10:04.58,SFXRed,2,0,0,0,,{=20}{\blur0.8\alpha&H00&\frz2
 Dialogue: 2,0:10:04.54,0:10:04.58,SFXRed,2,0,0,0,,{=20}{\bord0\blur0.8\alpha&H00&\frz20.48\pos(804.24,634.22)\4a&HFF&}Whoosh {In preview for last episode}
 Dialogue: 0,0:10:19.58,0:10:22.46,Dubtitles,,0,0,0,,Even if it lasted only the\Ndistance of half a lap,
 Dialogue: 0,0:10:22.54,0:10:25.72,Dubtitles,,0,0,0,,it was a battle filled with\Nmany twists and surprises.
-Dialogue: 0,0:10:26.50,0:10:30.46,Dubtitles,,0,0,0,,But in the end, Wamu proved the\Nsuperiority of both his thinking?
-Dialogue: 0,0:10:30.54,0:10:32.04,Dubtitles,,0,0,0,,and his fighting prowess.
+Dialogue: 0,0:10:26.50,0:10:27.72,Dubtitles,,0,0,0,,But in the end,
+Dialogue: 0,0:10:27.84,0:10:32.19,Dubtitles,,0,0,0,,Wamu proved the superiority of both\Nhis thinking and his fighting prowess.
 Dialogue: 0,0:10:34.70,0:10:38.23,Dubtitles,,0,0,0,,I think the next battle is going\Nto be quite a test of will.
 Dialogue: 0,0:10:38.96,0:10:41.78,Dubtitles,,0,0,0,,Truly, it is not my\Npreference to fight a woman.
-Dialogue: 0,0:10:42.44,0:10:44.48,Dubtitles,,0,0,0,,Wamu dislikes it even more.
+Dialogue: 0,0:10:42.44,0:10:44.48,Dubtitles,,0,0,0,,Wamuu dislikes it even more.
 Dialogue: 0,0:10:45.82,0:10:49.46,Dubtitles,,0,0,0,,Notwithstanding, all users of\NHamon must be done away with.
 Dialogue: 0,0:10:51.86,0:10:52.80,Dubtitles,,0,0,0,,Drink that.
-Dialogue: 0,0:10:53.00,0:10:57.42,Dubtitles,,0,0,0,,It will provide a painless death thanks
+Dialogue: 0,0:10:53.00,0:10:57.42,Dubtitles,,0,0,0,,It will provide a painless death. Thanks.
 Dialogue: 0,0:10:57.50,0:11:00.02,Dubtitles,,0,0,0,,that's quite considerate\Nof you but Jojo seems
 Dialogue: 0,0:11:00.10,0:11:01.92,Dubtitles,,0,0,0,,to be a little less dead than you thought
-Dialogue: 0,0:11:02.00,0:11:05.64,Dubtitles,,0,0,0,,huh Lord course look\Nout there in the arena
+Dialogue: 0,0:11:02.00,0:11:05.64,Dubtitles,,0,0,0,,Huh, Lord Kars! Look\Nout there in the arena!
 Dialogue: 0,0:11:08.94,0:11:10.22,Dubtitles,,0,0,0,,It can't be
 Dialogue: 0,0:11:10.90,0:11:14.84,Dubtitles,,0,0,0,,Lord Wamu's arms They look\Nlike they're about to fall off
 Dialogue: 0,0:11:19.84,0:11:20.67,Dubtitles,,0,0,0,,Madness
@@ -431,10 +414,10 @@ Dialogue: 0,0:11:47.98,0:11:48.81,Dubtitles,,0,0,0,,Directly?
 Dialogue: 0,0:11:49.84,0:11:53.66,Dubtitles,,0,0,0,,Jojo was cunning enough to make\Nit look like it was a direct hit.
 Dialogue: 0,0:11:53.74,0:11:57.30,Dubtitles,,0,0,0,,He is an absolute genius at\Ntrickery and misdirection.
 Dialogue: 0,0:11:57.54,0:12:00.83,Dubtitles,,0,0,0,,But I'm not sure I should be\Ngiving him praise for that.
-Dialogue: 0,0:12:01.92,0:12:04.50,Dubtitles,,0,0,0,,Take a close look at Wamuu's arms.
+Dialogue: 0,0:12:01.92,0:12:04.50,Dubtitles,,0,0,0,,Take a closer look at Wamuu's arms.
 Dialogue: 0,0:12:07.44,0:12:09.44,Dubtitles,,0,0,0,,Oh, wait, now I see.
 Dialogue: 0,0:12:12.80,0:12:16.98,Dubtitles,,0,0,0,,He wrapped the reins around Wamuu's\Narms after filling them with Hamon.
-Dialogue: 0,0:12:18.02,0:12:20.82,Dubtitles,,0,0,0,,Wamuu's divine sandstorm\Nwas short-circuited.
+Dialogue: 0,0:12:18.02,0:12:20.82,Dubtitles,,0,0,0,,Wamuu's Divine Sandstorm was crippled!
 Dialogue: 0,0:12:21.62,0:12:24.50,Dubtitles,,0,0,0,,Wamuu was already sticking\None hand out of the horse.
 Dialogue: 0,0:12:24.58,0:12:27.24,Dubtitles,,0,0,0,,He was going to try to\Nuse his divine sandstorm.
 Dialogue: 0,0:12:27.32,0:12:31.28,Dubtitles,,0,0,0,,However, in order to do so, I knew he'd\Nhave to stick his other hand out too.
@@ -444,12 +427,12 @@ Dialogue: 0,0:12:36.86,0:12:38.72,Dubtitles,,0,0,0,,He's in agony! See that?
 Dialogue: 0,0:12:38.94,0:12:41.04,Dubtitles,,0,0,0,,He doesn't seem to know where he's going!
 Dialogue: 0,0:12:41.12,0:12:42.30,Dubtitles,,0,0,0,,His eyes are vacant!
 Dialogue: 0,0:12:42.44,0:12:43.52,Dubtitles,,0,0,0,,What should we do?
-Dialogue: 0,0:12:43.96,0:12:45.50,Dubtitles,,0,0,0,,It's the second lap!
+Dialogue: 0,0:12:43.96,0:12:45.50,Dubtitles,,0,0,0,,It's lap two!
 Dialogue: 0,0:12:45.82,0:12:47.41,Dubtitles,,0,0,0,,But what's going to happen?
-Dialogue: 0,0:12:47.66,0:12:50.14,Dubtitles,,0,0,0,,Lord Wamu can't hold a weapon like that!
+Dialogue: 0,0:12:47.66,0:12:50.14,Dubtitles,,0,0,0,,Lord Wham can't hold a weapon like that!
 Dialogue: 0,0:12:50.44,0:12:52.78,Dubtitles,,0,0,0,,Is it even possible for him to fight?
-Dialogue: 0,0:12:53.08,0:12:54.56,Dubtitles,,0,0,0,,It's not a surprise.
-Dialogue: 0,0:12:55.36,0:12:59.82,Dubtitles,,0,0,0,,Right in mid-attack, Wamu was\Nstruck with a lethal dose of Homo.
+Dialogue: 0,0:12:53.08,0:12:54.56,Dubtitles,,0,0,0,,It's no surprise.
+Dialogue: 0,0:12:55.36,0:12:59.82,Dubtitles,,0,0,0,,Right in mid-attack, Wamuu was\Nstruck with a lethal dose of Hamon.
 Dialogue: 0,0:12:59.90,0:13:04.36,Dubtitles,,0,0,0,,The confidence built up over\Nmillennia of triumph has crumbled.
 Dialogue: 0,0:13:05.52,0:13:09.92,Dubtitles,,0,0,0,,The quiet, calm intensity his\Nvictories gave him has vanished.
 Dialogue: 0,0:13:11.02,0:13:13.38,Dubtitles,,0,0,0,,A tragic shock for him.
@@ -569,10 +552,10 @@ Dialogue: 0,0:14:22.26,0:14:26.97,Dubtitles,,0,0,0,,The very best athletes use a
 Dialogue: 0,0:14:27.68,0:14:31.92,Dubtitles,,0,0,0,,When these champions are brought low by\Nthe pressure of shock, failure, or fear,
 Dialogue: 0,0:14:32.00,0:14:34.60,Dubtitles,,0,0,0,,they can flip a mental\Nswitch and bring out their
 Dialogue: 0,0:14:34.68,0:14:37.39,Dubtitles,,0,0,0,,fighting spirit for one\Nlast Herculean effort.
-Dialogue: 0,0:14:37.72,0:14:43.18,Dubtitles,,0,0,0,,Desperate times call for desperate\Nmeasures, and Wamuu will win at any cost!
+Dialogue: 0,0:14:37.72,0:14:43.18,Dubtitles,,0,0,0,,Desperate times call for desperate\Nmeasures, and Whamu will win at any cost!
 Dialogue: 0,0:14:45.28,0:14:46.92,Dubtitles,,0,0,0,,No, I don't believe it!
 Dialogue: 0,0:14:47.12,0:14:49.10,Dubtitles,,0,0,0,,Did he really just do that? What?
-Dialogue: 0,0:14:49.28,0:14:50.40,Dubtitles,,0,0,0,,No, Lord Wamuu!
+Dialogue: 0,0:14:49.28,0:14:50.40,Dubtitles,,0,0,0,,No, Lord Wham!
 Dialogue: 0,0:14:50.60,0:14:52.12,Dubtitles,,0,0,0,,Look, his eyes are gone!
 Dialogue: 1,0:14:52.20,0:14:52.24,SFXRed2,4,0,0,0,,{=22}{\blur0.9\bord16.32\fscx228.48\fscy163.2\alpha&H00&\frz8.035\pos(1002.34,710.5)\c&H262745&}Bam
 Dialogue: 2,0:14:52.20,0:14:52.24,SFXRed2,4,0,0,0,,{=22}{\blur0.9\bord0\fscx228.48\fscy163.2\alpha&H00&\frz8.035\pos(1002.34,710.5)\4a&HFF&}Bam
@@ -696,7 +679,7 @@ Dialogue: 2,0:14:54.62,0:14:54.66,SFXRed2,4,0,0,0,,{=22}{\blur5\bord0\fscx456.55
 Dialogue: 1,0:14:54.66,0:14:54.70,SFXRed2,4,0,0,0,,{=22}{\blur7\bord50.39\fscx705.48\fscy503.91\alpha&H00&\frz8.035\pos(1073.8,-49.48)\c&H262745&}Bam
 Dialogue: 2,0:14:54.66,0:14:54.70,SFXRed2,4,0,0,0,,{=22}{\blur7\bord0\fscx705.48\fscy503.91\alpha&H00&\frz8.035\pos(1073.8,-49.48)\4a&HFF&}Bam
 Dialogue: 0,0:14:56.76,0:15:00.32,Dubtitles,,0,0,0,,I foolishly relied on my eyes\Nbecause I was able to see,
-Dialogue: 0,0:15:00.52,0:15:02.70,Dubtitles,,0,0,0,,and Jojo exploited my weakness.
+Dialogue: 0,0:15:00.52,0:15:02.70,Dubtitles,,0,0,0,,And Jotaro exploited my weakness.
 Dialogue: 0,0:15:05.78,0:15:10.20,Dubtitles,,0,0,0,,Now I will use this horn to see things\Noutlined in wind instead of light.
 Dialogue: 0,0:15:14.14,0:15:17.76,Dubtitles,,0,0,0,,He flipped the switch by removing\Nhis eyes from the equation.
 Dialogue: 0,0:15:18.04,0:15:20.86,Dubtitles,,0,0,0,,Now he is once again\Npsychologically invincible.
@@ -717,7 +700,7 @@ Dialogue: 0,0:15:55.52,0:15:58.04,Dubtitles,,0,0,0,,You gotta admit that one doe
 Dialogue: 0,0:15:58.28,0:16:00.02,Dubtitles,,0,0,0,,Yeah, lots of power.
 Dialogue: 0,0:16:02.04,0:16:03.24,Dubtitles,,0,0,0,,Oh, come on!
 Dialogue: 0,0:16:03.48,0:16:05.32,Dubtitles,,0,0,0,,I can't even draw this thing.
-Dialogue: 0,0:16:05.86,0:16:09.56,Dubtitles,,0,0,0,,It's so tight, I can't get the\Nstring to go anywhere at all.
+Dialogue: 0,0:16:05.86,0:16:09.56,Dubtitles,,0,0,0,,It's so tight. I can't get the\Nstring to go anywhere at all.
 Dialogue: 0,0:16:11.08,0:16:11.91,Dubtitles,,0,0,0,,You like it?
 Dialogue: 0,0:16:11.99,0:16:13.36,Dubtitles,,0,0,0,,You got greedy, didn't you?
 Dialogue: 0,0:16:13.44,0:16:17.44,Dubtitles,,0,0,0,,Even a normal crossbow takes a huge\Namount of strength to draw back.
@@ -859,7 +842,7 @@ Dialogue: 0,0:17:08.64,0:17:10.32,Dubtitles,,0,0,0,,Right, just as I thought.
 Dialogue: 0,0:17:10.60,0:17:14.64,Dubtitles,,0,0,0,,The wind stirred up by these fires makes\Nit hard for him to figure out where I am.
 Dialogue: 0,0:17:14.72,0:17:16.10,Dubtitles,,0,0,0,,This is the spot.
 Dialogue: 0,0:17:17.36,0:17:18.30,Dubtitles,,0,0,0,,That's an error.
-Dialogue: 0,0:17:19.40,0:17:20.69,Dubtitles,,0,0,0,,Underestimating Wamul.
+Dialogue: 0,0:17:19.40,0:17:20.69,Dubtitles,,0,0,0,,Underestimating Wamuu.
 Dialogue: 0,0:17:24.78,0:17:25.61,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:17:25.69,0:17:27.46,Dubtitles,,0,0,0,,Lord Wamuu's pointing away from Jojo!
 Dialogue: 0,0:17:27.76,0:17:28.98,Dubtitles,,0,0,0,,He's turned this way!
@@ -943,14 +926,10 @@ Dialogue: 1,0:17:53.80,0:17:53.84,SFX,6,0,0,0,,{=27}{\blur0.7\bord12\fscx119.95\
 Dialogue: 2,0:17:53.80,0:17:53.84,SFX,6,0,0,0,,{=27}{\blur0.7\bord0\fscx119.95\fscy119.95\alpha&H00&\frz4.28\pos(667.97,592.9)\4a&HFF&}Kablam
 Dialogue: 0,0:18:07.80,0:18:11.00,Dubtitles,,0,0,0,,I was examining the terrain\Nwhile we were circling.
 Dialogue: 0,0:18:11.28,0:18:14.75,Dubtitles,,0,0,0,,I had to find the proper wall\Nplacement to use as a weapon.
-Dialogue: 0,0:18:16.66,0:18:18.52,Dubtitles,,0,0,0,,I can't breathe.
-Dialogue: 0,0:18:18.60,0:18:21.24,Dubtitles,,0,0,0,,The ball lost some of its momentum.
-Dialogue: 0,0:18:21.32,0:18:23.24,Dubtitles,,0,0,0,,So it did not pierce Jojo's skin.
-Dialogue: 0,0:18:23.32,0:18:25.80,Dubtitles,,0,0,0,,But he's spitting up a lot of blood.
-Dialogue: 0,0:18:25.88,0:18:28.22,Dubtitles,,0,0,0,,Which would then betoken some injury.
-Dialogue: 0,0:18:29.78,0:18:31.42,Dubtitles,,0,0,0,,Finish him now, Wamu!
-Dialogue: 0,0:18:31.50,0:18:35.50,Dubtitles,,0,0,0,,But remember how wily and\Nfull of tricks Jojo is.
-Dialogue: 0,0:18:35.58,0:18:37.74,Dubtitles,,0,0,0,,Be on your guard.
+Dialogue: 0,0:18:16.66,0:18:22.96,Dubtitles,,0,0,0,,I can't breathe. The ball lost some of\Nits momentum. So it did not pierce Jojo's
+Dialogue: 0,0:18:23.04,0:18:28.22,Dubtitles,,0,0,0,,skin But he's spitting up a lot of blood\NWhich would then betoken some injury
+Dialogue: 0,0:18:29.78,0:18:31.06,Dubtitles,,0,0,0,,Finish him now,
+Dialogue: 0,0:18:31.20,0:18:37.74,Dubtitles,,0,0,0,,Wamuu. But remember how wily and full\Nof tricks Jojo is. Be on your guard!
 Dialogue: 0,0:18:38.94,0:18:40.74,Dubtitles,,0,0,0,,Has he set another trap?
 Dialogue: 0,0:18:45.38,0:18:50.42,Dubtitles,,0,0,0,,When I hit the ground, the\Nimpact cocked my crossbow.
 Dialogue: 0,0:18:50.78,0:18:53.48,Dubtitles,,0,0,0,,I can't let him know that.
@@ -962,12 +941,12 @@ Dialogue: 0,0:19:17.72,0:19:18.92,Dubtitles,,0,0,0,,Ahhhhhhhhhh! Hm?
 Dialogue: 0,0:19:21.42,0:19:23.36,Dubtitles,,0,0,0,,Huh, almost made it.
 Dialogue: 0,0:19:23.58,0:19:26.54,Dubtitles,,0,0,0,,His aim was off though,\Nunfortunately for him.
 Dialogue: 0,0:19:26.82,0:19:31.24,Dubtitles,,0,0,0,,But I really must commend him for\Nstaying in the fight until the very last.
-Dialogue: 0,0:19:34.26,0:19:37.66,Dubtitles,,0,0,0,,It's over, Jojo. No! Stay away!
+Dialogue: 0,0:19:34.26,0:19:37.66,Dubtitles,,0,0,0,,It's over, Jojo! No! Stay away!
 Dialogue: 0,0:19:38.40,0:19:39.69,Dubtitles,,0,0,0,,Don't come any closer!
 Dialogue: 0,0:19:40.12,0:19:40.98,Dubtitles,,0,0,0,,Go away!
 Dialogue: 0,0:19:41.20,0:19:42.66,Dubtitles,,0,0,0,,Leave me alone! Please!
 Dialogue: 0,0:19:42.82,0:19:44.35,Dubtitles,,0,0,0,,I just can't take anymore!
-Dialogue: 0,0:19:44.60,0:19:46.20,Dubtitles,,0,0,0,,You've got to spam me!
+Dialogue: 0,0:19:44.60,0:19:46.20,Dubtitles,,0,0,0,,You've got to spare me!
 Dialogue: 0,0:19:47.82,0:19:49.58,Dubtitles,,0,0,0,,Hm. Shameful. Look at him!
 Dialogue: 0,0:19:49.72,0:19:51.90,Dubtitles,,0,0,0,,The sniveling coward's throwing rocks!
 Dialogue: 0,0:19:51.98,0:19:53.66,Dubtitles,,0,0,0,,He's just a pathetic loser!
@@ -980,7 +959,7 @@ Dialogue: 0,0:20:11.02,0:20:12.18,Dubtitles,,0,0,0,,Want some more?
 Dialogue: 0,0:20:13.96,0:20:15.18,Dubtitles,,0,0,0,,That bother you?
 Dialogue: 0,0:20:15.38,0:20:17.72,Dubtitles,,0,0,0,,You know that a bat could\Nsimply fly right between
 Dialogue: 0,0:20:17.80,0:20:20.30,Dubtitles,,0,0,0,,all those rocks and\Navoid every little piece.
-Dialogue: 0,0:20:20.38,0:20:22.85,Dubtitles,,0,0,0,,Why can't you avoid them like that, Wamuu?
+Dialogue: 0,0:20:20.38,0:20:22.85,Dubtitles,,0,0,0,,Why can't you avoid them like that, Wham?
 Dialogue: 1,0:20:23.99,0:20:24.03,SFXFire,7,0,0,0,,{=11}{\blur7\bord19.61\fscx318.68\fscy245.14\alpha&H80&\c&H0700E6&\3c&H081424&\frz355\pos(1657.7,214.52)\iclip(m 1337 502 l 1443 475 1464 461 1454 444 1425 262 1489 168 1520 139 1574 168 1579 214 1588 281 1555 379 1606 361 1624 361 1606 288 1601 208 1665 116 1715 105 1740 144 1752 240 1745 323 1688 465 1661 471 1645 441 1612 488 1592 628)}Burst {K im not gonna do 150 lines of this shiet}
 Dialogue: 2,0:20:23.99,0:20:24.03,SFXFire,7,0,0,0,,{=11}{\blur1\bord19.61\fscx318.68\fscy245.14\alpha&H00&\3c&H081424&\c&H081424&\frz355\pos(1657.7,214.52)\iclip(m 1337 502 l 1443 475 1464 461 1454 444 1425 262 1489 168 1520 139 1574 168 1579 214 1588 281 1555 379 1606 361 1624 361 1606 288 1601 208 1665 116 1715 105 1740 144 1752 240 1745 323 1688 465 1661 471 1645 441 1612 488 1592 628)}Burst {K im not gonna do 150 lines of this shiet}
 Dialogue: 3,0:20:23.99,0:20:24.03,SFXFire,7,0,0,0,,{=11}{\blur1\bord0\fscx318.68\fscy245.14\alpha&H00&\c&H0700E6&\frz355\pos(1657.7,214.52)\iclip(m 1337 502 l 1443 475 1464 461 1454 444 1425 262 1489 168 1520 139 1574 168 1579 214 1588 281 1555 379 1606 361 1624 361 1606 288 1601 208 1665 116 1715 105 1740 144 1752 240 1745 323 1688 465 1661 471 1645 441 1612 488 1592 628)\4a&HFF&}Burst {K im not gonna do 150 lines of this shiet}
@@ -1068,7 +1047,7 @@ Dialogue: 0,0:21:04.88,0:21:07.38,Dubtitles,,0,0,0,,Wamu's damaged arms grew eve
 Dialogue: 0,0:21:07.46,0:21:12.32,Dubtitles,,0,0,0,,No more divine sandstorms, now or ever.
 Dialogue: 0,0:21:20.52,0:21:22.56,Dubtitles,,0,0,0,,I've got to try to breathe again.
 Dialogue: 0,0:21:22.88,0:21:24.60,Dubtitles,,0,0,0,,Get my hormone in balance.
-Dialogue: 0,0:21:28.40,0:21:31.04,Dubtitles,,0,0,0,,You're trying a kick after faking a fall?
+Dialogue: 0,0:21:28.40,0:21:31.04,Dubtitles,,0,0,0,,You're trying a kick after faking a fall?!
 Dialogue: 0,0:21:31.54,0:21:34.52,Dubtitles,,0,0,0,,All right, if you still\Nthink you can do this.
 Dialogue: 0,0:21:36.68,0:21:37.96,Dubtitles,,0,0,0,,REBUFF OVERDRIVE!
 Dialogue: 1,0:21:38.27,0:21:38.31,SFXYellow,8,0,0,0,,{=11}{\blur10\bord10.76\1a&H54&\3a&H80&\pos(1249.38,-128.56)\fscx78\fscy177\alpha&H80&}Kapow
@@ -1223,7 +1202,7 @@ Dialogue: 0,0:22:21.38,0:22:24.84,Dubtitles,,0,0,0,,I will use all of these\Nthi
 Dialogue: 0,0:22:27.52,0:22:28.54,Dubtitles,,0,0,0,,His arms.
 Dialogue: 0,0:22:28.62,0:22:31.00,Dubtitles,,0,0,0,,He threw them using his chest wound.
 Dialogue: 0,0:22:31.26,0:22:33.67,Dubtitles,,0,0,0,,They've grabbed Jojo and are choking him.
-Dialogue: 0,0:22:37.78,0:22:38.78,Dubtitles,,0,0,0,,What's this?
+Dialogue: 0,0:22:37.78,0:22:38.78,Dubtitles,,0,0,0,,What?! What?!
 Dialogue: 0,0:22:39.06,0:22:40.58,Dubtitles,,0,0,0,,I can't breathe.
 Dialogue: 0,0:22:40.96,0:22:42.88,Dubtitles,,0,0,0,,I can't gather my hormone.
 Dialogue: 0,0:22:53.00,0:22:54.40,Dubtitles,,0,0,0,,What's going on?
@@ -1250,28 +1229,22 @@ Dialogue: 1,0:23:46.36,0:23:48.74,Lyrics 2,Yes,0,0,0,,In and around the lake
 Dialogue: 1,0:23:50.03,0:23:52.11,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
 Dialogue: 1,0:23:52.11,0:23:53.99,Lyrics 2,Yes,0,0,0,,and they stand there
 Dialogue: 0,0:23:52.50,0:23:53.78,Dubtitles,,0,0,0,,they stand there.
-Dialogue: 0,0:23:57.04,0:24:00.72,Dubtitles,,0,0,0,,One mile over, we'll be\Nthere and we'll see you?
+Dialogue: 0,0:23:57.04,0:24:00.72,Dubtitles,,0,0,0,,One mile over, we'll be\Nthere and we'll see you.
 Dialogue: 1,0:23:57.16,0:24:00.83,Lyrics 2,Yes,0,0,0,,One mile over we'll be there and we'll see you
-Dialogue: 0,0:24:03.44,0:24:07.02,Dubtitles,,0,0,0,,Ten two summers, we'll be\Nthere and I'm laughing too!
+Dialogue: 0,0:24:03.44,0:24:07.02,Dubtitles,,0,0,0,,Ten two summers, we'll be\Nthere and I'm laughing too.
 Dialogue: 1,0:24:03.58,0:24:07.30,Lyrics 2,Yes,0,0,0,,Ten true summers we'll be there and laughing too
-Dialogue: 0,0:24:09.90,0:24:12.74,Dubtitles,,0,0,0,,Twenty four before my love, you'll see.
+Dialogue: 0,0:24:09.90,0:24:15.60,Dubtitles,,0,0,0,,Twenty four before my love,\Nyou'll see I'll be there with you.
 Dialogue: 1,0:24:10.05,0:24:13.72,Lyrics 2,Yes,0,0,0,,Twenty-four before my love you'll see I'll be
-Dialogue: 0,0:24:12.82,0:24:15.60,Dubtitles,,0,0,0,,I'll be there with you.
 Dialogue: 1,0:24:13.72,0:24:18.72,Lyrics 2,Yes,0,0,0,,There with you
-Dialogue: 0,0:24:37.48,0:24:42.90,Dubtitles,,0,0,0,,Among the jumping crowd, the eagles\Nsearching down on the ground!
+Dialogue: 0,0:24:37.56,0:24:42.84,Dubtitles,,0,0,0,,I'm on the jumping crowd, the\Neagles searching down on the ground.
 Dialogue: 1,0:24:37.78,0:24:43.25,Lyrics 2,Yes,0,0,0,,Along the drifting cloud, the eagle searching down on the land
-Dialogue: 0,0:24:44.54,0:24:49.72,Dubtitles,,0,0,0,,Watching the sliding green, the\Nsilver seas, the men of the land!
+Dialogue: 0,0:24:44.64,0:24:49.72,Dubtitles,,0,0,0,,Watching the swatting green, the\Nsilver seas, the men of the land.
 Dialogue: 1,0:24:44.83,0:24:50.13,Lyrics 2,Yes,0,0,0,,Catching the swirling wind, the sailor sees the rim of the land
 Dialogue: 1,0:24:51.88,0:24:57.10,Lyrics 2,Yes,0,0,0,,The eagle's dancing wings create, as weather spins out of hand
 Dialogue: 1,0:24:57.60,0:24:59.60,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:57.60,0:24:59.60,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
-Dialogue: 0,0:24:58.74,0:25:00.58,Dubtitles,,0,0,0,,You cowardly animals!
-Dialogue: 0,0:25:00.66,0:25:05.08,Dubtitles,,0,0,0,,No matter the method, utilize\Nremarkable you crossed a line!
-Dialogue: 0,0:25:05.16,0:25:06.24,Dubtitles,,0,0,0,,No honor earns you!
-Dialogue: 0,0:25:06.32,0:25:07.18,Dubtitles,,0,0,0,,No consideration!
-Dialogue: 0,0:25:07.26,0:25:10.72,Dubtitles,,0,0,0,,This world and all in it belong to me.
+Dialogue: 0,0:24:58.74,0:25:04.80,Dubtitles,,0,0,0,,you cowardly animals no matter the\Nmethod utilize remarkable you crossed a
+Dialogue: 0,0:25:04.88,0:25:10.72,Dubtitles,,0,0,0,,line no honor earns you no consideration\Nthis world and all in it belong to me
 Dialogue: 1,0:25:10.61,0:25:12.61,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 23:
 Dialogue: 1,0:25:10.61,0:25:12.61,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"The Warrior Returns to the Wind"{\i0}
-Dialogue: 1,0:25:10.61,0:25:12.61,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 23:
 Dialogue: 1,0:25:10.61,0:25:12.61,Title2,,0,0,0,,{\fs105\pos(960,772)}"The Warrior of Wind"
 

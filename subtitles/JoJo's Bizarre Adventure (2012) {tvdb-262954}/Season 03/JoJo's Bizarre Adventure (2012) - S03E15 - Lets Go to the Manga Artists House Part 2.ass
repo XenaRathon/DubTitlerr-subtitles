@@ -77,7 +77,7 @@ Style: SFXBlue1 - Copy,Shaky Hand Some Comic Bold,160,&H00B87832,&H000000FF,&H00
 Style: Episode 15 Typesetting 2d,Cabin,90,&H00161512,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SFXPDS,KG Turning Tables,50,&H00C1C3BE,&H000000FF,&H004D4E4B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,50,40,20,1
 Style: Episode 15 Typesetting 4,jr!hand,50,&H002D2E2B,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -124,7 +124,7 @@ Dialogue: 0,0:02:03.32,0:02:06.09,Dubtitles,,0,0,0,,hammering out the\Nbackgroun
 Dialogue: 0,0:02:17.36,0:02:19.18,Dubtitles,,0,0,0,,His hand movement was so quick!
 Dialogue: 0,0:02:19.38,0:02:22.44,Dubtitles,,0,0,0,,I didn't even have a chance\Nto make out what he did!
 Dialogue: 0,0:02:24.78,0:02:25.64,Dubtitles,,0,0,0,,No way!
-Dialogue: 0,0:02:26.00,0:02:29.58,Dubtitles,,0,0,0,,He's beta-coloring by flicking the ink\Naround like perfectly aimed shuriken,
+Dialogue: 0,0:02:26.00,0:02:29.58,Dubtitles,,0,0,0,,He's beta-coloring by flicking the ink\Naround like perfectly aimed Shuriken,
 Dialogue: 0,0:02:29.66,0:02:32.26,Dubtitles,,0,0,0,,and somehow he's not leaving\Na single stray mark behind!
 Dialogue: 0,0:02:32.34,0:02:33.94,Dubtitles,,0,0,0,,His technique is incredible!
 Dialogue: 0,0:02:34.02,0:02:38.61,Dubtitles,,0,0,0,,To beta-color without a brush takes an\Namount of skill I've never seen before!
@@ -277,12 +277,10 @@ Dialogue: 1,0:04:46.93,0:04:52.81,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c
 Dialogue: 0,0:04:47.94,0:04:49.34,Dubtitles,,0,0,0,,I'll change you!
 Dialogue: 0,0:04:55.80,0:04:56.70,Dubtitles,,0,0,0,,Well now!
 Dialogue: 1,0:04:55.98,0:04:57.06,Main,Rohan,0,0,0,,{\an8}Calm down!
-Dialogue: 1,0:04:55.98,0:04:57.06,JoJo-top,Rohan,0,0,0,,{\an8}Calm down!
 Dialogue: 1,0:04:56.15,0:05:00.86,Title Part 4,Sign,0,0,0,,{\fad(648,643)\pos(139,880)\fs60}Episode 15: {\fs80} Let's Go Visit the Mangaka's House, Part 2
 Dialogue: 1,0:04:56.15,0:05:00.86,Title Part 4,Sign,0,0,0,,{\fad(648,643)\pos(139,880)\fs60}Episode 15: {\fs80} Let's Go Visit the Comics Artist's House Part 2
 Dialogue: 0,0:04:56.94,0:04:58.66,Dubtitles,,0,0,0,,I know it's not done just yet,
 Dialogue: 1,0:04:57.06,0:05:01.40,Main,Rohan,0,0,0,,{\an8}I have an entire volume's worth of material\N from just one of your pages!
-Dialogue: 1,0:04:57.06,0:05:01.40,JoJo-top,Rohan,0,0,0,,{\an8}I have an entire volume's worth of material\N from just one of your pages!
 Dialogue: 0,0:04:58.74,0:05:01.54,Dubtitles,,0,0,0,,but this single panel could\Nbe a book hauled by itself!
 Dialogue: 0,0:05:01.62,0:05:02.45,Dubtitles,,0,0,0,,Fantastic!
 Dialogue: 0,0:05:02.64,0:05:06.52,Dubtitles,,0,0,0,,I feel like I'm maturing, both as\Na manga artist and a stand user!
@@ -308,7 +306,7 @@ Dialogue: 0,0:06:04.04,0:06:05.12,Dubtitles,,0,0,0,,What are you two doing here?
 Dialogue: 0,0:06:05.20,0:06:07.85,Dubtitles,,0,0,0,,And for that matter,\Nhow do you even find me?
 Dialogue: 0,0:06:11.58,0:06:12.70,Dubtitles,,0,0,0,,I'll let it be.
 Dialogue: 0,0:06:13.32,0:06:16.72,Dubtitles,,0,0,0,,Josuke and Okuyasu don't really\Ninterest me at the moment.
-Dialogue: 0,0:06:16.80,0:06:19.94,Dubtitles,,0,0,0,,For now, I'll finish up the\Nlast two pages for next week,
+Dialogue: 0,0:06:16.80,0:06:19.94,Dubtitles,,0,0,0,,For now, I'll finish up the\Nlast two pages for next week.
 Dialogue: 0,0:06:20.02,0:06:23.18,Dubtitles,,0,0,0,,and then I'll procure even\Nmore material from Koichi.
 Dialogue: 0,0:06:24.00,0:06:26.22,Dubtitles,,0,0,0,,I can hardly contain myself.
 Dialogue: 0,0:06:26.82,0:06:29.64,Dubtitles,,0,0,0,,You came here to watch a\Nmanga artist do his work?
@@ -323,16 +321,17 @@ Dialogue: 0,0:06:44.96,0:06:48.34,Dubtitles,,0,0,0,,That wasn't even remotely cl
 Dialogue: 0,0:06:48.42,0:06:50.42,Dubtitles,,0,0,0,,Why am I blanking all of a sudden?
 Dialogue: 0,0:06:51.06,0:06:51.89,Dubtitles,,0,0,0,,Well,
 Dialogue: 0,0:06:51.97,0:06:55.56,Dubtitles,,0,0,0,,we saw you staggering around, so we thought\Nit would be a good idea to tell you.
-Dialogue: 0,0:06:55.64,0:06:57.93,Dubtitles,,0,0,0,,But it seems like everything is Aqua.
+Dialogue: 0,0:06:55.64,0:06:57.93,Dubtitles,,0,0,0,,But it seems like everything is a-okay.
 Dialogue: 0,0:06:58.02,0:06:59.66,Dubtitles,,0,0,0,,I guess we'll leave you to it.
 Dialogue: 0,0:06:59.74,0:07:00.57,Dubtitles,,0,0,0,,Thanks a lot!
 Dialogue: 0,0:07:00.65,0:07:01.48,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:07:01.57,0:07:03.14,Dubtitles,,0,0,0,,Do you want to come inside\Nand observe with me?
 Dialogue: 0,0:07:03.22,0:07:05.22,Dubtitles,,0,0,0,,Nah, thanks for the offer, though.
 Dialogue: 0,0:07:05.50,0:07:08.09,Dubtitles,,0,0,0,,Being around famous\Npeople makes me nervous.
-Dialogue: 0,0:07:08.44,0:07:10.32,Dubtitles,,0,0,0,,Same, just knowing that\Nyou weren't in there?
-Dialogue: 0,0:07:10.40,0:07:12.06,Dubtitles,,0,0,0,,fooling around with\Nsome smoking hot chick!
-Dialogue: 0,0:07:12.14,0:07:13.85,Dubtitles,,0,0,0,,is enough for me, so I'm out.
+Dialogue: 0,0:07:08.44,0:07:09.27,Dubtitles,,0,0,0,,Same,
+Dialogue: 0,0:07:09.35,0:07:10.68,Dubtitles,,0,0,0,,just knowing that you\Nweren't in there fooling
+Dialogue: 0,0:07:10.76,0:07:13.06,Dubtitles,,0,0,0,,around with some smoking\Nhot chick is enough for me,
+Dialogue: 0,0:07:13.14,0:07:13.97,Dubtitles,,0,0,0,,so I'm out.
 Dialogue: 0,0:07:14.76,0:07:16.80,Dubtitles,,0,0,0,,See you later, Koichi. Bye.
 Dialogue: 0,0:07:19.84,0:07:22.31,Dubtitles,,0,0,0,,Why can't I remember what I wanted to say?
 Dialogue: 0,0:07:22.64,0:07:27.29,Dubtitles,,0,0,0,,I'm sure I was trying to tell them\Nsomething really important, but what was it?
@@ -1870,45 +1869,33 @@ Dialogue: 1,0:10:29.19,0:10:32.06,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:10:29.19,0:10:32.06,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0)\fscx100\fscy100\be0.2\frz57.56\pos(1299.2,537.6)}POTENTIAL
 Dialogue: 1,0:10:29.35,0:10:29.48,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Hea
 Dialogue: 2,0:10:29.35,0:10:29.48,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Hea
-Dialogue: 1,0:10:29.35,0:10:29.48,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Hea
 Dialogue: 1,0:10:29.48,0:10:29.56,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heave
 Dialogue: 2,0:10:29.48,0:10:29.56,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heave
-Dialogue: 1,0:10:29.48,0:10:29.56,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heave
 Dialogue: 1,0:10:29.56,0:10:29.69,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven
 Dialogue: 2,0:10:29.56,0:10:29.69,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven
-Dialogue: 1,0:10:29.56,0:10:29.69,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heaven
 Dialogue: 1,0:10:29.69,0:10:29.81,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven'
 Dialogue: 2,0:10:29.69,0:10:29.81,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven'
-Dialogue: 1,0:10:29.69,0:10:29.81,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heaven'
 Dialogue: 1,0:10:29.81,0:10:29.94,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's
 Dialogue: 2,0:10:29.81,0:10:29.94,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's
-Dialogue: 1,0:10:29.81,0:10:29.94,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heaven's
 Dialogue: 1,0:10:29.94,0:10:30.02,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's Do
 Dialogue: 2,0:10:29.94,0:10:30.02,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's Do
-Dialogue: 1,0:10:29.94,0:10:30.02,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heaven's Do
 Dialogue: 1,0:10:30.02,0:10:30.15,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's Doo
 Dialogue: 2,0:10:30.02,0:10:30.15,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's Doo
-Dialogue: 1,0:10:30.02,0:10:30.15,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heaven's Doo
 Dialogue: 1,0:10:30.15,0:10:32.06,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's Door
 Dialogue: 2,0:10:30.15,0:10:32.06,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's Door
-Dialogue: 1,0:10:30.15,0:10:32.06,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,366)}Heaven's Door
 Dialogue: 1,0:10:30.65,0:10:30.77,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishi
 Dialogue: 2,0:10:30.65,0:10:30.77,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishi
 Dialogue: 3,0:10:30.65,0:10:30.77,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishi
-Dialogue: 1,0:10:30.65,0:10:30.77,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishi
 Dialogue: 1,0:10:30.77,0:10:30.90,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishibe
 Dialogue: 2,0:10:30.77,0:10:30.90,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishibe
 Dialogue: 3,0:10:30.77,0:10:30.90,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishibe
-Dialogue: 1,0:10:30.77,0:10:30.90,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishibe
 Dialogue: 1,0:10:30.77,0:10:32.06,Eyecatch - Stats,sign bot,0,0,0,,{\an7\fad(300,0)}Power: D\NSpeed: B\NRange: B\NDurability: B\NPrecision: C\NGrowth Potential: A
 Dialogue: 1,0:10:30.90,0:10:31.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishibe Ro
 Dialogue: 2,0:10:30.90,0:10:31.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishibe Ro
 Dialogue: 3,0:10:30.90,0:10:31.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishibe Ro
-Dialogue: 1,0:10:30.90,0:10:31.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishibe Ro
 Dialogue: 1,0:10:31.02,0:10:32.06,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishibe Rohan
 Dialogue: 2,0:10:31.02,0:10:32.06,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishibe Rohan
 Dialogue: 3,0:10:31.02,0:10:32.06,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishibe Rohan
-Dialogue: 1,0:10:31.02,0:10:32.06,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishibe Rohan
 Dialogue: 0,0:10:34.76,0:10:35.59,Dubtitles,,0,0,0,,Okuyasu!
 Dialogue: 0,0:10:35.67,0:10:38.72,Dubtitles,,0,0,0,,What the hell is up with\Nthis freaky-ass manga artist?
 Dialogue: 0,0:10:38.80,0:10:39.63,Dubtitles,,0,0,0,,Silence.
@@ -1920,7 +1907,7 @@ Dialogue: 0,0:10:54.20,0:10:56.52,Dubtitles,,0,0,0,,Why won't he show himself, K
 Dialogue: 0,0:10:57.52,0:10:59.10,Dubtitles,,0,0,0,,Well, if I had to guess,
 Dialogue: 0,0:10:59.30,0:11:02.94,Dubtitles,,0,0,0,,I'd say he's laying low so he won't\Naccidentally catch a sight of your manga!
 Dialogue: 0,0:11:03.02,0:11:06.38,Dubtitles,,0,0,0,,My thought's exactly\Nhow very astute of you.
-Dialogue: 0,0:11:07.22,0:11:10.26,Dubtitles,,0,0,0,,Okuyasu knew nothing about\Nthe power of my Heaven's Door,
+Dialogue: 0,0:11:07.22,0:11:10.26,Dubtitles,,0,0,0,,Okuyasu knew nothing about\Nthe power of my Heaven's Door.
 Dialogue: 0,0:11:10.34,0:11:13.11,Dubtitles,,0,0,0,,so he fell from my trap\Nhook, line, and sinker.
 Dialogue: 0,0:11:13.74,0:11:17.62,Dubtitles,,0,0,0,,But in doing so, he exposed the\Ntrue nature of my stand to Josuke,
 Dialogue: 0,0:11:17.84,0:11:19.37,Dubtitles,,0,0,0,,causing him to take cover.
@@ -1944,12 +1931,11 @@ Dialogue: 0,0:12:05.52,0:12:06.93,Dubtitles,,0,0,0,,According to your files,
 Dialogue: 0,0:12:07.18,0:12:09.42,Dubtitles,,0,0,0,,Josuke Higashikata has\Nfar too much character
 Dialogue: 0,0:12:09.50,0:12:11.79,Dubtitles,,0,0,0,,to even think about abandoning you two.
 Dialogue: 0,0:12:12.28,0:12:15.32,Dubtitles,,0,0,0,,But due to the dynamic nature\Nof a manga artist's work,
-Dialogue: 0,0:12:15.40,0:12:18.00,Dubtitles,,0,0,0,,they tend to consider every\Nconceivable possibility?
-Dialogue: 0,0:12:18.08,0:12:19.88,Dubtitles,,0,0,0,,at every conceivable moment.
+Dialogue: 0,0:12:15.40,0:12:20.11,Dubtitles,,0,0,0,,they tend to consider every conceivable\Npossibility at every conceivable moment.
 Dialogue: 0,0:12:20.58,0:12:23.28,Dubtitles,,0,0,0,,So in the situation we\Nnow find ourselves in,
 Dialogue: 0,0:12:23.44,0:12:26.16,Dubtitles,,0,0,0,,what course of action will\Nour protagonist employ?
 Dialogue: 0,0:12:26.24,0:12:27.07,Dubtitles,,0,0,0,,Let's see.
-Dialogue: 0,0:12:27.66,0:12:30.90,Dubtitles,,0,0,0,,Perhaps Josuke could flee with\Nknowledge of my stand's power,
+Dialogue: 0,0:12:27.66,0:12:30.90,Dubtitles,,0,0,0,,Perhaps Josuke could flee with\Nknowledge of my Stand's power.
 Dialogue: 0,0:12:30.98,0:12:33.18,Dubtitles,,0,0,0,,which would be quite the dilemma for me.
 Dialogue: 0,0:12:33.26,0:12:36.64,Dubtitles,,0,0,0,,You know, running away might\Nbe the best thing he could do!
 Dialogue: 0,0:12:36.72,0:12:37.88,Dubtitles,,0,0,0,,He could go and get Jotaro!
@@ -1989,9 +1975,8 @@ Dialogue: 0,0:14:04.22,0:14:08.68,Dubtitles,,0,0,0,,He was basically dragged out
 Dialogue: 0,0:14:08.76,0:14:11.26,Dubtitles,,0,0,0,,Oh, that's a rather childish move.
 Dialogue: 0,0:14:11.38,0:14:13.56,Dubtitles,,0,0,0,,But closing your eyes could be effective.
 Dialogue: 0,0:14:13.64,0:14:15.60,Dubtitles,,0,0,0,,There's nowhere to run\Nin this cramped room.
-Dialogue: 0,0:14:15.68,0:14:17.16,Dubtitles,,0,0,0,,If he managed to knock me out?
-Dialogue: 0,0:14:17.24,0:14:18.54,Dubtitles,,0,0,0,,Heaven's Door would release its grip.
-Dialogue: 0,0:14:18.62,0:14:20.74,Dubtitles,,0,0,0,,and Okuyasu wouldn't commit suicide.
+Dialogue: 0,0:14:15.68,0:14:17.16,Dubtitles,,0,0,0,,If he managed to knock me out,
+Dialogue: 0,0:14:17.24,0:14:21.53,Dubtitles,,0,0,0,,Heaven's Door would release its grip\Nand Okuyasu wouldn't commit suicide.
 Dialogue: 0,0:14:22.18,0:14:23.01,Dubtitles,,0,0,0,,Josuke, help!
 Dialogue: 0,0:14:26.10,0:14:28.94,Dubtitles,,0,0,0,,Closing his eyes is simple-minded,\Nbut it just might work.
 Dialogue: 0,0:14:29.02,0:14:32.36,Dubtitles,,0,0,0,,As long as he doesn't see the\Nmanuscript, Heaven's Door is powerless.
@@ -2008,7 +1993,7 @@ Dialogue: 1,0:14:51.95,0:14:58.71,Episode 15 Typesettng 1,Sign,0,0,0,,{\be0.6\po
 Dialogue: 0,0:14:55.60,0:14:58.07,Dubtitles,,0,0,0,,How would I get my enemy to open his eyes?
 Dialogue: 0,0:14:58.48,0:15:00.02,Dubtitles,,0,0,0,,Keep going, Josuke!
 Dialogue: 0,0:15:00.70,0:15:02.20,Dubtitles,,0,0,0,,Repeat, think, hurry up!
-Dialogue: 0,0:15:02.92,0:15:03.75,Dubtitles,,0,0,0,,That's it.
+Dialogue: 0,0:15:02.92,0:15:03.75,Dubtitles,,0,0,0,,That's it!
 Dialogue: 0,0:15:03.88,0:15:07.12,Dubtitles,,0,0,0,,Surely something in Koichi's\Nfile will be able to help.
 Dialogue: 0,0:15:07.40,0:15:08.23,Dubtitles,,0,0,0,,There!
 Dialogue: 0,0:15:08.31,0:15:09.24,Dubtitles,,0,0,0,,Exactly what I needed!
@@ -2026,12 +2011,11 @@ Dialogue: 0,0:15:42.58,0:15:45.14,Dubtitles,,0,0,0,,I dare you to insult my hair
 Dialogue: 0,0:15:45.44,0:15:46.60,Dubtitles,,0,0,0,,If you insist.
 Dialogue: 0,0:15:47.24,0:15:48.07,Dubtitles,,0,0,0,,Fine.
 Dialogue: 0,0:15:48.15,0:15:48.98,Dubtitles,,0,0,0,,Here goes.
-Dialogue: 0,0:15:49.24,0:15:51.18,Dubtitles,,0,0,0,,You might think your hair looks cool,
-Dialogue: 0,0:15:51.26,0:15:53.84,Dubtitles,,0,0,0,,but in actuality, it may\Nbe the shittiest hairstyle!
-Dialogue: 0,0:15:53.92,0:15:57.06,Dubtitles,,0,0,0,,I've ever had the misfortune\Nof laying eyes upon!
-Dialogue: 0,0:15:58.00,0:15:59.18,Dubtitles,,0,0,0,,Though to be fair?
-Dialogue: 0,0:15:59.34,0:16:01.26,Dubtitles,,0,0,0,,That nest atop your useless noggin!
-Dialogue: 0,0:16:01.34,0:16:04.44,Dubtitles,,0,0,0,,and may come in handy should a\Npigeon come by and decide to roost.
+Dialogue: 0,0:15:49.24,0:15:52.44,Dubtitles,,0,0,0,,You might think your hair\Nlooks cool, but in actuality,
+Dialogue: 0,0:15:52.52,0:15:57.40,Dubtitles,,0,0,0,,it may be the shittiest hairstyle I've ever\Nhad the misfortune of laying eyes upon!
+Dialogue: 0,0:15:58.00,0:15:59.18,Dubtitles,,0,0,0,,Though to be fair,
+Dialogue: 0,0:15:59.34,0:16:01.72,Dubtitles,,0,0,0,,that nest atop your useless\Nnoggin and may come in
+Dialogue: 0,0:16:01.80,0:16:04.44,Dubtitles,,0,0,0,,handy should a pigeon come\Nby and decide to roost.
 Dialogue: 0,0:16:04.52,0:16:06.70,Dubtitles,,0,0,0,,But that's a very strong may.
 Dialogue: 0,0:16:13.14,0:16:15.12,Dubtitles,,0,0,0,,Now witness heaven's door!
 Dialogue: 0,0:16:17.60,0:16:18.52,Dubtitles,,0,0,0,,I win.
@@ -2045,9 +2029,9 @@ Dialogue: 0,0:16:50.00,0:16:52.98,Dubtitles,,0,0,0,,I know I showed him the page
 Dialogue: 0,0:16:54.14,0:16:56.54,Dubtitles,,0,0,0,,Where the hell did you slither off to?
 Dialogue: 0,0:16:58.22,0:17:00.38,Dubtitles,,0,0,0,,Get out of here, you punk bitch!
 Dialogue: 0,0:17:01.34,0:17:03.82,Dubtitles,,0,0,0,,Hey, I don't think he can\Nsee straight right now.
-Dialogue: 0,0:17:03.90,0:17:04.73,Dubtitles,,0,0,0,,Can't see?
-Dialogue: 0,0:17:04.92,0:17:07.62,Dubtitles,,0,0,0,,Hold on, are you trying to\Nsay Rohan's stupid insults?
-Dialogue: 0,0:17:07.70,0:17:11.46,Dubtitles,,0,0,0,,Worked him up so much that he\Ndoesn't even realize what he's doing?
+Dialogue: 0,0:17:03.90,0:17:05.58,Dubtitles,,0,0,0,,Can't see? Hold on,
+Dialogue: 0,0:17:05.74,0:17:07.94,Dubtitles,,0,0,0,,are you trying to say Rohan's\Nstupid insults worked him
+Dialogue: 0,0:17:08.02,0:17:11.31,Dubtitles,,0,0,0,,up so much that he doesn't\Neven realize what he's doing?
 Dialogue: 0,0:17:11.54,0:17:14.06,Dubtitles,,0,0,0,,Come on out, you manga-obsessed asshole!
 Dialogue: 0,0:17:14.26,0:17:15.68,Dubtitles,,0,0,0,,I got a story for you!
 Dialogue: 0,0:17:16.52,0:17:19.40,Dubtitles,,0,0,0,,It doesn't matter if it's from\Na comic or someone's mouth.
@@ -2056,7 +2040,7 @@ Dialogue: 0,0:17:26.06,0:17:26.89,Dubtitles,,0,0,0,,Incredible!
 Dialogue: 0,0:17:26.98,0:17:29.18,Dubtitles,,0,0,0,,I had no idea his temper was this bad.
 Dialogue: 0,0:17:29.26,0:17:32.85,Dubtitles,,0,0,0,,I don't think I've seen anything\Nlike this in my entire life.
 Dialogue: 0,0:17:33.04,0:17:34.64,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:17:38.50,0:17:43.22,Dubtitles,,0,0,0,,This is a facet of Josuke's personality\Nthat even Koichi knew nothing about.
+Dialogue: 0,0:17:38.50,0:17:43.22,Dubtitles,,0,0,0,,This is a facet of Josuke's personality\Nthat even Koichi knew nothing about,
 Dialogue: 0,0:17:43.40,0:17:46.02,Dubtitles,,0,0,0,,so it wasn't in his file\Nlike everything else.
 Dialogue: 0,0:17:46.10,0:17:47.75,Dubtitles,,0,0,0,,Though I still don't get it.
 Dialogue: 0,0:17:47.84,0:17:50.28,Dubtitles,,0,0,0,,Why does he get so upset over his hair?
@@ -2073,15 +2057,15 @@ Dialogue: 0,0:18:08.55,0:18:09.90,Dubtitles,,0,0,0,,What are you talking about?
 Dialogue: 0,0:18:09.98,0:18:13.76,Dubtitles,,0,0,0,,It all happened when Josuke\Nwas a little kid, and uh...
 Dialogue: 0,0:18:15.68,0:18:18.30,Dubtitles,,0,0,0,,I'll try to remember\Nthe story as best I can,
 Dialogue: 0,0:18:18.38,0:18:21.44,Dubtitles,,0,0,0,,but I might have to fill\Nin some gaps along the way.
-Dialogue: 0,0:18:24.96,0:18:29.08,Dubtitles,,0,0,0,,Josuke was 4 years old, and he'd passed\Nout from an inexplicably high fever.
-Dialogue: 0,0:18:29.16,0:18:32.80,Dubtitles,,0,0,0,,For 50 days, no one knew\Nwhether he would live or die.
+Dialogue: 0,0:18:24.96,0:18:26.40,Dubtitles,,0,0,0,,Josuke was 4 years old,
+Dialogue: 0,0:18:26.52,0:18:30.68,Dubtitles,,0,0,0,,And he'd passed out from an\Ninexplicably high fever. For 50 days,
+Dialogue: 0,0:18:30.76,0:18:33.11,Dubtitles,,0,0,0,,no one knew whether he would live or die
 Dialogue: 0,0:18:34.46,0:18:35.29,Dubtitles,,0,0,0,,Josuke
 Dialogue: 0,0:18:37.98,0:18:42.26,Dubtitles,,0,0,0,,He found out later on that all of this\Nhappened right around the time Jotaro and Mr.
 Dialogue: 0,0:18:42.34,0:18:44.54,Dubtitles,,0,0,0,,Joestar were in Egypt\NThey traveled there in
-Dialogue: 0,0:18:44.62,0:18:47.39,Dubtitles,,0,0,0,,order to defeat a heinous\Nstand user named Dio.
-Dialogue: 0,0:18:47.68,0:18:49.68,Dubtitles,,0,0,0,,Josuke's mom had no\Nidea what was happening?
-Dialogue: 0,0:18:49.76,0:18:51.88,Dubtitles,,0,0,0,,So she loaded him in the car and headed to
-Dialogue: 0,0:18:51.96,0:18:54.43,Dubtitles,,0,0,0,,a hospital in S-City as fast as she could.
+Dialogue: 0,0:18:44.62,0:18:47.33,Dubtitles,,0,0,0,,order to defeat a heinous\Nstand user named Dio
+Dialogue: 0,0:18:47.68,0:18:51.08,Dubtitles,,0,0,0,,Josuke's mom had no idea what was\Nhappening So she loaded him in
+Dialogue: 0,0:18:51.16,0:18:54.66,Dubtitles,,0,0,0,,the car and headed to a hospital\Nin S-City as fast as she could.
 Dialogue: 0,0:18:54.74,0:18:59.21,Dubtitles,,0,0,0,,But at the time, Morioh was in the\Nmiddle of its worst blizzard in 18 years.
 Dialogue: 0,0:19:00.32,0:19:01.16,Dubtitles,,0,0,0,,No use.
 Dialogue: 0,0:19:01.40,0:19:02.38,Dubtitles,,0,0,0,,What do I do?
@@ -2261,7 +2245,6 @@ Dialogue: 3,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2d,Paragraph,0,0,0,,{=1
 Dialogue: 2,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1375.114,576.642)\clip(m 1530 129 l 1546 150 1552 156 1560 174 1574 200 1586 235 1521 753 576 734 790 45 1318 22)}m 0 15 l 490 10 520 60 500 450 -120 430 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\clip(m 1530 129 l 1546 150 1552 156 1560 174 1574 200 1586 235 1521 753 576 734 790 45 1318 22)\pos(1523.114,296.642)}m 0 15 l 90 10 120 60 100 50 0 150{\p0}
 Dialogue: 1,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(1193.114,326.642)}m 0 55 l 130 50 140 250 -120 230 -60 200 0 150{\p0}
-Dialogue: 3,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\fs35\frz356\pos(1233.4,500)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2coverDark,Paragraph,0,0,0,,{\p1\be15\pos(1151.114,173.642)\clip(m 1070 132 l 1081 103 1093 112 1096 114 1107 90 1145 101 1148 90 1160 87 1165 74 1184 75 1188 74 1196 46 1204 51 1215 62 1231 41 1239 34 1243 38 1255 46 1263 26 1275 34 1282 22 1294 27 1304 13 1308 20 1311 12 1320 18 1321 9 1330 11 1329 1 1334 3 1335 0 472 0 290 186 400 318)}m 20 0 l 200 -20 1000 50 900 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2coverDark2,Paragraph,0,0,0,,{\p1\be15\pos(1151.114,173.642)\clip(m 1822 0 l 1407 1 1411 4 1415 8 1420 14 1425 18 1430 24 1436 27 1441 31 1446 36 1448 37 1452 42 1458 48 1461 52 1464 55 1467 58 1470 59 1472 61 1477 65 1480 69 1483 72 1486 76 1489 79 1494 84 1500 90 1501 92 1508 100 1513 107 1521 119 1527 126 1531 133 1539 142 1548 152 1688 233 1727 310 1780 286)}m 20 0 l 200 -20 1000 50 900 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.40,0:22:19.48,Episode 15 Typesetting 2coverLight2,Paragraph,0,0,0,,{\p1\be15\pos(1151.114,173.642)\clip(m 1070 132 l 1081 103 1093 112 1096 114 1107 90 1145 101 1148 90 1160 87 1165 74 1184 75 1188 74 1196 46 1204 51 1215 62 1231 41 1239 34 1243 38 1255 46 1263 26 1275 34 1282 22 1294 27 1304 13 1308 20 1311 12 1320 18 1321 9 1330 11 1329 1 1334 3 1335 0 1407 1 1411 4 1415 8 1420 14 1425 18 1430 24 1436 27 1441 31 1446 36 1448 37 1452 42 1458 48 1461 52 1464 55 1467 58 1470 59 1472 61 1477 65 1480 69 1483 72 1486 76 1489 79 1494 84 1500 90 1501 92 1508 100 1513 107 1521 119 1527 126 1531 133 1539 142 1548 152 1553 456 908 496 834 312)}m 20 0 l 200 -20 1000 50 900 200 300 140 0 100{\p0}
@@ -2318,7 +2301,6 @@ Dialogue: 1,0:22:19.48,0:22:19.56,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.48,0:22:19.56,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx93.23\fscy93.23\frx32\fry348\frz334.07\pos(121.31,587.04)\4a&HFF&}GO
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1313.114,880.642)}m 0 -50 l 430 10 310 400 -120 390 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1223.114,520.642)}m 0 150 l 130 210 110 200 -120 290 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz356\pos(1187.4,760)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1079.114,461.642)}m 20 0 l 200 -20 830 50 800 160 300 140 0 100{\p0}
 Dialogue: 2,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz356\pos(1073,285.785)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(1194.4,496.213)\clip(m 710 157 l 859 6 1774 6 1673 605 390 524)}m 20 0 l 470 40 480 50 755 80 770 240 670 470 300 310 0 200 -70 200{\p0}
@@ -2329,7 +2311,6 @@ Dialogue: 2,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\b
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1056.257,131.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(949.971,56.213)}m 100 0 l 200 0 100 140 0 100{\p0}
 Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2coverDark,Paragraph,0,0,0,,{\p1\be5\pos(857.4,35.642)\clip(m 792 72 l 864 0 534 1 597 234)}m 100 0 l 200 0 100 140 0 100{\p0}
-Dialogue: 1,0:22:19.48,0:22:19.56,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz356\pos(1066.713,71.072)}KISHIBE ROHAN'S
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,3Paragraph,0,0,0,,{=94}{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 992 708 l 1014 718 1017 723 1013 728 979 736 960 733 963 704)}m 1051 622 l 1355 720 1407 727 1359 895 1336 953 1207 970 926 971 948 822
 Dialogue: 2,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,3Paragraph,0,0,0,,{=93}{\clip(983,869,1394,879)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC8C9C6&}m 1360 904 l 1117 904 1017 931 1024 1015 1141 1062 1298 1076 1351 1058
 Dialogue: 2,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,3Paragraph,0,0,0,,{=92}{\clip(983,879,1394,889)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC7C8C5&}m 1360 904 l 1117 904 1017 931 1024 1015 1141 1062 1298 1076 1351 1058
@@ -2368,16 +2349,13 @@ Dialogue: 1,0:22:19.56,0:22:19.60,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.56,0:22:19.60,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx95.57\fscy95.57\frx32\fry348\frz345.47\pos(126.1,711.71)\4a&HFF&}GO
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1269.114,1128.642)}m 0 -50 l 360 120 280 500 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1264.114,1116.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1093.4,954)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1047.114,729.642)}m 20 0 l 200 0 730 200 700 320 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1072.143,481.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1180.114,647.642)}m 20 0 l 370 40 400 90 520 140 720 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1153.114,649.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1151.114,637.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1111,401)}PINK DARK BOY
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1020.257,263.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(1009.114,276.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.56,0:22:19.60,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1008.428,208.215)}KISHIBE ROHAN'S
 Dialogue: 1,0:22:19.56,0:22:19.65,Episode 15 Typesetting 2coverLight,Notice mask,0,0,0,,{\an7\blur10\pos(0,0)\c&HC8CAC5&\fscx100\fscy100\p1}m 715 419 l 838 408 1005 455 1284 579 1383 628 1398 704 1279 682 973 569 793 532 681 498
 Dialogue: 1,0:22:19.56,0:22:19.65,Episode 15 Typesetting 2coverLight,Rohanmask,0,0,0,,{\clip(775,61,1226,81)\pos(0,0)\an7\blur10\fscx100\fscy100\p1\c&HC0C1BD&}m 845 94 l 917 92 1061 113 1176 143 1197 188 1175 250 1127 254 883 217 803 188
 Dialogue: 1,0:22:19.56,0:22:19.65,Episode 15 Typesetting 2coverLight,Rohanmask,0,0,0,,{\clip(775,81,1226,101)\pos(0,0)\an7\blur10\fscx100\fscy100\p1\c&HC1C2BE&}m 845 94 l 917 92 1061 113 1176 143 1197 188 1175 250 1127 254 883 217 803 188
@@ -2429,16 +2407,13 @@ Dialogue: 1,0:22:19.60,0:22:19.65,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.60,0:22:19.65,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx95.58\fscy95.58\frx32\fry348\frz345.45\pos(125.58,729.71)\4a&HFF&}GO
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1269.114,1146.642)}m 0 -50 l 360 120 280 500 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1264.114,1134.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1093.4,972)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1047.114,747.642)}m 20 0 l 200 0 730 200 700 320 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1072.143,499.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1180.114,665.642)}m 20 0 l 370 40 400 90 520 140 720 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1153.114,667.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1151.114,655.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1111,419)}PINK DARK BOY
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1023.685,281.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(1009.114,294.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.60,0:22:19.65,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1008.428,226.215)}KISHIBE ROHAN'S
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,4Paragraph,0,0,0,,{=94}{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 983 698 l 998 704 1006 708 1004 715 997 718 974 722 953 722 954 692)}m 1041 608 l 1327 698 1362 729 1322 880 1296 943 1196 959 926 971 948 822
 Dialogue: 2,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,4Paragraph,0,0,0,,{=118}{\clip(983,849,1336,859)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC6C6C3&}m 1300 882 l 1117 904 1017 931 1024 1015 1141 1062 1256 1063 1301 999
 Dialogue: 2,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,4Paragraph,0,0,0,,{=117}{\clip(983,859,1336,869)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC5C5C2&}m 1300 882 l 1117 904 1017 931 1024 1015 1141 1062 1256 1063 1301 999
@@ -2479,16 +2454,13 @@ Dialogue: 1,0:22:19.65,0:22:19.69,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.65,0:22:19.69,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx95.81\fscy95.81\frx32\fry348\frz345.3\pos(139.69,695.87)\4a&HFF&}GO
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1259.114,1100.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1254.114,1108.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1083.4,946)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1036.114,699.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1062.143,473.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1157.114,629.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1143.114,641.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1141.114,629.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1101,393)}PINK DARK BOY
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1003.114,257.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(999.114,268.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.65,0:22:19.69,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(998.428,200.215)}KISHIBE ROHAN'S
 Dialogue: 1,0:22:19.65,0:22:19.73,Episode 15 Typesetting 2coverLight,Notice mask,0,0,0,,{\an7\blur10\pos(0,0)\c&HC8CAC5&\fscx100\fscy100\p1}m 701 411 l 820 400 1005 436 1289 563 1383 628 1398 704 1279 682 967 548 795 527 673 480
 Dialogue: 1,0:22:19.65,0:22:19.73,Episode 15 Typesetting 2coverLight,Rohanmask,0,0,0,,{\clip(774,45,1227,65)\pos(0,0)\an7\blur10\fscx100\fscy100\p1\c&HBDBFBA&}m 845 98 l 878 77 917 76 1067 92 1176 125 1197 185 1192 234 1150 239 883 202 802 176
 Dialogue: 1,0:22:19.65,0:22:19.73,Episode 15 Typesetting 2coverLight,Rohanmask,0,0,0,,{\clip(774,65,1227,85)\pos(0,0)\an7\blur10\fscx100\fscy100\p1\c&HBEC0BB&}m 845 98 l 878 77 917 76 1067 92 1176 125 1197 185 1192 234 1150 239 883 202 802 176
@@ -2542,16 +2514,13 @@ Dialogue: 1,0:22:19.69,0:22:19.73,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.69,0:22:19.73,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx95.89\fscy95.89\frx32\fry348\frz345.19\pos(138.12,710.83)\4a&HFF&}GO
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1259.114,1100.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1259.114,1118.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1082.4,960)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1035.114,713.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1061.143,487.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1157.114,629.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1143.114,641.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1141.114,629.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1100,407)}PINK DARK BOY
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1003.114,257.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(999.114,268.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.69,0:22:19.73,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(997.428,214.215)}KISHIBE ROHAN'S
 Dialogue: 3,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx75.09\fscy75.09\fs35\frz345.5\pos(1115.31,936.4)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 3,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2d,Paragraph,0,0,0,,{=144=154}{\be0.3\fscx101.19\fscy101.19\fs70\frz346.94\pos(1012.78,551.69)\fax-0.13}— Notice of Hiatus —
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Logomask,0,0,0,,{\an7\blur7\pos(0,0)\c&HC5C6C3&\fscx100\fscy100\p1\iclip(m 1336 367 l 1318 393 1343 415 1389 384)}m 702 278 l 743 188 851 183 1101 214 1219 272 1299 307 1330 390 1342 443 1328 518 1280 542 988 447 948 379 929 317 734 316
@@ -2567,16 +2536,13 @@ Dialogue: 1,0:22:19.73,0:22:19.77,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.73,0:22:19.77,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx99.29\fscy99.29\frx32\fry348\frz342.38\pos(145.44,699.29)\4a&HFF&}GO
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1245.114,1088.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1245.114,1096.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1068.4,948)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1025.114,697.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1047.143,475.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1143.114,629.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1129.114,641.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1133.114,615.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1074,395)}PINK DARK BOY
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(989.114,257.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(985.114,268.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.73,0:22:19.77,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(983.428,202.215)}KISHIBE ROHAN'S
 Dialogue: 1,0:22:19.73,0:22:19.85,Episode 15 Typesetting 2coverLight,5Paragraph,0,0,0,,{=94}{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 959 686 l 979 693 992 699 991 714 987 723 973 728 957 731 934 737 931 682)}m 1029 597 l 1321 701 1336 734 1300 872 1276 930 1178 947 914 955 924 818
 Dialogue: 2,0:22:19.73,0:22:19.85,Episode 15 Typesetting 2coverLight,5Paragraph,0,0,0,,{\clip(921,849,1314,859)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC4C5C2&}m 1269 900 l 1086 884 951 925 1024 1015 1123 1045 1237 1045 1281 1006
 Dialogue: 2,0:22:19.73,0:22:19.85,Episode 15 Typesetting 2coverLight,5Paragraph,0,0,0,,{\clip(921,859,1314,869)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC4C4C1&}m 1269 900 l 1086 884 951 925 1024 1015 1123 1045 1237 1045 1281 1006
@@ -2629,16 +2595,13 @@ Dialogue: 1,0:22:19.77,0:22:19.81,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.77,0:22:19.81,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx99.3\fscy99.3\frx32\fry348\frz342.33\pos(144.71,704.81)\4a&HFF&}GO
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1245.114,1091.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1245.114,1099.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1068.4,953)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1025.114,701.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1047.143,479.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1143.114,633.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1129.114,645.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1133.114,619.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1074,399)}PINK DARK BOY
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(989.114,261.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(985.114,272.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.77,0:22:19.81,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(983.428,206.215)}KISHIBE ROHAN'S
 Dialogue: 3,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx75.15\fscy75.15\fs35\frz345.49\pos(1113.98,937.91)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 3,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2d,Paragraph,0,0,0,,{=144=154}{\be0.3\fscx101.19\fscy101.19\fs70\frz346.93\pos(1011.56,553.11)\fax-0.13}— Notice of Hiatus —
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Logomask,0,0,0,,{\clip(674,152,1371,182)\pos(0,0)\an7\blur7\fscx100\fscy100\p1\iclip(m 1335 369 l 1317 398 1344 417 1389 384)\c&HC5C6C3&}m 702 278 l 743 188 851 183 1101 214 1219 272 1299 307 1330 390 1342 443 1328 518 1275 546 988 447 948 379 929 317 734 316
@@ -2668,16 +2631,13 @@ Dialogue: 1,0:22:19.81,0:22:19.85,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord2.
 Dialogue: 2,0:22:19.81,0:22:19.85,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx99.32\fscy99.32\frx32\fry348\frz342.29\pos(144.23,700.8)\4a&HFF&}GO
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1245.114,1088.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1245.114,1096.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1068.4,950)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1025.114,698.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1047.143,476.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1143.114,630.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1129.114,642.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1133.114,616.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1074,396)}PINK DARK BOY
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(989.114,258.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(985.114,269.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.81,0:22:19.85,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(983.428,203.215)}KISHIBE ROHAN'S
 Dialogue: 3,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx74.16\fscy74.16\fs35\frz346.3\pos(1100.98,922.72)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 3,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2d,Paragraph,0,0,0,,{=144=154}{\be0.3\fscx100\fscy100\fs70\frz347.62\pos(997.89,540.8)\fax-0.13}— Notice of Hiatus —
 Dialogue: 2,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2c,PinkDarkBoy,0,0,0,,{=181=187}{\be0.5\fscx96.43\fscy96.43\fax-0.16\frz347.13\pos(905.61,327.25)}PINK
@@ -2692,16 +2652,13 @@ Dialogue: 1,0:22:19.85,0:22:19.90,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord3\
 Dialogue: 2,0:22:19.85,0:22:19.90,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx100.01\fscy100.01\frx32\fry348\frz340.89\pos(149.35,694.76)\4a&HFF&}GO
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1078.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1086.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,942)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1019.114,686.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1037.143,468.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1133.114,622.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1119.114,634.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1123.114,608.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1064,388)}PINK DARK BOY
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(979.114,250.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(975.114,261.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.85,0:22:19.90,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(973.428,195.215)}KISHIBE ROHAN'S
 Dialogue: 2,0:22:19.85,0:22:25.44,Episode 15 Typesetting 2coverLight,6Paragraph,0,0,0,,{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 944 671 l 978 690 978 712 952 720 920 728 903 734 919 669)}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
 Dialogue: 2,0:22:19.85,0:22:25.44,Episode 15 Typesetting 2coverLight,6Paragraph,0,0,0,,{\clip(936,837,1297,847)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
 Dialogue: 2,0:22:19.85,0:22:25.44,Episode 15 Typesetting 2coverLight,6Paragraph,0,0,0,,{\clip(936,847,1297,857)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
@@ -2784,16 +2741,13 @@ Dialogue: 1,0:22:19.90,0:22:19.94,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord3\
 Dialogue: 2,0:22:19.90,0:22:19.94,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx100.02\fscy100.02\frx32\fry348\frz340.89\pos(149.4,693.81)\4a&HFF&}GO
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1077.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1085.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,941)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1019.114,685.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1037.143,467.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1133.114,621.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1119.114,633.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1123.114,607.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1064,387)}PINK DARK BOY
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(979.114,249.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(975.114,260.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.90,0:22:19.94,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(973.428,194.215)}KISHIBE ROHAN'S
 Dialogue: 3,0:22:19.94,0:22:19.98,Episode 15 Typesetting 2d,Paragraph,0,0,0,,{=144=154}{\be0.3\fscx100\fscy100\fs70\frz347.63\pos(997.64,541.88)\fax-0.13}— Notice of Hiatus —
 Dialogue: 2,0:22:19.94,0:22:19.98,Episode 15 Typesetting 2c,PinkDarkBoy,0,0,0,,{=181=187}{\be0.5\fscx96.41\fscy96.41\fax-0.16\frz347.13\pos(905.45,328.35)}PINK
 Dialogue: 2,0:22:19.94,0:22:19.98,Episode 15 Typesetting 2c,PinkDarkBoy,0,0,0,,{=181=186}{\be0.5\fscx96.41\fscy96.41\fax-0.15\pos(1169.87,388.89)\frz347.13}DARK
@@ -2807,17 +2761,14 @@ Dialogue: 1,0:22:19.94,0:22:19.98,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord3\
 Dialogue: 2,0:22:19.94,0:22:19.98,SFXPDS,For fun 2,0,0,0,,{=194}{\blur0.6\bord0\fscx100.05\fscy100.05\frx32\fry348\frz340.88\pos(149.13,695.85)\4a&HFF&}GO
 Dialogue: 1,0:22:19.94,0:22:25.40,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1079.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:19.94,0:22:25.40,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1087.642)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:19.94,0:22:25.40,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,943)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 3,0:22:19.94,0:22:25.44,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx74.16\fscy74.16\fs35\frz346.29\pos(1100.67,923.75)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1019.114,687.642)}m 20 0 l 200 0 730 200 700 300 300 140 0 100{\p0}
-Dialogue: 2,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1037.143,469.214)}— Notice of Hiatus —
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1133.114,623.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1119.114,635.642)}m 20 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be7\pos(1123.114,609.642)}m 30 0 l 370 40 400 90 500 140 700 240 670 470 300 310 0 200 -70 200{\p0}
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1064,389)}PINK DARK BOY
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(979.114,251.642)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
 Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be10\pos(975.114,262.975)}m 100 0 l 200 0 440 50 400 200 300 140 0 100{\p0}
-Dialogue: 1,0:22:19.94,0:22:25.57,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(973.428,196.215)}KISHIBE ROHAN'S
 Dialogue: 3,0:22:19.98,0:22:25.57,Episode 15 Typesetting 2d,Paragraph,0,0,0,,{=144=154}{\be0.3\fscx100\fscy100\fs70\frz347.63\pos(997.55,542.05)\fax-0.13}— Notice of Hiatus —
 Dialogue: 2,0:22:19.98,0:22:25.57,Episode 15 Typesetting 2c,PinkDarkBoy,0,0,0,,{=181=187}{\be0.5\fscx96.42\fscy96.42\fax-0.16\frz347.13\pos(905.34,328.5)}PINK
 Dialogue: 2,0:22:19.98,0:22:25.57,Episode 15 Typesetting 2c,PinkDarkBoy,0,0,0,,{=181=186}{\be0.5\fscx96.42\fscy96.42\fax-0.15\pos(1169.78,389.05)\frz347.13}DARK
@@ -2834,7 +2785,6 @@ Dialogue: 0,0:22:20.00,0:22:22.06,Dubtitles,,0,0,0,,Due to an unforeseen illness
 Dialogue: 0,0:22:22.46,0:22:26.11,Dubtitles,,0,0,0,,Rohan Kishibe's Pink Dark Boy\Nwill be on hiatus for one month.
 Dialogue: 1,0:22:25.40,0:22:25.44,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1079.642)\clip(m 1264 940 l 1313 892 1368 483 472 378 625 988 1290 1070 1304 1017)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:25.40,0:22:25.44,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1087.642)\clip(m 1264 940 l 1313 892 1368 483 472 378 625 988 1290 1070 1304 1017)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:25.40,0:22:25.44,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,943)\clip(m 1264 940 l 1313 892 1368 483 472 378 625 988 1238 1002 1260 1009)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 2,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 956 683 l 981 696 973 717 921 729 870 936 1200 1062 1292 1008 1221 944 1290 874 1297 900 1388 907 1363 1051 1130 1077 793 1026 873 618)}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
 Dialogue: 2,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\clip(936,837,1297,847)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
 Dialogue: 2,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\clip(936,847,1297,857)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
@@ -2863,7 +2813,6 @@ Dialogue: 2,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2coverLight,ParagraphAr
 Dialogue: 3,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx74.16\fscy74.16\fs35\frz346.29\pos(1100.67,923.75)\iclip(m 1295 869 l 1224 940 1262 983 1296 1013)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1079.642)\clip(m 1220 944 l 1305 860 1368 483 472 378 625 988 1290 1070 1308 1021)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1087.642)\clip(m 1220 944 l 1305 860 1368 483 472 378 625 988 1290 1070 1308 1021)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:25.44,0:22:25.49,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,943)\clip(m 1220 944 l 1305 860 1676 570 472 378 625 988 1290 1070 1308 1021)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 2,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 956 683 l 981 696 973 717 921 729 870 936 1200 1062 1273 1012 1201 943 1270 869 1297 900 1388 907 1363 1051 1130 1077 793 1026 873 618)}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
 Dialogue: 2,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\clip(936,837,1297,847)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
 Dialogue: 2,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\clip(936,847,1297,857)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
@@ -2892,7 +2841,6 @@ Dialogue: 2,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2coverLight,ParagraphAr
 Dialogue: 3,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx74.16\fscy74.16\fs35\frz346.29\pos(1100.67,923.75)\iclip(m 1272 868 l 1217 924 1199 941 1235 980 1273 1011)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1079.642)\clip(m 1198 945 l 1299 840 1368 483 472 378 625 988 1290 1070 1293 1030)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1087.642)\clip(m 1198 945 l 1299 840 1368 483 472 378 625 988 1290 1070 1293 1030)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:25.49,0:22:25.53,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,943)\clip(m 1198 945 l 1299 840 1717 579 472 378 625 988 1290 1070 1293 1030)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 2,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\an7\blur10\pos(0,0)\fscx100\fscy100\p1\iclip(m 956 683 l 981 696 973 717 921 729 870 936 1200 1062 1263 1011 1191 943 1263 870 1297 900 1388 907 1363 1051 1130 1077 793 1026 873 618)}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
 Dialogue: 2,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\clip(936,837,1297,847)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
 Dialogue: 2,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2coverLight,ParagraphArrow,0,0,0,,{\clip(936,847,1297,857)\pos(0,0)\an7\blur12\fscx100\fscy100\p1\c&HC1C3C0&}m 1239 892 l 1085 872 968 906 1003 983 1204 1040 1259 1019 1257 974 1264 907
@@ -2921,7 +2869,6 @@ Dialogue: 2,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2coverLight,ParagraphAr
 Dialogue: 3,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{=144}{\fscx74.16\fscy74.16\fs35\frz346.29\pos(1100.67,923.75)\iclip(m 1264 868 l 1236 898 1191 942 1216 969 1240 991 1265 1010)\be0.5\fax-0.12}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 1,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be15\pos(1221.114,1079.642)\clip(m 1191 943 l 1297 834 1368 483 472 378 625 988 1290 1070 1289 1036)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
 Dialogue: 1,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2coverLight,Paragraph,0,0,0,,{\p1\be5\pos(1221.114,1087.642)\clip(m 1191 943 l 1297 834 1368 483 472 378 625 988 1290 1070 1289 1036)}m 0 -50 l 360 120 250 480 -120 340 -60 200 0 150{\p0}
-Dialogue: 1,0:22:25.53,0:22:25.57,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,943)\clip(m 1191 943 l 1265 872 1266 900 1306 900 1472 500 472 378 624 988 1290 1070 1288 1036)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
 Dialogue: 2,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2coverLight,YellowParagraph,0,0,0,,{\clip(868,557,1357,567)\pos(0,0)\an7\blur15\fscx100\fscy100\p1\iclip(m 956 683 l 981 696 973 717 921 729 870 936 1200 1062 1263 1011 1191 943 1263 870 1297 900 1388 907 1363 1051 1130 1077 793 1026 873 618)\c&HCBE0E6&}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
 Dialogue: 2,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2coverLight,YellowParagraph,0,0,0,,{\clip(868,567,1357,577)\pos(0,0)\an7\blur15\fscx100\fscy100\p1\iclip(m 956 683 l 981 696 973 717 921 729 870 936 1200 1062 1263 1011 1191 943 1263 870 1297 900 1388 907 1363 1051 1130 1077 793 1026 873 618)\c&HCADFE5&}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
 Dialogue: 2,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2coverLight,YellowParagraph,0,0,0,,{\clip(868,577,1357,587)\pos(0,0)\an7\blur15\fscx100\fscy100\p1\iclip(m 956 683 l 981 696 973 717 921 729 870 936 1200 1062 1263 1011 1191 943 1263 870 1297 900 1388 907 1363 1051 1130 1077 793 1026 873 618)\c&HC8DEE5&}m 1014 596 l 1292 697 1316 725 1280 857 1261 923 1169 935 904 934 911 827
@@ -3182,10 +3129,7 @@ Dialogue: 1,0:22:25.57,0:22:27.07,SFXPDS,For fun 2,0,0,0,,{\blur0.6\bord2.5\fscx
 Dialogue: 2,0:22:25.57,0:22:27.07,SFXPDS,For fun 2,0,0,0,,{\blur0.6\bord0\fscx100\fscy100\frz339.2\frx30\fry346\pos(118.33,608)\c&HA3B7C0&\4a&HFF&}GO
 Dialogue: 1,0:22:25.57,0:22:27.07,SFXPDS,For fun 2,0,0,0,,{\blur0.6\bord2.5\fscx100\fscy100\frx32\fry348\frz340.9\pos(149,696)\3c&H295057&\c&H295057&}GO
 Dialogue: 2,0:22:25.57,0:22:27.07,SFXPDS,For fun 2,0,0,0,,{\blur0.6\bord0\fscx100\fscy100\frx32\fry348\frz340.9\pos(149,696)\c&HA2BDC3&\4a&HFF&}GO
-Dialogue: 3,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2a,Paragraph,0,0,0,,{\frz335.7\pos(1058.4,943)\clip(m 1191 943 l 1265 872 1266 900 1306 900 1500 503 472 378 624 988 1290 1070 1288 1036)}Thank you as always \Nfor reading\N Pink Dark Boy!\N\NFor personal reasons,\Nwe will be taking \Na one month hiatus.\N\N{\alphaff}dddddl {\alpha00}- Editor
-Dialogue: 2,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(1037.143,469.214)}— Notice of Hiatus —
 Dialogue: 2,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2c,Paragraph,0,0,0,,{\be0.1\frz340\pos(1064,389)}PINK DARK BOY
-Dialogue: 3,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2b,Paragraph,0,0,0,,{\frz340\pos(973.428,196.215)}KISHIBE ROHAN'S
 Dialogue: 1,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2coverYellowTest0,,0,0,0,,{\p1\be5\frz340.5\pos(994.857,571.828)}m 0 0 l 750 0 750 50 0 50 {\p0}
 Dialogue: 1,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2coverYellowTest1,,0,0,0,,{\p1\be5\frz340.5\pos(1015.857,535.828)}m 0 0 l 750 0 750 50 0 50 {\p0}
 Dialogue: 1,0:22:25.57,0:22:27.07,Episode 15 Typesetting 2coverYellowTest2,,0,0,0,,{\p1\be5\frz340.5\pos(1029.357,496.828)}m 0 0 l 750 0 750 50 0 50 {\p0}

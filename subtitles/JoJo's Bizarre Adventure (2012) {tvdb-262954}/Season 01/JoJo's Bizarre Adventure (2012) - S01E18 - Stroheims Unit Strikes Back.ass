@@ -56,17 +56,8 @@ Style: SFXSomething,LeviNaiveLetter,150,&H0053527F,&H000000FF,&H00182540,&H00000
 Style: Old Map1,Arial Black,70,&H00151E22,&HFF0000FF,&H00151E22,&HB9000000,-1,0,0,0,85,100,0,0,1,0,0,4,100,100,45,1
 Style: Old Map2,Cabin,60,&H00464959,&HFF0000FF,&H00E0EDF1,&HB9000000,0,0,0,0,100,100,0,0,1,3,0,4,100,100,45,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
 Style: RippleSigns,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,2,100,100,45,1
-Style: RippleSigns - 5,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,5,100,100,45,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -81,11 +72,11 @@ Dialogue: 1,0:00:32.60,0:00:35.97,Lyrics OP2 Jap,,0,0,0,,Toki wo koe
 Dialogue: 1,0:00:32.60,0:00:35.97,Lyrics OP2 Eng,,0,0,0,,To the dawn of a new day
 Dialogue: 3,0:00:35.97,0:00:43.23,Lyrics OP2 Jap,,0,0,0,,Shinku no chishio ga
 Dialogue: 1,0:00:35.97,0:00:43.23,Lyrics OP2 Eng,,0,0,0,,The river of crimson blood within you
-Dialogue: 0,0:00:42.62,0:00:45.34,Dubtitles,,0,0,0,,Thank you
+Dialogue: 0,0:00:42.62,0:00:45.34,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:00:43.98,0:00:49.78,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuki wo hikiawaseru
 Dialogue: 1,0:00:43.98,0:00:49.78,Lyrics OP2 Eng,,0,0,0,,Carries with it the courage to stand and fight
 Dialogue: 1,0:00:43.98,0:00:49.78,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuuki wo hikiawaseru
-Dialogue: 0,0:00:45.42,0:00:52.42,Dubtitles,,0,0,0,,very
+Dialogue: 0,0:00:45.42,0:00:52.42,Dubtitles,,0,0,0,,Very.
 Dialogue: 1,0:00:50.78,0:00:58.50,Lyrics OP2 Jap,,0,0,0,,Uketsugu ai wo sadame to yobu nara
 Dialogue: 1,0:00:50.78,0:00:58.50,Lyrics OP2 Eng,,0,0,0,,Even if the love I feel is just part of my legacy...
 Dialogue: 0,0:00:57.26,0:00:58.09,Dubtitles,,0,0,0,,much.
@@ -108,10 +99,10 @@ Dialogue: 1,0:01:25.82,0:01:29.65,Lyrics OP2 Jap,,0,0,0,,Ketsumyaku ni kizamaret
 Dialogue: 1,0:01:25.82,0:01:29.65,Lyrics OP2 Eng,,0,0,0,,When the time comes to end the vendetta carried by our blood
 Dialogue: 1,0:01:29.65,0:01:35.45,Lyrics OP2 Jap,,0,0,0,,Ukiagaru kienai hokori no kizuna
 Dialogue: 1,0:01:29.65,0:01:35.45,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds of pride will carry you through any storm
-Dialogue: 0,0:01:30.00,0:01:33.70,Dubtitles,,0,0,0,,Uki araru kine nai hokori no kizuna.
+Dialogue: 0,0:01:30.00,0:01:33.70,Dubtitles,,0,0,0,,Uki araru kine nai hokori no kizuna
 Dialogue: 1,0:01:35.45,0:01:40.50,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:01:35.45,0:01:40.50,Lyrics OP2 Eng,,0,0,0,,So hold them close
-Dialogue: 0,0:01:35.54,0:01:37.86,Dubtitles,,0,0,0,,Naoko yurishimete!
+Dialogue: 0,0:01:35.54,0:01:37.86,Dubtitles,,0,0,0,,Niki yurishimete.
 Dialogue: 1,0:01:45.59,0:01:49.59,Title2,,0,0,0,,{\pos(1080,865)\blur1}Episode 18: "Stroheim's Unit Strikes Back" {Toni, Check that the title matches the preview at the end of 14 -Fadeout4}
 Dialogue: 1,0:01:45.59,0:01:49.59,Title2,,0,0,0,,{\pos(1100,865)}Episode 18: "Stroheim's Revenge!" {Toni, Check that the title matches the preview at the end of 14 -Fadeout4}
 Dialogue: 0,0:01:59.80,0:02:00.63,Dubtitles,,0,0,0,,today.
@@ -128,7 +119,7 @@ Dialogue: 0,0:02:21.02,0:02:23.54,Dubtitles,,0,0,0,,Jojo and Caesar have\Npassed
 Dialogue: 0,0:02:23.62,0:02:25.10,Dubtitles,,0,0,0,,I have a bad feeling.
 Dialogue: 0,0:02:25.56,0:02:26.96,Dubtitles,,0,0,0,,I'm beginning to worry.
 Dialogue: 0,0:02:28.00,0:02:33.44,Dubtitles,,0,0,0,,So today, we're going to go with\Nthe pretty white. Susie Q. Yes?
-Dialogue: 0,0:02:33.90,0:02:37.43,Dubtitles,,0,0,0,,Please send Suzi and Jojo to\Nmy room as soon as they arrive.
+Dialogue: 0,0:02:33.90,0:02:37.43,Dubtitles,,0,0,0,,Please send Siza and Jojo to\Nmy room as soon as they arrive.
 Dialogue: 0,0:02:37.60,0:02:39.02,Dubtitles,,0,0,0,,Yes, of course, Signora.
 Dialogue: 0,0:02:40.08,0:02:44.14,Dubtitles,,0,0,0,,I know I said I like the white\Nblouse, but the other one is nice too.
 Dialogue: 0,0:02:44.52,0:02:45.74,Dubtitles,,0,0,0,,So which is better?
@@ -273,7 +264,7 @@ Dialogue: 3,0:03:46.58,0:03:46.62,SFX,1,0,0,0,,{=20}{\bord0\blur0.9\alpha&H00&\p
 Dialogue: 0,0:03:48.50,0:03:50.40,Dubtitles,,0,0,0,,What are you screaming for?
 Dialogue: 0,0:03:50.74,0:03:52.76,Dubtitles,,0,0,0,,Be quiet, you stupid idiot.
 Dialogue: 0,0:03:52.84,0:03:55.38,Dubtitles,,0,0,0,,Who are you?
-Dialogue: 0,0:03:55.62,0:03:57.84,Dubtitles,,0,0,0,,There's a stranger on the island!
+Dialogue: 0,0:03:55.62,0:03:57.84,Dubtitles,,0,0,0,,There's a weirdo on the island!
 Dialogue: 0,0:03:59.24,0:04:00.07,Dubtitles,,0,0,0,,Hey, wait!
 Dialogue: 0,0:04:00.16,0:04:01.42,Dubtitles,,0,0,0,,You think I'm a stranger?
 Dialogue: 0,0:04:01.50,0:04:02.70,Dubtitles,,0,0,0,,It's me, you dummy.
@@ -453,16 +444,12 @@ Dialogue: 2,0:05:39.32,0:05:39.36,SFXPurple,2,0,0,0,,{=37}{\blur0.7\fade(255,0,2
 Dialogue: 3,0:05:39.32,0:05:39.36,SFXPurple,2,0,0,0,,{=37}{\bord0\blur0.7\fade(255,0,255,-1910,-1730,-60,840)\frz10.66\pos(802.18,-124.03)\4a&HFF&}Menacing
 Dialogue: 1,0:05:40.65,0:05:45.16,Rings,,0,0,0,,{\an4\pos(296,690)\blur3}6AM, the ring around JoJo's throat is neutralized.
 Dialogue: 1,0:05:40.65,0:05:45.16,Rings,,0,0,0,,{\an4\pos(296,760)\blur3}6 days remain until the ring around his heart dissolves.
-Dialogue: 1,0:05:40.65,0:05:45.16,Rings,,0,0,0,,{\an4\pos(296,690)}6AM, the ring around Jojo's throat is neutralized.
-Dialogue: 1,0:05:40.65,0:05:45.16,Rings,,0,0,0,,{\an4\pos(296,760)}6 days remain until the ring around his heart dissolves.
-Dialogue: 0,0:05:45.50,0:05:47.98,Dubtitles,,0,0,0,,The news I have to report\Nis really important.
-Dialogue: 0,0:05:48.06,0:05:49.70,Dubtitles,,0,0,0,,But Lisa Lisa is taking a bath.
-Dialogue: 0,0:05:49.78,0:05:51.48,Dubtitles,,0,0,0,,So I'm going to have to\Nwait for half an hour.
-Dialogue: 0,0:05:51.56,0:05:52.56,Dubtitles,,0,0,0,,Until she's done.
-Dialogue: 0,0:06:03.64,0:06:07.46,Dubtitles,,0,0,0,,If I was told to wait then\Nwaiting is what I'll do now.
-Dialogue: 0,0:06:07.54,0:06:13.10,Dubtitles,,0,0,0,,Where to spend half an hour I think the\NBest place is here by Lisa Lisa's door.
-Dialogue: 0,0:06:13.18,0:06:16.64,Dubtitles,,0,0,0,,Would it really be all that\Nwrong if I took a peek?
-Dialogue: 0,0:06:16.72,0:06:19.07,Dubtitles,,0,0,0,,through the keyhole to check things out.
+Dialogue: 0,0:05:45.50,0:05:49.28,Dubtitles,,0,0,0,,The news I have to report is really\Nimportant but Lisa Lisa is taking
+Dialogue: 0,0:05:49.36,0:05:53.42,Dubtitles,,0,0,0,,a bath so I'm going to have to wait\Nfor half an hour until she's done
+Dialogue: 0,0:06:03.64,0:06:07.46,Dubtitles,,0,0,0,,If I was told to wait, then\Nwaiting is what I'll do now.
+Dialogue: 0,0:06:07.54,0:06:11.72,Dubtitles,,0,0,0,,where to spend half an hour I\Nthink the best place is here
+Dialogue: 0,0:06:11.80,0:06:15.72,Dubtitles,,0,0,0,,By Lisa Lisa's door, would\Nit really be all that wrong?
+Dialogue: 0,0:06:15.80,0:06:19.15,Dubtitles,,0,0,0,,if I took a peek through the\Nkeyhole to check things out.
 Dialogue: 0,0:06:25.10,0:06:25.93,Dubtitles,,0,0,0,,Nice!
 Dialogue: 0,0:06:31.18,0:06:32.01,Dubtitles,,0,0,0,,Susie Q?
 Dialogue: 0,0:06:32.40,0:06:34.54,Dubtitles,,0,0,0,,Wait a minute, what's she doing in there?
@@ -541,7 +528,7 @@ Dialogue: 0,0:08:24.26,0:08:26.40,Dubtitles,,0,0,0,,You won't stop coming at us 
 Dialogue: 0,0:08:26.48,0:08:27.74,Dubtitles,,0,0,0,,You don't give up!
 Dialogue: 0,0:08:28.28,0:08:29.11,Dubtitles,,0,0,0,,Jojo!
 Dialogue: 0,0:08:30.18,0:08:33.10,Dubtitles,,0,0,0,,Oh Caesar, well, it's about damn time.
-Dialogue: 0,0:08:34.76,0:08:35.88,Dubtitles,,0,0,0,,You are...
+Dialogue: 0,0:08:34.76,0:08:35.88,Dubtitles,,0,0,0,,You... You...
 Dialogue: 0,0:08:39.40,0:08:42.11,Dubtitles,,0,0,0,,So you managed to survive\Nyour bout with ACDC?
 Dialogue: 0,0:08:42.58,0:08:43.66,Dubtitles,,0,0,0,,You're a lucky one.
 Dialogue: 0,0:08:43.74,0:08:44.76,Dubtitles,,0,0,0,,That's for...
@@ -552,7 +539,7 @@ Dialogue: 0,0:08:51.82,0:08:53.16,Dubtitles,,0,0,0,,It's not like that, okay?
 Dialogue: 0,0:08:53.24,0:08:54.72,Dubtitles,,0,0,0,,Just take a look at Susie Q.
 Dialogue: 0,0:08:54.80,0:08:55.74,Dubtitles,,0,0,0,,All right, then.
 Dialogue: 0,0:08:57.76,0:08:58.74,Dubtitles,,0,0,0,,What's going on?
-Dialogue: 0,0:08:59.50,0:09:00.38,Dubtitles,,0,0,0,,It's ACDC.
+Dialogue: 0,0:08:59.50,0:09:00.38,Dubtitles,,0,0,0,,It's AC/DC!
 Dialogue: 0,0:09:01.50,0:09:02.33,Dubtitles,,0,0,0,,Damn him.
 Dialogue: 0,0:09:02.41,0:09:04.62,Dubtitles,,0,0,0,,He somehow figured out a\Nway to make his brain and
 Dialogue: 0,0:09:04.70,0:09:07.30,Dubtitles,,0,0,0,,blood vessels invade her\Nbody and take control of her.
@@ -562,9 +549,9 @@ Dialogue: 0,0:09:12.86,0:09:14.86,Dubtitles,,0,0,0,,Everyone picks on me all the
 Dialogue: 0,0:09:15.56,0:09:18.74,Dubtitles,,0,0,0,,But you'll never pick\Non me, Caesar, will you?
 Dialogue: 0,0:09:18.94,0:09:20.50,Dubtitles,,0,0,0,,Don't fall for a word of it.
 Dialogue: 0,0:09:20.58,0:09:22.52,Dubtitles,,0,0,0,,Susie Q is not doing the talking.
-Dialogue: 0,0:09:22.86,0:09:25.62,Dubtitles,,0,0,0,,ACDC is manipulating her. That's right.
+Dialogue: 0,0:09:22.86,0:09:25.62,Dubtitles,,0,0,0,,AC/DC is manipulating her. That's right.
 Dialogue: 0,0:09:25.78,0:09:29.18,Dubtitles,,0,0,0,,She managed to take the stone\Nand put it on a postal boat.
-Dialogue: 0,0:09:29.26,0:09:32.70,Dubtitles,,0,0,0,,Leave this thing to Jojo\Nand me and find that boat!
+Dialogue: 0,0:09:29.26,0:09:32.70,Dubtitles,,0,0,0,,Leave this thing to Jojo\Nand me, and find that boat!
 Dialogue: 0,0:09:32.86,0:09:33.98,Dubtitles,,0,0,0,,Get the stone back!
 Dialogue: 0,0:09:34.10,0:09:37.87,Dubtitles,,0,0,0,,If the red stone reaches Venice\Nand is transferred onto a train,
 Dialogue: 0,0:09:37.96,0:09:42.08,Dubtitles,,0,0,0,,we'll lose track of it and have no\Nway to know where it will end up!
@@ -583,7 +570,7 @@ Dialogue: 0,0:10:22.08,0:10:25.50,Dubtitles,,0,0,0,,Are you willing to snuff out
 Dialogue: 0,0:10:25.58,0:10:28.42,Dubtitles,,0,0,0,,If you are, then hurry up and do it!
 Dialogue: 0,0:10:28.76,0:10:32.23,Dubtitles,,0,0,0,,Quit standing there and wasting\Ntime, you stupid dickheads!
 Dialogue: 0,0:10:33.78,0:10:34.61,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:10:35.30,0:10:37.24,Dubtitles,,0,0,0,,I'm not soft-hearted, ACDC.
+Dialogue: 0,0:10:35.30,0:10:37.24,Dubtitles,,0,0,0,,I'm not soft-hearted, AC/DC.
 Dialogue: 0,0:10:37.60,0:10:40.66,Dubtitles,,0,0,0,,All I have to do is end\Nthe life of one young girl,
 Dialogue: 0,0:10:41.36,0:10:44.36,Dubtitles,,0,0,0,,and I'll be able to save\Nthe entire world from you.
 Dialogue: 0,0:10:44.48,0:10:47.76,Dubtitles,,0,0,0,,I would consider it a small\Nbut necessary sacrifice.
@@ -861,23 +848,23 @@ Dialogue: 0,0:11:10.88,0:11:13.52,Dubtitles,,0,0,0,,I thought he'd pop out of he
 Dialogue: 0,0:11:13.60,0:11:15.25,Dubtitles,,0,0,0,,but it didn't even faze him!
 Dialogue: 0,0:11:17.94,0:11:19.56,Dubtitles,,0,0,0,,Enough of your bluffing!
 Dialogue: 0,0:11:19.84,0:11:23.25,Dubtitles,,0,0,0,,You can never kill this girl\Nno matter how hard you tried!
-Dialogue: 0,0:11:26.76,0:11:27.59,Dubtitles,,0,0,0,,Hehehehe!
-Dialogue: 0,0:11:33.90,0:11:38.00,Dubtitles,,0,0,0,,By now I'm sure the stone has\Nalready arrived on the main island.
-Dialogue: 0,0:11:38.80,0:11:40.18,Dubtitles,,0,0,0,,You're too late!
-Dialogue: 0,0:11:42.40,0:11:43.52,Dubtitles,,0,0,0,,And now...
-Dialogue: 0,0:11:44.58,0:11:45.58,Dubtitles,,0,0,0,,The bastard!
+Dialogue: 0,0:11:26.70,0:11:27.53,Dubtitles,,0,0,0,,Heheheheh.
+Dialogue: 0,0:11:33.92,0:11:38.00,Dubtitles,,0,0,0,,By now, I'm sure the stone has\Nalready arrived on the main island.
+Dialogue: 0,0:11:38.82,0:11:40.18,Dubtitles,,0,0,0,,You're too late!
+Dialogue: 0,0:11:42.44,0:11:43.52,Dubtitles,,0,0,0,,And now...
+Dialogue: 0,0:11:44.24,0:11:45.58,Dubtitles,,0,0,0,,Oh, the bastard!
 Dialogue: 0,0:11:45.88,0:11:48.32,Dubtitles,,0,0,0,,What is he doing to Suzy Q now? Stop!
 Dialogue: 0,0:11:48.56,0:11:49.74,Dubtitles,,0,0,0,,Don't do this, ACDC!
-Dialogue: 0,0:11:49.98,0:11:51.98,Dubtitles,,0,0,0,,And now, just to make things interesting?
-Dialogue: 0,0:11:52.06,0:11:56.02,Dubtitles,,0,0,0,,I will make this girl's body\Nexplode and cover you all in blood!
-Dialogue: 0,0:11:56.10,0:11:58.38,Dubtitles,,0,0,0,,that burns as hot as flowing lava!
+Dialogue: 0,0:11:49.98,0:11:51.98,Dubtitles,,0,0,0,,And now, just to make things interesting,
+Dialogue: 0,0:11:52.06,0:11:55.02,Dubtitles,,0,0,0,,I will make this girl's\Nbody explode and cover
+Dialogue: 0,0:11:55.10,0:11:58.38,Dubtitles,,0,0,0,,you all in blood that burns\Nas hot as flowing lava!
 Dialogue: 0,0:11:59.72,0:12:00.55,Dubtitles,,0,0,0,,Look out!
 Dialogue: 0,0:12:00.80,0:12:02.52,Dubtitles,,0,0,0,,His blood is boiling hot!
 Dialogue: 0,0:12:03.12,0:12:06.42,Dubtitles,,0,0,0,,Suzy Q's body, it's\Nbeginning to fall apart!
 Dialogue: 0,0:12:06.78,0:12:10.20,Dubtitles,,0,0,0,,If this keeps up, it won't be\Njust Suzy Q who'll be in trouble.
 Dialogue: 0,0:12:10.28,0:12:11.88,Dubtitles,,0,0,0,,It'll be all of us as well.
 Dialogue: 0,0:12:12.22,0:12:13.82,Dubtitles,,0,0,0,,So, we have no choice.
-Dialogue: 0,0:12:14.12,0:12:17.38,Dubtitles,,0,0,0,,Jojo, you need to use your\Nhormone on her right now.
+Dialogue: 0,0:12:14.12,0:12:17.38,Dubtitles,,0,0,0,,Jojo, you need to use your\NHamon on her right now.
 Dialogue: 0,0:12:18.22,0:12:19.30,Dubtitles,,0,0,0,,Come on, no!
 Dialogue: 0,0:12:19.66,0:12:21.04,Dubtitles,,0,0,0,,I don't want to do this.
 Dialogue: 0,0:12:21.12,0:12:22.36,Dubtitles,,0,0,0,,Please don't make me.
@@ -886,15 +873,15 @@ Dialogue: 0,0:12:25.02,0:12:28.00,Dubtitles,,0,0,0,,I get about the time I chopp
 Dialogue: 0,0:12:28.08,0:12:29.16,Dubtitles,,0,0,0,,A different plan.
 Dialogue: 0,0:12:29.36,0:12:31.42,Dubtitles,,0,0,0,,We need a different plan right now.
 Dialogue: 0,0:12:33.76,0:12:34.59,Dubtitles,,0,0,0,,All right.
-Dialogue: 0,0:12:34.78,0:12:35.80,Dubtitles,,0,0,0,,I'll do it then.
+Dialogue: 0,0:12:34.78,0:12:35.80,Dubtitles,,0,0,0,,I'll do it, then.
 Dialogue: 0,0:12:36.02,0:12:37.26,Dubtitles,,0,0,0,,No, hold on a minute.
 Dialogue: 0,0:12:37.56,0:12:38.96,Dubtitles,,0,0,0,,Coach, let me do it.
 Dialogue: 0,0:12:39.54,0:12:41.06,Dubtitles,,0,0,0,,Wait, don't do anything.
 Dialogue: 0,0:12:41.30,0:12:42.65,Dubtitles,,0,0,0,,I thought of something.
-Dialogue: 0,0:12:42.94,0:12:45.08,Dubtitles,,0,0,0,,Caesar, do you remember Helcline Pillar?
+Dialogue: 0,0:12:42.94,0:12:45.08,Dubtitles,,0,0,0,,Caesar, do you remember Helpline Pillar?
 Dialogue: 0,0:12:45.16,0:12:46.54,Dubtitles,,0,0,0,,We can give that a shot.
 Dialogue: 0,0:12:46.62,0:12:48.90,Dubtitles,,0,0,0,,It's do or die, so let's go for it.
-Dialogue: 0,0:12:49.80,0:12:54.50,Dubtitles,,0,0,0,,You and me, two types of Harmon\Nat the same time. Two types?
+Dialogue: 0,0:12:49.80,0:12:54.50,Dubtitles,,0,0,0,,You and me, two types of Hamon\Nat the same time. Two types?
 Dialogue: 0,0:12:55.54,0:12:57.26,Dubtitles,,0,0,0,,Yeah, I see what you're saying.
 Dialogue: 0,0:12:57.34,0:12:59.88,Dubtitles,,0,0,0,,You're right, something\Nlike that might just work.
 Dialogue: 0,0:12:59.96,0:13:01.43,Dubtitles,,0,0,0,,You know what to do then.
@@ -1060,13 +1047,8 @@ Dialogue: 1,0:13:31.75,0:13:32.25,HamonSigns,,0,0,0,,{\pos(513,927.8)}Plus
 Dialogue: 1,0:13:31.75,0:13:32.25,HamonSigns,,0,0,0,,{\pos(268,613)}Plus
 Dialogue: 1,0:13:31.75,0:13:32.25,HamonSigns,,0,0,0,,{\pos(337,137)}Plus
 Dialogue: 1,0:13:31.75,0:13:32.25,HamonSigns,,0,0,0,,{\pos(1666,244.6)}Plus
-Dialogue: 1,0:13:31.75,0:13:32.25,RippleSigns,,0,0,0,,{\pos(513,927.8)}Plus
-Dialogue: 1,0:13:31.75,0:13:32.25,RippleSigns,,0,0,0,,{\pos(268,613)}Plus
-Dialogue: 1,0:13:31.75,0:13:32.25,RippleSigns,,0,0,0,,{\pos(337,137)}Plus
-Dialogue: 1,0:13:31.75,0:13:32.25,RippleSigns,,0,0,0,,{\pos(1666,244.6)}Plus
 Dialogue: 1,0:13:31.75,0:13:36.00,Circle,White Circle,0,0,0,,{\p1\pos(84.8,93.6)}(m 752 331 l 721 342 694 356 683 380 672 403 670 433 678 459 691 472 704 480 713 494 728 504 748 507 769 504 792 502 820 473 830 454 833 420 835 388 822 356 808 345)}
 Dialogue: 2,0:13:31.75,0:13:36.00,HamonSigns - 5,,0,0,0,,{\fs45\pos(760,424)}{\c&H6F6C6C&}Plus\NMinus\NZero
-Dialogue: 2,0:13:31.75,0:13:36.00,RippleSigns - 5,,0,0,0,,{\fs45\pos(760,424)}{\c&H6F6C6C&}Plus\NMinus\NZero
 Dialogue: 0,0:13:31.94,0:13:35.70,Dubtitles,,0,0,0,,At that point, the Hamon is\Nboth negative and positive zero.
 Dialogue: 1,0:13:32.00,0:13:32.50,HamonSigns,,0,0,0,,{\pos(1334,489)}Minus\NHamon
 Dialogue: 1,0:13:32.00,0:13:32.50,RippleSigns,,0,0,0,,{\pos(1334,489)}Minus\NRipple
@@ -1074,74 +1056,46 @@ Dialogue: 1,0:13:32.25,0:13:32.75,HamonSigns,,0,0,0,,{\pos(293,873.2)}Plus
 Dialogue: 1,0:13:32.25,0:13:32.75,HamonSigns,,0,0,0,,{\pos(275,346)}Plus
 Dialogue: 1,0:13:32.25,0:13:32.75,HamonSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:32.25,0:13:32.75,HamonSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NHamon
-Dialogue: 1,0:13:32.25,0:13:32.75,RippleSigns,,0,0,0,,{\pos(293,873.2)}Plus
-Dialogue: 1,0:13:32.25,0:13:32.75,RippleSigns,,0,0,0,,{\pos(275,346)}Plus
-Dialogue: 1,0:13:32.25,0:13:32.75,RippleSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:32.25,0:13:32.75,RippleSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NRipple
 Dialogue: 1,0:13:32.75,0:13:33.25,HamonSigns,,0,0,0,,{\pos(513,927.8)}Plus
 Dialogue: 1,0:13:32.75,0:13:33.25,HamonSigns,,0,0,0,,{\pos(268,613)}Plus
 Dialogue: 1,0:13:32.75,0:13:33.25,HamonSigns,,0,0,0,,{\pos(337,137)}Plus
 Dialogue: 1,0:13:32.75,0:13:33.25,HamonSigns,,0,0,0,,{\pos(1666,244.6)}Plus
-Dialogue: 1,0:13:32.75,0:13:33.25,RippleSigns,,0,0,0,,{\pos(513,927.8)}Plus
-Dialogue: 1,0:13:32.75,0:13:33.25,RippleSigns,,0,0,0,,{\pos(268,613)}Plus
-Dialogue: 1,0:13:32.75,0:13:33.25,RippleSigns,,0,0,0,,{\pos(337,137)}Plus
-Dialogue: 1,0:13:32.75,0:13:33.25,RippleSigns,,0,0,0,,{\pos(1666,244.6)}Plus
 Dialogue: 1,0:13:33.00,0:13:33.50,HamonSigns,,0,0,0,,{\pos(1334,489)}Minus\NHamon
 Dialogue: 1,0:13:33.00,0:13:33.50,RippleSigns,,0,0,0,,{\pos(1334,489)}Minus\NRipple
 Dialogue: 1,0:13:33.25,0:13:33.75,HamonSigns,,0,0,0,,{\pos(293,873.2)}Plus
 Dialogue: 1,0:13:33.25,0:13:33.75,HamonSigns,,0,0,0,,{\pos(275,346)}Plus
 Dialogue: 1,0:13:33.25,0:13:33.75,HamonSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:33.25,0:13:33.75,HamonSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NHamon
-Dialogue: 1,0:13:33.25,0:13:33.75,RippleSigns,,0,0,0,,{\pos(293,873.2)}Plus
-Dialogue: 1,0:13:33.25,0:13:33.75,RippleSigns,,0,0,0,,{\pos(275,346)}Plus
-Dialogue: 1,0:13:33.25,0:13:33.75,RippleSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:33.25,0:13:33.75,RippleSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NRipple
 Dialogue: 1,0:13:33.75,0:13:34.25,HamonSigns,,0,0,0,,{\pos(513,927.8)}Plus
 Dialogue: 1,0:13:33.75,0:13:34.25,HamonSigns,,0,0,0,,{\pos(268,613)}Plus
 Dialogue: 1,0:13:33.75,0:13:34.25,HamonSigns,,0,0,0,,{\pos(337,137)}Plus
 Dialogue: 1,0:13:33.75,0:13:34.25,HamonSigns,,0,0,0,,{\pos(1666,244.6)}Plus
-Dialogue: 1,0:13:33.75,0:13:34.25,RippleSigns,,0,0,0,,{\pos(513,927.8)}Plus
-Dialogue: 1,0:13:33.75,0:13:34.25,RippleSigns,,0,0,0,,{\pos(268,613)}Plus
-Dialogue: 1,0:13:33.75,0:13:34.25,RippleSigns,,0,0,0,,{\pos(337,137)}Plus
-Dialogue: 1,0:13:33.75,0:13:34.25,RippleSigns,,0,0,0,,{\pos(1666,244.6)}Plus
 Dialogue: 1,0:13:34.00,0:13:34.50,HamonSigns,,0,0,0,,{\pos(1334,489)}Minus\NHamon
 Dialogue: 1,0:13:34.00,0:13:34.50,RippleSigns,,0,0,0,,{\pos(1334,489)}Minus\NRipple
 Dialogue: 1,0:13:34.25,0:13:34.75,HamonSigns,,0,0,0,,{\pos(293,873.2)}Plus
 Dialogue: 1,0:13:34.25,0:13:34.75,HamonSigns,,0,0,0,,{\pos(275,346)}Plus
 Dialogue: 1,0:13:34.25,0:13:34.75,HamonSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:34.25,0:13:34.75,HamonSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NHamon
-Dialogue: 1,0:13:34.25,0:13:34.75,RippleSigns,,0,0,0,,{\pos(293,873.2)}Plus
-Dialogue: 1,0:13:34.25,0:13:34.75,RippleSigns,,0,0,0,,{\pos(275,346)}Plus
-Dialogue: 1,0:13:34.25,0:13:34.75,RippleSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:34.25,0:13:34.75,RippleSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NRipple
 Dialogue: 1,0:13:34.75,0:13:35.25,HamonSigns,,0,0,0,,{\pos(513,927.8)}Plus
 Dialogue: 1,0:13:34.75,0:13:35.25,HamonSigns,,0,0,0,,{\pos(268,613)}Plus
 Dialogue: 1,0:13:34.75,0:13:35.25,HamonSigns,,0,0,0,,{\pos(337,137)}Plus
 Dialogue: 1,0:13:34.75,0:13:35.25,HamonSigns,,0,0,0,,{\pos(1666,244.6)}Plus
-Dialogue: 1,0:13:34.75,0:13:35.25,RippleSigns,,0,0,0,,{\pos(513,927.8)}Plus
-Dialogue: 1,0:13:34.75,0:13:35.25,RippleSigns,,0,0,0,,{\pos(268,613)}Plus
-Dialogue: 1,0:13:34.75,0:13:35.25,RippleSigns,,0,0,0,,{\pos(337,137)}Plus
-Dialogue: 1,0:13:34.75,0:13:35.25,RippleSigns,,0,0,0,,{\pos(1666,244.6)}Plus
 Dialogue: 1,0:13:35.00,0:13:35.50,HamonSigns,,0,0,0,,{\pos(1334,489)}Minus\NHamon
 Dialogue: 1,0:13:35.00,0:13:35.50,RippleSigns,,0,0,0,,{\pos(1334,489)}Minus\NRipple
 Dialogue: 1,0:13:35.25,0:13:35.75,HamonSigns,,0,0,0,,{\pos(293,873.2)}Plus
 Dialogue: 1,0:13:35.25,0:13:35.75,HamonSigns,,0,0,0,,{\pos(275,346)}Plus
 Dialogue: 1,0:13:35.25,0:13:35.75,HamonSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:35.25,0:13:35.75,HamonSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NHamon
-Dialogue: 1,0:13:35.25,0:13:35.75,RippleSigns,,0,0,0,,{\pos(293,873.2)}Plus
-Dialogue: 1,0:13:35.25,0:13:35.75,RippleSigns,,0,0,0,,{\pos(275,346)}Plus
-Dialogue: 1,0:13:35.25,0:13:35.75,RippleSigns,,0,0,0,,{\pos(1757,579)}Plus
 Dialogue: 1,0:13:35.25,0:13:35.75,RippleSigns,,0,0,0,,{\pos(1581.6,212)}Plus\NRipple
 Dialogue: 1,0:13:35.75,0:13:36.00,HamonSigns,,0,0,0,,{\pos(513,927.8)}Plus
 Dialogue: 1,0:13:35.75,0:13:36.00,HamonSigns,,0,0,0,,{\pos(268,613)}Plus
 Dialogue: 1,0:13:35.75,0:13:36.00,HamonSigns,,0,0,0,,{\pos(337,137)}Plus
 Dialogue: 1,0:13:35.75,0:13:36.00,HamonSigns,,0,0,0,,{\pos(1666,244.6)}Plus
-Dialogue: 1,0:13:35.75,0:13:36.00,RippleSigns,,0,0,0,,{\pos(513,927.8)}Plus
-Dialogue: 1,0:13:35.75,0:13:36.00,RippleSigns,,0,0,0,,{\pos(268,613)}Plus
-Dialogue: 1,0:13:35.75,0:13:36.00,RippleSigns,,0,0,0,,{\pos(337,137)}Plus
-Dialogue: 1,0:13:35.75,0:13:36.00,RippleSigns,,0,0,0,,{\pos(1666,244.6)}Plus
 Dialogue: 0,0:13:46.04,0:13:46.94,Dubtitles,,0,0,0,,It worked!
-Dialogue: 0,0:13:47.10,0:13:48.56,Dubtitles,,0,0,0,,You forced AC-DC out!
+Dialogue: 0,0:13:47.10,0:13:48.56,Dubtitles,,0,0,0,,You forced him out!
 Dialogue: 0,0:13:51.34,0:13:52.17,Dubtitles,,0,0,0,,Jojo!
 Dialogue: 0,0:13:52.96,0:13:53.79,Dubtitles,,0,0,0,,Don't worry.
 Dialogue: 0,0:13:54.22,0:13:55.12,Dubtitles,,0,0,0,,It's all right.
@@ -1168,7 +1122,7 @@ Dialogue: 0,0:15:08.04,0:15:09.20,Dubtitles,,0,0,0,,A package.
 Dialogue: 0,0:15:09.28,0:15:13.72,Dubtitles,,0,0,0,,An envelope with Signora\NLisa Lisa's crest.
 Dialogue: 0,0:15:14.18,0:15:16.02,Dubtitles,,0,0,0,,The address is...
 Dialogue: 0,0:15:18.02,0:15:18.85,Dubtitles,,0,0,0,,Switzerland?
-Dialogue: 0,0:15:18.93,0:15:21.78,Dubtitles,,0,0,0,,What about cars in Wamuu?\NAre they there? Hmm.
+Dialogue: 0,0:15:18.93,0:15:21.78,Dubtitles,,0,0,0,,What about Cars and Wamuu?\NAre they there? Hmm.
 Dialogue: 0,0:15:22.26,0:15:24.48,Dubtitles,,0,0,0,,I just checked with my\Ncontact at the station.
 Dialogue: 0,0:15:24.56,0:15:27.80,Dubtitles,,0,0,0,,A cargo train for Switzerland\Nleft not ten minutes ago.
 Dialogue: 0,0:15:28.22,0:15:29.05,Dubtitles,,0,0,0,,That's it.
@@ -1185,13 +1139,7 @@ Dialogue: 1,0:15:30.91,0:15:37.54,Cities,,0,0,0,,{\blur0.9\be(6)\pos(990,396)\c&
 Dialogue: 2,0:15:30.91,0:15:37.54,Cities,,0,0,0,,{\bord0\blur0.9\be(6)\pos(990,396)\4a&HFF&}St. Moritz
 Dialogue: 1,0:15:30.91,0:15:37.54,Cities,,0,0,0,,{\blur0.9\be(6)\pos(1484,731)\c&HE0F2FA&}Venice
 Dialogue: 2,0:15:30.91,0:15:37.54,Cities,,0,0,0,,{\bord0\blur0.9\be(6)\pos(1484,731)\4a&HFF&}Venice
-Dialogue: 1,0:15:30.91,0:15:37.54,Countries,,0,0,0,,{\be(1)\pos(251,390)}France
-Dialogue: 1,0:15:30.91,0:15:37.54,Countries,,0,0,0,,{\be(1)\c&H333F1C&\pos(1006,255)}Switzerland
-Dialogue: 1,0:15:30.91,0:15:37.54,Countries,,0,0,0,,{\be(1)\pos(1400,121)}Germany
-Dialogue: 1,0:15:30.91,0:15:37.54,Countries,,0,0,0,,{\c&H553635&\be(1)\pos(1084,832)}Italy
-Dialogue: 1,0:15:30.91,0:15:37.54,Cities,,0,0,0,,{\be(6)\pos(990,396)}St. Moritz
-Dialogue: 1,0:15:30.91,0:15:37.54,Cities,,0,0,0,,{\be(6)\pos(1484,731)}Venice
-Dialogue: 0,0:15:31.62,0:15:33.26,Dubtitles,,0,0,0,,They've got a big head start,
+Dialogue: 0,0:15:31.62,0:15:33.26,Dubtitles,,0,0,0,,They've got a big head start.
 Dialogue: 0,0:15:33.34,0:15:36.06,Dubtitles,,0,0,0,,but we've got to somehow figure\Nout a way to get ourselves to St.
 Dialogue: 0,0:15:36.14,0:15:38.00,Dubtitles,,0,0,0,,Moritz before that train arrives.
 Dialogue: 0,0:15:38.08,0:15:42.60,Dubtitles,,0,0,0,,We have to do everything we can to keep the\Nstone from falling into the wrong hands.
@@ -1275,7 +1223,7 @@ Dialogue: 2,0:17:02.46,0:17:02.54,SFXPurple2,8,0,0,0,,{=30}{\bord0\blur0.8\alpha
 Dialogue: 0,0:17:03.32,0:17:04.78,Dubtitles,,0,0,0,,You're a stupid jerk!
 Dialogue: 0,0:17:15.06,0:17:17.47,Dubtitles,,0,0,0,,I'll be back a lot sooner than you think.
 Dialogue: 1,0:17:21.14,0:17:24.65,Title2.1,,0,0,0,,{\pos(965,810)\bord3\blur2}St. Moritz, Switzerland
-Dialogue: 1,0:17:21.14,0:17:24.65,Title2,,0,0,0,,{\pos(965,810)}St. Moritz, Switzerland
+Dialogue: 0,0:17:34.78,0:17:36.78,Dubtitles,,0,0,0,,Oh, my God.
 Dialogue: 1,0:17:56.14,0:17:56.18,SFXFire,9,0,0,0,,{=31}{\blur7\bord15.71\fscx172.81\fscy157.1\alpha&H80&\frz363.98\pos(1602.89,-304.13)}S{*\c&H4AC8F6&}c{*\c&H3291EF&}r{\c&H1B5AE7&}e{*\c&H1847B9&}e{*\c&H16358B&}c{\c&H13225D&}h
 Dialogue: 2,0:17:56.14,0:17:56.18,SFXFire,9,0,0,0,,{=31}{\blur0.9\bord15.71\fscx172.81\fscy157.1\alpha&H00&\frz363.98\pos(1602.89,-304.13)\c&H0C1222&}Screech
 Dialogue: 3,0:17:56.14,0:17:56.18,SFXFire,9,0,0,0,,{=31}{\blur0.9\bord0\fscx172.81\fscy157.1\alpha&H00&\frz363.98\pos(1602.89,-304.13)\4a&HFF&}S{*\c&H4AC8F6&}c{*\c&H3291EF&}r{\c&H1B5AE7&}e{*\c&H1847B9&}e{*\c&H16358B&}c{\c&H13225D&}h
@@ -1348,7 +1296,6 @@ Dialogue: 3,0:17:57.85,0:17:57.93,SFXFire,9,0,0,0,,{=31}{\blur0.9\bord0\fscx110.
 Dialogue: 1,0:17:57.93,0:17:57.97,SFXFire,9,0,0,0,,{=31}{\blur7\bord10.15\fscx111.64\fscy101.49\alpha&H80&\frz341\pos(1632.28,353.64)}S{*\c&H4AC8F6&}c{*\c&H3291EF&}r{\c&H1B5AE7&}e{*\c&H1847B9&}e{*\c&H16358B&}c{\c&H13225D&}h
 Dialogue: 2,0:17:57.93,0:17:57.97,SFXFire,9,0,0,0,,{=31}{\blur0.9\bord10.15\fscx111.64\fscy101.49\alpha&H00&\frz341\pos(1632.28,353.64)\c&H0C1222&}Screech
 Dialogue: 3,0:17:57.93,0:17:57.97,SFXFire,9,0,0,0,,{=31}{\blur0.9\bord0\fscx111.64\fscy101.49\alpha&H00&\frz341\pos(1632.28,353.64)\4a&HFF&}S{*\c&H4AC8F6&}c{*\c&H3291EF&}r{\c&H1B5AE7&}e{*\c&H1847B9&}e{*\c&H16358B&}c{\c&H13225D&}h
-Dialogue: 0,0:18:03.36,0:18:04.76,Dubtitles,,0,0,0,,Screams
 Dialogue: 0,0:18:06.30,0:18:09.02,Dubtitles,,0,0,0,,Hey, it drives a damned car, really? Huh?
 Dialogue: 0,0:18:09.24,0:18:10.92,Dubtitles,,0,0,0,,What's happened to your arms, man?
 Dialogue: 0,0:18:11.00,0:18:11.83,Dubtitles,,0,0,0,,Huh?
@@ -1361,21 +1308,19 @@ Dialogue: 0,0:18:27.86,0:18:30.33,Dubtitles,,0,0,0,,I wonder if something has ha
 Dialogue: 0,0:18:33.72,0:18:35.10,Dubtitles,,0,0,0,,Hey, Jojo. Jojo.
 Dialogue: 0,0:18:37.32,0:18:38.46,Dubtitles,,0,0,0,,Jojo, wake up!
 Dialogue: 1,0:18:39.06,0:18:43.31,Title2.1,,0,0,0,,{\fscx96\pos(960,680)\bord3\blur2}5:00PM\N6 Days Until the Heart Ring Dissolves {This is a bit wordy, maybe fix the bottom line? Something like "6 Days Until Heart Ring Desolves" or "6 Days Until Remaining Ring Desolves"? -Fadeout4}
-Dialogue: 1,0:18:39.06,0:18:43.31,Title2,,0,0,0,,{\fscx96\pos(960,680)}5:00PM\N6 Days Until the Heart Ring Dissolves {This is a bit wordy, maybe fix the bottom line? Something like "6 Days Until Heart Ring Desolves" or "6 Days Until Remaining Ring Desolves"? -Fadeout4}
 Dialogue: 0,0:18:41.08,0:18:43.26,Dubtitles,,0,0,0,,Jojo, we've caught up with the train.
 Dialogue: 0,0:18:43.58,0:18:46.34,Dubtitles,,0,0,0,,They're going through their\Ncustoms check at the moment.
 Dialogue: 0,0:18:46.42,0:18:47.83,Dubtitles,,0,0,0,,That works in our favor.
 Dialogue: 0,0:18:47.92,0:18:52.52,Dubtitles,,0,0,0,,We're less than an hour from San Moritz,\Nwhich leaves us enough time to get ready.
-Dialogue: 0,0:18:52.60,0:18:54.04,Dubtitles,,0,0,0,,It's good we caught up.
+Dialogue: 0,0:18:52.60,0:18:54.04,Dubtitles,,0,0,0,,It's good we caught it.
 Dialogue: 0,0:18:54.34,0:18:56.24,Dubtitles,,0,0,0,,Come on, Jojo. Look sharp.
-Dialogue: 0,0:18:57.42,0:19:00.90,Dubtitles,,0,0,0,,Listen, I'm just saving up my strength\Nfor the big battle, that's all.
-Dialogue: 0,0:19:00.98,0:19:02.36,Dubtitles,,0,0,0,,Get off my case!
-Dialogue: 0,0:19:02.98,0:19:05.90,Dubtitles,,0,0,0,,Let's hurry up and get there\Nso we can retrieve that stone.
-Dialogue: 0,0:19:05.98,0:19:09.44,Dubtitles,,0,0,0,,Then we're going to need some sort\Nof plan for the fight with Wamu.
-Dialogue: 0,0:19:09.52,0:19:11.70,Dubtitles,,0,0,0,,We'll wait for that until we cross.
+Dialogue: 0,0:18:57.42,0:18:58.25,Dubtitles,,0,0,0,,Listen,
+Dialogue: 0,0:18:58.33,0:19:02.67,Dubtitles,,0,0,0,,I'm just saving up my strength for the\Nbig battle, that's all Get off my case
+Dialogue: 0,0:19:02.98,0:19:07.32,Dubtitles,,0,0,0,,Let's hurry up and get there so we can\Nretrieve that stone Then we're going to
+Dialogue: 0,0:19:07.40,0:19:12.17,Dubtitles,,0,0,0,,need some sort of plan for the fight with\NWamu We'll wait for that until we cross
 Dialogue: 0,0:19:14.94,0:19:16.10,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 0,0:19:17.52,0:19:18.46,Dubtitles,,0,0,0,,Knock it off!
-Dialogue: 0,0:19:18.68,0:19:21.74,Dubtitles,,0,0,0,,If you want to go on, just\Nquit honking and pass us.
+Dialogue: 0,0:19:18.68,0:19:21.68,Dubtitles,,0,0,0,,If you want to go on, just\Nquit honking and pass us
 Dialogue: 1,0:19:22.14,0:19:22.18,SFXSomething,10,0,0,0,,{=19}{\3c&H182540&\c&H182540&\blur0.6\alpha&HFF&\alpha&H00&\t(5959,5960,\alpha&HFF&)\frz355.8\org(1865.509,28.342)\pos(1865.509,28.342)}Menacing
 Dialogue: 2,0:19:22.14,0:19:22.18,SFXSomething,10,0,0,0,,{=19}{\bord0\blur0.6\alpha&HFF&\alpha&H00&\t(5959,5960,\alpha&HFF&)\frz355.8\org(1865.509,28.342)\pos(1865.509,28.342)\4a&HFF&}Menacing
 Dialogue: 1,0:19:22.18,0:19:22.22,SFXSomething,10,0,0,0,,{=19}{\3c&H182540&\c&H182540&\blur0.6\alpha&HFF&\alpha&H00&\t(5959,5960,\alpha&HFF&)\frz355.8\org(1865.509,28.342)\pos(1865.509,28.342)}Menacing
@@ -1687,7 +1632,7 @@ Dialogue: 0,0:20:15.24,0:20:17.76,Dubtitles,,0,0,0,,specimen for our scientific\
 Dialogue: 0,0:20:17.84,0:20:20.10,Dubtitles,,0,0,0,,For the past three weeks,
 Dialogue: 0,0:20:20.32,0:20:24.54,Dubtitles,,0,0,0,,we have been watching your every move\Nwhile you were operating in Venice.
 Dialogue: 0,0:20:24.62,0:20:28.06,Dubtitles,,0,0,0,,We began the surveillance\Nwhen we lost our team in Rome.
-Dialogue: 0,0:20:28.66,0:20:34.00,Dubtitles,,0,0,0,,We saw your training, we saw ACDC, and\Nwe knew you were chasing the stone.
+Dialogue: 0,0:20:28.66,0:20:34.00,Dubtitles,,0,0,0,,We saw your training. We saw AC/DC,\Nand we knew you were chasing the Stone.
 Dialogue: 0,0:20:35.56,0:20:39.96,Dubtitles,,0,0,0,,Now, our base is set up at\Na lodge up ahead. Follow us.
 Dialogue: 0,0:20:40.64,0:20:44.68,Dubtitles,,0,0,0,,We want to ask a few questions\Nabout the stone and about cars.
 Dialogue: 0,0:20:45.12,0:20:47.10,Dubtitles,,0,0,0,,Why not work together, eh?
@@ -3141,7 +3086,6 @@ Dialogue: 1,0:21:10.08,0:21:10.12,Old Map2,,0,0,0,,{=57}{\blur1\c&HE0EDF1&\pos(1
 Dialogue: 2,0:21:10.08,0:21:10.12,Old Map2,,0,0,0,,{=56}{\bord0\blur1\4a&HFF&\pos(1541.52,464.18)}Warsaw
 Dialogue: 1,0:21:10.08,0:21:10.12,Old Map2,,0,0,0,,{=59}{\blur1\pos(1061.85,725.05)\c&HE0EDF1&}Vienna
 Dialogue: 2,0:21:10.08,0:21:10.12,Old Map2,,0,0,0,,{=58}{\bord0\blur1\pos(1061.85,725.05)\4a&HFF&}Vienna
-Dialogue: 1,0:21:10.08,0:21:16.80,Old Map,,0,0,0,,{\fad(1000,0)\be5\pos(174,66)}March 13, 1938: Annexation of Austria {If you want, I can add in the translation of all these countries and cities, but I feel like that would turn into a clusterfuck. They would also not be shaking, which already looks weird with the 3 lines I do have. -Fadeout4}
 Dialogue: 1,0:21:10.12,0:21:10.17,Old Map,,0,0,0,,{=32}{\fade(255,0,255,-40,960,6670,6670)\be5\pos(173.48,65.66)}March 13, 1938: Annexation of Austria {If you want, I can add in the translation of all these countries and cities, but I feel like that would turn into a clusterfuck. They would also not be shaking, which already looks weird with the 3 lines I do have. -Fadeout4}
 Dialogue: 1,0:21:10.12,0:21:10.17,Old Map1,,0,0,0,,{=38}{\pos(1030.52,636.99)\blur1.1}Czechoslovakia
 Dialogue: 1,0:21:10.12,0:21:10.17,Old Map1,,0,0,0,,{=39}{\pos(1434.59,602.87)\blur1.1}Poland
@@ -3795,7 +3739,6 @@ Dialogue: 1,0:21:11.37,0:21:11.42,Old Map2,,0,0,0,,{=57}{\blur1\c&HE0EDF1&\pos(1
 Dialogue: 2,0:21:11.37,0:21:11.42,Old Map2,,0,0,0,,{=56}{\bord0\blur1\4a&HFF&\pos(1539.78,464.57)}Warsaw
 Dialogue: 1,0:21:11.37,0:21:11.42,Old Map2,,0,0,0,,{=59}{\blur1\pos(1059.57,725.72)\c&HE0EDF1&}Vienna
 Dialogue: 2,0:21:11.37,0:21:11.42,Old Map2,,0,0,0,,{=58}{\bord0\blur1\pos(1059.57,725.72)\4a&HFF&}Vienna
-Dialogue: 1,0:21:11.37,0:21:16.80,Old Map,,0,0,0,,{\fad(1000,0)\be(5)\pos(174,198)}March 15, 1939: Annexation of Bohemia and Moravia
 Dialogue: 1,0:21:11.42,0:21:11.46,Old Map,,0,0,0,,{=32}{\fade(255,0,255,-1330,-330,5380,5380)\be5\pos(174.51,66.33)}March 13, 1938: Annexation of Austria {If you want, I can add in the translation of all these countries and cities, but I feel like that would turn into a clusterfuck. They would also not be shaking, which already looks weird with the 3 lines I do have. -Fadeout4}
 Dialogue: 3,0:21:11.42,0:21:11.46,Old Map,,0,0,0,,{=33}{\fade(255,0,255,-40,960,5380,5380)\be(5)\pos(174.87,199.64)}March 15, 1939: Annexation of Bohemia and Moravia
 Dialogue: 1,0:21:11.42,0:21:11.46,Old Map1,,0,0,0,,{=38}{\pos(1030.87,637.44)\blur1.1}Czechoslovakia
@@ -4458,7 +4401,6 @@ Dialogue: 1,0:21:12.63,0:21:12.67,Old Map2,,0,0,0,,{=57}{\blur1\c&HE0EDF1&\pos(1
 Dialogue: 2,0:21:12.63,0:21:12.67,Old Map2,,0,0,0,,{=56}{\bord0\blur1\4a&HFF&\pos(1540.1,465.48)}Warsaw
 Dialogue: 1,0:21:12.63,0:21:12.67,Old Map2,,0,0,0,,{=59}{\blur1\pos(1060.24,725.83)\c&HE0EDF1&}Vienna
 Dialogue: 2,0:21:12.63,0:21:12.67,Old Map2,,0,0,0,,{=58}{\bord0\blur1\pos(1060.24,725.83)\4a&HFF&}Vienna
-Dialogue: 1,0:21:12.63,0:21:16.80,Old Map,,0,0,0,,{\fad(1000,0)\be(5)\pos(174,327)}September 28, 1939: Division of Poland with Soviet Union
 Dialogue: 1,0:21:12.67,0:21:12.71,Old Map,,0,0,0,,{=32}{\fade(255,0,255,-2580,-1580,4130,4130)\be5\pos(173.27,65)}March 13, 1938: Annexation of Austria {If you want, I can add in the translation of all these countries and cities, but I feel like that would turn into a clusterfuck. They would also not be shaking, which already looks weird with the 3 lines I do have. -Fadeout4}
 Dialogue: 3,0:21:12.67,0:21:12.71,Old Map,,0,0,0,,{=33}{\fade(255,0,255,-1290,-290,4130,4130)\be(5)\pos(173.98,198.27)}March 15, 1939: Annexation of Bohemia and Moravia
 Dialogue: 1,0:21:12.67,0:21:12.71,Old Map,,0,0,0,,{=34}{\fade(255,0,255,-40,960,4130,4130)\be(5)\pos(172.88,327.61)}September 28, 1939: Division of Poland with Soviet Union
@@ -6754,7 +6696,6 @@ Dialogue: 1,0:21:31.27,0:21:31.35,Title2,,0,0,0,,{\fs90\be3\pos(960,800)\clip(m 
 Dialogue: 1,0:21:31.35,0:21:31.39,Title2,,0,0,0,,{\fs90\be3\pos(960,800)\clip(490,760,1290,852)}5 hours Later, 10:00PM
 Dialogue: 1,0:21:31.39,0:21:31.44,Title2,,0,0,0,,{\fs90\be3\pos(960,800)\clip(476,744,1346,850)}5 hours Later, 10:00PM
 Dialogue: 1,0:21:31.44,0:21:33.52,Title2,,0,0,0,,{\fs90\be3\pos(960,800)\fad(0,771)}5 hours Later, 10:00PM
-Dialogue: 1,0:21:31.44,0:21:33.52,Title2,,0,0,0,,{\fs(90)\be3\pos(960,800)\fad(0,771)}5 hours Later, 10:00PM
 Dialogue: 0,0:21:44.92,0:21:46.76,Dubtitles,,0,0,0,,I'll read the heat inside.
 Dialogue: 0,0:21:47.22,0:21:48.80,Dubtitles,,0,0,0,,The fireplace is lit.
 Dialogue: 0,0:21:49.76,0:21:53.58,Dubtitles,,0,0,0,,Four lights on the wall, two on\Nthe ceiling, two on the desk, no.
@@ -6767,13 +6708,12 @@ Dialogue: 0,0:22:10.56,0:22:13.36,Dubtitles,,0,0,0,,There are five humans, all m
 Dialogue: 0,0:22:25.88,0:22:29.88,Dubtitles,,0,0,0,,One, two, that's four and five.
 Dialogue: 0,0:22:35.86,0:22:38.18,Dubtitles,,0,0,0,,So you must be cars.
 Dialogue: 0,0:22:38.64,0:22:39.64,Dubtitles,,0,0,0,,You're fast.
-Dialogue: 0,0:22:39.72,0:22:43.70,Dubtitles,,0,0,0,,In just a few hours you heard\Nabout your friend's defeat?
-Dialogue: 0,0:22:43.78,0:22:45.92,Dubtitles,,0,0,0,,Learned that we had obtained the stone!
-Dialogue: 0,0:22:46.00,0:22:48.86,Dubtitles,,0,0,0,,Found our location and have come for it.
-Dialogue: 0,0:22:48.94,0:22:50.20,Dubtitles,,0,0,0,,Very impressive!
-Dialogue: 0,0:22:50.28,0:22:53.98,Dubtitles,,0,0,0,,And then this brutal,\Nperfectly calculated assault.
-Dialogue: 0,0:22:54.06,0:22:58.16,Dubtitles,,0,0,0,,Not one of my men made even the\Nslightest sound before they died.
-Dialogue: 0,0:22:58.24,0:23:01.92,Dubtitles,,0,0,0,,I was sure there were only\Nfive men in this room?
+Dialogue: 0,0:22:39.72,0:22:42.86,Dubtitles,,0,0,0,,In just a few hours, you heard about your
+Dialogue: 0,0:22:42.94,0:22:45.34,Dubtitles,,0,0,0,,friend's defeat Learned\Nthat we had obtained
+Dialogue: 0,0:22:45.42,0:22:48.32,Dubtitles,,0,0,0,,the stone Found our location and have come
+Dialogue: 0,0:22:48.40,0:22:52.18,Dubtitles,,0,0,0,,for it Very impressive\NAnd then this brutal,
+Dialogue: 0,0:22:52.42,0:22:56.66,Dubtitles,,0,0,0,,perfectly calculated assault Not one\Nof my men made even the slightest
+Dialogue: 0,0:22:56.74,0:23:01.92,Dubtitles,,0,0,0,,sound before they died I was sure\Nthere were only five men in this room
 Dialogue: 0,0:23:02.64,0:23:06.68,Dubtitles,,0,0,0,,Now tell me, why can't\NI sense your body heat?
 Dialogue: 0,0:23:06.96,0:23:08.74,Dubtitles,,0,0,0,,Hey, rifle heads! What's...
 Dialogue: 0,0:23:08.82,0:23:11.92,Dubtitles,,0,0,0,,what's a guy gotta do to\Nget a little food in here?
@@ -6784,46 +6724,36 @@ Dialogue: 0,0:23:18.74,0:23:19.82,Dubtitles,,0,0,0,,Wait a minute.
 Dialogue: 0,0:23:21.72,0:23:23.48,Dubtitles,,0,0,0,,You're von Stroheim!
 Dialogue: 1,0:23:33.43,0:23:37.02,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
 Dialogue: 1,0:23:37.02,0:23:40.57,Lyrics 2,Yes,0,0,0,,The words will make you out 'n' out
-Dialogue: 0,0:23:38.60,0:23:40.50,Dubtitles,,0,0,0,,I'll take you out and out.
+Dialogue: 0,0:23:38.60,0:23:43.82,Dubtitles,,0,0,0,,I'll take you out and out,\NI'll spend the day your way.
 Dialogue: 1,0:23:40.57,0:23:45.90,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:23:40.58,0:23:43.82,Dubtitles,,0,0,0,,I'll spend the day your way.
-Dialogue: 0,0:23:45.70,0:23:48.60,Dubtitles,,0,0,0,,Call it morning driving through the sun.
+Dialogue: 0,0:23:45.70,0:23:50.28,Dubtitles,,0,0,0,,Call it morning driving through\Nthe sun And in and out the valley
 Dialogue: 1,0:23:45.90,0:23:48.57,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
 Dialogue: 1,0:23:48.57,0:23:53.04,Lyrics 2,Yes,0,0,0,,In and out the valley
-Dialogue: 0,0:23:48.68,0:23:50.28,Dubtitles,,0,0,0,,And in and out the valley.
-Dialogue: 0,0:24:00.12,0:24:03.36,Dubtitles,,0,0,0,,The music dance and sing.
+Dialogue: 0,0:24:00.12,0:24:05.44,Dubtitles,,0,0,0,,The music dance and\Nsing They make the chill
 Dialogue: 1,0:24:00.54,0:24:04.13,Lyrics 2,Yes,0,0,0,,The music dance and sing
-Dialogue: 0,0:24:03.44,0:24:07.54,Dubtitles,,0,0,0,,They make the chill and drum really ring.
 Dialogue: 1,0:24:04.13,0:24:07.72,Lyrics 2,Yes,0,0,0,,They make the children really ring
-Dialogue: 0,0:24:07.62,0:24:11.62,Dubtitles,,0,0,0,,I'll spend the day your way.
+Dialogue: 0,0:24:05.52,0:24:11.62,Dubtitles,,0,0,0,,And drum really ring. I'll\Nspend the day your way.
 Dialogue: 1,0:24:07.72,0:24:13.01,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
 Dialogue: 1,0:24:13.01,0:24:15.64,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
-Dialogue: 0,0:24:13.10,0:24:15.74,Dubtitles,,0,0,0,,Cold in morning, driving through the sun.
+Dialogue: 0,0:24:13.10,0:24:17.56,Dubtitles,,0,0,0,,Cold in morning, driving through\Nthe sun And in and out the valley
 Dialogue: 1,0:24:15.64,0:24:19.69,Lyrics 2,Yes,0,0,0,,In and out the valley
-Dialogue: 0,0:24:15.82,0:24:17.56,Dubtitles,,0,0,0,,And in and out the valley.
-Dialogue: 0,0:24:19.58,0:24:22.16,Dubtitles,,0,0,0,,In and out around the lake.
+Dialogue: 0,0:24:19.58,0:24:22.16,Dubtitles,,0,0,0,,In and out around the lake
 Dialogue: 1,0:24:19.69,0:24:22.07,Lyrics 2,Yes,0,0,0,,In and around the lake
-Dialogue: 0,0:24:23.36,0:24:25.56,Dubtitles,,0,0,0,,Mountains come out of the sky.
 Dialogue: 1,0:24:23.36,0:24:25.57,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
+Dialogue: 0,0:24:23.36,0:24:27.26,Dubtitles,,0,0,0,,Mountains come out of the\Nsky And they'll stand there
 Dialogue: 1,0:24:25.57,0:24:27.32,Lyrics 2,Yes,0,0,0,,and they stand there
-Dialogue: 0,0:24:25.64,0:24:27.26,Dubtitles,,0,0,0,,And they'll stand there.
-Dialogue: 0,0:24:30.44,0:24:32.56,Dubtitles,,0,0,0,,One mile over, we'll be there.
+Dialogue: 0,0:24:30.44,0:24:34.00,Dubtitles,,0,0,0,,One mile over, we'll be\Nthere And we'll see you
 Dialogue: 1,0:24:30.49,0:24:34.16,Lyrics 2,Yes,0,0,0,,One mile over we'll be there and we'll see you
-Dialogue: 0,0:24:32.64,0:24:34.00,Dubtitles,,0,0,0,,And we'll see you.
 Dialogue: 1,0:24:36.91,0:24:40.58,Lyrics 2,Yes,0,0,0,,Ten true summers we'll be there and laughing too
 Dialogue: 0,0:24:37.02,0:24:40.40,Dubtitles,,0,0,0,,Ten and two summers, we'll\Nbe there laughing too.
 Dialogue: 1,0:24:43.38,0:24:47.05,Lyrics 2,Yes,0,0,0,,Twenty-four before my love you'll see I'll be
-Dialogue: 0,0:24:43.56,0:24:46.14,Dubtitles,,0,0,0,,Twenty-four, we'll fall by the real sea.
-Dialogue: 0,0:24:46.22,0:24:49.22,Dubtitles,,0,0,0,,I'll be there with you.
+Dialogue: 0,0:24:43.56,0:24:49.22,Dubtitles,,0,0,0,,Twenty-four, we'll fall by the\Nreal sea. I'll be there with you.
 Dialogue: 1,0:24:47.05,0:24:49.93,Lyrics 2,Yes,0,0,0,,There with you
 Dialogue: 1,0:24:56.60,0:24:58.60,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:56.60,0:24:58.60,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
-Dialogue: 0,0:24:59.06,0:25:00.86,Dubtitles,,0,0,0,,We shot the tack now!
+Dialogue: 0,0:24:59.06,0:25:00.86,Dubtitles,,0,0,0,,We should attack now!
 Dialogue: 0,0:25:01.02,0:25:04.50,Dubtitles,,0,0,0,,The building on top of that hill is\Nthe address That was pretty mean.
 Dialogue: 0,0:25:04.58,0:25:07.05,Dubtitles,,0,0,0,,German science is the finest in the world!
 Dialogue: 0,0:25:07.36,0:25:08.92,Dubtitles,,0,0,0,,No machine can stop me.
 Dialogue: 1,0:25:09.61,0:25:11.61,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 19:
 Dialogue: 1,0:25:09.61,0:25:11.61,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"A Race Toward the Brink"{\i0}
-Dialogue: 1,0:25:09.61,0:25:11.61,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 19:
-Dialogue: 1,0:25:09.61,0:25:11.61,Title2,,0,0,0,,{\fs105\pos(960,772)}"A Race Toward the Brink"
 

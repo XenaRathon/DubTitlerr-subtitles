@@ -17,10 +17,7 @@ Video File: Episode 014.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 147
-Active Line: 161
-Video Position: 2406
-Data: 104,a-mo,e{"uuid"#3A"43466c27-515c-415b-8ec2-9b64604a65ca"#2C"originalText"#3A"{\\fad(300#2C1700)\\frz6.841\\pos(499#2C813.333)}Whoosh"}
+Video Position: 2383
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,10 +26,18 @@ Style: Secondary,Impress BT,72,&H00D6D6D6,&H000000FF,&H00000000,&H00000000,0,0,0
 Style: Narrator,Impress BT,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,10,10,25,1
 Style: Thoughts,Impress BT,72,&H00FFFFFF,&H00FFFFFF,&H005C5C5C,&H00000000,0,0,0,0,100,100,0,0,1,2.3,1.75,2,10,10,25,1
 Style: Lyrics 2,Hobo Std,55,&H00FFFFFF,&H002728AF,&H96000000,&H00000000,-1,-1,0,0,100,100,2,0,1,4,2,8,10,10,25,1
-Style: Title2,Arial,77,&H00FDFFFF,&H000000FF,&H240E0811,&H69000000,0,0,0,0,100,100,3,0,1,2,4,5,90,90,40,1
+Style: Title2,Arial,77,&H00FDFFFF,&H000000FF,&H500E0811,&H96000000,0,0,0,0,100,100,3,0,1,2,3,5,90,90,40,1
 Style: Lyrics OP2 Eng,Chinacat,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,25,1
 Style: Lyrics OP2 Jap,Chinacat,52,&H00EC2C95,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,110,100,0,0,1,4,2,8,10,10,25,1
 Style: blueboxen,Consolas,38,&H00FCFFF4,&H000000FF,&H00784337,&H00000000,0,0,0,0,100,105,0,0,1,2,0,5,10,10,10,1
+Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
+Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
+Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
 Style: SFX,Ashcan BB,170,&H003A96E0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,12,0,8,50,40,20,1
 Style: SFXOang,Rene Levesque,170,&H002C58BF,&H000000FF,&H00080C16,&H00000000,-1,0,0,0,130,100,0,0,1,10,0,7,50,40,20,1
 Style: SFXYellow,Rene Levesque,170,&H0048A5F2,&H000000FF,&H00203345,&H00000000,-1,0,0,0,120,100,0,0,1,10,0,8,50,40,20,1
@@ -63,20 +68,10 @@ Style: SFXRed5,KG Turning Tables,170,&H0003009D,&H000000FF,&H00020327,&H00000000
 Style: SFXGreen7,Ashcan BB,160,&H004ECE54,&H000000FF,&H00121A13,&H00000000,-1,0,0,0,100,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXRed6,Ashcan BB,140,&H000A0069,&H000000FF,&H000B0827,&H00000000,-1,0,0,0,100,100,0,0,1,8,0,8,50,40,20,1
 Style: SFXRed3 - Copy,Rene Levesque,140,&H0003009D,&H000000FF,&H000A0426,&H00000000,-1,0,0,0,110,100,0,0,1,10,0,9,50,40,20,1
-Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:04.65,0:00:09.20,Title2.1,,0,0,0,,{\pos(960,820)\fad(520,520)\bord3\blur2}Rome
 Dialogue: 1,0:00:04.65,0:00:09.20,Title2,,0,0,0,,{\pos(960,820)\fad(520,520)}Rome
 Dialogue: 0,0:00:10.74,0:00:12.92,Dubtitles,,0,0,0,,What the heck is this supposed to be?
 Dialogue: 0,0:00:13.96,0:00:17.98,Dubtitles,,0,0,0,,You think you're funny putting black ink\Nall over my spaghetti, is that right?
@@ -95,7 +90,7 @@ Dialogue: 0,0:00:59.50,0:01:01.22,Dubtitles,,0,0,0,,When you remove this at nigh
 Dialogue: 0,0:01:01.30,0:01:04.83,Dubtitles,,0,0,0,,please think of me, and we shall\Nbe together in your dreams.
 Dialogue: 0,0:01:05.18,0:01:06.24,Dubtitles,,0,0,0,,Come on!
 Dialogue: 0,0:01:06.62,0:01:09.94,Dubtitles,,0,0,0,,Did that mozzarella cheese wall\Njust say what I think he said?
-Dialogue: 0,0:01:10.02,0:01:14.88,Dubtitles,,0,0,0,,I shall cast an enchantment upon\Nit, just a little love spell?
+Dialogue: 0,0:01:10.02,0:01:14.88,Dubtitles,,0,0,0,,I shall cast an enchantment upon\Nit, just a little love spell,
 Dialogue: 0,0:01:15.26,0:01:18.73,Dubtitles,,0,0,0,,and then you will have no choice\Nbut to fall to my passion.
 Dialogue: 0,0:01:20.20,0:01:21.36,Dubtitles,,0,0,0,,You've got to be kidding!
 Dialogue: 0,0:01:21.44,0:01:23.03,Dubtitles,,0,0,0,,This guy is making me sick!
@@ -146,7 +141,7 @@ Dialogue: 1,0:01:40.16,0:01:40.20,SFX,1,0,0,0,,{=84}{\blur0.9\bord12.92\fscx107.
 Dialogue: 2,0:01:40.16,0:01:40.20,SFX,1,0,0,0,,{=84}{\blur0.9\bord0\fscx107.63\fscy107.63\alpha&H00&\frz38.48\pos(1435.99,766.06)\4a&HFF&}Twang
 Dialogue: 1,0:01:40.20,0:01:40.25,SFX,1,0,0,0,,{=84}{\blur0.9\bord12.96\fscx108.03\fscy108.03\alpha&H00&\frz38.48\pos(1439.48,765.45)\c&H000000&}Twang
 Dialogue: 2,0:01:40.20,0:01:40.25,SFX,1,0,0,0,,{=84}{\blur0.9\bord0\fscx108.03\fscy108.03\alpha&H00&\frz38.48\pos(1439.48,765.45)\4a&HFF&}Twang
-Dialogue: 0,0:01:40.36,0:01:41.92,Dubtitles,,0,0,0,,Harmon de sepia.
+Dialogue: 0,0:01:40.36,0:01:41.92,Dubtitles,,0,0,0,,Hamon de sepia.
 Dialogue: 0,0:01:42.34,0:01:46.46,Dubtitles,,0,0,0,,This should stick to that little\NCasanova's enchanting face for a bit.
 Dialogue: 1,0:01:47.71,0:01:47.75,SFXOang,2,0,0,0,,{=58}{\blur0.8\bord2.96\fscx38.43\fscy29.56\frz11.77\pos(581.04,761.22)\c&H080C16&}Flick
 Dialogue: 2,0:01:47.71,0:01:47.75,SFXOang,2,0,0,0,,{=58}{\blur0.8\bord0\fscx38.43\fscy29.56\frz11.77\pos(581.04,761.22)\4a&HFF&}Flick
@@ -359,9 +354,9 @@ Dialogue: 1,0:02:40.60,0:02:43.98,Lyrics OP2 Jap,,0,0,0,,Toki wo koe
 Dialogue: 1,0:02:40.60,0:02:43.98,Lyrics OP2 Eng,,0,0,0,,To the dawn of a new day
 Dialogue: 3,0:02:43.98,0:02:51.23,Lyrics OP2 Jap,,0,0,0,,Shinku no chishio ga
 Dialogue: 1,0:02:43.98,0:02:51.23,Lyrics OP2 Eng,,0,0,0,,The river of crimson blood within you
-Dialogue: 1,0:02:51.98,0:02:57.78,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuki wo hikiawaseru
-Dialogue: 1,0:02:51.98,0:02:57.78,Lyrics OP2 Eng,,0,0,0,,Carries with it the courage to stand and fight
 Dialogue: 1,0:02:51.98,0:02:57.78,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuuki wo hikiawaseru
+Dialogue: 1,0:02:51.98,0:02:57.78,Lyrics OP2 Eng,,0,0,0,,Carries with it the courage to stand and fight
+Dialogue: 1,0:02:51.98,0:02:57.78,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuki wo hikiawaseru
 Dialogue: 1,0:02:58.78,0:03:06.50,Lyrics OP2 Jap,,0,0,0,,Uketsugu ai wo sadame to yobu nara
 Dialogue: 1,0:02:58.78,0:03:06.50,Lyrics OP2 Eng,,0,0,0,,Even if the love I feel is just part of my legacy...
 Dialogue: 0,0:02:58.92,0:02:59.75,Dubtitles,,0,0,0,,Thank you.
@@ -375,35 +370,31 @@ Dialogue: 1,0:03:23.06,0:03:28.48,Lyrics OP2 Jap,,0,0,0,,Tsuranuita omoi ga mira
 Dialogue: 1,0:03:23.06,0:03:28.48,Lyrics OP2 Eng,,0,0,0,,The emotions running through me blaze a path to the future...
 Dialogue: 1,0:03:30.31,0:03:31.57,Lyrics OP2 Jap,,0,0,0,,Like a bloody storm
 Dialogue: 1,0:03:30.31,0:03:31.57,Lyrics OP2 Eng,,0,0,0,,Like a bloody storm
-Dialogue: 1,0:03:31.57,0:03:33.82,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody stone
-Dialogue: 1,0:03:31.57,0:03:33.82,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody stone
 Dialogue: 1,0:03:31.57,0:03:33.82,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody storm
 Dialogue: 1,0:03:31.57,0:03:33.82,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody storm
+Dialogue: 1,0:03:31.57,0:03:33.82,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody stone
+Dialogue: 1,0:03:31.57,0:03:33.82,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody stone
 Dialogue: 1,0:03:33.82,0:03:37.66,Lyrics OP2 Jap,,0,0,0,,Ketsumyaku ni kizamareta innen ni
 Dialogue: 1,0:03:33.82,0:03:37.66,Lyrics OP2 Eng,,0,0,0,,When the time comes to end the vendetta carried by our blood
 Dialogue: 1,0:03:37.66,0:03:43.45,Lyrics OP2 Jap,,0,0,0,,Ukiagaru kienai hokori no kizuna
 Dialogue: 1,0:03:37.66,0:03:43.45,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds of pride will carry you through any storm
 Dialogue: 1,0:03:43.45,0:03:48.50,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:03:43.45,0:03:48.50,Lyrics OP2 Eng,,0,0,0,,So hold them close
-Dialogue: 1,0:03:54.01,0:03:57.30,Title2,,0,0,0,,{\fad(750,0)\pos(1114,865)\blur1}{\fscx78}Episode 14: "Ultimate Warriors from Ancient Times"
 Dialogue: 1,0:03:54.01,0:03:57.30,Title2,,0,0,0,,{\fad(750,0)\pos(1114,865)\fs(70)\fscx(90)}Episode 14: "The Ultimate Warriors of an Ancient Age"
-Dialogue: 0,0:03:57.82,0:04:00.38,Dubtitles,,0,0,0,,This is the Speed Wagon Foundation.
+Dialogue: 1,0:03:54.01,0:03:57.30,Title2,,0,0,0,,{\fad(750,0)\pos(1114,865)\blur1}{\fscx78}Episode 14: "Ultimate Warriors from Ancient Times"
+Dialogue: 0,0:03:57.82,0:04:03.44,Dubtitles,,0,0,0,,This is the Speed Wagon Foundation.\NThis complex was built 28 years ago with
 Dialogue: 1,0:03:58.09,0:03:59.93,Narrator,Narrator,0,0,0,,{\an8}The Speedwagon Foundation.
 Dialogue: 1,0:03:59.93,0:04:06.31,Narrator,Narrator,0,0,0,,{\an8}An organization founded by Speedwagon with\N the wealth he earned in the oil industry.
-Dialogue: 0,0:04:00.46,0:04:05.50,Dubtitles,,0,0,0,,This complex was built 28 years ago with\Nfunds from the Ample Speed Wagon fortune.
-Dialogue: 1,0:04:02.18,0:04:06.31,Title2.1,,0,0,0,,{\fad(620,0)\pos(960,980)\fs(71)\fscx(95)\bord3\blur2}Speedwagon Foundation Headquarters, Washington DC
 Dialogue: 1,0:04:02.18,0:04:06.31,Title2,,0,0,0,,{\fad(620,0)\pos(960,980)\fs(71)\fscx(95)}Speedwagon Foundation Headquarters, Washington DC
-Dialogue: 0,0:04:05.58,0:04:09.44,Dubtitles,,0,0,0,,Here all manners of science, medicine,
-Dialogue: 0,0:04:09.52,0:04:12.34,Dubtitles,,0,0,0,,archaeology and more are\Ngenerously funded and
-Dialogue: 0,0:04:12.42,0:04:15.46,Dubtitles,,0,0,0,,exhaustively researched for\Nthe benefit of all humankind.
-Dialogue: 0,0:04:15.54,0:04:17.04,Dubtitles,,0,0,0,,But the foundation?
-Dialogue: 0,0:04:17.12,0:04:19.36,Dubtitles,,0,0,0,,also houses a darker purpose.
+Dialogue: 0,0:04:03.52,0:04:09.44,Dubtitles,,0,0,0,,funds from the ample speed wagon fortune\Nhere all manners of science medicine
+Dialogue: 0,0:04:09.52,0:04:13.82,Dubtitles,,0,0,0,,archaeology and more are generously\Nfunded and exhaustively researched for
+Dialogue: 0,0:04:13.90,0:04:19.36,Dubtitles,,0,0,0,,For the benefit of all humankind, but the\NFoundation also houses a darker purpose.
 Dialogue: 0,0:04:20.94,0:04:24.16,Dubtitles,,0,0,0,,One to unlock the secret\Nof the stone masks.
 Dialogue: 0,0:04:25.22,0:04:26.88,Dubtitles,,0,0,0,,The UV lights are very powerful.
 Dialogue: 0,0:04:26.96,0:04:28.49,Dubtitles,,0,0,0,,Please, if you don't mind.
 Dialogue: 0,0:04:30.72,0:04:31.90,Dubtitles,,0,0,0,,Introduce the snake.
 Dialogue: 0,0:04:42.16,0:04:44.28,Dubtitles,,0,0,0,,It was absorbed into the stone.
-Dialogue: 0,0:04:44.84,0:04:46.48,Dubtitles,,0,0,0,,Son Viento isn't dead.
+Dialogue: 0,0:04:44.84,0:04:46.48,Dubtitles,,0,0,0,,Santana isn't dead.
 Dialogue: 0,0:04:46.56,0:04:48.74,Dubtitles,,0,0,0,,His body is defending itself somehow.
 Dialogue: 0,0:04:48.98,0:04:51.30,Dubtitles,,0,0,0,,What if he finds some\Nway to awaken in there?
 Dialogue: 0,0:04:51.38,0:04:52.36,Dubtitles,,0,0,0,,This can't be.
@@ -470,7 +461,7 @@ Dialogue: 1,0:05:31.27,0:05:31.31,SFXBrown,4,0,0,0,,{=60}{\blur1\fade(255,0,255,
 Dialogue: 2,0:05:31.27,0:05:31.31,SFXBrown,4,0,0,0,,{=60}{\bord0\blur1\fade(255,0,255,-870,-870,1010,1510)\pos(968.66,274.43)\4a&HFF&}Boom
 Dialogue: 1,0:05:31.31,0:05:31.35,SFXBrown,4,0,0,0,,{=60}{\blur1\fade(255,0,255,-920,-920,960,1460)\pos(969.3,303.05)\c&H1D2323&}Boom
 Dialogue: 2,0:05:31.31,0:05:31.35,SFXBrown,4,0,0,0,,{=60}{\bord0\blur1\fade(255,0,255,-920,-920,960,1460)\pos(969.3,303.05)\4a&HFF&}Boom
-Dialogue: 0,0:05:31.32,0:05:34.36,Dubtitles,,0,0,0,,So if the one on the bottom\Nis supposed to be San Viento?
+Dialogue: 0,0:05:31.32,0:05:36.00,Dubtitles,,0,0,0,,So if the one on the bottom is supposed\Nto be Santana, then who are the others?
 Dialogue: 1,0:05:31.35,0:05:31.39,SFXBrown,4,0,0,0,,{=60}{\blur1\fade(255,0,255,-960,-960,920,1420)\pos(968.66,261.07)\c&H1D2323&}Boom
 Dialogue: 2,0:05:31.35,0:05:31.39,SFXBrown,4,0,0,0,,{=60}{\bord0\blur1\fade(255,0,255,-960,-960,920,1420)\pos(968.66,261.07)\4a&HFF&}Boom
 Dialogue: 1,0:05:31.39,0:05:31.44,SFXBrown,4,0,0,0,,{=60}{\blur1\fade(255,0,255,-1000,-1000,880,1380)\pos(971.53,253.12)\c&H1D2323&}Boom
@@ -539,10 +530,9 @@ Dialogue: 1,0:05:32.69,0:05:32.73,SFXBrown,4,0,0,0,,{=60}{\blur1\fade(255,0,255,
 Dialogue: 2,0:05:32.69,0:05:32.73,SFXBrown,4,0,0,0,,{=60}{\bord0\blur1\fade(255,0,255,-2290,-2290,-410,90)\pos(961.65,278.56)\4a&HFF&}Boom
 Dialogue: 1,0:05:32.73,0:05:32.77,SFXBrown,4,0,0,0,,{=60}{\blur1\fade(255,0,255,-2330,-2330,-450,50)\pos(961.02,309.09)\c&H1D2323&}Boom
 Dialogue: 2,0:05:32.73,0:05:32.77,SFXBrown,4,0,0,0,,{=60}{\bord0\blur1\fade(255,0,255,-2330,-2330,-450,50)\pos(961.02,309.09)\4a&HFF&}Boom
-Dialogue: 0,0:05:34.44,0:05:35.85,Dubtitles,,0,0,0,,then who are the others?
 Dialogue: 0,0:05:36.08,0:05:37.72,Dubtitles,,0,0,0,,According to von Stroheim,
-Dialogue: 0,0:05:37.88,0:05:40.98,Dubtitles,,0,0,0,,the Germans have uncovered another\Npillar at an undisclosed location?
-Dialogue: 0,0:05:41.06,0:05:42.82,Dubtitles,,0,0,0,,somewhere on the European continent.
+Dialogue: 0,0:05:37.88,0:05:39.88,Dubtitles,,0,0,0,,the Germans have uncovered\Nanother pillar at an
+Dialogue: 0,0:05:39.96,0:05:42.82,Dubtitles,,0,0,0,,undisclosed location somewhere\Non the European continent.
 Dialogue: 0,0:05:42.90,0:05:43.78,Dubtitles,,0,0,0,,Is that true?
 Dialogue: 0,0:05:43.86,0:05:46.88,Dubtitles,,0,0,0,,Their faces are stacked\Nvertically in this picture.
 Dialogue: 0,0:05:47.28,0:05:48.40,Dubtitles,,0,0,0,,Speaking historically,
@@ -1003,7 +993,7 @@ Dialogue: 2,0:09:06.86,0:09:06.90,SFXPurple,8,0,0,0,,{=103}{\bord0\blur0.7\alpha
 Dialogue: 1,0:09:06.90,0:09:06.94,SFXPurple,8,0,0,0,,{=103}{\blur0.7\alpha&H00&\frz290.2\pos(1960.13,1114.74)\c&H151329&}Boom {In preview for last episode}
 Dialogue: 2,0:09:06.90,0:09:06.94,SFXPurple,8,0,0,0,,{=103}{\bord0\blur0.7\alpha&H00&\frz290.2\pos(1960.13,1114.74)\4a&HFF&}Boom {In preview for last episode}
 Dialogue: 0,0:09:10.14,0:09:11.49,Dubtitles,,0,0,0,,It's a clean technique.
-Dialogue: 0,0:09:15.44,0:09:17.78,Dubtitles,,0,0,0,,Behold, my Hamon Baby Launcher.
+Dialogue: 0,0:09:15.44,0:09:17.78,Dubtitles,,0,0,0,,Behold, my Hamon Bubble Launcher!
 Dialogue: 0,0:09:18.62,0:09:20.68,Dubtitles,,0,0,0,,It's important to keep oneself clean.
 Dialogue: 0,0:09:20.76,0:09:24.53,Dubtitles,,0,0,0,,I, myself, have a thin layer of\Nsoap on my clothes at all times!
 Dialogue: 0,0:09:24.86,0:09:27.57,Dubtitles,,0,0,0,,You're looking a little\Ndirty yourself, there!
@@ -1212,10 +1202,10 @@ Dialogue: 3,0:09:33.59,0:09:33.64,SFXBubble2 - Copy,10,0,0,0,,{=69}{\bord0\blur0
 Dialogue: 0,0:09:40.84,0:09:43.76,Dubtitles,,0,0,0,,Well, I am impressed that\Nyou're still conscious,
 Dialogue: 0,0:09:44.16,0:09:47.34,Dubtitles,,0,0,0,,but your weak little Hamon\Ncouldn't even pop a bubble.
 Dialogue: 0,0:09:47.42,0:09:48.52,Dubtitles,,0,0,0,,Just look at you.
-Dialogue: 0,0:09:48.60,0:09:52.82,Dubtitles,,0,0,0,,Your breath is already all over\Nthe place. Enjoy your stage. You
-Dialogue: 0,0:09:52.90,0:09:57.12,Dubtitles,,0,0,0,,start and next you'll say now I'll\Nlift my harm on spell signorina.
+Dialogue: 0,0:09:48.60,0:09:52.82,Dubtitles,,0,0,0,,Your breath is already all over\Nthe place. Enjoy your stage, you.
+Dialogue: 0,0:09:52.90,0:09:57.12,Dubtitles,,0,0,0,,Start and next you'll say now I'll\Nlift my Hamon spell, Signorina.
 Dialogue: 0,0:09:57.34,0:09:58.17,Dubtitles,,0,0,0,,Thank you
-Dialogue: 0,0:09:58.66,0:10:02.06,Dubtitles,,0,0,0,,And now I'll lift my\NHum on spell, Signorina.
+Dialogue: 0,0:09:58.66,0:10:02.06,Dubtitles,,0,0,0,,And now I'll lift my\NHamon spell, Signorina.
 Dialogue: 0,0:10:02.32,0:10:03.15,Dubtitles,,0,0,0,,Thank you
 Dialogue: 0,0:10:13.06,0:10:15.12,Dubtitles,,0,0,0,,While that woman was throttling me,
 Dialogue: 0,0:10:15.34,0:10:19.74,Dubtitles,,0,0,0,,I filled a pigeon with as much hamon as\NI could and hid it away in her mouth.
@@ -1743,7 +1733,7 @@ Dialogue: 2,0:14:28.10,0:14:28.14,SFXGreen,13,0,0,0,,{=71}{\bord0\blur3\fade(255
 Dialogue: 0,0:14:29.46,0:14:31.34,Dubtitles,,0,0,0,,Do you hear that?
 Dialogue: 0,0:14:34.64,0:14:35.54,Dubtitles,,0,0,0,,His horn!
 Dialogue: 0,0:14:35.70,0:14:37.47,Dubtitles,,0,0,0,,He's supposed to be petrified!
-Dialogue: 0,0:14:38.74,0:14:40.28,Dubtitles,,0,0,0,,He's making up!
+Dialogue: 0,0:14:38.74,0:14:40.28,Dubtitles,,0,0,0,,He's waking up!
 Dialogue: 0,0:14:41.46,0:14:45.08,Dubtitles,,0,0,0,,Quickly, bring out more UV\Nlamps! Yes, sir! Schnell!
 Dialogue: 1,0:14:45.78,0:14:45.82,SFXGreen2,14,0,0,0,,{=98}{\blur0.9\alpha&HFF&\frz346.5\pos(1408.51,310.71)\c&H30302C&}Whirr
 Dialogue: 2,0:14:45.78,0:14:45.82,SFXGreen2,14,0,0,0,,{=98}{\bord0\blur0.9\alpha&HFF&\frz346.5\pos(1408.51,310.71)\4a&HFF&}Whirr
@@ -1906,7 +1896,7 @@ Dialogue: 2,0:14:49.41,0:14:49.45,SFXRed,15,0,0,0,,{=73}{\blur1\bord0\fscx170.59
 Dialogue: 1,0:14:49.45,0:14:49.49,SFXRed,15,0,0,0,,{=73}{\blur1\bord13.12\fscx170.59\fscy131.22\frz2.171\pos(-160.02,336.27)\c&H040410&}Slice
 Dialogue: 2,0:14:49.45,0:14:49.49,SFXRed,15,0,0,0,,{=73}{\blur1\bord0\fscx170.59\fscy131.22\frz2.171\pos(-160.02,336.27)\4a&HFF&}Slice
 Dialogue: 0,0:14:53.50,0:14:55.22,Dubtitles,,0,0,0,,This can't be happening!
-Dialogue: 0,0:14:55.56,0:14:58.97,Dubtitles,,0,0,0,,He's blocking out the lights\Nwith the blood of my own man!
+Dialogue: 0,0:14:55.56,0:14:58.97,Dubtitles,,0,0,0,,He's blocking out the\Nlights with blood and gore!
 Dialogue: 1,0:14:59.59,0:14:59.63,SFXPurple2,16,0,0,0,,{=93}{\blur0.8\bord2.15\fscx34.9\fscy26.84\alpha&H00&\frz36.18\pos(972.073,434.533)\c&H1C0E0E&}Crash {In preview for last episode}
 Dialogue: 2,0:14:59.59,0:14:59.63,SFXPurple2,16,0,0,0,,{=93}{\blur0.8\bord0\fscx34.9\fscy26.84\alpha&H00&\frz36.18\pos(972.073,434.533)\4a&HFF&}Crash {In preview for last episode}
 Dialogue: 1,0:14:59.63,0:14:59.67,SFXPurple2,16,0,0,0,,{=93}{\blur0.8\bord2.15\fscx34.9\fscy26.84\alpha&H00&\frz36.18\pos(898.93,457.39)\c&H1C0E0E&}Crash {In preview for last episode}
@@ -2255,7 +2245,7 @@ Dialogue: 3,0:15:46.80,0:15:46.84,SFXPurple3,19,0,0,0,,{=31}{\bord0\blur0.9\alph
 Dialogue: 1,0:15:46.84,0:15:46.88,SFXPurple3,19,0,0,0,,{=31}{\3c&H261527&\blur6\alpha&HFF&\alpha&H80&\t(-330,70,\alpha&HFF&)\frz12.56\pos(1237.12,626.81)}Shwoom
 Dialogue: 2,0:15:46.84,0:15:46.88,SFXPurple3,19,0,0,0,,{=31}{\3c&H261527&\c&H261527&\blur0.9\alpha&HFF&\alpha&H00&\t(-330,70,\alpha&HFF&)\frz12.56\pos(1237.12,626.81)}Shwoom
 Dialogue: 3,0:15:46.84,0:15:46.88,SFXPurple3,19,0,0,0,,{=31}{\bord0\blur0.9\alpha&HFF&\alpha&H00&\t(-330,70,\alpha&HFF&)\frz12.56\pos(1237.12,626.81)\4a&HFF&}Shwoom
-Dialogue: 0,0:16:01.04,0:16:03.74,Dubtitles,,0,0,0,,Mama, now is the time.
+Dialogue: 0,0:16:01.04,0:16:03.74,Dubtitles,,0,0,0,,Mamu, now is the time.
 Dialogue: 0,0:16:04.10,0:16:05.66,Dubtitles,,0,0,0,,Awaken, my masters!
 Dialogue: 1,0:16:09.99,0:16:10.03,SFXGreen4,20,0,0,0,,{=96}{\blur7\bord18.98\fscx227.78\fscy189.81\alpha&H80&\frz31.93\pos(13.43,1210.63)}Doom
 Dialogue: 2,0:16:09.99,0:16:10.03,SFXGreen4,20,0,0,0,,{=96}{\blur0.7\bord18.98\fscx227.78\fscy189.81\alpha&H00&\frz31.93\pos(13.43,1210.63)\c&H101622&}Doom
@@ -2455,8 +2445,8 @@ Dialogue: 3,0:16:12.66,0:16:12.70,SFXGreen4,20,0,0,0,,{=96}{\blur0.7\bord0\fscx1
 Dialogue: 1,0:16:12.70,0:16:12.74,SFXGreen4,20,0,0,0,,{=96}{\blur7\bord10\fscx120\fscy100\alpha&H80&\frz31.93\pos(277.87,782.66)}Doom
 Dialogue: 2,0:16:12.70,0:16:12.74,SFXGreen4,20,0,0,0,,{=96}{\blur0.7\bord10\fscx120\fscy100\alpha&H00&\frz31.93\pos(277.87,782.66)\c&H101622&}Doom
 Dialogue: 3,0:16:12.70,0:16:12.74,SFXGreen4,20,0,0,0,,{=96}{\blur0.7\bord0\fscx120\fscy100\alpha&H00&\frz31.93\pos(277.87,782.66)\4a&HFF&}Doom
-Dialogue: 0,0:16:18.20,0:16:20.02,Dubtitles,,0,0,0,,Somehow this doesn't surprise me.
-Dialogue: 0,0:16:20.10,0:16:23.75,Dubtitles,,0,0,0,,The famous mouth of truth was a\Nsecret entrance all this time.
+Dialogue: 0,0:16:18.20,0:16:20.82,Dubtitles,,0,0,0,,Somehow this doesn't\Nsurprise me, the famous
+Dialogue: 0,0:16:20.90,0:16:23.84,Dubtitles,,0,0,0,,mouth of truth was a secret\Nentrance all this time
 Dialogue: 1,0:16:27.26,0:16:27.30,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord8.09\fscx105.12\fscy80.86\alpha&HFF&\pos(1561.9,209.1)\frz25.81\c&H0A0C14&}Whoosh
 Dialogue: 2,0:16:27.26,0:16:27.30,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord0\fscx105.12\fscy80.86\alpha&HFF&\pos(1561.9,209.1)\frz25.81\4a&HFF&}Whoosh
 Dialogue: 1,0:16:27.30,0:16:27.34,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord8.09\fscx105.12\fscy80.86\alpha&HEE&\pos(1560.73,208.52)\frz25.81\c&H0A0C14&}Whoosh
@@ -2545,7 +2535,7 @@ Dialogue: 1,0:16:29.01,0:16:29.05,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord9.59\fs
 Dialogue: 2,0:16:29.01,0:16:29.05,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord0\fscx124.7\fscy95.93\alpha&H00&\pos(793.06,329.95)\frz25.81\4a&HFF&}Whoosh
 Dialogue: 1,0:16:29.05,0:16:29.09,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord9.59\fscx124.7\fscy95.93\alpha&H00&\pos(790.75,329.95)\frz25.81\c&H0A0C14&}Whoosh
 Dialogue: 2,0:16:29.05,0:16:29.09,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord0\fscx124.7\fscy95.93\alpha&H00&\pos(790.75,329.95)\frz25.81\4a&HFF&}Whoosh
-Dialogue: 0,0:16:29.08,0:16:31.88,Dubtitles,,0,0,0,,You can really feel the\Nchill of the dead here.
+Dialogue: 0,0:16:29.08,0:16:31.88,Dubtitles,,0,0,0,,you can really feel the\Nchill of the dead here
 Dialogue: 1,0:16:29.09,0:16:29.13,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord9.6\fscx124.86\fscy96.04\alpha&H00&\pos(753.53,334.05)\frz25.81\c&H0A0C14&}Whoosh
 Dialogue: 2,0:16:29.09,0:16:29.13,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord0\fscx124.86\fscy96.04\alpha&H00&\pos(753.53,334.05)\frz25.81\4a&HFF&}Whoosh
 Dialogue: 1,0:16:29.13,0:16:29.18,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord9.6\fscx124.86\fscy96.04\alpha&H00&\pos(751.8,334.05)\frz25.81\c&H0A0C14&}Whoosh
@@ -2560,16 +2550,15 @@ Dialogue: 1,0:16:29.30,0:16:29.34,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord9.93\fs
 Dialogue: 2,0:16:29.30,0:16:29.34,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord0\fscx129.08\fscy99.29\alpha&H00&\pos(679.77,349.76)\frz25.81\4a&HFF&}Whoosh
 Dialogue: 1,0:16:29.34,0:16:29.38,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord10\fscx130\fscy100\alpha&H00&\pos(645.4,356.8)\frz25.81\c&H0A0C14&}Whoosh
 Dialogue: 2,0:16:29.34,0:16:29.38,SFXBrown3,21,0,0,0,,{=99}{\blur0.8\bord0\fscx130\fscy100\alpha&H00&\pos(645.4,356.8)\frz25.81\4a&HFF&}Whoosh
-Dialogue: 0,0:16:31.96,0:16:35.80,Dubtitles,,0,0,0,,Caesar, what sort of effects has your\NHormone had on the sleeping pillar?
-Dialogue: 0,0:16:35.88,0:16:38.50,Dubtitles,,0,0,0,,Men hormone is only useful on the living.
-Dialogue: 0,0:16:38.58,0:16:39.80,Dubtitles,,0,0,0,,No reason to waste.
-Dialogue: 0,0:16:39.88,0:16:41.23,Dubtitles,,0,0,0,,as my power's on stone.
+Dialogue: 0,0:16:31.96,0:16:34.98,Dubtitles,,0,0,0,,Caesar, what sort of effects\Nhas your Hamon had on
+Dialogue: 0,0:16:35.06,0:16:38.12,Dubtitles,,0,0,0,,the sleeping pillar men\Nhormone is only useful on
+Dialogue: 0,0:16:38.20,0:16:41.30,Dubtitles,,0,0,0,,the living no reason to\Nwaste as my power's on stone.
 Dialogue: 0,0:16:41.38,0:16:44.03,Dubtitles,,0,0,0,,We can't learn anything\Nif they're not alive.
 Dialogue: 0,0:16:45.12,0:16:49.42,Dubtitles,,0,0,0,,I'm surprised you Germans don't have\Nmore than zero guards down here.
 Dialogue: 0,0:16:49.58,0:16:51.34,Dubtitles,,0,0,0,,It's a little quiet. Hello!
 Dialogue: 0,0:16:52.12,0:16:53.70,Dubtitles,,0,0,0,,Stop being foolish, Jojo.
 Dialogue: 0,0:16:54.16,0:16:55.68,Dubtitles,,0,0,0,,Wait, something's wrong.
-Dialogue: 0,0:16:55.98,0:16:58.90,Dubtitles,,0,0,0,,He's right, there should be guards\Nposted all around this place.
+Dialogue: 0,0:16:55.98,0:16:58.90,Dubtitles,,0,0,0,,He's right. There should be guards\Nposted all around this place.
 Dialogue: 0,0:16:58.98,0:16:59.81,Dubtitles,,0,0,0,,Really?
 Dialogue: 0,0:17:03.26,0:17:05.98,Dubtitles,,0,0,0,,Why didn't anyone tell me\Nthere were bats in here?
 Dialogue: 0,0:17:06.06,0:17:07.96,Dubtitles,,0,0,0,,Gross, I stepped in bat tongue!
@@ -2840,7 +2829,7 @@ Dialogue: 1,0:17:52.72,0:17:52.76,SFXRed3,22,0,0,0,,{=39}{\blur10\frz7.05\pos(24
 Dialogue: 2,0:17:52.72,0:17:52.76,SFXRed3,22,0,0,0,,{=39}{\blur1\frz7.05\pos(244.4,682.56)\c&H1C0E43&}Gash
 Dialogue: 3,0:17:52.72,0:17:52.76,SFXRed3,22,0,0,0,,{=39}{\bord0\blur1\frz7.05\pos(244.4,682.56)\4a&HFF&}Gash
 Dialogue: 0,0:17:57.30,0:17:58.22,Dubtitles,,0,0,0,,Mark, no!
-Dialogue: 0,0:17:59.34,0:18:00.82,Dubtitles,,0,0,0,,Ceaser! Ceaser!
+Dialogue: 0,0:17:59.34,0:18:00.82,Dubtitles,,0,0,0,,Caesar! Caesar!
 Dialogue: 0,0:18:01.16,0:18:02.34,Dubtitles,,0,0,0,,What have they done?
 Dialogue: 0,0:18:03.44,0:18:07.04,Dubtitles,,0,0,0,,They just walked right through your\Nfriend like he wasn't even there!
 Dialogue: 0,0:18:07.12,0:18:09.10,Dubtitles,,0,0,0,,The Pillar Men have\Nawoken with such massive
@@ -2885,7 +2874,7 @@ Dialogue: 1,0:18:20.08,0:18:20.12,SFXPurple4,23,0,0,0,,{=104}{\blur0.6\fade(255,
 Dialogue: 2,0:18:20.08,0:18:20.12,SFXPurple4,23,0,0,0,,{=104}{\bord0\blur0.6\fade(255,0,255,-870,-570,3430,5130)\frz6.841\pos(490.82,813.99)\4a&HFF&}Whoosh
 Dialogue: 1,0:18:20.12,0:18:20.16,SFXPurple4,23,0,0,0,,{=104}{\blur0.6\fade(255,0,255,-920,-620,3380,5080)\frz6.841\pos(491.54,814.01)\c&H2F2444&}Whoosh
 Dialogue: 2,0:18:20.12,0:18:20.16,SFXPurple4,23,0,0,0,,{=104}{\bord0\blur0.6\fade(255,0,255,-920,-620,3380,5080)\frz6.841\pos(491.54,814.01)\4a&HFF&}Whoosh
-Dialogue: 0,0:18:20.12,0:18:22.66,Dubtitles,,0,0,0,,It appears to be night outside, Wamu.
+Dialogue: 0,0:18:20.12,0:18:22.66,Dubtitles,,0,0,0,,It appears to be night outside, Wamuu.
 Dialogue: 1,0:18:20.16,0:18:20.20,SFXPurple4,23,0,0,0,,{=104}{\blur0.6\fade(255,0,255,-960,-660,3340,5040)\frz6.841\pos(490.3,811.53)\c&H2F2444&}Whoosh
 Dialogue: 2,0:18:20.16,0:18:20.20,SFXPurple4,23,0,0,0,,{=104}{\bord0\blur0.6\fade(255,0,255,-960,-660,3340,5040)\frz6.841\pos(490.3,811.53)\4a&HFF&}Whoosh
 Dialogue: 1,0:18:20.20,0:18:20.25,SFXPurple4,23,0,0,0,,{=104}{\blur0.6\fade(255,0,255,-1000,-700,3300,5000)\frz6.841\pos(491.03,811.55)\c&H2F2444&}Whoosh
@@ -3095,7 +3084,7 @@ Dialogue: 0,0:18:26.86,0:18:27.69,Dubtitles,,0,0,0,,Easy.
 Dialogue: 0,0:18:27.77,0:18:31.40,Dubtitles,,0,0,0,,We will be searching for the\Nwhereabouts of the Red Stone of Asia.
 Dialogue: 0,0:18:31.98,0:18:35.64,Dubtitles,,0,0,0,,The stone is the last piece we\Nneed in order to complete the mask.
 Dialogue: 0,0:18:35.72,0:18:38.16,Dubtitles,,0,0,0,,Then, we will unleash its power.
-Dialogue: 0,0:18:38.56,0:18:40.20,Dubtitles,,0,0,0,,Of course, Master AC/DC.
+Dialogue: 0,0:18:38.56,0:18:40.20,Dubtitles,,0,0,0,,Of course, Master ACDC.
 Dialogue: 0,0:18:40.58,0:18:44.76,Dubtitles,,0,0,0,,However, the human world has changed\Nmuch over the years that we slumbered.
 Dialogue: 0,0:18:44.84,0:18:48.43,Dubtitles,,0,0,0,,Long ago, it was the Emperor of\NRome who possessed the stone.
 Dialogue: 0,0:18:49.26,0:18:52.03,Dubtitles,,0,0,0,,Unfortunately, I am\Ncertain that age has ended.
@@ -3268,14 +3257,12 @@ Dialogue: 0,0:20:47.44,0:20:49.12,Dubtitles,,0,0,0,,I must control myself.
 Dialogue: 0,0:20:49.48,0:20:51.56,Dubtitles,,0,0,0,,I feel like I'm going to explode.
 Dialogue: 0,0:20:55.02,0:20:56.08,Dubtitles,,0,0,0,,Goodbye, friend.
 Dialogue: 0,0:20:57.94,0:20:58.77,Dubtitles,,0,0,0,,Caesar.
-Dialogue: 0,0:21:00.68,0:21:02.78,Dubtitles,,0,0,0,,Give out my love, Caesar!
+Dialogue: 0,0:21:00.68,0:21:02.78,Dubtitles,,0,0,0,,Give out my love, Caesar
 Dialogue: 0,0:21:02.86,0:21:03.74,Dubtitles,,0,0,0,,I
-Dialogue: 0,0:21:03.82,0:21:10.82,Dubtitles,,0,0,0,,promise.
-Dialogue: 0,0:21:16.94,0:21:21.92,Dubtitles,,0,0,0,,He was so young.
-Dialogue: 0,0:21:22.00,0:21:23.96,Dubtitles,,0,0,0,,His whole life ahead of him.
-Dialogue: 0,0:21:24.04,0:21:26.12,Dubtitles,,0,0,0,,He worked hard for a living.
-Dialogue: 0,0:21:26.20,0:21:28.34,Dubtitles,,0,0,0,,He loved his family dearly.
-Dialogue: 0,0:21:28.42,0:21:31.42,Dubtitles,,0,0,0,,He loved his girl and his country.
+Dialogue: 0,0:21:03.82,0:21:10.82,Dubtitles,,0,0,0,,promise
+Dialogue: 0,0:21:16.94,0:21:22.68,Dubtitles,,0,0,0,,He was so young His
+Dialogue: 0,0:21:22.76,0:21:25.46,Dubtitles,,0,0,0,,whole life ahead of him He worked hard
+Dialogue: 0,0:21:25.54,0:21:31.42,Dubtitles,,0,0,0,,for a living He loved his family dearly\NHe loved his girl and his country.
 Dialogue: 0,0:21:31.74,0:21:33.16,Dubtitles,,0,0,0,,He was a good person.
 Dialogue: 0,0:21:33.56,0:21:35.27,Dubtitles,,0,0,0,,Clean cut, the boy next door.
 Dialogue: 0,0:21:37.02,0:21:38.42,Dubtitles,,0,0,0,,And they killed him.
@@ -3460,24 +3447,19 @@ Dialogue: 1,0:22:11.31,0:22:16.77,Lyrics 2,Yes,0,0,0,,Along the drifting cloud, 
 Dialogue: 1,0:22:18.32,0:22:23.95,Lyrics 2,Yes,0,0,0,,Catching the swirling wind, the sailor sees the rim of the land
 Dialogue: 1,0:22:25.37,0:22:31.00,Lyrics 2,Yes,0,0,0,,The eagle's dancing wings create, as weather spins out of hand
 Dialogue: 0,0:22:28.42,0:22:30.34,Dubtitles,,0,0,0,,We're spitting for the man.
-Dialogue: 0,0:22:46.66,0:22:48.74,Dubtitles,,0,0,0,,We're closer to all the land.
+Dialogue: 0,0:22:46.66,0:22:51.96,Dubtitles,,0,0,0,,We're closer to all the land. We're\Nprobably no more. But in frames of sand.
 Dialogue: 1,0:22:46.89,0:22:52.56,Lyrics 2,Yes,0,0,0,,Go closer hold the land, feel partly no more than grains of sand
-Dialogue: 0,0:22:48.82,0:22:50.12,Dubtitles,,0,0,0,,We're probably no more.
-Dialogue: 0,0:22:50.20,0:22:51.96,Dubtitles,,0,0,0,,But in frames of sand.
-Dialogue: 0,0:22:54.00,0:22:56.04,Dubtitles,,0,0,0,,He's got to lose all the time.
+Dialogue: 0,0:22:54.00,0:22:59.50,Dubtitles,,0,0,0,,He's got to lose all the time. I\Nwant to face his mind in my head.
 Dialogue: 1,0:22:54.10,0:22:59.44,Lyrics 2,Yes,0,0,0,,We stand to lose all time, a thousand answers by in our hand
-Dialogue: 0,0:22:56.12,0:22:59.50,Dubtitles,,0,0,0,,I want to face his mind in my head.
-Dialogue: 0,0:23:00.88,0:23:03.22,Dubtitles,,0,0,0,,Next to your deeper fears.
+Dialogue: 0,0:23:00.88,0:23:03.68,Dubtitles,,0,0,0,,Next to your deeper fears, he stands.
 Dialogue: 1,0:23:01.23,0:23:06.82,Lyrics 2,Yes,0,0,0,,Next to your deeper fears, we stand surrounded by million years
-Dialogue: 0,0:23:03.30,0:23:06.64,Dubtitles,,0,0,0,,He stands around the five million years.
-Dialogue: 0,0:23:06.72,0:23:10.48,Dubtitles,,0,0,0,,I'll give you round the night.
+Dialogue: 0,0:23:03.76,0:23:08.18,Dubtitles,,0,0,0,,Around the five million years I'll give.
 Dialogue: 1,0:23:07.49,0:23:11.12,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:23:10.56,0:23:14.70,Dubtitles,,0,0,0,,I'll give you round the night.
+Dialogue: 0,0:23:08.26,0:23:14.08,Dubtitles,,0,0,0,,You round the night I'll give you round.
 Dialogue: 1,0:23:11.12,0:23:14.66,Lyrics 2,Yes,0,0,0,,The words will make you out and out
+Dialogue: 0,0:23:14.16,0:23:17.80,Dubtitles,,0,0,0,,The night I'll give you round the night.
 Dialogue: 1,0:23:14.66,0:23:18.34,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:23:14.78,0:23:17.80,Dubtitles,,0,0,0,,I'll give you round the night.
 Dialogue: 1,0:23:18.34,0:23:26.05,Lyrics 2,Yes,0,0,0,,The words will make you out and out
-Dialogue: 1,0:23:26.55,0:23:28.55,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
 Dialogue: 1,0:23:26.55,0:23:28.55,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
 Dialogue: 0,0:23:28.84,0:23:31.42,Dubtitles,,0,0,0,,Now I'm sick and tired\Nof all this talking.
 Dialogue: 1,0:23:29.51,0:23:29.55,SFXRed5,P1,0,0,0,,{=47}{\blur0.6\frz11.73\pos(1873.98,784.24)\c&H090C1C&}Boom {In preview for last episode}
@@ -3684,8 +3666,6 @@ Dialogue: 2,0:23:35.81,0:23:35.85,SFXRed3 - Copy,P4,0,0,0,,{=52}{\blur0.7\bord0\
 Dialogue: 1,0:23:35.85,0:23:35.89,SFXRed3 - Copy,P4,0,0,0,,{=52}{\blur0.7\bord9.62\fscx105.79\fscy96.17\alpha&H00&\pos(1071.72,-48.67)\frz1.114\c&H0A0426&}Burst! {In preview for last episode}
 Dialogue: 2,0:23:35.85,0:23:35.89,SFXRed3 - Copy,P4,0,0,0,,{=52}{\blur0.7\bord0\fscx105.79\fscy96.17\alpha&H00&\pos(1071.72,-48.67)\frz1.114\4a&HFF&}Burst! {In preview for last episode}
 Dialogue: 0,0:23:36.94,0:23:38.98,Dubtitles,,0,0,0,,I call that Divine Sandstorm.
-Dialogue: 1,0:23:39.56,0:23:41.57,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 15:
-Dialogue: 1,0:23:39.56,0:23:41.57,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"A Hero's Worth"{\i0}
 Dialogue: 1,0:23:39.56,0:23:41.57,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 15:
 Dialogue: 1,0:23:39.56,0:23:41.57,Title2,,0,0,0,,{\fs105\pos(960,772)}"A Hero's Worth"
 

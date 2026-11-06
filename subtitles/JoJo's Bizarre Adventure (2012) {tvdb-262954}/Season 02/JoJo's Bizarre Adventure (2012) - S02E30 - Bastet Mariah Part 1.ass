@@ -43,7 +43,7 @@ Style: SFXRed - Copy - Copy - Copy,Shaky Hand Some Comic,100,&H406F3FE2,&H000000
 Style: SFX - Copy,Shaky Hand Some Comic Bold,150,&H009B3DC1,&H000000FF,&H00481060,&H313C1E3A,-1,0,0,0,130,100,0,0,1,9,5,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00160E0C,&H000000FF,&H00000000,&H965E3125,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
 Style: SFX2,LeviNaiveLetter,150,&H00A9D385,&H000000FF,&H001F2620,&H353D203F,-1,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -80,69 +80,63 @@ Dialogue: 0,0:01:33.40,0:01:37.28,Dubtitles,,0,0,0,,I suppose we'll be seeing ea
 Dialogue: 0,0:01:39.44,0:01:41.46,Dubtitles,,0,0,0,,Jotaro, Polnareff, Avdol, Iggy.
 Dialogue: 0,0:01:41.92,0:01:43.28,Dubtitles,,0,0,0,,Just hang in there.
 Dialogue: 1,0:01:48.50,0:01:51.34,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,953)}Seeking out...
-Dialogue: 0,0:01:49.46,0:01:50.48,Dubtitles,,0,0,0,,I am a.
-Dialogue: 0,0:01:50.56,0:01:52.74,Dubtitles,,0,0,0,,I am the one who can see you.
-Dialogue: 0,0:01:52.82,0:01:54.70,Dubtitles,,0,0,0,,I am the one who can see you.
-Dialogue: 0,0:01:54.78,0:02:00.74,Dubtitles,,0,0,0,,I am the
-Dialogue: 0,0:02:00.82,0:02:04.72,Dubtitles,,0,0,0,,one who is not in the end.
-Dialogue: 0,0:02:04.80,0:02:06.52,Dubtitles,,0,0,0,,A moment of life.
-Dialogue: 0,0:02:06.60,0:02:10.00,Dubtitles,,0,0,0,,I am the one who has brought me.
-Dialogue: 0,0:02:11.98,0:02:13.20,Dubtitles,,0,0,0,,I am the one who is in the end.
-Dialogue: 0,0:02:13.28,0:02:15.64,Dubtitles,,0,0,0,,I am the one who doesn't care.
-Dialogue: 0,0:02:15.72,0:02:18.04,Dubtitles,,0,0,0,,I am the one who is in the end.
-Dialogue: 0,0:02:30.42,0:02:32.40,Dubtitles,,0,0,0,,Stop! Get down!
-Dialogue: 0,0:02:57.29,0:02:58.12,Dubtitles,,0,0,0,,End of the world
+Dialogue: 0,0:01:49.46,0:01:51.88,Dubtitles,,0,0,0,,Đi tăi nătăi chạc,
+Dialogue: 0,0:02:05.42,0:02:08.58,Dubtitles,,0,0,0,,Sûmđunot chi bô găzucamor na fono,
+Dialogue: 0,0:02:47.52,0:02:49.66,Dubtitles,,0,0,0,,page of the star,
+Dialogue: 0,0:02:49.74,0:02:51.32,Dubtitles,,0,0,0,,I will turn the sword
+Dialogue: 0,0:02:51.40,0:02:56.88,Dubtitles,,0,0,0,,into the end of the world.
+Dialogue: 0,0:02:58.06,0:03:00.50,Dubtitles,,0,0,0,,The death of the world.
+Dialogue: 0,0:03:07.02,0:03:10.96,Dubtitles,,0,0,0,,all right,
+Dialogue: 0,0:03:11.40,0:03:15.26,Dubtitles,,0,0,0,,all right!
 Dialogue: 1,0:03:16.88,0:03:21.34,Title 3,title,0,0,0,,{\fad(652,0)\pos(151,850)}Episode 30: Bast's Mariah, Part 1
-Dialogue: 0,0:03:23.16,0:03:26.12,Dubtitles,,0,0,0,,Located in southern Egypt\Nis the city of Luxor.
+Dialogue: 0,0:03:23.18,0:03:26.12,Dubtitles,,0,0,0,,Located in southern Egypt\Nis the city of Luxor.
 Dialogue: 0,0:03:27.24,0:03:30.94,Dubtitles,,0,0,0,,To the ancient Egyptians, however,\Nit was the site of Thebes.
 Dialogue: 0,0:03:31.42,0:03:34.77,Dubtitles,,0,0,0,,And it is in this location,\Non the west bank of the Nile,
 Dialogue: 0,0:03:34.98,0:03:37.51,Dubtitles,,0,0,0,,that the pharaohs of\Nold were laid to rest.
 Dialogue: 0,0:03:38.34,0:03:40.92,Dubtitles,,0,0,0,,It is known as the Valley of the Kings.
-Dialogue: 0,0:03:41.84,0:03:45.16,Dubtitles,,0,0,0,,Have you heard of the tomb of\Nthe great king Tutankhamen?
-Dialogue: 0,0:03:45.24,0:03:47.59,Dubtitles,,0,0,0,,It lies here in the Valley of the Kings.
+Dialogue: 0,0:03:41.88,0:03:45.04,Dubtitles,,0,0,0,,Have you heard of the tomb of\Nthe great king Tutankhamen?
+Dialogue: 0,0:03:45.12,0:03:47.47,Dubtitles,,0,0,0,,It lies here in the Valley of the Kings.
 Dialogue: 0,0:03:47.74,0:03:50.15,Dubtitles,,0,0,0,,Wow, this place is chock full of history.
 Dialogue: 0,0:03:50.68,0:03:52.27,Dubtitles,,0,0,0,,If what I've heard is true,
-Dialogue: 0,0:03:52.46,0:03:55.54,Dubtitles,,0,0,0,,some of the residents of this area\Nstill dig beneath their houses
-Dialogue: 0,0:03:55.62,0:03:58.78,Dubtitles,,0,0,0,,in search of treasure without\Npermission from the government.
-Dialogue: 0,0:03:58.86,0:04:02.40,Dubtitles,,0,0,0,,Think those ancient guys left\Nbehind any undiscovered treasure?
-Dialogue: 0,0:04:02.48,0:04:03.58,Dubtitles,,0,0,0,,Perhaps they did.
-Dialogue: 0,0:04:04.76,0:04:07.20,Dubtitles,,0,0,0,,You guys see where the old man ran off to?
-Dialogue: 0,0:04:07.28,0:04:08.24,Dubtitles,,0,0,0,,Oh,
-Dialogue: 0,0:04:08.38,0:04:11.26,Dubtitles,,0,0,0,,yes to the bathroom and\Nhe took Iggy since he can
-Dialogue: 0,0:04:11.34,0:04:15.34,Dubtitles,,0,0,0,,detect enemies that's so\Ndo you need to go hmm?
-Dialogue: 0,0:04:16.42,0:04:18.78,Dubtitles,,0,0,0,,My might if it's a normal bathroom?
-Dialogue: 0,0:04:31.54,0:04:34.64,Dubtitles,,0,0,0,,The climate in this\Nplace is so damn arid the
-Dialogue: 0,0:04:34.72,0:04:37.20,Dubtitles,,0,0,0,,crap dries up turns the\Ndust and blows away.
-Dialogue: 0,0:04:37.28,0:04:41.36,Dubtitles,,0,0,0,,Which means instead of using water,\Nthis toilet relies solely on wind.
-Dialogue: 0,0:04:41.44,0:04:43.38,Dubtitles,,0,0,0,,And I don't see any toilet paper.
-Dialogue: 0,0:04:43.80,0:04:44.63,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:04:44.71,0:04:47.48,Dubtitles,,0,0,0,,Is that... Hmm?
-Dialogue: 0,0:04:49.84,0:04:51.22,Dubtitles,,0,0,0,,Exactly as I thought.
-Dialogue: 0,0:04:51.58,0:04:53.16,Dubtitles,,0,0,0,,Some sort of sand basin.
+Dialogue: 0,0:03:52.56,0:03:55.54,Dubtitles,,0,0,0,,some of the residents of this area\Nstill dig beneath their houses
+Dialogue: 0,0:03:55.62,0:03:58.68,Dubtitles,,0,0,0,,in search of treasure without\Npermission from the government.
+Dialogue: 0,0:03:58.76,0:04:02.46,Dubtitles,,0,0,0,,Think those ancient guys left\Nbehind any undiscovered treasure?
+Dialogue: 0,0:04:02.54,0:04:03.60,Dubtitles,,0,0,0,,Perhaps they did.
+Dialogue: 0,0:04:04.76,0:04:07.30,Dubtitles,,0,0,0,,You guys see where the old man ran off to?
+Dialogue: 0,0:04:07.76,0:04:13.12,Dubtitles,,0,0,0,,Oh yes, to the bathroom, and he took Iggy\Nsince he can detect enemies. Is that so?
+Dialogue: 0,0:04:13.52,0:04:14.66,Dubtitles,,0,0,0,,Do you need to go?
+Dialogue: 0,0:04:15.90,0:04:16.73,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:04:16.81,0:04:18.60,Dubtitles,,0,0,0,,I might if it's a normal bathroom.
+Dialogue: 0,0:04:25.56,0:04:27.44,Dubtitles,,0,0,0,,Oh, my God!
+Dialogue: 0,0:04:31.64,0:04:34.34,Dubtitles,,0,0,0,,The climate in this place is so damn arid,
+Dialogue: 0,0:04:34.58,0:04:37.40,Dubtitles,,0,0,0,,the crab dries up, turns\Nto dust and blows away.
+Dialogue: 0,0:04:37.50,0:04:41.32,Dubtitles,,0,0,0,,Which means instead of using water,\Nthis toilet relies solely on wind.
+Dialogue: 0,0:04:41.40,0:04:43.16,Dubtitles,,0,0,0,,And I don't see any toilet paper.
+Dialogue: 0,0:04:43.24,0:04:45.24,Dubtitles,,0,0,0,,Hmm, is that...
+Dialogue: 0,0:04:49.86,0:04:51.24,Dubtitles,,0,0,0,,Exactly as I thought.
+Dialogue: 0,0:04:51.58,0:04:53.12,Dubtitles,,0,0,0,,Some sort of sand basin.
 Dialogue: 0,0:04:53.40,0:04:55.88,Dubtitles,,0,0,0,,So you wipe your ass with sand?
-Dialogue: 0,0:04:56.36,0:04:59.18,Dubtitles,,0,0,0,,Desert sand is as sterile as it gets.
-Dialogue: 0,0:04:59.50,0:05:01.36,Dubtitles,,0,0,0,,Oh my god!
-Dialogue: 0,0:05:05.08,0:05:08.76,Dubtitles,,0,0,0,,I think I'll pull a pole in the wrap\Nand wait till we get back to the hotel.
-Dialogue: 0,0:05:08.84,0:05:11.34,Dubtitles,,0,0,0,,What's the point of a shack\Nif you're going in a hole?
-Dialogue: 0,0:05:11.42,0:05:14.02,Dubtitles,,0,0,0,,You might as well just do\Nyour business behind a rock.
-Dialogue: 0,0:05:14.10,0:05:16.74,Dubtitles,,0,0,0,,This thing is weird even\Nfor a place like Egypt.
-Dialogue: 0,0:05:16.82,0:05:17.96,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:05:29.10,0:05:29.93,Dubtitles,,0,0,0,,Hmm.
-Dialogue: 0,0:05:30.01,0:05:32.08,Dubtitles,,0,0,0,,This doesn't make the\Nslightest bit of sense.
-Dialogue: 0,0:05:32.16,0:05:36.30,Dubtitles,,0,0,0,,Who in their right mind would think\Nto put an electrical outlet in a rock?
-Dialogue: 0,0:05:36.38,0:05:38.24,Dubtitles,,0,0,0,,I wonder what it's used for.
-Dialogue: 0,0:05:38.74,0:05:40.86,Dubtitles,,0,0,0,,There's no electricity out here.
-Dialogue: 0,0:05:46.82,0:05:49.18,Dubtitles,,0,0,0,,That damn thing electrocuted me! Mr.
-Dialogue: 0,0:05:49.30,0:05:50.86,Dubtitles,,0,0,0,,Joestar, is everything all right?
-Dialogue: 0,0:05:50.94,0:05:52.88,Dubtitles,,0,0,0,,We should probably get a move on.
-Dialogue: 0,0:05:53.24,0:05:54.07,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:05:54.15,0:05:54.98,Dubtitles,,0,0,0,,Oh, right.
-Dialogue: 0,0:05:56.08,0:05:57.58,Dubtitles,,0,0,0,,Just give me a second.
-Dialogue: 0,0:05:59.36,0:06:01.89,Dubtitles,,0,0,0,,That scared the living\Ndaylights out of me.
-Dialogue: 0,0:06:02.10,0:06:04.08,Dubtitles,,0,0,0,,I can't believe it's still live.
-Dialogue: 0,0:06:04.38,0:06:07.50,Dubtitles,,0,0,0,,I guess the cables must run\Nunderground or something.
-Dialogue: 0,0:06:07.58,0:06:09.54,Dubtitles,,0,0,0,,You can never tell with this place.
-Dialogue: 0,0:06:09.62,0:06:12.15,Dubtitles,,0,0,0,,It's like traveling\Nthrough a fantasy land.
+Dialogue: 0,0:04:56.52,0:04:59.20,Dubtitles,,0,0,0,,Desert sand is as sterile as it gets.
+Dialogue: 0,0:04:59.64,0:05:01.36,Dubtitles,,0,0,0,,Oh, my God!
+Dialogue: 0,0:05:04.96,0:05:08.76,Dubtitles,,0,0,0,,I think I'll pull a Polnareff and\Nwait till we get back to the hotel.
+Dialogue: 0,0:05:08.84,0:05:11.16,Dubtitles,,0,0,0,,What's the point of a shack\Nif you're going in a hole?
+Dialogue: 0,0:05:11.24,0:05:14.00,Dubtitles,,0,0,0,,You might as well just do\Nyour business behind a rock.
+Dialogue: 0,0:05:14.08,0:05:16.90,Dubtitles,,0,0,0,,This thing is weird even\Nfor a place like Egypt.
+Dialogue: 0,0:05:17.38,0:05:18.21,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:05:29.46,0:05:32.08,Dubtitles,,0,0,0,,This doesn't make the\Nslightest bit of sense.
+Dialogue: 0,0:05:32.16,0:05:36.32,Dubtitles,,0,0,0,,Who in their right mind would think\Nto put an electrical outlet in a rock?
+Dialogue: 0,0:05:36.40,0:05:38.28,Dubtitles,,0,0,0,,I wonder what it's used for.
+Dialogue: 0,0:05:38.80,0:05:40.84,Dubtitles,,0,0,0,,There's no electricity out here.
+Dialogue: 0,0:05:46.16,0:05:49.18,Dubtitles,,0,0,0,,The damn thing electrocuted me! Mr.
+Dialogue: 0,0:05:49.30,0:05:50.84,Dubtitles,,0,0,0,,Joestar, is everything all right?
+Dialogue: 0,0:05:50.92,0:05:52.86,Dubtitles,,0,0,0,,We should probably get a move on.
+Dialogue: 0,0:05:53.20,0:05:54.88,Dubtitles,,0,0,0,,Huh? Oh, right.
+Dialogue: 0,0:05:56.02,0:05:57.60,Dubtitles,,0,0,0,,Just give me a second.
+Dialogue: 0,0:05:59.32,0:06:01.85,Dubtitles,,0,0,0,,That scared the living\Ndaylights out of me.
+Dialogue: 0,0:06:02.06,0:06:04.08,Dubtitles,,0,0,0,,I can't believe it's still live.
+Dialogue: 0,0:06:04.38,0:06:07.46,Dubtitles,,0,0,0,,I guess the cables must run\Nunderground or something.
+Dialogue: 0,0:06:07.54,0:06:09.36,Dubtitles,,0,0,0,,You can never tell with this place.
+Dialogue: 0,0:06:09.44,0:06:11.97,Dubtitles,,0,0,0,,It's like traveling\Nthrough a fantasy land.
 Dialogue: 1,0:06:22.19,0:06:22.23,SFX2,Before,0,0,0,,{=81}{\blur0.8\bord2.24\fscx29.18\fscy22.45\frz13.44\pos(895.12,815.68)\c&H1F2620&}Doom
 Dialogue: 2,0:06:22.19,0:06:22.23,SFX2,Before,0,0,0,,{=81}{\blur0.8\bord0\fscx29.18\fscy22.45\frz13.44\pos(895.12,815.68)\4a&HFF&}Doom
 Dialogue: 1,0:06:22.23,0:06:22.27,SFX2,Before,0,0,0,,{=81}{\blur0.8\bord4.74\fscx61.6\fscy47.38\frz13.44\pos(790.4,661.14)\c&H1F2620&}Doom
@@ -289,7 +283,8 @@ Dialogue: 2,0:06:26.15,0:06:31.20,Bastet Shite,Narrator,0,0,0,,{\blur8\fad(788,0
 Dialogue: 3,0:06:26.15,0:06:31.20,Bastet Shite,Narrator,0,0,0,,{\blur0.9\fad(788,0)\pos(207,610)}Card of the Goddess Bast
 Dialogue: 2,0:06:26.15,0:06:31.20,Bastet Shite,Narrator,0,0,0,,{\blur8\fad(788,0)\pos(207,858)\alpha&HC0&}Stand User: Mariah
 Dialogue: 3,0:06:26.15,0:06:31.20,Bastet Shite,Narrator,0,0,0,,{\blur0.9\fad(788,0)\pos(207,858)}Stand User: Mariah
-Dialogue: 0,0:06:26.76,0:06:30.88,Dubtitles,,0,0,0,,Card of the Goddess best Stand user Maria?
+Dialogue: 0,0:06:26.94,0:06:28.78,Dubtitles,,0,0,0,,Card of the Goddess Best.
+Dialogue: 0,0:06:29.04,0:06:30.90,Dubtitles,,0,0,0,,Stand user, Mariah.
 Dialogue: 2,0:06:31.20,0:06:31.24,Bastet Shite,Narrator,0,0,0,,{=66}{\blur8\fade(255,0,255,-5050,-4262,-90,710)\pos(207,610)\alpha&HC0&}Card of the Goddess Bast
 Dialogue: 3,0:06:31.20,0:06:31.24,Bastet Shite,Narrator,0,0,0,,{=66}{\blur0.9\fade(255,0,255,-5050,-4262,-90,710)\pos(207,610)}Card of the Goddess Bast
 Dialogue: 2,0:06:31.20,0:06:31.24,Bastet Shite,Narrator,0,0,0,,{\blur8\fade(255,0,255,-5050,-4262,-90,710)\pos(207,858)\alpha&HC0&}Stand User: Mariah
@@ -358,45 +353,47 @@ Dialogue: 2,0:06:31.87,0:06:31.91,Bastet Shite,Narrator,0,0,0,,{=66}{\blur8\fade
 Dialogue: 3,0:06:31.87,0:06:31.91,Bastet Shite,Narrator,0,0,0,,{=66}{\blur0.9\fade(255,0,255,-5720,-4932,-760,40)\pos(74.33,609.66)}Card of the Goddess Bast
 Dialogue: 2,0:06:31.87,0:06:31.91,Bastet Shite,Narrator,0,0,0,,{\blur8\fade(255,0,255,-5720,-4932,-760,40)\pos(74.33,857.66)\alpha&HC0&}Stand User: Mariah
 Dialogue: 3,0:06:31.87,0:06:31.91,Bastet Shite,Narrator,0,0,0,,{\blur0.9\fade(255,0,255,-5720,-4932,-760,40)\pos(74.33,857.66)}Stand User: Mariah
-Dialogue: 0,0:06:36.10,0:06:38.68,Dubtitles,,0,0,0,,Now how did that old saying go again?
-Dialogue: 0,0:06:39.30,0:06:41.28,Dubtitles,,0,0,0,,Curiosity killed the cat.
-Dialogue: 0,0:06:54.90,0:06:57.42,Dubtitles,,0,0,0,,We could make it to Cairo in two days,
+Dialogue: 0,0:06:36.30,0:06:38.62,Dubtitles,,0,0,0,,Now, how did that old saying go again?
+Dialogue: 0,0:06:39.58,0:06:41.26,Dubtitles,,0,0,0,,Curiosity killed the cat.
+Dialogue: 0,0:06:54.84,0:06:57.34,Dubtitles,,0,0,0,,We could make it to Cairo in two days,
 Dialogue: 0,0:06:57.68,0:07:00.39,Dubtitles,,0,0,0,,but since all of us are\Ninjured and exhausted,
-Dialogue: 0,0:07:00.52,0:07:04.98,Dubtitles,,0,0,0,,why don't we spend tonight and tomorrow\Nin Luxor and use that time to recuperate?
-Dialogue: 0,0:07:05.06,0:07:05.89,Dubtitles,,0,0,0,,Hmm. Hmm.
-Dialogue: 0,0:07:06.80,0:07:07.90,Dubtitles,,0,0,0,,Sounds good to me.
-Dialogue: 0,0:07:08.46,0:07:09.88,Dubtitles,,0,0,0,,Ever since we got to Egypt,
-Dialogue: 0,0:07:09.96,0:07:12.92,Dubtitles,,0,0,0,,the enemy stands have been\Ngetting stronger and stronger.
-Dialogue: 0,0:07:13.00,0:07:16.41,Dubtitles,,0,0,0,,We've been winning these battles\Nby the skin of our teeth.
-Dialogue: 0,0:07:17.38,0:07:18.21,Dubtitles,,0,0,0,,Hey, Mr.
+Dialogue: 0,0:07:00.62,0:07:05.02,Dubtitles,,0,0,0,,why don't we spend tonight and tomorrow\Nin Luxor and use that time to recuperate?
+Dialogue: 0,0:07:05.10,0:07:05.93,Dubtitles,,0,0,0,,Hmm. Hmm.
+Dialogue: 0,0:07:06.70,0:07:07.80,Dubtitles,,0,0,0,,Sounds good to me.
+Dialogue: 0,0:07:07.88,0:07:08.71,Dubtitles,,0,0,0,,Hey.
+Dialogue: 0,0:07:08.79,0:07:09.86,Dubtitles,,0,0,0,,ever since we got to Egypt,
+Dialogue: 0,0:07:09.94,0:07:12.88,Dubtitles,,0,0,0,,the enemy stands have been\Ngetting stronger and stronger.
+Dialogue: 0,0:07:12.96,0:07:16.04,Dubtitles,,0,0,0,,We've been winning these battles\Nby the skin of our teeth.
+Dialogue: 0,0:07:16.12,0:07:16.95,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:07:17.34,0:07:18.17,Dubtitles,,0,0,0,,Hey, Mr.
 Dialogue: 0,0:07:18.30,0:07:20.92,Dubtitles,,0,0,0,,Joestar, is something wrong? I'm fine.
-Dialogue: 0,0:07:21.14,0:07:23.84,Dubtitles,,0,0,0,,My prosthetic hand is\Nacting funny, that's all.
-Dialogue: 0,0:07:23.92,0:07:25.57,Dubtitles,,0,0,0,,It's nothing to worry about.
-Dialogue: 0,0:07:25.72,0:07:27.22,Dubtitles,,0,0,0,,I probably just need to oil the joints.
-Dialogue: 0,0:07:27.30,0:07:30.24,Dubtitles,,0,0,0,,Hey there, shopkeeper, can you\Nplease do something about that radio?
+Dialogue: 0,0:07:21.12,0:07:23.80,Dubtitles,,0,0,0,,My prosthetic hand is\Nacting funny, that's all.
+Dialogue: 0,0:07:23.88,0:07:25.48,Dubtitles,,0,0,0,,It's nothing to worry about.
+Dialogue: 0,0:07:25.56,0:07:27.20,Dubtitles,,0,0,0,,I probably just need to oil the joints.
+Dialogue: 0,0:07:27.28,0:07:30.24,Dubtitles,,0,0,0,,Hey there, shopkeeper, can you\Nplease do something about that radio?
 Dialogue: 0,0:07:30.32,0:07:31.15,Dubtitles,,0,0,0,,It's busted.
 Dialogue: 0,0:07:31.32,0:07:32.56,Dubtitles,,0,0,0,,Man, that's peculiar.
-Dialogue: 0,0:07:32.72,0:07:35.72,Dubtitles,,0,0,0,,It was made in Japan, and I\Njust bought the darn thing.
-Dialogue: 0,0:07:35.80,0:07:38.64,Dubtitles,,0,0,0,,Well, it's just static now. Turn it off.
-Dialogue: 0,0:07:40.72,0:07:41.86,Dubtitles,,0,0,0,,Mr. Joestar?
-Dialogue: 0,0:07:42.96,0:07:44.32,Dubtitles,,0,0,0,,Yeah, you're right.
+Dialogue: 0,0:07:32.68,0:07:35.86,Dubtitles,,0,0,0,,It was made in Japan and I\Njust bought the darn thing.
+Dialogue: 0,0:07:35.98,0:07:38.64,Dubtitles,,0,0,0,,Well, it's just static now. Turn it off.
+Dialogue: 0,0:07:40.76,0:07:41.86,Dubtitles,,0,0,0,,Mr. Joestar?
+Dialogue: 0,0:07:43.02,0:07:44.34,Dubtitles,,0,0,0,,Yeah, you're right.
 Dialogue: 0,0:07:44.68,0:07:48.97,Dubtitles,,0,0,0,,We'd probably be in our best interest\Nto rest up before heading to Cairo.
-Dialogue: 0,0:07:50.04,0:07:52.28,Dubtitles,,0,0,0,,Remember, we can't let our guard down.
-Dialogue: 0,0:07:53.46,0:07:55.16,Dubtitles,,0,0,0,,Okay, let's find a hotel.
-Dialogue: 0,0:07:56.36,0:07:57.66,Dubtitles,,0,0,0,,What's going on?
-Dialogue: 0,0:07:58.16,0:07:59.93,Dubtitles,,0,0,0,,Thanks for the drinks, mister.
+Dialogue: 0,0:07:50.08,0:07:52.32,Dubtitles,,0,0,0,,Remember, we can't let our guard down.
+Dialogue: 0,0:07:53.50,0:07:55.16,Dubtitles,,0,0,0,,Okay, let's find a hotel.
+Dialogue: 0,0:07:56.40,0:07:57.66,Dubtitles,,0,0,0,,What's going on?
+Dialogue: 0,0:07:58.20,0:07:59.97,Dubtitles,,0,0,0,,Thanks for the drinks, mister.
 Dialogue: 0,0:08:00.06,0:08:00.92,Dubtitles,,0,0,0,,Come again?
 Dialogue: 0,0:08:24.42,0:08:26.02,Dubtitles,,0,0,0,,Hey, look at that.
 Dialogue: 0,0:08:26.18,0:08:27.71,Dubtitles,,0,0,0,,The radio's working again.
-Dialogue: 0,0:08:35.80,0:08:36.72,Dubtitles,,0,0,0,,Huh? Huh?
-Dialogue: 0,0:08:37.18,0:08:38.01,Dubtitles,,0,0,0,,What the...
-Dialogue: 0,0:08:38.09,0:08:40.20,Dubtitles,,0,0,0,,why is the hammer suddenly so heavy?
-Dialogue: 0,0:08:40.28,0:08:41.62,Dubtitles,,0,0,0,,I can't... Huh?
-Dialogue: 0,0:08:45.14,0:08:46.52,Dubtitles,,0,0,0,,What the hell?
+Dialogue: 0,0:08:35.52,0:08:36.72,Dubtitles,,0,0,0,,Huh? Huh?
+Dialogue: 0,0:08:37.16,0:08:38.00,Dubtitles,,0,0,0,,What the...
+Dialogue: 0,0:08:38.08,0:08:40.20,Dubtitles,,0,0,0,,Why is the hammer suddenly so heavy?
+Dialogue: 0,0:08:40.28,0:08:41.14,Dubtitles,,0,0,0,,I can't...
+Dialogue: 0,0:08:45.10,0:08:46.50,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 0,0:08:53.58,0:08:54.41,Dubtitles,,0,0,0,,Hmm?
 Dialogue: 0,0:08:55.76,0:08:56.80,Dubtitles,,0,0,0,,The nails!
 Dialogue: 0,0:08:57.94,0:08:59.34,Dubtitles,,0,0,0,,Oh, God, it hurts.
-Dialogue: 0,0:08:59.66,0:09:02.12,Dubtitles,,0,0,0,,Hey, old man, did you bang\Nyour finger with the hammer?
+Dialogue: 0,0:08:59.64,0:09:02.12,Dubtitles,,0,0,0,,Hey, old man, did you bang\Nyour finger with the hammer?
 Dialogue: 0,0:09:02.20,0:09:03.30,Dubtitles,,0,0,0,,You gotta be more careful.
 Dialogue: 0,0:09:03.38,0:09:06.79,Dubtitles,,0,0,0,,You can't just go throwin'\Nhammers around, it's dangerous!
 Dialogue: 0,0:09:07.68,0:09:08.51,Dubtitles,,0,0,0,,Geez!
@@ -530,7 +527,7 @@ Dialogue: 1,0:11:27.70,0:11:27.75,SFX - Copy,1.2,0,0,0,,{=80}{\blur0.9\3c&H70169
 Dialogue: 2,0:11:27.70,0:11:27.75,SFX - Copy,1.2,0,0,0,,{=80}{\bord0\blur0.9\c&HFD9CF9&\4c&H492448&\frz359.6\pos(1175.38,418.62)\shad5\4a&HFF&}Fwoosh {In preview for last episode}
 Dialogue: 0,0:11:31.60,0:11:35.84,Dubtitles,,0,0,0,,I do appreciate your forwardness, but\Nyou need to work on your approach,
 Dialogue: 0,0:11:36.06,0:11:37.53,Dubtitles,,0,0,0,,you naughty, naughty man.
-Dialogue: 0,0:11:38.68,0:11:43.10,Dubtitles,,0,0,0,,But that said, you're just my Deep.
+Dialogue: 0,0:11:38.68,0:11:43.10,Dubtitles,,0,0,0,,But that said, you're just my type.
 Dialogue: 0,0:11:44.58,0:11:46.34,Dubtitles,,0,0,0,,Oh my god!
 Dialogue: 0,0:11:48.64,0:11:49.68,Dubtitles,,0,0,0,,I was right!
 Dialogue: 0,0:11:49.94,0:11:51.76,Dubtitles,,0,0,0,,Something's wrong here, really wrong!
@@ -554,11 +551,11 @@ Dialogue: 0,0:12:52.48,0:12:54.34,Dubtitles,,0,0,0,,I can't get out of it!
 Dialogue: 0,0:12:54.78,0:12:58.96,Dubtitles,,0,0,0,,Oh no, it didn't even cross my mind\Nthat the escalator's made of steel!
 Dialogue: 0,0:12:59.28,0:13:00.63,Dubtitles,,0,0,0,,This doesn't look good!
 Dialogue: 0,0:13:00.90,0:13:03.90,Dubtitles,,0,0,0,,The magnetic pull's getting\Nstronger by the minute!
-Dialogue: 0,0:13:13.38,0:13:17.06,Dubtitles,,0,0,0,,You there, lady in the miniskirt,\NI need you to help me out.
+Dialogue: 0,0:13:13.38,0:13:17.06,Dubtitles,,0,0,0,,You there, lady in the micro-mini-skirt.\NI need you to help me out.
 Dialogue: 0,0:13:17.14,0:13:18.76,Dubtitles,,0,0,0,,Please, miss, I'm begging you.
 Dialogue: 0,0:13:18.84,0:13:21.42,Dubtitles,,0,0,0,,Not to be rude, but your\Nchain's wrapped around my body,
 Dialogue: 0,0:13:21.50,0:13:24.72,Dubtitles,,0,0,0,,and it'd be nice if you'd get it off\Nme before I'm shredded to pieces.
-Dialogue: 0,0:13:24.80,0:13:25.88,Dubtitles,,0,0,0,,There's not much time,
+Dialogue: 0,0:13:24.80,0:13:25.88,Dubtitles,,0,0,0,,There's not much time.
 Dialogue: 0,0:13:25.96,0:13:29.46,Dubtitles,,0,0,0,,so if you could push the emergency\Nstop button, that'd be swell.
 Dialogue: 0,0:13:29.54,0:13:32.36,Dubtitles,,0,0,0,,Come on, lady, the chains\Nare pulling me tighter.
 Dialogue: 0,0:13:32.44,0:13:35.09,Dubtitles,,0,0,0,,This thing's gonna rip\Noff my hands and feet.
@@ -1013,19 +1010,19 @@ Dialogue: 0,0:14:50.50,0:14:52.08,Dubtitles,,0,0,0,,but that can't be possible!
 Dialogue: 0,0:14:52.16,0:14:54.87,Dubtitles,,0,0,0,,What escalator doesn't\Nhave a shut-off button?
 Dialogue: 0,0:14:59.66,0:15:01.84,Dubtitles,,0,0,0,,It's pulling me in!
 Dialogue: 0,0:15:04.70,0:15:06.80,Dubtitles,,0,0,0,,My neck! My neck!
-Dialogue: 0,0:15:08.70,0:15:10.96,Dubtitles,,0,0,0,,It's gonna cut off my head!
+Dialogue: 0,0:15:08.70,0:15:10.96,Dubtitles,,0,0,0,,It's gonna rip my head off!
 Dialogue: 0,0:15:11.26,0:15:12.50,Dubtitles,,0,0,0,,I'm done for!
 Dialogue: 0,0:15:13.88,0:15:15.22,Dubtitles,,0,0,0,,Save me!
 Dialogue: 0,0:15:16.24,0:15:17.07,Dubtitles,,0,0,0,,Mr.
 Dialogue: 0,0:15:17.22,0:15:18.30,Dubtitles,,0,0,0,,Joestar, pay attention!
 Dialogue: 0,0:15:18.38,0:15:19.22,Dubtitles,,0,0,0,,I'm gonna die!
 Dialogue: 0,0:15:20.08,0:15:21.86,Dubtitles,,0,0,0,,Hello, Mr. Joestar!
-Dialogue: 0,0:15:22.46,0:15:23.74,Dubtitles,,0,0,0,,Why attack?
+Dialogue: 0,0:15:22.46,0:15:23.74,Dubtitles,,0,0,0,,Why decapitation?
 Dialogue: 0,0:15:25.12,0:15:26.84,Dubtitles,,0,0,0,,Goodbye, cruel world!
 Dialogue: 0,0:15:34.28,0:15:36.52,Dubtitles,,0,0,0,,The escalator stopped some time ago.
 Dialogue: 0,0:15:36.72,0:15:39.06,Dubtitles,,0,0,0,,I already pushed the\Nemergency stop button.
 Dialogue: 0,0:15:39.14,0:15:41.55,Dubtitles,,0,0,0,,It's on the side instead of in the front.
-Dialogue: 0,0:15:42.56,0:15:43.78,Dubtitles,,0,0,0,,Everything is Aqua!
+Dialogue: 0,0:15:42.56,0:15:43.78,Dubtitles,,0,0,0,,Everything is A-OK!
 Dialogue: 0,0:15:43.86,0:15:47.22,Dubtitles,,0,0,0,,I just inspected this escalator\Nand it's in working order!
 Dialogue: 0,0:15:47.30,0:15:50.32,Dubtitles,,0,0,0,,You'll be happy to know the\Nemergency button works fine!
 Dialogue: 0,0:15:50.40,0:15:51.24,Dubtitles,,0,0,0,,Hello, sir!
@@ -1046,7 +1043,7 @@ Dialogue: 0,0:16:29.60,0:16:31.34,Dubtitles,,0,0,0,,That woman there is the stan
 Dialogue: 0,0:16:31.42,0:16:33.32,Dubtitles,,0,0,0,,We've got to find a way to stop her!
 Dialogue: 0,0:16:33.40,0:16:36.10,Dubtitles,,0,0,0,,And I have to get rid of this\Ninsane magnetic pull somehow!
 Dialogue: 0,0:16:36.18,0:16:38.36,Dubtitles,,0,0,0,,Or I won't be able to move my body at all!
-Dialogue: 0,0:16:38.44,0:16:40.79,Dubtitles,,0,0,0,,We should also get Jojaro and Polnareff!
+Dialogue: 0,0:16:38.44,0:16:40.79,Dubtitles,,0,0,0,,We should also get Jotaro and Polnareff!
 Dialogue: 0,0:16:41.80,0:16:42.63,Dubtitles,,0,0,0,,What?
 Dialogue: 1,0:16:43.23,0:16:43.27,SFXYellow,3,0,0,0,,{=64}{\blur0.6\bord6.5\fscx120.67\fscy92.82\frz4.64\pos(1200.78,371.43)\c&H1B2327&}Grasp {In preview for last episode}
 Dialogue: 2,0:16:43.23,0:16:43.27,SFXYellow,3,0,0,0,,{=64}{\blur0.6\bord0\fscx120.67\fscy92.82\frz4.64\pos(1200.78,371.43)\4a&HFF&}Grasp {In preview for last episode}
@@ -1195,7 +1192,7 @@ Dialogue: 1,0:16:46.23,0:16:46.27,SFXYellow,3,0,0,0,,{=64}{\blur0.6\bord7.88\fsc
 Dialogue: 2,0:16:46.23,0:16:46.27,SFXYellow,3,0,0,0,,{=64}{\blur0.6\bord0\fscx146.28\fscy112.52\frz18.44\pos(1258.41,271.16)\4a&HFF&}Grasp {In preview for last episode}
 Dialogue: 1,0:16:46.27,0:16:46.31,SFXYellow,3,0,0,0,,{=64}{\blur0.6\bord7.88\fscx146.27\fscy112.51\frz18.44\pos(1258.41,271.16)\c&H1B2327&}Grasp {In preview for last episode}
 Dialogue: 2,0:16:46.27,0:16:46.31,SFXYellow,3,0,0,0,,{=64}{\blur0.6\bord0\fscx146.27\fscy112.51\frz18.44\pos(1258.41,271.16)\4a&HFF&}Grasp {In preview for last episode}
-Dialogue: 0,0:16:46.30,0:16:48.95,Dubtitles,,0,0,0,,And Avdol, there's no\Ntime to get the others!
+Dialogue: 0,0:16:46.30,0:16:48.95,Dubtitles,,0,0,0,,Avdol! There's no time to get the others!
 Dialogue: 0,0:16:49.10,0:16:50.87,Dubtitles,,0,0,0,,Just look, she's getting away!
 Dialogue: 0,0:16:52.52,0:16:53.78,Dubtitles,,0,0,0,,Move away, Mr.
 Dialogue: 0,0:16:53.90,0:16:55.55,Dubtitles,,0,0,0,,Joestar, just run after her!
@@ -1210,19 +1207,18 @@ Dialogue: 0,0:17:32.50,0:17:33.96,Dubtitles,,0,0,0,,That's what I'd like to know
 Dialogue: 0,0:17:34.04,0:17:37.69,Dubtitles,,0,0,0,,Avdol went inside to find him,\Nbut he hasn't come back either.
 Dialogue: 0,0:17:38.78,0:17:39.61,Dubtitles,,0,0,0,,Oh no!
 Dialogue: 0,0:17:39.94,0:17:42.28,Dubtitles,,0,0,0,,What if those two snuck off? What?
-Dialogue: 0,0:17:43.38,0:17:46.73,Dubtitles,,0,0,0,,They're probably having an\Namazing breakfast as we speak.
-Dialogue: 0,0:17:48.48,0:17:51.46,Dubtitles,,0,0,0,,It's more likely he's taking\Nhis time in the bathroom.
-Dialogue: 0,0:17:51.54,0:17:55.38,Dubtitles,,0,0,0,,But if they don't show up in the next\Nfive minutes, we'll go look for him!
-Dialogue: 0,0:17:55.46,0:17:57.08,Dubtitles,,0,0,0,,Yeah, the bathroom.
-Dialogue: 0,0:17:57.16,0:17:58.80,Dubtitles,,0,0,0,,Guess that makes sense.
-Dialogue: 0,0:17:59.48,0:18:03.72,Dubtitles,,0,0,0,,You know, come to think of it, the\Nbathrooms in this hotel are spotless.
+Dialogue: 0,0:17:43.38,0:17:46.67,Dubtitles,,0,0,0,,They're probably having an\Namazing breakfast as we speak
+Dialogue: 0,0:17:48.48,0:17:51.46,Dubtitles,,0,0,0,,It's more likely he's taking\Nhis time in the bathroom
+Dialogue: 0,0:17:51.54,0:17:55.38,Dubtitles,,0,0,0,,But if they don't show up in the next\Nfive minutes, we'll go look for him
+Dialogue: 0,0:17:55.46,0:17:58.80,Dubtitles,,0,0,0,,Yeah, the bathroom Guess that makes sense
+Dialogue: 0,0:17:59.48,0:18:03.68,Dubtitles,,0,0,0,,You know, come to think of it, the\Nbathrooms in this hotel are spotless
 Dialogue: 0,0:18:07.74,0:18:08.57,Dubtitles,,0,0,0,,So, Mr.
 Dialogue: 0,0:18:08.65,0:18:10.60,Dubtitles,,0,0,0,,Joestar, now that we're in here
-Dialogue: 0,0:18:16.66,0:18:20.20,Dubtitles,,0,0,0,,It's just as I expected. We\Nhave a problem on our hands.
-Dialogue: 0,0:18:22.64,0:18:26.34,Dubtitles,,0,0,0,,Forgive me but I I\Nhaven't the foggiest clue
-Dialogue: 0,0:18:26.42,0:18:29.42,Dubtitles,,0,0,0,,which stall she's in do\Nyou have a way to find her?
-Dialogue: 0,0:18:29.70,0:18:34.56,Dubtitles,,0,0,0,,Well for one she's got amazing\Nlegs legs that's right just look
-Dialogue: 0,0:18:34.64,0:18:37.66,Dubtitles,,0,0,0,,For those legs, believe me\Nwhen I say you can't miss him.
+Dialogue: 0,0:18:16.66,0:18:20.20,Dubtitles,,0,0,0,,it's just as i expected we\Nhave a problem on our hands
+Dialogue: 0,0:18:22.64,0:18:26.34,Dubtitles,,0,0,0,,forgive me but i i\Nhaven't the foggiest clue
+Dialogue: 0,0:18:26.42,0:18:29.36,Dubtitles,,0,0,0,,which stall she's in do\Nyou have a way to find her
+Dialogue: 0,0:18:29.70,0:18:34.56,Dubtitles,,0,0,0,,well for one she's got amazing\Nlegs legs that's right just look
+Dialogue: 0,0:18:34.64,0:18:37.66,Dubtitles,,0,0,0,,for those legs believe me when\Ni They say you can't miss him.
 Dialogue: 0,0:18:37.74,0:18:40.06,Dubtitles,,0,0,0,,So, we have to take a peek.
 Dialogue: 0,0:18:50.54,0:18:52.44,Dubtitles,,0,0,0,,No, she's not in this one.
 Dialogue: 0,0:18:53.56,0:18:54.39,Dubtitles,,0,0,0,,Nope.
@@ -1580,9 +1576,8 @@ Dialogue: 1,0:23:26.46,0:23:28.47,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next
 Dialogue: 0,0:23:29.06,0:23:30.46,Dubtitles,,0,0,0,,is stronger than it was before!
 Dialogue: 0,0:23:30.54,0:23:31.86,Dubtitles,,0,0,0,,That woman is pure evil!
 Dialogue: 0,0:23:31.94,0:23:33.84,Dubtitles,,0,0,0,,So what should we do if we don't get free?
-Dialogue: 0,0:23:33.92,0:23:35.22,Dubtitles,,0,0,0,,I've run away from fights before.
-Dialogue: 0,0:23:35.30,0:23:36.90,Dubtitles,,0,0,0,,But I've only done so\Nwhen running was part?
-Dialogue: 0,0:23:36.98,0:23:38.12,Dubtitles,,0,0,0,,of the overall strategy.
+Dialogue: 0,0:23:33.92,0:23:35.22,Dubtitles,,0,0,0,,I've run away from fights before,
+Dialogue: 0,0:23:35.30,0:23:38.12,Dubtitles,,0,0,0,,but I've only done so when running\Nwas part of the overall strategy.
 Dialogue: 0,0:23:38.20,0:23:40.56,Dubtitles,,0,0,0,,The real showdown begins now!
 Dialogue: 1,0:23:39.48,0:23:41.48,Next Episode,sign,0,0,0,,{\pos(960,135)\fs100}Episode 31
 Dialogue: 1,0:23:39.48,0:23:41.48,Next Episode,sign,0,0,0,,{\pos(960,900)\fs100}Bast's Mariah, Part 2

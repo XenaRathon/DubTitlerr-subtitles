@@ -56,7 +56,7 @@ Style: SFXPurple - Copy,Evil Green Plant,150,&H005C203F,&H000000FF,&H00100D10,&H
 Style: SFXPurple4 - Copy - Copy,Evil Green Plant,140,&H006F2A4E,&H000000FF,&H00160C14,&H00000000,-1,0,0,0,90,100,0,0,1,8,0,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00101819,&H000000FF,&H00000000,&H96183F45,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
 Style: SFXPurpleflashback,Shaky Hand Some Comic Bold,150,&H004F4855,&H000000FF,&H0025212A,&H00000000,-1,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -81,8 +81,8 @@ Dialogue: 0,0:00:49.67,0:00:53.11,Dubtitles,,0,0,0,,Giving up power to ram me wi
 Dialogue: 0,0:00:53.19,0:00:54.31,Dubtitles,,0,0,0,,Instead of gloating,
 Dialogue: 0,0:00:54.39,0:00:56.35,Dubtitles,,0,0,0,,you should have paid more\Nattention to my plan to stay
 Dialogue: 0,0:00:56.43,0:00:59.43,Dubtitles,,0,0,0,,behind and knock you off\Ncourse with a spin attack.
-Dialogue: 0,0:00:59.79,0:01:03.43,Dubtitles,,0,0,0,,So you say though the same\Ncould also be said of you?
-Dialogue: 0,0:01:04.33,0:01:06.45,Dubtitles,,0,0,0,,Losing power was not an accident.
+Dialogue: 0,0:00:59.79,0:01:03.43,Dubtitles,,0,0,0,,So you say though the same\Ncould also be said of you
+Dialogue: 0,0:01:04.33,0:01:06.45,Dubtitles,,0,0,0,,Losing power was not an accident
 Dialogue: 0,0:01:07.05,0:01:10.23,Dubtitles,,0,0,0,,You're so self-righteous in your hubris.
 Dialogue: 0,0:01:10.39,0:01:14.10,Dubtitles,,0,0,0,,You didn't realize I planned for\Nyou to knock my car off course
 Dialogue: 0,0:01:14.63,0:01:16.61,Dubtitles,,0,0,0,,Everything rests on this
@@ -120,43 +120,45 @@ Dialogue: 0,0:03:23.35,0:03:24.69,Dubtitles,,0,0,0,,choking on gum,
 Dialogue: 0,0:03:24.89,0:03:28.95,Dubtitles,,0,0,0,,or even suffering a heart attack from\Nthe shock of popping a bag of popcorn.
 Dialogue: 0,0:03:29.03,0:03:33.85,Dubtitles,,0,0,0,,If any of those things sent me to\Nheaven, Kakyoin's soul would go too.
 Dialogue: 1,0:03:40.49,0:03:43.32,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,952.999)}Seeking out...
-Dialogue: 0,0:03:56.79,0:04:00.61,Dubtitles,,0,0,0,,The end of the night, and the\Ndark in the end of the night.
-Dialogue: 0,0:04:00.69,0:04:05.27,Dubtitles,,0,0,0,,the moon has been sent to\Nthe moonlight in the sea.
-Dialogue: 0,0:04:05.79,0:04:10.01,Dubtitles,,0,0,0,,I don't know if it's\Nthe word of the night.
-Dialogue: 0,0:04:10.09,0:04:12.41,Dubtitles,,0,0,0,,I'd never see the number of the night.
-Dialogue: 0,0:04:12.79,0:04:15.67,Dubtitles,,0,0,0,,I'm still in my own way,\Nand I'm still in my own way.
-Dialogue: 0,0:04:15.75,0:04:18.17,Dubtitles,,0,0,0,,When I get to the end of the night,
-Dialogue: 0,0:04:18.83,0:04:20.66,Dubtitles,,0,0,0,,I'm running back in the battle,
-Dialogue: 0,0:04:35.07,0:04:36.67,Dubtitles,,0,0,0,,The end
-Dialogue: 0,0:04:36.75,0:04:43.75,Dubtitles,,0,0,0,,of
-Dialogue: 0,0:04:47.25,0:04:48.11,Dubtitles,,0,0,0,,the world,
-Dialogue: 0,0:04:50.91,0:04:52.27,Dubtitles,,0,0,0,,Keine Ahitzabe,
+Dialogue: 0,0:04:01.05,0:04:02.37,Dubtitles,,0,0,0,,I'll
+Dialogue: 0,0:04:02.45,0:04:08.69,Dubtitles,,0,0,0,,See you.
+Dialogue: 0,0:04:08.77,0:04:09.99,Dubtitles,,0,0,0,,next time.
+Dialogue: 0,0:04:23.35,0:04:24.21,Dubtitles,,0,0,0,,Good. Now.
+Dialogue: 0,0:04:38.49,0:04:45.45,Dubtitles,,0,0,0,,Fuuaku no last page ni So\Nno kobushi wo Ta taki kome
+Dialogue: 0,0:04:46.63,0:04:48.07,Dubtitles,,0,0,0,,End of the world
+Dialogue: 0,0:04:50.07,0:04:51.75,Dubtitles,,0,0,0,,That along. Our Our
+Dialogue: 0,0:04:54.21,0:04:56.59,Dubtitles,,0,0,0,,Our Our Our Our Our
+Dialogue: 0,0:05:02.89,0:05:03.72,Dubtitles,,0,0,0,,Story
 Dialogue: 1,0:05:08.62,0:05:13.25,Title 3,title,0,0,0,,{\fad(488,639)\pos(150,858)}Episode 41: D'Arby the Player, Part 2
-Dialogue: 0,0:05:18.05,0:05:19.95,Dubtitles,,0,0,0,,Hora, What the? Hey!
-Dialogue: 0,0:05:20.03,0:05:22.13,Dubtitles,,0,0,0,,Hey, Jotaro, wait! What's this?
-Dialogue: 0,0:05:22.49,0:05:23.49,Dubtitles,,0,0,0,,Hey, Jotaro!
-Dialogue: 0,0:05:23.83,0:05:25.33,Dubtitles,,0,0,0,,Why the hell are you sitting down?
-Dialogue: 0,0:05:25.41,0:05:27.37,Dubtitles,,0,0,0,,We should be kicking Geppetto's ass!
-Dialogue: 0,0:05:27.45,0:05:28.65,Dubtitles,,0,0,0,,I'll play him next!
-Dialogue: 0,0:05:28.93,0:05:32.35,Dubtitles,,0,0,0,,Old man, have you ever actually\Nplayed any of these games?
-Dialogue: 0,0:05:32.47,0:05:35.00,Dubtitles,,0,0,0,,If not, the odds wouldn't\Nbe in your favor.
-Dialogue: 0,0:05:37.85,0:05:39.47,Dubtitles,,0,0,0,,Stay out of it, old man.
-Dialogue: 0,0:05:39.75,0:05:42.81,Dubtitles,,0,0,0,,This isn't your average\Ngame of gin rummy after all.
-Dialogue: 0,0:05:44.79,0:05:46.31,Dubtitles,,0,0,0,,We're playing baseball.
-Dialogue: 0,0:05:46.97,0:05:49.65,Dubtitles,,0,0,0,,That's the game I choose\Nto settle this once.
-Dialogue: 0,0:05:49.73,0:05:54.67,Dubtitles,,0,0,0,,And for all as collateral,\NI'll bet my soul!
-Dialogue: 0,0:05:54.75,0:05:57.97,Dubtitles,,0,0,0,,All right then I would like to bet Kakyoin
-Dialogue: 0,0:05:58.05,0:06:03.37,Dubtitles,,0,0,0,,soul my stand Atum has released your arm
-Dialogue: 0,0:06:03.45,0:06:09.13,Dubtitles,,0,0,0,,you may thank me at your leisure now that\NKakyoin soul is in my collection there's
-Dialogue: 0,0:06:09.21,0:06:13.85,Dubtitles,,0,0,0,,no longer reason for me to keep your arm\Nin my stands' clutches and suffice it
-Dialogue: 0,0:06:13.93,0:06:18.93,Dubtitles,,0,0,0,,to say i'd be at a bit of a disadvantage\Nif i faced you with my stand one handed!
-Dialogue: 0,0:06:19.01,0:06:23.15,Dubtitles,,0,0,0,,I'm all aware of your star platinum's\Nincredible speed and precision!
-Dialogue: 0,0:06:23.23,0:06:28.39,Dubtitles,,0,0,0,,Really out of all the games\Nyou could have chosen to play
-Dialogue: 0,0:06:28.47,0:06:33.47,Dubtitles,,0,0,0,,it's unfortunate for you that\Nwe're playing my specialty!
-Dialogue: 0,0:06:34.47,0:06:35.30,Dubtitles,,0,0,0,,Darby!
-Dialogue: 0,0:06:35.39,0:06:38.57,Dubtitles,,0,0,0,,Just you wait the moment Jotaro\Nwipes the floor with you I'll
-Dialogue: 0,0:06:38.65,0:06:41.69,Dubtitles,,0,0,0,,throttle the life out of your\Npompous ass and that is a promise!
-Dialogue: 0,0:06:41.77,0:06:48.29,Dubtitles,,0,0,0,,Oh that's
+Dialogue: 0,0:05:10.07,0:05:10.90,Dubtitles,,0,0,0,,The H
+Dialogue: 0,0:05:18.79,0:05:19.62,Dubtitles,,0,0,0,,What the?
+Dialogue: 0,0:05:19.75,0:05:22.13,Dubtitles,,0,0,0,,Hey, Jotaro, wait! What's this?
+Dialogue: 0,0:05:22.49,0:05:23.51,Dubtitles,,0,0,0,,Hey, Jotaro!
+Dialogue: 0,0:05:23.81,0:05:25.31,Dubtitles,,0,0,0,,Why the hell are you sitting down?
+Dialogue: 0,0:05:25.39,0:05:27.39,Dubtitles,,0,0,0,,We should be kicking Geppetto's ass!
+Dialogue: 0,0:05:27.47,0:05:28.65,Dubtitles,,0,0,0,,I'll play him next!
+Dialogue: 0,0:05:28.95,0:05:32.37,Dubtitles,,0,0,0,,Old man, have you ever actually\Nplayed any of these games?
+Dialogue: 0,0:05:32.49,0:05:35.02,Dubtitles,,0,0,0,,If not, the odds wouldn't\Nbe in your favor.
+Dialogue: 0,0:05:37.89,0:05:39.39,Dubtitles,,0,0,0,,Stay out of it, old man.
+Dialogue: 0,0:05:39.47,0:05:42.89,Dubtitles,,0,0,0,,Ben, this isn't your average\Ngame of gin rummy, after all.
+Dialogue: 0,0:05:44.85,0:05:46.25,Dubtitles,,0,0,0,,We're playing baseball.
+Dialogue: 0,0:05:46.95,0:05:50.47,Dubtitles,,0,0,0,,That's the game I choose to\Nsettle this once and for all.
+Dialogue: 0,0:05:52.45,0:05:54.69,Dubtitles,,0,0,0,,As collateral, I'll bet my soul.
+Dialogue: 0,0:05:55.75,0:05:58.64,Dubtitles,,0,0,0,,Alright, then I would like\Nto bet Kakyoin's soul.
+Dialogue: 0,0:06:00.79,0:06:03.43,Dubtitles,,0,0,0,,My stand, Atum, has released your arm.
+Dialogue: 0,0:06:03.63,0:06:05.57,Dubtitles,,0,0,0,,You may thank me at your leisure.
+Dialogue: 0,0:06:05.93,0:06:08.59,Dubtitles,,0,0,0,,Now that Kakyoin's soul\Nis in my collection,
+Dialogue: 0,0:06:08.87,0:06:12.83,Dubtitles,,0,0,0,,there's no longer reason for me to\Nkeep your arm in my stand's clutches.
+Dialogue: 0,0:06:12.91,0:06:14.41,Dubtitles,,0,0,0,,And suffice it to say,
+Dialogue: 0,0:06:14.61,0:06:19.03,Dubtitles,,0,0,0,,I'd be at a bit of a disadvantage if\NI faced you with my stand one-handed.
+Dialogue: 0,0:06:19.35,0:06:23.47,Dubtitles,,0,0,0,,I'm well aware of your Star Platinum's\Nincredible speed and precision.
+Dialogue: 0,0:06:25.37,0:06:28.81,Dubtitles,,0,0,0,,Really, out of all the games\Nyou could have chosen to play,
+Dialogue: 0,0:06:28.89,0:06:33.47,Dubtitles,,0,0,0,,it's unfortunate for you that\Nwe're playing my specialty.
+Dialogue: 0,0:06:34.05,0:06:34.88,Dubtitles,,0,0,0,,Derby!
+Dialogue: 0,0:06:35.11,0:06:36.07,Dubtitles,,0,0,0,,Just you wait.
+Dialogue: 0,0:06:36.19,0:06:38.19,Dubtitles,,0,0,0,,The moment Jotaro wipes\Nthe floor with you,
+Dialogue: 0,0:06:38.27,0:06:40.49,Dubtitles,,0,0,0,,I'll throttle the life\Nout of your pompous ass.
+Dialogue: 0,0:06:40.57,0:06:41.87,Dubtitles,,0,0,0,,And that is a promise.
 Dialogue: 1,0:06:47.21,0:06:47.26,SFX,1,0,0,0,,{=25}{\blur0.9\bord4.23\fscx58.78\fscy52.91\fade(255,0,255,0,100,1610,2010)\frz1.816\pos(951.18,699.85)\c&H171C2E&}Kablam
 Dialogue: 2,0:06:47.21,0:06:47.26,SFX,1,0,0,0,,{=25}{\blur0.9\bord0\fscx58.78\fscy52.91\fade(255,0,255,0,100,1610,2010)\frz1.816\pos(951.18,699.85)\4a&HFF&}Kablam
 Dialogue: 1,0:06:47.26,0:06:47.30,SFX,1,0,0,0,,{=25}{\blur0.9\bord6\fscx87.47\fscy74.98\fade(255,0,255,-50,50,1560,1960)\frz1.816\pos(961.04,484.52)\c&H171C2E&}Kablam
@@ -171,6 +173,7 @@ Dialogue: 1,0:06:47.42,0:06:47.47,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-21
 Dialogue: 2,0:06:47.42,0:06:47.47,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-210,-110,1400,1800)\frz1.816\pos(960.54,80.53)\fscx120\4a&HFF&}Kablam
 Dialogue: 1,0:06:47.47,0:06:47.51,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-260,-160,1350,1750)\frz1.816\pos(944.03,72.62)\fscx120\c&H171C2E&}Kablam
 Dialogue: 2,0:06:47.47,0:06:47.51,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-260,-160,1350,1750)\frz1.816\pos(944.03,72.62)\fscx120\4a&HFF&}Kablam
+Dialogue: 0,0:06:47.47,0:06:49.09,Dubtitles,,0,0,0,,Oh, that's a baseball.
 Dialogue: 1,0:06:47.51,0:06:47.55,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-300,-200,1310,1710)\frz1.816\pos(954.43,70.81)\fscx120\c&H171C2E&}Kablam
 Dialogue: 2,0:06:47.51,0:06:47.55,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-300,-200,1310,1710)\frz1.816\pos(954.43,70.81)\fscx120\4a&HFF&}Kablam
 Dialogue: 1,0:06:47.55,0:06:47.59,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-340,-240,1270,1670)\frz1.816\pos(963.03,59.95)\fscx120\c&H171C2E&}Kablam
@@ -213,7 +216,6 @@ Dialogue: 1,0:06:48.30,0:06:48.34,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-10
 Dialogue: 2,0:06:48.30,0:06:48.34,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-1090,-990,520,920)\frz1.816\pos(952.65,56.37)\fscx120\4a&HFF&}Kablam
 Dialogue: 1,0:06:48.34,0:06:48.38,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-1130,-1030,480,880)\frz1.816\pos(955.58,70.37)\fscx120\c&H171C2E&}Kablam
 Dialogue: 2,0:06:48.34,0:06:48.38,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-1130,-1030,480,880)\frz1.816\pos(955.58,70.37)\fscx120\4a&HFF&}Kablam
-Dialogue: 0,0:06:48.37,0:06:49.20,Dubtitles,,0,0,0,,a baseball!
 Dialogue: 1,0:06:48.38,0:06:48.42,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-1170,-1070,440,840)\frz1.816\pos(956.03,76.47)\fscx120\c&H171C2E&}Kablam
 Dialogue: 2,0:06:48.38,0:06:48.42,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-1170,-1070,440,840)\frz1.816\pos(956.03,76.47)\fscx120\4a&HFF&}Kablam
 Dialogue: 1,0:06:48.42,0:06:48.47,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-1210,-1110,400,800)\frz1.816\pos(949.49,56.14)\fscx120\c&H171C2E&}Kablam
@@ -254,36 +256,37 @@ Dialogue: 1,0:06:49.13,0:06:49.18,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-19
 Dialogue: 2,0:06:49.13,0:06:49.18,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-1920,-1820,-310,90)\frz1.816\pos(970.71,35.59)\fscx120\4a&HFF&}Kablam
 Dialogue: 1,0:06:49.18,0:06:49.22,SFX,1,0,0,0,,{=25}{\blur0.9\fade(255,0,255,-1970,-1870,-360,40)\frz1.816\pos(971.17,48.24)\fscx120\c&H171C2E&}Kablam
 Dialogue: 2,0:06:49.18,0:06:49.22,SFX,1,0,0,0,,{=25}{\bord0\blur0.9\fade(255,0,255,-1970,-1870,-360,40)\frz1.816\pos(971.17,48.24)\fscx120\4a&HFF&}Kablam
-Dialogue: 0,0:06:52.95,0:06:55.11,Dubtitles,,0,0,0,,Doesn't look like he's\Ntempered with this game either!
-Dialogue: 0,0:06:55.19,0:06:56.47,Dubtitles,,0,0,0,,You're good to go!
-Dialogue: 0,0:06:56.55,0:06:59.95,Dubtitles,,0,0,0,,Before we begin you'll\Nneed to pick your team!
-Dialogue: 0,0:07:00.03,0:07:04.03,Dubtitles,,0,0,0,,Jaguars
-Dialogue: 0,0:07:05.03,0:07:05.86,Dubtitles,,0,0,0,,Jaguars!
-Dialogue: 0,0:07:06.81,0:07:08.07,Dubtitles,,0,0,0,,Yes, I see.
+Dialogue: 0,0:06:52.99,0:06:55.49,Dubtitles,,0,0,0,,Doesn't look like he's\Ntampered with this game either.
+Dialogue: 0,0:06:55.57,0:06:56.63,Dubtitles,,0,0,0,,You're good to go.
+Dialogue: 0,0:06:57.71,0:07:00.48,Dubtitles,,0,0,0,,Before we begin, you'll\Nneed to pick your team.
+Dialogue: 0,0:07:03.57,0:07:04.40,Dubtitles,,0,0,0,,Jaguars.
+Dialogue: 0,0:07:04.97,0:07:05.80,Dubtitles,,0,0,0,,Jaguars!
+Dialogue: 0,0:07:06.81,0:07:08.09,Dubtitles,,0,0,0,,Yes, I see.
 Dialogue: 0,0:07:08.43,0:07:11.93,Dubtitles,,0,0,0,,You've decided to go with a team\Nthat has a strong offense, eh?
 Dialogue: 0,0:07:12.01,0:07:14.37,Dubtitles,,0,0,0,,And two with a batting average over 400.
-Dialogue: 0,0:07:14.71,0:07:18.11,Dubtitles,,0,0,0,,If that's how you're going to play\Nit, I'll choose the Red Dragons.
+Dialogue: 0,0:07:14.73,0:07:18.11,Dubtitles,,0,0,0,,If that's how you're going to play\Nit, I'll choose the Red Dragons.
 Dialogue: 0,0:07:18.19,0:07:19.23,Dubtitles,,0,0,0,,Red Dragons!
 Dialogue: 0,0:07:20.91,0:07:22.03,Dubtitles,,0,0,0,,Offense or defense?
 Dialogue: 0,0:07:22.37,0:07:23.69,Dubtitles,,0,0,0,,Go on, take your pick.
 Dialogue: 0,0:07:25.37,0:07:26.20,Dubtitles,,0,0,0,,Offense.
-Dialogue: 0,0:07:26.29,0:07:29.49,Dubtitles,,0,0,0,,In that case, the Jaguars will bat first.
-Dialogue: 0,0:07:30.43,0:07:35.37,Dubtitles,,0,0,0,,Next, you can begin designing your own\Nplayers by drawing their faces on the screen.
-Dialogue: 0,0:07:36.09,0:07:39.37,Dubtitles,,0,0,0,,This handsome devil is Star Platinum.
-Dialogue: 0,0:07:41.49,0:07:44.77,Dubtitles,,0,0,0,,Now that we've gotten the\Npreparations out of the way...
-Dialogue: 0,0:07:44.85,0:07:45.77,Dubtitles,,0,0,0,,Playball!
-Dialogue: 0,0:07:48.87,0:07:51.35,Dubtitles,,0,0,0,,Jaguars versus Red Dragons!
-Dialogue: 0,0:07:52.41,0:07:53.24,Dubtitles,,0,0,0,,Play ball!
+Dialogue: 0,0:07:26.29,0:07:29.51,Dubtitles,,0,0,0,,In that case, the Jaguars will bat first.
+Dialogue: 0,0:07:30.49,0:07:35.43,Dubtitles,,0,0,0,,Next, you can begin designing your own\Nplayers by drawing their faces on the screen.
+Dialogue: 0,0:07:36.15,0:07:39.39,Dubtitles,,0,0,0,,This handsome devil is Star Platinum.
+Dialogue: 0,0:07:41.03,0:07:44.77,Dubtitles,,0,0,0,,Now that we've gotten the\Npreparations out of the way...
+Dialogue: 0,0:07:44.85,0:07:45.77,Dubtitles,,0,0,0,,Play ball!
+Dialogue: 0,0:07:48.93,0:07:51.35,Dubtitles,,0,0,0,,Jaguars versus Red Dragons!
+Dialogue: 0,0:07:52.45,0:07:53.28,Dubtitles,,0,0,0,,Play ball!
 Dialogue: 1,0:07:58.08,0:08:01.08,SC41 Sign 1,sign,0,0,0,,{\fad(1000,0)\pos(218,750)}Top of the 1st
-Dialogue: 0,0:08:01.15,0:08:03.73,Dubtitles,,0,0,0,,I've chosen number 15 as my pitcher.
-Dialogue: 0,0:08:04.09,0:08:06.27,Dubtitles,,0,0,0,,January 5th is my birthday, you know.
-Dialogue: 0,0:08:09.65,0:08:11.25,Dubtitles,,0,0,0,,Now, here we go.
+Dialogue: 0,0:08:01.15,0:08:03.73,Dubtitles,,0,0,0,,I've chosen #15 as my pitcher.
+Dialogue: 0,0:08:04.07,0:08:06.25,Dubtitles,,0,0,0,,January 5th is my birthday, you know.
+Dialogue: 0,0:08:09.67,0:08:11.29,Dubtitles,,0,0,0,,Now, here we go.
 Dialogue: 0,0:08:11.67,0:08:13.37,Dubtitles,,0,0,0,,The pitcher is winding up!
-Dialogue: 0,0:08:14.77,0:08:16.29,Dubtitles,,0,0,0,,The first pitch!
+Dialogue: 0,0:08:14.77,0:08:16.27,Dubtitles,,0,0,0,,The first pitch!
 Dialogue: 0,0:08:18.03,0:08:18.86,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:08:21.01,0:08:21.97,Dubtitles,,0,0,0,,Strike one!
-Dialogue: 0,0:08:23.03,0:08:26.05,Dubtitles,,0,0,0,,Uh, hey, I don't get it! What's wrong?
-Dialogue: 0,0:08:26.31,0:08:28.09,Dubtitles,,0,0,0,,That was a pretty amateur move back there.
+Dialogue: 0,0:08:22.95,0:08:24.09,Dubtitles,,0,0,0,,Uh, hey!
+Dialogue: 0,0:08:24.29,0:08:26.05,Dubtitles,,0,0,0,,I don't get it! What's wrong?
+Dialogue: 0,0:08:26.33,0:08:28.09,Dubtitles,,0,0,0,,That was a pretty amateur move back there.
 Dialogue: 0,0:08:28.17,0:08:33.11,Dubtitles,,0,0,0,,It's great that you swung the bat and all,\Nbut it was before he even threw the ball!
 Dialogue: 0,0:08:39.55,0:08:41.59,Dubtitles,,0,0,0,,Hey, what's this all about?
 Dialogue: 0,0:08:42.03,0:08:45.05,Dubtitles,,0,0,0,,There's no need for you to\Npractice your swing, is there?
@@ -297,7 +300,7 @@ Dialogue: 0,0:09:01.29,0:09:03.76,Dubtitles,,0,0,0,,I'll figure out the game con
 Dialogue: 0,0:09:04.67,0:09:06.51,Dubtitles,,0,0,0,,What are you saying?
 Dialogue: 0,0:09:06.93,0:09:10.01,Dubtitles,,0,0,0,,In case you haven't noticed,\Nyour timing is totally off!
 Dialogue: 0,0:09:10.09,0:09:11.75,Dubtitles,,0,0,0,,Your swings are pathetic!
-Dialogue: 0,0:09:12.15,0:09:15.27,Dubtitles,,0,0,0,,Don't lie. This is your\Nfirst time playing, isn't it?
+Dialogue: 0,0:09:12.15,0:09:15.27,Dubtitles,,0,0,0,,Don't lie, this is your\Nfirst time playing, isn't it?
 Dialogue: 0,0:09:24.45,0:09:25.39,Dubtitles,,0,0,0,,Strike two!
 Dialogue: 0,0:09:27.47,0:09:31.01,Dubtitles,,0,0,0,,And now you're actually swinging the bat\Nafter the catcher has caught the ball!
 Dialogue: 0,0:09:31.09,0:09:32.79,Dubtitles,,0,0,0,,You don't know what you're doing!
@@ -314,7 +317,7 @@ Dialogue: 0,0:09:51.51,0:09:53.91,Dubtitles,,0,0,0,,This is the worst pep\Ntalk 
 Dialogue: 0,0:09:53.99,0:09:55.29,Dubtitles,,0,0,0,,You should be more encouraging.
 Dialogue: 0,0:09:55.37,0:09:59.25,Dubtitles,,0,0,0,,Try something like, it's only the first\Ninning, you can still make a comeback.
 Dialogue: 0,0:09:59.33,0:10:01.29,Dubtitles,,0,0,0,,What the hell's going\Nthrough that head of yours?
-Dialogue: 0,0:10:01.37,0:10:05.53,Dubtitles,,0,0,0,,You can't possibly rely solely on Star\NPlatinum's reflexes to win this game.
+Dialogue: 0,0:10:01.37,0:10:05.53,Dubtitles,,0,0,0,,You can't possibly rely solely on Star\NPlatinum's reflexes to win this game,
 Dialogue: 0,0:10:05.61,0:10:06.44,Dubtitles,,0,0,0,,can you?
 Dialogue: 0,0:10:06.53,0:10:07.36,Dubtitles,,0,0,0,,Think about it!
 Dialogue: 0,0:10:07.44,0:10:09.15,Dubtitles,,0,0,0,,You don't know the first\Nthing about video games!
@@ -332,16 +335,17 @@ Dialogue: 0,0:10:34.69,0:10:36.45,Dubtitles,,0,0,0,,A soul is at stake.
 Dialogue: 0,0:10:37.57,0:10:38.43,Dubtitles,,0,0,0,,Old man.
 Dialogue: 0,0:10:39.87,0:10:42.58,Dubtitles,,0,0,0,,Since you wanted to know,\NI don't have a plan.
 Dialogue: 0,0:10:43.53,0:10:45.39,Dubtitles,,0,0,0,,However, if I did have one,
-Dialogue: 0,0:10:45.63,0:10:49.13,Dubtitles,,0,0,0,,the only thing it would involve would be\Nknocking the nose straight off the face?
-Dialogue: 0,0:10:49.21,0:10:53.93,Dubtitles,,0,0,0,,of this condescending, overinflated douchebag\Nof a prick taking up space beside me.
+Dialogue: 0,0:10:45.63,0:10:47.77,Dubtitles,,0,0,0,,the only thing it would\Ninvolve would be knocking
+Dialogue: 0,0:10:47.85,0:10:50.29,Dubtitles,,0,0,0,,the nose straight off the\Nface of this condescending,
+Dialogue: 0,0:10:50.37,0:10:53.90,Dubtitles,,0,0,0,,overinflated douchebag of a\Nprick taking up space beside me.
 Dialogue: 0,0:10:54.01,0:10:56.84,Dubtitles,,0,0,0,,All I care about is getting\NKakyoin's soul back.
 Dialogue: 0,0:10:57.25,0:10:58.83,Dubtitles,,0,0,0,,I'll do whatever it takes.
 Dialogue: 0,0:11:00.99,0:11:02.49,Dubtitles,,0,0,0,,You talk a big game,
 Dialogue: 0,0:11:02.63,0:11:05.61,Dubtitles,,0,0,0,,but it's still the top of the\Nfirst inning and you have won out.
 Dialogue: 0,0:11:05.69,0:11:07.29,Dubtitles,,0,0,0,,The match is far from over.
-Dialogue: 0,0:11:07.57,0:11:09.41,Dubtitles,,0,0,0,,And since you haven't played before?
-Dialogue: 0,0:11:09.49,0:11:13.57,Dubtitles,,0,0,0,,You should know that if you fall\Nmore than 11 points behind you lose!
-Dialogue: 0,0:11:18.09,0:11:20.51,Dubtitles,,0,0,0,,Second batter number three?
+Dialogue: 0,0:11:07.57,0:11:09.41,Dubtitles,,0,0,0,,And since you haven't played before,
+Dialogue: 0,0:11:09.49,0:11:13.57,Dubtitles,,0,0,0,,You should know that if you fall\Nmore than 11 points behind you lose
+Dialogue: 0,0:11:18.09,0:11:20.51,Dubtitles,,0,0,0,,Second batter number three
 Dialogue: 0,0:11:24.69,0:11:25.52,Dubtitles,,0,0,0,,Strike!
 Dialogue: 0,0:11:26.05,0:11:28.87,Dubtitles,,0,0,0,,Damn, he's getting even worse that time.
 Dialogue: 0,0:11:28.99,0:11:31.45,Dubtitles,,0,0,0,,He swung the bat over 40\Ncentimeters above the ball.
@@ -389,10 +393,12 @@ Dialogue: 0,0:13:27.97,0:13:28.80,Dubtitles,,0,0,0,,Ah!
 Dialogue: 0,0:13:29.85,0:13:30.68,Dubtitles,,0,0,0,,He...
 Dialogue: 0,0:13:30.77,0:13:31.60,Dubtitles,,0,0,0,,He did it!
 Dialogue: 0,0:13:31.68,0:13:34.17,Dubtitles,,0,0,0,,I don't know how, but he did it!
-Dialogue: 0,0:13:36.23,0:13:37.43,Dubtitles,,0,0,0,,Hey, run!
-Dialogue: 0,0:13:44.61,0:13:45.71,Dubtitles,,0,0,0,,Home Run!
-Dialogue: 0,0:13:46.17,0:13:47.47,Dubtitles,,0,0,0,,It's a home run!
-Dialogue: 0,0:13:50.67,0:13:52.55,Dubtitles,,0,0,0,,Jotaro! Damn you!
+Dialogue: 0,0:13:34.25,0:13:35.85,Dubtitles,,0,0,0,,Ha ha ha ha ha!
+Dialogue: 0,0:13:37.01,0:13:37.84,Dubtitles,,0,0,0,,Haruno!
+Dialogue: 0,0:13:44.53,0:13:45.71,Dubtitles,,0,0,0,,Home run!
+Dialogue: 0,0:13:46.15,0:13:47.55,Dubtitles,,0,0,0,,It's a home run!
+Dialogue: 0,0:13:48.05,0:13:49.69,Dubtitles,,0,0,0,,Ha ha ha ha ha!
+Dialogue: 0,0:13:50.59,0:13:52.55,Dubtitles,,0,0,0,,Jotaro! Damn you!
 Dialogue: 1,0:13:58.06,0:13:58.10,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:13:58.06,0:13:58.10,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:13:58.06,0:13:58.10,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -543,29 +549,30 @@ Dialogue: 3,0:14:00.86,0:14:00.94,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6
 Dialogue: 1,0:14:00.94,0:14:01.98,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\pos(1379,770)\alpha&H60&\3c&HFEFDFE&}D'Arby Younger
 Dialogue: 2,0:14:00.94,0:14:01.98,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\pos(1379,770)\c&H576265&}D'Arby Younger
 Dialogue: 3,0:14:00.94,0:14:01.98,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\pos(1379,770)\shad1.5\4a&HFF&}D'Arby Younger
-Dialogue: 0,0:14:02.95,0:14:03.78,Dubtitles,,0,0,0,,Jotaro!
-Dialogue: 0,0:14:03.87,0:14:06.81,Dubtitles,,0,0,0,,Did I really hear you\Ncorrectly? Say something.
-Dialogue: 0,0:14:07.21,0:14:10.39,Dubtitles,,0,0,0,,It sounded like you've pretty\Nmuch gotten the hang of batting.
-Dialogue: 0,0:14:10.47,0:14:12.53,Dubtitles,,0,0,0,,I don't feel like repeating myself.
-Dialogue: 0,0:14:14.75,0:14:17.95,Dubtitles,,0,0,0,,He was a beginner when we\Nstarted this game. And yet,
-Dialogue: 0,0:14:18.13,0:14:22.72,Dubtitles,,0,0,0,,he's claiming to have learned proper\Nswinging technique in only eight pitches.
-Dialogue: 0,0:14:22.91,0:14:26.79,Dubtitles,,0,0,0,,Jotaro Code has all the speed\Nand dexterity of Star Platinum.
+Dialogue: 0,0:14:03.05,0:14:03.88,Dubtitles,,0,0,0,,Jotaro!
+Dialogue: 0,0:14:03.97,0:14:06.83,Dubtitles,,0,0,0,,Did I really hear you\Ncorrectly? Say something!
+Dialogue: 0,0:14:07.17,0:14:10.17,Dubtitles,,0,0,0,,It sounded like you've pretty\Nmuch gotten the hang of batting!
+Dialogue: 0,0:14:10.25,0:14:12.37,Dubtitles,,0,0,0,,I don't feel like repeating myself.
+Dialogue: 0,0:14:14.75,0:14:17.21,Dubtitles,,0,0,0,,He was a beginner when\Nwe started this game,
+Dialogue: 0,0:14:17.29,0:14:19.63,Dubtitles,,0,0,0,,and yet he's claiming\Nto have learned proper
+Dialogue: 0,0:14:19.71,0:14:22.13,Dubtitles,,0,0,0,,swinging technique in only eight pitches!
+Dialogue: 0,0:14:22.83,0:14:26.85,Dubtitles,,0,0,0,,Jotaro Kujo has all the speed\Nand dexterity of Star Platinum.
 Dialogue: 0,0:14:27.59,0:14:32.18,Dubtitles,,0,0,0,,Now I know why Master Dio finds him to\Nbe problematic and why my brother lost.
-Dialogue: 0,0:14:37.89,0:14:38.72,Dubtitles,,0,0,0,,Interesting.
+Dialogue: 0,0:14:37.87,0:14:38.70,Dubtitles,,0,0,0,,Interesting.
 Dialogue: 0,0:14:38.93,0:14:41.85,Dubtitles,,0,0,0,,I couldn't have asked for\Na more fitting opponent.
-Dialogue: 0,0:14:41.93,0:14:44.63,Dubtitles,,0,0,0,,But as naturally gifted as you may be,
-Dialogue: 0,0:14:44.91,0:14:49.33,Dubtitles,,0,0,0,,you made a critical mistake by revealing\Nyour talents so early in the game.
-Dialogue: 0,0:14:49.61,0:14:52.57,Dubtitles,,0,0,0,,A mistake that will cost you dearly.
+Dialogue: 0,0:14:41.93,0:14:44.65,Dubtitles,,0,0,0,,But as naturally gifted as you may be,
+Dialogue: 0,0:14:44.89,0:14:49.31,Dubtitles,,0,0,0,,you made a critical mistake by revealing\Nyour talents so early in the game.
+Dialogue: 0,0:14:49.61,0:14:52.59,Dubtitles,,0,0,0,,A mistake that will cost you dearly.
 Dialogue: 0,0:14:55.65,0:14:57.71,Dubtitles,,0,0,0,,Let's resume the game, Jotaro.
-Dialogue: 0,0:15:03.67,0:15:04.75,Dubtitles,,0,0,0,,Yes, he did it!
-Dialogue: 0,0:15:05.41,0:15:06.57,Dubtitles,,0,0,0,,That's my boy!
-Dialogue: 0,0:15:06.87,0:15:09.17,Dubtitles,,0,0,0,,Another home run right out of the park!
-Dialogue: 0,0:15:09.53,0:15:10.83,Dubtitles,,0,0,0,,Talk about a comeback!
-Dialogue: 0,0:15:11.23,0:15:12.95,Dubtitles,,0,0,0,,Four runs in the first inning!
-Dialogue: 0,0:15:13.03,0:15:16.03,Dubtitles,,0,0,0,,Looks like you've got this\Ngame in the bag, Jotaro!
-Dialogue: 0,0:15:16.19,0:15:19.02,Dubtitles,,0,0,0,,Keep it up, and we'll be\Nout of here in no time!
-Dialogue: 0,0:15:19.89,0:15:24.69,Dubtitles,,0,0,0,,Hey, Darby, you'll just ignore me, but\NI'll say it anyway because I'm a nice guy.
-Dialogue: 0,0:15:25.05,0:15:26.35,Dubtitles,,0,0,0,,I'm giving you an out.
+Dialogue: 0,0:15:03.09,0:15:04.69,Dubtitles,,0,0,0,,Yes, he did it!
+Dialogue: 0,0:15:05.29,0:15:06.57,Dubtitles,,0,0,0,,That's my boy!
+Dialogue: 0,0:15:06.89,0:15:09.19,Dubtitles,,0,0,0,,Another home run right out of the park!
+Dialogue: 0,0:15:09.41,0:15:10.85,Dubtitles,,0,0,0,,Talk about a comeback!
+Dialogue: 0,0:15:11.33,0:15:12.97,Dubtitles,,0,0,0,,Four runs in the first inning!
+Dialogue: 0,0:15:13.05,0:15:16.05,Dubtitles,,0,0,0,,Looks like you've got this\Ngame in the bag, Jotaro!
+Dialogue: 0,0:15:16.15,0:15:18.98,Dubtitles,,0,0,0,,Keep it up, and we'll be\Nout of here in no time.
+Dialogue: 0,0:15:19.47,0:15:24.67,Dubtitles,,0,0,0,,Hey, Darby, you'll just ignore me, but\NI'll say it anyway because I'm a nice guy.
+Dialogue: 0,0:15:25.09,0:15:26.35,Dubtitles,,0,0,0,,I'm giving you an out.
 Dialogue: 2,0:15:26.02,0:15:26.07,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(960,20)\fade(255,0,255,0,400,2170,2970)}Menacing
 Dialogue: 2,0:15:26.07,0:15:26.11,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(960,20)\fade(255,0,255,-50,350,2120,2920)}Menacing
 Dialogue: 2,0:15:26.11,0:15:26.15,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(962.873,18.013)\fade(255,0,255,-90,310,2080,2880)}Menacing
@@ -576,7 +583,7 @@ Dialogue: 2,0:15:26.28,0:15:26.32,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(958.479,
 Dialogue: 2,0:15:26.32,0:15:26.36,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(958.479,24.551)\fade(255,0,255,-300,100,1870,2670)}Menacing
 Dialogue: 2,0:15:26.36,0:15:26.40,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(964.028,14.997)\fade(255,0,255,-340,60,1830,2630)}Menacing
 Dialogue: 2,0:15:26.40,0:15:26.44,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(964.028,14.997)\fade(255,0,255,-380,20,1790,2590)}Menacing
-Dialogue: 0,0:15:26.43,0:15:30.77,Dubtitles,,0,0,0,,All you have to do is return Kakyoin's soul\Nand take us to Dio of your own volition.
+Dialogue: 0,0:15:26.43,0:15:30.99,Dubtitles,,0,0,0,,All you have to do is return Kakyoin's soul\Nand take us to Dio of your own volition.
 Dialogue: 2,0:15:26.44,0:15:26.48,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(964.028,14.997)\fade(255,0,255,-420,-20,1750,2550)}Menacing
 Dialogue: 2,0:15:26.48,0:15:26.53,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(965.151,15.054)\fade(255,0,255,-460,-60,1710,2510)}Menacing
 Dialogue: 2,0:15:26.53,0:15:26.57,SFXPurple - Copy,2.1,0,0,0,,{=3}{\pos(965.151,15.054)\fade(255,0,255,-510,-110,1660,2460)}Menacing
@@ -707,13 +714,13 @@ Dialogue: 1,0:15:30.70,0:15:30.74,SFXPurple,2.2,0,0,0,,{=4}{\pos(963.479,14.34)\
 Dialogue: 1,0:15:30.74,0:15:30.78,SFXPurple,2.2,0,0,0,,{=4}{\pos(963.479,14.34)\fade(255,0,255,-2750,-1950,709,710)}Menacing
 Dialogue: 1,0:15:30.78,0:15:30.82,SFXPurple,2.2,0,0,0,,{=4}{\pos(963.479,14.34)\fade(255,0,255,-2790,-1990,669,670)}Menacing
 Dialogue: 1,0:15:30.82,0:15:30.86,SFXPurple,2.2,0,0,0,,{=4}{\pos(961.409,16.398)\fade(255,0,255,-2830,-2030,629,630)}Menacing
-Dialogue: 0,0:15:30.85,0:15:33.57,Dubtitles,,0,0,0,,If you cooperate, no harm will befall you!
 Dialogue: 1,0:15:30.86,0:15:30.90,SFXPurple,2.2,0,0,0,,{=4}{\pos(961.409,16.398)\fade(255,0,255,-2870,-2070,589,590)}Menacing
 Dialogue: 1,0:15:30.90,0:15:30.95,SFXPurple,2.2,0,0,0,,{=4}{\pos(961.409,16.398)\fade(255,0,255,-2910,-2110,549,550)}Menacing
 Dialogue: 1,0:15:30.95,0:15:30.99,SFXPurple,2.2,0,0,0,,{=4}{\pos(957.869,21.556)\fade(255,0,255,-2960,-2160,499,500)}Menacing
 Dialogue: 1,0:15:30.99,0:15:31.03,SFXPurple,2.2,0,0,0,,{=4}{\pos(957.869,21.556)\fade(255,0,255,-3000,-2200,459,460)}Menacing
 Dialogue: 1,0:15:31.03,0:15:31.07,SFXPurple,2.2,0,0,0,,{=4}{\pos(957.869,21.556)\fade(255,0,255,-3040,-2240,419,420)}Menacing
 Dialogue: 1,0:15:31.07,0:15:31.11,SFXPurple,2.2,0,0,0,,{=4}{\pos(962.786,18.038)\fade(255,0,255,-3080,-2280,379,380)}Menacing
+Dialogue: 0,0:15:31.07,0:15:33.54,Dubtitles,,0,0,0,,If you cooperate, no harm will befall you.
 Dialogue: 1,0:15:31.11,0:15:31.16,SFXPurple,2.2,0,0,0,,{=4}{\pos(962.786,18.038)\fade(255,0,255,-3120,-2320,339,340)}Menacing
 Dialogue: 1,0:15:31.16,0:15:31.20,SFXPurple,2.2,0,0,0,,{=4}{\pos(962.786,18.038)\fade(255,0,255,-3170,-2370,289,290)}Menacing
 Dialogue: 1,0:15:31.20,0:15:31.24,SFXPurple,2.2,0,0,0,,{=4}{\pos(956.448,23.006)\fade(255,0,255,-3210,-2410,249,250)}Menacing
@@ -722,32 +729,32 @@ Dialogue: 1,0:15:31.28,0:15:31.32,SFXPurple,2.2,0,0,0,,{=4}{\pos(956.448,23.006)
 Dialogue: 1,0:15:31.32,0:15:31.36,SFXPurple,2.2,0,0,0,,{=4}{\pos(962.224,24.901)\fade(255,0,255,-3330,-2530,129,130)}Menacing
 Dialogue: 1,0:15:31.36,0:15:31.41,SFXPurple,2.2,0,0,0,,{=4}{\pos(962.224,24.901)\fade(255,0,255,-3370,-2570,89,90)}Menacing
 Dialogue: 1,0:15:31.41,0:15:31.45,SFXPurple,2.2,0,0,0,,{=4}{\pos(962.224,24.901)\fade(255,0,255,-3420,-2620,39,40)}Menacing
-Dialogue: 0,0:15:38.83,0:15:39.66,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:15:40.45,0:15:43.67,Dubtitles,,0,0,0,,For all his faults, my\Nbrother was a master gambler.
-Dialogue: 0,0:15:43.87,0:15:46.23,Dubtitles,,0,0,0,,He made conning people into an art form.
-Dialogue: 0,0:15:47.25,0:15:50.59,Dubtitles,,0,0,0,,You'd think his younger brother\Nwould be perfect to practice on.
-Dialogue: 0,0:15:50.67,0:15:51.91,Dubtitles,,0,0,0,,But you'd be wrong.
-Dialogue: 0,0:15:52.23,0:15:54.73,Dubtitles,,0,0,0,,He never asked me to\Nplay one game of poker.
-Dialogue: 0,0:15:54.81,0:15:58.75,Dubtitles,,0,0,0,,No, I was never asked to play any\Ngames of the gambling persuasion.
-Dialogue: 0,0:15:58.89,0:16:00.31,Dubtitles,,0,0,0,,Any guesses why?
+Dialogue: 0,0:15:38.93,0:15:39.76,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:15:40.55,0:15:43.59,Dubtitles,,0,0,0,,For all his faults, my\Nbrother was a master gambler.
+Dialogue: 0,0:15:43.67,0:15:46.07,Dubtitles,,0,0,0,,He made conning people into an art form.
+Dialogue: 0,0:15:47.31,0:15:50.59,Dubtitles,,0,0,0,,You'd think his younger brother\Nwould be perfect to practice on.
+Dialogue: 0,0:15:50.67,0:15:51.95,Dubtitles,,0,0,0,,But you'd be wrong.
+Dialogue: 0,0:15:52.21,0:15:54.71,Dubtitles,,0,0,0,,He never asked me to\Nplay one game of poker.
+Dialogue: 0,0:15:54.79,0:15:58.73,Dubtitles,,0,0,0,,No, I was never asked to play any\Ngames of the gambling persuasion.
+Dialogue: 0,0:15:58.97,0:16:00.45,Dubtitles,,0,0,0,,Any guesses why?
 Dialogue: 0,0:16:02.51,0:16:03.73,Dubtitles,,0,0,0,,When I was 15,
-Dialogue: 0,0:16:04.03,0:16:07.99,Dubtitles,,0,0,0,,I caught my brother putting his\Noh-so-predictable moves on my girlfriend.
-Dialogue: 0,0:16:08.07,0:16:11.27,Dubtitles,,0,0,0,,He was 10 years older, but\NI beat him to a bloody pulp.
-Dialogue: 0,0:16:11.35,0:16:15.09,Dubtitles,,0,0,0,,I broke his ribs and proceeded\Nto kick him until he spat blood.
-Dialogue: 0,0:16:15.41,0:16:18.73,Dubtitles,,0,0,0,,The last thing my brother said\Nto me was how sorry he was.
-Dialogue: 0,0:16:18.81,0:16:20.37,Dubtitles,,0,0,0,,Any idea why?
-Dialogue: 0,0:16:20.71,0:16:23.13,Dubtitles,,0,0,0,,Would you please cut to the chase already?
-Dialogue: 0,0:16:23.21,0:16:24.04,Dubtitles,,0,0,0,,Even as kids,
-Dialogue: 0,0:16:24.21,0:16:25.95,Dubtitles,,0,0,0,,my brother had the good sense to realize
-Dialogue: 0,0:16:26.03,0:16:28.21,Dubtitles,,0,0,0,,that he'd never have\Nwhat it took to beat me.
-Dialogue: 0,0:16:28.29,0:16:31.65,Dubtitles,,0,0,0,,The reason for that is about\Nto become abundantly clear.
-Dialogue: 0,0:16:32.77,0:16:37.89,Dubtitles,,0,0,0,,At this moment, you have a false sense of\Nconfidence due to the home run you hit.
-Dialogue: 0,0:16:38.17,0:16:42.53,Dubtitles,,0,0,0,,But deep down, you feel a sense of\Nunease, not unlike what my brother felt.
-Dialogue: 0,0:16:42.61,0:16:45.38,Dubtitles,,0,0,0,,My prowess is beginning\Nto worry you, isn't it?
-Dialogue: 0,0:16:45.59,0:16:49.71,Dubtitles,,0,0,0,,Right now, you're coming to a daunting\Nconclusion about the game's outcome,
-Dialogue: 0,0:16:49.79,0:16:50.91,Dubtitles,,0,0,0,,aren't you, Jotaro?
+Dialogue: 0,0:16:04.01,0:16:08.07,Dubtitles,,0,0,0,,I caught my brother putting his\Noh-so-predictable moves on my girlfriend.
+Dialogue: 0,0:16:08.15,0:16:10.99,Dubtitles,,0,0,0,,He was 10 years older, but\NI beat him to a bloody pulp.
+Dialogue: 0,0:16:11.07,0:16:15.11,Dubtitles,,0,0,0,,I broke his ribs and proceeded\Nto kick him until he spat blood.
+Dialogue: 0,0:16:15.41,0:16:18.79,Dubtitles,,0,0,0,,The last thing my brother said\Nto me was how sorry he was.
+Dialogue: 0,0:16:18.87,0:16:20.21,Dubtitles,,0,0,0,,Any idea why?
+Dialogue: 0,0:16:20.73,0:16:23.17,Dubtitles,,0,0,0,,Would you please cut to the chase already?
+Dialogue: 0,0:16:23.25,0:16:24.08,Dubtitles,,0,0,0,,Even as kids,
+Dialogue: 0,0:16:24.23,0:16:25.95,Dubtitles,,0,0,0,,my brother had the good sense to realize
+Dialogue: 0,0:16:26.03,0:16:28.47,Dubtitles,,0,0,0,,that he'd never have\Nwhat it took to beat me.
+Dialogue: 0,0:16:28.55,0:16:31.85,Dubtitles,,0,0,0,,The reason for that is about\Nto become abundantly clear.
+Dialogue: 0,0:16:32.77,0:16:37.83,Dubtitles,,0,0,0,,At this moment, you have a false sense of\Nconfidence due to the home run you hit.
+Dialogue: 0,0:16:37.91,0:16:42.33,Dubtitles,,0,0,0,,But deep down, you feel a sense of\Nunease, not unlike what my brother felt.
+Dialogue: 0,0:16:42.55,0:16:45.32,Dubtitles,,0,0,0,,My prowess is beginning\Nto worry you, isn't it?
+Dialogue: 0,0:16:45.61,0:16:49.67,Dubtitles,,0,0,0,,Right now, you're coming to a daunting\Nconclusion about the game's outcome,
+Dialogue: 0,0:16:49.75,0:16:50.89,Dubtitles,,0,0,0,,aren't you, Jotaro?
 Dialogue: 0,0:16:51.25,0:16:53.37,Dubtitles,,0,0,0,,What the hell are you talking about?
-Dialogue: 0,0:16:55.31,0:16:59.57,Dubtitles,,0,0,0,,Changing pictures number 15\Nis out and number 77 is in.
+Dialogue: 0,0:16:55.33,0:16:56.39,Dubtitles,,0,0,0,,Changing pictures!
 Dialogue: 1,0:16:56.49,0:16:58.99,SC 41 Sign 2 - BOX,sign,0,0,0,,{\p1\be20\1c&H659FDD&\pos(376.673,448.399)}m 0 0 l 32.125 0 32.125 80.125 0 80.125{\p0}
 Dialogue: 1,0:16:56.49,0:16:58.99,SC 41 Sign 2 - BOX,sign,0,0,0,,{\p1\be2\1c&H255CCE&\pos(376.172,599.899)}m 0 0 l 32.125 0 32.125 100 0 100{\p0}
 Dialogue: 2,0:16:56.49,0:16:58.99,SC 41 Sign 5,sign,0,0,0,,{\pos(1588.5,358)}Starting\NPitcher
@@ -802,13 +809,14 @@ Dialogue: 2,0:16:56.49,0:16:59.99,SC 41 Sign 6,sign,0,0,0,,{\pos(1529.405,777.69
 Dialogue: 2,0:16:56.49,0:16:59.99,SC 41 Sign 6,sign,0,0,0,,{\pos(1200,938)}Versatility
 Dialogue: 2,0:16:56.49,0:16:59.99,SC 41 Sign 6,sign,0,0,0,,{\pos(1521.405,938)}Luck
 Dialogue: 2,0:16:56.49,0:16:59.99,SC 41 Sign 6,sign,0,0,0,,{\pos(1372.605,1004.899)}Stamina
+Dialogue: 0,0:16:56.81,0:16:59.63,Dubtitles,,0,0,0,,Number 15 is out and number 77 is in!
 Dialogue: 1,0:16:58.99,0:16:59.49,SC 41 Sign 2 - BOX,sign,0,0,0,,{\p1\be20\1c&H64A1D2&\pos(376.172,599.899)}m 0 0 l 32.125 0 32.125 100 0 100{\p0}
 Dialogue: 2,0:16:58.99,0:16:59.49,SC 41 Sign 5,sign,0,0,0,,{\pos(1588.5,358)}Relief\NPitcher
 Dialogue: 1,0:16:58.99,0:16:59.99,SC 41 Sign 2 - BOX,sign,0,0,0,,{\p1\be2\1c&H245DD2&\pos(376.673,448.399)}m 0 0 l 32.125 0 32.125 80.125 0 80.125{\p0}
 Dialogue: 1,0:16:59.49,0:16:59.99,SC 41 Sign 2 - BOX,sign,0,0,0,,{\p1\be2\1c&H255CCE&\pos(376.172,599.899)}m 0 0 l 32.125 0 32.125 100 0 100{\p0}
 Dialogue: 1,0:16:59.49,0:16:59.99,SC 41 Sign 2 - BOX,sign,0,0,0,,{\p1\be20\1c&H5FA4D2&\pos(378.928,737.857)}m 0 0 l 32.125 0 32.125 100 0 100{\p0}
 Dialogue: 2,0:16:59.49,0:16:59.99,SC 41 Sign 5,sign,0,0,0,,{\pos(1588.5,358)}Closer
-Dialogue: 0,0:16:59.65,0:17:05.25,Dubtitles,,0,0,0,,77 is a power pitcher with a max pitch\Nspeed of 165 kilometers per hour.
+Dialogue: 0,0:17:00.13,0:17:05.33,Dubtitles,,0,0,0,,77 is a power pitcher with a max pitch\Nspeed of 165 kilometers per hour!
 Dialogue: 2,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Small,sign,0,0,0,,{\fad(485,0)\pos(234,296.233)}R. Handed
 Dialogue: 2,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Small,sign,0,0,0,,{\fad(485,0)\pos(234,376)}Pitch Speed
 Dialogue: 2,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Small,sign,0,0,0,,{\fad(485,0)\pos(234,448)}Traits
@@ -816,8 +824,9 @@ Dialogue: 2,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Small,sign,0,0,0,,{\fad(485,0)
 Dialogue: 2,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Small,sign,0,0,0,,{\fad(485,0)\pos(235,638.168)}Power Level
 Dialogue: 2,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Small,sign,0,0,0,,{\fad(485,0)\pos(235,710)}ERA
 Dialogue: 1,0:17:00.49,0:17:06.00,SC 41 Sign C2 - Grey,sign,0,0,0,,{\fad(384,1)\pos(418.666,108)}Number
-Dialogue: 0,0:17:05.33,0:17:11.89,Dubtitles,,0,0,0,,Also, I'll tell you the pitch\NI'll throw, number 77 will.
-Dialogue: 0,0:17:11.97,0:17:15.09,Dubtitles,,0,0,0,,throw a forkball and he'll\Nthrow it right down the middle.
+Dialogue: 0,0:17:06.81,0:17:07.64,Dubtitles,,0,0,0,,Also...
+Dialogue: 0,0:17:07.91,0:17:09.97,Dubtitles,,0,0,0,,I'll tell you the pitch I'll throw!
+Dialogue: 0,0:17:10.61,0:17:15.13,Dubtitles,,0,0,0,,Number 77 will throw a forkball, and\Nhe'll throw it right down the middle.
 Dialogue: 1,0:17:14.72,0:17:14.76,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,0,900,4459,4460)\pos(1619.498,49.463)\org(1619.498,49.463)\frz357.2}Rumble
 Dialogue: 1,0:17:14.76,0:17:14.80,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-40,860,4419,4420)\pos(1619.498,49.463)\org(1619.498,49.463)\frz357.2}Rumble
 Dialogue: 1,0:17:14.80,0:17:14.84,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-80,820,4379,4380)\pos(1619.498,49.463)\org(1619.498,49.463)\frz357.2}Rumble
@@ -829,7 +838,6 @@ Dialogue: 1,0:17:15.01,0:17:15.05,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-290,
 Dialogue: 1,0:17:15.05,0:17:15.09,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-330,570,4129,4130)\pos(1625.108,46.757)\org(1625.108,46.757)\frz357.2}Rumble
 Dialogue: 1,0:17:15.09,0:17:15.13,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-370,530,4089,4090)\pos(1620.441,50.384)\org(1620.441,50.384)\frz357.2}Rumble
 Dialogue: 1,0:17:15.13,0:17:15.18,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-410,490,4049,4050)\pos(1620.441,50.384)\org(1620.441,50.384)\frz357.2}Rumble
-Dialogue: 0,0:17:15.17,0:17:19.23,Dubtitles,,0,0,0,,What the hell why would he\Ndeclare what he's Throwing
 Dialogue: 1,0:17:15.18,0:17:15.22,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-460,440,3999,4000)\pos(1620.441,50.384)\org(1620.441,50.384)\frz357.2}Rumble
 Dialogue: 1,0:17:15.22,0:17:15.26,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-500,400,3959,3960)\pos(1611.665,53.359)\org(1611.665,53.359)\frz357.2}Rumble
 Dialogue: 1,0:17:15.26,0:17:15.30,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-540,360,3919,3920)\pos(1611.665,53.359)\org(1611.665,53.359)\frz357.2}Rumble
@@ -841,6 +849,7 @@ Dialogue: 1,0:17:15.47,0:17:15.51,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-750,
 Dialogue: 1,0:17:15.51,0:17:15.55,SFXPurple2,3,0,0,0,,{=7}{\fade(255,0,255,-790,110,3669,3670)\pos(1624.238,49.847)\org(1624.238,49.847)\frz357.2}Rumble
 Dialogue: 1,0:17:15.55,0:17:15.59,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,255,-830,70,3629,3630)\pos(1624.238,49.847)\org(1624.238,49.847)\frz357.2\c&H151027&}Rumble
 Dialogue: 2,0:17:15.55,0:17:15.59,SFXPurple2,3,0,0,0,,{=7}{\bord0\blur0.6\fade(255,0,255,-830,70,3629,3630)\pos(1624.238,49.847)\org(1624.238,49.847)\frz357.2\4a&HFF&}Rumble
+Dialogue: 0,0:17:15.57,0:17:16.77,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 1,0:17:15.59,0:17:15.63,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,255,-870,30,3589,3590)\pos(1614.506,56.395)\org(1614.506,56.395)\frz357.2\c&H151027&}Rumble
 Dialogue: 2,0:17:15.59,0:17:15.63,SFXPurple2,3,0,0,0,,{=7}{\bord0\blur0.6\fade(255,0,255,-870,30,3589,3590)\pos(1614.506,56.395)\org(1614.506,56.395)\frz357.2\4a&HFF&}Rumble
 Dialogue: 1,0:17:15.63,0:17:15.68,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,255,-910,-10,3549,3550)\pos(1614.506,56.395)\org(1614.506,56.395)\frz357.2\c&H151027&}Rumble
@@ -921,6 +930,7 @@ Dialogue: 1,0:17:17.18,0:17:17.22,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,2
 Dialogue: 2,0:17:17.18,0:17:17.22,SFXPurple2,3,0,0,0,,{=7}{\bord0\blur0.6\fade(255,0,255,-2460,-1560,1999,2000)\pos(1622.902,49.326)\org(1622.902,49.326)\frz357.2\4a&HFF&}Rumble
 Dialogue: 1,0:17:17.22,0:17:17.26,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,255,-2500,-1600,1959,1960)\pos(1624.31,56.792)\org(1624.31,56.792)\frz357.2\c&H151027&}Rumble
 Dialogue: 2,0:17:17.22,0:17:17.26,SFXPurple2,3,0,0,0,,{=7}{\bord0\blur0.6\fade(255,0,255,-2500,-1600,1959,1960)\pos(1624.31,56.792)\org(1624.31,56.792)\frz357.2\4a&HFF&}Rumble
+Dialogue: 0,0:17:17.25,0:17:19.35,Dubtitles,,0,0,0,,Why would he declare what he's throwing?
 Dialogue: 1,0:17:17.26,0:17:17.30,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,255,-2540,-1640,1919,1920)\pos(1624.31,56.792)\org(1624.31,56.792)\frz357.2\c&H151027&}Rumble
 Dialogue: 2,0:17:17.26,0:17:17.30,SFXPurple2,3,0,0,0,,{=7}{\bord0\blur0.6\fade(255,0,255,-2540,-1640,1919,1920)\pos(1624.31,56.792)\org(1624.31,56.792)\frz357.2\4a&HFF&}Rumble
 Dialogue: 1,0:17:17.30,0:17:17.34,SFXPurple2,3,0,0,0,,{=7}{\blur0.6\fade(255,0,255,-2580,-1680,1879,1880)\pos(1624.31,56.792)\org(1624.31,56.792)\frz357.2\c&H151027&}Rumble
@@ -1021,13 +1031,13 @@ Dialogue: 1,0:17:19.26,0:17:19.30,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(9
 Dialogue: 2,0:17:19.26,0:17:19.30,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(957.392,21.583)\fade(255,0,255,-80,-79,4929,4930)\4a&HFF&}Rumble
 Dialogue: 1,0:17:19.30,0:17:19.35,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(957.392,21.583)\fade(255,0,255,-120,-119,4889,4890)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:19.30,0:17:19.35,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(957.392,21.583)\fade(255,0,255,-120,-119,4889,4890)\4a&HFF&}Rumble
-Dialogue: 0,0:17:19.31,0:17:22.29,Dubtitles,,0,0,0,,a fork ball is about to\Ncome barreling down center,
 Dialogue: 1,0:17:19.35,0:17:19.39,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(961.6,17.439)\fade(255,0,255,-170,-169,4839,4840)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:19.35,0:17:19.39,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(961.6,17.439)\fade(255,0,255,-170,-169,4839,4840)\4a&HFF&}Rumble
 Dialogue: 1,0:17:19.39,0:17:19.43,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(961.6,17.439)\fade(255,0,255,-210,-209,4799,4800)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:19.39,0:17:19.43,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(961.6,17.439)\fade(255,0,255,-210,-209,4799,4800)\4a&HFF&}Rumble
 Dialogue: 1,0:17:19.43,0:17:19.47,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(961.6,17.439)\fade(255,0,255,-250,-249,4759,4760)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:19.43,0:17:19.47,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(961.6,17.439)\fade(255,0,255,-250,-249,4759,4760)\4a&HFF&}Rumble
+Dialogue: 0,0:17:19.43,0:17:22.31,Dubtitles,,0,0,0,,A forkball is about to\Ncome barreling down center.
 Dialogue: 1,0:17:19.47,0:17:19.51,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(962.79,15.414)\fade(255,0,255,-290,-289,4719,4720)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:19.47,0:17:19.51,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(962.79,15.414)\fade(255,0,255,-290,-289,4719,4720)\4a&HFF&}Rumble
 Dialogue: 1,0:17:19.51,0:17:19.55,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(962.79,15.414)\fade(255,0,255,-330,-329,4679,4680)\c&H0F0A19&}Rumble
@@ -1168,9 +1178,9 @@ Dialogue: 1,0:17:22.31,0:17:22.35,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(9
 Dialogue: 2,0:17:22.31,0:17:22.35,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(954.29,15.75)\fade(255,0,255,-3130,-3129,1879,1880)\4a&HFF&}Rumble
 Dialogue: 1,0:17:22.35,0:17:22.39,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(958.945,18.887)\fade(255,0,255,-3170,-3169,1839,1840)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:22.35,0:17:22.39,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(958.945,18.887)\fade(255,0,255,-3170,-3169,1839,1840)\4a&HFF&}Rumble
-Dialogue: 0,0:17:22.37,0:17:24.20,Dubtitles,,0,0,0,,but will you believe me or not?
 Dialogue: 1,0:17:22.39,0:17:22.43,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(958.945,18.887)\fade(255,0,255,-3210,-3209,1799,1800)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:22.39,0:17:22.43,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(958.945,18.887)\fade(255,0,255,-3210,-3209,1799,1800)\4a&HFF&}Rumble
+Dialogue: 0,0:17:22.39,0:17:24.22,Dubtitles,,0,0,0,,But will you believe me or not?
 Dialogue: 1,0:17:22.43,0:17:22.47,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(958.945,18.887)\fade(255,0,255,-3250,-3249,1759,1760)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:22.43,0:17:22.47,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(958.945,18.887)\fade(255,0,255,-3250,-3249,1759,1760)\4a&HFF&}Rumble
 Dialogue: 1,0:17:22.47,0:17:22.52,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(964.593,14.174)\fade(255,0,255,-3290,-3289,1719,1720)\c&H0F0A19&}Rumble
@@ -1255,33 +1265,34 @@ Dialogue: 1,0:17:24.10,0:17:24.14,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(9
 Dialogue: 2,0:17:24.10,0:17:24.14,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(956.107,18.57)\fade(255,0,255,-4920,-4919,89,90)\4a&HFF&}Rumble
 Dialogue: 1,0:17:24.14,0:17:24.18,SFXPurple2 - Copy,4,0,0,0,,{=8}{\blur0.6\pos(956.107,18.57)\fade(255,0,255,-4960,-4959,49,50)\c&H0F0A19&}Rumble
 Dialogue: 2,0:17:24.14,0:17:24.18,SFXPurple2 - Copy,4,0,0,0,,{=8}{\bord0\blur0.6\pos(956.107,18.57)\fade(255,0,255,-4960,-4959,49,50)\4a&HFF&}Rumble
-Dialogue: 0,0:17:24.67,0:17:27.53,Dubtitles,,0,0,0,,Jotaro he's just spouting\Nnonsense to shake your confidence
-Dialogue: 0,0:17:27.61,0:17:30.59,Dubtitles,,0,0,0,,do yourself a favor and\Nignore everything he says.
-Dialogue: 0,0:17:31.19,0:17:32.67,Dubtitles,,0,0,0,,Throw it Darby!
-Dialogue: 0,0:17:33.33,0:17:35.79,Dubtitles,,0,0,0,,Will you believe or will you doubt?
-Dialogue: 0,0:17:41.73,0:17:42.83,Dubtitles,,0,0,0,,I knew it.
-Dialogue: 0,0:17:42.93,0:17:45.49,Dubtitles,,0,0,0,,It's a fastball, and\Nit's coming right at you.
-Dialogue: 0,0:17:45.57,0:17:48.40,Dubtitles,,0,0,0,,Let's see is the ball\Ngoing to change direction?
-Dialogue: 0,0:17:48.77,0:17:50.71,Dubtitles,,0,0,0,,The suspense is driving me crazy!
-Dialogue: 0,0:17:51.95,0:17:53.07,Dubtitles,,0,0,0,,You swung!
-Dialogue: 0,0:17:53.29,0:17:55.73,Dubtitles,,0,0,0,,You bought his act and\Nbet on the forkball!
-Dialogue: 0,0:17:55.81,0:17:56.81,Dubtitles,,0,0,0,,It's still going!
-Dialogue: 0,0:17:57.09,0:17:58.91,Dubtitles,,0,0,0,,It actually is a fastball!
-Dialogue: 0,0:17:59.91,0:18:02.35,Dubtitles,,0,0,0,,Oh great, he hit the bottom of the ball!
-Dialogue: 0,0:18:04.41,0:18:05.24,Dubtitles,,0,0,0,,Out!
-Dialogue: 0,0:18:05.65,0:18:07.89,Dubtitles,,0,0,0,,First inning, three outs change!
+Dialogue: 0,0:17:24.75,0:17:27.83,Dubtitles,,0,0,0,,Jotaro, he's just spouting\Nnonsense to shake your confidence.
+Dialogue: 0,0:17:27.91,0:17:30.85,Dubtitles,,0,0,0,,Do yourself a favor and\Nignore everything he says.
+Dialogue: 0,0:17:31.11,0:17:32.65,Dubtitles,,0,0,0,,Throw it, Derby.
+Dialogue: 0,0:17:33.41,0:17:35.77,Dubtitles,,0,0,0,,Will you believe or will you doubt?
+Dialogue: 0,0:17:41.79,0:17:42.83,Dubtitles,,0,0,0,,I knew it.
+Dialogue: 0,0:17:42.99,0:17:45.47,Dubtitles,,0,0,0,,It's a fastball, and\Nit's coming right at you.
+Dialogue: 0,0:17:45.55,0:17:46.38,Dubtitles,,0,0,0,,Let's see.
+Dialogue: 0,0:17:46.47,0:17:48.25,Dubtitles,,0,0,0,,Is the ball going to change direction?
+Dialogue: 0,0:17:48.33,0:17:50.55,Dubtitles,,0,0,0,,The suspense is driving me crazy.
+Dialogue: 0,0:17:52.03,0:17:53.07,Dubtitles,,0,0,0,,You swung.
+Dialogue: 0,0:17:53.31,0:17:55.75,Dubtitles,,0,0,0,,You bought his act and\Nbet on the forkball.
+Dialogue: 0,0:17:55.83,0:17:56.83,Dubtitles,,0,0,0,,It's still going.
+Dialogue: 0,0:17:57.09,0:17:58.93,Dubtitles,,0,0,0,,It actually is a fastball.
+Dialogue: 0,0:17:59.99,0:18:00.85,Dubtitles,,0,0,0,,Oh, great.
+Dialogue: 0,0:18:00.99,0:18:02.76,Dubtitles,,0,0,0,,He hit the bottom of the ball.
+Dialogue: 0,0:18:04.41,0:18:05.24,Dubtitles,,0,0,0,,Out.
+Dialogue: 0,0:18:05.69,0:18:07.95,Dubtitles,,0,0,0,,First inning, three outs. Change!
 Dialogue: 1,0:18:08.56,0:18:11.57,SC41 Sign 1v2,sign,0,0,0,,{\pos(1625,678)}Top of the 1st
-Dialogue: 0,0:18:12.45,0:18:13.91,Dubtitles,,0,0,0,,Idiot, how could you?
-Dialogue: 0,0:18:14.19,0:18:16.33,Dubtitles,,0,0,0,,Leave it to a rookie\Nfor something like that!
-Dialogue: 0,0:18:16.41,0:18:18.95,Dubtitles,,0,0,0,,I can't believe you swung for a forkball!
-Dialogue: 0,0:18:19.97,0:18:20.80,Dubtitles,,0,0,0,,Hmph.
-Dialogue: 0,0:18:21.23,0:18:22.06,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:18:22.15,0:18:26.23,Dubtitles,,0,0,0,,He had already seen through me and knew\NI would swing expecting a forkball.
-Dialogue: 0,0:18:26.31,0:18:28.41,Dubtitles,,0,0,0,,So we switched it up to a fastball.
-Dialogue: 0,0:18:28.69,0:18:30.28,Dubtitles,,0,0,0,,But he has a point, though.
-Dialogue: 0,0:18:30.59,0:18:34.05,Dubtitles,,0,0,0,,Something's been gnawing at me ever\Nsince we stepped foot in this mansion.
-Dialogue: 0,0:18:34.13,0:18:35.29,Dubtitles,,0,0,0,,I'm not sure how.
-Dialogue: 0,0:18:35.55,0:18:39.63,Dubtitles,,0,0,0,,But he knew Star Platinum would throw\Na right punch in our earlier skirmish.
+Dialogue: 0,0:18:12.53,0:18:13.91,Dubtitles,,0,0,0,,Idiot! How could you?
+Dialogue: 0,0:18:14.23,0:18:16.53,Dubtitles,,0,0,0,,Leave it to a rookie\Nfor something like that!
+Dialogue: 0,0:18:16.61,0:18:19.03,Dubtitles,,0,0,0,,I can't believe you swung for a forkball!
+Dialogue: 0,0:18:21.57,0:18:22.40,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:18:22.49,0:18:26.19,Dubtitles,,0,0,0,,He had already seen through me and knew\NI would swing expecting a forkball.
+Dialogue: 0,0:18:26.27,0:18:28.41,Dubtitles,,0,0,0,,So we switched it up to a fastball.
+Dialogue: 0,0:18:28.75,0:18:30.34,Dubtitles,,0,0,0,,But he has a point, though.
+Dialogue: 0,0:18:30.63,0:18:34.01,Dubtitles,,0,0,0,,Something's been gnawing at me ever\Nsince we stepped foot in this mansion.
+Dialogue: 0,0:18:34.09,0:18:35.29,Dubtitles,,0,0,0,,I'm not sure how,
+Dialogue: 0,0:18:35.63,0:18:40.10,Dubtitles,,0,0,0,,but he knew Star Platinum would throw\Na right punch in our earlier skirmish.
 Dialogue: 1,0:18:36.47,0:18:36.51,SFXPurpleflashback,F1,0,0,0,,{=32}{\blur0.9\pos(780.77,117.18)\frz11.77\c&H000000&}Boom
 Dialogue: 2,0:18:36.47,0:18:36.51,SFXPurpleflashback,F1,0,0,0,,{=32}{\bord0\blur0.9\pos(780.77,117.18)\frz11.77\4a&HFF&}Boom
 Dialogue: 1,0:18:36.51,0:18:36.55,SFXPurpleflashback,F1,0,0,0,,{=32}{\blur0.9\pos(780.77,117.18)\frz11.77\c&H000000&}Boom
@@ -1424,28 +1435,33 @@ Dialogue: 1,0:18:39.34,0:18:39.38,SFXPurpleflashback,F1,0,0,0,,{=32}{\blur0.9\po
 Dialogue: 2,0:18:39.34,0:18:39.38,SFXPurpleflashback,F1,0,0,0,,{=32}{\bord0\blur0.9\pos(767.92,120.26)\frz11.77\4a&HFF&}Boom
 Dialogue: 1,0:18:39.38,0:18:39.43,SFXPurpleflashback,F1,0,0,0,,{=32}{\blur0.9\pos(767.5,120.46)\frz11.77\c&H000000&}Boom
 Dialogue: 2,0:18:39.38,0:18:39.43,SFXPurpleflashback,F1,0,0,0,,{=32}{\bord0\blur0.9\pos(767.5,120.46)\frz11.77\4a&HFF&}Boom
-Dialogue: 0,0:18:39.71,0:18:40.54,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:18:40.95,0:18:41.78,Dubtitles,,0,0,0,,Impossible!
-Dialogue: 0,0:18:41.95,0:18:44.11,Dubtitles,,0,0,0,,Are you trying to tell me\Nthat he can read your mind?
-Dialogue: 0,0:18:44.19,0:18:46.77,Dubtitles,,0,0,0,,No offense, Jotaro, but that's crazy talk.
-Dialogue: 0,0:18:48.19,0:18:49.78,Dubtitles,,0,0,0,,Oh, would you look at that.
-Dialogue: 0,0:18:49.95,0:18:51.21,Dubtitles,,0,0,0,,It's my turn at bat.
-Dialogue: 0,0:19:01.11,0:19:02.94,Dubtitles,,0,0,0,,This is going to be a home run.
-Dialogue: 0,0:19:03.71,0:19:08.48,Dubtitles,,0,0,0,,Keep your eye on the birdie, as I'll be\Nhitting it into the left field bleachers.
-Dialogue: 0,0:19:09.69,0:19:12.19,Dubtitles,,0,0,0,,Old man, are you absolutely sure?
-Dialogue: 0,0:19:12.27,0:19:14.27,Dubtitles,,0,0,0,,The game and console\Nhaven't been tampered with.
-Dialogue: 0,0:19:14.35,0:19:17.29,Dubtitles,,0,0,0,,Yeah, I'm positive it's\Nclean and that's not all.
-Dialogue: 0,0:19:17.37,0:19:19.89,Dubtitles,,0,0,0,,I haven't seen him make a\Nsingle funny move either.
-Dialogue: 0,0:19:19.97,0:19:22.95,Dubtitles,,0,0,0,,Then a secret weapon has\Nto be that stand of his.
-Dialogue: 0,0:19:23.03,0:19:26.85,Dubtitles,,0,0,0,,His stand doesn't just take souls\Nit must have some other ability.
-Dialogue: 0,0:19:26.93,0:19:30.99,Dubtitles,,0,0,0,,This will be my target.
-Dialogue: 0,0:19:34.93,0:19:36.69,Dubtitles,,0,0,0,,Now I'll get to the bottom of this.
-Dialogue: 0,0:19:36.77,0:19:38.83,Dubtitles,,0,0,0,,Has he lost his mind?
-Dialogue: 0,0:19:38.91,0:19:43.33,Dubtitles,,0,0,0,,He's going to try to hit the batter on\Npurpose and where might you be aiming?
-Dialogue: 0,0:19:43.41,0:19:48.49,Dubtitles,,0,0,0,,Now Jotaro, an inside pitch\Nwill you throw it high or low?
-Dialogue: 0,0:19:48.57,0:19:52.41,Dubtitles,,0,0,0,,Perhaps or maybe you're planning\Nsome kind of underhanded trick?
-Dialogue: 0,0:19:52.49,0:19:53.43,Dubtitles,,0,0,0,,Well.
-Dialogue: 0,0:20:01.87,0:20:05.25,Dubtitles,,0,0,0,,What the people back with\NJotaro through the ball?
+Dialogue: 0,0:18:40.57,0:18:41.40,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:18:41.49,0:18:42.32,Dubtitles,,0,0,0,,Impossible!
+Dialogue: 0,0:18:42.40,0:18:44.33,Dubtitles,,0,0,0,,Are you trying to tell me\Nthat he can read your mind?
+Dialogue: 0,0:18:44.41,0:18:46.88,Dubtitles,,0,0,0,,No offense, Jotaro, but that's crazy talk!
+Dialogue: 0,0:18:48.17,0:18:49.76,Dubtitles,,0,0,0,,Oh, would you look at that?
+Dialogue: 0,0:18:49.97,0:18:51.23,Dubtitles,,0,0,0,,It's my turn at bat.
+Dialogue: 0,0:19:01.07,0:19:02.97,Dubtitles,,0,0,0,,This is going to be a home run.
+Dialogue: 0,0:19:03.65,0:19:08.42,Dubtitles,,0,0,0,,Keep your eye on the birdie, as I'll be\Nhitting it into the left field bleachers!
+Dialogue: 0,0:19:09.65,0:19:14.39,Dubtitles,,0,0,0,,Old man, are you absolutely sure the game\Nand console haven't been tampered with?
+Dialogue: 0,0:19:14.47,0:19:16.07,Dubtitles,,0,0,0,,Yeah, I'm positive it's clean.
+Dialogue: 0,0:19:16.15,0:19:17.31,Dubtitles,,0,0,0,,And that's not all.
+Dialogue: 0,0:19:17.53,0:19:20.53,Dubtitles,,0,0,0,,I haven't seen him make a\Nsingle funny move either.
+Dialogue: 0,0:19:20.63,0:19:23.17,Dubtitles,,0,0,0,,Then his secret weapon has\Nto be that stand of his.
+Dialogue: 0,0:19:23.25,0:19:25.11,Dubtitles,,0,0,0,,His stand doesn't just take souls.
+Dialogue: 0,0:19:25.19,0:19:27.08,Dubtitles,,0,0,0,,It must have some other ability.
+Dialogue: 0,0:19:29.79,0:19:31.03,Dubtitles,,0,0,0,,This'll be my target.
+Dialogue: 0,0:19:34.85,0:19:36.91,Dubtitles,,0,0,0,,Now I'll get to the bottom of this.
+Dialogue: 0,0:19:37.37,0:19:38.91,Dubtitles,,0,0,0,,Has he lost his mind?
+Dialogue: 0,0:19:39.13,0:19:41.67,Dubtitles,,0,0,0,,He's going to try to hit\Nthe batter on purpose?
+Dialogue: 0,0:19:41.75,0:19:44.25,Dubtitles,,0,0,0,,And where might you be aiming now, Jotaro?
+Dialogue: 0,0:19:44.67,0:19:45.79,Dubtitles,,0,0,0,,An inside pitch?
+Dialogue: 0,0:19:46.17,0:19:47.61,Dubtitles,,0,0,0,,Will you throw it high?
+Dialogue: 0,0:19:47.91,0:19:49.15,Dubtitles,,0,0,0,,Or low, perhaps?
+Dialogue: 0,0:19:49.53,0:19:52.83,Dubtitles,,0,0,0,,Or maybe you're planning some\Nkind of underhanded trick?
+Dialogue: 0,0:19:53.57,0:19:54.40,Dubtitles,,0,0,0,,Well...
+Dialogue: 0,0:20:01.93,0:20:02.77,Dubtitles,,0,0,0,,What the?
+Dialogue: 0,0:20:02.99,0:20:05.58,Dubtitles,,0,0,0,,He pulled back with\NJotaro through the ball!
 Dialogue: 1,0:20:07.93,0:20:07.97,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord2.57\fscx33.44\fscy25.72\frz23.23\pos(707.24,557.73)\c&H0E161F&}Kablam
 Dialogue: 2,0:20:07.93,0:20:07.97,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord0\fscx33.44\fscy25.72\frz23.23\pos(707.24,557.73)\4a&HFF&}Kablam
 Dialogue: 1,0:20:07.97,0:20:08.01,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord4.96\fscx64.53\fscy49.64\frz23.23\pos(891.27,623.34)\c&H0E161F&}Kablam
@@ -1508,17 +1524,18 @@ Dialogue: 1,0:20:09.18,0:20:09.22,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord9.88\fscx12
 Dialogue: 2,0:20:09.18,0:20:09.22,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord0\fscx128.44\fscy98.8\frz23.23\pos(1099.64,672.96)\4a&HFF&}Kablam
 Dialogue: 1,0:20:09.22,0:20:09.27,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord10\fscx130\fscy100\frz23.23\pos(1106.33,681.33)\c&H0E161F&}Kablam
 Dialogue: 2,0:20:09.22,0:20:09.27,SFXOang,5,0,0,0,,{=9}{\blur0.6\bord0\fscx130\fscy100\frz23.23\pos(1106.33,681.33)\4a&HFF&}Kablam
-Dialogue: 0,0:20:09.35,0:20:11.01,Dubtitles,,0,0,0,,He predicted it.
-Dialogue: 0,0:20:11.47,0:20:14.79,Dubtitles,,0,0,0,,He knew exactly what\Nwould happen. But how?
-Dialogue: 0,0:20:15.09,0:20:19.13,Dubtitles,,0,0,0,,There's no way he could have seen that\Npitch coming unless he read Jotaro's mind.
-Dialogue: 0,0:20:19.21,0:20:20.07,Dubtitles,,0,0,0,,Home run!
-Dialogue: 0,0:20:23.75,0:20:24.87,Dubtitles,,0,0,0,,That's one run.
-Dialogue: 0,0:20:26.25,0:20:27.37,Dubtitles,,0,0,0,,Damn this bastard.
-Dialogue: 0,0:20:27.45,0:20:29.85,Dubtitles,,0,0,0,,We faced all kinds of\Nopponents on this journey,
-Dialogue: 0,0:20:29.93,0:20:31.77,Dubtitles,,0,0,0,,but never one who could read our minds.
-Dialogue: 0,0:20:31.85,0:20:36.13,Dubtitles,,0,0,0,,If you really can read minds, then it\Ndoesn't matter how clever we think we are.
-Dialogue: 0,0:20:36.21,0:20:38.74,Dubtitles,,0,0,0,,We won't stand a\Nsnowball's chance in hell!
-Dialogue: 0,0:20:39.25,0:20:41.19,Dubtitles,,0,0,0,,Jotaro, what are you going to do?
+Dialogue: 0,0:20:10.15,0:20:10.98,Dubtitles,,0,0,0,,He...
+Dialogue: 0,0:20:11.07,0:20:12.15,Dubtitles,,0,0,0,,predicted it! He...
+Dialogue: 0,0:20:12.23,0:20:14.77,Dubtitles,,0,0,0,,knew exactly what would happen! But how?
+Dialogue: 0,0:20:15.07,0:20:19.11,Dubtitles,,0,0,0,,There's no way he could have seen that\Npitch coming unless he read Jotaro's mind!
+Dialogue: 0,0:20:19.19,0:20:20.05,Dubtitles,,0,0,0,,Home run!
+Dialogue: 0,0:20:23.87,0:20:24.89,Dubtitles,,0,0,0,,That's one run.
+Dialogue: 0,0:20:25.59,0:20:26.85,Dubtitles,,0,0,0,,Damn this bastard!
+Dialogue: 0,0:20:27.35,0:20:29.91,Dubtitles,,0,0,0,,We faced all kinds of\Nopponents on this journey,
+Dialogue: 0,0:20:29.99,0:20:32.13,Dubtitles,,0,0,0,,but never one who can read our minds!
+Dialogue: 0,0:20:32.21,0:20:36.11,Dubtitles,,0,0,0,,If he really can read minds, then it\Ndoesn't matter how clever we think we are.
+Dialogue: 0,0:20:36.19,0:20:38.72,Dubtitles,,0,0,0,,We won't stand a\Nsnowball's chance in hell!
+Dialogue: 0,0:20:39.21,0:20:41.19,Dubtitles,,0,0,0,,Jotaro, what are you going to do?
 Dialogue: 1,0:20:51.18,0:20:54.35,SC41 Sign 1v3,sign,0,0,0,,{\fad(775,0)\pos(310,694)}Bottom of the 1st
 Dialogue: 1,0:20:52.73,0:20:52.77,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord7.15\fscx92.95\fscy71.5\shad2.86\pos(1009.55,428.06)\frz11.12\clip(m 993 447 l 1005 465 1020 492 1035 504 1049 521 1059 522 1088 518 1088 514 1064 515 1050 509 1041 502 1030 488 1024 473 1018 459 1016 444)\c&H3C3244&}D{*\3c&H362B3D&\c&H362B3D&\4c&H362B3D&}o{*\3c&H2F2535&\c&H2F2535&\4c&H2F2535&}o{\3c&H291E2E&\c&H291E2E&\4c&H291E2E&}m
 Dialogue: 2,0:20:52.73,0:20:52.77,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord0\fscx92.95\fscy71.5\pos(1009.55,428.06)\frz11.12\clip(m 993 447 l 1005 465 1020 492 1035 504 1049 521 1059 522 1088 518 1088 514 1064 515 1050 509 1041 502 1030 488 1024 473 1018 459 1016 444)\shad2.86\4a&HFF&}D{*\4c&H362B3D&}o{*\4c&H2F2535&}o{\4c&H291E2E&}m
@@ -1590,17 +1607,14 @@ Dialogue: 1,0:20:54.14,0:20:54.19,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord9.89\fs
 Dialogue: 2,0:20:54.14,0:20:54.19,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord0\fscx128.59\fscy98.92\pos(972.47,134.49)\frz11.12\shad3.96\4a&HFF&}D{*\4c&H362B3D&}o{*\4c&H2F2535&}o{\4c&H291E2E&}m
 Dialogue: 1,0:20:54.19,0:20:54.23,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord9.93\fscx129.15\fscy99.35\shad3.97\pos(971.72,130.45)\frz11.12\c&H3C3244&}D{*\3c&H362B3D&\c&H362B3D&\4c&H362B3D&}o{*\3c&H2F2535&\c&H2F2535&\4c&H2F2535&}o{\3c&H291E2E&\c&H291E2E&\4c&H291E2E&}m
 Dialogue: 2,0:20:54.19,0:20:54.23,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord0\fscx129.15\fscy99.35\pos(971.72,130.45)\frz11.12\shad3.97\4a&HFF&}D{*\4c&H362B3D&}o{*\4c&H2F2535&}o{\4c&H291E2E&}m
+Dialogue: 0,0:20:54.21,0:21:01.21,Dubtitles,,0,0,0,,why that damn the punks declaring another\Nhome run let's see uh-huh an outside pitch
 Dialogue: 1,0:20:54.23,0:20:54.27,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord9.93\fscx129.15\fscy99.35\shad3.97\pos(971.72,130.45)\frz11.12\c&H3C3244&}D{*\3c&H362B3D&\c&H362B3D&\4c&H362B3D&}o{*\3c&H2F2535&\c&H2F2535&\4c&H2F2535&}o{\3c&H291E2E&\c&H291E2E&\4c&H291E2E&}m
 Dialogue: 2,0:20:54.23,0:20:54.27,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord0\fscx129.15\fscy99.35\pos(971.72,130.45)\frz11.12\shad3.97\4a&HFF&}D{*\4c&H362B3D&}o{*\4c&H2F2535&}o{\4c&H291E2E&}m
 Dialogue: 1,0:20:54.27,0:20:54.31,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord9.98\fscx129.72\fscy99.78\shad3.99\pos(970.98,126.4)\frz11.12\c&H3C3244&}D{*\3c&H362B3D&\c&H362B3D&\4c&H362B3D&}o{*\3c&H2F2535&\c&H2F2535&\4c&H2F2535&}o{\3c&H291E2E&\c&H291E2E&\4c&H291E2E&}m
 Dialogue: 2,0:20:54.27,0:20:54.31,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord0\fscx129.72\fscy99.78\pos(970.98,126.4)\frz11.12\shad3.99\4a&HFF&}D{*\4c&H362B3D&}o{*\4c&H2F2535&}o{\4c&H291E2E&}m
-Dialogue: 0,0:20:54.27,0:20:55.33,Dubtitles,,0,0,0,,Why that?
 Dialogue: 1,0:20:54.31,0:20:54.35,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord9.98\fscx129.72\fscy99.78\shad3.99\pos(970.98,126.4)\frz11.12\c&H3C3244&}D{*\3c&H362B3D&\c&H362B3D&\4c&H362B3D&}o{*\3c&H2F2535&\c&H2F2535&\4c&H2F2535&}o{\3c&H291E2E&\c&H291E2E&\4c&H291E2E&}m
 Dialogue: 2,0:20:54.31,0:20:54.35,SFXPurple3,6,0,0,0,,{=31}{\blur0.6\bord0\fscx129.72\fscy99.78\pos(970.98,126.4)\frz11.12\shad3.99\4a&HFF&}D{*\4c&H362B3D&}o{*\4c&H2F2535&}o{\4c&H291E2E&}m
-Dialogue: 0,0:20:55.63,0:20:58.22,Dubtitles,,0,0,0,,Damn, the punk's declaring\Nanother home run!
-Dialogue: 0,0:20:58.49,0:20:59.43,Dubtitles,,0,0,0,,Let's see.
-Dialogue: 0,0:20:59.81,0:21:01.17,Dubtitles,,0,0,0,,An outside pitch?
-Dialogue: 0,0:21:02.29,0:21:06.71,Dubtitles,,0,0,0,,Or maybe you're going to aim low, or\Nsomething in the vein of a fastball.
+Dialogue: 0,0:21:02.19,0:21:05.25,Dubtitles,,0,0,0,,or maybe you're going\Nto aim low or something
 Dialogue: 1,0:21:16.67,0:21:16.71,SFXOang,8,0,0,0,,{=12}{\blur8\bord0.84\fscx10.94\fscy8.42\pos(407.19,505.74)\frz23.91\alpha&H80&}Clang
 Dialogue: 2,0:21:16.67,0:21:16.71,SFXOang,8,0,0,0,,{=12}{\blur1\bord0.84\fscx10.94\fscy8.42\pos(407.19,505.74)\frz23.91\c&H0E161F&}Clang
 Dialogue: 3,0:21:16.67,0:21:16.71,SFXOang,8,0,0,0,,{=12}{\blur1\bord0\fscx10.94\fscy8.42\pos(407.19,505.74)\frz23.91\4a&HFF&}Clang
@@ -1716,40 +1730,34 @@ Dialogue: 1,0:21:18.21,0:21:18.25,SFXOang,8,0,0,0,,{=12}{\blur8\fade(255,0,255,-
 Dialogue: 2,0:21:18.21,0:21:18.25,SFXOang,8,0,0,0,,{=12}{\blur1\fade(255,0,255,-1540,-1440,70,70)\frz8.577\pos(1210.33,22.67)\c&H0C2647&}Clang
 Dialogue: 3,0:21:18.21,0:21:18.25,SFXOang,8,0,0,0,,{=12}{\bord0\blur1\fade(255,0,255,-1540,-1440,70,70)\frz8.577\pos(1210.33,22.67)\4a&HFF&}Clang
 Dialogue: 0,0:21:18.27,0:21:19.31,Dubtitles,,0,0,0,,Home run!
-Dialogue: 0,0:21:20.55,0:21:21.69,Dubtitles,,0,0,0,,Four to two.
-Dialogue: 0,0:21:24.01,0:21:24.84,Dubtitles,,0,0,0,,Damn!
+Dialogue: 0,0:21:20.43,0:21:21.67,Dubtitles,,0,0,0,,Four to two.
+Dialogue: 0,0:21:23.95,0:21:24.78,Dubtitles,,0,0,0,,Damn!
 Dialogue: 0,0:21:25.03,0:21:27.87,Dubtitles,,0,0,0,,A person's body language and\Nthe surrounding environment go
-Dialogue: 0,0:21:27.95,0:21:30.67,Dubtitles,,0,0,0,,a long way toward helping\Npredict an opponent's next move.
-Dialogue: 0,0:21:30.75,0:21:33.87,Dubtitles,,0,0,0,,But there's no way to do\Nit perfectly and yet his
-Dialogue: 0,0:21:33.95,0:21:37.89,Dubtitles,,0,0,0,,Stand predicts Jotaro's\Npitch with 100% accuracy and!
-Dialogue: 0,0:21:37.97,0:21:39.80,Dubtitles,,0,0,0,,Technically, he's not cheating?
+Dialogue: 0,0:21:27.95,0:21:30.91,Dubtitles,,0,0,0,,a long way toward helping\Npredict an opponent's next move.
+Dialogue: 0,0:21:30.99,0:21:33.05,Dubtitles,,0,0,0,,But there's no way to do it perfectly!
+Dialogue: 0,0:21:33.13,0:21:37.21,Dubtitles,,0,0,0,,And yet, his Stand predicts\NJotaro's pitch with 100% accuracy.
+Dialogue: 0,0:21:37.59,0:21:39.65,Dubtitles,,0,0,0,,And technically, he's not cheating.
 Dialogue: 0,0:21:41.47,0:21:42.55,Dubtitles,,0,0,0,,Another home run!
-Dialogue: 0,0:21:42.79,0:21:43.85,Dubtitles,,0,0,0,,It's 4-3!
-Dialogue: 0,0:21:44.53,0:21:47.65,Dubtitles,,0,0,0,,How are we supposed to stop\Nhim from reading our minds?
-Dialogue: 0,0:21:47.73,0:21:48.56,Dubtitles,,0,0,0,,How?
-Dialogue: 0,0:21:52.21,0:21:56.05,Dubtitles,,0,0,0,,At this rate, I'll be in the\Nlead in no time. Now what's next?
-Dialogue: 0,0:21:56.29,0:22:00.29,Dubtitles,,0,0,0,,An inside pitch, a fastball, a\Nhigh pitch, or maybe a curveball?
-Dialogue: 0,0:22:00.75,0:22:02.05,Dubtitles,,0,0,0,,What's up your sleeve?
-Dialogue: 0,0:22:04.71,0:22:05.54,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:22:06.63,0:22:07.51,Dubtitles,,0,0,0,,Your hat.
-Dialogue: 0,0:22:08.31,0:22:09.15,Dubtitles,,0,0,0,,You idiot.
-Dialogue: 0,0:22:09.49,0:22:13.43,Dubtitles,,0,0,0,,Do you honestly take me for a cheat\Nlike my ne 'er-do-well brother?
-Dialogue: 0,0:22:13.61,0:22:15.19,Dubtitles,,0,0,0,,Jotaro, you've got it wrong.
-Dialogue: 0,0:22:15.27,0:22:16.92,Dubtitles,,0,0,0,,Hiding your face is useless.
-Dialogue: 0,0:22:17.03,0:22:18.37,Dubtitles,,0,0,0,,I don't know what he's doing,
-Dialogue: 0,0:22:18.45,0:22:21.41,Dubtitles,,0,0,0,,but he's not watching the reflection\Nof the screen in your eyes.
-Dialogue: 0,0:22:21.49,0:22:23.77,Dubtitles,,0,0,0,,I get that it's hard not to go there now,
-Dialogue: 0,0:22:23.85,0:22:27.87,Dubtitles,,0,0,0,,but there's no way he can see what you're\Npressing or what pitch you're choosing.
-Dialogue: 0,0:22:27.95,0:22:30.05,Dubtitles,,0,0,0,,Trust me, I've been watching\Nhim the entire time.
-Dialogue: 0,0:22:30.13,0:22:32.31,Dubtitles,,0,0,0,,That's not what's been going on here.
-Dialogue: 0,0:22:32.45,0:22:34.65,Dubtitles,,0,0,0,,I only took off my hat\Nbecause I'm sweating.
-Dialogue: 0,0:22:34.73,0:22:35.87,Dubtitles,,0,0,0,,No other reason.
-Dialogue: 0,0:22:36.21,0:22:39.21,Dubtitles,,0,0,0,,Could you throw your next\Npitch sometime this year?
-Dialogue: 0,0:22:40.65,0:22:43.17,Dubtitles,,0,0,0,,But I'm not going to be sweating anymore.
-Dialogue: 0,0:22:43.55,0:22:45.31,Dubtitles,,0,0,0,,I'll tell you my next pitch.
-Dialogue: 0,0:22:46.37,0:22:48.97,Dubtitles,,0,0,0,,I'm throwing a high outside fastball.
-Dialogue: 0,0:22:49.43,0:22:51.41,Dubtitles,,0,0,0,,You're joking! Totoro!
-Dialogue: 0,0:22:51.73,0:22:54.15,Dubtitles,,0,0,0,,Do you hear what you're saying right now?
+Dialogue: 0,0:21:42.81,0:21:43.87,Dubtitles,,0,0,0,,It's 4-3!
+Dialogue: 0,0:21:44.51,0:21:47.59,Dubtitles,,0,0,0,,How are we supposed to stop\Nhim from reading our minds?
+Dialogue: 0,0:21:47.67,0:21:48.50,Dubtitles,,0,0,0,,How?
+Dialogue: 0,0:21:52.17,0:21:54.89,Dubtitles,,0,0,0,,At this rate, I'll be\Nin the lead in no time.
+Dialogue: 0,0:21:55.13,0:21:56.13,Dubtitles,,0,0,0,,Now, what's next?
+Dialogue: 0,0:21:56.29,0:22:00.31,Dubtitles,,0,0,0,,An inside pitch, a fastball, a\Nhigh pitch, or maybe a curveball?
+Dialogue: 0,0:22:00.63,0:22:01.93,Dubtitles,,0,0,0,,What's up your sleeve?
+Dialogue: 0,0:22:05.85,0:22:10.65,Dubtitles,,0,0,0,,Huh? Your hat? Huh, you\Nidiot. Do you honestly take
+Dialogue: 0,0:22:10.73,0:22:13.38,Dubtitles,,0,0,0,,me for a cheat like my\Nne 'er-do-well brother
+Dialogue: 0,0:22:13.61,0:22:16.57,Dubtitles,,0,0,0,,Jotaro you've got it wrong\Nhiding your face is useless
+Dialogue: 0,0:22:16.65,0:22:19.49,Dubtitles,,0,0,0,,I don't know what he's doing\Nbut he's not watching the
+Dialogue: 0,0:22:19.57,0:22:22.57,Dubtitles,,0,0,0,,reflection of the screen in\Nyour eyes I get that it's hard
+Dialogue: 0,0:22:22.65,0:22:25.75,Dubtitles,,0,0,0,,not to go there now but there's\Nno way he can see what you're
+Dialogue: 0,0:22:25.83,0:22:28.59,Dubtitles,,0,0,0,,pressing or what pitch you're\Nchoosing trust me I've been
+Dialogue: 0,0:22:28.67,0:22:31.87,Dubtitles,,0,0,0,,watching him the entire time\Nthat's not what's been going on
+Dialogue: 0,0:22:31.95,0:22:35.39,Dubtitles,,0,0,0,,here i only took off my hat\Nbecause i'm sweating no other
+Dialogue: 0,0:22:35.47,0:22:39.13,Dubtitles,,0,0,0,,reason huh could you throw your\Nnext pitch sometime this year
+Dialogue: 0,0:22:40.67,0:22:47.15,Dubtitles,,0,0,0,,but i'm not going to be sweating anymore\Ni'll tell you my next pitch i'm throwing
+Dialogue: 0,0:22:47.23,0:22:52.91,Dubtitles,,0,0,0,,a high outside fastball you're joking\Ndotero do you hear what you're saying
+Dialogue: 0,0:22:52.99,0:22:58.95,Dubtitles,,0,0,0,,right now of course i do finally starting\Nto lose your hearing old man obviously
 Dialogue: 1,0:22:53.97,0:22:54.01,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,0,800,10469,10470)\frz357.6\pos(1854,32)}Menacing
 Dialogue: 1,0:22:54.01,0:22:54.06,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-40,760,10429,10430)\frz357.6\pos(1854,32)}Menacing
 Dialogue: 1,0:22:54.06,0:22:54.10,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-90,710,10379,10380)\frz357.6\org(1851.845,29.242)\pos(1851.845,29.242)}Menacing
@@ -1764,7 +1772,6 @@ Dialogue: 1,0:22:54.39,0:22:54.43,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4
 Dialogue: 1,0:22:54.43,0:22:54.47,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-460,340,10009,10010)\frz357.6\org(1858.711,28.014)\pos(1858.711,28.014)}Menacing
 Dialogue: 1,0:22:54.47,0:22:54.51,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-500,300,9969,9970)\frz357.6\org(1858.711,28.014)\pos(1858.711,28.014)}Menacing
 Dialogue: 1,0:22:54.51,0:22:54.56,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-540,260,9929,9930)\frz357.6\org(1858.711,28.014)\pos(1858.711,28.014)}Menacing
-Dialogue: 0,0:22:54.55,0:22:55.73,Dubtitles,,0,0,0,,Of course I do.
 Dialogue: 1,0:22:54.56,0:22:54.60,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-590,210,9879,9880)\frz357.6\org(1848.662,29.445)\pos(1848.662,29.445)}Menacing
 Dialogue: 1,0:22:54.60,0:22:54.64,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-630,170,9839,9840)\frz357.6\org(1848.662,29.445)\pos(1848.662,29.445)}Menacing
 Dialogue: 1,0:22:54.64,0:22:54.68,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-670,130,9799,9800)\frz357.6\org(1848.662,29.445)\pos(1848.662,29.445)}Menacing
@@ -1796,7 +1803,6 @@ Dialogue: 1,0:22:55.68,0:22:55.72,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1
 Dialogue: 1,0:22:55.72,0:22:55.77,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1750,-950,8719,8720)\frz357.6\org(1859.143,30.419)\pos(1859.143,30.419)}Menacing
 Dialogue: 1,0:22:55.77,0:22:55.81,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1800,-1000,8669,8670)\frz357.6\org(1859.143,30.419)\pos(1859.143,30.419)}Menacing
 Dialogue: 1,0:22:55.81,0:22:55.85,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1840,-1040,8629,8630)\frz357.6\org(1858.028,26.283)\pos(1858.028,26.283)}Menacing
-Dialogue: 0,0:22:55.81,0:22:57.95,Dubtitles,,0,0,0,,Finally starting to lose\Nyour hearing, old man.
 Dialogue: 1,0:22:55.85,0:22:55.89,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1880,-1080,8589,8590)\frz357.6\org(1858.028,26.283)\pos(1858.028,26.283)}Menacing
 Dialogue: 1,0:22:55.89,0:22:55.93,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1920,-1120,8549,8550)\frz357.6\org(1858.028,26.283)\pos(1858.028,26.283)}Menacing
 Dialogue: 1,0:22:55.93,0:22:55.97,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-1960,-1160,8509,8510)\frz357.6\org(1855.657,34.077)\pos(1855.657,34.077)}Menacing
@@ -1850,7 +1856,6 @@ Dialogue: 1,0:22:57.89,0:22:57.93,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-3
 Dialogue: 1,0:22:57.93,0:22:57.98,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-3960,-3160,6509,6510)\frz357.6\org(1850.377,34.685)\pos(1850.377,34.685)}Menacing
 Dialogue: 1,0:22:57.98,0:22:58.02,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4010,-3210,6459,6460)\frz357.6\org(1850.377,34.685)\pos(1850.377,34.685)}Menacing
 Dialogue: 1,0:22:58.02,0:22:58.06,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4050,-3250,6419,6420)\frz357.6\org(1850.377,34.685)\pos(1850.377,34.685)}Menacing
-Dialogue: 0,0:22:58.03,0:23:00.65,Dubtitles,,0,0,0,,Obviously, I just told him my next pitch.
 Dialogue: 1,0:22:58.06,0:22:58.10,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4090,-3290,6379,6380)\frz357.6\org(1850.689,28.904)\pos(1850.689,28.904)}Menacing
 Dialogue: 1,0:22:58.10,0:22:58.14,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4130,-3330,6339,6340)\frz357.6\org(1850.689,28.904)\pos(1850.689,28.904)}Menacing
 Dialogue: 1,0:22:58.14,0:22:58.18,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4170,-3370,6299,6300)\frz357.6\org(1850.689,28.904)\pos(1850.689,28.904)}Menacing
@@ -1875,6 +1880,7 @@ Dialogue: 1,0:22:58.89,0:22:58.94,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4
 Dialogue: 1,0:22:58.94,0:22:58.98,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-4970,-4170,5499,5500)\frz357.6\org(1855.535,28.953)\pos(1855.535,28.953)}Menacing
 Dialogue: 1,0:22:58.98,0:22:59.02,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-5010,-4210,5459,5460)\frz357.6\org(1855.535,28.953)\pos(1855.535,28.953)}Menacing
 Dialogue: 1,0:22:59.02,0:22:59.06,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-5050,-4250,5419,5420)\frz357.6\org(1855.535,28.953)\pos(1855.535,28.953)}Menacing
+Dialogue: 0,0:22:59.03,0:23:03.99,Dubtitles,,0,0,0,,i just told him my next pitch a high\Noutside fastball that's how i'm gonna win
 Dialogue: 1,0:22:59.06,0:22:59.10,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-5090,-4290,5379,5380)\frz357.6\org(1859.647,37.919)\pos(1859.647,37.919)}Menacing
 Dialogue: 1,0:22:59.10,0:22:59.14,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-5130,-4330,5339,5340)\frz357.6\org(1859.647,37.919)\pos(1859.647,37.919)}Menacing
 Dialogue: 1,0:22:59.14,0:22:59.19,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-5170,-4370,5299,5300)\frz357.6\org(1859.647,37.919)\pos(1859.647,37.919)}Menacing
@@ -1919,7 +1925,6 @@ Dialogue: 1,0:23:00.73,0:23:00.77,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-6
 Dialogue: 1,0:23:00.77,0:23:00.81,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-6800,-6000,3669,3670)\frz357.6\org(1856.449,37.366)\pos(1856.449,37.366)}Menacing
 Dialogue: 1,0:23:00.81,0:23:00.85,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-6840,-6040,3629,3630)\frz357.6\org(1848.561,29.06)\pos(1848.561,29.06)}Menacing
 Dialogue: 1,0:23:00.85,0:23:00.90,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-6880,-6080,3589,3590)\frz357.6\org(1848.561,29.06)\pos(1848.561,29.06)}Menacing
-Dialogue: 0,0:23:00.89,0:23:02.63,Dubtitles,,0,0,0,,A high outside fastball.
 Dialogue: 1,0:23:00.90,0:23:00.94,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-6930,-6130,3539,3540)\frz357.6\org(1848.561,29.06)\pos(1848.561,29.06)}Menacing
 Dialogue: 1,0:23:00.94,0:23:00.98,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-6970,-6170,3499,3500)\frz357.6\org(1856.565,27.481)\pos(1856.565,27.481)}Menacing
 Dialogue: 1,0:23:00.98,0:23:01.02,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-7010,-6210,3459,3460)\frz357.6\org(1856.565,27.481)\pos(1856.565,27.481)}Menacing
@@ -1966,7 +1971,6 @@ Dialogue: 1,0:23:02.65,0:23:02.69,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8
 Dialogue: 1,0:23:02.69,0:23:02.73,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8720,-7920,1749,1750)\frz357.6\org(1851.324,27.737)\pos(1851.324,27.737)}Menacing
 Dialogue: 1,0:23:02.73,0:23:02.77,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8760,-7960,1709,1710)\frz357.6\org(1851.324,27.737)\pos(1851.324,27.737)}Menacing
 Dialogue: 1,0:23:02.77,0:23:02.81,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8800,-8000,1669,1670)\frz357.6\org(1851.324,27.737)\pos(1851.324,27.737)}Menacing
-Dialogue: 0,0:23:02.79,0:23:04.26,Dubtitles,,0,0,0,,That's how I'm gonna win.
 Dialogue: 1,0:23:02.81,0:23:02.86,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8840,-8040,1629,1630)\frz357.6\org(1855.498,30.052)\pos(1855.498,30.052)}Menacing
 Dialogue: 1,0:23:02.86,0:23:02.90,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8890,-8090,1579,1580)\frz357.6\org(1855.498,30.052)\pos(1855.498,30.052)}Menacing
 Dialogue: 1,0:23:02.90,0:23:02.94,SFXPurple4,9.1,0,0,0,,{=13}{\fade(255,0,255,-8930,-8130,1539,1540)\frz357.6\org(1855.498,30.052)\pos(1855.498,30.052)}Menacing
@@ -2196,7 +2200,6 @@ Dialogue: 1,0:23:08.32,0:23:08.36,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,
 Dialogue: 2,0:23:08.32,0:23:08.36,SFXPurple4,9.2,0,0,0,,{=15}{\bord0\blur0.6\fade(255,0,255,-3880,-3879,1789,1790)\frz6.173\org(469.99,28.479)\pos(469.99,28.479)\4a&HFF&}Menacing
 Dialogue: 1,0:23:08.36,0:23:08.40,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,0,255,-3920,-3919,1749,1750)\frz6.173\org(469.99,28.479)\pos(469.99,28.479)\c&H1B070A&}Menacing
 Dialogue: 2,0:23:08.36,0:23:08.40,SFXPurple4,9.2,0,0,0,,{=15}{\bord0\blur0.6\fade(255,0,255,-3920,-3919,1749,1750)\frz6.173\org(469.99,28.479)\pos(469.99,28.479)\4a&HFF&}Menacing
-Dialogue: 0,0:23:08.39,0:23:09.51,Dubtitles,,0,0,0,,Huh? Jotaro?
 Dialogue: 1,0:23:08.40,0:23:08.45,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,0,255,-3960,-3959,1709,1710)\frz6.173\org(469.99,28.479)\pos(469.99,28.479)\c&H1B070A&}Menacing
 Dialogue: 2,0:23:08.40,0:23:08.45,SFXPurple4,9.2,0,0,0,,{=15}{\bord0\blur0.6\fade(255,0,255,-3960,-3959,1709,1710)\frz6.173\org(469.99,28.479)\pos(469.99,28.479)\4a&HFF&}Menacing
 Dialogue: 1,0:23:08.45,0:23:08.49,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,0,255,-4010,-4009,1659,1660)\frz6.173\org(466.787,28.135)\pos(466.787,28.135)\c&H1B070A&}Menacing
@@ -2223,6 +2226,7 @@ Dialogue: 1,0:23:08.86,0:23:08.90,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,
 Dialogue: 2,0:23:08.86,0:23:08.90,SFXPurple4,9.2,0,0,0,,{=15}{\bord0\blur0.6\fade(255,0,255,-4420,-4419,1249,1250)\frz6.173\org(471.674,26.674)\pos(471.674,26.674)\4a&HFF&}Menacing
 Dialogue: 1,0:23:08.90,0:23:08.95,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,0,255,-4460,-4459,1209,1210)\frz6.173\org(471.674,26.674)\pos(471.674,26.674)\c&H1B070A&}Menacing
 Dialogue: 2,0:23:08.90,0:23:08.95,SFXPurple4,9.2,0,0,0,,{=15}{\bord0\blur0.6\fade(255,0,255,-4460,-4459,1209,1210)\frz6.173\org(471.674,26.674)\pos(471.674,26.674)\4a&HFF&}Menacing
+Dialogue: 0,0:23:08.93,0:23:09.76,Dubtitles,,0,0,0,,Jotaro!
 Dialogue: 1,0:23:08.95,0:23:08.99,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,0,255,-4510,-4509,1159,1160)\frz6.173\org(458.478,16.328)\pos(458.478,16.328)\c&H1B070A&}Menacing
 Dialogue: 2,0:23:08.95,0:23:08.99,SFXPurple4,9.2,0,0,0,,{=15}{\bord0\blur0.6\fade(255,0,255,-4510,-4509,1159,1160)\frz6.173\org(458.478,16.328)\pos(458.478,16.328)\4a&HFF&}Menacing
 Dialogue: 1,0:23:08.99,0:23:09.03,SFXPurple4,9.2,0,0,0,,{=15}{\blur0.6\fade(255,0,255,-4550,-4549,1119,1120)\frz6.173\org(458.478,16.328)\pos(458.478,16.328)\c&H1B070A&}Menacing
@@ -2321,7 +2325,7 @@ Dialogue: 1,0:23:13.41,0:23:13.45,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fa
 Dialogue: 2,0:23:13.41,0:23:13.45,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\bord0\blur0.6\fade(255,0,255,-790,-789,4609,4610)\frz4.468\org(33.877,34.734)\pos(33.877,34.734)\4a&HFF&}Menacing
 Dialogue: 1,0:23:13.45,0:23:13.49,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fade(255,0,255,-830,-829,4569,4570)\frz4.468\org(33.877,34.734)\pos(33.877,34.734)\c&H130C13&}Menacing
 Dialogue: 2,0:23:13.45,0:23:13.49,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\bord0\blur0.6\fade(255,0,255,-830,-829,4569,4570)\frz4.468\org(33.877,34.734)\pos(33.877,34.734)\4a&HFF&}Menacing
-Dialogue: 0,0:23:13.45,0:23:14.91,Dubtitles,,0,0,0,,Will you believe me?
+Dialogue: 0,0:23:13.45,0:23:16.61,Dubtitles,,0,0,0,,will you believe me or will you doubt me
 Dialogue: 1,0:23:13.49,0:23:13.53,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fade(255,0,255,-870,-869,4529,4530)\frz4.468\org(33.041,23.629)\pos(33.041,23.629)\c&H130C13&}Menacing
 Dialogue: 2,0:23:13.49,0:23:13.53,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\bord0\blur0.6\fade(255,0,255,-870,-869,4529,4530)\frz4.468\org(33.041,23.629)\pos(33.041,23.629)\4a&HFF&}Menacing
 Dialogue: 1,0:23:13.53,0:23:13.58,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fade(255,0,255,-910,-909,4489,4490)\frz4.468\org(33.041,23.629)\pos(33.041,23.629)\c&H130C13&}Menacing
@@ -2406,7 +2410,6 @@ Dialogue: 1,0:23:15.16,0:23:15.20,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fa
 Dialogue: 2,0:23:15.16,0:23:15.20,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\bord0\blur0.6\fade(255,0,255,-2540,-2539,2859,2860)\frz4.468\org(37.684,34.952)\pos(37.684,34.952)\4a&HFF&}Menacing
 Dialogue: 1,0:23:15.20,0:23:15.24,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fade(255,0,255,-2580,-2579,2819,2820)\frz4.468\org(37.684,34.952)\pos(37.684,34.952)\c&H130C13&}Menacing
 Dialogue: 2,0:23:15.20,0:23:15.24,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\bord0\blur0.6\fade(255,0,255,-2580,-2579,2819,2820)\frz4.468\org(37.684,34.952)\pos(37.684,34.952)\4a&HFF&}Menacing
-Dialogue: 0,0:23:15.23,0:23:16.59,Dubtitles,,0,0,0,,Or will you doubt me?
 Dialogue: 1,0:23:15.24,0:23:15.29,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fade(255,0,255,-2620,-2619,2779,2780)\frz4.468\org(39.556,33.442)\pos(39.556,33.442)\c&H130C13&}Menacing
 Dialogue: 2,0:23:15.24,0:23:15.29,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\bord0\blur0.6\fade(255,0,255,-2620,-2619,2779,2780)\frz4.468\org(39.556,33.442)\pos(39.556,33.442)\4a&HFF&}Menacing
 Dialogue: 1,0:23:15.29,0:23:15.33,SFXPurple4 - Copy,9.3,0,0,0,,{=16}{\blur0.6\fade(255,0,255,-2670,-2669,2729,2730)\frz4.468\org(39.556,33.442)\pos(39.556,33.442)\c&H130C13&}Menacing
@@ -2613,7 +2616,6 @@ Dialogue: 1,0:23:19.46,0:23:19.50,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blu
 Dialogue: 2,0:23:19.46,0:23:19.50,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(956.483,26.679)\fade(255,0,255,-1460,-1459,2539,2540)\4a&HFF&}Menacing
 Dialogue: 1,0:23:19.50,0:23:19.54,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(957.357,21.21)\fade(255,0,255,-1500,-1499,2499,2500)\c&H160C14&}Menacing
 Dialogue: 2,0:23:19.50,0:23:19.54,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(957.357,21.21)\fade(255,0,255,-1500,-1499,2499,2500)\4a&HFF&}Menacing
-Dialogue: 0,0:23:19.51,0:23:20.34,Dubtitles,,0,0,0,,Hmph.
 Dialogue: 1,0:23:19.54,0:23:19.58,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(957.357,21.21)\fade(255,0,255,-1540,-1539,2459,2460)\c&H160C14&}Menacing
 Dialogue: 2,0:23:19.54,0:23:19.58,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(957.357,21.21)\fade(255,0,255,-1540,-1539,2459,2460)\4a&HFF&}Menacing
 Dialogue: 1,0:23:19.58,0:23:19.62,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(957.357,21.21)\fade(255,0,255,-1580,-1579,2419,2420)\c&H160C14&}Menacing
@@ -2628,6 +2630,7 @@ Dialogue: 1,0:23:19.75,0:23:19.79,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blu
 Dialogue: 2,0:23:19.75,0:23:19.79,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(956.059,18.38)\fade(255,0,255,-1750,-1749,2249,2250)\4a&HFF&}Menacing
 Dialogue: 1,0:23:19.79,0:23:19.83,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(956.059,18.38)\fade(255,0,255,-1790,-1789,2209,2210)\c&H160C14&}Menacing
 Dialogue: 2,0:23:19.79,0:23:19.83,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(956.059,18.38)\fade(255,0,255,-1790,-1789,2209,2210)\4a&HFF&}Menacing
+Dialogue: 0,0:23:19.79,0:23:21.57,Dubtitles,,0,0,0,,you're not too bright are you
 Dialogue: 1,0:23:19.83,0:23:19.87,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(956.059,18.38)\fade(255,0,255,-1830,-1829,2169,2170)\c&H160C14&}Menacing
 Dialogue: 2,0:23:19.83,0:23:19.87,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(956.059,18.38)\fade(255,0,255,-1830,-1829,2169,2170)\4a&HFF&}Menacing
 Dialogue: 1,0:23:19.87,0:23:19.91,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(965.496,16.031)\fade(255,0,255,-1870,-1869,2129,2130)\c&H160C14&}Menacing
@@ -2658,7 +2661,6 @@ Dialogue: 1,0:23:20.37,0:23:20.42,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blu
 Dialogue: 2,0:23:20.37,0:23:20.42,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(964.972,21.098)\fade(255,0,255,-2370,-2369,1629,1630)\4a&HFF&}Menacing
 Dialogue: 1,0:23:20.42,0:23:20.46,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(964.972,21.098)\fade(255,0,255,-2420,-2419,1579,1580)\c&H160C14&}Menacing
 Dialogue: 2,0:23:20.42,0:23:20.46,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(964.972,21.098)\fade(255,0,255,-2420,-2419,1579,1580)\4a&HFF&}Menacing
-Dialogue: 0,0:23:20.43,0:23:21.90,Dubtitles,,0,0,0,,You're not too bright, are you?
 Dialogue: 1,0:23:20.46,0:23:20.50,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(964.972,21.098)\fade(255,0,255,-2460,-2459,1539,1540)\c&H160C14&}Menacing
 Dialogue: 2,0:23:20.46,0:23:20.50,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\bord0\blur0.6\pos(964.972,21.098)\fade(255,0,255,-2460,-2459,1539,1540)\4a&HFF&}Menacing
 Dialogue: 1,0:23:20.50,0:23:20.54,SFXPurple4 - Copy - Copy,9.4,0,0,0,,{=21}{\blur0.6\pos(961.96,26.755)\fade(255,0,255,-2500,-2499,1499,1500)\c&H160C14&}Menacing
@@ -2848,15 +2850,10 @@ Dialogue: 2,0:23:24.29,0:23:24.34,SFXPurple4 - Copy - Copy,9.5,0,0,0,,{=22}{\bor
 Dialogue: 1,0:23:24.34,0:23:24.38,SFXPurple4 - Copy - Copy,9.5,0,0,0,,{=22}{\blur0.6\pos(962.008,26.47)\fade(255,0,255,-2340,-2339,-660,40)\c&H160C14&}Menacing
 Dialogue: 2,0:23:24.34,0:23:24.38,SFXPurple4 - Copy - Copy,9.5,0,0,0,,{=22}{\bord0\blur0.6\pos(962.008,26.47)\fade(255,0,255,-2340,-2339,-660,40)\4a&HFF&}Menacing
 Dialogue: 1,0:23:27.51,0:23:29.51,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:28.41,0:23:30.47,Dubtitles,,0,0,0,,Do you hear what you're saying right now?
-Dialogue: 0,0:23:30.55,0:23:32.39,Dubtitles,,0,0,0,,Obviously, I just told him my next pitch.
-Dialogue: 0,0:23:32.47,0:23:33.30,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:23:33.39,0:23:34.55,Dubtitles,,0,0,0,,He's telling the truth!
-Dialogue: 0,0:23:34.63,0:23:35.46,Dubtitles,,0,0,0,,Yes.
-Dialogue: 0,0:23:35.55,0:23:36.43,Dubtitles,,0,0,0,,You tampered with the console!
-Dialogue: 0,0:23:36.51,0:23:37.34,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:23:37.43,0:23:39.05,Dubtitles,,0,0,0,,It must have something to\Ndo with that hat of yours!
-Dialogue: 0,0:23:39.13,0:23:42.78,Dubtitles,,0,0,0,,This is just a dance of deception\Nwhere the loser cries first.
+Dialogue: 0,0:23:28.35,0:23:31.55,Dubtitles,,0,0,0,,do you hear what you're saying\Nright now obviously i just told him
+Dialogue: 0,0:23:31.63,0:23:35.55,Dubtitles,,0,0,0,,my next pitch what the hell he's\Ntelling the truth yes you tampered
+Dialogue: 0,0:23:35.63,0:23:38.85,Dubtitles,,0,0,0,,with the console no it must have\Nsomething to do with that hat of
+Dialogue: 0,0:23:38.93,0:23:42.87,Dubtitles,,0,0,0,,yours this is just a dance of\Ndeception where the loser cries first
 Dialogue: 1,0:23:40.52,0:23:42.56,Next Episode,sign,0,0,0,,{\pos(960,145)\fs100.001}Episode 42
 Dialogue: 1,0:23:40.52,0:23:42.56,Next Episode,sign,0,0,0,,{\fs100.001\fscx94\pos(960,424)}The Miasma of the Void {The CR subs had "Cool Ice" instead of "Vanilla Ice", lol. They also had "The Miasma of the Void", but that sounds a lot less cool and conveys the same image, so I changed it to Shadow.}
 Dialogue: 1,0:23:40.52,0:23:42.56,Next Episode,sign,0,0,0,,{\fs100.001\pos(960,932.001)}Cool Ice, Part 1 {The CR subs had "Cool Ice" instead of "Vanilla Ice", lol. They also had "The Miasma of the Void", but that sounds a lot less cool and conveys the same image, so I changed it to Shadow.}

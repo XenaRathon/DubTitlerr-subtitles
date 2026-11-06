@@ -44,7 +44,7 @@ Style: SFXOang2,LeviNaiveLetter,150,&H005B91DA,&H000000FF,&H00192536,&H00000000,
 Style: SFXYellow,Shaky Hand Some Comic Bold,140,&H004261CE,&H000000FF,&H00121A26,&H00000000,-1,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
 Style: SFXPurp2,Franc Gothique Brush,140,&H00572E89,&H000000FF,&H00160F19,&H00000000,0,0,0,0,130,100,0,0,1,10,0,7,50,40,20,1
 Style: SFXPinkFB,Rene Levesque,110,&H009C6286,&H000000FF,&H00191514,&H00000000,-1,0,0,0,120,100,0,0,1,6,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -56,7 +56,6 @@ Dialogue: 0,0:00:19.94,0:00:22.88,Dubtitles,,0,0,0,,Now, I finish what I started
 Dialogue: 0,0:00:35.32,0:00:36.74,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 1,0:00:36.02,0:00:41.15,Lyrics OP1 Jap,,0,0,0,,Sora! Koboreochita futatsu no hoshi ga
 Dialogue: 1,0:00:36.02,0:00:41.15,Lyrics OP1 Eng,,0,0,0,,Two stars fall from the sky
-Dialogue: 1,0:00:36.02,0:00:41.15,Lyrics OP1 Jap,,0,0,0,,Sora koboreochita futatsu no hoshi ga
 Dialogue: 1,0:00:42.23,0:00:48.82,Lyrics OP1 Jap,,0,0,0,,Hikari to yami no minamo suikomareteyuku
 Dialogue: 1,0:00:42.23,0:00:48.82,Lyrics OP1 Eng,,0,0,0,,One shining in the light, the other sinking into darkness
 Dialogue: 1,0:00:48.82,0:00:54.24,Lyrics OP1 Jap,,0,0,0,,Hikiau you ni kasanaru hamon
@@ -68,102 +67,97 @@ Dialogue: 1,0:01:05.30,0:01:11.43,Lyrics OP1 Jap,,0,0,0,,Yabou no hate wo mezasu
 Dialogue: 1,0:01:05.30,0:01:11.43,Lyrics OP1 Eng,,0,0,0,,One will walk the path of unbridled ambition...
 Dialogue: 1,0:01:11.43,0:01:12.84,Lyrics OP1 Jap,,0,0,0,,Ikenie wo!
 Dialogue: 1,0:01:11.43,0:01:12.84,Lyrics OP1 Eng,,0,0,0,,Demanding sacrifice!
-Dialogue: 1,0:01:11.43,0:01:12.84,Lyrics OP1 Jap,,0,0,0,,Ikenie wo
 Dialogue: 1,0:01:18.68,0:01:23.56,Lyrics OP1 Jap,,0,0,0,,Furueru hodo kokoro moetsukiru hodo atsuku
 Dialogue: 1,0:01:18.68,0:01:23.56,Lyrics OP1 Eng,,0,0,0,,Let that burning in your soul calm the trembling of your heart
-Dialogue: 0,0:01:22.60,0:01:26.70,Dubtitles,,0,0,0,,I'm the star-sponsor of the world?.
 Dialogue: 1,0:01:23.56,0:01:26.90,Lyrics OP1 Jap,,0,0,0,,Sono te kara hanate kodou
 Dialogue: 1,0:01:23.56,0:01:26.90,Lyrics OP1 Eng,,0,0,0,,Strike down your fears,
-Dialogue: 0,0:01:26.78,0:01:29.56,Dubtitles,,0,0,0,,and I'll keep you together!.
+Dialogue: 0,0:01:25.38,0:01:26.76,Dubtitles,,0,0,0,,Well, I'm one of the most\Nimportant things that I saw before.
+Dialogue: 0,0:01:26.84,0:01:30.30,Dubtitles,,0,0,0,,I'm an image that goes through the\Nworld of the power of the people.
 Dialogue: 1,0:01:26.90,0:01:30.36,Lyrics OP1 Jap,,0,0,0,,Karada minagiru yuki de
 Dialogue: 1,0:01:26.90,0:01:30.36,Lyrics OP1 Eng,,0,0,0,,With courage coursing through your veins!
 Dialogue: 1,0:01:26.90,0:01:30.36,Lyrics OP1 Jap,,0,0,0,,Karada minagiru yuuki de
-Dialogue: 0,0:01:29.64,0:01:35.34,Dubtitles,,0,0,0,,I'm the star-sponsor of the world!.
 Dialogue: 1,0:01:30.36,0:01:37.04,Lyrics OP1 Jap,,0,0,0,,Mayoi naki kakugo ni kassai wo
 Dialogue: 1,0:01:30.36,0:01:37.04,Lyrics OP1 Eng,,0,0,0,,You cannot overcome your pain unless you can accept...
 Dialogue: 1,0:01:30.36,0:01:37.04,Lyrics OP1 Jap,,0,0,0,,Mayou naki kakugo ni kassai wo
-Dialogue: 0,0:01:36.72,0:01:41.24,Dubtitles,,0,0,0,,The star-sponsor of the world!.
+Dialogue: 0,0:01:30.38,0:01:32.14,Dubtitles,,0,0,0,,I will not be able to pass.
+Dialogue: 0,0:01:32.22,0:01:38.10,Dubtitles,,0,0,0,,the world over to the dead.
 Dialogue: 1,0:01:37.04,0:01:41.04,Lyrics OP1 Jap,,0,0,0,,Sono chi no sadame!
 Dialogue: 1,0:01:37.04,0:01:41.04,Lyrics OP1 Eng,,0,0,0,,The legacy of your bloodline!
-Dialogue: 1,0:01:37.04,0:01:41.04,Lyrics OP1 Jap,,0,0,0,,Sono chi no sadame
 Dialogue: 1,0:01:41.04,0:01:44.83,Lyrics OP1 Jap,,0,0,0,,JoJo!
-Dialogue: 1,0:01:41.04,0:01:44.83,Lyrics OP1 Jap,,0,0,0,,Jojo!
-Dialogue: 0,0:01:41.32,0:01:43.96,Dubtitles,,0,0,0,,The star-sponsor.
-Dialogue: 0,0:01:44.04,0:01:51.04,Dubtitles,,0,0,0,,of
-Dialogue: 0,0:01:52.58,0:01:53.41,Dubtitles,,0,0,0,,the
-Dialogue: 0,0:01:53.49,0:01:54.32,Dubtitles,,0,0,0,,world?.
+Dialogue: 0,0:01:43.40,0:01:45.08,Dubtitles,,0,0,0,,I will not be able to pass.
+Dialogue: 0,0:01:45.16,0:01:50.62,Dubtitles,,0,0,0,,the world over to the dead.
 Dialogue: 1,0:01:56.93,0:02:01.02,Title,,0,0,0,,{\fad(850,0)\pos(1245,822)\bord3.5\blur2}Episode 3: "Youth With Dio"
 Dialogue: 1,0:01:56.93,0:02:01.02,Title,,0,0,0,,{\fad(850,0)\pos(1245,822)}Episode 3: "My Youth With Dio"
 Dialogue: 0,0:01:59.00,0:02:01.02,Dubtitles,,0,0,0,,I tracked down the antidote.
-Dialogue: 0,0:02:01.96,0:02:03.66,Dubtitles,,0,0,0,,Father took it moments ago.
+Dialogue: 0,0:02:01.94,0:02:03.66,Dubtitles,,0,0,0,,Father took it moments ago.
 Dialogue: 0,0:02:05.84,0:02:08.02,Dubtitles,,0,0,0,,Dio, this pains me greatly.
 Dialogue: 0,0:02:08.46,0:02:12.88,Dubtitles,,0,0,0,,For years, you were my brother, and now\NI have no recourse but to turn you in.
 Dialogue: 0,0:02:12.96,0:02:13.82,Dubtitles,,0,0,0,,I'm sorry.
 Dialogue: 0,0:02:14.16,0:02:18.88,Dubtitles,,0,0,0,,Really, I'm sure you don't believe a word\Nof it, but I'm telling you the truth.
-Dialogue: 0,0:02:21.28,0:02:23.64,Dubtitles,,0,0,0,,Even now you show compassion.
-Dialogue: 0,0:02:27.20,0:02:30.58,Dubtitles,,0,0,0,,Jojo, I've been a devil,\Nbut grant me this one wish.
-Dialogue: 0,0:02:30.66,0:02:34.66,Dubtitles,,0,0,0,,allow me to do the right\Nthing for once in my life And
-Dialogue: 0,0:02:34.74,0:02:39.60,Dubtitles,,0,0,0,,turn myself in what's this\NI thought once I confronted
-Dialogue: 0,0:02:39.68,0:02:42.92,Dubtitles,,0,0,0,,him he'd fight me tooth and\Nnail like a cornered beast.
-Dialogue: 0,0:02:43.86,0:02:44.69,Dubtitles,,0,0,0,,Jojo,
-Dialogue: 0,0:02:45.12,0:02:47.82,Dubtitles,,0,0,0,,you should be dead in a gutter right? now.
-Dialogue: 0,0:02:48.10,0:02:51.69,Dubtitles,,0,0,0,,I must distract him long enough\Nwith a knife and mask to find
-Dialogue: 0,0:02:51.82,0:02:52.65,Dubtitles,,0,0,0,,their mark.
-Dialogue: 0,0:02:52.73,0:02:54.34,Dubtitles,,0,0,0,,My wicked deeds gnaw at me.
-Dialogue: 0,0:02:54.54,0:02:59.42,Dubtitles,,0,0,0,,The poverty I Knew as a child ate away at\Nmy moral compass until greed was all that
-Dialogue: 0,0:02:59.82,0:03:00.65,Dubtitles,,0,0,0,,remained.
-Dialogue: 0,0:03:00.73,0:03:01.84,Dubtitles,,0,0,0,,I'm the lowest of the low.
-Dialogue: 0,0:03:02.06,0:03:06.28,Dubtitles,,0,0,0,,Your father took me in off the street\Nand I repaid his kindness with poison.
-Dialogue: 0,0:03:06.36,0:03:09.42,Dubtitles,,0,0,0,,The only reason I came back\Nwas to surrender myself.
-Dialogue: 0,0:03:09.80,0:03:13.60,Dubtitles,,0,0,0,,If I'd wanted to flee, You never\Nwould have laid eyes on me again.
-Dialogue: 0,0:03:13.68,0:03:14.88,Dubtitles,,0,0,0,,I see your point.
-Dialogue: 0,0:03:15.52,0:03:17.68,Dubtitles,,0,0,0,,Please allow me to make amends.
+Dialogue: 0,0:02:21.32,0:02:23.62,Dubtitles,,0,0,0,,Even now, you show compassion.
+Dialogue: 0,0:02:26.82,0:02:30.66,Dubtitles,,0,0,0,,Jojo, I've been a devil,\Nbut grant me this one wish.
+Dialogue: 0,0:02:31.30,0:02:35.88,Dubtitles,,0,0,0,,Allow me to do the right thing for\Nonce in my life and turn myself in.
+Dialogue: 0,0:02:36.78,0:02:37.61,Dubtitles,,0,0,0,,What's this?
+Dialogue: 0,0:02:38.00,0:02:42.94,Dubtitles,,0,0,0,,I thought once I confronted him, he'd fight\Nme tooth and nail like a cornered beast.
+Dialogue: 0,0:02:44.60,0:02:47.70,Dubtitles,,0,0,0,,Jojo, you should be dead\Nin a gutter right now.
+Dialogue: 0,0:02:47.78,0:02:52.07,Dubtitles,,0,0,0,,I must distract him long enough for\Nthe knife and mask to find their mark
+Dialogue: 0,0:02:52.46,0:02:54.34,Dubtitles,,0,0,0,,My wicked deeds gnaw at me.
+Dialogue: 0,0:02:54.50,0:02:57.06,Dubtitles,,0,0,0,,The poverty I knew as\Na child ate away at my
+Dialogue: 0,0:02:57.14,0:02:59.91,Dubtitles,,0,0,0,,moral compass until greed\Nwas all that remained
+Dialogue: 0,0:03:00.34,0:03:01.87,Dubtitles,,0,0,0,,I'm the lowest of the low.
+Dialogue: 0,0:03:02.04,0:03:03.88,Dubtitles,,0,0,0,,Your father took me in off the street,
+Dialogue: 0,0:03:03.96,0:03:08.42,Dubtitles,,0,0,0,,and I repaid his kindness with poison\NThe only reason I came back was to
+Dialogue: 0,0:03:08.50,0:03:13.42,Dubtitles,,0,0,0,,surrender myself If I'd wanted to flee you\Nnever would have laid eyes on me again.
+Dialogue: 0,0:03:13.62,0:03:14.90,Dubtitles,,0,0,0,,I see your point
+Dialogue: 0,0:03:15.48,0:03:17.68,Dubtitles,,0,0,0,,Please allow me to make amends.
 Dialogue: 0,0:03:18.40,0:03:19.23,Dubtitles,,0,0,0,,Deal.
 Dialogue: 0,0:03:19.31,0:03:20.63,Dubtitles,,0,0,0,,Look alive, Master Joestar.
-Dialogue: 0,0:03:20.98,0:03:23.39,Dubtitles,,0,0,0,,He's trying to lure you in like he's not.
-Dialogue: 0,0:03:24.30,0:03:27.30,Dubtitles,,0,0,0,,Right about now, you're\Nprobably wondering who I am.
-Dialogue: 0,0:03:27.38,0:03:28.91,Dubtitles,,0,0,0,,Allow me to elucidate you.
-Dialogue: 0,0:03:29.26,0:03:31.90,Dubtitles,,0,0,0,,The name is Robert E .O. Speedwagon.
-Dialogue: 0,0:03:32.16,0:03:35.32,Dubtitles,,0,0,0,,I had a hunch Jonathan's run\Nof trouble might not be done,
-Dialogue: 0,0:03:35.40,0:03:36.72,Dubtitles,,0,0,0,,so I followed him back home.
-Dialogue: 0,0:03:36.80,0:03:41.56,Dubtitles,,0,0,0,,I like you, Jonathan, so I'm going to\Noffer up this little tidbit pro bono.
-Dialogue: 0,0:03:41.74,0:03:42.98,Dubtitles,,0,0,0,,Living in the gutter,
-Dialogue: 0,0:03:43.12,0:03:46.72,Dubtitles,,0,0,0,,you learn to spot lowlights pretty\Nquick if you want to see tomorrow.
-Dialogue: 0,0:03:46.80,0:03:51.22,Dubtitles,,0,0,0,,I've trained my nose to sort out the bad\Nones from the good just from a sniff.
-Dialogue: 0,0:03:51.30,0:03:56.18,Dubtitles,,0,0,0,,This Fool reeks of brimstone and blood\Nworse than anyone I've ever laid eyes on.
-Dialogue: 0,0:03:56.56,0:04:00.04,Dubtitles,,0,0,0,,He is pure evil, right\Ndown to his very bones.
-Dialogue: 0,0:04:00.50,0:04:03.24,Dubtitles,,0,0,0,,Is he a victim of\Ncircumstance, you're wondering?
-Dialogue: 0,0:04:03.32,0:04:04.28,Dubtitles,,0,0,0,,Not on your life!
-Dialogue: 0,0:04:04.36,0:04:07.14,Dubtitles,,0,0,0,,He's been evil since he\Ndrew his first breath.
-Dialogue: 0,0:04:08.88,0:04:13.34,Dubtitles,,0,0,0,,But don't you fret, because I\Nbrought you a friend. Remember him?
-Dialogue: 0,0:04:15.22,0:04:18.99,Dubtitles,,0,0,0,,This man confessed to selling you\Nthe poison you used on Father.
-Dialogue: 0,0:04:20.40,0:04:21.58,Dubtitles,,0,0,0,,I've heard enough.
-Dialogue: 0,0:04:23.34,0:04:24.84,Dubtitles,,0,0,0,,You break my heart.
-Dialogue: 0,0:04:26.36,0:04:31.48,Dubtitles,,0,0,0,,Why, dear, from the day you arrived, I have\Nloved you as though you were my own son.
-Dialogue: 0,0:04:33.80,0:04:38.90,Dubtitles,,0,0,0,,Father, you're too weak to be down here.\NYou're right. I'll return to my chamber.
-Dialogue: 0,0:04:40.40,0:04:43.80,Dubtitles,,0,0,0,,I don't want to see my\Nboy in chains do what
-Dialogue: 0,0:04:43.88,0:04:48.94,Dubtitles,,0,0,0,,you must Jojo i will is\Nthis how it all ends?
-Dialogue: 0,0:04:49.02,0:04:52.90,Dubtitles,,0,0,0,,He won't see the inside\Nof a cell this night i
-Dialogue: 0,0:04:52.98,0:04:56.10,Dubtitles,,0,0,0,,read his face and the\Ntrio of moors on his ear.
-Dialogue: 0,0:04:56.80,0:04:59.66,Dubtitles,,0,0,0,,The devil smiles on him\Nand grants him luck.
-Dialogue: 0,0:05:02.66,0:05:06.56,Dubtitles,,0,0,0,,Jojo, I want you to be the\None to put the cuffs on me.
-Dialogue: 0,0:05:07.04,0:05:08.40,Dubtitles,,0,0,0,,Please, brother.
-Dialogue: 0,0:05:09.42,0:05:10.25,Dubtitles,,0,0,0,,All right.
-Dialogue: 0,0:05:11.62,0:05:14.02,Dubtitles,,0,0,0,,Be careful, he's a crafty one.
-Dialogue: 0,0:05:14.42,0:05:18.62,Dubtitles,,0,0,0,,Jojo, it was hubris that led\Nme to this ignominious end.
-Dialogue: 0,0:05:20.00,0:05:22.68,Dubtitles,,0,0,0,,This fall from grace has taught me well.
-Dialogue: 0,0:05:23.24,0:05:26.24,Dubtitles,,0,0,0,,However one may scheme and dissemble,
-Dialogue: 0,0:05:26.32,0:05:29.50,Dubtitles,,0,0,0,,my downfall this night is\Npart of the human condition.
-Dialogue: 0,0:05:29.82,0:05:32.50,Dubtitles,,0,0,0,,A condition I now forsake.
+Dialogue: 0,0:03:21.00,0:03:23.41,Dubtitles,,0,0,0,,He's trying to lure you in like he's not.
+Dialogue: 0,0:03:24.30,0:03:27.28,Dubtitles,,0,0,0,,Right about now, you're\Nprobably wondering who I am.
+Dialogue: 0,0:03:27.36,0:03:28.89,Dubtitles,,0,0,0,,Allow me to elucidate you.
+Dialogue: 0,0:03:29.24,0:03:31.92,Dubtitles,,0,0,0,,The name is Robert E .O. Speedwagon.
+Dialogue: 0,0:03:32.16,0:03:35.30,Dubtitles,,0,0,0,,I had a hunch Jonathan's run\Nof trouble might not be done,
+Dialogue: 0,0:03:35.38,0:03:37.03,Dubtitles,,0,0,0,,so I followed him back home.
+Dialogue: 0,0:03:37.16,0:03:41.48,Dubtitles,,0,0,0,,I like you, Jonathan, so I'm going to\Noffer up this little tidbit pro bono.
+Dialogue: 0,0:03:41.56,0:03:42.92,Dubtitles,,0,0,0,,Living in the gutter,
+Dialogue: 0,0:03:43.10,0:03:46.80,Dubtitles,,0,0,0,,you learn to spot lowlights pretty\Nquick if you want to see tomorrow.
+Dialogue: 0,0:03:46.88,0:03:51.22,Dubtitles,,0,0,0,,I've trained my nose to sort out the bad\Nones from the good just from a sniff.
+Dialogue: 0,0:03:51.30,0:03:56.16,Dubtitles,,0,0,0,,This fella reeks of brimstone and blood\Nworse than anyone I've ever laid eyes on.
+Dialogue: 0,0:03:56.50,0:04:00.04,Dubtitles,,0,0,0,,He is pure evil, right\Ndown to his very bones.
+Dialogue: 0,0:04:00.58,0:04:03.22,Dubtitles,,0,0,0,,Is he a victim of\Ncircumstance, you're wondering?
+Dialogue: 0,0:04:03.30,0:04:04.36,Dubtitles,,0,0,0,,Not on your life!
+Dialogue: 0,0:04:04.60,0:04:07.31,Dubtitles,,0,0,0,,He's been evil since he\Ndrew his first breath.
+Dialogue: 0,0:04:08.94,0:04:13.36,Dubtitles,,0,0,0,,But don't you fret, because I\Nbrought you a friend, and never him!
+Dialogue: 0,0:04:15.28,0:04:19.05,Dubtitles,,0,0,0,,This man confessed to selling you\Nthe poison you used on Father.
+Dialogue: 0,0:04:20.46,0:04:21.58,Dubtitles,,0,0,0,,I've heard enough.
+Dialogue: 0,0:04:23.40,0:04:24.84,Dubtitles,,0,0,0,,You break my heart.
+Dialogue: 0,0:04:26.44,0:04:31.50,Dubtitles,,0,0,0,,Why, dear, from the day you arrived, I have\Nloved you as though you were my own son.
+Dialogue: 0,0:04:33.84,0:04:35.96,Dubtitles,,0,0,0,,Father, you're too weak to be down here.
+Dialogue: 0,0:04:36.04,0:04:36.87,Dubtitles,,0,0,0,,You're right.
+Dialogue: 0,0:04:37.18,0:04:38.90,Dubtitles,,0,0,0,,I'll return to my chamber.
+Dialogue: 0,0:04:40.32,0:04:42.68,Dubtitles,,0,0,0,,I don't want to see my boy in chains.
+Dialogue: 0,0:04:43.22,0:04:46.00,Dubtitles,,0,0,0,,Do what you must, Jojo. I will.
+Dialogue: 0,0:04:47.06,0:04:49.00,Dubtitles,,0,0,0,,Is this how it all ends?
+Dialogue: 0,0:04:49.30,0:04:52.18,Dubtitles,,0,0,0,,He won't see the inside\Nof a cell this night.
+Dialogue: 0,0:04:52.54,0:04:56.10,Dubtitles,,0,0,0,,I read his face and the\Ntrio of moors on his ear.
+Dialogue: 0,0:04:56.40,0:04:59.66,Dubtitles,,0,0,0,,The devil smiles on him\Nand grants him luck.
+Dialogue: 0,0:05:02.74,0:05:08.42,Dubtitles,,0,0,0,,Jojo, I want you to be the one to\Nput the cuffs on me. Please, brother.
+Dialogue: 0,0:05:09.06,0:05:09.94,Dubtitles,,0,0,0,,All right
+Dialogue: 0,0:05:11.70,0:05:12.72,Dubtitles,,0,0,0,,Be careful,
+Dialogue: 0,0:05:12.98,0:05:18.62,Dubtitles,,0,0,0,,He's a crafty one, Jojo. It was hubris\Nthat led me to this ignominious end.
+Dialogue: 0,0:05:20.08,0:05:22.70,Dubtitles,,0,0,0,,This fall from grace has taught me well
+Dialogue: 0,0:05:23.28,0:05:27.08,Dubtitles,,0,0,0,,However one may scheme\Nand assemble My downfall
+Dialogue: 0,0:05:27.16,0:05:29.57,Dubtitles,,0,0,0,,this night is part of the human condition
+Dialogue: 0,0:05:29.82,0:05:32.50,Dubtitles,,0,0,0,,a condition I now forsake.
 Dialogue: 0,0:05:32.68,0:05:34.62,Dubtitles,,0,0,0,,Wait, forsake? What do you mean?
-Dialogue: 0,0:05:34.90,0:05:38.88,Dubtitles,,0,0,0,,You see, I am about to\Nbecome so much more!
+Dialogue: 0,0:05:34.84,0:05:38.84,Dubtitles,,0,0,0,,You see, I am about to\Nbecome so much more!
 Dialogue: 0,0:05:40.20,0:05:42.42,Dubtitles,,0,0,0,,Help me shed this mortal skin!
 Dialogue: 0,0:05:42.84,0:05:44.42,Dubtitles,,0,0,0,,Mother's mask? But how?
-Dialogue: 0,0:05:44.78,0:05:45.72,Dubtitles,,0,0,0,,Watch out!
+Dialogue: 0,0:05:44.78,0:05:45.70,Dubtitles,,0,0,0,,Watch out!
 Dialogue: 0,0:05:45.98,0:05:47.10,Dubtitles,,0,0,0,,Fire at will, man!
 Dialogue: 0,0:05:47.22,0:05:49.26,Dubtitles,,0,0,0,,Jojo, your blood is the key!
-Dialogue: 0,0:05:55.40,0:05:56.84,Dubtitles,,0,0,0,,Oh, my God!
-Dialogue: 0,0:05:57.50,0:05:58.38,Dubtitles,,0,0,0,,Fulver!
+Dialogue: 0,0:05:55.18,0:05:56.78,Dubtitles,,0,0,0,,Oh my god!
+Dialogue: 0,0:05:56.86,0:05:58.36,Dubtitles,,0,0,0,,FATHER!
 Dialogue: 1,0:06:09.64,0:06:09.68,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord10.7\fscx154.53\fscy118.87\frz17.33\pos(1883.88,503.75)\3c&HA55366&\c&HA55366&}Fwoom
 Dialogue: 2,0:06:09.64,0:06:09.68,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord0\fscx154.53\fscy118.87\frz17.33\pos(1883.88,503.75)\c&HEE84ED&\4a&HFF&}Fwoom
 Dialogue: 1,0:06:09.68,0:06:09.72,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord10.47\fscx151.26\fscy116.35\frz17.33\pos(1874.06,509.91)\c&H390A4B&}Fwoom
@@ -172,11 +166,11 @@ Dialogue: 1,0:06:09.72,0:06:09.77,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord10.5\fscx1
 Dialogue: 2,0:06:09.72,0:06:09.77,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord0\fscx151.72\fscy116.71\frz17.33\pos(1822.29,458.48)\4a&HFF&}Fwoom
 Dialogue: 1,0:06:09.77,0:06:09.81,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord10.19\fscx147.21\fscy113.24\frz17.33\pos(1856.04,512.23)\c&H390A4B&}Fwoom
 Dialogue: 2,0:06:09.77,0:06:09.81,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord0\fscx147.21\fscy113.24\frz17.33\pos(1856.04,512.23)\4a&HFF&}Fwoom
-Dialogue: 0,0:06:09.78,0:06:11.34,Dubtitles,,0,0,0,,Shoot that maniac!
 Dialogue: 1,0:06:09.81,0:06:09.85,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord9.9\fscx143.06\fscy110.05\frz17.33\pos(1806.3,465.48)\c&H390A4B&}Fwoom
 Dialogue: 2,0:06:09.81,0:06:09.85,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord0\fscx143.06\fscy110.05\frz17.33\pos(1806.3,465.48)\4a&HFF&}Fwoom
 Dialogue: 1,0:06:09.85,0:06:09.89,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord9.9\fscx143.06\fscy110.05\frz17.33\pos(1814.81,488.59)\c&H390A4B&}Fwoom
 Dialogue: 2,0:06:09.85,0:06:09.89,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord0\fscx143.06\fscy110.05\frz17.33\pos(1814.81,488.59)\4a&HFF&}Fwoom
+Dialogue: 0,0:06:09.86,0:06:11.34,Dubtitles,,0,0,0,,Shoot that maniac!
 Dialogue: 1,0:06:09.89,0:06:09.93,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord10.06\fscx145.36\fscy111.81\frz17.33\pos(1817.44,483.22)\c&H390A4B&}Fwoom
 Dialogue: 2,0:06:09.89,0:06:09.93,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord0\fscx145.36\fscy111.81\frz17.33\pos(1817.44,483.22)\4a&HFF&}Fwoom
 Dialogue: 1,0:06:09.93,0:06:09.97,SFXPurp,1,0,0,0,,{=27}{\blur1.2\bord10.06\fscx145.36\fscy111.81\frz17.33\pos(1835.69,502.68)\c&H390A4B&}Fwoom
@@ -287,86 +281,84 @@ Dialogue: 1,0:06:13.10,0:06:13.14,SFXOang,2,0,0,0,,{=4}{\blur0.6\frz2.655\pos(43
 Dialogue: 2,0:06:13.10,0:06:13.14,SFXOang,2,0,0,0,,{=4}{\bord0\blur0.6\frz2.655\pos(433.03,31.21)\4a&HFF&}Bang Bang Bang
 Dialogue: 1,0:06:13.14,0:06:13.19,SFXOang,2,0,0,0,,{=4}{\blur0.6\frz2.655\pos(435.95,73.33)\c&H02080B&}Bang Bang Bang
 Dialogue: 2,0:06:13.14,0:06:13.19,SFXOang,2,0,0,0,,{=4}{\bord0\blur0.6\frz2.655\pos(435.95,73.33)\4a&HFF&}Bang Bang Bang
-Dialogue: 0,0:06:27.52,0:06:28.35,Dubtitles,,0,0,0,,Jojo.
-Dialogue: 0,0:06:29.76,0:06:30.59,Dubtitles,,0,0,0,,Father.
-Dialogue: 0,0:06:32.64,0:06:34.20,Dubtitles,,0,0,0,,This is all my fault.
+Dialogue: 0,0:06:28.18,0:06:29.01,Dubtitles,,0,0,0,,Jojo...
+Dialogue: 0,0:06:31.10,0:06:31.93,Dubtitles,,0,0,0,,Father...
+Dialogue: 0,0:06:32.68,0:06:34.20,Dubtitles,,0,0,0,,This is all my fault.
 Dialogue: 0,0:06:34.44,0:06:36.32,Dubtitles,,0,0,0,,I should have blocked his knife.
-Dialogue: 0,0:06:36.70,0:06:37.64,Dubtitles,,0,0,0,,The mask.
-Dialogue: 0,0:06:37.84,0:06:39.50,Dubtitles,,0,0,0,,When I saw it, I froze up.
-Dialogue: 0,0:06:40.00,0:06:41.72,Dubtitles,,0,0,0,,And you paid the price.
-Dialogue: 0,0:06:45.20,0:06:46.42,Dubtitles,,0,0,0,,Take this ring.
-Dialogue: 0,0:06:48.00,0:06:49.98,Dubtitles,,0,0,0,,It was your mother's, Jojo.
-Dialogue: 0,0:06:51.20,0:06:52.03,Dubtitles,,0,0,0,,Father.
-Dialogue: 0,0:06:53.10,0:06:53.93,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:06:54.04,0:06:56.20,Dubtitles,,0,0,0,,Ain't a doctor on Earth who can fix that.
-Dialogue: 0,0:06:56.28,0:06:58.18,Dubtitles,,0,0,0,,How'd that devil get the drop on us?
-Dialogue: 0,0:06:58.26,0:06:59.34,Dubtitles,,0,0,0,,It's all my fault!
-Dialogue: 0,0:06:59.42,0:07:02.13,Dubtitles,,0,0,0,,If only I hadn't listened\Nto you, Sir Joestar!
-Dialogue: 0,0:07:03.26,0:07:07.08,Dubtitles,,0,0,0,,If I had run his father out of town\Nyears ago like I'd have mind to,
-Dialogue: 0,0:07:07.16,0:07:10.88,Dubtitles,,0,0,0,,none of this would have taken\Nplace! Hold on. Whose father?
-Dialogue: 0,0:07:11.94,0:07:14.00,Dubtitles,,0,0,0,,Back when I first joined the Force,
-Dialogue: 0,0:07:14.14,0:07:16.28,Dubtitles,,0,0,0,,there was a ne 'er-do-well\Nwho tried to pawn
+Dialogue: 0,0:06:36.64,0:06:39.50,Dubtitles,,0,0,0,,The mosque, when I saw it, I froze up.
+Dialogue: 0,0:06:40.06,0:06:41.72,Dubtitles,,0,0,0,,And you paid the price.
+Dialogue: 0,0:06:45.24,0:06:46.42,Dubtitles,,0,0,0,,Take this ring.
+Dialogue: 0,0:06:48.02,0:06:50.00,Dubtitles,,0,0,0,,It was your mother's, Jojo.
+Dialogue: 0,0:06:51.76,0:06:52.59,Dubtitles,,0,0,0,,Father...
+Dialogue: 0,0:06:53.02,0:06:53.85,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:06:54.12,0:06:55.94,Dubtitles,,0,0,0,,Ain't a doctor on earth who can fix that.
+Dialogue: 0,0:06:56.02,0:06:58.16,Dubtitles,,0,0,0,,How'd that devil get the drop on us?
+Dialogue: 0,0:06:58.28,0:06:59.34,Dubtitles,,0,0,0,,It's all my fault.
+Dialogue: 0,0:06:59.42,0:07:02.13,Dubtitles,,0,0,0,,If only I hadn't listened\Nto you, Sir Joestar.
+Dialogue: 0,0:07:03.24,0:07:07.16,Dubtitles,,0,0,0,,If I had run his father out of town\Nyears ago like I'd have mind to,
+Dialogue: 0,0:07:07.24,0:07:10.88,Dubtitles,,0,0,0,,none of this would have taken\Nplace. Hold on. Whose father?
+Dialogue: 0,0:07:11.92,0:07:13.98,Dubtitles,,0,0,0,,Back when I first joined the Force,
+Dialogue: 0,0:07:14.18,0:07:16.28,Dubtitles,,0,0,0,,there was a ne 'er-do-well\Nwho tried to pawn
 Dialogue: 0,0:07:16.36,0:07:19.28,Dubtitles,,0,0,0,,that very ring you now\Nsee on Joestar's finger.
-Dialogue: 0,0:07:19.90,0:07:23.90,Dubtitles,,0,0,0,,The suspect was Dio's\Nbirth father, Dario Brando.
-Dialogue: 0,0:07:25.70,0:07:27.82,Dubtitles,,0,0,0,,It's mine, of that there's no doubt.
-Dialogue: 0,0:07:28.24,0:07:32.04,Dubtitles,,0,0,0,,My late wife and I had them\Nmade to celebrate our betrothal.
-Dialogue: 0,0:07:32.34,0:07:36.58,Dubtitles,,0,0,0,,A local cut purse by the name of\NDario Brando was trying to sell it.
-Dialogue: 0,0:07:38.02,0:07:39.20,Dubtitles,,0,0,0,,Can it be?
-Dialogue: 0,0:07:39.98,0:07:44.52,Dubtitles,,0,0,0,,Sir Joestar thought he owed his life\Nto Dario, but he was sadly mistaken.
+Dialogue: 0,0:07:20.02,0:07:23.90,Dubtitles,,0,0,0,,The suspect was Dio's\Nbirth father, Dario Brando.
+Dialogue: 0,0:07:26.02,0:07:28.14,Dubtitles,,0,0,0,,It's mine, of that there's no doubt.
+Dialogue: 0,0:07:28.28,0:07:32.04,Dubtitles,,0,0,0,,My late wife and I had them\Nmade to celebrate our betrothal.
+Dialogue: 0,0:07:32.40,0:07:36.58,Dubtitles,,0,0,0,,A local cut purse by the name of\NDario Brando was trying to sell it.
+Dialogue: 0,0:07:38.02,0:07:39.18,Dubtitles,,0,0,0,,Can it be?
+Dialogue: 0,0:07:40.02,0:07:44.50,Dubtitles,,0,0,0,,Sir Joestar thought he owed his life\Nto Dario, but he was sadly mistaken.
 Dialogue: 0,0:07:45.36,0:07:47.74,Dubtitles,,0,0,0,,Dario hadn't scrambled down to the mangled
-Dialogue: 0,0:07:47.82,0:07:50.36,Dubtitles,,0,0,0,,carriage that fateful night\Nto look for survivors,
-Dialogue: 0,0:07:50.44,0:07:52.56,Dubtitles,,0,0,0,,but to root for ill-gotten riches.
-Dialogue: 0,0:07:54.26,0:07:55.56,Dubtitles,,0,0,0,,You stay back!
-Dialogue: 0,0:07:56.82,0:07:59.34,Dubtitles,,0,0,0,,This man, what has he said, Inspector?
-Dialogue: 0,0:07:59.88,0:08:02.59,Dubtitles,,0,0,0,,Did he ever tell you\Nthat I gave him the ring?
+Dialogue: 0,0:07:47.82,0:07:50.38,Dubtitles,,0,0,0,,carriage that fateful night\Nto look for survivors,
+Dialogue: 0,0:07:50.46,0:07:52.56,Dubtitles,,0,0,0,,but to root for ill-gotten riches.
+Dialogue: 0,0:07:54.22,0:07:55.56,Dubtitles,,0,0,0,,You stay back!
+Dialogue: 0,0:07:56.86,0:07:59.36,Dubtitles,,0,0,0,,This man, what has he said, Inspector?
+Dialogue: 0,0:07:59.92,0:08:02.63,Dubtitles,,0,0,0,,Did he ever tell you\Nthat I gave him the ring?
 Dialogue: 0,0:08:02.74,0:08:04.54,Dubtitles,,0,0,0,,Aye, he swore up and down.
-Dialogue: 0,0:08:04.76,0:08:05.90,Dubtitles,,0,0,0,,You filthy liar!
-Dialogue: 0,0:08:06.16,0:08:07.90,Dubtitles,,0,0,0,,He swore with good reason.
-Dialogue: 0,0:08:08.26,0:08:10.62,Dubtitles,,0,0,0,,I gave him the ring, just as he told you.
-Dialogue: 0,0:08:10.70,0:08:12.29,Dubtitles,,0,0,0,,You have got to be kidding!
-Dialogue: 0,0:08:13.50,0:08:14.60,Dubtitles,,0,0,0,,He is innocent.
-Dialogue: 0,0:08:15.04,0:08:17.12,Dubtitles,,0,0,0,,Let him go at once, Inspector.
-Dialogue: 0,0:08:17.58,0:08:19.84,Dubtitles,,0,0,0,,But, sir, this man stole from you.
-Dialogue: 0,0:08:20.02,0:08:24.84,Dubtitles,,0,0,0,,But for Providence's hand in my life,\NI might as well have done the same.
-Dialogue: 0,0:08:27.14,0:08:30.66,Dubtitles,,0,0,0,,Sell this ring, if you may ease\Nyour family's burden by it.
-Dialogue: 0,0:08:31.66,0:08:35.54,Dubtitles,,0,0,0,,Walk an honest path henceforth,\Nand I give it gladly.
-Dialogue: 0,0:08:37.86,0:08:40.64,Dubtitles,,0,0,0,,He knew he didn't owe Dario a damn thing.
-Dialogue: 0,0:08:40.72,0:08:43.00,Dubtitles,,0,0,0,,And he took Dio in all the same.
-Dialogue: 0,0:08:43.08,0:08:45.32,Dubtitles,,0,0,0,,Father, hang on.
-Dialogue: 0,0:08:45.40,0:08:47.56,Dubtitles,,0,0,0,,The doctor's on his way now.
-Dialogue: 0,0:08:48.94,0:08:51.50,Dubtitles,,0,0,0,,Jojo, don't hate Dio for what he's done.
-Dialogue: 0,0:08:51.58,0:08:53.84,Dubtitles,,0,0,0,,I am to blame for this.
-Dialogue: 0,0:08:54.88,0:08:56.36,Dubtitles,,0,0,0,,I was hard on you.
-Dialogue: 0,0:08:56.44,0:08:58.40,Dubtitles,,0,0,0,,Because you were a Joestar.
-Dialogue: 0,0:08:58.48,0:09:00.88,Dubtitles,,0,0,0,,I went too easy on Dio.
-Dialogue: 0,0:09:00.96,0:09:03.24,Dubtitles,,0,0,0,,And he might have felt I didn't care.
-Dialogue: 0,0:09:04.20,0:09:07.52,Dubtitles,,0,0,0,,Perhaps he did this for\Nwant of a father's love.
-Dialogue: 0,0:09:08.28,0:09:09.11,Dubtitles,,0,0,0,,Please.
-Dialogue: 0,0:09:09.19,0:09:10.88,Dubtitles,,0,0,0,,See that he's buried.
-Dialogue: 0,0:09:10.96,0:09:12.70,Dubtitles,,0,0,0,,Next to Dario.
-Dialogue: 0,0:09:14.50,0:09:15.33,Dubtitles,,0,0,0,,Father.
-Dialogue: 0,0:09:19.06,0:09:21.20,Dubtitles,,0,0,0,,Don't look so sad, Jojo.
-Dialogue: 0,0:09:21.28,0:09:26.82,Dubtitles,,0,0,0,,We're better to die Than\Nin the arms Of my son.
-Dialogue: 0,0:09:33.84,0:09:35.04,Dubtitles,,0,0,0,,The Joestar!
+Dialogue: 0,0:08:04.80,0:08:05.90,Dubtitles,,0,0,0,,You filthy liar.
+Dialogue: 0,0:08:06.20,0:08:07.90,Dubtitles,,0,0,0,,He swore with good reason.
+Dialogue: 0,0:08:08.26,0:08:10.61,Dubtitles,,0,0,0,,I gave him the ring just as he told you.
+Dialogue: 0,0:08:10.70,0:08:12.29,Dubtitles,,0,0,0,,You have got to be kidding.
+Dialogue: 0,0:08:13.52,0:08:14.60,Dubtitles,,0,0,0,,He is innocent.
+Dialogue: 0,0:08:15.16,0:08:17.12,Dubtitles,,0,0,0,,Let him go at once, Inspector.
+Dialogue: 0,0:08:17.60,0:08:19.84,Dubtitles,,0,0,0,,But, sir, this man stole from you.
+Dialogue: 0,0:08:20.06,0:08:24.84,Dubtitles,,0,0,0,,But for Providence's hand in my life,\NI might as well have done the same.
+Dialogue: 0,0:08:27.06,0:08:30.66,Dubtitles,,0,0,0,,Sell this ring, if you may ease\Nyour family's burden by it.
+Dialogue: 0,0:08:31.58,0:08:35.54,Dubtitles,,0,0,0,,Walk an honest path henceforth,\Nand I give it gladly.
+Dialogue: 0,0:08:37.84,0:08:43.02,Dubtitles,,0,0,0,,He knew he didn't owe Dario a damn\Nthing, and he took Dio in all the same.
+Dialogue: 0,0:08:44.30,0:08:45.38,Dubtitles,,0,0,0,,Father, hang on.
+Dialogue: 0,0:08:45.72,0:08:47.52,Dubtitles,,0,0,0,,The doctor's on his way now.
+Dialogue: 0,0:08:48.82,0:08:51.58,Dubtitles,,0,0,0,,Jojo, don't hate Dio for what he's done.
+Dialogue: 0,0:08:51.94,0:08:53.82,Dubtitles,,0,0,0,,I am to blame for this.
+Dialogue: 0,0:08:54.86,0:08:58.48,Dubtitles,,0,0,0,,I was hard on you, because\Nyou were a Joestar.
+Dialogue: 0,0:08:59.24,0:09:03.22,Dubtitles,,0,0,0,,I went too easy on Dio, and he\Nmight have felt I didn't care.
+Dialogue: 0,0:09:04.52,0:09:07.52,Dubtitles,,0,0,0,,Perhaps he did this for\Nwant of a father's love.
+Dialogue: 0,0:09:09.10,0:09:12.68,Dubtitles,,0,0,0,,Please, see that he's buried next to Dio.
+Dialogue: 0,0:09:15.52,0:09:16.35,Dubtitles,,0,0,0,,Father...
+Dialogue: 0,0:09:19.22,0:09:21.24,Dubtitles,,0,0,0,,Don't look so sad, Jojo.
+Dialogue: 0,0:09:21.62,0:09:23.14,Dubtitles,,0,0,0,,We're better to die.
+Dialogue: 0,0:09:23.82,0:09:24.92,Dubtitles,,0,0,0,,Than in the arms...
+Dialogue: 0,0:09:25.00,0:09:26.78,Dubtitles,,0,0,0,,of my... son.
+Dialogue: 0,0:09:33.86,0:09:35.06,Dubtitles,,0,0,0,,Lord Joestar!
 Dialogue: 0,0:09:37.56,0:09:39.66,Dubtitles,,0,0,0,,We have lost much this night.
-Dialogue: 0,0:09:40.46,0:09:44.24,Dubtitles,,0,0,0,,A noble man's soul has\Nbeen taken from the world.
-Dialogue: 0,0:09:44.80,0:09:45.74,Dubtitles,,0,0,0,,You're wrong!
-Dialogue: 0,0:09:46.08,0:09:49.73,Dubtitles,,0,0,0,,All that was good in that man,\Nhe passed it along to Jonathan?
-Dialogue: 0,0:09:49.98,0:09:51.02,Dubtitles,,0,0,0,,every bit of it!
-Dialogue: 0,0:09:51.48,0:09:55.00,Dubtitles,,0,0,0,,You can be sure, Jojo's\Ngonna live an upright life?
-Dialogue: 0,0:09:55.12,0:09:56.94,Dubtitles,,0,0,0,,using what his father gave him.
-Dialogue: 0,0:09:57.64,0:09:59.00,Dubtitles,,0,0,0,,Rich folks are rubbish.
-Dialogue: 0,0:09:59.30,0:10:03.16,Dubtitles,,0,0,0,,Watching them flounce around, I wanna throw\Nthe whole lot of them into the Thames.
-Dialogue: 0,0:10:03.24,0:10:05.32,Dubtitles,,0,0,0,,But not the Joestars.
-Dialogue: 0,0:10:05.86,0:10:11.04,Dubtitles,,0,0,0,,The heroic and merciful and just the\Nwhole damn lot are giants among men.
-Dialogue: 0,0:10:13.84,0:10:15.06,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:10:15.44,0:10:16.34,Dubtitles,,0,0,0,,The body!
-Dialogue: 0,0:10:16.92,0:10:18.28,Dubtitles,,0,0,0,,Dio's corpse, it...
-Dialogue: 0,0:10:18.36,0:10:19.42,Dubtitles,,0,0,0,,It vanished!
-Dialogue: 0,0:10:21.68,0:10:22.60,Dubtitles,,0,0,0,,Oi, Grip!
-Dialogue: 0,0:10:23.08,0:10:24.32,Dubtitles,,0,0,0,,Away from the window!
-Dialogue: 0,0:10:45.52,0:10:46.48,Dubtitles,,0,0,0,,The inspector!
-Dialogue: 0,0:10:48.52,0:10:50.28,Dubtitles,,0,0,0,,No, that's impossible.
+Dialogue: 0,0:09:40.62,0:09:42.30,Dubtitles,,0,0,0,,A nobleman's soul...
+Dialogue: 0,0:09:42.38,0:09:44.24,Dubtitles,,0,0,0,,has been taken from the world.
+Dialogue: 0,0:09:44.80,0:09:45.70,Dubtitles,,0,0,0,,You're wrong!
+Dialogue: 0,0:09:46.08,0:09:47.85,Dubtitles,,0,0,0,,All that was good in that man!
+Dialogue: 0,0:09:47.94,0:09:49.76,Dubtitles,,0,0,0,,He passed it along to Jonathan!
+Dialogue: 0,0:09:50.06,0:09:51.00,Dubtitles,,0,0,0,,Every bit of it!
+Dialogue: 0,0:09:51.90,0:09:56.86,Dubtitles,,0,0,0,,You can be sure, Jojo's gonna live an\Nupright life, using what his father gave him.
+Dialogue: 0,0:09:57.62,0:09:59.02,Dubtitles,,0,0,0,,Rich folks are rubbish.
+Dialogue: 0,0:09:59.42,0:10:03.48,Dubtitles,,0,0,0,,Watching them flounce around, I want to\Nthrow the whole lot of them into the Thames.
+Dialogue: 0,0:10:03.56,0:10:05.30,Dubtitles,,0,0,0,,But not the Joestars.
+Dialogue: 0,0:10:05.98,0:10:11.04,Dubtitles,,0,0,0,,They're heroic and merciful, and just\Nthe whole damn lot are giants among men.
+Dialogue: 0,0:10:13.96,0:10:15.08,Dubtitles,,0,0,0,,What the hell?
+Dialogue: 0,0:10:15.42,0:10:16.34,Dubtitles,,0,0,0,,The body!
+Dialogue: 0,0:10:16.86,0:10:18.22,Dubtitles,,0,0,0,,Dio's corpse. It...
+Dialogue: 0,0:10:18.30,0:10:19.48,Dubtitles,,0,0,0,,it vanished!
+Dialogue: 0,0:10:21.24,0:10:22.60,Dubtitles,,0,0,0,,Oi, Kappa!
+Dialogue: 0,0:10:23.00,0:10:24.24,Dubtitles,,0,0,0,,Away from the window!
+Dialogue: 0,0:10:36.38,0:10:37.96,Dubtitles,,0,0,0,,Cho-cho!
+Dialogue: 0,0:10:44.90,0:10:46.48,Dubtitles,,0,0,0,,The Inspector!
+Dialogue: 0,0:10:48.00,0:10:50.16,Dubtitles,,0,0,0,,No, that's impossible!
 Dialogue: 1,0:10:49.46,0:10:49.50,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-130,-130,1880,2380)\frz5.427\pos(1757.67,-256.88)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:49.46,0:10:49.50,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-130,-130,1880,2380)\frz5.427\pos(1757.67,-256.88)\c&H352621&}Whoosh
 Dialogue: 3,0:10:49.46,0:10:49.50,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-130,-130,1880,2380)\frz5.427\pos(1757.67,-256.88)\4a&HFF&}Whoosh
@@ -424,6 +416,7 @@ Dialogue: 3,0:10:50.17,0:10:50.21,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255
 Dialogue: 1,0:10:50.21,0:10:50.25,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-880,-880,1130,1630)\frz5.427\pos(1724.31,181.01)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:50.21,0:10:50.25,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-880,-880,1130,1630)\frz5.427\pos(1724.31,181.01)\c&H352621&}Whoosh
 Dialogue: 3,0:10:50.21,0:10:50.25,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-880,-880,1130,1630)\frz5.427\pos(1724.31,181.01)\4a&HFF&}Whoosh
+Dialogue: 0,0:10:50.24,0:10:52.32,Dubtitles,,0,0,0,,How is he alive? It can't be.
 Dialogue: 1,0:10:50.25,0:10:50.30,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-920,-920,1090,1590)\frz5.427\pos(1722.31,202.17)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:50.25,0:10:50.30,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-920,-920,1090,1590)\frz5.427\pos(1722.31,202.17)\c&H352621&}Whoosh
 Dialogue: 3,0:10:50.25,0:10:50.30,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-920,-920,1090,1590)\frz5.427\pos(1722.31,202.17)\4a&HFF&}Whoosh
@@ -454,7 +447,6 @@ Dialogue: 3,0:10:50.59,0:10:50.63,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255
 Dialogue: 1,0:10:50.63,0:10:50.67,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-1290,-1290,720,1220)\frz5.427\pos(1706.07,364.15)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:50.63,0:10:50.67,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-1290,-1290,720,1220)\frz5.427\pos(1706.07,364.15)\c&H352621&}Whoosh
 Dialogue: 3,0:10:50.63,0:10:50.67,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-1290,-1290,720,1220)\frz5.427\pos(1706.07,364.15)\4a&HFF&}Whoosh
-Dialogue: 0,0:10:50.64,0:10:51.58,Dubtitles,,0,0,0,,How is he alive?
 Dialogue: 1,0:10:50.67,0:10:50.71,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-1340,-1340,670,1170)\frz5.427\pos(1704.4,378.75)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:50.67,0:10:50.71,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-1340,-1340,670,1170)\frz5.427\pos(1704.4,378.75)\c&H352621&}Whoosh
 Dialogue: 3,0:10:50.67,0:10:50.71,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-1340,-1340,670,1170)\frz5.427\pos(1704.4,378.75)\4a&HFF&}Whoosh
@@ -533,23 +525,21 @@ Dialogue: 3,0:10:51.67,0:10:51.71,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255
 Dialogue: 1,0:10:51.71,0:10:51.76,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-2380,-2380,-370,130)\frz5.427\pos(1678.85,490.62)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:51.71,0:10:51.76,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-2380,-2380,-370,130)\frz5.427\pos(1678.85,490.62)\c&H352621&}Whoosh
 Dialogue: 3,0:10:51.71,0:10:51.76,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-2380,-2380,-370,130)\frz5.427\pos(1678.85,490.62)\4a&HFF&}Whoosh
-Dialogue: 0,0:10:51.74,0:10:52.57,Dubtitles,,0,0,0,,It can't be.
 Dialogue: 1,0:10:51.76,0:10:51.80,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-2420,-2420,-410,90)\frz5.427\pos(1678.56,485.08)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:51.76,0:10:51.80,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-2420,-2420,-410,90)\frz5.427\pos(1678.56,485.08)\c&H352621&}Whoosh
 Dialogue: 3,0:10:51.76,0:10:51.80,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-2420,-2420,-410,90)\frz5.427\pos(1678.56,485.08)\4a&HFF&}Whoosh
 Dialogue: 1,0:10:51.80,0:10:51.84,SFXBlue,3,0,0,0,,{=24}{\blur3\fade(255,0,255,-2460,-2460,-450,50)\frz5.427\pos(1677.68,479.51)\alpha&H80&}Whoosh
 Dialogue: 2,0:10:51.80,0:10:51.84,SFXBlue,3,0,0,0,,{=24}{\blur0.6\fade(255,0,255,-2460,-2460,-450,50)\frz5.427\pos(1677.68,479.51)\c&H352621&}Whoosh
 Dialogue: 3,0:10:51.80,0:10:51.84,SFXBlue,3,0,0,0,,{=24}{\bord0\blur0.6\fade(255,0,255,-2460,-2460,-450,50)\frz5.427\pos(1677.68,479.51)\4a&HFF&}Whoosh
-Dialogue: 0,0:10:52.65,0:10:54.50,Dubtitles,,0,0,0,,We all filled him full of bullets.
-Dialogue: 0,0:10:54.98,0:10:56.36,Dubtitles,,0,0,0,,Keep your distance, lads.
-Dialogue: 0,0:10:56.44,0:10:57.97,Dubtitles,,0,0,0,,He's armed with something.
-Dialogue: 0,0:11:00.80,0:11:01.96,Dubtitles,,0,0,0,,Was it the mosque?
-Dialogue: 0,0:11:04.30,0:11:05.94,Dubtitles,,0,0,0,,He's coming right at us!
-Dialogue: 0,0:11:06.08,0:11:07.28,Dubtitles,,0,0,0,,What are you waiting for?
-Dialogue: 0,0:11:07.36,0:11:09.48,Dubtitles,,0,0,0,,Hit him with everything you've got left!
-Dialogue: 0,0:11:09.56,0:11:10.84,Dubtitles,,0,0,0,,Come no closer!
-Dialogue: 0,0:11:14.70,0:11:16.22,Dubtitles,,0,0,0,,Not another step!
-Dialogue: 0,0:11:16.40,0:11:17.24,Dubtitles,,0,0,0,,I mean it!
+Dialogue: 0,0:10:52.48,0:10:54.36,Dubtitles,,0,0,0,,We all feel him full of bullets.
+Dialogue: 0,0:10:54.98,0:10:56.34,Dubtitles,,0,0,0,,Keep your distance, lads.
+Dialogue: 0,0:10:56.42,0:10:57.95,Dubtitles,,0,0,0,,He's armed with something.
+Dialogue: 0,0:11:00.80,0:11:01.94,Dubtitles,,0,0,0,,Was it the mask?
+Dialogue: 0,0:11:04.38,0:11:05.94,Dubtitles,,0,0,0,,He's coming right at us!
+Dialogue: 0,0:11:06.08,0:11:07.26,Dubtitles,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:11:07.34,0:11:09.56,Dubtitles,,0,0,0,,Hit him with everything you've got left!
+Dialogue: 0,0:11:09.64,0:11:10.84,Dubtitles,,0,0,0,,Come no closer!
+Dialogue: 0,0:11:14.78,0:11:17.24,Dubtitles,,0,0,0,,Not another step! I mean it!
 Dialogue: 1,0:11:17.99,0:11:18.03,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord1.34\fscx14.48\fscy11.14\frz3.718\pos(958.23,332.47)\c&H000000&}Stare
 Dialogue: 2,0:11:17.99,0:11:18.03,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx14.48\fscy11.14\frz3.718\pos(958.23,332.47)\4a&HFF&}Stare
 Dialogue: 1,0:11:18.03,0:11:18.07,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord7.72\fscx83.68\fscy64.37\frz3.718\pos(949.37,460.26)\c&H000000&}Stare
@@ -574,9 +564,9 @@ Dialogue: 1,0:11:18.41,0:11:18.45,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord13.17\fscx1
 Dialogue: 2,0:11:18.41,0:11:18.45,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx142.7\fscy109.77\frz3.718\pos(947.41,582.66)\4a&HFF&}Stare
 Dialogue: 1,0:11:18.45,0:11:18.49,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord13.27\fscx143.8\fscy110.61\frz3.718\pos(943.35,609.48)\c&H000000&}Stare
 Dialogue: 2,0:11:18.45,0:11:18.49,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx143.8\fscy110.61\frz3.718\pos(943.35,609.48)\4a&HFF&}Stare
+Dialogue: 0,0:11:18.48,0:11:20.26,Dubtitles,,0,0,0,,Blow his brains out now!
 Dialogue: 1,0:11:18.49,0:11:18.53,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord12.26\fscx132.79\fscy102.15\frz3.718\pos(946.74,560.69)\c&H000000&}Stare
 Dialogue: 2,0:11:18.49,0:11:18.53,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx132.79\fscy102.15\frz3.718\pos(946.74,560.69)\4a&HFF&}Stare
-Dialogue: 0,0:11:18.50,0:11:20.28,Dubtitles,,0,0,0,,Blow his brains out now!
 Dialogue: 1,0:11:18.53,0:11:18.57,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord13.44\fscx145.63\fscy112.03\frz3.718\pos(945.26,592.18)\c&H000000&}Stare
 Dialogue: 2,0:11:18.53,0:11:18.57,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx145.63\fscy112.03\frz3.718\pos(945.26,592.18)\4a&HFF&}Stare
 Dialogue: 1,0:11:18.57,0:11:18.62,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord12\fscx130\fscy100\frz3.718\pos(950,586)\c&H000000&}Stare
@@ -590,12 +580,14 @@ Dialogue: 2,0:11:18.70,0:11:18.74,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx148.3
 Dialogue: 1,0:11:18.74,0:11:18.78,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord13.81\fscx149.65\fscy115.12\frz3.718\pos(939.81,639.26)\c&H000000&}Stare
 Dialogue: 2,0:11:18.74,0:11:18.78,SFXBlue2,4,0,0,0,,{=32}{\blur1\bord0\fscx149.65\fscy115.12\frz3.718\pos(939.81,639.26)\4a&HFF&}Stare
 Dialogue: 0,0:11:20.56,0:11:22.44,Dubtitles,,0,0,0,,Do it before he kills us all!
-Dialogue: 0,0:11:51.96,0:11:54.82,Dubtitles,,0,0,0,,Shot him in the head and it\Ndidn't even slow him down.
-Dialogue: 0,0:11:54.90,0:11:56.80,Dubtitles,,0,0,0,,It doesn't make any sense!
-Dialogue: 0,0:11:56.88,0:12:00.42,Dubtitles,,0,0,0,,With all the lead we put in him\Nhe should be worm food by now.
-Dialogue: 0,0:12:00.50,0:12:02.50,Dubtitles,,0,0,0,,How can this be?
-Dialogue: 0,0:12:04.74,0:12:08.82,Dubtitles,,0,0,0,,Jojo, I should thank you for\Nthe source of my newfound power,
-Dialogue: 0,0:12:09.22,0:12:12.54,Dubtitles,,0,0,0,,your father's blood, and the ancient mask.
+Dialogue: 0,0:11:48.86,0:11:49.70,Dubtitles,,0,0,0,,Hmm... Ah!
+Dialogue: 0,0:11:51.90,0:11:55.14,Dubtitles,,0,0,0,,Shot him in the head, and it\Ndidn't even slow him down!
+Dialogue: 0,0:11:55.26,0:11:56.88,Dubtitles,,0,0,0,,It doesn't make any sense.
+Dialogue: 0,0:11:57.14,0:12:00.85,Dubtitles,,0,0,0,,With all the lead we put in him,\Nhe should be worm food by now.
+Dialogue: 0,0:12:01.10,0:12:02.50,Dubtitles,,0,0,0,,How can this be?
+Dialogue: 0,0:12:03.74,0:12:04.57,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:12:05.40,0:12:08.82,Dubtitles,,0,0,0,,I should thank you for the\Nsource of my newfound power,
+Dialogue: 0,0:12:09.18,0:12:12.56,Dubtitles,,0,0,0,,your father's blood, and the ancient mask!
 Dialogue: 1,0:12:15.97,0:12:16.01,SFXPink,5.1,0,0,0,,{=29}{\blur0.7\bord3.18\fscx63.57\fscy52.97\frz30.17\pos(1472.65,744.82)\c&H09060F&}Suck
 Dialogue: 2,0:12:15.97,0:12:16.01,SFXPink,5.1,0,0,0,,{=29}{\blur0.7\bord0\fscx63.57\fscy52.97\frz30.17\pos(1472.65,744.82)\4a&HFF&}Suck
 Dialogue: 1,0:12:16.01,0:12:16.05,SFXPink,5.1,0,0,0,,{=29}{\blur0.7\bord4.91\fscx98.23\fscy81.85\frz30.17\pos(1457.75,746.47)\c&H09060F&}Suck
@@ -660,8 +652,8 @@ Dialogue: 1,0:12:17.30,0:12:17.34,SFXPink,5.1,0,0,0,,{=29}{\blur0.7\bord5.26\fsc
 Dialogue: 2,0:12:17.30,0:12:17.34,SFXPink,5.1,0,0,0,,{=29}{\blur0.7\bord0\fscx105.16\fscy87.63\frz30.17\pos(1480.29,753.06)\4a&HFF&}Suck
 Dialogue: 1,0:12:17.30,0:12:17.34,SFXPink,5.2,0,0,0,,{=30}{\blur0.7\bord5.56\fscx111.23\fscy92.69\frz54.09\pos(572.14,203.6)\c&H09060F&}Suck
 Dialogue: 2,0:12:17.30,0:12:17.34,SFXPink,5.2,0,0,0,,{=30}{\blur0.7\bord0\fscx111.23\fscy92.69\frz54.09\pos(572.14,203.6)\4a&HFF&}Suck
-Dialogue: 0,0:12:19.58,0:12:22.86,Dubtitles,,0,0,0,,He takes his very life,\Nbut how is that possible?
-Dialogue: 0,0:12:23.74,0:12:24.82,Dubtitles,,0,0,0,,Dio, you villain.
+Dialogue: 0,0:12:19.62,0:12:22.86,Dubtitles,,0,0,0,,He takes his very life,\Nbut how is that possible?
+Dialogue: 0,0:12:23.64,0:12:24.82,Dubtitles,,0,0,0,,Dio, you villain.
 Dialogue: 0,0:12:25.28,0:12:27.46,Dubtitles,,0,0,0,,What sort of monster have you become?
 Dialogue: 1,0:12:30.65,0:12:30.69,SFXCrimson,6,0,0,0,,{=26}{\blur6\bord9.72\fscx116.69\fscy97.24\frz7.358\pos(1371.35,603.6)\alpha&H80&}Kablam
 Dialogue: 2,0:12:30.65,0:12:30.69,SFXCrimson,6,0,0,0,,{=26}{\blur0.6\bord9.72\fscx116.69\fscy97.24\frz7.358\pos(1371.35,603.6)\c&H020009&}Kablam
@@ -753,10 +745,10 @@ Dialogue: 3,0:12:31.81,0:12:31.86,SFXCrimson,6,0,0,0,,{=26}{\blur0.6\bord0\fscx1
 Dialogue: 1,0:12:31.86,0:12:31.90,SFXCrimson,6,0,0,0,,{=26}{\blur6\bord12.58\fscx150.9\fscy125.75\frz7.358\pos(1592.37,488.95)\alpha&H80&}Kablam
 Dialogue: 2,0:12:31.86,0:12:31.90,SFXCrimson,6,0,0,0,,{=26}{\blur0.6\bord12.58\fscx150.9\fscy125.75\frz7.358\pos(1592.37,488.95)\c&H020009&}Kablam
 Dialogue: 3,0:12:31.86,0:12:31.90,SFXCrimson,6,0,0,0,,{=26}{\blur0.6\bord0\fscx150.9\fscy125.75\frz7.358\pos(1592.37,488.95)\4a&HFF&}Kablam
-Dialogue: 0,0:12:39.72,0:12:41.26,Dubtitles,,0,0,0,,How did this happen?
-Dialogue: 0,0:12:41.66,0:12:43.02,Dubtitles,,0,0,0,,Think, Jojo, think!
-Dialogue: 0,0:12:44.52,0:12:46.84,Dubtitles,,0,0,0,,The knife, father, blood,
-Dialogue: 0,0:12:47.24,0:12:51.58,Dubtitles,,0,0,0,,Dio, the mask, my notes, the brain,\Nunknown abilities, unknown strength!
+Dialogue: 0,0:12:39.82,0:12:41.28,Dubtitles,,0,0,0,,How did this happen?
+Dialogue: 0,0:12:41.72,0:12:43.06,Dubtitles,,0,0,0,,Think, Jojo, think.
+Dialogue: 0,0:12:43.34,0:12:47.04,Dubtitles,,0,0,0,,The knife, father, blood, Dio, the mask.
+Dialogue: 0,0:12:47.24,0:12:51.58,Dubtitles,,0,0,0,,My notes, the brain, unknown\Nabilities, unknown strength.
 Dialogue: 1,0:12:50.29,0:12:50.33,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord3.9\fscx77.9\fscy64.92\fade(255,0,255,0,0,90,200)\frz56.86\pos(117.91,167.11)\c&H191514&}Suck
 Dialogue: 2,0:12:50.29,0:12:50.33,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord0\fscx77.9\fscy64.92\fade(255,0,255,0,0,90,200)\frz56.86\pos(117.91,167.11)\4a&HFF&}Suck
 Dialogue: 1,0:12:50.33,0:12:50.37,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord5.51\fscx110.2\fscy91.83\fade(255,0,255,-40,-40,50,160)\frz56.86\pos(119.43,166.44)\c&H191514&}Suck
@@ -767,25 +759,26 @@ Dialogue: 1,0:12:50.42,0:12:50.46,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord6\fscx1
 Dialogue: 2,0:12:50.42,0:12:50.46,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord0\fscx120\fscy100\fade(255,0,255,-120,-120,-30,80)\frz56.86\pos(117,177.33)\4a&HFF&}Suck
 Dialogue: 1,0:12:50.46,0:12:50.50,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord6.09\fscx121.71\fscy101.42\fade(255,0,255,-160,-160,-70,40)\frz56.86\pos(117.12,170.28)\c&H191514&}Suck
 Dialogue: 2,0:12:50.46,0:12:50.50,SFXPinkFB,A1,0,0,0,,{=32}{\blur1.5\bord0\fscx121.71\fscy101.42\fade(255,0,255,-160,-160,-70,40)\frz56.86\pos(117.12,170.28)\4a&HFF&}Suck
-Dialogue: 0,0:12:51.96,0:12:54.40,Dubtitles,,0,0,0,,There is nothing human left of you, Dio!
-Dialogue: 0,0:13:10.62,0:13:11.96,Dubtitles,,0,0,0,,Don't do it, Jojo!
-Dialogue: 0,0:13:12.40,0:13:14.06,Dubtitles,,0,0,0,,You haven't got a chance in hell!
-Dialogue: 0,0:13:14.14,0:13:16.32,Dubtitles,,0,0,0,,I've never seen anything like this lad.
-Dialogue: 0,0:13:16.40,0:13:20.11,Dubtitles,,0,0,0,,He broke those coppers to pieces\Nlike they were fleeting twigs!
-Dialogue: 0,0:13:20.46,0:13:21.29,Dubtitles,,0,0,0,,I know.
-Dialogue: 0,0:13:22.84,0:13:24.36,Dubtitles,,0,0,0,,Honestly, I'm terrified.
-Dialogue: 0,0:13:24.78,0:13:28.12,Dubtitles,,0,0,0,,All the same, I can't\Nlet Dio kill anyone else!
-Dialogue: 0,0:13:28.32,0:13:30.36,Dubtitles,,0,0,0,,This demon must be annihilated!
-Dialogue: 0,0:13:30.64,0:13:32.23,Dubtitles,,0,0,0,,Please, Jojo, I beg of you!
+Dialogue: 0,0:12:51.98,0:12:54.38,Dubtitles,,0,0,0,,There is nothing human left of you, Dio!
+Dialogue: 0,0:13:02.44,0:13:03.27,Dubtitles,,0,0,0,,Father.
+Dialogue: 0,0:13:10.58,0:13:11.98,Dubtitles,,0,0,0,,Don't do it, Jojo!
+Dialogue: 0,0:13:12.40,0:13:14.04,Dubtitles,,0,0,0,,You haven't got a chance in hell!
+Dialogue: 0,0:13:14.12,0:13:15.90,Dubtitles,,0,0,0,,I've never seen anything like this lad.
+Dialogue: 0,0:13:15.98,0:13:19.63,Dubtitles,,0,0,0,,He broke those coppers to pieces\Nlike they was fleeting twigs!
+Dialogue: 0,0:13:20.40,0:13:21.26,Dubtitles,,0,0,0,,I know.
+Dialogue: 0,0:13:22.78,0:13:24.34,Dubtitles,,0,0,0,,Honestly, I'm terrified.
+Dialogue: 0,0:13:24.72,0:13:28.12,Dubtitles,,0,0,0,,All the same, I can't\Nlet Dio kill anyone else!
+Dialogue: 0,0:13:28.30,0:13:30.36,Dubtitles,,0,0,0,,This demon must be annihilated!
+Dialogue: 0,0:13:30.66,0:13:32.25,Dubtitles,,0,0,0,,Please, Jojo, I beg of you!
 Dialogue: 0,0:13:32.36,0:13:33.60,Dubtitles,,0,0,0,,He'll tear you apart!
-Dialogue: 0,0:13:34.68,0:13:35.51,Dubtitles,,0,0,0,,That's it.
-Dialogue: 0,0:13:35.74,0:13:37.92,Dubtitles,,0,0,0,,According to my research on the mask,
-Dialogue: 0,0:13:38.04,0:13:41.04,Dubtitles,,0,0,0,,it was fabled to unlock the\Nbrain's hidden potential.
-Dialogue: 0,0:13:41.12,0:13:43.58,Dubtitles,,0,0,0,,To vanquish Dio, all I have to do is...
-Dialogue: 0,0:13:52.80,0:13:54.18,Dubtitles,,0,0,0,,This one's alive.
-Dialogue: 0,0:13:54.30,0:13:55.16,Dubtitles,,0,0,0,,Your blood.
+Dialogue: 0,0:13:34.64,0:13:35.47,Dubtitles,,0,0,0,,That's it.
+Dialogue: 0,0:13:35.70,0:13:37.88,Dubtitles,,0,0,0,,According to my research on the mask,
+Dialogue: 0,0:13:38.04,0:13:41.06,Dubtitles,,0,0,0,,it was fabled to unlock the\Nbrain's hidden potential.
+Dialogue: 0,0:13:41.14,0:13:43.90,Dubtitles,,0,0,0,,To vanquish Dio, all I have to do is...
+Dialogue: 0,0:13:52.82,0:13:54.12,Dubtitles,,0,0,0,,This one's alive.
+Dialogue: 0,0:13:54.20,0:13:55.16,Dubtitles,,0,0,0,,Your blood.
 Dialogue: 0,0:13:56.20,0:13:58.08,Dubtitles,,0,0,0,,It smells so delicious.
-Dialogue: 0,0:14:04.86,0:14:09.22,Dubtitles,,0,0,0,,Now, I'm going to turn you inside out.
+Dialogue: 0,0:14:04.90,0:14:09.20,Dubtitles,,0,0,0,,Now, I'm going to turn you inside out.
 Dialogue: 1,0:14:11.91,0:14:11.96,SFXOang2,7,0,0,0,,{=31}{\blur0.8\frz7.832\pos(1454.8,564)\c&H192536&}Whoosh
 Dialogue: 2,0:14:11.91,0:14:11.96,SFXOang2,7,0,0,0,,{=31}{\bord0\blur0.8\frz7.832\pos(1454.8,564)\4a&HFF&}Whoosh
 Dialogue: 1,0:14:11.96,0:14:12.00,SFXOang2,7,0,0,0,,{=31}{\blur0.8\frz7.832\pos(1448.36,556.03)\c&H192536&}Whoosh
@@ -844,158 +837,153 @@ Dialogue: 1,0:14:13.04,0:14:13.08,SFXOang2,7,0,0,0,,{=31}{\blur0.8\frz7.832\pos(
 Dialogue: 2,0:14:13.04,0:14:13.08,SFXOang2,7,0,0,0,,{=31}{\bord0\blur0.8\frz7.832\pos(1428.14,566.15)\4a&HFF&}Whoosh
 Dialogue: 1,0:14:13.08,0:14:13.12,SFXOang2,7,0,0,0,,{=31}{\blur0.8\frz7.832\pos(1425.07,561.24)\c&H192536&}Whoosh
 Dialogue: 2,0:14:13.08,0:14:13.12,SFXOang2,7,0,0,0,,{=31}{\bord0\blur0.8\frz7.832\pos(1425.07,561.24)\4a&HFF&}Whoosh
-Dialogue: 0,0:14:21.52,0:14:22.88,Dubtitles,,0,0,0,,He was my brother.
+Dialogue: 0,0:14:21.56,0:14:22.88,Dubtitles,,0,0,0,,He was my brother.
 Dialogue: 0,0:14:23.16,0:14:25.04,Dubtitles,,0,0,0,,Look at him now, father.
-Dialogue: 0,0:14:25.74,0:14:28.46,Dubtitles,,0,0,0,,Please lend me the\Nstrength to do what I must.
-Dialogue: 0,0:14:31.34,0:14:32.26,Dubtitles,,0,0,0,,Courage, Jojo.
+Dialogue: 0,0:14:25.74,0:14:28.48,Dubtitles,,0,0,0,,Please lend me the\Nstrength to do what I must.
+Dialogue: 0,0:14:31.38,0:14:32.26,Dubtitles,,0,0,0,,Courage, Jojo.
 Dialogue: 0,0:14:32.34,0:14:35.14,Dubtitles,,0,0,0,,Dio is powerful, but\Nyou know how to end him.
 Dialogue: 0,0:14:35.34,0:14:36.86,Dubtitles,,0,0,0,,And end him you must!
-Dialogue: 0,0:14:37.24,0:14:38.24,Dubtitles,,0,0,0,,Watch out!
-Dialogue: 0,0:14:40.14,0:14:41.02,Dubtitles,,0,0,0,,It's over!
+Dialogue: 0,0:14:37.26,0:14:38.24,Dubtitles,,0,0,0,,Watch out!
+Dialogue: 0,0:14:40.20,0:14:41.03,Dubtitles,,0,0,0,,It's over!
 Dialogue: 0,0:14:41.26,0:14:44.44,Dubtitles,,0,0,0,,I'm not going to let you\Nkill anyone else! Dio!
-Dialogue: 0,0:14:48.36,0:14:50.16,Dubtitles,,0,0,0,,He caught the sword and spear.
-Dialogue: 0,0:14:50.96,0:14:53.78,Dubtitles,,0,0,0,,Right through the hand\Nand he don't even flinch.
-Dialogue: 0,0:14:54.42,0:14:57.18,Dubtitles,,0,0,0,,No way, the hole from where\NI shot him in the head?
-Dialogue: 0,0:14:57.26,0:14:58.64,Dubtitles,,0,0,0,,It's healed up.
-Dialogue: 0,0:14:58.72,0:15:00.72,Dubtitles,,0,0,0,,That spear ain't gonna hurt him.
-Dialogue: 0,0:15:00.80,0:15:01.94,Dubtitles,,0,0,0,,He's immortal.
-Dialogue: 0,0:15:05.56,0:15:07.80,Dubtitles,,0,0,0,,You're such a weakling, Jojo?
-Dialogue: 0,0:15:15.94,0:15:17.98,Dubtitles,,0,0,0,,On your feet, insect.
-Dialogue: 0,0:15:18.44,0:15:21.78,Dubtitles,,0,0,0,,I've yet to gauge the full\Nextent of my new powers.
-Dialogue: 0,0:15:22.02,0:15:24.50,Dubtitles,,0,0,0,,So let's play a little longer, shall we?
-Dialogue: 0,0:15:24.92,0:15:29.10,Dubtitles,,0,0,0,,I trust you'll be long since dead\Nby the time I figure them out.
-Dialogue: 0,0:15:31.88,0:15:33.32,Dubtitles,,0,0,0,,Hiding, are we?
-Dialogue: 0,0:15:48.04,0:15:50.08,Dubtitles,,0,0,0,,You were a fool to attack me.
-Dialogue: 0,0:15:50.16,0:15:54.60,Dubtitles,,0,0,0,,I have disowned my weakness\Nin favor of life everlasting.
-Dialogue: 0,0:15:55.54,0:15:58.52,Dubtitles,,0,0,0,,You're behind the curtain\Nlike Polonius and like
-Dialogue: 0,0:15:58.60,0:16:01.54,Dubtitles,,0,0,0,,Polonius it is there that\Nyou shall meet your end!
-Dialogue: 0,0:16:06.76,0:16:09.30,Dubtitles,,0,0,0,,No one's immortal not even you.
-Dialogue: 0,0:16:17.52,0:16:20.62,Dubtitles,,0,0,0,,He's able to heal faster\Nthan the flames can hurt him.
-Dialogue: 0,0:16:20.70,0:16:23.50,Dubtitles,,0,0,0,,If that ain't immortality,\Nthen I'm the queen.
-Dialogue: 0,0:16:24.00,0:16:26.04,Dubtitles,,0,0,0,,Fire hurts him, but not enough.
-Dialogue: 0,0:16:33.68,0:16:35.36,Dubtitles,,0,0,0,,Jojo, what are you doing?
-Dialogue: 0,0:16:35.66,0:16:37.48,Dubtitles,,0,0,0,,Just get to safety, Speedwagon.
-Dialogue: 0,0:16:37.80,0:16:40.45,Dubtitles,,0,0,0,,If Dio wants a fight,\NI mean to give him one.
-Dialogue: 0,0:16:57.80,0:16:58.72,Dubtitles,,0,0,0,,What are you doing?
-Dialogue: 0,0:16:58.80,0:16:59.63,Dubtitles,,0,0,0,,Are you mad?
-Dialogue: 0,0:16:59.71,0:17:02.12,Dubtitles,,0,0,0,,The flames are gonna box you in up there!
-Dialogue: 0,0:17:06.70,0:17:08.16,Dubtitles,,0,0,0,,Jojo, you brave fool!
-Dialogue: 0,0:17:08.24,0:17:10.30,Dubtitles,,0,0,0,,I hope to hell you've got a plan?
-Dialogue: 0,0:17:15.12,0:17:16.92,Dubtitles,,0,0,0,,I'm waiting for you, Dio.
-Dialogue: 0,0:17:25.30,0:17:26.32,Dubtitles,,0,0,0,,Know this!
+Dialogue: 0,0:14:48.38,0:14:53.74,Dubtitles,,0,0,0,,He caught the sword and spear right\Nthrough the hand and he don't even flinch.
+Dialogue: 0,0:14:54.42,0:14:55.28,Dubtitles,,0,0,0,,No way!
+Dialogue: 0,0:14:55.52,0:14:57.56,Dubtitles,,0,0,0,,The hole from where I\Nshot him in the head!
+Dialogue: 0,0:14:57.64,0:14:58.72,Dubtitles,,0,0,0,,He's healed up!
+Dialogue: 0,0:14:59.02,0:15:00.88,Dubtitles,,0,0,0,,That spear ain't gonna hurt him.
+Dialogue: 0,0:15:00.96,0:15:01.94,Dubtitles,,0,0,0,,He's immortal.
+Dialogue: 0,0:15:05.60,0:15:07.82,Dubtitles,,0,0,0,,You're such a weakling, Jojo!
+Dialogue: 0,0:15:15.98,0:15:18.00,Dubtitles,,0,0,0,,On your feet, insect!
+Dialogue: 0,0:15:18.46,0:15:21.78,Dubtitles,,0,0,0,,I've yet to gauge the full\Nextent of my new powers,
+Dialogue: 0,0:15:22.04,0:15:24.48,Dubtitles,,0,0,0,,so let's play a little longer, shall we?
+Dialogue: 0,0:15:24.88,0:15:29.10,Dubtitles,,0,0,0,,I trust you'll be long since dead\Nby the time I figure them out.
+Dialogue: 0,0:15:31.90,0:15:33.32,Dubtitles,,0,0,0,,Hiding, are we?
+Dialogue: 0,0:15:48.06,0:15:50.16,Dubtitles,,0,0,0,,You were a fool to attack me.
+Dialogue: 0,0:15:50.52,0:15:54.38,Dubtitles,,0,0,0,,I have disowned my weakness\Nin favor of life everlasting.
+Dialogue: 0,0:15:55.56,0:15:59.28,Dubtitles,,0,0,0,,You're behind the curtain like\NPolonius, and like Polonius,
+Dialogue: 0,0:15:59.38,0:16:01.79,Dubtitles,,0,0,0,,it is there that you shall meet your end.
+Dialogue: 0,0:16:06.78,0:16:08.08,Dubtitles,,0,0,0,,No one's immortal.
+Dialogue: 0,0:16:08.36,0:16:09.26,Dubtitles,,0,0,0,,Not even you.
+Dialogue: 0,0:16:17.52,0:16:20.60,Dubtitles,,0,0,0,,He's able to heal faster\Nthan the flames can hurt him.
+Dialogue: 0,0:16:20.68,0:16:23.48,Dubtitles,,0,0,0,,If that ain't immortality,\Nthen I'm the queen.
+Dialogue: 0,0:16:24.02,0:16:26.04,Dubtitles,,0,0,0,,Fire hurts him, but not enough.
+Dialogue: 0,0:16:33.68,0:16:35.38,Dubtitles,,0,0,0,,Jojo, what are you doing?
+Dialogue: 0,0:16:35.64,0:16:37.48,Dubtitles,,0,0,0,,Just get to safety, Speedwagon.
+Dialogue: 0,0:16:37.76,0:16:40.41,Dubtitles,,0,0,0,,If Dio wants a fight,\NI mean to give him one.
+Dialogue: 0,0:16:57.76,0:16:58.86,Dubtitles,,0,0,0,,What are you doing?
+Dialogue: 0,0:16:58.94,0:16:59.77,Dubtitles,,0,0,0,,Are you mad?
+Dialogue: 0,0:16:59.86,0:17:02.45,Dubtitles,,0,0,0,,The flames are going\Nto box you in up there.
+Dialogue: 0,0:17:06.66,0:17:08.22,Dubtitles,,0,0,0,,Jojo, you brave fool.
+Dialogue: 0,0:17:08.48,0:17:10.42,Dubtitles,,0,0,0,,I hope to hell you've got a plan.
+Dialogue: 0,0:17:15.16,0:17:16.90,Dubtitles,,0,0,0,,I'm waiting for you, Dio.
+Dialogue: 0,0:17:25.34,0:17:26.28,Dubtitles,,0,0,0,,Know this!
 Dialogue: 0,0:17:26.54,0:17:27.58,Dubtitles,,0,0,0,,It ends here!
 Dialogue: 0,0:17:27.76,0:17:30.42,Dubtitles,,0,0,0,,I will not allow you to\Nleave this mansion alive!
 Dialogue: 0,0:17:30.50,0:17:31.68,Dubtitles,,0,0,0,,No! That's lunacy!
-Dialogue: 0,0:17:38.28,0:17:40.50,Dubtitles,,0,0,0,,Luring me away from the Gutter Rat.
-Dialogue: 0,0:17:40.92,0:17:42.96,Dubtitles,,0,0,0,,How very noble of you.
-Dialogue: 0,0:17:43.74,0:17:44.76,Dubtitles,,0,0,0,,No matter.
-Dialogue: 0,0:17:48.24,0:17:52.95,Dubtitles,,0,0,0,,I'll drain you dry, and your blood will\Nhelp me mend from this little adventure.
-Dialogue: 0,0:17:55.74,0:18:00.18,Dubtitles,,0,0,0,,You climb the wall in vain, Jojo,\Nin your haste to flee from me.
-Dialogue: 0,0:18:00.38,0:18:02.85,Dubtitles,,0,0,0,,All you have done is guaranteed your doom.
-Dialogue: 0,0:18:03.50,0:18:07.48,Dubtitles,,0,0,0,,You will be consumed tonight\Nby the inferno below, or by me!
-Dialogue: 0,0:18:11.04,0:18:11.87,Dubtitles,,0,0,0,,Father.
+Dialogue: 0,0:17:38.30,0:17:40.56,Dubtitles,,0,0,0,,Luring me away from the gutter, Rat.
+Dialogue: 0,0:17:40.92,0:17:42.98,Dubtitles,,0,0,0,,How very noble of you.
+Dialogue: 0,0:17:43.68,0:17:44.74,Dubtitles,,0,0,0,,No matter.
+Dialogue: 0,0:17:48.68,0:17:53.39,Dubtitles,,0,0,0,,I'll drain you dry, and your blood will\Nhelp me mend from this little adventure.
+Dialogue: 0,0:17:55.66,0:17:58.18,Dubtitles,,0,0,0,,You climb the wall in vain, Jojo.
+Dialogue: 0,0:17:58.26,0:18:02.79,Dubtitles,,0,0,0,,No, in your haste to flee from me, all\Nyou have done is guaranteed your doom.
+Dialogue: 0,0:18:03.58,0:18:07.46,Dubtitles,,0,0,0,,You will be consumed tonight\Nby the inferno below or by me!
+Dialogue: 0,0:18:10.98,0:18:11.81,Dubtitles,,0,0,0,,Father.
 Dialogue: 0,0:18:17.42,0:18:19.46,Dubtitles,,0,0,0,,Father, rest in peace.
-Dialogue: 0,0:18:19.90,0:18:22.70,Dubtitles,,0,0,0,,Let the rising smoke\Nguide your soul to heaven.
-Dialogue: 0,0:18:24.04,0:18:27.82,Dubtitles,,0,0,0,,But first, please, lend me\Nyour aid one final time.
+Dialogue: 0,0:18:19.88,0:18:22.68,Dubtitles,,0,0,0,,Let the rising smoke\Nguide your soul to heaven.
+Dialogue: 0,0:18:24.08,0:18:27.84,Dubtitles,,0,0,0,,But first, please, lend me\Nyour aid one final time.
 Dialogue: 0,0:18:28.44,0:18:31.24,Dubtitles,,0,0,0,,Let the fire burn with your strength.
 Dialogue: 0,0:18:34.48,0:18:36.89,Dubtitles,,0,0,0,,What does he mean to accomplish up there?
-Dialogue: 0,0:18:38.60,0:18:39.90,Dubtitles,,0,0,0,,No, that's crazy!
-Dialogue: 0,0:18:40.20,0:18:41.78,Dubtitles,,0,0,0,,You're throwing your life away!
-Dialogue: 0,0:18:41.86,0:18:42.69,Dubtitles,,0,0,0,,Don't do it!
-Dialogue: 0,0:18:42.77,0:18:44.14,Dubtitles,,0,0,0,,Don't do it, Jojo!
-Dialogue: 0,0:18:48.74,0:18:50.08,Dubtitles,,0,0,0,,Any moment now.
+Dialogue: 0,0:18:38.62,0:18:39.90,Dubtitles,,0,0,0,,No, that's crazy!
+Dialogue: 0,0:18:40.18,0:18:41.82,Dubtitles,,0,0,0,,You're throwing your life away!
+Dialogue: 0,0:18:41.90,0:18:42.73,Dubtitles,,0,0,0,,Don't do it!
+Dialogue: 0,0:18:42.81,0:18:44.16,Dubtitles,,0,0,0,,Don't do it, Jojo!
+Dialogue: 0,0:18:48.74,0:18:50.06,Dubtitles,,0,0,0,,Any moment now.
 Dialogue: 0,0:18:58.88,0:18:59.71,Dubtitles,,0,0,0,,Useless!
-Dialogue: 0,0:18:59.79,0:19:01.80,Dubtitles,,0,0,0,,You fight as though you want to die!
-Dialogue: 0,0:19:02.06,0:19:06.02,Dubtitles,,0,0,0,,In that moment, Jojo's short\Nlife flashed before his eyes.
-Dialogue: 0,0:19:15.94,0:19:18.68,Dubtitles,,0,0,0,,My lonely youth, my time with Dio.
-Dialogue: 0,0:19:19.38,0:19:23.60,Dubtitles,,0,0,0,,You did me wrong time and again,\Nso now I'll settle the score.
-Dialogue: 0,0:19:24.64,0:19:28.82,Dubtitles,,0,0,0,,The longer the fire burns, the\Nhotter it gets, and Jojo knows it.
-Dialogue: 0,0:19:29.38,0:19:32.56,Dubtitles,,0,0,0,,He means to use the mansion\Nas a funeral pyre and
-Dialogue: 0,0:19:32.64,0:19:35.56,Dubtitles,,0,0,0,,burn the devil faster than\Nhe can replenish himself.
-Dialogue: 0,0:19:35.64,0:19:40.34,Dubtitles,,0,0,0,,And now that the house is hot enough,\Nhe's going to knock him back in.
-Dialogue: 0,0:19:42.04,0:19:42.87,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:19:47.04,0:19:50.34,Dubtitles,,0,0,0,,How dare you lay your\Nhands on me, you insect!
-Dialogue: 0,0:19:50.68,0:19:54.39,Dubtitles,,0,0,0,,The only home I've ever known\Nwill be in ashes before the dawn.
-Dialogue: 0,0:19:55.22,0:19:57.54,Dubtitles,,0,0,0,,Father is dead, and I am alone.
-Dialogue: 0,0:19:58.24,0:20:02.64,Dubtitles,,0,0,0,,I have nothing left to\Nlose, but my life itself.
-Dialogue: 0,0:20:04.14,0:20:06.54,Dubtitles,,0,0,0,,We go to the flames together, Dio!
-Dialogue: 0,0:20:06.80,0:20:10.12,Dubtitles,,0,0,0,,I'll gladly die if it\Nmeans an end to your evil!
-Dialogue: 0,0:20:12.58,0:20:14.40,Dubtitles,,0,0,0,,Die for nothing, fool!
-Dialogue: 0,0:20:16.78,0:20:20.52,Dubtitles,,0,0,0,,All I lose by your sacrifice is\Nthe blood I would have taken.
-Dialogue: 0,0:20:21.00,0:20:24.71,Dubtitles,,0,0,0,,Blacken and burn among the bones\Nof your damnable father, Jojo!
-Dialogue: 0,0:20:26.66,0:20:28.84,Dubtitles,,0,0,0,,I am a god in all but name.
-Dialogue: 0,0:20:29.04,0:20:32.26,Dubtitles,,0,0,0,,With the powers at my command,\NI will rule this world.
-Dialogue: 0,0:20:32.52,0:20:34.92,Dubtitles,,0,0,0,,Thank you, brother, for this great boon.
-Dialogue: 0,0:20:47.82,0:20:48.70,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:20:53.26,0:20:54.09,Dubtitles,,0,0,0,,Dio!
-Dialogue: 0,0:20:54.44,0:20:56.12,Dubtitles,,0,0,0,,I'm not done with you!
-Dialogue: 0,0:20:56.36,0:20:58.14,Dubtitles,,0,0,0,,Why won't you die already?
-Dialogue: 0,0:21:00.22,0:21:02.44,Dubtitles,,0,0,0,,There's no escape, Dio!
-Dialogue: 0,0:21:02.66,0:21:04.95,Dubtitles,,0,0,0,,You've brought this doom upon yourself!
-Dialogue: 0,0:21:05.14,0:21:07.52,Dubtitles,,0,0,0,,This is the knife you\Nused to kill my father!
-Dialogue: 0,0:21:07.60,0:21:12.08,Dubtitles,,0,0,0,,So as you did to the man who\Nraised us both, I now do unto you!
-Dialogue: 0,0:21:21.96,0:21:25.76,Dubtitles,,0,0,0,,I've crushed his arm bones to\Nsplinters, and he's already ablaze?
-Dialogue: 0,0:21:25.84,0:21:28.44,Dubtitles,,0,0,0,,but his grip on me is\Nstill that of a vice!
-Dialogue: 0,0:21:29.06,0:21:30.66,Dubtitles,,0,0,0,,So be it, Jojo.
-Dialogue: 0,0:21:31.24,0:21:35.88,Dubtitles,,0,0,0,,Consign us both unto the flames, but\Nperish knowing I will survive this moment?
-Dialogue: 0,0:21:35.96,0:21:37.52,Dubtitles,,0,0,0,,for everything you have done.
-Dialogue: 0,0:21:37.60,0:21:40.44,Dubtitles,,0,0,0,,Even this inferno cannot devour me!
-Dialogue: 0,0:21:43.22,0:21:45.28,Dubtitles,,0,0,0,,Fulmer, lend me your power!
-Dialogue: 0,0:21:46.48,0:21:48.92,Dubtitles,,0,0,0,,His desperate cry echoed in the night.
-Dialogue: 0,0:21:49.18,0:21:53.50,Dubtitles,,0,0,0,,Whether urged on by his departed\Nfather or heeding an instinct,
-Dialogue: 0,0:21:53.78,0:21:57.36,Dubtitles,,0,0,0,,born of a long familiarity with\Nthe home which burned around him?
-Dialogue: 0,0:21:57.44,0:22:01.74,Dubtitles,,0,0,0,,he kicked, and that put\Nthem right in line with...
-Dialogue: 0,0:22:01.82,0:22:03.26,Dubtitles,,0,0,0,,What the?
-Dialogue: 0,0:22:04.72,0:22:08.48,Dubtitles,,0,0,0,,The statue of the Joestar\Nfamily's guardian angel.
-Dialogue: 0,0:22:11.94,0:22:14.94,Dubtitles,,0,0,0,,How could a worm like you?
-Dialogue: 0,0:22:17.10,0:22:20.00,Dubtitles,,0,0,0,,I forgot who I was dealing with.
-Dialogue: 0,0:22:20.44,0:22:24.12,Dubtitles,,0,0,0,,Bloody his nose, and he\Ncomes back twice as fierce.
-Dialogue: 0,0:22:26.18,0:22:27.01,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:22:27.84,0:22:31.02,Dubtitles,,0,0,0,,I had such plans for this world.
-Dialogue: 0,0:22:31.10,0:22:33.46,Dubtitles,,0,0,0,,on such plans!
-Dialogue: 0,0:22:41.10,0:22:41.93,Dubtitles,,0,0,0,,JoJo!
-Dialogue: 0,0:22:46.10,0:22:46.93,Dubtitles,,0,0,0,,It's over.
-Dialogue: 0,0:22:47.01,0:22:47.84,Dubtitles,,0,0,0,,You're alive.
-Dialogue: 0,0:22:48.86,0:22:51.08,Dubtitles,,0,0,0,,You lucky bastard.
-Dialogue: 0,0:22:51.62,0:22:52.90,Dubtitles,,0,0,0,,He did it!
-Dialogue: 0,0:22:54.10,0:22:55.68,Dubtitles,,0,0,0,,JoJo bested him!
-Dialogue: 0,0:23:06.72,0:23:09.82,Dubtitles,,0,0,0,,I'll be the roundabout.
+Dialogue: 0,0:18:59.79,0:19:01.84,Dubtitles,,0,0,0,,You fight as though you want to die!
+Dialogue: 0,0:19:02.06,0:19:06.02,Dubtitles,,0,0,0,,In that moment, Jojo's entire\Nyouth flashed before his eyes.
+Dialogue: 0,0:19:15.32,0:19:16.78,Dubtitles,,0,0,0,,My lonely youth!
+Dialogue: 0,0:19:17.18,0:19:18.66,Dubtitles,,0,0,0,,My time with Dio!
+Dialogue: 0,0:19:19.38,0:19:23.60,Dubtitles,,0,0,0,,You did me wrong time and again,\Nso now I'll settle the score!
+Dialogue: 0,0:19:24.42,0:19:28.84,Dubtitles,,0,0,0,,The longer the fire burns, the\Nhotter it gets, and Jojo knows it.
+Dialogue: 0,0:19:29.28,0:19:32.56,Dubtitles,,0,0,0,,He means to use the mansion\Nas a funeral pyre and
+Dialogue: 0,0:19:32.64,0:19:35.58,Dubtitles,,0,0,0,,burn the devil faster than\Nhe can replenish himself.
+Dialogue: 0,0:19:35.66,0:19:40.36,Dubtitles,,0,0,0,,And now that the house is hot\Nenough, he's gonna knock him back in.
+Dialogue: 0,0:19:42.14,0:19:42.97,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:19:47.02,0:19:50.34,Dubtitles,,0,0,0,,How dare you lay your\Nhands on me, you insect!
+Dialogue: 0,0:19:50.66,0:19:54.37,Dubtitles,,0,0,0,,The only home I've ever known\Nwill be in ashes before the dawn.
+Dialogue: 0,0:19:55.08,0:19:57.54,Dubtitles,,0,0,0,,Father is dead, and I am alone.
+Dialogue: 0,0:19:58.24,0:20:02.62,Dubtitles,,0,0,0,,I have nothing left to\Nlose, but my life itself.
+Dialogue: 0,0:20:04.14,0:20:06.54,Dubtitles,,0,0,0,,We go to the flames together, Dio.
+Dialogue: 0,0:20:06.78,0:20:10.14,Dubtitles,,0,0,0,,I'll gladly die if it\Nmeans an end to your evil.
+Dialogue: 0,0:20:12.50,0:20:14.40,Dubtitles,,0,0,0,,Die for nothing, fool!
+Dialogue: 0,0:20:16.68,0:20:20.44,Dubtitles,,0,0,0,,All I lose by your sacrifice is\Nthe blood I would have taken.
+Dialogue: 0,0:20:20.52,0:20:24.66,Dubtitles,,0,0,0,,Blacken and burn among the bones\Nof your damnable father, Jojo!
+Dialogue: 0,0:20:26.58,0:20:28.84,Dubtitles,,0,0,0,,I am a god in all but name!
+Dialogue: 0,0:20:29.02,0:20:32.26,Dubtitles,,0,0,0,,With the powers at my command,\NI will rule this world!
+Dialogue: 0,0:20:32.56,0:20:34.92,Dubtitles,,0,0,0,,Thank you, brother, for this great boon!
+Dialogue: 0,0:20:47.56,0:20:48.68,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:20:53.92,0:20:56.14,Dubtitles,,0,0,0,,Dio, I'm not done with you.
+Dialogue: 0,0:20:56.42,0:20:58.16,Dubtitles,,0,0,0,,Why won't you die already?
+Dialogue: 0,0:21:00.26,0:21:01.50,Dubtitles,,0,0,0,,There's no escape.
+Dialogue: 0,0:21:01.90,0:21:04.76,Dubtitles,,0,0,0,,Dio, you brought this doom upon yourself.
+Dialogue: 0,0:21:05.14,0:21:07.74,Dubtitles,,0,0,0,,This is the knife you\Nused to kill my father.
+Dialogue: 0,0:21:07.82,0:21:12.22,Dubtitles,,0,0,0,,So as you did to the men who\Nraised us both, I now do unto you.
+Dialogue: 0,0:21:21.90,0:21:25.80,Dubtitles,,0,0,0,,I've crushed his arm bones to\Nsplinters, and he's already ablaze!
+Dialogue: 0,0:21:25.92,0:21:28.45,Dubtitles,,0,0,0,,But his grip on me is\Nstill that of a vice!
+Dialogue: 0,0:21:29.52,0:21:31.10,Dubtitles,,0,0,0,,So be it, Jojo.
+Dialogue: 0,0:21:31.18,0:21:33.30,Dubtitles,,0,0,0,,Consign us both unto the flames!
+Dialogue: 0,0:21:33.52,0:21:37.72,Dubtitles,,0,0,0,,But perish knowing I will survive this\Nmoment for everything you have done!
+Dialogue: 0,0:21:37.80,0:21:40.36,Dubtitles,,0,0,0,,Even this inferno cannot devour me!
+Dialogue: 0,0:21:43.26,0:21:44.09,Dubtitles,,0,0,0,,Father!
+Dialogue: 0,0:21:44.17,0:21:45.26,Dubtitles,,0,0,0,,Lend me your power!
+Dialogue: 0,0:21:46.48,0:21:48.82,Dubtitles,,0,0,0,,His desperate cry echoed in the night.
+Dialogue: 0,0:21:48.90,0:21:53.42,Dubtitles,,0,0,0,,Whether urged on by his departed\Nfather or heeding an instinct
+Dialogue: 0,0:21:53.50,0:21:57.32,Dubtitles,,0,0,0,,born of a long familiarity with\Nthe home which burned around him,
+Dialogue: 0,0:21:57.48,0:22:01.32,Dubtitles,,0,0,0,,he kicked and that put\Nthem right in line with
+Dialogue: 0,0:22:01.40,0:22:06.78,Dubtitles,,0,0,0,,the statue of the Joestar
+Dialogue: 0,0:22:06.86,0:22:08.48,Dubtitles,,0,0,0,,family's guardian angel.
+Dialogue: 0,0:22:12.00,0:22:14.90,Dubtitles,,0,0,0,,How could a worm like you?
+Dialogue: 0,0:22:16.90,0:22:17.73,Dubtitles,,0,0,0,,I...
+Dialogue: 0,0:22:17.81,0:22:20.00,Dubtitles,,0,0,0,,I forgot who I was dealing with!
+Dialogue: 0,0:22:20.30,0:22:24.12,Dubtitles,,0,0,0,,Bloody his nose, and he\Ncomes back twice as fierce!
+Dialogue: 0,0:22:26.06,0:22:26.89,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:22:27.84,0:22:31.10,Dubtitles,,0,0,0,,I had such plans for this world!
+Dialogue: 0,0:22:31.54,0:22:33.36,Dubtitles,,0,0,0,,Such plans!
+Dialogue: 0,0:22:40.72,0:22:41.55,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:22:47.26,0:22:48.80,Dubtitles,,0,0,0,,It's over.
+Dialogue: 0,0:22:49.06,0:22:50.10,Dubtitles,,0,0,0,,You're alive!
+Dialogue: 0,0:22:50.18,0:22:52.36,Dubtitles,,0,0,0,,You lucky bastard.
+Dialogue: 0,0:22:52.44,0:22:53.64,Dubtitles,,0,0,0,,He did it.
+Dialogue: 0,0:22:53.72,0:22:55.94,Dubtitles,,0,0,0,,Jojo bested him!
 Dialogue: 1,0:23:07.03,0:23:10.62,Lyrics 2,,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:23:09.90,0:23:13.98,Dubtitles,,0,0,0,,The words will make you out and out.
 Dialogue: 1,0:23:10.62,0:23:14.16,Lyrics 2,,0,0,0,,The words will make you out 'n' out
-Dialogue: 0,0:23:14.06,0:23:17.64,Dubtitles,,0,0,0,,I'll spend the day your way.
 Dialogue: 1,0:23:14.16,0:23:19.50,Lyrics 2,,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:23:19.32,0:23:22.08,Dubtitles,,0,0,0,,Call it morning, driving through the sun.
+Dialogue: 0,0:23:14.90,0:23:17.68,Dubtitles,,0,0,0,,I'll spend the day your way.
+Dialogue: 0,0:23:19.12,0:23:23.76,Dubtitles,,0,0,0,,Call it morning driving through\Nthe sun and in and out the valley
 Dialogue: 1,0:23:19.50,0:23:22.17,Lyrics 2,,0,0,0,,Call it morning driving through the sound and
-Dialogue: 0,0:23:22.16,0:23:23.72,Dubtitles,,0,0,0,,And in and out the valley.
 Dialogue: 1,0:23:22.17,0:23:26.68,Lyrics 2,,0,0,0,,In and out the valley
-Dialogue: 0,0:23:33.62,0:23:36.84,Dubtitles,,0,0,0,,The music dance and sing.
+Dialogue: 0,0:23:33.56,0:23:38.42,Dubtitles,,0,0,0,,The music dance and sing They make the
 Dialogue: 1,0:23:34.14,0:23:37.73,Lyrics 2,,0,0,0,,The music dance and sing
-Dialogue: 0,0:23:36.92,0:23:41.02,Dubtitles,,0,0,0,,They make the children really ring.
 Dialogue: 1,0:23:37.73,0:23:41.27,Lyrics 2,,0,0,0,,They make the children really ring
-Dialogue: 0,0:23:41.10,0:23:44.86,Dubtitles,,0,0,0,,I spend the day your way.
+Dialogue: 0,0:23:38.50,0:23:41.72,Dubtitles,,0,0,0,,Children really ring. I'll
 Dialogue: 1,0:23:41.27,0:23:46.61,Lyrics 2,,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:23:46.40,0:23:49.16,Dubtitles,,0,0,0,,Call it morning, driving through the sun.
+Dialogue: 0,0:23:41.80,0:23:45.76,Dubtitles,,0,0,0,,spend the day your way
+Dialogue: 0,0:23:46.50,0:23:51.02,Dubtitles,,0,0,0,,Cold in morning, driving through\Nthe sun And in and out the valley
 Dialogue: 1,0:23:46.61,0:23:49.24,Lyrics 2,,0,0,0,,Call it morning driving through the sound and
-Dialogue: 0,0:23:49.24,0:23:50.86,Dubtitles,,0,0,0,,And in and out the valley.
 Dialogue: 1,0:23:49.24,0:23:53.29,Lyrics 2,,0,0,0,,In and out the valley
-Dialogue: 0,0:23:52.98,0:23:55.62,Dubtitles,,0,0,0,,In and around the lake.
+Dialogue: 0,0:23:53.08,0:23:55.64,Dubtitles,,0,0,0,,In and out around the lake
 Dialogue: 1,0:23:53.29,0:23:55.66,Lyrics 2,,0,0,0,,In and around the lake
-Dialogue: 0,0:23:56.72,0:23:59.02,Dubtitles,,0,0,0,,Miles come out of the sky.
+Dialogue: 0,0:23:56.86,0:24:00.78,Dubtitles,,0,0,0,,Mountains come out of the\Nsky And they'll stand there
 Dialogue: 1,0:23:56.92,0:23:59.13,Lyrics 2,,0,0,0,,Mountains come out of the sky
-Dialogue: 0,0:23:59.10,0:24:00.68,Dubtitles,,0,0,0,,And they'll stand there.
 Dialogue: 1,0:23:59.13,0:24:00.92,Lyrics 2,,0,0,0,,and they stand there
-Dialogue: 0,0:24:03.86,0:24:05.18,Dubtitles,,0,0,0,,One mile over.
+Dialogue: 0,0:24:03.92,0:24:07.46,Dubtitles,,0,0,0,,One mile over, we'll be\Nthere And we'll see you
 Dialogue: 1,0:24:04.05,0:24:07.72,Lyrics 2,,0,0,0,,One mile over we'll be there and we'll see you
-Dialogue: 0,0:24:05.26,0:24:07.50,Dubtitles,,0,0,0,,We'll be there and we'll see you.
-Dialogue: 0,0:24:10.26,0:24:11.72,Dubtitles,,0,0,0,,Ten and two summers.
+Dialogue: 0,0:24:10.26,0:24:13.90,Dubtitles,,0,0,0,,Ten true summers, we'll be\Nthere. We're laughing too.
 Dialogue: 1,0:24:10.51,0:24:14.18,Lyrics 2,,0,0,0,,Ten true summers we'll be there and laughing too
-Dialogue: 0,0:24:11.80,0:24:13.84,Dubtitles,,0,0,0,,We'll be there and laughing too.
-Dialogue: 0,0:24:16.76,0:24:18.72,Dubtitles,,0,0,0,,Twenty, forty, five mile.
+Dialogue: 0,0:24:16.76,0:24:22.26,Dubtitles,,0,0,0,,Twenty-four, we fall by the real\Nsea. I'll be there with you.
 Dialogue: 1,0:24:16.94,0:24:20.56,Lyrics 2,,0,0,0,,Twenty-four before my love you'll see I'll be
-Dialogue: 0,0:24:18.80,0:24:22.22,Dubtitles,,0,0,0,,But we'll see. I'll be there with you!
 Dialogue: 1,0:24:20.56,0:24:23.57,Lyrics 2,,0,0,0,,There with you
-Dialogue: 0,0:24:40.80,0:24:41.86,Dubtitles,,0,0,0,,There it is.
+Dialogue: 0,0:24:40.70,0:24:41.92,Dubtitles,,0,0,0,,There it is.
 Dialogue: 1,0:24:45.30,0:24:45.34,SFXPurp2,8.1,0,0,0,,{\blur0.8\bord6.21\fscx89.66\fscy68.97\frz4.893\pos(243.25,336.17)\c&H160F19&}Suck
 Dialogue: 2,0:24:45.30,0:24:45.34,SFXPurp2,8.1,0,0,0,,{\blur0.8\bord0\fscx89.66\fscy68.97\frz4.893\pos(243.25,336.17)\4a&HFF&}Suck
 Dialogue: 1,0:24:45.34,0:24:45.38,SFXPurp2,8.1,0,0,0,,{\blur0.8\bord4.42\fscx63.91\fscy49.16\frz4.893\pos(274.42,309.85)\c&H160F19&}Suck
@@ -1223,8 +1211,7 @@ Dialogue: 2,0:24:47.76,0:24:47.80,SFXPurp2,8.2,0,0,0,,{\blur0.8\fscx130\fscy100\
 Dialogue: 1,0:24:47.76,0:24:47.80,SFXPurp2,8.3,0,0,0,,{\blur0.8\bord9\fscx130\fscy100\frz6.321\pos(1329.33,867.11)\c&H160F19&}Suck
 Dialogue: 2,0:24:47.76,0:24:47.80,SFXPurp2,8.3,0,0,0,,{\blur0.8\bord0\fscx130\fscy100\frz6.321\pos(1329.33,867.11)\4a&HFF&}Suck
 Dialogue: 1,0:24:58.60,0:25:00.60,Title,,0,0,0,,{\fs120\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:58.60,0:25:00.60,Title,,0,0,0,,{\fs120\pos(960,700)}Next Episode
-Dialogue: 0,0:25:01.04,0:25:03.02,Dubtitles,,0,0,0,,Courage is to look your fear in the eye!
+Dialogue: 0,0:25:00.96,0:25:02.94,Dubtitles,,0,0,0,,Courage is to look your fear in the eye!
 Dialogue: 1,0:25:02.77,0:25:02.81,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord15.43\fscx286.64\fscy220.5\fade(255,0,255,0,0,940,1540)\frz345\pos(1156.37,270.51)\c&H121A26&}Blam {In preview for last episode}
 Dialogue: 2,0:25:02.77,0:25:02.81,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx286.64\fscy220.5\fade(255,0,255,0,0,940,1540)\frz345\pos(1156.37,270.51)\c&H2039A8&\4a&HFF&}Blam {In preview for last episode}
 Dialogue: 1,0:25:02.81,0:25:02.86,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord11.31\fscx210.04\fscy161.57\fade(255,0,255,-40,-40,900,1500)\frz345\pos(1134.38,393.33)\c&H121A26&}Blam {In preview for last episode}
@@ -1239,9 +1226,9 @@ Dialogue: 1,0:25:02.98,0:25:03.02,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord7.83\fs
 Dialogue: 2,0:25:02.98,0:25:03.02,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx145.46\fscy111.9\fade(255,0,255,-200,-200,740,1340)\frz345\pos(1139.65,513.74)\4a&HFF&}Blam {In preview for last episode}
 Dialogue: 1,0:25:03.02,0:25:03.06,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord7.46\fscx138.5\fscy106.54\fade(255,0,255,-250,-250,690,1290)\frz345\pos(1124.79,515.41)\c&H121A26&}Blam {In preview for last episode}
 Dialogue: 2,0:25:03.02,0:25:03.06,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx138.5\fscy106.54\fade(255,0,255,-250,-250,690,1290)\frz345\pos(1124.79,515.41)\4a&HFF&}Blam {In preview for last episode}
+Dialogue: 0,0:25:03.02,0:25:05.90,Dubtitles,,0,0,0,,Dio's evil, yeah, but\Nthis guy is far worse!
 Dialogue: 1,0:25:03.06,0:25:03.11,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord7.08\fscx131.45\fscy101.12\fade(255,0,255,-290,-290,650,1250)\frz345\pos(1122.13,529.58)\c&H121A26&}Blam {In preview for last episode}
 Dialogue: 2,0:25:03.06,0:25:03.11,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx131.45\fscy101.12\fade(255,0,255,-290,-290,650,1250)\frz345\pos(1122.13,529.58)\4a&HFF&}Blam {In preview for last episode}
-Dialogue: 0,0:25:03.10,0:25:06.06,Dubtitles,,0,0,0,,Dio's evil, yeah, but\Nthis guy is far worse!
 Dialogue: 1,0:25:03.11,0:25:03.15,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord7.05\fscx130.99\fscy100.76\fade(255,0,255,-330,-330,610,1210)\frz345\pos(1124.54,533.15)\c&H121A26&}Blam {In preview for last episode}
 Dialogue: 2,0:25:03.11,0:25:03.15,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx130.99\fscy100.76\fade(255,0,255,-330,-330,610,1210)\frz345\pos(1124.54,533.15)\4a&HFF&}Blam {In preview for last episode}
 Dialogue: 1,0:25:03.15,0:25:03.19,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord7.02\fscx130.45\fscy100.35\fade(255,0,255,-370,-370,570,1170)\frz345\pos(1124.31,534.19)\c&H121A26&}Blam {In preview for last episode}
@@ -1258,11 +1245,10 @@ Dialogue: 1,0:25:03.36,0:25:03.40,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord6.81\fs
 Dialogue: 2,0:25:03.36,0:25:03.40,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx126.5\fscy97.31\fade(255,0,255,-580,-580,360,960)\frz345\pos(1118.85,537.73)\4a&HFF&}Blam {In preview for last episode}
 Dialogue: 1,0:25:03.40,0:25:03.44,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord6.79\fscx126.11\fscy97.01\fade(255,0,255,-620,-620,320,920)\frz345\pos(1115.68,535.68)\c&H121A26&}Blam {In preview for last episode}
 Dialogue: 2,0:25:03.40,0:25:03.44,SFXYellow,P1,0,0,0,,{=19}{\blur0.7\bord0\fscx126.11\fscy97.01\fade(255,0,255,-620,-620,320,920)\frz345\pos(1115.68,535.68)\4a&HFF&}Blam {In preview for last episode}
-Dialogue: 0,0:25:06.22,0:25:07.74,Dubtitles,,0,0,0,,Prepare for the carnage!
-Dialogue: 0,0:25:07.90,0:25:09.02,Dubtitles,,0,0,0,,Who do I look like?
-Dialogue: 0,0:25:09.14,0:25:11.56,Dubtitles,,0,0,0,,I beg of you, teach me how to wield it.
+Dialogue: 0,0:25:05.98,0:25:07.92,Dubtitles,,0,0,0,,Prepare for the carnage!
+Dialogue: 0,0:25:08.00,0:25:09.06,Dubtitles,,0,0,0,,Who do I look like?
+Dialogue: 0,0:25:09.14,0:25:09.97,Dubtitles,,0,0,0,,I beg of you.
+Dialogue: 0,0:25:10.16,0:25:11.63,Dubtitles,,0,0,0,,Teach me how to wield it.
 Dialogue: 1,0:25:11.61,0:25:13.62,Title,,0,0,0,,{\fs120\pos(960,280)\blur2}Episode 4:
 Dialogue: 1,0:25:11.61,0:25:13.62,Title,,0,0,0,,{\fs120\pos(960,785)\blur2\i1}"Overdrive"{\i0}
-Dialogue: 1,0:25:11.61,0:25:13.62,Title,,0,0,0,,{\fs120\pos(960,280)}Episode 4:
-Dialogue: 1,0:25:11.61,0:25:13.62,Title,,0,0,0,,{\fs120\pos(960,785)}"Overdrive"
 

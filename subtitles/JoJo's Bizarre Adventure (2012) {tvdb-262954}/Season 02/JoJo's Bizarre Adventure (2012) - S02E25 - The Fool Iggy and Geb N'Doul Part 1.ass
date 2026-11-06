@@ -35,112 +35,116 @@ Style: SC Opening 2 Eng,Gill Sans MT,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Style: SFX,Shaky Hand Some Comic,140,&H0089BDE5,&H000000FF,&H000D0B0C,&H000B0B0B,-1,0,0,0,130,100,0,0,1,6,5,8,50,40,20,1
 Style: SFXRed,Shaky Hand Some Comic Bold,150,&H001F108D,&H000000FF,&H00070509,&H003E2AA2,-1,0,0,0,130,100,0,0,1,10,5,9,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00120A0B,&H000000FF,&H00000000,&HA0602534,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.69,0:00:24.37,Dubtitles,,0,0,0,,It's about time.
+Dialogue: 0,0:00:22.20,0:00:23.88,Dubtitles,,0,0,0,,It's about time.
+Dialogue: 0,0:00:30.40,0:00:37.45,Dubtitles,,0,0,0,,I love you.
 Dialogue: 1,0:00:31.51,0:00:34.34,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,953)}Seeking out...
-Dialogue: 0,0:00:56.53,0:00:59.67,Dubtitles,,0,0,0,,That's not one way to go, I'm not a fool!
-Dialogue: 0,0:01:00.55,0:01:04.11,Dubtitles,,0,0,0,,This is where we're still looking for.
-Dialogue: 0,0:01:04.19,0:01:05.89,Dubtitles,,0,0,0,,We're still looking for a place.
-Dialogue: 0,0:01:05.97,0:01:09.25,Dubtitles,,0,0,0,,We're still looking for a long time.
-Dialogue: 0,0:01:09.79,0:01:13.11,Dubtitles,,0,0,0,,The time we're shooting for a long time.
-Dialogue: 0,0:01:13.19,0:01:15.43,Dubtitles,,0,0,0,,Stop it now!
-Dialogue: 0,0:01:17.69,0:01:18.95,Dubtitles,,0,0,0,,Let's go.
-Dialogue: 0,0:01:19.03,0:01:20.37,Dubtitles,,0,0,0,,The story of a story.
-Dialogue: 0,0:01:20.45,0:01:21.28,Dubtitles,,0,0,0,,That was the moment we were?
-Dialogue: 0,0:01:21.37,0:01:23.06,Dubtitles,,0,0,0,,Now that's the end of the time.
-Dialogue: 0,0:01:32.13,0:01:33.53,Dubtitles,,0,0,0,,Oh?
-Dialogue: 0,0:01:52.87,0:01:53.70,Dubtitles,,0,0,0,,Ahhhh!
+Dialogue: 0,0:00:47.00,0:00:51.14,Dubtitles,,0,0,0,,The death of the moonlight\Nis a strange man.
+Dialogue: 0,0:00:51.66,0:00:56.80,Dubtitles,,0,0,0,,The sky is the one who is lost, the\Nshadow of the great wolf. Don't do it.
+Dialogue: 0,0:00:57.44,0:00:58.27,Dubtitles,,0,0,0,,Don't do it.
+Dialogue: 0,0:01:00.12,0:01:03.50,Dubtitles,,0,0,0,,The only place to be is in\Nplace is the only place.
+Dialogue: 0,0:01:03.58,0:01:07.88,Dubtitles,,0,0,0,,We are still in the end of the battle.
+Dialogue: 0,0:01:08.80,0:01:14.50,Dubtitles,,0,0,0,,The beat is still a good start.
+Dialogue: 0,0:01:17.34,0:01:20.74,Dubtitles,,0,0,0,,The first time we've been in the war,
+Dialogue: 0,0:01:50.22,0:01:51.05,Dubtitles,,0,0,0,,Come on!
+Dialogue: 0,0:01:53.50,0:01:54.33,Dubtitles,,0,0,0,,THE END
 Dialogue: 1,0:02:00.01,0:02:06.10,Title 3,Title,0,0,0,,{\fad(690,930)\pos(175,700)\fscx83}Episode 25: Iggy the Fool and Geb's N'Doul, Part 1
-Dialogue: 0,0:02:07.51,0:02:08.34,Dubtitles,,0,0,0,,Hmm?
-Dialogue: 0,0:02:08.51,0:02:09.34,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:02:09.43,0:02:11.02,Dubtitles,,0,0,0,,Do you hear that noise too?
-Dialogue: 0,0:02:11.19,0:02:12.19,Dubtitles,,0,0,0,,They've arrived.
-Dialogue: 0,0:02:13.75,0:02:15.03,Dubtitles,,0,0,0,,It's a helicopter!
-Dialogue: 0,0:02:15.37,0:02:17.41,Dubtitles,,0,0,0,,Thanks for the update, Captain Obvious.
-Dialogue: 0,0:02:17.49,0:02:19.47,Dubtitles,,0,0,0,,They're here from the\NSpeedwagon Foundation,
-Dialogue: 0,0:02:19.55,0:02:22.02,Dubtitles,,0,0,0,,and they're looking for somewhere to land.
-Dialogue: 0,0:02:22.51,0:02:23.81,Dubtitles,,0,0,0,,Speedwagon Foundation?
-Dialogue: 0,0:02:23.91,0:02:25.11,Dubtitles,,0,0,0,,Correct me if I'm wrong,
-Dialogue: 0,0:02:25.19,0:02:27.73,Dubtitles,,0,0,0,,but aren't they the group that's\Nlooking after Mom back in Japan?
-Dialogue: 0,0:02:27.81,0:02:29.15,Dubtitles,,0,0,0,,They're old friends of yours, right?
-Dialogue: 0,0:02:29.23,0:02:30.82,Dubtitles,,0,0,0,,Yep, that's them all right.
-Dialogue: 0,0:02:32.07,0:02:32.90,Dubtitles,,0,0,0,,So what?
-Dialogue: 0,0:02:33.13,0:02:35.72,Dubtitles,,0,0,0,,Are we taking a helicopter\Nfrom here on out?
-Dialogue: 0,0:02:36.03,0:02:36.86,Dubtitles,,0,0,0,,Not quite.
-Dialogue: 0,0:02:37.01,0:02:40.81,Dubtitles,,0,0,0,,As much as I'd like to, the guys working\Nfor the Foundation aren't stand-users.
-Dialogue: 0,0:02:40.89,0:02:43.45,Dubtitles,,0,0,0,,So we'd be putting them in\Nharm's way if we hitched a ride.
-Dialogue: 0,0:02:43.53,0:02:46.73,Dubtitles,,0,0,0,,Well, if they're not here to give\Nus a ride, what's the occasion then?
-Dialogue: 0,0:02:46.81,0:02:48.59,Dubtitles,,0,0,0,,They brought us our new ally.
-Dialogue: 0,0:02:48.67,0:02:49.59,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:02:50.21,0:02:51.89,Dubtitles,,0,0,0,,Tu Rikiel? An ally?
-Dialogue: 0,0:02:52.65,0:02:55.21,Dubtitles,,0,0,0,,I have to warn you,\Nhe's a bit of a handful,
-Dialogue: 0,0:02:55.29,0:02:58.03,Dubtitles,,0,0,0,,which is the primary reason\Nit took so long to fetch him.
-Dialogue: 0,0:02:58.11,0:02:58.94,Dubtitles,,0,0,0,,Mr.
-Dialogue: 0,0:02:59.03,0:03:02.41,Dubtitles,,0,0,0,,Joestar, you aren't seriously\Nconsidering taking him with us, are you?
-Dialogue: 0,0:03:02.49,0:03:04.21,Dubtitles,,0,0,0,,His presence here would only hold us back.
-Dialogue: 0,0:03:04.29,0:03:06.53,Dubtitles,,0,0,0,,So he might actually harm us? Correct.
-Dialogue: 0,0:03:07.07,0:03:08.37,Dubtitles,,0,0,0,,So be careful.
-Dialogue: 0,0:03:08.69,0:03:09.79,Dubtitles,,0,0,0,,Not so fast.
-Dialogue: 0,0:03:10.03,0:03:13.73,Dubtitles,,0,0,0,,This new ally of ours, are you\Nsaying that he's a stand user too?
-Dialogue: 0,0:03:13.81,0:03:18.40,Dubtitles,,0,0,0,,Yes, that's right, and his stand is\Nrepresented by the card known as the Fool.
-Dialogue: 0,0:03:18.49,0:03:19.37,Dubtitles,,0,0,0,,The fool?
-Dialogue: 0,0:03:21.69,0:03:23.47,Dubtitles,,0,0,0,,Wait, the fool? Ha ha!
-Dialogue: 0,0:03:24.09,0:03:24.92,Dubtitles,,0,0,0,,Ha ha!
-Dialogue: 0,0:03:25.01,0:03:27.87,Dubtitles,,0,0,0,,Sounds like a pretty stupid\Ncard if you want my opinion.
-Dialogue: 0,0:03:27.95,0:03:31.13,Dubtitles,,0,0,0,,You should count your blessings\Nthat he's on our side.
-Dialogue: 0,0:03:31.31,0:03:32.85,Dubtitles,,0,0,0,,You can't beat him.
-Dialogue: 0,0:03:33.75,0:03:37.37,Dubtitles,,0,0,0,,I'd suggest watching your mouth if\Nyou know what's good for you, Avdol.
-Dialogue: 0,0:03:37.45,0:03:38.67,Dubtitles,,0,0,0,,It's true, Polnareff.
-Dialogue: 0,0:03:38.75,0:03:40.05,Dubtitles,,0,0,0,,Now move your hand.
-Dialogue: 0,0:03:40.23,0:03:41.06,Dubtitles,,0,0,0,,You're hurting me.
-Dialogue: 0,0:03:41.15,0:03:42.57,Dubtitles,,0,0,0,,Who died and made you the boss?
-Dialogue: 0,0:03:42.65,0:03:43.59,Dubtitles,,0,0,0,,Enough, you two.
-Dialogue: 0,0:03:44.37,0:03:45.67,Dubtitles,,0,0,0,,The helicopter's here.
-Dialogue: 0,0:04:07.61,0:04:08.44,Dubtitles,,0,0,0,,Mr.
-Dialogue: 0,0:04:08.53,0:04:09.87,Dubtitles,,0,0,0,,Joestar, good to see you.
-Dialogue: 0,0:04:10.05,0:04:11.71,Dubtitles,,0,0,0,,Thank you for bringing him here.
-Dialogue: 0,0:04:11.79,0:04:13.03,Dubtitles,,0,0,0,,Must have been rough.
-Dialogue: 0,0:04:13.99,0:04:15.81,Dubtitles,,0,0,0,,So, which one of you is it?
-Dialogue: 0,0:04:15.97,0:04:17.21,Dubtitles,,0,0,0,,Who's the stand user?
-Dialogue: 0,0:04:21.99,0:04:26.37,Dubtitles,,0,0,0,,Well, you're gonna answer\Nme or not? Is it you, no.
-Dialogue: 0,0:04:26.45,0:04:29.75,Dubtitles,,0,0,0,,sir neither of us is the\Nuser he's actually in the
-Dialogue: 0,0:04:29.83,0:04:35.43,Dubtitles,,0,0,0,,back in the
-Dialogue: 0,0:04:35.51,0:04:37.85,Dubtitles,,0,0,0,,back huh I
-Dialogue: 0,0:04:37.93,0:04:40.35,Dubtitles,,0,0,0,,don't see anyone no he's
-Dialogue: 0,0:04:40.43,0:04:44.87,Dubtitles,,0,0,0,,there hey hey cut it out\Ncome on quit Joking around.
-Dialogue: 0,0:04:45.19,0:04:47.81,Dubtitles,,0,0,0,,What's the deal? Is the guy\Nreally short or something?
-Dialogue: 0,0:04:47.89,0:04:50.11,Dubtitles,,0,0,0,,Come out, come out, wherever you are!
-Dialogue: 0,0:04:50.43,0:04:51.33,Dubtitles,,0,0,0,,Hey, watch out!
-Dialogue: 0,0:04:52.75,0:04:53.58,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:04:53.67,0:04:56.14,Dubtitles,,0,0,0,,That's weird. What the hell is this stuff?
-Dialogue: 0,0:04:56.33,0:05:00.33,Dubtitles,,0,0,0,,Please be careful, it was a rough\Ncopter ride so he's in a foul mood.
-Dialogue: 0,0:05:00.41,0:05:03.45,Dubtitles,,0,0,0,,Step away, I've already told\Nyou this guy is trouble.
-Dialogue: 0,0:05:03.53,0:05:06.03,Dubtitles,,0,0,0,,Get back Polnareff, you cannot beat him.
-Dialogue: 0,0:05:06.37,0:05:07.49,Dubtitles,,0,0,0,,What's the big deal?
-Dialogue: 0,0:05:07.57,0:05:09.69,Dubtitles,,0,0,0,,All I'm doing is asking where he is.
-Dialogue: 0,0:05:16.51,0:05:17.34,Dubtitles,,0,0,0,,A dog!
-Dialogue: 0,0:05:17.43,0:05:19.27,Dubtitles,,0,0,0,,Don't tell me this dog is...
-Dialogue: 0,0:05:21.03,0:05:24.01,Dubtitles,,0,0,0,,Yes, this dog possesses\Nthe stand of the fool.
-Dialogue: 0,0:05:24.25,0:05:29.19,Dubtitles,,0,0,0,,His name is Iggy, and he's crazy about\Nripping chunks of hair out of people's heads.
-Dialogue: 0,0:05:29.35,0:05:32.17,Dubtitles,,0,0,0,,To be honest with you, I'm\Nnot sure where he's from,
-Dialogue: 0,0:05:32.25,0:05:36.21,Dubtitles,,0,0,0,,but Avdol found him in New York after none\Nof the dog catchers could wrangle him.
-Dialogue: 0,0:05:36.29,0:05:39.49,Dubtitles,,0,0,0,,And it's thanks to Avdol that\Nhe's not roaming the streets now.
-Dialogue: 0,0:05:39.57,0:05:43.10,Dubtitles,,0,0,0,,Oh, there's something that I\Nprobably should have mentioned.
-Dialogue: 0,0:05:44.83,0:05:47.39,Dubtitles,,0,0,0,,When he's in the middle of\Nripping out someone's hair,
-Dialogue: 0,0:05:47.47,0:05:49.73,Dubtitles,,0,0,0,,he likes to, uh, pass gas in their face.
-Dialogue: 0,0:05:49.81,0:05:51.70,Dubtitles,,0,0,0,,It's a disgusting habit, really.
-Dialogue: 0,0:05:56.67,0:05:58.05,Dubtitles,,0,0,0,,You little mutt!
-Dialogue: 0,0:05:58.17,0:05:59.70,Dubtitles,,0,0,0,,You're gonna pay for that!
-Dialogue: 0,0:05:59.97,0:06:00.89,Dubtitles,,0,0,0,,Damn you!
-Dialogue: 0,0:06:01.99,0:06:02.82,Dubtitles,,0,0,0,,Tarion!
-Dialogue: 0,0:06:22.37,0:06:23.33,Dubtitles,,0,0,0,,Holy cow!
-Dialogue: 0,0:06:23.77,0:06:25.23,Dubtitles,,0,0,0,,So that thing is the fool.
-Dialogue: 0,0:06:25.31,0:06:29.37,Dubtitles,,0,0,0,,When we were in Singapore, we fought\Nan orangutan stand user, but this is...
-Dialogue: 0,0:06:29.45,0:06:32.49,Dubtitles,,0,0,0,,Who does this stupid mutt\Nthink he is? Bastard!
-Dialogue: 0,0:06:32.69,0:06:34.87,Dubtitles,,0,0,0,,Don't make me turn you into dog meat!
+Dialogue: 0,0:02:06.54,0:02:07.37,Dubtitles,,0,0,0,,Hmm?
+Dialogue: 0,0:02:07.98,0:02:08.81,Dubtitles,,0,0,0,,Hey!
+Dialogue: 0,0:02:08.94,0:02:10.59,Dubtitles,,0,0,0,,Do you hear that noise, too?
+Dialogue: 0,0:02:10.72,0:02:11.68,Dubtitles,,0,0,0,,They've arrived.
+Dialogue: 0,0:02:13.26,0:02:14.52,Dubtitles,,0,0,0,,It's a helicopter!
+Dialogue: 0,0:02:14.90,0:02:17.00,Dubtitles,,0,0,0,,Thanks for the update, Captain Obvious.
+Dialogue: 0,0:02:17.08,0:02:18.98,Dubtitles,,0,0,0,,They're here from the\NSpeedwagon Foundation.
+Dialogue: 0,0:02:19.06,0:02:21.53,Dubtitles,,0,0,0,,and they're looking for somewhere to land.
+Dialogue: 0,0:02:22.02,0:02:23.31,Dubtitles,,0,0,0,,Speedwagon Foundation?
+Dialogue: 0,0:02:23.44,0:02:24.62,Dubtitles,,0,0,0,,Correct me if I'm wrong,
+Dialogue: 0,0:02:24.70,0:02:27.24,Dubtitles,,0,0,0,,but aren't they the group that's\Nlooking after Mom back in Japan?
+Dialogue: 0,0:02:27.32,0:02:28.64,Dubtitles,,0,0,0,,They're old friends of yours, right?
+Dialogue: 0,0:02:28.72,0:02:30.31,Dubtitles,,0,0,0,,Yep, that's them all right.
+Dialogue: 0,0:02:31.58,0:02:32.41,Dubtitles,,0,0,0,,So what?
+Dialogue: 0,0:02:32.64,0:02:35.23,Dubtitles,,0,0,0,,Are we taking a helicopter\Nfrom here on out?
+Dialogue: 0,0:02:35.54,0:02:36.37,Dubtitles,,0,0,0,,Not quite.
+Dialogue: 0,0:02:36.54,0:02:40.34,Dubtitles,,0,0,0,,As much as I'd like to, the guys working\Nfor the Foundation aren't stand users,
+Dialogue: 0,0:02:40.42,0:02:42.96,Dubtitles,,0,0,0,,so we'd be putting them in\Nharm's way if we hitched a ride.
+Dialogue: 0,0:02:43.04,0:02:46.42,Dubtitles,,0,0,0,,Well, if they're not here to give\Nus a ride, what's the occasion then?
+Dialogue: 0,0:02:46.50,0:02:49.02,Dubtitles,,0,0,0,,They brought us our new ally. Huh?
+Dialogue: 0,0:02:49.94,0:02:51.48,Dubtitles,,0,0,0,,Turrigol. An ally?
+Dialogue: 0,0:02:52.16,0:02:54.70,Dubtitles,,0,0,0,,I have to warn you,\Nit's a bit of a handful,
+Dialogue: 0,0:02:54.78,0:02:57.58,Dubtitles,,0,0,0,,which is the primary reason\Nit took so long to fetch him.
+Dialogue: 0,0:02:57.66,0:02:58.49,Dubtitles,,0,0,0,,Mr.
+Dialogue: 0,0:02:58.57,0:03:01.92,Dubtitles,,0,0,0,,Joestar, you aren't seriously\Nconsidering taking him with us, are you?
+Dialogue: 0,0:03:02.00,0:03:03.72,Dubtitles,,0,0,0,,His presence here would only hold us back.
+Dialogue: 0,0:03:03.80,0:03:05.51,Dubtitles,,0,0,0,,So he might actually harm us?
+Dialogue: 0,0:03:06.16,0:03:06.99,Dubtitles,,0,0,0,,Correct.
+Dialogue: 0,0:03:07.07,0:03:07.90,Dubtitles,,0,0,0,,So be careful.
+Dialogue: 0,0:03:08.20,0:03:09.30,Dubtitles,,0,0,0,,Not so fast.
+Dialogue: 0,0:03:09.54,0:03:13.36,Dubtitles,,0,0,0,,This new ally of ours, are you\Nsaying that he's a stand user too?
+Dialogue: 0,0:03:13.46,0:03:17.92,Dubtitles,,0,0,0,,Yes, that's right, and his stand is\Nrepresented by the card known as the Fool.
+Dialogue: 0,0:03:18.00,0:03:18.84,Dubtitles,,0,0,0,,The Fool?
+Dialogue: 0,0:03:21.20,0:03:22.34,Dubtitles,,0,0,0,,Wait, the Fool?
+Dialogue: 0,0:03:24.28,0:03:27.38,Dubtitles,,0,0,0,,Sounds like a pretty stupid\Ncard if you want my opinion.
+Dialogue: 0,0:03:27.46,0:03:30.64,Dubtitles,,0,0,0,,You should count your blessings\Nthat he's on our side.
+Dialogue: 0,0:03:30.82,0:03:32.36,Dubtitles,,0,0,0,,You can't beat him.
+Dialogue: 0,0:03:33.26,0:03:36.96,Dubtitles,,0,0,0,,I'd suggest watching your mouth if\Nyou know what's good for you, Avdol.
+Dialogue: 0,0:03:37.04,0:03:38.16,Dubtitles,,0,0,0,,It's true, Polnareff.
+Dialogue: 0,0:03:38.24,0:03:39.52,Dubtitles,,0,0,0,,Now move your hand.
+Dialogue: 0,0:03:39.74,0:03:40.57,Dubtitles,,0,0,0,,You're hurting me.
+Dialogue: 0,0:03:40.65,0:03:42.46,Dubtitles,,0,0,0,,Who died and made you the boss?
+Dialogue: 0,0:03:42.76,0:03:43.59,Dubtitles,,0,0,0,,Enough, you two.
+Dialogue: 0,0:03:43.67,0:03:45.08,Dubtitles,,0,0,0,,The helicopter's here.
+Dialogue: 0,0:04:06.82,0:04:07.65,Dubtitles,,0,0,0,,Mr.
+Dialogue: 0,0:04:07.76,0:04:09.34,Dubtitles,,0,0,0,,Joestar, good to see you.
+Dialogue: 0,0:04:09.56,0:04:10.98,Dubtitles,,0,0,0,,Thank you for bringing him here.
+Dialogue: 0,0:04:11.06,0:04:12.30,Dubtitles,,0,0,0,,Must have been rough.
+Dialogue: 0,0:04:12.84,0:04:15.32,Dubtitles,,0,0,0,,So, which one of you is it?
+Dialogue: 0,0:04:15.48,0:04:16.72,Dubtitles,,0,0,0,,Who's the stand user?
+Dialogue: 0,0:04:21.64,0:04:23.76,Dubtitles,,0,0,0,,Well, you're gonna answer me or not.
+Dialogue: 0,0:04:24.50,0:04:26.22,Dubtitles,,0,0,0,,Is it you? No, sir.
+Dialogue: 0,0:04:26.70,0:04:28.18,Dubtitles,,0,0,0,,Neither of us is the user.
+Dialogue: 0,0:04:28.26,0:04:29.79,Dubtitles,,0,0,0,,He's actually in the back.
+Dialogue: 0,0:04:34.38,0:04:35.66,Dubtitles,,0,0,0,,In the back, huh?
+Dialogue: 0,0:04:36.92,0:04:38.28,Dubtitles,,0,0,0,,I don't see anyone.
+Dialogue: 0,0:04:38.66,0:04:40.08,Dubtitles,,0,0,0,,No, he's there.
+Dialogue: 0,0:04:40.16,0:04:41.96,Dubtitles,,0,0,0,,Hey, hey, cut it out!
+Dialogue: 0,0:04:42.30,0:04:45.42,Dubtitles,,0,0,0,,Come on, quit joking\Naround! What's the deal?
+Dialogue: 0,0:04:45.52,0:04:47.28,Dubtitles,,0,0,0,,Is the guy really short or something?
+Dialogue: 0,0:04:47.36,0:04:49.62,Dubtitles,,0,0,0,,Come out, come out, wherever you are!
+Dialogue: 0,0:04:49.94,0:04:50.82,Dubtitles,,0,0,0,,Hey, watch out!
+Dialogue: 0,0:04:52.70,0:04:53.92,Dubtitles,,0,0,0,,Huh? That's weird.
+Dialogue: 0,0:04:54.16,0:04:55.76,Dubtitles,,0,0,0,,What the hell is this stuff?
+Dialogue: 0,0:04:55.84,0:04:57.02,Dubtitles,,0,0,0,,Please be careful!
+Dialogue: 0,0:04:57.28,0:04:59.82,Dubtitles,,0,0,0,,It was a rough copter ride,\Nso he's in a foul mood!
+Dialogue: 0,0:04:59.90,0:05:00.73,Dubtitles,,0,0,0,,Step away!
+Dialogue: 0,0:05:00.81,0:05:02.90,Dubtitles,,0,0,0,,I've already told you this guy is trouble!
+Dialogue: 0,0:05:02.98,0:05:04.28,Dubtitles,,0,0,0,,Get back, Polnareff.
+Dialogue: 0,0:05:04.42,0:05:05.60,Dubtitles,,0,0,0,,You cannot beat him.
+Dialogue: 0,0:05:05.80,0:05:06.98,Dubtitles,,0,0,0,,What's the big deal?
+Dialogue: 0,0:05:07.06,0:05:09.18,Dubtitles,,0,0,0,,All I'm doing is asking where he is.
+Dialogue: 0,0:05:15.74,0:05:16.70,Dubtitles,,0,0,0,,A dog!
+Dialogue: 0,0:05:16.94,0:05:18.80,Dubtitles,,0,0,0,,Don't tell me this dog is...
+Dialogue: 0,0:05:20.56,0:05:23.52,Dubtitles,,0,0,0,,Yes, this dog possesses\Nthe stand of the fool.
+Dialogue: 0,0:05:23.76,0:05:28.70,Dubtitles,,0,0,0,,His name is Iggy, and he's crazy about\Nripping chunks of hair out of people's heads.
+Dialogue: 0,0:05:28.86,0:05:31.70,Dubtitles,,0,0,0,,To be honest with you, I'm\Nnot sure where he's from.
+Dialogue: 0,0:05:31.78,0:05:35.50,Dubtitles,,0,0,0,,But Avdol found him in New York after none\Nof the dog catchers could wrangle him.
+Dialogue: 0,0:05:35.58,0:05:39.04,Dubtitles,,0,0,0,,And it's thanks to Avdol that\Nhe's not roaming the streets now.
+Dialogue: 0,0:05:39.12,0:05:41.90,Dubtitles,,0,0,0,,Oh, there's something that I\Nprobably should have mentioned.
+Dialogue: 0,0:05:41.98,0:05:46.27,Dubtitles,,0,0,0,,When he's in the middle of ripping\Nout someone's hair, he likes to, uh...
+Dialogue: 0,0:05:47.48,0:05:49.12,Dubtitles,,0,0,0,,Pass gas in their face.
+Dialogue: 0,0:05:49.28,0:05:51.16,Dubtitles,,0,0,0,,It's a disgusting habit, really.
+Dialogue: 0,0:05:56.12,0:05:57.54,Dubtitles,,0,0,0,,You little mutt!
+Dialogue: 0,0:05:57.68,0:05:59.21,Dubtitles,,0,0,0,,You're gonna pay for that!
+Dialogue: 0,0:05:59.42,0:06:00.40,Dubtitles,,0,0,0,,Damn you!
+Dialogue: 0,0:06:01.44,0:06:02.27,Dubtitles,,0,0,0,,Chariot!
+Dialogue: 0,0:06:21.88,0:06:22.84,Dubtitles,,0,0,0,,Holy cow!
+Dialogue: 0,0:06:23.26,0:06:24.74,Dubtitles,,0,0,0,,So that thing is the fool.
+Dialogue: 0,0:06:24.82,0:06:29.29,Dubtitles,,0,0,0,,When we were in Singapore, we fought\Nan orangutan stand user, but this is...
+Dialogue: 0,0:06:29.46,0:06:31.46,Dubtitles,,0,0,0,,Who does this stupid mutt think he is?
+Dialogue: 0,0:06:31.54,0:06:32.37,Dubtitles,,0,0,0,,Bastard!
+Dialogue: 0,0:06:32.45,0:06:34.38,Dubtitles,,0,0,0,,Don't make me turn you into dog meat!
 Dialogue: 1,0:06:34.95,0:06:34.99,SFX,1,0,0,0,,{=1}{\bord11\blur0.7\fscx229.58\fscy176.6\frz23.78\c&H0D0B0C&\pos(90.8,784.66)}Slice
 Dialogue: 2,0:06:34.95,0:06:34.99,SFX,1,0,0,0,,{=1}{\bord0\blur0.7\fscx229.58\fscy176.6\frz23.78\shad5\4a&HFF&\pos(90.8,784.66)}Slice
 Dialogue: 1,0:06:34.99,0:06:35.04,SFX,1,0,0,0,,{=1}{\bord7\blur0.7\fscx167.35\fscy128.73\frz23.37\c&H0D0B0C&\pos(229.24,602.98)}Slice
@@ -195,6 +199,7 @@ Dialogue: 1,0:06:36.00,0:06:36.04,SFX,1,0,0,0,,{=1}{\blur0.7\frz10.37\pos(425.63
 Dialogue: 2,0:06:36.00,0:06:36.04,SFX,1,0,0,0,,{=1}{\bord0\blur0.7\frz10.37\pos(425.63,398.84)\shad5\4a&HFF&}Slice
 Dialogue: 1,0:06:36.04,0:06:36.08,SFX,1,0,0,0,,{=1}{\blur0.7\frz10.37\pos(421.52,409.25)\c&H0D0B0C&}Slice
 Dialogue: 2,0:06:36.04,0:06:36.08,SFX,1,0,0,0,,{=1}{\bord0\blur0.7\frz10.37\pos(421.52,409.25)\shad5\4a&HFF&}Slice
+Dialogue: 0,0:06:36.04,0:06:36.98,Dubtitles,,0,0,0,,What the hell?
 Dialogue: 1,0:06:36.08,0:06:36.12,SFX,1,0,0,0,,{=1}{\blur0.7\frz10.37\pos(421.76,393.51)\c&H0D0B0C&}Slice
 Dialogue: 2,0:06:36.08,0:06:36.12,SFX,1,0,0,0,,{=1}{\bord0\blur0.7\frz10.37\pos(421.76,393.51)\shad5\4a&HFF&}Slice
 Dialogue: 1,0:06:36.12,0:06:36.16,SFX,1,0,0,0,,{=1}{\blur0.7\frz10.37\pos(422.93,395.06)\c&H0D0B0C&}Slice
@@ -211,100 +216,100 @@ Dialogue: 1,0:06:36.33,0:06:36.37,SFX,1,0,0,0,,{=1}{\blur0.7\frz10.37\pos(440.27
 Dialogue: 2,0:06:36.33,0:06:36.37,SFX,1,0,0,0,,{=1}{\bord0\blur0.7\frz10.37\pos(440.27,359.97)\shad5\4a&HFF&}Slice
 Dialogue: 1,0:06:36.37,0:06:36.41,SFX,1,0,0,0,,{=1}{\blur0.7\frz10.37\pos(440.04,370.75)\c&H0D0B0C&}Slice
 Dialogue: 2,0:06:36.37,0:06:36.41,SFX,1,0,0,0,,{=1}{\bord0\blur0.7\frz10.37\pos(440.04,370.75)\shad5\4a&HFF&}Slice
-Dialogue: 0,0:06:36.49,0:06:37.47,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:06:37.61,0:06:38.79,Dubtitles,,0,0,0,,It turned into sand!
-Dialogue: 0,0:06:38.97,0:06:40.31,Dubtitles,,0,0,0,,I can't cut him!
-Dialogue: 0,0:06:41.39,0:06:42.22,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:06:42.31,0:06:46.05,Dubtitles,,0,0,0,,His stand is solidified and\Ngrabbed hold of my rapier! Is that?
-Dialogue: 0,0:06:46.51,0:06:49.49,Dubtitles,,0,0,0,,Yes, the dog's stand is\Nmade entirely out of sand.
-Dialogue: 0,0:06:50.35,0:06:54.99,Dubtitles,,0,0,0,,Hmm, as simple as the design is, it's so\Npowerful I'm not sure I could land a punch.
-Dialogue: 0,0:06:55.07,0:06:57.45,Dubtitles,,0,0,0,,Guys, what are you doing? Help!
-Dialogue: 0,0:06:57.67,0:06:59.33,Dubtitles,,0,0,0,,Get this dog off of me!
-Dialogue: 0,0:06:59.49,0:07:03.97,Dubtitles,,0,0,0,,I'm sorry, Polnareff, but if it's all the\Nsame to you, I'd like to keep my hand.
-Dialogue: 0,0:07:04.05,0:07:04.88,Dubtitles,,0,0,0,,Monster!
-Dialogue: 0,0:07:05.63,0:07:07.95,Dubtitles,,0,0,0,,Did you happen to bring his\Nfavorite snack with you?
-Dialogue: 0,0:07:08.03,0:07:09.05,Dubtitles,,0,0,0,,Of course I did.
-Dialogue: 0,0:07:09.27,0:07:10.77,Dubtitles,,0,0,0,,He wouldn't have come with us otherwise.
-Dialogue: 0,0:07:10.85,0:07:11.85,Dubtitles,,0,0,0,,Oh, my God, stop!
-Dialogue: 0,0:07:12.19,0:07:13.19,Dubtitles,,0,0,0,,Help me!
-Dialogue: 0,0:07:19.53,0:07:23.11,Dubtitles,,0,0,0,,The dog's sense of smell is\Nsimply incredible. And that is?
-Dialogue: 0,0:07:23.23,0:07:26.65,Dubtitles,,0,0,0,,It's coffee-flavored chewing gum.\NIggy will do just about anything!
-Dialogue: 0,0:07:26.73,0:07:30.07,Dubtitles,,0,0,0,,to savor this tasty little morsel. No! Mr.
-Dialogue: 0,0:07:30.25,0:07:33.05,Dubtitles,,0,0,0,,Avdol, quickly, hide\Nthe packet before you...
-Dialogue: 0,0:07:33.91,0:07:34.74,Dubtitles,,0,0,0,,Blast it!
-Dialogue: 0,0:07:34.83,0:07:36.30,Dubtitles,,0,0,0,,He grabbed the whole thing!
-Dialogue: 0,0:07:40.35,0:07:43.89,Dubtitles,,0,0,0,,He can't get enough of his\Ncoffee-flavored gum, as you can see.
-Dialogue: 0,0:07:43.97,0:07:47.39,Dubtitles,,0,0,0,,People, on the other hand, are a\Ndifferent story, unfortunately.
-Dialogue: 0,0:07:47.47,0:07:49.95,Dubtitles,,0,0,0,,The least he can do is\Ntake the wrapping off.
-Dialogue: 0,0:07:50.03,0:07:53.09,Dubtitles,,0,0,0,,How is a gum-obsessed feral\Ndog supposed to help us?
-Dialogue: 0,0:07:53.51,0:07:55.29,Dubtitles,,0,0,0,,Damn that little menace!
-Dialogue: 0,0:07:55.41,0:07:58.31,Dubtitles,,0,0,0,,He's completely ruined\Nmy picturesque hair!
-Dialogue: 0,0:07:58.95,0:07:59.97,Dubtitles,,0,0,0,,Partied corn!
-Dialogue: 0,0:08:01.15,0:08:03.57,Dubtitles,,0,0,0,,He'll be distracted while\Nhe's chewing his gum.
-Dialogue: 0,0:08:03.65,0:08:05.01,Dubtitles,,0,0,0,,Let's get the supplies.
-Dialogue: 0,0:08:09.31,0:08:12.17,Dubtitles,,0,0,0,,Here's the food and water you'll\Nbe needing for your trip, sir.
-Dialogue: 0,0:08:12.25,0:08:13.08,Dubtitles,,0,0,0,,Oh, thank you.
-Dialogue: 0,0:08:13.27,0:08:16.01,Dubtitles,,0,0,0,,There are medical supplies\Nand a change of clothes, too.
-Dialogue: 0,0:08:16.09,0:08:19.47,Dubtitles,,0,0,0,,We also took the liberty of buying\Na new camera to use with your stand.
-Dialogue: 0,0:08:19.55,0:08:23.14,Dubtitles,,0,0,0,,Yeah, I suppose it'll be a lot\Neasier than using a TV, right?
-Dialogue: 0,0:08:23.29,0:08:24.49,Dubtitles,,0,0,0,,Oh, I know.
-Dialogue: 0,0:08:24.81,0:08:26.03,Dubtitles,,0,0,0,,Look sharp, Ben.
-Dialogue: 0,0:08:31.27,0:08:32.10,Dubtitles,,0,0,0,,Fantastic.
-Dialogue: 0,0:08:32.19,0:08:33.33,Dubtitles,,0,0,0,,This is a perfect memento.
-Dialogue: 0,0:08:38.15,0:08:41.04,Dubtitles,,0,0,0,,Eftel, hurry up and\Ngive the Avdol the gum!
-Dialogue: 0,0:08:41.39,0:08:43.39,Dubtitles,,0,0,0,,Now why in the world would I do that,
-Dialogue: 0,0:08:43.47,0:08:47.00,Dubtitles,,0,0,0,,when the two of you are already\Nsuch good friends, Folder F?
-Dialogue: 0,0:08:49.75,0:08:53.33,Dubtitles,,0,0,0,,Well, if that's everything, I think\Nwe're going to be heading back now, Mr.
-Dialogue: 0,0:08:53.41,0:08:54.24,Dubtitles,,0,0,0,,Joestar.
-Dialogue: 0,0:08:54.65,0:08:56.36,Dubtitles,,0,0,0,,Answer this before you leave.
-Dialogue: 0,0:08:56.81,0:08:59.11,Dubtitles,,0,0,0,,It's regarding my daughter's condition.
-Dialogue: 0,0:09:00.55,0:09:02.79,Dubtitles,,0,0,0,,And I want you to be straight with me.
-Dialogue: 0,0:09:03.03,0:09:04.80,Dubtitles,,0,0,0,,How's my baby girl holding up?
-Dialogue: 0,0:09:07.03,0:09:11.47,Dubtitles,,0,0,0,,Well, to be perfectly frank with you,\Nsir, it's not looking good right now.
-Dialogue: 0,0:09:11.55,0:09:15.67,Dubtitles,,0,0,0,,She's rapidly losing strength and\Nnothing seems to help her condition.
-Dialogue: 0,0:09:16.81,0:09:21.65,Dubtitles,,0,0,0,,Our doctors at the Speedwagon Foundation\Nsay she has two weeks at best.
-Dialogue: 0,0:09:24.93,0:09:27.71,Dubtitles,,0,0,0,,We're all out of time. This is bullshit.
-Dialogue: 0,0:09:27.79,0:09:30.31,Dubtitles,,0,0,0,,I also have some other information sir.
-Dialogue: 0,0:09:31.33,0:09:33.91,Dubtitles,,0,0,0,,Our investigators say that two days ago,
-Dialogue: 0,0:09:34.13,0:09:38.91,Dubtitles,,0,0,0,,nine unidentified men and women gathered\Nin a building believed to be Dio's hideout.
-Dialogue: 0,0:09:38.99,0:09:41.45,Dubtitles,,0,0,0,,Apparently, they came and left together.
-Dialogue: 0,0:09:42.93,0:09:45.03,Dubtitles,,0,0,0,,Dio has rounded up nine more people?
-Dialogue: 0,0:09:45.11,0:09:46.95,Dubtitles,,0,0,0,,We have no clue who they are.
-Dialogue: 0,0:09:47.23,0:09:49.91,Dubtitles,,0,0,0,,The spy who reported this\Nwas killed shortly after,
-Dialogue: 0,0:09:49.99,0:09:52.61,Dubtitles,,0,0,0,,and the mansion where\Nthey met has been vacated.
-Dialogue: 0,0:09:52.69,0:09:55.52,Dubtitles,,0,0,0,,We've had no luck in\Nlocating these individuals.
-Dialogue: 0,0:09:56.03,0:09:57.61,Dubtitles,,0,0,0,,We thought about tailing them,
-Dialogue: 0,0:09:57.69,0:10:01.29,Dubtitles,,0,0,0,,but since our spies aren't stand users,\Nwe decided it would be too dangerous.
-Dialogue: 0,0:10:01.37,0:10:03.81,Dubtitles,,0,0,0,,So these people are stand users? Hold on.
-Dialogue: 0,0:10:04.21,0:10:05.65,Dubtitles,,0,0,0,,Think about it for a minute.
-Dialogue: 0,0:10:05.73,0:10:06.85,Dubtitles,,0,0,0,,That would be impossible.
-Dialogue: 0,0:10:06.93,0:10:09.31,Dubtitles,,0,0,0,,Other than whole horses stand the Emperor,
-Dialogue: 0,0:10:09.39,0:10:12.45,Dubtitles,,0,0,0,,the only tarot card that\Nstill remains is the world.
-Dialogue: 0,0:10:12.85,0:10:16.23,Dubtitles,,0,0,0,,I've been suspecting that one\Nbelongs to Dio, but now I'm not sure.
-Dialogue: 0,0:10:16.31,0:10:17.23,Dubtitles,,0,0,0,,Avdol? I...
-Dialogue: 0,0:10:17.31,0:10:18.33,Dubtitles,,0,0,0,,I don't know.
-Dialogue: 0,0:10:18.59,0:10:20.67,Dubtitles,,0,0,0,,I just can't wrap my head around this.
-Dialogue: 0,0:10:20.75,0:10:22.21,Dubtitles,,0,0,0,,Nine more stand users?
-Dialogue: 0,0:10:22.75,0:10:24.19,Dubtitles,,0,0,0,,From what I can gather,
-Dialogue: 0,0:10:24.49,0:10:28.77,Dubtitles,,0,0,0,,it seems that Dio's head hasn't been\Nable to adjust to his new body yet.
-Dialogue: 0,0:10:29.21,0:10:31.67,Dubtitles,,0,0,0,,But that monster would never run from us.
-Dialogue: 0,0:10:31.85,0:10:34.47,Dubtitles,,0,0,0,,He's far too conceited\Nfor something like that.
-Dialogue: 0,0:10:34.55,0:10:38.14,Dubtitles,,0,0,0,,He'll do everything within his\Npower to keep us out of Cairo.
-Dialogue: 0,0:10:38.51,0:10:39.95,Dubtitles,,0,0,0,,Good freaking grief.
-Dialogue: 0,0:10:40.17,0:10:43.31,Dubtitles,,0,0,0,,We have to take out nine\Nstand users in two weeks, huh?
-Dialogue: 0,0:10:43.39,0:10:45.86,Dubtitles,,0,0,0,,Man, that is one hell of a whirlwind tour.
-Dialogue: 0,0:10:46.15,0:10:48.01,Dubtitles,,0,0,0,,Have a safe trip, Mr. Joestar.
-Dialogue: 0,0:10:48.49,0:10:49.79,Dubtitles,,0,0,0,,We await your return.
-Dialogue: 0,0:10:50.23,0:10:51.19,Dubtitles,,0,0,0,,Thanks for your help.
-Dialogue: 0,0:10:51.27,0:10:52.73,Dubtitles,,0,0,0,,Look after my holly!
-Dialogue: 0,0:11:16.33,0:11:17.49,Dubtitles,,0,0,0,,That mutt.
-Dialogue: 0,0:11:17.57,0:11:21.25,Dubtitles,,0,0,0,,So, it sniffed out the great\NEndul from that far away?
-Dialogue: 0,0:11:41.41,0:11:42.47,Dubtitles,,0,0,0,,So close.
-Dialogue: 0,0:11:44.17,0:11:45.19,Dubtitles,,0,0,0,,What do you know?
-Dialogue: 0,0:11:45.37,0:11:46.81,Dubtitles,,0,0,0,,I almost caught it this time.
-Dialogue: 0,0:11:46.89,0:11:52.55,Dubtitles,,0,0,0,,Just a bit more practice, all of\Nthis because of the tsetse fly.
-Dialogue: 0,0:11:53.11,0:11:54.95,Dubtitles,,0,0,0,,If not for those insects,
-Dialogue: 0,0:11:55.19,0:12:00.02,Dubtitles,,0,0,0,,Joe Starr and his band of meddlers would\Nnever have known Master Dio was in Egypt.
+Dialogue: 0,0:06:37.12,0:06:38.30,Dubtitles,,0,0,0,,It turned into sand!
+Dialogue: 0,0:06:38.60,0:06:39.84,Dubtitles,,0,0,0,,I can't cut him!
+Dialogue: 0,0:06:40.90,0:06:41.73,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:06:41.81,0:06:44.88,Dubtitles,,0,0,0,,His stand is solidified and\Ngrabbed hold of my rapier!
+Dialogue: 0,0:06:44.96,0:06:45.79,Dubtitles,,0,0,0,,Is that...?
+Dialogue: 0,0:06:45.87,0:06:49.52,Dubtitles,,0,0,0,,Yes, the dog's stand is made\Nentirely out of sand. Hm.
+Dialogue: 0,0:06:50.02,0:06:54.48,Dubtitles,,0,0,0,,As simple as the design is, it's so\Npowerful I'm not sure I could land a punch.
+Dialogue: 0,0:06:54.56,0:06:56.96,Dubtitles,,0,0,0,,Guys, what are you doing? Help!
+Dialogue: 0,0:06:57.16,0:06:58.80,Dubtitles,,0,0,0,,Get this dog off of me!
+Dialogue: 0,0:06:59.00,0:07:03.44,Dubtitles,,0,0,0,,I'm sorry, Polnareff, but if it's all the\Nsame to you, I'd like to keep my hand.
+Dialogue: 0,0:07:03.52,0:07:04.35,Dubtitles,,0,0,0,,You monster!
+Dialogue: 0,0:07:05.02,0:07:07.58,Dubtitles,,0,0,0,,Did you happen to bring his\Nfavorite snack with you?
+Dialogue: 0,0:07:07.66,0:07:08.60,Dubtitles,,0,0,0,,Of course I did.
+Dialogue: 0,0:07:08.76,0:07:10.28,Dubtitles,,0,0,0,,He wouldn't have come with us otherwise.
+Dialogue: 0,0:07:10.36,0:07:11.32,Dubtitles,,0,0,0,,I can't stop!
+Dialogue: 0,0:07:11.72,0:07:12.72,Dubtitles,,0,0,0,,Help me!
+Dialogue: 0,0:07:19.04,0:07:22.62,Dubtitles,,0,0,0,,The dog's sense of smell is\Nsimply incredible. And that is?
+Dialogue: 0,0:07:22.74,0:07:24.48,Dubtitles,,0,0,0,,It's coffee flavored chewing gum.
+Dialogue: 0,0:07:24.56,0:07:28.58,Dubtitles,,0,0,0,,and Iggy will do just about anything\Nto savor this tasty little morsel.
+Dialogue: 0,0:07:28.66,0:07:30.08,Dubtitles,,0,0,0,,No, Mr. Avdol!
+Dialogue: 0,0:07:30.32,0:07:32.50,Dubtitles,,0,0,0,,Quickly, hide the packet before you—
+Dialogue: 0,0:07:33.40,0:07:34.23,Dubtitles,,0,0,0,,Blast it!
+Dialogue: 0,0:07:34.31,0:07:35.85,Dubtitles,,0,0,0,,He grabbed the whole thing!
+Dialogue: 0,0:07:39.86,0:07:43.40,Dubtitles,,0,0,0,,He can't get enough of his\Ncoffee-flavored gum, as you can see.
+Dialogue: 0,0:07:43.48,0:07:47.00,Dubtitles,,0,0,0,,People, on the other hand, are a\Ndifferent story, unfortunately.
+Dialogue: 0,0:07:47.08,0:07:49.46,Dubtitles,,0,0,0,,The least he can do is\Ntake the wrapping off.
+Dialogue: 0,0:07:49.54,0:07:52.60,Dubtitles,,0,0,0,,How is a gum-obsessed feral\Ndog supposed to help us?
+Dialogue: 0,0:07:53.00,0:07:54.80,Dubtitles,,0,0,0,,Damn that little menace!
+Dialogue: 0,0:07:54.94,0:07:57.80,Dubtitles,,0,0,0,,He's completely ruined\Nmy picturesque hair!
+Dialogue: 0,0:07:58.60,0:07:59.48,Dubtitles,,0,0,0,,Partied corn!
+Dialogue: 0,0:08:00.74,0:08:03.16,Dubtitles,,0,0,0,,He'll be distracted while\Nhe's chewing his gum.
+Dialogue: 0,0:08:03.24,0:08:04.59,Dubtitles,,0,0,0,,Let's get the supplies.
+Dialogue: 0,0:08:08.84,0:08:11.54,Dubtitles,,0,0,0,,Here's the food and water you'll\Nbe needing for your trip, sir.
+Dialogue: 0,0:08:11.62,0:08:12.52,Dubtitles,,0,0,0,,Oh, thank you.
+Dialogue: 0,0:08:12.78,0:08:15.42,Dubtitles,,0,0,0,,There are medical supplies\Nand a change of clothes, too.
+Dialogue: 0,0:08:15.50,0:08:19.00,Dubtitles,,0,0,0,,We also took the liberty of buying\Na new camera to use with your stand.
+Dialogue: 0,0:08:19.08,0:08:22.67,Dubtitles,,0,0,0,,Yeah, I suppose it'll be a lot\Neasier than using a TV, right?
+Dialogue: 0,0:08:22.84,0:08:24.00,Dubtitles,,0,0,0,,Oh, I know.
+Dialogue: 0,0:08:24.36,0:08:25.54,Dubtitles,,0,0,0,,Look sharp, man.
+Dialogue: 0,0:08:30.34,0:08:31.17,Dubtitles,,0,0,0,,Fantastic.
+Dialogue: 0,0:08:31.25,0:08:32.90,Dubtitles,,0,0,0,,This is a perfect memento.
+Dialogue: 0,0:08:37.70,0:08:40.58,Dubtitles,,0,0,0,,Avdol, hurry up and give\Nthem up the stupid gum!
+Dialogue: 0,0:08:40.96,0:08:41.79,Dubtitles,,0,0,0,,Now,
+Dialogue: 0,0:08:41.87,0:08:45.52,Dubtitles,,0,0,0,,why in the world would I do that, when the\Ntwo of you are already such good friends,
+Dialogue: 0,0:08:45.60,0:08:46.43,Dubtitles,,0,0,0,,Folder-Ev?
+Dialogue: 0,0:08:49.30,0:08:52.84,Dubtitles,,0,0,0,,Well, if that's everything, I think\Nwe're going to be heading back now, Mr.
+Dialogue: 0,0:08:52.92,0:08:53.75,Dubtitles,,0,0,0,,Joestar.
+Dialogue: 0,0:08:54.12,0:08:55.83,Dubtitles,,0,0,0,,Answer this before you leave.
+Dialogue: 0,0:08:56.48,0:08:58.77,Dubtitles,,0,0,0,,It's regarding my daughter's condition.
+Dialogue: 0,0:08:59.92,0:09:02.16,Dubtitles,,0,0,0,,And I want you to be straight with me.
+Dialogue: 0,0:09:02.56,0:09:04.33,Dubtitles,,0,0,0,,How's my baby girl holding up?
+Dialogue: 0,0:09:06.50,0:09:11.06,Dubtitles,,0,0,0,,Well, to be perfectly frank with you,\Nsir, it's not looking good right now.
+Dialogue: 0,0:09:11.58,0:09:15.76,Dubtitles,,0,0,0,,She's rapidly losing strength, and\Nnothing seems to help her condition.
+Dialogue: 0,0:09:16.38,0:09:21.10,Dubtitles,,0,0,0,,Our doctors at the Speedwagon Foundation\Nsay she has two weeks at best.
+Dialogue: 0,0:09:24.48,0:09:29.82,Dubtitles,,0,0,0,,we're all out of time this is bullshit\Ni also have some other information sir
+Dialogue: 0,0:09:30.76,0:09:35.96,Dubtitles,,0,0,0,,our investigators say that two days ago\Nnine unidentified men and women gathered
+Dialogue: 0,0:09:36.04,0:09:40.98,Dubtitles,,0,0,0,,in a building believed to be dio's hideout\Napparently they came and left together
+Dialogue: 0,0:09:41.06,0:09:45.22,Dubtitles,,0,0,0,,dio has rounded up nine\Nmore people we have
+Dialogue: 0,0:09:45.30,0:09:47.86,Dubtitles,,0,0,0,,no clue who they are the spy who reported
+Dialogue: 0,0:09:47.94,0:09:52.24,Dubtitles,,0,0,0,,this was killed shortly after And the\Nmansion where they met has been vacated.
+Dialogue: 0,0:09:52.32,0:09:55.14,Dubtitles,,0,0,0,,We've had no luck in\Nlocating these individuals.
+Dialogue: 0,0:09:55.60,0:09:58.94,Dubtitles,,0,0,0,,We thought about tailing them, but\Nsince our spies aren't stand users,
+Dialogue: 0,0:09:59.02,0:10:00.78,Dubtitles,,0,0,0,,we decided it would be too dangerous.
+Dialogue: 0,0:10:00.86,0:10:03.32,Dubtitles,,0,0,0,,So these people are stand users? Hold on.
+Dialogue: 0,0:10:03.76,0:10:05.16,Dubtitles,,0,0,0,,Think about it for a minute.
+Dialogue: 0,0:10:05.24,0:10:06.34,Dubtitles,,0,0,0,,That would be impossible.
+Dialogue: 0,0:10:06.42,0:10:08.76,Dubtitles,,0,0,0,,Other than whole horses stand the Emperor,
+Dialogue: 0,0:10:08.84,0:10:11.68,Dubtitles,,0,0,0,,the only tarot card that\Nstill remains is the world.
+Dialogue: 0,0:10:11.76,0:10:15.70,Dubtitles,,0,0,0,,I've been suspecting that one\Nbelongs to Dio, but now I'm not sure.
+Dialogue: 0,0:10:15.78,0:10:16.68,Dubtitles,,0,0,0,,Avdol? I...
+Dialogue: 0,0:10:16.76,0:10:17.84,Dubtitles,,0,0,0,,I don't know.
+Dialogue: 0,0:10:18.10,0:10:20.28,Dubtitles,,0,0,0,,I just can't wrap my head around this.
+Dialogue: 0,0:10:20.36,0:10:21.70,Dubtitles,,0,0,0,,Nine more stand users?
+Dialogue: 0,0:10:22.28,0:10:23.70,Dubtitles,,0,0,0,,From what I can gather,
+Dialogue: 0,0:10:24.00,0:10:28.28,Dubtitles,,0,0,0,,it seems that Dio's head hasn't been\Nable to adjust to his new body yet.
+Dialogue: 0,0:10:28.72,0:10:31.18,Dubtitles,,0,0,0,,But that monster would never run from us.
+Dialogue: 0,0:10:31.36,0:10:33.94,Dubtitles,,0,0,0,,He's far too conceited\Nfor something like that.
+Dialogue: 0,0:10:34.02,0:10:37.61,Dubtitles,,0,0,0,,He'll do everything within his\Npower to keep us out of Cairo.
+Dialogue: 0,0:10:38.04,0:10:39.46,Dubtitles,,0,0,0,,Good freaking grief.
+Dialogue: 0,0:10:39.70,0:10:42.82,Dubtitles,,0,0,0,,We have to take out nine\Nstand users in two weeks, huh?
+Dialogue: 0,0:10:42.90,0:10:45.20,Dubtitles,,0,0,0,,Man, that is one hell of a whirlwind tour.
+Dialogue: 0,0:10:45.28,0:10:47.52,Dubtitles,,0,0,0,,Have a safe trip, Mr. Joestar.
+Dialogue: 0,0:10:48.02,0:10:49.30,Dubtitles,,0,0,0,,We await your return.
+Dialogue: 0,0:10:49.86,0:10:50.98,Dubtitles,,0,0,0,,Thanks for your help.
+Dialogue: 0,0:10:51.06,0:10:52.24,Dubtitles,,0,0,0,,Look after my holly!
+Dialogue: 0,0:11:16.02,0:11:17.08,Dubtitles,,0,0,0,,That mutt.
+Dialogue: 0,0:11:17.44,0:11:20.76,Dubtitles,,0,0,0,,So, it sniffed out the Great\NEndul from that far away?
+Dialogue: 0,0:11:40.90,0:11:42.00,Dubtitles,,0,0,0,,So close.
+Dialogue: 0,0:11:43.66,0:11:44.62,Dubtitles,,0,0,0,,What do you know?
+Dialogue: 0,0:11:44.70,0:11:46.42,Dubtitles,,0,0,0,,I almost caught it this time.
+Dialogue: 0,0:11:46.80,0:11:48.27,Dubtitles,,0,0,0,,Just a bit more practice.
+Dialogue: 0,0:11:49.66,0:11:52.04,Dubtitles,,0,0,0,,All of this because of the tsetse fly.
+Dialogue: 0,0:11:52.56,0:11:54.44,Dubtitles,,0,0,0,,If not for those insects,
+Dialogue: 0,0:11:54.70,0:11:59.52,Dubtitles,,0,0,0,,Joe Starr and his band of meddlers would\Nnever have known Master Dio was in Egypt.
 Dialogue: 1,0:12:13.12,0:12:13.17,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:12:13.12,0:12:13.17,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:12:13.12,0:12:13.17,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -431,161 +436,160 @@ Dialogue: 3,0:12:15.50,0:12:15.88,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6
 Dialogue: 1,0:12:15.88,0:12:17.04,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\alpha&H60&\3c&HFFFFFE&\pos(1680,800)}Iggy
 Dialogue: 2,0:12:15.88,0:12:17.04,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\c&H434E52&\pos(1680,800)}Iggy
 Dialogue: 3,0:12:15.88,0:12:17.04,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\shad2\4a&HFF&\pos(1680,800)}Iggy
-Dialogue: 0,0:12:26.91,0:12:27.74,Dubtitles,,0,0,0,,Mr.
-Dialogue: 0,0:12:27.83,0:12:29.83,Dubtitles,,0,0,0,,Joestar, why are you letting\Nhim get away with this?
-Dialogue: 0,0:12:29.91,0:12:33.03,Dubtitles,,0,0,0,,It's not Farragus to be in the backseat\Nwhile we're stuck in the trunk.
-Dialogue: 0,0:12:33.11,0:12:36.11,Dubtitles,,0,0,0,,And in case you didn't know, it's\Nnot exactly spacious back here.
-Dialogue: 0,0:12:36.19,0:12:37.75,Dubtitles,,0,0,0,,I'm gonna need a chiropractor!
-Dialogue: 0,0:12:37.83,0:12:39.31,Dubtitles,,0,0,0,,Look, I know it's not ideal,
-Dialogue: 0,0:12:39.39,0:12:42.13,Dubtitles,,0,0,0,,but you'll just have to wait\Nuntil the gum runs out of flavor.
-Dialogue: 0,0:12:42.21,0:12:45.91,Dubtitles,,0,0,0,,When it does, throw another stick of gum\Ninto the trunk to lure him back there.
-Dialogue: 0,0:12:45.99,0:12:51.15,Dubtitles,,0,0,0,,Then you can all switch seats. All\Nright. All right. Calm down! Already
-Dialogue: 0,0:12:51.23,0:12:52.41,Dubtitles,,0,0,0,,fleabag damn
-Dialogue: 0,0:12:52.49,0:12:58.31,Dubtitles,,0,0,0,,you're annoying whoa
-Dialogue: 0,0:12:58.39,0:13:01.29,Dubtitles,,0,0,0,,what the hell was that hey quickly
-Dialogue: 0,0:13:01.37,0:13:05.57,Dubtitles,,0,0,0,,look over there there do you see
-Dialogue: 0,0:13:05.65,0:13:10.21,Dubtitles,,0,0,0,,it it's the helicopter the speed
-Dialogue: 0,0:13:10.29,0:13:14.41,Dubtitles,,0,0,0,,wagon foundation helicopter went\Ndown i can't believe what i'm seeing.
-Dialogue: 0,0:13:17.67,0:13:20.23,Dubtitles,,0,0,0,,There's no sign of an\Nexplosion or gunfire.
-Dialogue: 0,0:13:20.47,0:13:23.67,Dubtitles,,0,0,0,,It seems like it just fell out\Nof the sky for no reason at all.
-Dialogue: 0,0:13:23.75,0:13:25.31,Dubtitles,,0,0,0,,Could it be? Careful, men.
-Dialogue: 0,0:13:25.57,0:13:28.51,Dubtitles,,0,0,0,,I bet my life it was\Nattacked by an enemy's stand.
-Dialogue: 0,0:13:28.69,0:13:29.52,Dubtitles,,0,0,0,,Over there.
-Dialogue: 0,0:13:29.61,0:13:30.44,Dubtitles,,0,0,0,,It's the pilot.
-Dialogue: 0,0:13:33.35,0:13:34.71,Dubtitles,,0,0,0,,He's already dead.
-Dialogue: 0,0:13:35.65,0:13:36.48,Dubtitles,,0,0,0,,No.
-Dialogue: 0,0:13:36.85,0:13:39.38,Dubtitles,,0,0,0,,Whatever happened to\Nhim, it wasn't pretty.
-Dialogue: 0,0:13:40.03,0:13:41.41,Dubtitles,,0,0,0,,The poor bastard.
-Dialogue: 0,0:13:42.15,0:13:43.05,Dubtitles,,0,0,0,,Approach carefully.
-Dialogue: 0,0:13:43.13,0:13:46.55,Dubtitles,,0,0,0,,Finally, whatever did this\Ncould still be hiding in there.
-Dialogue: 0,0:13:55.25,0:13:56.23,Dubtitles,,0,0,0,,It's water.
-Dialogue: 0,0:14:04.27,0:14:06.81,Dubtitles,,0,0,0,,There's no way all that\Nwater is just from his mouth.
-Dialogue: 0,0:14:06.89,0:14:08.85,Dubtitles,,0,0,0,,It must be flowing from somewhere else.
-Dialogue: 0,0:14:08.93,0:14:11.07,Dubtitles,,0,0,0,,It must be from his lungs.
-Dialogue: 0,0:14:11.99,0:14:13.85,Dubtitles,,0,0,0,,And the fish would mean...
-Dialogue: 0,0:14:13.93,0:14:15.73,Dubtitles,,0,0,0,,He drowned in the desert!
-Dialogue: 0,0:14:16.07,0:14:18.09,Dubtitles,,0,0,0,,This is getting weirder and weirder!
-Dialogue: 0,0:14:18.17,0:14:20.39,Dubtitles,,0,0,0,,What is going on? Hey!
-Dialogue: 0,0:14:20.85,0:14:23.71,Dubtitles,,0,0,0,,We found the other guy\Nover here! He's alive!
-Dialogue: 0,0:14:26.77,0:14:27.60,Dubtitles,,0,0,0,,Hang on!
-Dialogue: 0,0:14:27.75,0:14:29.11,Dubtitles,,0,0,0,,You have to talk to us!
-Dialogue: 0,0:14:29.21,0:14:30.51,Dubtitles,,0,0,0,,Tell us what happened!
-Dialogue: 0,0:14:35.49,0:14:36.32,Dubtitles,,0,0,0,,Water...
-Dialogue: 0,0:14:37.81,0:14:38.64,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:14:38.73,0:14:40.34,Dubtitles,,0,0,0,,Are you saying you need water?
-Dialogue: 0,0:14:40.67,0:14:42.61,Dubtitles,,0,0,0,,Hurry, Polnareff, hand me the canteen.
-Dialogue: 0,0:14:42.69,0:14:43.65,Dubtitles,,0,0,0,,Huh? Oh, yeah.
-Dialogue: 0,0:14:45.43,0:14:47.14,Dubtitles,,0,0,0,,Here, you just hang in there.
-Dialogue: 0,0:14:47.37,0:14:48.29,Dubtitles,,0,0,0,,Drink this.
-Dialogue: 0,0:14:48.73,0:14:49.71,Dubtitles,,0,0,0,,Drink it slowly.
-Dialogue: 0,0:14:57.59,0:14:58.42,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:14:58.51,0:14:59.97,Dubtitles,,0,0,0,,The water attacked us!
-Dialogue: 0,0:15:05.87,0:15:08.01,Dubtitles,,0,0,0,,Man, watch yourselves. It's a stand.
-Dialogue: 0,0:15:08.09,0:15:10.45,Dubtitles,,0,0,0,,The enemy's stand is inside the canteen!
-Dialogue: 0,0:15:13.69,0:15:14.57,Dubtitles,,0,0,0,,Damn it all!
-Dialogue: 0,0:15:15.39,0:15:17.45,Dubtitles,,0,0,0,,They were just innocent bystanders.
-Dialogue: 0,0:15:17.61,0:15:19.79,Dubtitles,,0,0,0,,What reason did it have to kill them?
-Dialogue: 0,0:15:20.17,0:15:22.81,Dubtitles,,0,0,0,,Avdol, did you see what kind\Nof stand we're dealing with?
-Dialogue: 0,0:15:22.89,0:15:27.01,Dubtitles,,0,0,0,,I just saw the shape of a hand, but I'd\Nwager it's still inside the canteen.
-Dialogue: 0,0:15:27.09,0:15:28.97,Dubtitles,,0,0,0,,I don't believe I saw it leave.
-Dialogue: 0,0:15:30.05,0:15:31.53,Dubtitles,,0,0,0,,Who could the user be?
-Dialogue: 0,0:15:31.91,0:15:35.83,Dubtitles,,0,0,0,,The Foundation members informed us Dio\Nhad a meeting with nine men and women.
-Dialogue: 0,0:15:35.91,0:15:38.74,Dubtitles,,0,0,0,,Is it possible that one\Nof them is the assassin?
-Dialogue: 0,0:15:39.07,0:15:42.31,Dubtitles,,0,0,0,,Hey, I need you to find the\Nstand user. Yeah, I know.
-Dialogue: 0,0:15:42.53,0:15:44.37,Dubtitles,,0,0,0,,I'm already on it. That said.
-Dialogue: 0,0:15:50.35,0:15:53.63,Dubtitles,,0,0,0,,I don't see anything around\Nus, let alone the stand user.
-Dialogue: 0,0:15:53.71,0:15:57.91,Dubtitles,,0,0,0,,When we duked it out with that sun\Nstand, he was hiding behind a mirror.
-Dialogue: 0,0:15:57.99,0:15:58.82,Dubtitles,,0,0,0,,But this time,
-Dialogue: 0,0:15:58.91,0:16:03.36,Dubtitles,,0,0,0,,the enemy seems to be so far away that\Nwe'll never be able to find him from here.
-Dialogue: 0,0:16:15.35,0:16:17.85,Dubtitles,,0,0,0,,Polnareff, slice up\Nthe canteen, would you?
-Dialogue: 0,0:16:17.93,0:16:18.76,Dubtitles,,0,0,0,,Why me?
-Dialogue: 0,0:16:19.29,0:16:21.77,Dubtitles,,0,0,0,,Besides, didn't you see\Nwhat happened to the pilot?
-Dialogue: 0,0:16:21.85,0:16:25.32,Dubtitles,,0,0,0,,His entire head got sucked into\Nthat tiny little container.
-Dialogue: 0,0:16:25.53,0:16:26.59,Dubtitles,,0,0,0,,Think about it.
-Dialogue: 0,0:16:26.77,0:16:29.36,Dubtitles,,0,0,0,,If I so much as poke a\Nhole in that thing...
-Dialogue: 0,0:16:30.25,0:16:31.08,Dubtitles,,0,0,0,,No way.
-Dialogue: 0,0:16:31.17,0:16:32.81,Dubtitles,,0,0,0,,Why don't you slice it up, Kakyoin?
-Dialogue: 0,0:16:32.89,0:16:33.81,Dubtitles,,0,0,0,,You're closer anyhow.
-Dialogue: 0,0:16:33.89,0:16:36.91,Dubtitles,,0,0,0,,You can just use your emerald\Nsplash and call it a day.
-Dialogue: 0,0:16:36.99,0:16:37.82,Dubtitles,,0,0,0,,Can't you?
-Dialogue: 0,0:16:37.91,0:16:38.93,Dubtitles,,0,0,0,,Yes, but I don't want to
-Dialogue: 0,0:16:39.55,0:16:42.55,Dubtitles,,0,0,0,,Don't make me do something just\Nbecause you don't want to do it.
-Dialogue: 0,0:16:42.63,0:16:43.59,Dubtitles,,0,0,0,,What the hell man?
-Dialogue: 0,0:16:43.67,0:16:44.83,Dubtitles,,0,0,0,,What's going on with you?
-Dialogue: 0,0:16:44.91,0:16:46.71,Dubtitles,,0,0,0,,I've said no and that's final.
-Dialogue: 0,0:16:46.83,0:16:50.42,Dubtitles,,0,0,0,,Well, like I said, I'm not gonna\Nattack the damn thing either
-Dialogue: 0,0:16:58.65,0:16:59.48,Dubtitles,,0,0,0,,That's the
-Dialogue: 0,0:17:04.41,0:17:05.45,Dubtitles,,0,0,0,,Kakyoin!
-Dialogue: 0,0:17:06.51,0:17:07.51,Dubtitles,,0,0,0,,It's the water!
-Dialogue: 0,0:17:07.75,0:17:11.13,Dubtitles,,0,0,0,,The stand left the canteen disguised\Nas water and hid in the blood!
-Dialogue: 0,0:17:11.21,0:17:12.29,Dubtitles,,0,0,0,,No, that's wrong!
-Dialogue: 0,0:17:12.51,0:17:15.13,Dubtitles,,0,0,0,,The stand wasn't disguising\Nitself as water at all!
-Dialogue: 0,0:17:15.21,0:17:17.27,Dubtitles,,0,0,0,,I think the stand IS the water! No!
-Dialogue: 0,0:17:17.47,0:17:18.45,Dubtitles,,0,0,0,,It got Kakyoin!
-Dialogue: 0,0:17:19.55,0:17:21.77,Dubtitles,,0,0,0,,It closed up Kakuin's eyes!
-Dialogue: 0,0:17:22.33,0:17:23.16,Dubtitles,,0,0,0,,Polnareff!
-Dialogue: 0,0:17:23.25,0:17:25.03,Dubtitles,,0,0,0,,Panicking isn't going to help anything!
-Dialogue: 0,0:17:25.11,0:17:26.88,Dubtitles,,0,0,0,,Summon Chariot for protection!
-Dialogue: 0,0:17:31.85,0:17:34.27,Dubtitles,,0,0,0,,Damn it, it'll get Polnareff too.
-Dialogue: 0,0:17:47.17,0:17:48.93,Dubtitles,,0,0,0,,This doesn't make any sense.
-Dialogue: 0,0:17:49.01,0:17:51.29,Dubtitles,,0,0,0,,Why would it go after the pilot's corpse?
-Dialogue: 0,0:17:51.37,0:17:52.35,Dubtitles,,0,0,0,,It wasn't the corpse.
-Dialogue: 0,0:17:52.43,0:17:54.69,Dubtitles,,0,0,0,,The target was the watch.
-Dialogue: 0,0:17:54.77,0:17:57.71,Dubtitles,,0,0,0,,It attacked the watch\Nbecause of the alarm.
-Dialogue: 0,0:17:58.49,0:17:59.32,Dubtitles,,0,0,0,,That's it!
-Dialogue: 0,0:17:59.49,0:18:02.81,Dubtitles,,0,0,0,,The stand stalks its victims\Nby sound! You're kidding!
-Dialogue: 0,0:18:08.87,0:18:10.45,Dubtitles,,0,0,0,,Get out of there, Polaramp!
-Dialogue: 0,0:18:10.53,0:18:12.06,Dubtitles,,0,0,0,,It's coming after you now!
-Dialogue: 0,0:18:14.27,0:18:15.79,Dubtitles,,0,0,0,,Hurry and get to the car!
-Dialogue: 0,0:18:25.97,0:18:27.23,Dubtitles,,0,0,0,,It's so fast!
-Dialogue: 0,0:18:29.31,0:18:30.79,Dubtitles,,0,0,0,,Faster, pull the raft!
-Dialogue: 0,0:18:37.79,0:18:39.31,Dubtitles,,0,0,0,,It got me!
-Dialogue: 0,0:18:39.79,0:18:40.91,Dubtitles,,0,0,0,,Hermit Purple!
-Dialogue: 0,0:18:49.29,0:18:51.51,Dubtitles,,0,0,0,,The stand disappeared into the ground.
-Dialogue: 0,0:18:51.59,0:18:52.42,Dubtitles,,0,0,0,,I see now.
-Dialogue: 0,0:18:52.51,0:18:54.69,Dubtitles,,0,0,0,,It detects sound through\Nvibrations in the ground.
-Dialogue: 0,0:18:54.77,0:18:57.47,Dubtitles,,0,0,0,,And it moves through the Earth,\Nso there's no way to find it.
-Dialogue: 0,0:18:57.55,0:18:59.51,Dubtitles,,0,0,0,,That puts us at a major disadvantage.
-Dialogue: 0,0:18:59.59,0:19:00.81,Dubtitles,,0,0,0,,Since we can't see it,
-Dialogue: 0,0:19:00.89,0:19:05.66,Dubtitles,,0,0,0,,the Stand has the ability to attack from\Nabove or below at any moment it chooses.
-Dialogue: 0,0:19:06.09,0:19:09.74,Dubtitles,,0,0,0,,To make things worse, the Stand\Nuser could be kilometers away.
-Dialogue: 0,0:19:18.89,0:19:21.69,Dubtitles,,0,0,0,,So the Prey has sought\Nrefuge atop the car.
-Dialogue: 0,0:19:22.33,0:19:24.59,Dubtitles,,0,0,0,,Seems they've realized Until is using the
-Dialogue: 0,0:19:24.67,0:19:27.26,Dubtitles,,0,0,0,,power of sound to hunt\Nthem down one by one.
-Dialogue: 0,0:19:29.29,0:19:30.15,Dubtitles,,0,0,0,,No matter.
-Dialogue: 0,0:19:30.39,0:19:33.16,Dubtitles,,0,0,0,,It won't be long before\Nthey're all eliminated.
-Dialogue: 0,0:19:39.41,0:19:42.19,Dubtitles,,0,0,0,,Hey, how's Kakyoin doing? Not good.
-Dialogue: 0,0:19:42.51,0:19:45.11,Dubtitles,,0,0,0,,From the looks of things,\Nhe may have been blinded.
-Dialogue: 0,0:19:45.19,0:19:46.45,Dubtitles,,0,0,0,,We have to get going.
-Dialogue: 0,0:19:46.61,0:19:48.47,Dubtitles,,0,0,0,,He needs to see a doctor\Nas soon as possible.
-Dialogue: 0,0:19:48.55,0:19:52.26,Dubtitles,,0,0,0,,But if we try to move from this\Nspot that stand will attack us?
-Dialogue: 0,0:19:52.61,0:19:54.75,Dubtitles,,0,0,0,,We can't afford careless mistakes!
-Dialogue: 0,0:20:13.39,0:20:14.75,Dubtitles,,0,0,0,,What the hell!
-Dialogue: 0,0:20:22.71,0:20:29.53,Dubtitles,,0,0,0,,That sound it's the dog interesting it\Nleapt out of the car before i could attack!
-Dialogue: 0,0:20:29.61,0:20:32.69,Dubtitles,,0,0,0,,It anticipated what my\Nstand was going to do
-Dialogue: 0,0:20:32.77,0:20:35.47,Dubtitles,,0,0,0,,seems like this dog is\Ngoing to be quite the!
-Dialogue: 0,0:20:35.55,0:20:38.61,Dubtitles,,0,0,0,,Nuisance the tires are\Nin the water shit what
-Dialogue: 0,0:20:38.69,0:20:41.21,Dubtitles,,0,0,0,,now the whole car's about to be pulled in!
-Dialogue: 0,0:20:41.29,0:20:43.05,Dubtitles,,0,0,0,,I can't hold him for long!
-Dialogue: 0,0:20:43.13,0:20:45.27,Dubtitles,,0,0,0,,Everyone we have to move to the back!
-Dialogue: 0,0:20:45.35,0:20:47.23,Dubtitles,,0,0,0,,Hey you good for nothing mongrel!
-Dialogue: 0,0:20:47.31,0:20:49.59,Dubtitles,,0,0,0,,Aren't you supposed to be\Nhelping us or something!
-Dialogue: 0,0:20:49.67,0:20:53.89,Dubtitles,,0,0,0,,I see that a cursed dog is!
-Dialogue: 0,0:20:53.97,0:20:58.25,Dubtitles,,0,0,0,,Too perceptive for his own good it knows\NI'm four kilometers west of Joestar's!
-Dialogue: 0,0:20:58.33,0:20:59.16,Dubtitles,,0,0,0,,Group
-Dialogue: 0,0:21:00.55,0:21:01.93,Dubtitles,,0,0,0,,what to do?
-Dialogue: 0,0:21:05.07,0:21:07.91,Dubtitles,,0,0,0,,Perhaps I should do away\Nwith the dog right now.
-Dialogue: 0,0:21:13.49,0:21:15.67,Dubtitles,,0,0,0,,Yes, leave while we fight to survive!
-Dialogue: 0,0:21:16.83,0:21:18.72,Dubtitles,,0,0,0,,You're a bastard, you know that?
-Dialogue: 0,0:21:24.45,0:21:26.93,Dubtitles,,0,0,0,,Never mind, the dog is of no concern.
-Dialogue: 0,0:21:27.69,0:21:30.95,Dubtitles,,0,0,0,,Joestar and the others can't\Ncontrol that mongrel anyway.
-Dialogue: 0,0:21:31.03,0:21:33.50,Dubtitles,,0,0,0,,The mutt's harmless if all it does is nap.
-Dialogue: 0,0:21:36.37,0:21:37.43,Dubtitles,,0,0,0,,Now for the kill!
-Dialogue: 0,0:21:39.79,0:21:40.89,Dubtitles,,0,0,0,,Son of a bitch!
-Dialogue: 0,0:21:41.03,0:21:43.87,Dubtitles,,0,0,0,,The water's sharp enough to\Nslash through our front tires!
-Dialogue: 0,0:21:43.95,0:21:46.01,Dubtitles,,0,0,0,,Move to the other side on the double!
-Dialogue: 0,0:21:46.09,0:21:47.91,Dubtitles,,0,0,0,,If it's trying to do what I think it is,
-Dialogue: 0,0:21:47.99,0:21:50.76,Dubtitles,,0,0,0,,then we're gonna need to\Nhang on for our lives!
+Dialogue: 0,0:12:26.44,0:12:27.27,Dubtitles,,0,0,0,,Mr.
+Dialogue: 0,0:12:27.35,0:12:29.34,Dubtitles,,0,0,0,,Joestar, why are you letting\Nhim get away with this?
+Dialogue: 0,0:12:29.42,0:12:32.52,Dubtitles,,0,0,0,,It's not farigus to be in the backseat\Nwhile we're stuck in the trunk.
+Dialogue: 0,0:12:32.60,0:12:35.62,Dubtitles,,0,0,0,,And in case you didn't know, it's\Nnot exactly spacious back here.
+Dialogue: 0,0:12:35.70,0:12:37.28,Dubtitles,,0,0,0,,I'm gonna need a chiropractor!
+Dialogue: 0,0:12:37.36,0:12:38.80,Dubtitles,,0,0,0,,Look, I know it's not ideal,
+Dialogue: 0,0:12:38.88,0:12:41.54,Dubtitles,,0,0,0,,but you'll just have to wait\Nuntil the gum runs out of flavor.
+Dialogue: 0,0:12:41.62,0:12:45.68,Dubtitles,,0,0,0,,When it does, throw another stick of gum\Ninto the trunk to lure him back there.
+Dialogue: 0,0:12:45.76,0:12:48.05,Dubtitles,,0,0,0,,Then you can all switch seats with him.
+Dialogue: 0,0:12:48.74,0:12:51.62,Dubtitles,,0,0,0,,All right, all right, calm\Ndown already, fleabag.
+Dialogue: 0,0:12:51.70,0:12:52.99,Dubtitles,,0,0,0,,Damn, you're annoying.
+Dialogue: 0,0:12:57.48,0:12:59.60,Dubtitles,,0,0,0,,Whoa, what the hell was that?
+Dialogue: 0,0:12:59.88,0:13:01.74,Dubtitles,,0,0,0,,Hey, quickly, look over there.
+Dialogue: 0,0:13:03.66,0:13:05.36,Dubtitles,,0,0,0,,There, do you see it?
+Dialogue: 0,0:13:05.82,0:13:07.00,Dubtitles,,0,0,0,,It's the helicopter.
+Dialogue: 0,0:13:09.10,0:13:11.87,Dubtitles,,0,0,0,,The Speedwagon Foundation\Nhelicopter went down.
+Dialogue: 0,0:13:12.02,0:13:13.90,Dubtitles,,0,0,0,,I can't believe what I'm seeing.
+Dialogue: 0,0:13:17.18,0:13:19.72,Dubtitles,,0,0,0,,There's no sign of an\Nexplosion or gunfire.
+Dialogue: 0,0:13:19.98,0:13:23.18,Dubtitles,,0,0,0,,It seems like it just fell out\Nof the sky for no reason at all.
+Dialogue: 0,0:13:23.26,0:13:24.82,Dubtitles,,0,0,0,,Could it be? Careful, men.
+Dialogue: 0,0:13:25.08,0:13:28.02,Dubtitles,,0,0,0,,I bet my life it was\Nattacked by an enemy's stand.
+Dialogue: 0,0:13:28.16,0:13:28.99,Dubtitles,,0,0,0,,Over there.
+Dialogue: 0,0:13:29.07,0:13:29.90,Dubtitles,,0,0,0,,It's the pilot!
+Dialogue: 0,0:13:32.86,0:13:34.24,Dubtitles,,0,0,0,,He's already dead.
+Dialogue: 0,0:13:34.98,0:13:35.81,Dubtitles,,0,0,0,,No.
+Dialogue: 0,0:13:36.42,0:13:38.95,Dubtitles,,0,0,0,,Whatever happened to\Nhim, it wasn't pretty.
+Dialogue: 0,0:13:39.38,0:13:40.92,Dubtitles,,0,0,0,,The poor bastard.
+Dialogue: 0,0:13:41.50,0:13:42.66,Dubtitles,,0,0,0,,Approach carefully.
+Dialogue: 0,0:13:43.16,0:13:46.04,Dubtitles,,0,0,0,,Whatever did this could\Nstill be hiding in there.
+Dialogue: 0,0:13:54.52,0:13:55.72,Dubtitles,,0,0,0,,It's water.
+Dialogue: 0,0:14:03.82,0:14:06.90,Dubtitles,,0,0,0,,there's no way all that water is\Njust from his mouth it must be
+Dialogue: 0,0:14:06.98,0:14:12.40,Dubtitles,,0,0,0,,flowing from somewhere else it\Nmust be from his lungs and the fish
+Dialogue: 0,0:14:12.48,0:14:16.98,Dubtitles,,0,0,0,,would mean he drowned in the\Ndesert this is getting weirder and
+Dialogue: 0,0:14:17.06,0:14:23.32,Dubtitles,,0,0,0,,weirder what is going on hey we found\Nthe other guy over here he's alive
+Dialogue: 0,0:14:26.28,0:14:27.11,Dubtitles,,0,0,0,,Hang on!
+Dialogue: 0,0:14:27.28,0:14:28.58,Dubtitles,,0,0,0,,You have to talk to us!
+Dialogue: 0,0:14:28.66,0:14:29.95,Dubtitles,,0,0,0,,Tell us what happened!
+Dialogue: 0,0:14:37.30,0:14:38.13,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:14:38.21,0:14:39.59,Dubtitles,,0,0,0,,Are you saying you need water?
+Dialogue: 0,0:14:39.90,0:14:40.98,Dubtitles,,0,0,0,,Hurry, Polnareff!
+Dialogue: 0,0:14:41.06,0:14:42.12,Dubtitles,,0,0,0,,Hand me the canteen!
+Dialogue: 0,0:14:42.20,0:14:43.16,Dubtitles,,0,0,0,,Huh? Oh, yeah.
+Dialogue: 0,0:14:45.00,0:14:46.71,Dubtitles,,0,0,0,,Here, you just hang in there.
+Dialogue: 0,0:14:46.90,0:14:47.80,Dubtitles,,0,0,0,,Drink this.
+Dialogue: 0,0:14:48.18,0:14:49.20,Dubtitles,,0,0,0,,Drink it slowly.
+Dialogue: 0,0:14:56.82,0:14:57.72,Dubtitles,,0,0,0,,Ah! No!
+Dialogue: 0,0:14:58.00,0:14:59.84,Dubtitles,,0,0,0,,The water attacked us! What?
+Dialogue: 0,0:15:05.52,0:15:07.72,Dubtitles,,0,0,0,,Men, watch yourselves! It's a stand!
+Dialogue: 0,0:15:07.90,0:15:10.25,Dubtitles,,0,0,0,,The enemy's stand is inside the canteen!
+Dialogue: 0,0:15:13.20,0:15:14.08,Dubtitles,,0,0,0,,Damn it all!
+Dialogue: 0,0:15:14.78,0:15:16.90,Dubtitles,,0,0,0,,They were just innocent bystanders.
+Dialogue: 0,0:15:17.12,0:15:19.30,Dubtitles,,0,0,0,,What reason did it have to kill them?
+Dialogue: 0,0:15:19.70,0:15:22.18,Dubtitles,,0,0,0,,Avdol, did you see what kind\Nof stand we're dealing with?
+Dialogue: 0,0:15:22.26,0:15:26.54,Dubtitles,,0,0,0,,I just saw the shape of a hand, but I'd\Nwager it's still inside the canteen.
+Dialogue: 0,0:15:26.62,0:15:28.48,Dubtitles,,0,0,0,,I don't believe I saw it leave.
+Dialogue: 0,0:15:29.58,0:15:31.04,Dubtitles,,0,0,0,,Who could the user be?
+Dialogue: 0,0:15:31.46,0:15:35.66,Dubtitles,,0,0,0,,The Foundation members informed us Dio\Nhad a meeting with nine men and women.
+Dialogue: 0,0:15:35.74,0:15:38.46,Dubtitles,,0,0,0,,Is it possible that one\Nof them is the assassin?
+Dialogue: 0,0:15:38.54,0:15:41.84,Dubtitles,,0,0,0,,Hey, I need you to find the\Nstand user. Yeah, I know.
+Dialogue: 0,0:15:42.04,0:15:43.88,Dubtitles,,0,0,0,,I'm already on it. That said.
+Dialogue: 0,0:15:49.90,0:15:53.16,Dubtitles,,0,0,0,,I don't see anything around\Nus, let alone the stand user.
+Dialogue: 0,0:15:53.24,0:15:57.48,Dubtitles,,0,0,0,,When we duked it out with that sun\Nstand, he was hiding behind a mirror.
+Dialogue: 0,0:15:57.56,0:15:58.39,Dubtitles,,0,0,0,,But this time,
+Dialogue: 0,0:15:58.47,0:16:02.93,Dubtitles,,0,0,0,,the enemy seems to be so far away that\Nwe'll never be able to find him from here.
+Dialogue: 0,0:16:14.68,0:16:17.21,Dubtitles,,0,0,0,,Polnareff, slice up\Nthe canteen, would you?
+Dialogue: 0,0:16:17.46,0:16:18.29,Dubtitles,,0,0,0,,Why me?
+Dialogue: 0,0:16:18.80,0:16:21.28,Dubtitles,,0,0,0,,Besides, didn't you see\Nwhat happened to the pilot?
+Dialogue: 0,0:16:21.36,0:16:24.83,Dubtitles,,0,0,0,,His entire head got sucked into\Nthat tiny little container!
+Dialogue: 0,0:16:25.04,0:16:26.10,Dubtitles,,0,0,0,,Think about it!
+Dialogue: 0,0:16:26.28,0:16:29.10,Dubtitles,,0,0,0,,If I so much as poke a\Nhole in that thing...
+Dialogue: 0,0:16:29.78,0:16:30.61,Dubtitles,,0,0,0,,No way!
+Dialogue: 0,0:16:30.69,0:16:32.32,Dubtitles,,0,0,0,,Why don't you slice it up, Kakyoin?
+Dialogue: 0,0:16:32.40,0:16:33.64,Dubtitles,,0,0,0,,You're closer anyway!
+Dialogue: 0,0:16:33.72,0:16:36.90,Dubtitles,,0,0,0,,You can just use your emerald\Nsplash and call it a day, can't you?
+Dialogue: 0,0:16:36.98,0:16:38.45,Dubtitles,,0,0,0,,Yes, but I don't want to.
+Dialogue: 0,0:16:39.04,0:16:41.88,Dubtitles,,0,0,0,,Don't make me do something just\Nbecause you don't want to do it!
+Dialogue: 0,0:16:41.96,0:16:43.08,Dubtitles,,0,0,0,,What the hell, man?
+Dialogue: 0,0:16:43.20,0:16:44.32,Dubtitles,,0,0,0,,What's going on with you?
+Dialogue: 0,0:16:44.40,0:16:46.22,Dubtitles,,0,0,0,,I've said no, and that's final.
+Dialogue: 0,0:16:46.32,0:16:50.14,Dubtitles,,0,0,0,,Well, like I said, I'm not going\Nto attack the damn thing either.
+Dialogue: 0,0:17:00.02,0:17:00.90,Dubtitles,,0,0,0,,That's the...
+Dialogue: 0,0:17:04.12,0:17:05.18,Dubtitles,,0,0,0,,Kakyoin!
+Dialogue: 0,0:17:06.08,0:17:07.04,Dubtitles,,0,0,0,,It's the water!
+Dialogue: 0,0:17:07.32,0:17:10.66,Dubtitles,,0,0,0,,The stand left the canteen disguised\Nas water and hid in the blood!
+Dialogue: 0,0:17:10.74,0:17:11.76,Dubtitles,,0,0,0,,No, that's wrong.
+Dialogue: 0,0:17:11.96,0:17:14.64,Dubtitles,,0,0,0,,The stand wasn't disguising\Nitself as water at all!
+Dialogue: 0,0:17:14.72,0:17:16.78,Dubtitles,,0,0,0,,I think the stand is the water! No!
+Dialogue: 0,0:17:16.96,0:17:18.12,Dubtitles,,0,0,0,,It got Kakyoin!
+Dialogue: 0,0:17:19.02,0:17:21.28,Dubtitles,,0,0,0,,It closed up Kakyoin's eyes!
+Dialogue: 0,0:17:21.80,0:17:22.63,Dubtitles,,0,0,0,,Polnareff!
+Dialogue: 0,0:17:22.71,0:17:24.56,Dubtitles,,0,0,0,,Panicking isn't going to help anything!
+Dialogue: 0,0:17:24.64,0:17:26.41,Dubtitles,,0,0,0,,Summon Chariot for protection!
+Dialogue: 0,0:17:31.42,0:17:32.26,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:17:32.44,0:17:33.85,Dubtitles,,0,0,0,,It'll get Polnareff too!
+Dialogue: 0,0:17:46.76,0:17:48.48,Dubtitles,,0,0,0,,This doesn't make any sense.
+Dialogue: 0,0:17:48.68,0:17:50.80,Dubtitles,,0,0,0,,Why would it go after the pilot's corpse?
+Dialogue: 0,0:17:50.88,0:17:52.12,Dubtitles,,0,0,0,,It wasn't the corpse.
+Dialogue: 0,0:17:52.22,0:17:54.26,Dubtitles,,0,0,0,,The target was the watch.
+Dialogue: 0,0:17:54.84,0:17:57.37,Dubtitles,,0,0,0,,It attacked the watch\Nbecause of the alarm.
+Dialogue: 0,0:17:58.12,0:17:58.95,Dubtitles,,0,0,0,,That's it.
+Dialogue: 0,0:17:59.03,0:18:02.32,Dubtitles,,0,0,0,,The stand stalks its victims\Nby sound. You're kidding.
+Dialogue: 0,0:18:08.38,0:18:09.96,Dubtitles,,0,0,0,,Get out of there, Polaramp.
+Dialogue: 0,0:18:10.04,0:18:11.57,Dubtitles,,0,0,0,,It's coming for you now!
+Dialogue: 0,0:18:13.64,0:18:15.32,Dubtitles,,0,0,0,,Hurry and get to the car!
+Dialogue: 0,0:18:25.36,0:18:26.74,Dubtitles,,0,0,0,,It's so fast!
+Dialogue: 0,0:18:28.68,0:18:30.26,Dubtitles,,0,0,0,,Faster, pull the ref!
+Dialogue: 0,0:18:37.02,0:18:38.84,Dubtitles,,0,0,0,,It got me!
+Dialogue: 0,0:18:39.06,0:18:40.38,Dubtitles,,0,0,0,,Hermit Purple!
+Dialogue: 0,0:18:48.92,0:18:51.02,Dubtitles,,0,0,0,,The stand disappeared into the ground!
+Dialogue: 0,0:18:51.10,0:18:51.93,Dubtitles,,0,0,0,,I see now.
+Dialogue: 0,0:18:52.01,0:18:54.16,Dubtitles,,0,0,0,,It detects sound through\Nvibrations in the ground.
+Dialogue: 0,0:18:54.24,0:18:56.96,Dubtitles,,0,0,0,,And it moves through the earth\Nso there's no way to find it.
+Dialogue: 0,0:18:57.04,0:18:59.04,Dubtitles,,0,0,0,,That puts us at a major disadvantage.
+Dialogue: 0,0:18:59.12,0:19:00.34,Dubtitles,,0,0,0,,Since we can't see it,
+Dialogue: 0,0:19:00.42,0:19:05.19,Dubtitles,,0,0,0,,the stand has the ability to attack from\Nabove or below at any moment it chooses.
+Dialogue: 0,0:19:05.56,0:19:09.21,Dubtitles,,0,0,0,,To make things worse, the stand\Nuser could be kilometers away.
+Dialogue: 0,0:19:18.26,0:19:21.20,Dubtitles,,0,0,0,,So the prey has sought\Nrefuge atop the car.
+Dialogue: 0,0:19:21.74,0:19:24.10,Dubtitles,,0,0,0,,Seems they've realized Undul is using the
+Dialogue: 0,0:19:24.18,0:19:26.77,Dubtitles,,0,0,0,,power of sound to hunt\Nthem down one by one.
+Dialogue: 0,0:19:28.70,0:19:29.66,Dubtitles,,0,0,0,,No matter.
+Dialogue: 0,0:19:29.90,0:19:32.67,Dubtitles,,0,0,0,,It won't be long before\Nthey're all eliminated.
+Dialogue: 0,0:19:38.82,0:19:41.70,Dubtitles,,0,0,0,,Hey, how's Kakyoin doing? Not good.
+Dialogue: 0,0:19:41.96,0:19:44.70,Dubtitles,,0,0,0,,From the looks of things,\Nhe may have been blinded.
+Dialogue: 0,0:19:44.78,0:19:46.02,Dubtitles,,0,0,0,,We have to get going.
+Dialogue: 0,0:19:46.14,0:19:48.20,Dubtitles,,0,0,0,,He needs to see a doctor\Nas soon as possible.
+Dialogue: 0,0:19:48.28,0:19:52.05,Dubtitles,,0,0,0,,But if we try to move from this\Nspot, that stand will attack us.
+Dialogue: 0,0:19:52.28,0:19:54.28,Dubtitles,,0,0,0,,We can't afford careless mistakes.
+Dialogue: 0,0:20:12.90,0:20:15.04,Dubtitles,,0,0,0,,What the hell?!
+Dialogue: 0,0:20:22.82,0:20:23.92,Dubtitles,,0,0,0,,That sound.
+Dialogue: 0,0:20:24.28,0:20:25.90,Dubtitles,,0,0,0,,It's the dog. Interesting.
+Dialogue: 0,0:20:26.56,0:20:29.27,Dubtitles,,0,0,0,,It leapt out of the car\Nbefore I could attack.
+Dialogue: 0,0:20:29.54,0:20:32.26,Dubtitles,,0,0,0,,It anticipated what my\Nstand was going to do.
+Dialogue: 0,0:20:32.62,0:20:35.80,Dubtitles,,0,0,0,,Seems like this dog is going\Nto be quite the nuisance.
+Dialogue: 0,0:20:35.92,0:20:37.51,Dubtitles,,0,0,0,,The tires are in the water!
+Dialogue: 0,0:20:37.62,0:20:38.74,Dubtitles,,0,0,0,,Shit, what now?!
+Dialogue: 0,0:20:38.82,0:20:40.72,Dubtitles,,0,0,0,,The whole car's about to be pulled in!
+Dialogue: 0,0:20:40.80,0:20:42.64,Dubtitles,,0,0,0,,I can't hold him for long.
+Dialogue: 0,0:20:42.88,0:20:44.98,Dubtitles,,0,0,0,,Everyone, we have to move to the back.
+Dialogue: 0,0:20:45.06,0:20:46.98,Dubtitles,,0,0,0,,Hey, you good-for-nothing mongrel!
+Dialogue: 0,0:20:47.06,0:20:50.00,Dubtitles,,0,0,0,,Aren't you supposed to be\Nhelping us or something?
+Dialogue: 0,0:20:51.00,0:20:54.92,Dubtitles,,0,0,0,,I see that accursed dog is too\Nperceptive for his own good.
+Dialogue: 0,0:20:55.18,0:20:58.30,Dubtitles,,0,0,0,,It knows I'm four kilometers\Nwest of Joestar's group.
+Dialogue: 0,0:21:00.12,0:21:01.36,Dubtitles,,0,0,0,,What to do?
+Dialogue: 0,0:21:04.58,0:21:07.40,Dubtitles,,0,0,0,,Perhaps I should do away\Nwith the dog right now.
+Dialogue: 0,0:21:12.98,0:21:15.22,Dubtitles,,0,0,0,,Yeah, sleep while we fight to survive!
+Dialogue: 0,0:21:16.34,0:21:18.22,Dubtitles,,0,0,0,,You're a bastard, you know that?
+Dialogue: 0,0:21:23.96,0:21:26.44,Dubtitles,,0,0,0,,Never mind, the dog is of no concern.
+Dialogue: 0,0:21:27.20,0:21:30.55,Dubtitles,,0,0,0,,Joestar and the others can't\Ncontrol that mongrel anyway.
+Dialogue: 0,0:21:30.84,0:21:33.31,Dubtitles,,0,0,0,,The mutt's harmless if all it does is nap.
+Dialogue: 0,0:21:35.76,0:21:36.98,Dubtitles,,0,0,0,,Now for the kill!
+Dialogue: 0,0:21:39.36,0:21:43.38,Dubtitles,,0,0,0,,Son of a bitch, the water's sharp\Nenough to slash through our front tires!
+Dialogue: 0,0:21:43.46,0:21:45.52,Dubtitles,,0,0,0,,Move to the other side on the double!
+Dialogue: 0,0:21:45.60,0:21:47.42,Dubtitles,,0,0,0,,If it's trying to do what I think it is,
+Dialogue: 0,0:21:47.50,0:21:50.44,Dubtitles,,0,0,0,,then we're going to need\Nto hang on for our lives!
 Dialogue: 1,0:21:50.16,0:21:50.20,SFXRed,2,0,0,0,,{\blur0.8\bord11.49\fscx149.37\fscy114.9\shad5.75\fade(255,0,255,0,0,2990,3790)\frz351.57\pos(1781.68,216.44)\c&H070509&}Tumble
 Dialogue: 2,0:21:50.16,0:21:50.20,SFXRed,2,0,0,0,,{\blur0.8\bord0\fscx149.37\fscy114.9\fade(255,0,255,0,0,2990,3790)\frz351.57\pos(1781.68,216.44)\shad5.75\4a&HFF&}Tumble
 Dialogue: 1,0:21:50.20,0:21:50.24,SFXRed,2,0,0,0,,{\blur0.8\bord10\fscx130\fscy100\shad5\fade(255,0,255,-40,-40,2950,3750)\frz340.26\pos(1729.84,379.14)\c&H070509&}Tumble
@@ -768,16 +772,13 @@ Dialogue: 1,0:21:53.87,0:21:53.91,SFXRed,2,0,0,0,,{\blur0.8\fade(255,0,255,-3710
 Dialogue: 2,0:21:53.87,0:21:53.91,SFXRed,2,0,0,0,,{\bord0\blur0.8\fade(255,0,255,-3710,-3710,-720,80)\frz332.2\pos(1727.65,551.13)\shad5\4a&HFF&}Tumble
 Dialogue: 1,0:21:53.91,0:21:53.95,SFXRed,2,0,0,0,,{\blur0.8\fade(255,0,255,-3750,-3750,-760,40)\frz332.2\pos(1727.65,551.13)\c&H070509&}Tumble
 Dialogue: 2,0:21:53.91,0:21:53.95,SFXRed,2,0,0,0,,{\bord0\blur0.8\fade(255,0,255,-3750,-3750,-760,40)\frz332.2\pos(1727.65,551.13)\shad5\4a&HFF&}Tumble
-Dialogue: 0,0:22:03.11,0:22:05.21,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:22:37.33,0:22:39.01,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:22:16.58,0:22:18.32,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:22:47.26,0:22:48.09,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:23:27.55,0:23:29.55,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:30.57,0:23:32.05,Dubtitles,,0,0,0,,You can smell it, can't you?
-Dialogue: 0,0:23:32.13,0:23:33.83,Dubtitles,,0,0,0,,You know where it's gonna\Nbe before it gets there.
-Dialogue: 0,0:23:33.91,0:23:35.55,Dubtitles,,0,0,0,,The stand's going after Jotaro!
-Dialogue: 0,0:23:35.63,0:23:37.71,Dubtitles,,0,0,0,,If we can find whoever's\Ncontrolling the stand,
-Dialogue: 0,0:23:37.79,0:23:39.95,Dubtitles,,0,0,0,,we might actually have a\Nchance of defeating him!
-Dialogue: 0,0:23:40.03,0:23:41.21,Dubtitles,,0,0,0,,I saw a sticky idea.
+Dialogue: 0,0:23:36.98,0:23:39.46,Dubtitles,,0,0,0,,we might actually have a\Nchance of defeating him.
+Dialogue: 0,0:23:39.54,0:23:40.56,Dubtitles,,0,0,0,,I saw an idea.
 Dialogue: 1,0:23:40.56,0:23:42.56,Next Episode,sign,0,0,0,,{\fs100\pos(370,184.2)}Episode 26 {Had to go a bit crazy to fit everything here. It should be back to normal after this long ass name goes away.}
 Dialogue: 1,0:23:40.56,0:23:42.56,Next Episode,sign,0,0,0,,{\fs85\pos(383.5,900)}Iggy the Fool and
 Dialogue: 1,0:23:40.56,0:23:42.56,Next Episode,sign,0,0,0,,{\fs85\pos(1529.5,900.5)}Geb's N'Doul\NPart 2
+Dialogue: 0,0:23:40.64,0:23:41.47,Dubtitles,,0,0,0,,Woo!
 

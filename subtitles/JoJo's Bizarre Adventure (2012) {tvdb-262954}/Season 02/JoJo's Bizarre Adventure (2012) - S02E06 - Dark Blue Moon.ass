@@ -46,12 +46,12 @@ Style: SFXGreen,Ashcan BB,160,&H0058DA9A,&H000000FF,&H003E382E,&H00262717,-1,0,0
 Style: SFXMagentaMagenta2,Franciscan,160,&H008A28E7,&H000000FF,&H00190E36,&H00000000,-1,0,0,0,130,100,0,0,1,10,0,7,50,40,20,1
 Style: SFXSilver,Ashcan BB,130,&H00CEC0A3,&H000000FF,&H0038352D,&H00000000,0,0,0,0,130,100,0,0,1,6,0,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H0019191B,&H000000FF,&H00000000,&HB40D1219,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.72,Dubtitles,,0,0,0,,Previously on JoJo's\NBizarre Adventure! Mrs.
-Dialogue: 0,0:00:03.90,0:00:06.24,Dubtitles,,0,0,0,,Cujo has materialized her own stand!
+Dialogue: 0,0:00:00.00,0:00:03.72,Dubtitles,,0,0,0,,Previously on JoJo's\NBizarre Adventure... Mrs.
+Dialogue: 0,0:00:03.90,0:00:06.24,Dubtitles,,0,0,0,,Cujoh has materialized her own Stand!
 Dialogue: 0,0:00:06.84,0:00:10.14,Dubtitles,,0,0,0,,I'll keep you from Lord Dio\Nif it's the last thing I do!
 Dialogue: 0,0:00:10.32,0:00:13.20,Dubtitles,,0,0,0,,But if we fail to find\NDio within 50 days...
 Dialogue: 0,0:00:13.28,0:00:14.94,Dubtitles,,0,0,0,,Someone I know has a mark.
@@ -735,7 +735,7 @@ Dialogue: 0,0:03:07.60,0:03:08.43,Dubtitles,,0,0,0,,Let go!
 Dialogue: 0,0:03:08.51,0:03:09.48,Dubtitles,,0,0,0,,Let go of me!
 Dialogue: 0,0:03:09.92,0:03:11.36,Dubtitles,,0,0,0,,Dammit, I said get off of me!
 Dialogue: 0,0:03:11.44,0:03:12.27,Dubtitles,,0,0,0,,Shut your trap!
-Dialogue: 0,0:03:12.35,0:03:15.56,Dubtitles,,0,0,0,,What's your problem? You\Nbrat! Hey! Who's there?
+Dialogue: 0,0:03:12.35,0:03:15.56,Dubtitles,,0,0,0,,What's your problem, ya\Nbrat! Hey! Who's there?
 Dialogue: 0,0:03:15.68,0:03:18.70,Dubtitles,,0,0,0,,I thought we agreed there'd be no\Nother passengers on board but us!
 Dialogue: 0,0:03:18.78,0:03:20.02,Dubtitles,,0,0,0,,Go! Sorry, sir.
 Dialogue: 0,0:03:20.20,0:03:21.26,Dubtitles,,0,0,0,,It's a stowaway.
@@ -879,16 +879,17 @@ Dialogue: 2,0:04:57.81,0:04:57.86,SFXOang,2,0,0,0,,{=38}{\bord0\blur1.1\frz30.49
 Dialogue: 0,0:04:58.10,0:04:59.20,Dubtitles,,0,0,0,,Good grief.
 Dialogue: 0,0:04:59.40,0:05:00.54,Dubtitles,,0,0,0,,Come on, you brat.
 Dialogue: 0,0:05:07.24,0:05:08.34,Dubtitles,,0,0,0,,Hold on.
-Dialogue: 0,0:05:16.26,0:05:21.06,Dubtitles,,0,0,0,,A girl and a runty wanted\Nthat. Just my luck. Hey!
+Dialogue: 0,0:05:15.64,0:05:16.72,Dubtitles,,0,0,0,,A girl?
+Dialogue: 0,0:05:17.80,0:05:21.06,Dubtitles,,0,0,0,,And a runty wanted\Nthat. Just my luck. Hey!
 Dialogue: 0,0:05:21.26,0:05:23.76,Dubtitles,,0,0,0,,How dare you fill me up\Nlike that, you bastard!
 Dialogue: 0,0:05:23.84,0:05:24.67,Dubtitles,,0,0,0,,It's off!
 Dialogue: 0,0:05:28.26,0:05:29.84,Dubtitles,,0,0,0,,Good grief, kid.
 Dialogue: 0,0:05:46.32,0:05:48.58,Dubtitles,,0,0,0,,Hey, Jotaro! Below you!
-Dialogue: 0,0:05:48.66,0:05:51.66,Dubtitles,,0,0,0,,Something's coming after\Nyou from underwater it's not
-Dialogue: 0,0:05:51.74,0:05:54.48,Dubtitles,,0,0,0,,a shark and it's Racing\Ntowards you you have to get out
-Dialogue: 0,0:05:54.56,0:05:58.54,Dubtitles,,0,0,0,,of there now hurry swim to\Nthe boat he's Too far away
-Dialogue: 0,0:05:58.62,0:06:03.70,Dubtitles,,0,0,0,,If it's at that distance,\Nleave it to my viral fat green
-Dialogue: 0,0:06:12.22,0:06:16.90,Dubtitles,,0,0,0,,It just disappeared that\Nthing is a stand stunning
+Dialogue: 0,0:05:48.66,0:05:51.66,Dubtitles,,0,0,0,,something's coming after\Nyou from underwater it's not
+Dialogue: 0,0:05:51.74,0:05:54.48,Dubtitles,,0,0,0,,a shark and it's racing\Ntowards you you have to get out
+Dialogue: 0,0:05:54.56,0:05:58.54,Dubtitles,,0,0,0,,of there now hurry swim to\Nthe boat he's too far away
+Dialogue: 0,0:05:58.62,0:06:03.70,Dubtitles,,0,0,0,,If it's at that distance,\Nleave it to my viral fat green.
+Dialogue: 0,0:06:12.22,0:06:16.90,Dubtitles,,0,0,0,,it just disappeared that\Nthing is a stand stunning
 Dialogue: 0,0:06:16.98,0:06:20.30,Dubtitles,,0,0,0,,an aquatic stand In all my\Ndealings with the occult,
 Dialogue: 0,0:06:20.46,0:06:22.40,Dubtitles,,0,0,0,,I've never heard of such a thing.
 Dialogue: 0,0:06:27.38,0:06:30.28,Dubtitles,,0,0,0,,This girl, there's no way she's the...
@@ -899,7 +900,7 @@ Dialogue: 0,0:06:38.96,0:06:40.78,Dubtitles,,0,0,0,,Stop staring like that, it's
 Dialogue: 0,0:06:40.86,0:06:44.00,Dubtitles,,0,0,0,,I have no idea what's going\Non here, but I'll fight you!
 Dialogue: 0,0:06:44.08,0:06:45.79,Dubtitles,,0,0,0,,Don't underestimate me, okay?
 Dialogue: 0,0:06:46.24,0:06:47.80,Dubtitles,,0,0,0,,You're gonna regret this.
-Dialogue: 0,0:06:48.06,0:06:50.77,Dubtitles,,0,0,0,,One-on-one, come at me,\NI dare you, you punks!
+Dialogue: 0,0:06:48.06,0:06:50.77,Dubtitles,,0,0,0,,One-on-one, come at me.\NI dare you, you punks!
 Dialogue: 0,0:06:51.12,0:06:52.54,Dubtitles,,0,0,0,,Is she playing us?
 Dialogue: 0,0:06:52.70,0:06:54.90,Dubtitles,,0,0,0,,Maybe we should toss\Nher back into the ocean.
 Dialogue: 0,0:06:54.98,0:06:55.81,Dubtitles,,0,0,0,,Calm down.
@@ -970,9 +971,8 @@ Dialogue: 0,0:09:57.20,0:10:00.16,Dubtitles,,0,0,0,,Jojo, random guesses will on
 Dialogue: 0,0:10:00.24,0:10:02.18,Dubtitles,,0,0,0,,Do you have any real proof, Jojo?
 Dialogue: 0,0:10:02.60,0:10:05.84,Dubtitles,,0,0,0,,I've found a way to differentiate\Nstand users from others.
 Dialogue: 0,0:10:05.92,0:10:06.75,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:10:06.83,0:10:09.44,Dubtitles,,0,0,0,,The trick is to watch a possible Stan user
-Dialogue: 0,0:10:09.52,0:10:11.76,Dubtitles,,0,0,0,,around cigarette smoke\Nbecause a single whiff!
-Dialogue: 0,0:10:11.84,0:10:14.50,Dubtitles,,0,0,0,,Makes a vein pop up on their nose?
+Dialogue: 0,0:10:06.83,0:10:10.28,Dubtitles,,0,0,0,,The trick is to watch a possible\NStan user around cigarette
+Dialogue: 0,0:10:10.36,0:10:14.50,Dubtitles,,0,0,0,,smoke because a single whiff\NMakes a vein pop up on their nose
 Dialogue: 0,0:10:15.62,0:10:20.82,Dubtitles,,0,0,0,,What the hell are they all doing\Nyou're not serious Jotaro relax.
 Dialogue: 0,0:10:21.24,0:10:25.64,Dubtitles,,0,0,0,,I'm lying That said it looks\Nlike we found the idiot didn't we
 Dialogue: 0,0:10:44.08,0:10:47.96,Dubtitles,,0,0,0,,Quite impressive, but what tipped\Nyou off that it was the captain?
@@ -1191,7 +1191,7 @@ Dialogue: 1,0:11:01.51,0:11:01.55,SFXPurple,3,0,0,0,,{=5}{\pos(955.087,21.186)\f
 Dialogue: 1,0:11:01.55,0:11:01.59,SFXPurple,3,0,0,0,,{=5}{\pos(955.087,21.186)\fade(255,0,255,-8630,-8130,69,70)}Menacing
 Dialogue: 1,0:11:01.59,0:11:01.64,SFXPurple,3,0,0,0,,{=5}{\pos(955.087,21.186)\fade(255,0,255,-8670,-8170,29,30)}Menacing
 Dialogue: 0,0:11:01.94,0:11:03.94,Dubtitles,,0,0,0,,You're right, I'm not the captain.
-Dialogue: 0,0:11:04.40,0:11:06.90,Dubtitles,,0,0,0,,The real captain's already sleeping with
+Dialogue: 0,0:11:04.40,0:11:06.90,Dubtitles,,0,0,0,,The real captain's already sleeping with.
 Dialogue: 0,0:11:06.98,0:11:09.10,Dubtitles,,0,0,0,,the fissures at the\Nbottom of the China Sea.
 Dialogue: 0,0:11:09.18,0:11:13.30,Dubtitles,,0,0,0,,If that's true, then you can sleep\Nin the depths of hell, you bastard!
 Dialogue: 0,0:11:17.46,0:11:18.50,Dubtitles,,0,0,0,,Dammit, no!
@@ -1307,7 +1307,7 @@ Dialogue: 1,0:11:39.88,0:11:39.92,SFXOang2,5,0,0,0,,{\blur1\fade(255,0,255,-1290
 Dialogue: 2,0:11:39.88,0:11:39.92,SFXOang2,5,0,0,0,,{\bord0\blur1\fade(255,0,255,-1290,-890,1160,1710)\frz9.958\pos(729.5,-38.91)\4a&HFF&}Splash
 Dialogue: 1,0:11:39.92,0:11:39.97,SFXOang2,5,0,0,0,,{\blur1\fade(255,0,255,-1330,-930,1120,1670)\frz9.958\pos(729.49,-36.57)\c&H282522&}Splash
 Dialogue: 2,0:11:39.92,0:11:39.97,SFXOang2,5,0,0,0,,{\bord0\blur1\fade(255,0,255,-1330,-930,1120,1670)\frz9.958\pos(729.49,-36.57)\4a&HFF&}Splash
-Dialogue: 0,0:11:39.96,0:11:43.38,Dubtitles,,0,0,0,,would have been much simpler\Nbut since you've figured me
+Dialogue: 0,0:11:39.96,0:11:43.38,Dubtitles,,0,0,0,,Would have been much simpler,\Nbut since you've figured me
 Dialogue: 1,0:11:39.97,0:11:40.01,SFXOang2,5,0,0,0,,{\blur1\fade(255,0,255,-1380,-980,1070,1620)\frz9.958\pos(727.66,-37.16)\c&H282522&}Splash
 Dialogue: 2,0:11:39.97,0:11:40.01,SFXOang2,5,0,0,0,,{\bord0\blur1\fade(255,0,255,-1380,-980,1070,1620)\frz9.958\pos(727.66,-37.16)\4a&HFF&}Splash
 Dialogue: 1,0:11:40.01,0:11:40.05,SFXOang2,5,0,0,0,,{\blur1\fade(255,0,255,-1420,-1020,1030,1580)\frz9.958\pos(727.67,-35.33)\c&H282522&}Splash
@@ -1378,13 +1378,13 @@ Dialogue: 0,0:11:43.46,0:11:47.26,Dubtitles,,0,0,0,,out I have no choice five on
 Dialogue: 0,0:11:47.34,0:11:50.86,Dubtitles,,0,0,0,,Her just shows that lady luck\Nis on my side. Think I'll
 Dialogue: 0,0:11:50.94,0:11:54.38,Dubtitles,,0,0,0,,take a dip in these shark\Ninfested waters with a rut if you
 Dialogue: 0,0:11:54.46,0:11:57.58,Dubtitles,,0,0,0,,want to save her you're gonna\Nhave to dive in after us in
-Dialogue: 0,0:11:57.66,0:12:01.25,Dubtitles,,0,0,0,,the ocean I have the advantage\NI can take on all five of you.
+Dialogue: 0,0:11:57.66,0:12:01.19,Dubtitles,,0,0,0,,the ocean I have the advantage\NI can take on all five of you
 Dialogue: 0,0:12:02.68,0:12:03.54,Dubtitles,,0,0,0,,Go on.
 Dialogue: 0,0:12:03.72,0:12:06.18,Dubtitles,,0,0,0,,Act tough while you hide behind a hostage.
 Dialogue: 0,0:12:06.26,0:12:09.52,Dubtitles,,0,0,0,,It'll take a lot more than that\Nto shake me up, you dumbass.
 Dialogue: 0,0:12:09.60,0:12:10.43,Dubtitles,,0,0,0,,It's no act.
 Dialogue: 0,0:12:10.74,0:12:12.06,Dubtitles,,0,0,0,,This is a prediction.
-Dialogue: 0,0:12:12.82,0:12:15.70,Dubtitles,,0,0,0,,I hear your Stanstar Platinum is fast.
+Dialogue: 0,0:12:12.82,0:12:15.70,Dubtitles,,0,0,0,,I hear your Stand, Star Platinum, is fast.
 Dialogue: 0,0:12:15.96,0:12:17.90,Dubtitles,,0,0,0,,I'd like to put that to the test.
 Dialogue: 0,0:12:18.34,0:12:22.16,Dubtitles,,0,0,0,,I'm not trying to brag, but my\Ndark blue moon is king underwater.
 Dialogue: 0,0:12:22.38,0:12:24.72,Dubtitles,,0,0,0,,It's much swifter than\Nany fish in the sea,
@@ -1620,7 +1620,7 @@ Dialogue: 0,0:14:13.46,0:14:15.64,Dubtitles,,0,0,0,,I can't see him in the water
 Dialogue: 0,0:14:16.00,0:14:18.60,Dubtitles,,0,0,0,,Jotaro, pull in your stand right now.
 Dialogue: 0,0:14:18.90,0:14:20.96,Dubtitles,,0,0,0,,What do you think I'm trying to do?
 Dialogue: 0,0:14:23.16,0:14:25.66,Dubtitles,,0,0,0,,That's why I'm sweating like\Na freaking pig, old man.
-Dialogue: 0,0:14:25.74,0:14:27.04,Dubtitles,,0,0,0,,Hurrah! Jojo!
+Dialogue: 0,0:14:25.74,0:14:27.04,Dubtitles,,0,0,0,,HURRY! JOJO!
 Dialogue: 0,0:14:28.74,0:14:29.78,Dubtitles,,0,0,0,,Jojo!
 Dialogue: 0,0:14:37.68,0:14:39.82,Dubtitles,,0,0,0,,He fell in! We've...
 Dialogue: 0,0:14:39.90,0:14:40.74,Dubtitles,,0,0,0,,we've gotta...
@@ -1694,7 +1694,7 @@ Dialogue: 0,0:16:06.84,0:16:08.84,Dubtitles,,0,0,0,,See, for years I've been tra
 Dialogue: 0,0:16:09.38,0:16:12.50,Dubtitles,,0,0,0,,Six minutes and 12 seconds\Nis my best submerged time.
 Dialogue: 0,0:16:12.72,0:16:16.19,Dubtitles,,0,0,0,,You must be dizzy just hearing\Nthat number, right, brother?
 Dialogue: 0,0:16:16.72,0:16:17.55,Dubtitles,,0,0,0,,And...
-Dialogue: 0,0:16:19.32,0:16:23.96,Dubtitles,,0,0,0,,Dark Blue Moon's fins are cutters that\Nmove faster than a ship's propeller,
+Dialogue: 0,0:16:19.32,0:16:23.96,Dubtitles,,0,0,0,,Dark Blue Moon's fins are cutters that\Nmove faster than a ship's propeller.
 Dialogue: 0,0:16:24.16,0:16:25.30,Dubtitles,,0,0,0,,far sharper too.
 Dialogue: 0,0:16:25.76,0:16:27.88,Dubtitles,,0,0,0,,Before you get overconfident again,
 Dialogue: 0,0:16:28.04,0:16:30.96,Dubtitles,,0,0,0,,you might want to take a\Ngood hard look at your stand.
@@ -1717,7 +1717,7 @@ Dialogue: 0,0:17:25.62,0:17:26.72,Dubtitles,,0,0,0,,These are scales.
 Dialogue: 0,0:17:27.22,0:17:30.06,Dubtitles,,0,0,0,,That guy's stand has\Nscales as sharp as razors.
 Dialogue: 0,0:17:30.48,0:17:33.20,Dubtitles,,0,0,0,,There are countless scales\Nswirling in that whirlpool.
 Dialogue: 0,0:17:33.28,0:17:36.54,Dubtitles,,0,0,0,,He wasn't bluffing when he said he\Ncould beat all five of us at once.
-Dialogue: 0,0:17:36.62,0:17:38.78,Dubtitles,,0,0,0,,It's like an aquarium antlion pit.
+Dialogue: 0,0:17:36.62,0:17:38.78,Dubtitles,,0,0,0,,It's like a watery antlion pit.
 Dialogue: 0,0:17:39.56,0:17:43.09,Dubtitles,,0,0,0,,If we dive in, it's very possible\Nwe'll be sliced to pieces.
 Dialogue: 0,0:17:45.38,0:17:46.34,Dubtitles,,0,0,0,,His scales?
 Dialogue: 0,0:17:51.64,0:17:54.18,Dubtitles,,0,0,0,,I'll take another guess\Nat what you're thinking.
@@ -1741,7 +1741,7 @@ Dialogue: 0,0:18:35.66,0:18:37.52,Dubtitles,,0,0,0,,I don't think he's moving do
 Dialogue: 0,0:18:37.60,0:18:38.88,Dubtitles,,0,0,0,,So he went limp?
 Dialogue: 0,0:18:39.04,0:18:41.57,Dubtitles,,0,0,0,,He wasn't struggling\Nagainst the whirlpool?
 Dialogue: 0,0:18:41.88,0:18:45.04,Dubtitles,,0,0,0,,Oh, well, that might\Nactually be a good thing.
-Dialogue: 0,0:18:47.06,0:18:49.76,Dubtitles,,0,0,0,,Weren't you gonna turn\Nme into sashimi? boy?
+Dialogue: 0,0:18:47.06,0:18:49.76,Dubtitles,,0,0,0,,Weren't you gonna turn\Nme into sashimi, boy?
 Dialogue: 0,0:18:52.06,0:18:54.80,Dubtitles,,0,0,0,,You're the one who's gonna be sliced up!
 Dialogue: 0,0:19:03.16,0:19:03.99,Dubtitles,,0,0,0,,Starfinger!
 Dialogue: 0,0:19:10.18,0:19:11.86,Dubtitles,,0,0,0,,Sorry, did I interrupt you?
@@ -1820,7 +1820,7 @@ Dialogue: 0,0:19:45.68,0:19:46.80,Dubtitles,,0,0,0,,Bye, pups.
 Dialogue: 0,0:19:55.46,0:19:56.29,Dubtitles,,0,0,0,,Jojo!
 Dialogue: 0,0:19:56.40,0:19:57.98,Dubtitles,,0,0,0,,That's my grandson for ya.
 Dialogue: 0,0:19:59.76,0:20:01.32,Dubtitles,,0,0,0,,Well done, Jotaro.
-Dialogue: 0,0:20:01.40,0:20:03.38,Dubtitles,,0,0,0,,Hurry and come here!
+Dialogue: 0,0:20:01.40,0:20:03.38,Dubtitles,,0,0,0,,Hurry and come over here!
 Dialogue: 0,0:20:10.72,0:20:14.24,Dubtitles,,0,0,0,,That captain planted some\Nbombs after all! Damn it!
 Dialogue: 0,0:20:15.38,0:20:17.20,Dubtitles,,0,0,0,,Send out a distress call!
 Dialogue: 1,0:20:49.64,0:20:49.68,Eyecatch Stats,,0,0,0,,{=21}{\fscx47.89\fscy53.21\fade(255,0,255,0,400,3920,3920)\xshad-2.13\yshad2.13\be0.8\pos(420.88,460.06)}POWER
@@ -1992,15 +1992,14 @@ Dialogue: 0,0:20:59.36,0:21:01.68,Dubtitles,,0,0,0,,Okay, just what the hell is 
 Dialogue: 0,0:21:01.76,0:21:03.17,Dubtitles,,0,0,0,,I don't get any of this.
 Dialogue: 0,0:21:03.30,0:21:04.30,Dubtitles,,0,0,0,,Who are you guys?
 Dialogue: 0,0:21:04.66,0:21:06.94,Dubtitles,,0,0,0,,Just think of us as fellow travelers.
-Dialogue: 0,0:21:07.82,0:21:10.11,Dubtitles,,0,0,0,,You're on a journey to see your father,
+Dialogue: 0,0:21:07.82,0:21:10.11,Dubtitles,,0,0,0,,You're on a journey to see your father.
 Dialogue: 0,0:21:10.52,0:21:12.60,Dubtitles,,0,0,0,,while I'm on one for my daughter.
 Dialogue: 0,0:21:18.74,0:21:21.15,Dubtitles,,0,0,0,,Hey, that's the only fresh water we have.
 Dialogue: 0,0:21:21.30,0:21:22.42,Dubtitles,,0,0,0,,So don't spit it out.
 Dialogue: 0,0:21:22.50,0:21:23.33,Dubtitles,,0,0,0,,We need it.
 Dialogue: 0,0:21:23.41,0:21:24.24,Dubtitles,,0,0,0,,No, no.
-Dialogue: 0,0:21:24.33,0:21:25.16,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:21:27.12,0:21:29.86,Dubtitles,,0,0,0,,Everyone look there! Mm-hmm.
-Dialogue: 0,0:21:30.92,0:21:31.75,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:21:27.06,0:21:29.60,Dubtitles,,0,0,0,,Everyone, look there! Huh?
+Dialogue: 0,0:21:30.90,0:21:31.73,Dubtitles,,0,0,0,,Huh?
 Dialogue: 1,0:21:35.39,0:21:35.44,SFXSilver,9,0,0,0,,{=44}{\blur0.8\bord4\frz3.8\pos(988.15,31.18)\fscx55\fscy98\c&H38352D&}Spit!
 Dialogue: 2,0:21:35.39,0:21:35.44,SFXSilver,9,0,0,0,,{=44}{\blur0.8\bord0\frz3.8\pos(988.15,31.18)\fscx55\fscy98\4a&HFF&}Spit!
 Dialogue: 1,0:21:35.44,0:21:35.48,SFXSilver,9,0,0,0,,{=44}{\blur0.8\bord5\frz3.8\pos(1096,32.24)\fscx78\fscy97\c&H38352D&}Spit!
@@ -2051,30 +2050,25 @@ Dialogue: 1,0:21:36.35,0:21:36.39,SFXSilver,9,0,0,0,,{=44}{\blur0.8\frz3.8\pos(1
 Dialogue: 2,0:21:36.35,0:21:36.39,SFXSilver,9,0,0,0,,{=44}{\bord0\blur0.8\frz3.8\pos(1256.65,30.33)\4a&HFF&}Spit!
 Dialogue: 1,0:21:36.39,0:21:36.44,SFXSilver,9,0,0,0,,{=44}{\blur0.8\frz3.8\pos(1257,29.33)\c&H38352D&}Spit!
 Dialogue: 2,0:21:36.39,0:21:36.44,SFXSilver,9,0,0,0,,{=44}{\bord0\blur0.8\frz3.8\pos(1257,29.33)\4a&HFF&}Spit!
-Dialogue: 0,0:21:54.70,0:21:57.40,Dubtitles,,0,0,0,,All the old paintings on the tomb.
-Dialogue: 0,0:21:57.48,0:21:59.44,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
-Dialogue: 0,0:21:59.52,0:22:01.00,Dubtitles,,0,0,0,,If they move too quick!
-Dialogue: 0,0:22:01.08,0:22:04.16,Dubtitles,,0,0,0,,They're falling down like a domino.
-Dialogue: 0,0:22:04.24,0:22:06.80,Dubtitles,,0,0,0,,All the birds are men by the Nile.
-Dialogue: 0,0:22:06.88,0:22:08.82,Dubtitles,,0,0,0,,They've got their money on a bed.
-Dialogue: 0,0:22:08.90,0:22:10.44,Dubtitles,,0,0,0,,Called crocodiles.
-Dialogue: 0,0:22:10.52,0:22:13.42,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
+Dialogue: 0,0:21:54.70,0:21:58.82,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb. They do the sand dance,
+Dialogue: 0,0:21:58.92,0:22:02.94,Dubtitles,,0,0,0,,Don't you know? If they move\Ntoo quick, they're falling down.
+Dialogue: 0,0:22:03.02,0:22:07.20,Dubtitles,,0,0,0,,Like a domino. All the birds\Nare men by the Nile. They've got
+Dialogue: 0,0:22:07.28,0:22:12.34,Dubtitles,,0,0,0,,their money on a bed Called\Ncrocodiles They snap their teeth
+Dialogue: 0,0:22:12.42,0:22:16.78,Dubtitles,,0,0,0,,On your cigarette, foreign types\Nwith a hookah. I say, hey-oh,
 Dialogue: 1,0:22:12.72,0:22:15.10,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:22:13.50,0:22:15.78,Dubtitles,,0,0,0,,Foreign types with a hookah. I say.
 Dialogue: 1,0:22:15.10,0:22:17.39,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
+Dialogue: 0,0:22:17.08,0:22:17.96,Dubtitles,,0,0,0,,hey-oh,
 Dialogue: 1,0:22:17.39,0:22:18.85,Lyrics 2,,0,0,0,,If they move too quick
 Dialogue: 1,0:22:19.65,0:22:22.11,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:21.98,0:22:24.64,Dubtitles,,0,0,0,,Walk like an Egyptian.
 Dialogue: 1,0:22:22.11,0:22:24.44,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
 Dialogue: 1,0:22:24.44,0:22:26.78,Lyrics 2,,0,0,0,,They got the money on a bet
 Dialogue: 1,0:22:26.78,0:22:28.28,Lyrics 2,,0,0,0,,Gold crocodiles
 Dialogue: 1,0:22:28.95,0:22:31.41,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
 Dialogue: 1,0:22:31.41,0:22:33.62,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:36.34,0:22:39.40,Dubtitles,,0,0,0,,The blonde waitresses take their trays.
-Dialogue: 0,0:22:39.48,0:22:41.40,Dubtitles,,0,0,0,,Spin around and they cross the floor.
+Dialogue: 0,0:22:36.34,0:22:40.22,Dubtitles,,0,0,0,,The blonde waitresses take\Ntheir trays. Spin around.
+Dialogue: 0,0:22:40.30,0:22:43.00,Dubtitles,,0,0,0,,and they cross the floor\NThey've got the moves,
 Dialogue: 1,0:22:40.63,0:22:43.17,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:41.48,0:22:43.92,Dubtitles,,0,0,0,,They've got the moves, oh-hey-oh?
-Dialogue: 0,0:22:44.00,0:22:46.26,Dubtitles,,0,0,0,,You drop your drink,\Nthen they bring you more.
+Dialogue: 0,0:22:43.08,0:22:46.26,Dubtitles,,0,0,0,,oh-hey-oh You drop your drink,\Nthen they bring you more.
 Dialogue: 0,0:22:46.34,0:22:50.94,Dubtitles,,0,0,0,,All the school kids so sick of books,\Nthey're like the punk and the metal band.
 Dialogue: 0,0:22:51.02,0:22:55.06,Dubtitles,,0,0,0,,When the buzzer rings, they're\Nwalking like an Egyptian.
 Dialogue: 1,0:22:54.56,0:22:57.02,Lyrics 2,,0,0,0,,The blonde waitresses take their trays

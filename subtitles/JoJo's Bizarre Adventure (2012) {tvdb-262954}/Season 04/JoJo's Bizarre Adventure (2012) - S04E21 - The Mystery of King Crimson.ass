@@ -11,141 +11,144 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.92,0:00:49.72,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:01:24.82,0:01:26.74,Default,,0,0,0,,Fightin' God!
-Dialogue: 0,0:01:50.38,0:01:51.62,Default,,0,0,0,,the top of the tower.
-Dialogue: 0,0:01:51.70,0:01:52.53,Default,,0,0,0,,What's happening?
-Dialogue: 0,0:01:52.61,0:01:55.25,Default,,0,0,0,,He's heading down to the\Ncrypt to escape from the
-Dialogue: 0,0:01:55.34,0:01:56.17,Default,,0,0,0,,other side.
-Dialogue: 0,0:01:56.25,0:01:57.08,Default,,0,0,0,,I get it now.
-Dialogue: 0,0:01:57.44,0:02:00.56,Default,,0,0,0,,Bucciarati must have fastened\Nthe brooch to the boss.
-Dialogue: 0,0:02:00.72,0:02:03.88,Default,,0,0,0,,Giorno, sorry to bother you,\Nbut could you pass me the water?
-Dialogue: 0,0:02:03.96,0:02:05.24,Default,,0,0,0,,I'm feeling parched.
-Dialogue: 0,0:02:05.68,0:02:08.50,Default,,0,0,0,,But remember, we must tread carefully.
-Dialogue: 0,0:02:08.78,0:02:11.06,Default,,0,0,0,,We have very strict orders to remain right
-Dialogue: 0,0:02:11.14,0:02:13.42,Default,,0,0,0,,here on the boat and\Nto stay off the island,
-Dialogue: 0,0:02:13.50,0:02:15.78,Default,,0,0,0,,no matter what the reason. Right.
-Dialogue: 0,0:02:20.54,0:02:21.37,Default,,0,0,0,,Uh-huh.
-Dialogue: 0,0:02:21.45,0:02:23.75,Default,,0,0,0,,Wait, what you just\Ncouldn't help yourself.
-Dialogue: 0,0:02:23.84,0:02:26.24,Default,,0,0,0,,Could you give it back before I start?
-Dialogue: 0,0:02:27.54,0:02:30.25,Default,,0,0,0,,What's with all that\Nsticky goop on your face?
-Dialogue: 0,0:02:31.70,0:02:34.62,Default,,0,0,0,,Well as if playing stupid\Nis gonna fool anyone.
-Dialogue: 0,0:02:34.74,0:02:36.84,Default,,0,0,0,,Why'd you have a chance\Nto stuff your face?
-Dialogue: 0,0:02:36.92,0:02:37.92,Default,,0,0,0,,There was no time
-Dialogue: 0,0:02:40.24,0:02:41.94,Default,,0,0,0,,By the way, did I thank you?
-Dialogue: 0,0:02:42.06,0:02:43.74,Default,,0,0,0,,You know for the bottle of water.
-Dialogue: 0,0:02:43.82,0:02:45.70,Default,,0,0,0,,It's refreshing. What
-Dialogue: 0,0:02:54.64,0:02:56.41,Default,,0,0,0,,Something bizarre is going on.
-Dialogue: 0,0:03:05.50,0:03:09.72,Default,,0,0,0,,I don't know what's going on\Nhere, but I've got a bad feeling.
-Dialogue: 0,0:03:11.22,0:03:12.16,Default,,0,0,0,,Hey, idiot!
-Dialogue: 0,0:03:12.48,0:03:18.28,Default,,0,0,0,,What part of our order to not\Ndisembark was confusing to you? Huh?
-Dialogue: 0,0:03:19.82,0:03:21.32,Default,,0,0,0,,We are in deep trouble.
-Dialogue: 0,0:03:21.96,0:03:26.22,Default,,0,0,0,,The world, it's not working the\Nway it should. Merida! Bucciarati!
-Dialogue: 0,0:03:26.96,0:03:28.26,Default,,0,0,0,,What the hell? Giorno!
-Dialogue: 0,0:03:28.78,0:03:30.52,Default,,0,0,0,,Is that you? Bucciarati.
+Dialogue: 0,0:00:28.28,0:00:35.28,Default,,0,0,0,,you.
+Dialogue: 0,0:01:05.16,0:01:07.96,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:01:32.76,0:01:33.72,Default,,0,0,0,,Hey, Narancia!
+Dialogue: 0,0:01:33.96,0:01:36.26,Default,,0,0,0,,Ever hear the concept of\Nsharing with your teammates?
+Dialogue: 0,0:01:36.34,0:01:37.72,Default,,0,0,0,,Quit being stingy!
+Dialogue: 0,0:01:37.82,0:01:39.56,Default,,0,0,0,,Why don't you quit being a dick?
+Dialogue: 0,0:01:39.64,0:01:41.38,Default,,0,0,0,,I bought them with my money,\Nso they're going in my belly.
+Dialogue: 0,0:01:41.46,0:01:42.93,Default,,0,0,0,,Give it a rest, Narancia.
+Dialogue: 0,0:01:43.08,0:01:43.96,Default,,0,0,0,,Greedy bastard.
+Dialogue: 0,0:01:44.52,0:01:50.66,Default,,0,0,0,,I can feel the brooch descending\Nfrom the top of the tower.
+Dialogue: 0,0:01:51.20,0:01:52.20,Default,,0,0,0,,What's happening?
+Dialogue: 0,0:01:52.62,0:01:55.86,Default,,0,0,0,,He's heading down to the crypt\Nto escape from the other side.
+Dialogue: 0,0:01:55.94,0:01:56.98,Default,,0,0,0,,I get it now.
+Dialogue: 0,0:01:57.06,0:02:00.18,Default,,0,0,0,,Bucciarati must have fastened\Nthe brooch to the boss.
+Dialogue: 0,0:02:00.72,0:02:03.84,Default,,0,0,0,,Giorno, sorry to bother you,\Nbut could you pass me the water?
+Dialogue: 0,0:02:03.92,0:02:05.26,Default,,0,0,0,,I'm feeling parched.
+Dialogue: 0,0:02:05.68,0:02:08.48,Default,,0,0,0,,But remember, we must tread carefully.
+Dialogue: 0,0:02:08.86,0:02:11.06,Default,,0,0,0,,We have very strict orders to remain right
+Dialogue: 0,0:02:11.14,0:02:13.12,Default,,0,0,0,,here on the boat and\Nto stay off the island,
+Dialogue: 0,0:02:13.20,0:02:15.78,Default,,0,0,0,,no matter what the reason. Right.
+Dialogue: 0,0:02:18.32,0:02:19.15,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:20.96,0:02:21.92,Default,,0,0,0,,Wait, what?
+Dialogue: 0,0:02:22.00,0:02:24.38,Default,,0,0,0,,You just couldn't help\Nyourself, could you?
+Dialogue: 0,0:02:24.46,0:02:26.40,Default,,0,0,0,,Give him back before I starve!
+Dialogue: 0,0:02:27.12,0:02:30.12,Default,,0,0,0,,Hey, what's with all that\Nsticky goop on your face?
+Dialogue: 0,0:02:32.20,0:02:34.68,Default,,0,0,0,,As if playing stupid is\Ngoing to fool anyone.
+Dialogue: 0,0:02:34.76,0:02:36.76,Default,,0,0,0,,When did you have a\Nchance to stuff your face?
+Dialogue: 0,0:02:36.84,0:02:37.90,Default,,0,0,0,,There was no time.
+Dialogue: 0,0:02:40.34,0:02:41.98,Default,,0,0,0,,By the way, did I thank you?
+Dialogue: 0,0:02:42.06,0:02:43.80,Default,,0,0,0,,You know, for the bottle of water.
+Dialogue: 0,0:02:43.88,0:02:44.82,Default,,0,0,0,,It's refreshing.
+Dialogue: 0,0:02:45.26,0:02:46.09,Default,,0,0,0,,What?
+Dialogue: 0,0:02:54.72,0:02:56.49,Default,,0,0,0,,Something bizarre is going on.
+Dialogue: 0,0:03:05.52,0:03:09.72,Default,,0,0,0,,I don't know what's going on\Nhere, but I've got a bad feeling.
+Dialogue: 0,0:03:11.24,0:03:12.16,Default,,0,0,0,,Hey, idiot!
+Dialogue: 0,0:03:12.50,0:03:16.20,Default,,0,0,0,,What part of our order to not\Ndisembark was confusing to...
+Dialogue: 0,0:03:16.98,0:03:18.30,Default,,0,0,0,,You. Huh?
+Dialogue: 0,0:03:19.70,0:03:21.32,Default,,0,0,0,,We are in deep trouble.
+Dialogue: 0,0:03:21.94,0:03:26.14,Default,,0,0,0,,The world, it's not working the\Nway it should. Merida! Bucciarati!
+Dialogue: 0,0:03:26.22,0:03:30.48,Default,,0,0,0,,What the hell? Giorno!\NIs that you? Bucciarati.
 Dialogue: 0,0:03:30.96,0:03:31.80,Default,,0,0,0,,Yeah, it's me.
-Dialogue: 0,0:03:32.16,0:03:34.24,Default,,0,0,0,,Don't worry, I'm already tracking him.
-Dialogue: 0,0:03:34.32,0:03:36.60,Default,,0,0,0,,The brooch tells me his exact location.
-Dialogue: 0,0:03:36.68,0:03:37.86,Default,,0,0,0,,The bastard is ours.
-Dialogue: 0,0:03:38.00,0:03:40.54,Default,,0,0,0,,He's currently at the bottom\Nof the stairway to the crypt.
-Dialogue: 0,0:03:40.62,0:03:41.45,Default,,0,0,0,,No, wait!
-Dialogue: 0,0:03:41.53,0:03:44.10,Default,,0,0,0,,Now he's by the pillar\Ntwo meters off the stairs!
-Dialogue: 0,0:03:44.66,0:03:46.37,Default,,0,0,0,,Don't engage him, Bucciarati!
-Dialogue: 0,0:03:46.50,0:03:48.91,Default,,0,0,0,,I don't know what, but something's wrong!
-Dialogue: 0,0:03:50.98,0:03:55.06,Default,,0,0,0,,Bucciarati, your mission as\Nprotector has been terminated,
-Dialogue: 0,0:03:55.42,0:03:58.06,Default,,0,0,0,,and your life shall promptly follow it.
-Dialogue: 0,0:04:06.92,0:04:12.04,Default,,0,0,0,,Cunning little, you're trying\Nto pin down my arm. Superman!
-Dialogue: 0,0:04:13.20,0:04:16.92,Default,,0,0,0,,But Emperor Crimson has seen through you!
-Dialogue: 0,0:04:31.14,0:04:34.58,Default,,0,0,0,,It's peered through time\Nto trace your trajectory,
-Dialogue: 0,0:04:35.08,0:04:37.60,Default,,0,0,0,,the trajectory of your future self.
-Dialogue: 0,0:04:38.48,0:04:44.78,Default,,0,0,0,,When Emperor Crimson wields its extraordinary\Npower, time as we know it flits away,
-Dialogue: 0,0:04:45.08,0:04:49.40,Default,,0,0,0,,and But all memories formed\Ntherein completely cease to exist.
-Dialogue: 0,0:04:49.82,0:04:52.92,Default,,0,0,0,,Clouds are torn asunder and know not why.
-Dialogue: 0,0:04:53.26,0:04:57.98,Default,,0,0,0,,The flickering flame is blotted away\Nwithout any consciousness of its demise.
-Dialogue: 0,0:04:58.94,0:05:00.94,Default,,0,0,0,,All that remains are consequences.
-Dialogue: 0,0:05:01.12,0:05:06.10,Default,,0,0,0,,The omnipotence of my time obliterating\Npowers renders all action futile.
+Dialogue: 0,0:03:32.08,0:03:34.24,Default,,0,0,0,,Don't worry, I'm already tracking him.
+Dialogue: 0,0:03:34.32,0:03:36.58,Default,,0,0,0,,The brooch tells me his exact location.
+Dialogue: 0,0:03:36.66,0:03:37.84,Default,,0,0,0,,The bastard is ours.
+Dialogue: 0,0:03:38.00,0:03:40.34,Default,,0,0,0,,He's currently at the bottom\Nof the stairway to the crypt.
+Dialogue: 0,0:03:40.42,0:03:41.25,Default,,0,0,0,,No, wait!
+Dialogue: 0,0:03:41.33,0:03:44.08,Default,,0,0,0,,Now he's by the pillar\Ntwo meters off the stairs!
+Dialogue: 0,0:03:44.62,0:03:46.33,Default,,0,0,0,,Don't engage him, Bucciarati!
+Dialogue: 0,0:03:46.46,0:03:48.87,Default,,0,0,0,,I don't know what, but something's wrong!
+Dialogue: 0,0:03:51.34,0:03:52.17,Default,,0,0,0,,Bucciarati,
+Dialogue: 0,0:03:52.25,0:03:54.95,Default,,0,0,0,,your mission as protector\Nhas been terminated,
+Dialogue: 0,0:03:55.04,0:03:58.10,Default,,0,0,0,,and your life shall promptly follow it.
+Dialogue: 0,0:04:06.96,0:04:12.04,Default,,0,0,0,,Cunning little, you're trying\Nto pin down my arm. Superman!
+Dialogue: 0,0:04:13.20,0:04:16.94,Default,,0,0,0,,But Emperor Crimson has seen through you!
+Dialogue: 0,0:04:31.68,0:04:35.04,Default,,0,0,0,,It's peered through time\Nto trace your trajectory.
+Dialogue: 0,0:04:35.12,0:04:37.60,Default,,0,0,0,,the trajectory of your future self.
+Dialogue: 0,0:04:38.44,0:04:44.78,Default,,0,0,0,,When Emperor Crimson wields its extraordinary\Npower, time as we know it flits away,
+Dialogue: 0,0:04:45.10,0:04:49.40,Default,,0,0,0,,and all memories formed therein\Ncompletely cease to exist.
+Dialogue: 0,0:04:49.70,0:04:52.86,Default,,0,0,0,,Clouds are torn asunder and know not why.
+Dialogue: 0,0:04:52.94,0:04:57.98,Default,,0,0,0,,The flickering flame is blotted away\Nwithout any consciousness of its demise.
+Dialogue: 0,0:04:58.42,0:05:00.76,Default,,0,0,0,,All that remains are consequences.
+Dialogue: 0,0:05:01.52,0:05:06.10,Default,,0,0,0,,The omnipotence of my time obliterating\Npowers renders all action futile.
 Dialogue: 0,0:05:06.40,0:05:09.46,Default,,0,0,0,,Only I have the ability to\Nrespond to these actions.
-Dialogue: 0,0:05:09.84,0:05:13.06,Default,,0,0,0,,I can foretell the exact\Nflavor of your intentions.
-Dialogue: 0,0:05:13.14,0:05:16.36,Default,,0,0,0,,Now feel the power of Emperor Crimson!
-Dialogue: 0,0:05:34.00,0:05:35.44,Default,,0,0,0,,This ability...
-Dialogue: 0,0:05:35.52,0:05:36.36,Default,,0,0,0,,it's...
-Dialogue: 0,0:05:36.44,0:05:39.48,Default,,0,0,0,,No being is immune to\Nthe peaks and valleys
-Dialogue: 0,0:05:39.56,0:05:42.12,Default,,0,0,0,,of life as the strong struggle to survive.
-Dialogue: 0,0:05:42.20,0:05:45.40,Default,,0,0,0,,One succeeds while the other fails.
-Dialogue: 0,0:05:45.82,0:05:52.06,Default,,0,0,0,,But with my power, one can gaze upon\Nlife's pitfalls in all their glory.
-Dialogue: 0,0:05:52.56,0:05:57.33,Default,,0,0,0,,Sidestepping them becomes but a chore,\Nand life becomes a succession of triumphs.
-Dialogue: 0,0:05:58.90,0:06:01.40,Default,,0,0,0,,A state of personal perfection.
-Dialogue: 0,0:06:01.92,0:06:04.06,Default,,0,0,0,,And truly, how could it not?
-Dialogue: 0,0:06:09.10,0:06:11.02,Default,,0,0,0,,Having now met you in the flesh,
-Dialogue: 0,0:06:11.10,0:06:16.78,Default,,0,0,0,,I know beyond a shadow of a doubt\Nthat we are indeed connected by blood!
-Dialogue: 0,0:06:16.86,0:06:19.18,Default,,0,0,0,,I feel it in my very bones!
-Dialogue: 0,0:06:19.26,0:06:21.90,Default,,0,0,0,,You child are my daughter!
-Dialogue: 0,0:06:21.98,0:06:28.24,Default,,0,0,0,,Unfortunately for you, as long\Nas you continue to draw breath,
-Dialogue: 0,0:06:28.32,0:06:31.48,Default,,0,0,0,,you'll also feel the blood\Nconnection the two of us share!
-Dialogue: 0,0:06:31.56,0:06:37.30,Default,,0,0,0,,I shall obliterate any\Nperil that stands in my way!
-Dialogue: 0,0:06:37.38,0:06:38.96,Default,,0,0,0,,I will sever?
-Dialogue: 0,0:06:39.04,0:06:43.16,Default,,0,0,0,,our familial bond as we speak to Trish!
-Dialogue: 0,0:06:47.22,0:06:49.30,Default,,0,0,0,,What is happening?
-Dialogue: 0,0:06:54.16,0:06:55.28,Default,,0,0,0,,It's Chari.
-Dialogue: 0,0:06:56.28,0:06:59.50,Default,,0,0,0,,That power is courtesy of Golden Wind.
-Dialogue: 0,0:07:00.70,0:07:04.99,Default,,0,0,0,,He implanted the brooch with cells\Nfrom the turtle, giving them new life.
-Dialogue: 0,0:07:05.58,0:07:08.82,Default,,0,0,0,,That's how he was able to\Nreplicate the turtle's stand.
-Dialogue: 0,0:07:09.04,0:07:13.16,Default,,0,0,0,,Since we were interrupted, he sensed\Ndanger and activated his ability.
-Dialogue: 0,0:07:14.66,0:07:18.14,Default,,0,0,0,,That man never ceases to stoke\Nthe courage within my heart.
-Dialogue: 0,0:07:19.10,0:07:22.54,Default,,0,0,0,,I was certain this was\Nthe end, but not yet.
-Dialogue: 0,0:07:23.78,0:07:28.28,Default,,0,0,0,,I still have a little\Nbit of fight left in me.
-Dialogue: 0,0:07:29.38,0:07:33.54,Default,,0,0,0,,If you think my mission's\Ndone, boss, you're wrong.
-Dialogue: 0,0:07:34.12,0:07:35.76,Default,,0,0,0,,Our future awaits us.
-Dialogue: 0,0:07:36.48,0:07:40.16,Default,,0,0,0,,As for Trish, she will be\Nprotected under my mandate.
-Dialogue: 0,0:07:40.84,0:07:41.67,Default,,0,0,0,,So,
-Dialogue: 0,0:07:41.96,0:07:44.76,Default,,0,0,0,,he has the power to\Nanticipate all of my attacks
-Dialogue: 0,0:07:44.84,0:07:47.72,Default,,0,0,0,,and dodge them before\NI've even realized it.
-Dialogue: 0,0:07:49.36,0:07:50.34,Default,,0,0,0,,Damn it.
-Dialogue: 0,0:07:50.68,0:07:52.98,Default,,0,0,0,,The bastard's practically invincible.
-Dialogue: 0,0:07:58.84,0:08:00.98,Default,,0,0,0,,However, there is a limit.
-Dialogue: 0,0:08:01.28,0:08:04.08,Default,,0,0,0,,He can only read his opponent's\Nmovements in short bursts.
-Dialogue: 0,0:08:04.16,0:08:06.62,Default,,0,0,0,,What a transient trick.
-Dialogue: 0,0:08:07.06,0:08:09.78,Default,,0,0,0,,He can cheat time for five to ten seconds.
-Dialogue: 0,0:08:11.20,0:08:12.03,Default,,0,0,0,,Distance.
-Dialogue: 0,0:08:12.24,0:08:14.98,Default,,0,0,0,,I need to create more distance between us.
-Dialogue: 0,0:08:15.74,0:08:18.15,Default,,0,0,0,,Enough that the boss can't capture Trish.
-Dialogue: 0,0:08:20.54,0:08:22.44,Default,,0,0,0,,Come on, Bruno. Move!
-Dialogue: 0,0:08:23.60,0:08:25.48,Default,,0,0,0,,Jono's given you an opportunity.
-Dialogue: 0,0:08:26.96,0:08:29.84,Default,,0,0,0,,I just need to get us\Nout of this basement.
-Dialogue: 0,0:08:30.10,0:08:32.46,Default,,0,0,0,,Seems there's another\Ntraitor in our midst.
-Dialogue: 0,0:08:32.54,0:08:34.84,Default,,0,0,0,,My guess would be the neophyte.
-Dialogue: 0,0:08:36.04,0:08:40.04,Default,,0,0,0,,Assuming my sources are correct,\Nhis name is Giorno Giovanna.
-Dialogue: 0,0:08:41.06,0:08:45.82,Default,,0,0,0,,So he had every intention of betraying\Nme from the very beginning, did he?
-Dialogue: 0,0:08:46.38,0:08:49.56,Default,,0,0,0,,Charming that you think\Ndistance will aid your escape.
-Dialogue: 0,0:08:50.12,0:08:53.78,Default,,0,0,0,,Stopping you is as easy as\Nexiting the turtle before you act.
-Dialogue: 0,0:08:54.78,0:08:57.50,Default,,0,0,0,,You are utterly pathetic, Uchirati.
-Dialogue: 0,0:08:58.40,0:09:01.96,Default,,0,0,0,,Is it inner strength that\Nallows you to continue to move?
-Dialogue: 0,0:09:02.54,0:09:04.42,Default,,0,0,0,,Just rest your weary head.
-Dialogue: 0,0:09:04.70,0:09:08.99,Default,,0,0,0,,You'll never reach the first floor,\Nbut you'll be assured a painless end.
-Dialogue: 0,0:09:09.70,0:09:12.34,Default,,0,0,0,,And Trish will finally meet her maker!
-Dialogue: 0,0:09:12.80,0:09:15.28,Default,,0,0,0,,Now remain still, Uchirati!
-Dialogue: 0,0:09:15.64,0:09:17.52,Default,,0,0,0,,I've been given a golden chance!
-Dialogue: 0,0:09:17.62,0:09:18.96,Default,,0,0,0,,Do you think I'd waste it?
-Dialogue: 0,0:09:19.04,0:09:21.48,Default,,0,0,0,,While you were bragging\Nabout reading my movements,
-Dialogue: 0,0:09:21.56,0:09:23.52,Default,,0,0,0,,I took the liberty of reading yours!
-Dialogue: 0,0:09:23.60,0:09:26.52,Default,,0,0,0,,I knew you wouldn't just\Ndisappear into the sewers,
-Dialogue: 0,0:09:26.60,0:09:29.78,Default,,0,0,0,,not before trying to escape\Nwith your powers! Do it!
-Dialogue: 0,0:09:29.86,0:09:30.84,Default,,0,0,0,,Superman!
+Dialogue: 0,0:05:09.82,0:05:13.18,Default,,0,0,0,,I can foretell the exact\Nflavor of your intentions.
+Dialogue: 0,0:05:13.66,0:05:16.34,Default,,0,0,0,,Now feel the power of Emperor Crimson!
+Dialogue: 0,0:05:35.78,0:05:39.48,Default,,0,0,0,,No being is immune to\Nthe peaks and valleys.
+Dialogue: 0,0:05:39.56,0:05:42.20,Default,,0,0,0,,of life as the strong struggle to survive.
+Dialogue: 0,0:05:42.62,0:05:45.40,Default,,0,0,0,,One succeeds while the other fails,
+Dialogue: 0,0:05:45.84,0:05:47.70,Default,,0,0,0,,but with my power,
+Dialogue: 0,0:05:48.06,0:05:53.12,Default,,0,0,0,,one can gaze upon life's pitfalls\Nin all their glory sidestepping
+Dialogue: 0,0:05:53.20,0:05:58.06,Default,,0,0,0,,them becomes but a chore and life\Nbecomes a succession of triumphs
+Dialogue: 0,0:05:59.04,0:06:04.06,Default,,0,0,0,,a state of personal perfection\Nand truly how could it not
+Dialogue: 0,0:06:09.24,0:06:14.98,Default,,0,0,0,,having now met you in the flesh i know\Nbeyond a shadow of a doubt that we are
+Dialogue: 0,0:06:15.06,0:06:21.96,Default,,0,0,0,,indeed connected by blood I feel it in\Nmy very bones you child are my daughter
+Dialogue: 0,0:06:23.38,0:06:27.86,Default,,0,0,0,,unfortunately for you as\Nlong as you continue to draw
+Dialogue: 0,0:06:27.94,0:06:30.78,Default,,0,0,0,,breath you'll also feel the\Nblood connection the two of
+Dialogue: 0,0:06:30.86,0:06:36.62,Default,,0,0,0,,us share Trish I shall\Nobliterate any peril that stands
+Dialogue: 0,0:06:36.70,0:06:41.68,Default,,0,0,0,,in my way I will sever our\Nfamilial bond as we speak
+Dialogue: 0,0:06:47.16,0:06:49.36,Default,,0,0,0,,What. Is. Happening!
+Dialogue: 0,0:06:54.18,0:06:55.32,Default,,0,0,0,,It's Chorno.
+Dialogue: 0,0:06:56.30,0:06:59.52,Default,,0,0,0,,That power is courtesy of Golden Wind.
+Dialogue: 0,0:07:00.22,0:07:04.51,Default,,0,0,0,,He implanted the brooch with cells\Nfrom the turtle, giving them new life.
+Dialogue: 0,0:07:05.60,0:07:08.84,Default,,0,0,0,,That's how he was able to\Nreplicate the turtle's stand.
+Dialogue: 0,0:07:09.46,0:07:13.58,Default,,0,0,0,,Since we were interrupted, he sensed\Ndanger and activated his ability.
+Dialogue: 0,0:07:14.66,0:07:17.18,Default,,0,0,0,,that man never ceases to stoke the courage
+Dialogue: 0,0:07:17.26,0:07:20.96,Default,,0,0,0,,Within my heart, I was\Ncertain this was the end.
+Dialogue: 0,0:07:21.04,0:07:27.54,Default,,0,0,0,,but not yet i still have\Na little bit of fight
+Dialogue: 0,0:07:27.62,0:07:31.86,Default,,0,0,0,,left in me if you think\Nmy mission's done boss
+Dialogue: 0,0:07:32.58,0:07:36.68,Default,,0,0,0,,you're wrong our future\Nawaits us as for trish
+Dialogue: 0,0:07:36.76,0:07:41.48,Default,,0,0,0,,She will be protected\Nunder my mandate. And so,
+Dialogue: 0,0:07:41.96,0:07:44.72,Default,,0,0,0,,he has the power to\Nanticipate all of my attacks
+Dialogue: 0,0:07:44.80,0:07:47.76,Default,,0,0,0,,and dodge them before\NI've even realized it.
+Dialogue: 0,0:07:49.42,0:07:50.34,Default,,0,0,0,,Damn it.
+Dialogue: 0,0:07:50.66,0:07:52.98,Default,,0,0,0,,The bastard's practically invincible.
+Dialogue: 0,0:07:56.66,0:07:57.49,Default,,0,0,0,,However...
+Dialogue: 0,0:08:00.16,0:08:01.16,Default,,0,0,0,,There is a limit.
+Dialogue: 0,0:08:01.28,0:08:04.69,Default,,0,0,0,,He can only read his opponent's\Nmovements in short bursts.
+Dialogue: 0,0:08:04.86,0:08:06.62,Default,,0,0,0,,What a transient trick.
+Dialogue: 0,0:08:07.06,0:08:09.76,Default,,0,0,0,,He can cheat time for 5 to 10 seconds.
+Dialogue: 0,0:08:11.24,0:08:12.07,Default,,0,0,0,,Distance.
+Dialogue: 0,0:08:12.30,0:08:14.96,Default,,0,0,0,,I need to create more distance between us.
+Dialogue: 0,0:08:15.78,0:08:18.19,Default,,0,0,0,,Enough that the boss can't capture Trish.
+Dialogue: 0,0:08:20.58,0:08:22.44,Default,,0,0,0,,Come on, Bruno. Move!
+Dialogue: 0,0:08:23.64,0:08:25.64,Default,,0,0,0,,Giorno's given you an opportunity.
+Dialogue: 0,0:08:27.00,0:08:29.84,Default,,0,0,0,,I just need to get us\Nout of this basement.
+Dialogue: 0,0:08:30.08,0:08:32.61,Default,,0,0,0,,Seems there's another\Ntraitor in our midst.
+Dialogue: 0,0:08:32.78,0:08:34.82,Default,,0,0,0,,My guess would be the Neophyte.
+Dialogue: 0,0:08:36.08,0:08:40.04,Default,,0,0,0,,Assuming my sources are correct,\NHis name is Giorno Giovanna.
+Dialogue: 0,0:08:40.98,0:08:45.82,Default,,0,0,0,,So he had every intention of betraying\Nme from the very beginning, did he?
+Dialogue: 0,0:08:46.34,0:08:49.52,Default,,0,0,0,,Charming that you think\Ndistance will aid your escape.
+Dialogue: 0,0:08:50.10,0:08:53.78,Default,,0,0,0,,Stopping you is as easy as\Nexiting the turtle before you act.
+Dialogue: 0,0:08:54.84,0:08:57.56,Default,,0,0,0,,You are utterly pathetic, Bucciarati.
+Dialogue: 0,0:08:58.32,0:09:01.96,Default,,0,0,0,,Is it inner strength that\Nallows you to continue to move?
+Dialogue: 0,0:09:02.40,0:09:04.34,Default,,0,0,0,,Just rest your weary head.
+Dialogue: 0,0:09:04.42,0:09:08.94,Default,,0,0,0,,You'll never reach the first floor,\Nbut you'll be assured a painless end.
+Dialogue: 0,0:09:09.66,0:09:12.34,Default,,0,0,0,,And Trish will finally meet her maker.
+Dialogue: 0,0:09:12.82,0:09:15.34,Default,,0,0,0,,Now remain still, Uttarati!
+Dialogue: 0,0:09:15.64,0:09:17.52,Default,,0,0,0,,I've been given a golden chance.
+Dialogue: 0,0:09:17.62,0:09:18.98,Default,,0,0,0,,Do you think I'd waste it?
+Dialogue: 0,0:09:19.06,0:09:21.46,Default,,0,0,0,,While you were bragging\Nabout reading my movements,
+Dialogue: 0,0:09:21.54,0:09:23.54,Default,,0,0,0,,I took the liberty of reading yours.
+Dialogue: 0,0:09:23.62,0:09:26.46,Default,,0,0,0,,I knew you wouldn't just\Ndisappear into the sewers,
+Dialogue: 0,0:09:26.54,0:09:29.16,Default,,0,0,0,,not before trying to\Nescape with your powers.
+Dialogue: 0,0:09:29.24,0:09:30.76,Default,,0,0,0,,Do it, Superman!
 Dialogue: 0,0:09:33.42,0:09:34.70,Default,,0,0,0,,Emperor Crimson!
-Dialogue: 0,0:09:44.86,0:09:46.76,Default,,0,0,0,,That was quite the close call.
-Dialogue: 0,0:09:47.70,0:09:51.10,Default,,0,0,0,,But this is the world of Emperor Crimson.
-Dialogue: 0,0:09:51.38,0:09:54.32,Default,,0,0,0,,In this domain, your\Nefforts are forever in vain.
-Dialogue: 0,0:09:54.66,0:09:56.36,Default,,0,0,0,,This is your end! Perish!
-Dialogue: 0,0:09:57.62,0:10:01.74,Default,,0,0,0,,My target wasn't you in the\Nfirst place. It was this pillar.
-Dialogue: 0,0:10:01.82,0:10:03.46,Default,,0,0,0,,Quickly, zipper, close!
-Dialogue: 0,0:10:05.70,0:10:10.48,Default,,0,0,0,,What I was right one might\Ncall your power invincible
-Dialogue: 0,0:10:10.56,0:10:14.58,Default,,0,0,0,,but that same ability\Nalso has Its limitations.
-Dialogue: 0,0:10:14.66,0:10:18.10,Default,,0,0,0,,You're not seeing into the\Nfuture, not truly, anyway.
-Dialogue: 0,0:10:18.18,0:10:23.08,Default,,0,0,0,,I challenge you to predict what\Nmy next move is going to be.
+Dialogue: 0,0:09:44.86,0:09:46.80,Default,,0,0,0,,That was quite the close call,
+Dialogue: 0,0:09:47.62,0:09:51.10,Default,,0,0,0,,but this is the world of Emperor Crimson.
+Dialogue: 0,0:09:51.36,0:09:54.32,Default,,0,0,0,,In this domain, your\Nefforts are forever in vain.
+Dialogue: 0,0:09:54.64,0:09:56.38,Default,,0,0,0,,This is your end! Perish!
+Dialogue: 0,0:09:57.64,0:10:03.48,Default,,0,0,0,,My target wasn't you in the first place.\NIt was this pillar. Quickly, zipper close!
+Dialogue: 0,0:10:05.74,0:10:10.48,Default,,0,0,0,,what i was right one might\Ncall your power invincible
+Dialogue: 0,0:10:10.56,0:10:15.58,Default,,0,0,0,,but that same ability also\Nhas its limitations you're
+Dialogue: 0,0:10:15.66,0:10:20.28,Default,,0,0,0,,not seeing into the future\Nnot truly anyway i challenge
+Dialogue: 0,0:10:20.36,0:10:23.36,Default,,0,0,0,,you to to predict what my\Nnext move is going to be.
 Dialogue: 0,0:10:23.88,0:10:27.59,Default,,0,0,0,,It's really anyone's guess what\Nthe next few seconds will hold.
 Dialogue: 0,0:10:27.78,0:10:32.64,Default,,0,0,0,,I invite you to face the future head-on,\Nas you're greeted by the sight of me,
 Dialogue: 0,0:10:33.52,0:10:35.24,Default,,0,0,0,,while on the ground floor.
-Dialogue: 0,0:10:47.04,0:10:48.46,Default,,0,0,0,,Bucinati! Trish!
+Dialogue: 0,0:10:47.04,0:10:48.46,Default,,0,0,0,,Bucciarati! Trish!
 Dialogue: 0,0:10:51.70,0:10:52.66,Default,,0,0,0,,This wound!
 Dialogue: 0,0:10:53.16,0:10:55.04,Default,,0,0,0,,What happened down in the crypt?
 Dialogue: 0,0:10:57.18,0:10:58.16,Default,,0,0,0,,The boss!
@@ -184,7 +187,7 @@ Dialogue: 0,0:12:34.80,0:12:35.98,Default,,0,0,0,,Our lead won't last.
 Dialogue: 0,0:12:36.32,0:12:38.54,Default,,0,0,0,,You're within range. Let's begin.
 Dialogue: 0,0:12:40.14,0:12:41.91,Default,,0,0,0,,I'll explain everything later.
 Dialogue: 0,0:12:42.12,0:12:43.59,Default,,0,0,0,,We need to hurry, Giorno!
-Dialogue: 0,0:12:45.56,0:12:46.44,Default,,0,0,0,,Golden win!
+Dialogue: 0,0:12:45.56,0:12:46.44,Default,,0,0,0,,Golden Wind!
 Dialogue: 0,0:12:52.40,0:12:53.58,Default,,0,0,0,,Giorno's over there!
 Dialogue: 0,0:12:55.02,0:12:57.06,Default,,0,0,0,,Giorno, get your ass back here!
 Dialogue: 0,0:12:57.34,0:12:59.16,Default,,0,0,0,,How do you think the boss is gonna react
@@ -216,11 +219,11 @@ Dialogue: 0,0:14:17.56,0:14:20.68,Default,,0,0,0,,We deserve some answers, so\Ny
 Dialogue: 0,0:14:23.16,0:14:23.99,Default,,0,0,0,,You're right.
 Dialogue: 0,0:14:24.30,0:14:25.59,Default,,0,0,0,,I'll cut to the chase.
 Dialogue: 0,0:14:27.72,0:14:32.18,Default,,0,0,0,,I can't go into detail, but the\Nfact is we're in terrible danger.
-Dialogue: 0,0:14:34.38,0:14:39.98,Default,,0,0,0,,I've brought Trish back to us to save her\Nand I've committed to betraying the boss!
-Dialogue: 0,0:14:41.48,0:14:45.90,Default,,0,0,0,,Unfortunately my friends this\Nis where we part ways if you
+Dialogue: 0,0:14:34.38,0:14:39.98,Default,,0,0,0,,i've brought trish back to us to save her\Nand i've committed to betraying the boss
+Dialogue: 0,0:14:41.48,0:14:45.90,Default,,0,0,0,,unfortunately my friends this\Nis where we part ways if you
 Dialogue: 0,0:14:45.98,0:14:48.82,Default,,0,0,0,,choose to join me you'd also\Nbe choosing life on the run
-Dialogue: 0,0:14:48.90,0:14:54.58,Default,,0,0,0,,what are you saying yeah you're\Nnot making any sense I I don't
-Dialogue: 0,0:14:54.66,0:14:58.36,Default,,0,0,0,,Think I heard you right. Yes,\Nyou did. He said he's betraying.
+Dialogue: 0,0:14:48.90,0:14:54.58,Default,,0,0,0,,what are you saying yeah you're\Nnot making any sense i i don't
+Dialogue: 0,0:14:54.66,0:14:58.36,Default,,0,0,0,,Think I heard you right. Yes,\Nyou did. He said he's betraying
 Dialogue: 0,0:14:58.44,0:15:04.14,Default,,0,0,0,,the boss our boss but but why\Nfor your safety let's end the
 Dialogue: 0,0:15:04.22,0:15:09.82,Default,,0,0,0,,conversation here all I can\Nsay is this is my choice no I
 Dialogue: 0,0:15:09.90,0:15:12.68,Default,,0,0,0,,really think you should\Nelaborate some of them might want
@@ -243,7 +246,7 @@ Dialogue: 0,0:15:51.06,0:15:53.59,Default,,0,0,0,,And for that matter,\Nwhy isn'
 Dialogue: 0,0:15:53.78,0:15:54.72,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:15:55.04,0:15:55.88,Default,,0,0,0,,Excuse me.
 Dialogue: 0,0:15:56.20,0:15:57.67,Default,,0,0,0,,You had me worried there.
-Dialogue: 0,0:15:58.20,0:16:01.42,Default,,0,0,0,,Yeah, no kidding. Please\Ndon't go. Don't do this.
+Dialogue: 0,0:15:58.20,0:16:01.42,Default,,0,0,0,,Yeah, no kidding. Please,\Ndon't go. Don't do this.
 Dialogue: 0,0:16:01.80,0:16:05.28,Default,,0,0,0,,Ujarati, at the very least,\Nwe deserve an explanation.
 Dialogue: 0,0:16:14.94,0:16:15.77,Default,,0,0,0,,Fine.
 Dialogue: 0,0:16:16.08,0:16:18.28,Default,,0,0,0,,The boss only had us\Nprotect his daughter so
@@ -281,20 +284,20 @@ Dialogue: 0,0:18:11.94,0:18:14.41,Default,,0,0,0,,I'm surprised you're being so 
 Dialogue: 0,0:18:15.02,0:18:18.60,Default,,0,0,0,,I owe you my life, but I\Ncan't be a part of this.
 Dialogue: 0,0:18:19.46,0:18:21.32,Default,,0,0,0,,You've lost touch with reality.
 Dialogue: 0,0:18:21.78,0:18:25.30,Default,,0,0,0,,Lofty ideals alone won't get\Nyou through this difficult life.
-Dialogue: 0,0:18:25.38,0:18:27.94,Default,,0,0,0,,We could never survive without the Family.
+Dialogue: 0,0:18:25.38,0:18:27.94,Default,,0,0,0,,We could never survive\Nwithout the Familia.
 Dialogue: 0,0:18:28.32,0:18:29.79,Default,,0,0,0,,You should listen to him.
 Dialogue: 0,0:18:30.34,0:18:33.44,Default,,0,0,0,,You've basically put the\Ngun in your own damn mouth.
 Dialogue: 0,0:18:33.78,0:18:35.72,Default,,0,0,0,,There's nowhere you can hide now.
 Dialogue: 0,0:18:35.86,0:18:38.39,Default,,0,0,0,,You'll have to live\Nlife always on the run.
-Dialogue: 0,0:18:38.68,0:18:42.16,Default,,0,0,0,,Remember, I pledged my loyalties\Nto the Family at large.
+Dialogue: 0,0:18:38.68,0:18:42.16,Default,,0,0,0,,Remember, I pledged my loyalties\Nto the Familia at large.
 Dialogue: 0,0:18:42.68,0:18:45.80,Default,,0,0,0,,And it's not like I ever\Nswore any allegiance to you.
 Dialogue: 0,0:18:48.14,0:18:52.22,Default,,0,0,0,,But even so, I've never had\Na place to really call home.
 Dialogue: 0,0:18:52.46,0:18:55.64,Default,,0,0,0,,A place where I really felt\Nlike I belonged, you know?
 Dialogue: 0,0:18:56.56,0:18:59.68,Default,,0,0,0,,The only time I've felt at ease is...
 Dialogue: 0,0:18:59.76,0:19:02.60,Default,,0,0,0,,Well, when I'm with you, Bucciarati.
-Dialogue: 0,0:19:05.68,0:19:06.51,Default,,0,0,0,,Abacchio.
+Dialogue: 0,0:19:05.68,0:19:06.51,Default,,0,0,0,,Abbacchio.
 Dialogue: 0,0:19:07.84,0:19:08.67,Default,,0,0,0,,What?
-Dialogue: 0,0:19:08.75,0:19:10.44,Default,,0,0,0,,You can't! Abacchio!
+Dialogue: 0,0:19:08.75,0:19:10.44,Default,,0,0,0,,You can't! Abbacchio!
 Dialogue: 0,0:19:11.02,0:19:12.98,Default,,0,0,0,,Well, considering my skills,
 Dialogue: 0,0:19:13.38,0:19:18.22,Default,,0,0,0,,if we get rid of the boss, I'll\Nbe next in line to beat Cabo.
 Dialogue: 0,0:19:19.42,0:19:21.62,Default,,0,0,0,,Listen, Bucciarati's\Nas smart as they come.
@@ -327,14 +330,14 @@ Dialogue: 0,0:20:23.64,0:20:25.58,Default,,0,0,0,,Dammit, what am I supposed to 
 Dialogue: 0,0:20:25.84,0:20:27.66,Default,,0,0,0,,Listen, a word of caution.
 Dialogue: 0,0:20:28.38,0:20:29.78,Default,,0,0,0,,Stay here, Narancia.
 Dialogue: 0,0:20:30.56,0:20:32.10,Default,,0,0,0,,This is not your fight.
-Dialogue: 0,0:20:36.32,0:20:39.56,Default,,0,0,0,,Then you're serious? You'll\Nend up six feet under?
-Dialogue: 0,0:20:39.64,0:20:42.40,Default,,0,0,0,,I get what you're doing\Nbut there's some things In
-Dialogue: 0,0:20:42.48,0:20:46.06,Default,,0,0,0,,this world you just can't\Nchange being mafiosi means
-Dialogue: 0,0:20:46.14,0:20:48.66,Default,,0,0,0,,we can't always take the\Nhigh ground How's this
-Dialogue: 0,0:20:48.74,0:20:50.74,Default,,0,0,0,,mission different from any\Nof the other dirty ones?
-Dialogue: 0,0:20:50.82,0:20:53.56,Default,,0,0,0,,I can't answer that I just know I
-Dialogue: 0,0:20:53.64,0:20:59.24,Default,,0,0,0,,refuse To live a lie let's be off our
-Dialogue: 0,0:20:59.32,0:21:03.56,Default,,0,0,0,,departure will mark the beginning of\Nour lives as traitors to the Mafia.
+Dialogue: 0,0:20:36.32,0:20:39.56,Default,,0,0,0,,Then you're serious, you'll\Nend up six feet under.
+Dialogue: 0,0:20:39.64,0:20:42.24,Default,,0,0,0,,i get what you're doing\Nbut there's some things
+Dialogue: 0,0:20:42.32,0:20:45.66,Default,,0,0,0,,in this world you just\Ncan't change being mafiosi
+Dialogue: 0,0:20:45.74,0:20:48.48,Default,,0,0,0,,means we can't always\Ntake the high ground how's
+Dialogue: 0,0:20:48.56,0:20:50.40,Default,,0,0,0,,this mission different\Nfrom any of the other dirty
+Dialogue: 0,0:20:50.48,0:20:54.26,Default,,0,0,0,,ones i can't answer that\Ni just know i refuse to
+Dialogue: 0,0:20:54.34,0:21:00.20,Default,,0,0,0,,live a lie let's be off\Nour departure will mark
+Dialogue: 0,0:21:00.28,0:21:03.34,Default,,0,0,0,,the beginning of our lives\Nas traitors to the Mafia.
 Dialogue: 0,0:21:06.88,0:21:09.68,Default,,0,0,0,,Come on guys, think about\Nwhat you're doing here.
 Dialogue: 0,0:21:09.76,0:21:13.98,Default,,0,0,0,,We just met this girl, why throw your lives\Naway for someone you know nothing about?
 Dialogue: 0,0:21:14.06,0:21:17.12,Default,,0,0,0,,She won't even tell us what\Nkind of music she likes.

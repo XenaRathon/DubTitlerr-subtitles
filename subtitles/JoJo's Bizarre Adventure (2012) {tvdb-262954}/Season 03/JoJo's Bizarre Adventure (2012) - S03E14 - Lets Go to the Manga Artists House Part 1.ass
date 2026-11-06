@@ -62,7 +62,7 @@ Style: Episode 14 Typesetting 3backc,Arial,20,&H0050C4D5,&H000000FF,&H00000000,&
 Style: Episode 14 Typesetting 3,Calligraph421 BT,80,&H0017373E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: SFXBlue1,Shaky Hand Some Comic,110,&H00D6BD5D,&H000000FF,&H001A1110,&H00000000,-1,0,0,0,130,100,0,0,1,5.5,0,8,50,40,20,1
 Style: SFXBlue2,Shaky Hand Some Comic Bold,140,&H00BC6C28,&H000000FF,&H000C0908,&H00000000,0,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -79,10 +79,12 @@ Dialogue: 0,0:00:28.00,0:00:30.06,Dubtitles,,0,0,0,,The talk sent me home two da
 Dialogue: 0,0:00:31.60,0:00:32.84,Dubtitles,,0,0,0,,Where's that bastard?
 Dialogue: 0,0:00:33.06,0:00:34.41,Dubtitles,,0,0,0,,I mean, where's Josuke?
 Dialogue: 0,0:00:34.66,0:00:36.44,Dubtitles,,0,0,0,,He probably already went home.
+Dialogue: 1,0:00:36.68,0:00:42.81,Main,Koichi,0,0,0,,{\an8}I heard he found an invisible baby yesterday, \Nbut he's still trying to figure out who her mom is.
 Dialogue: 0,0:00:36.78,0:00:39.68,Dubtitles,,0,0,0,,You won't believe it, but he\Nfound an invisible baby yesterday.
 Dialogue: 0,0:00:39.76,0:00:42.72,Dubtitles,,0,0,0,,And now they're bending over\Nbackwards to find its mother.
 Dialogue: 0,0:00:42.80,0:00:44.78,Dubtitles,,0,0,0,,So the baby is a stand user?
 Dialogue: 0,0:00:45.00,0:00:45.88,Dubtitles,,0,0,0,,Looks that way.
+Dialogue: 1,0:00:46.19,0:00:55.86,Main,Koichi,0,0,0,,{\an8}She gets upset and turns everything invisible when Josuke's dad, Mr. Joestar, isn't around.
 Dialogue: 0,0:00:46.52,0:00:50.00,Dubtitles,,0,0,0,,Apparently, the baby has formed\Na bond with Josuke's dad, Mr.
 Dialogue: 0,0:00:50.08,0:00:50.91,Dubtitles,,0,0,0,,Joestar.
 Dialogue: 0,0:00:50.99,0:00:51.90,Dubtitles,,0,0,0,,In fact, if Mr.
@@ -104,14 +106,16 @@ Dialogue: 0,0:01:19.27,0:01:20.10,Dubtitles,,0,0,0,,You really like it?
 Dialogue: 0,0:01:20.19,0:01:22.00,Dubtitles,,0,0,0,,You're talking about the suspense\Nhorror series, aren't you?
 Dialogue: 0,0:01:22.08,0:01:24.26,Dubtitles,,0,0,0,,I never get it mixed\Nup with anything else!
 Dialogue: 0,0:01:24.34,0:01:26.04,Dubtitles,,0,0,0,,It can get pretty gross sometimes,
+Dialogue: 1,0:01:24.52,0:01:28.98,Main,Koichi,0,0,0,,{\an8}...but it really pulls you in with its \Nthrilling action and realistic characters, doesn't it?
 Dialogue: 0,0:01:26.12,0:01:29.18,Dubtitles,,0,0,0,,but it's worth it for the horror\Naesthetic and complex characters.
+Dialogue: 1,0:01:28.98,0:01:30.40,Main,Hazamada,0,0,0,,{\an8}You're totally right!
 Dialogue: 0,0:01:29.26,0:01:30.38,Dubtitles,,0,0,0,,I completely agree!
 Dialogue: 0,0:01:30.66,0:01:32.62,Dubtitles,,0,0,0,,By the way, here's a little secret.
 Dialogue: 0,0:01:32.70,0:01:35.48,Dubtitles,,0,0,0,,Rohan Kishibe actually\Nlives right here in Morioh.
 Dialogue: 0,0:01:35.56,0:01:36.39,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:01:36.47,0:01:37.34,Dubtitles,,0,0,0,,Did I hear you right?
 Dialogue: 0,0:01:37.42,0:01:38.80,Dubtitles,,0,0,0,,He lives here in Morioh?
-Dialogue: 0,0:01:38.88,0:01:41.12,Dubtitles,,0,0,0,,It's almost too good to\Nbe true, are you sure?
+Dialogue: 0,0:01:38.88,0:01:41.12,Dubtitles,,0,0,0,,It's almost too good to\Nbe true. Are you sure?
 Dialogue: 0,0:01:41.20,0:01:43.12,Dubtitles,,0,0,0,,I know, I couldn't believe it either!
 Dialogue: 0,0:01:43.20,0:01:46.34,Dubtitles,,0,0,0,,I heard some realtors talking about\Nit while I was at the comic store.
 Dialogue: 0,0:01:46.42,0:01:49.28,Dubtitles,,0,0,0,,It's mind-boggling news,\Nbut it's absolutely true!
@@ -149,7 +153,6 @@ Dialogue: 1,0:02:01.55,0:02:03.06,Episode 14 Typesetting 2backc,Sign,0,0,0,,{\p1
 Dialogue: 1,0:02:01.55,0:02:03.06,Episode 14 Typesetting 2backc,Sign,0,0,0,,{\p1\be25\pos(750.058,644.284)}m 0 200 l 400 0 160 250 0 250{\p0}
 Dialogue: 1,0:02:01.55,0:02:03.06,Episode 14 Typesetting 2backd,Sign,0,0,0,,{\p1\be25\pos(944.342,601.428)}m 200 0 l 400 0 200 300 0 300{\p0}
 Dialogue: 1,0:02:01.55,0:02:03.06,Episode 14 Typesetting 2backe,Sign,0,0,0,,{\p1\be15\pos(1110.628,597.999)}m 200 0 l 400 0 200 300 0 300{\p0}
-Dialogue: 2,0:02:01.55,0:02:03.06,Episode 14 Typesetting 2,Sign,0,0,0,,{\pos(991.314,696.486)}Kishibe
 Dialogue: 0,0:02:03.50,0:02:04.68,Dubtitles,,0,0,0,,Hey, look up there!
 Dialogue: 0,0:02:04.92,0:02:06.60,Dubtitles,,0,0,0,,I think that might be his studio.
 Dialogue: 0,0:02:06.68,0:02:07.56,Dubtitles,,0,0,0,,The light's on!
@@ -167,7 +170,6 @@ Dialogue: 1,0:02:23.08,0:02:29.58,Episode 14 Typesetting 3backa,Sign,0,0,0,,{\p1
 Dialogue: 1,0:02:23.08,0:02:29.58,Episode 14 Typesetting 3backa2,Sign,0,0,0,,{\p1\be15\pos(95.614,798.142)}m 0 0 l 50 50 20 50 0 25{\p0}
 Dialogue: 1,0:02:23.08,0:02:29.58,Episode 14 Typesetting 3backb,Sign,0,0,0,,{\p1\be15\pos(101.114,802.642)}m 0 0 l 70 70 35 70 0 35{\p0}
 Dialogue: 1,0:02:23.08,0:02:29.58,Episode 14 Typesetting 3backc,Sign,0,0,0,,{\p1\be15\pos(115.614,796.642)}m 0 0 l 100 100 50 100 0 50{\p0}
-Dialogue: 2,0:02:23.08,0:02:29.58,Episode 14 Typesetting 3,Hazamada,0,0,0,,{\frz355\pos(164.7,779.6)}Kishibe
 Dialogue: 0,0:02:23.32,0:02:26.00,Dubtitles,,0,0,0,,Snooping around out here\Nwon't do us any good, Koichi.
 Dialogue: 0,0:02:26.08,0:02:27.80,Dubtitles,,0,0,0,,You're gonna have to ring the doorbell.
 Dialogue: 0,0:02:27.88,0:02:28.71,Dubtitles,,0,0,0,,Huh?
@@ -219,8 +221,8 @@ Dialogue: 0,0:04:37.18,0:04:39.22,Dubtitles,,0,0,0,,This is the most magical day
 Dialogue: 0,0:04:40.36,0:04:41.86,Dubtitles,,0,0,0,,I'm so glad we're here!
 Dialogue: 0,0:04:42.20,0:04:45.46,Dubtitles,,0,0,0,,So I have to know, sensei, how long\Nhave you been working at a Morioh?
 Dialogue: 0,0:04:45.54,0:04:47.52,Dubtitles,,0,0,0,,I've been living here\Nfor about three months.
-Dialogue: 0,0:04:47.60,0:04:49.36,Dubtitles,,0,0,0,,My family lives in S-City,
-Dialogue: 0,0:04:49.48,0:04:52.89,Dubtitles,,0,0,0,,but when I was a child, we\Nactually called Mariah our home.
+Dialogue: 0,0:04:47.60,0:04:49.36,Dubtitles,,0,0,0,,My family lives in S-City.
+Dialogue: 0,0:04:49.48,0:04:52.89,Dubtitles,,0,0,0,,but when I was a child, we\Nactually called Morio our home.
 Dialogue: 0,0:04:53.20,0:04:55.67,Dubtitles,,0,0,0,,Tokyo has its perks, but it's too chaotic.
 Dialogue: 0,0:04:55.92,0:05:00.36,Dubtitles,,0,0,0,,It has none of Morio's serenity and\Nisn't at all conducive to creativity.
 Dialogue: 0,0:05:01.42,0:05:02.25,Dubtitles,,0,0,0,,And besides,
@@ -249,15 +251,17 @@ Dialogue: 0,0:06:00.98,0:06:02.57,Dubtitles,,0,0,0,,It's an orb-weaving spider.
 Dialogue: 0,0:06:02.72,0:06:05.43,Dubtitles,,0,0,0,,And a number of them\Nweave webs day and night.
 Dialogue: 0,0:06:06.68,0:06:08.24,Dubtitles,,0,0,0,,By the way, you two,
 Dialogue: 0,0:06:08.48,0:06:12.36,Dubtitles,,0,0,0,,do you know what it takes to create\Ncaptivating stories for manga?
-Dialogue: 0,0:06:13.36,0:06:18.16,Dubtitles,,0,0,0,,Reality, reality is the driving force\Nthat makes a drawing come totally alive.
-Dialogue: 0,0:06:18.24,0:06:20.50,Dubtitles,,0,0,0,,Its entertainment on the\Nhighest possible level.
-Dialogue: 0,0:06:20.58,0:06:24.00,Dubtitles,,0,0,0,,People assume manga is born\Nof imagination and fantasy,
-Dialogue: 0,0:06:24.22,0:06:25.66,Dubtitles,,0,0,0,,but they couldn't be more wrong.
-Dialogue: 0,0:06:25.74,0:06:29.38,Dubtitles,,0,0,0,,A great manga is one that\Ncaptures things experienced,
-Dialogue: 0,0:06:29.70,0:06:32.05,Dubtitles,,0,0,0,,seen and felt by flesh and blood beings.
+Dialogue: 0,0:06:13.36,0:06:14.19,Dubtitles,,0,0,0,,Reality!
+Dialogue: 0,0:06:14.50,0:06:16.66,Dubtitles,,0,0,0,,reality is the driving force that makes a
+Dialogue: 0,0:06:16.74,0:06:19.00,Dubtitles,,0,0,0,,drawing come totally\Nalive its entertainment
+Dialogue: 0,0:06:19.08,0:06:21.68,Dubtitles,,0,0,0,,on the highest possible\Nlevel People assume
+Dialogue: 0,0:06:21.76,0:06:24.14,Dubtitles,,0,0,0,,manga is born of imagination and fantasy,
+Dialogue: 0,0:06:24.22,0:06:27.20,Dubtitles,,0,0,0,,but they couldn't be more wrong A great
+Dialogue: 0,0:06:27.28,0:06:29.62,Dubtitles,,0,0,0,,manga is one that captures\Nthings experienced,
+Dialogue: 0,0:06:29.70,0:06:31.99,Dubtitles,,0,0,0,,seen and felt by flesh and blood beings
 Dialogue: 0,0:06:33.24,0:06:36.18,Dubtitles,,0,0,0,,Take this exquisite spider for example,
-Dialogue: 0,0:06:36.56,0:06:39.18,Dubtitles,,0,0,0,,something a typical city\Ndweller would kill in disgust.
-Dialogue: 0,0:06:39.26,0:06:43.30,Dubtitles,,0,0,0,,The way the legs connect to the body\Nand the positions of its many eyes.
+Dialogue: 0,0:06:36.56,0:06:39.76,Dubtitles,,0,0,0,,something a typical city dweller\Nwould kill in disgust The way
+Dialogue: 0,0:06:39.84,0:06:43.30,Dubtitles,,0,0,0,,the legs connect to the body and\Nthe positions of its many eyes.
 Dialogue: 0,0:06:43.38,0:06:45.86,Dubtitles,,0,0,0,,Even subtle differences\Nbetween the male and female.
 Dialogue: 0,0:06:45.94,0:06:49.84,Dubtitles,,0,0,0,,A manga artist must understand each\Nof these elements to draw a spider.
 Dialogue: 0,0:06:49.92,0:06:53.12,Dubtitles,,0,0,0,,It's said a spider's silk\Nsolidifies when exposed to air.
@@ -285,7 +289,7 @@ Dialogue: 0,0:08:01.58,0:08:03.11,Dubtitles,,0,0,0,,You don't have to do that!
 Dialogue: 0,0:08:05.78,0:08:07.98,Dubtitles,,0,0,0,,Rohan is great! What a process!
 Dialogue: 0,0:08:08.44,0:08:10.90,Dubtitles,,0,0,0,,Now I know what makes\NPink Dark Boy so amazing!
 Dialogue: 0,0:08:10.98,0:08:14.33,Dubtitles,,0,0,0,,His need to know every single\Ndetail is on another level!
-Dialogue: 0,0:08:15.04,0:08:15.92,Dubtitles,,0,0,0,,Um, Azamara?
+Dialogue: 0,0:08:15.04,0:08:15.92,Dubtitles,,0,0,0,,Um, Hazamada?
 Dialogue: 0,0:08:17.00,0:08:19.40,Dubtitles,,0,0,0,,I know we just got here and all, but...
 Dialogue: 0,0:08:19.48,0:08:22.94,Dubtitles,,0,0,0,,Well, uh, don't you think it's\Nabout time for us to get going?
 Dialogue: 0,0:08:23.02,0:08:23.85,Dubtitles,,0,0,0,,Say what?
@@ -340,8 +344,9 @@ Dialogue: 0,0:10:15.12,0:10:17.20,Dubtitles,,0,0,0,,We'll take a peek, then put 
 Dialogue: 0,0:10:17.28,0:10:19.96,Dubtitles,,0,0,0,,This is a horrible idea. Lighten up.
 Dialogue: 0,0:10:20.10,0:10:22.39,Dubtitles,,0,0,0,,We're not hurting anyone by reading it.
 Dialogue: 0,0:10:33.92,0:10:35.20,Dubtitles,,0,0,0,,What is this feeling?
-Dialogue: 0,0:10:35.80,0:10:39.40,Dubtitles,,0,0,0,,I know it's a thrilling manga, but\Nseeing an abusive person like this?
-Dialogue: 0,0:10:39.48,0:10:42.25,Dubtitles,,0,0,0,,is giving me major\Ngoosebumps all over my body!
+Dialogue: 0,0:10:35.80,0:10:37.57,Dubtitles,,0,0,0,,I know it's a thrilling manga,
+Dialogue: 0,0:10:37.66,0:10:39.64,Dubtitles,,0,0,0,,but seeing an abusive person like this is
+Dialogue: 0,0:10:39.72,0:10:42.31,Dubtitles,,0,0,0,,giving me major goosebumps\Nall over my body!
 Dialogue: 0,0:10:43.08,0:10:44.16,Dubtitles,,0,0,0,,It's so good!
 Dialogue: 0,0:10:44.40,0:10:46.26,Dubtitles,,0,0,0,,Hurry up and turn the page, Hazamada!
 Dialogue: 0,0:10:46.34,0:10:47.88,Dubtitles,,0,0,0,,I have to know what comes next!
@@ -354,7 +359,7 @@ Dialogue: 0,0:10:57.78,0:10:58.92,Dubtitles,,0,0,0,,Good work, boys.
 Dialogue: 0,0:10:59.10,0:11:03.22,Dubtitles,,0,0,0,,The two of you are compatible\Nfirst-time readers of my new manuscript.
 Dialogue: 0,0:11:05.04,0:11:06.14,Dubtitles,,0,0,0,,As I'm not I?
 Dialogue: 0,0:11:06.48,0:11:07.50,Dubtitles,,0,0,0,,What's the matter?
-Dialogue: 0,0:11:07.58,0:11:11.05,Dubtitles,,0,0,0,,You will now experience my\Nglorious ability, Heaven's Door.
+Dialogue: 0,0:11:07.58,0:11:11.05,Dubtitles,,0,0,0,,You will now experience my\Nglorious ability, Heaven's Door!
 Dialogue: 0,0:11:11.20,0:11:13.20,Dubtitles,,0,0,0,,It's a gateway to your very souls.
 Dialogue: 0,0:11:13.76,0:11:14.76,Dubtitles,,0,0,0,,What do you mean?
 Dialogue: 0,0:11:14.92,0:11:16.02,Dubtitles,,0,0,0,,What is going on?
@@ -404,7 +409,7 @@ Dialogue: 0,0:13:26.98,0:13:30.52,Dubtitles,,0,0,0,,Yukako Yamagishi, Okuyasu\NN
 Dialogue: 0,0:13:31.28,0:13:32.22,Dubtitles,,0,0,0,,Oh, it's unbelievable!
 Dialogue: 0,0:13:32.30,0:13:34.60,Dubtitles,,0,0,0,,Incredible and utterly captivating.
 Dialogue: 0,0:13:34.78,0:13:36.55,Dubtitles,,0,0,0,,In these pages, Koichi Hirose,
-Dialogue: 0,0:13:36.76,0:13:39.94,Dubtitles,,0,0,0,,I've just uncovered the\Nmother load of manga material.
+Dialogue: 0,0:13:36.76,0:13:39.94,Dubtitles,,0,0,0,,I've just uncovered the\Nmother lode of manga material.
 Dialogue: 0,0:13:41.58,0:13:48.56,Dubtitles,,0,0,0,,Shining Diamond, Star Platinum, The\NHand, Love Deluxe, et Star, et Star.
 Dialogue: 0,0:13:49.14,0:13:50.73,Dubtitles,,0,0,0,,What are you talking about?
 Dialogue: 0,0:13:50.94,0:13:53.48,Dubtitles,,0,0,0,,What the heck are you\Nplanning to do to us now?
@@ -429,7 +434,7 @@ Dialogue: 0,0:14:40.70,0:14:42.20,Dubtitles,,0,0,0,,I'm not bluffing, you hear m
 Dialogue: 0,0:14:42.28,0:14:43.62,Dubtitles,,0,0,0,,I'll attack if I have to.
 Dialogue: 0,0:14:43.70,0:14:46.24,Dubtitles,,0,0,0,,You really don't know\Nwhen to shut up, do you?
 Dialogue: 0,0:14:46.32,0:14:47.62,Dubtitles,,0,0,0,,Try it if you dare!
-Dialogue: 0,0:14:48.08,0:14:49.40,Dubtitles,,0,0,0,,Reverb, act two, go!
+Dialogue: 0,0:14:48.08,0:14:49.40,Dubtitles,,0,0,0,,Reverb, Act 2, go!
 Dialogue: 1,0:14:55.54,0:14:55.58,SFXBlue1,1,0,0,0,,{=12}{\blur0.9\bord4.35\fscx102.8\fscy79.08\fade(255,0,255,0,0,1610,2210)\frz12.76\pos(346.36,368.11)\c&H1A1110&}Crash
 Dialogue: 2,0:14:55.54,0:14:55.58,SFXBlue1,1,0,0,0,,{=12}{\blur0.9\bord0\fscx102.8\fscy79.08\fade(255,0,255,0,0,1610,2210)\frz12.76\pos(346.36,368.11)\4a&HFF&}Crash
 Dialogue: 1,0:14:55.58,0:14:55.62,SFXBlue1,1,0,0,0,,{=12}{\blur0.9\bord4.35\fscx102.8\fscy79.08\fade(255,0,255,-40,-40,1570,2170)\frz12.76\pos(345.15,360.41)\c&H1A1110&}Crash
@@ -575,7 +580,7 @@ Dialogue: 2,0:15:09.80,0:15:09.88,SFXBlue2,2,0,0,0,,{=11}{\blur0.6\bord0\fscx130
 Dialogue: 0,0:15:10.36,0:15:11.58,Dubtitles,,0,0,0,,Where are you attacking?
 Dialogue: 0,0:15:11.66,0:15:12.90,Dubtitles,,0,0,0,,That wasn't even close!
 Dialogue: 0,0:15:12.98,0:15:14.72,Dubtitles,,0,0,0,,Unfortunately for you, Koichi,
-Dialogue: 0,0:15:14.80,0:15:18.39,Dubtitles,,0,0,0,,I took the liberty of placing\Na little safety lock on Reverb.
+Dialogue: 0,0:15:14.80,0:15:18.39,Dubtitles,,0,0,0,,I took the liberty of placing\Na little safety lock on Echoes.
 Dialogue: 0,0:15:19.12,0:15:24.02,Dubtitles,,0,0,0,,You can attack me to your heart's content,\Nbut you're no longer able to land a blow.
 Dialogue: 0,0:15:24.10,0:15:25.00,Dubtitles,,0,0,0,,Safety lock?
 Dialogue: 0,0:15:29.20,0:15:30.03,Dubtitles,,0,0,0,,Take a look.
@@ -596,20 +601,19 @@ Dialogue: 0,0:16:02.59,0:16:03.42,Dubtitles,,0,0,0,,What do I do now?
 Dialogue: 0,0:16:08.98,0:16:10.08,Dubtitles,,0,0,0,,Chin up, Koichi.
 Dialogue: 0,0:16:10.28,0:16:12.40,Dubtitles,,0,0,0,,That's all the tampering I intend to do.
 Dialogue: 0,0:16:12.48,0:16:14.42,Dubtitles,,0,0,0,,If I meddled with your pages any further,
-Dialogue: 0,0:16:14.50,0:16:16.50,Dubtitles,,0,0,0,,your precious life would\Nlose all authenticity?
+Dialogue: 0,0:16:14.50,0:16:16.50,Dubtitles,,0,0,0,,your precious life would\Nlose all authenticity
 Dialogue: 0,0:16:16.58,0:16:19.46,Dubtitles,,0,0,0,,and you'd no longer be of\Nany benefit to my work.
 Dialogue: 0,0:16:20.08,0:16:20.91,Dubtitles,,0,0,0,,All right.
 Dialogue: 0,0:16:21.12,0:16:23.48,Dubtitles,,0,0,0,,Now let's have a look\Nat your pages, Hazamada.
 Dialogue: 0,0:16:23.56,0:16:25.98,Dubtitles,,0,0,0,,You're a genius in every\Nsense of the word, sir!
 Dialogue: 0,0:16:26.06,0:16:27.76,Dubtitles,,0,0,0,,I respect you so much!
 Dialogue: 0,0:16:27.96,0:16:30.74,Dubtitles,,0,0,0,,I suppose we'll see about that. Now then,
-Dialogue: 0,0:16:31.14,0:16:34.96,Dubtitles,,0,0,0,,you sometimes find a sense of comfort\Nin picking on creatures weaker than you?
+Dialogue: 0,0:16:31.14,0:16:34.96,Dubtitles,,0,0,0,,you sometimes find a sense of comfort\Nin picking on creatures weaker than you,
 Dialogue: 0,0:16:35.04,0:16:37.28,Dubtitles,,0,0,0,,like helpless kittens and small birds.
 Dialogue: 0,0:16:37.84,0:16:41.37,Dubtitles,,0,0,0,,You want to have your way with\NJunko, a junior from Class E,
 Dialogue: 0,0:16:41.50,0:16:43.50,Dubtitles,,0,0,0,,but are too cowardly to act on it.
 Dialogue: 0,0:16:43.90,0:16:47.94,Dubtitles,,0,0,0,,Your testicles often grow sweaty, and\Nwhen you adjust them during class,
-Dialogue: 0,0:16:48.02,0:16:49.56,Dubtitles,,0,0,0,,nothing thrills you more than the thought?
-Dialogue: 0,0:16:49.64,0:16:51.23,Dubtitles,,0,0,0,,that someone might see you.
+Dialogue: 0,0:16:48.02,0:16:51.92,Dubtitles,,0,0,0,,nothing thrills you more than the\Nthought that someone might see you.
 Dialogue: 0,0:16:52.00,0:16:53.72,Dubtitles,,0,0,0,,You're a disgusting troll.
 Dialogue: 0,0:16:54.00,0:16:57.77,Dubtitles,,0,0,0,,Including someone like you in my\Nmanga would drive readers away.
 Dialogue: 0,0:16:58.00,0:16:59.04,Dubtitles,,0,0,0,,You're useless.
@@ -634,20 +638,20 @@ Dialogue: 0,0:17:49.80,0:17:53.98,Dubtitles,,0,0,0,,And truth be told, I absolut
 Dialogue: 0,0:17:54.06,0:17:57.38,Dubtitles,,0,0,0,,Everyone feels good after finishing\Na project they've worked hard on,
 Dialogue: 0,0:17:57.46,0:18:00.20,Dubtitles,,0,0,0,,but that gratification is\Nfleeting and immaterial.
 Dialogue: 0,0:18:00.28,0:18:02.74,Dubtitles,,0,0,0,,After the initial rush\Nof euphoria is gone,
-Dialogue: 0,0:18:02.82,0:18:05.78,Dubtitles,,0,0,0,,I begin to think no one will\Nread the manga I slaved over?
+Dialogue: 0,0:18:02.82,0:18:05.78,Dubtitles,,0,0,0,,I begin to think no one will\Nread the manga I slaved over,
 Dialogue: 0,0:18:05.86,0:18:08.80,Dubtitles,,0,0,0,,and my deep-seated\Ninsecurities begin to flare up.
 Dialogue: 0,0:18:08.88,0:18:11.53,Dubtitles,,0,0,0,,What if all my readers\Nare gone by next week?
 Dialogue: 0,0:18:11.66,0:18:14.44,Dubtitles,,0,0,0,,What if I don't know what\Nto draw for the next issue?
 Dialogue: 0,0:18:14.52,0:18:16.58,Dubtitles,,0,0,0,,What if I lose the ability to draw?
 Dialogue: 0,0:18:16.76,0:18:18.70,Dubtitles,,0,0,0,,What if my motivation disappears?
-Dialogue: 0,0:18:20.52,0:18:23.90,Dubtitles,,0,0,0,,These are the recurring thoughts\Nthat have tormented me over and over?
-Dialogue: 0,0:18:23.98,0:18:26.18,Dubtitles,,0,0,0,,since I was a 16-year-old novice.
-Dialogue: 0,0:18:26.30,0:18:30.54,Dubtitles,,0,0,0,,Until three months ago when a mysterious\Nstranger shot me to the core with an arrow?
-Dialogue: 0,0:18:30.62,0:18:33.09,Dubtitles,,0,0,0,,and I gained the ability of Heaven's Door.
-Dialogue: 0,0:18:33.18,0:18:34.71,Dubtitles,,0,0,0,,That was Keicho Nichimura.
+Dialogue: 0,0:18:20.52,0:18:22.86,Dubtitles,,0,0,0,,These are the recurring\Nthoughts that have tormented
+Dialogue: 0,0:18:22.94,0:18:26.18,Dubtitles,,0,0,0,,me over and over since I\Nwas a 16-year-old novice.
+Dialogue: 0,0:18:26.30,0:18:29.52,Dubtitles,,0,0,0,,Until three months ago when a\Nmysterious stranger shot me to
+Dialogue: 0,0:18:29.60,0:18:33.10,Dubtitles,,0,0,0,,the core with an arrow and I gained\Nthe ability of Heaven's Door.
+Dialogue: 0,0:18:33.18,0:18:34.71,Dubtitles,,0,0,0,,That was Keicho Nijimura.
 Dialogue: 0,0:18:34.92,0:18:37.39,Dubtitles,,0,0,0,,Yes, I saw his name written on your pages.
-Dialogue: 0,0:18:37.60,0:18:40.66,Dubtitles,,0,0,0,,You two have no idea what it's like\Nto find the perfect inspiration?
-Dialogue: 0,0:18:40.74,0:18:42.51,Dubtitles,,0,0,0,,for your ultimate masterpiece.
+Dialogue: 0,0:18:37.60,0:18:39.74,Dubtitles,,0,0,0,,You two have no idea what\Nit's like to find the
+Dialogue: 0,0:18:39.82,0:18:42.74,Dubtitles,,0,0,0,,perfect inspiration for\Nyour ultimate masterpiece.
 Dialogue: 0,0:18:42.82,0:18:44.78,Dubtitles,,0,0,0,,But I found it at last.
 Dialogue: 0,0:18:45.18,0:18:46.18,Dubtitles,,0,0,0,,There's nothing better.
 Dialogue: 0,0:18:46.26,0:18:51.22,Dubtitles,,0,0,0,,Koichi, I'm taking your reality and\Nusing it as a muse for my new stories!
@@ -664,7 +668,7 @@ Dialogue: 0,0:19:21.35,0:19:22.38,Dubtitles,,0,0,0,,Today kicked ass!
 Dialogue: 0,0:19:22.64,0:19:23.70,Dubtitles,,0,0,0,,Well, I'm headed this way.
 Dialogue: 0,0:19:23.78,0:19:24.61,Dubtitles,,0,0,0,,See you later.
 Dialogue: 0,0:19:26.22,0:19:28.81,Dubtitles,,0,0,0,,I'm still surprised he\Nwas such a great guy.
-Dialogue: 0,0:19:39.08,0:19:42.08,Dubtitles,,0,0,0,,You'll never speak of what\Nhappened, right, Koichi?
+Dialogue: 0,0:19:39.08,0:19:42.08,Dubtitles,,0,0,0,,You'll never speak of what\Nhappened here, Koichi?
 Dialogue: 0,0:19:46.54,0:19:47.37,Dubtitles,,0,0,0,,What the?
 Dialogue: 0,0:19:47.72,0:19:49.90,Dubtitles,,0,0,0,,How the heck did I lose 20 kilograms?
 Dialogue: 0,0:19:52.76,0:19:53.70,Dubtitles,,0,0,0,,That's so weird.
@@ -706,12 +710,10 @@ Dialogue: 0,0:21:41.66,0:21:45.16,Dubtitles,,0,0,0,,but it's out of character fo
 Dialogue: 0,0:21:45.24,0:21:46.76,Dubtitles,,0,0,0,,What the hell is he doing?
 Dialogue: 0,0:21:46.84,0:21:49.10,Dubtitles,,0,0,0,,Well, I want to know who\Nin the world lives here.
 Dialogue: 0,0:21:49.18,0:21:52.83,Dubtitles,,0,0,0,,I mean, there's no way he's\Nmeeting up with some chick, right?
-Dialogue: 0,0:22:07.08,0:22:07.91,Dubtitles,,0,0,0,,Rohan,
-Dialogue: 0,0:22:07.99,0:22:11.72,Dubtitles,,0,0,0,,he's working with such a chilling\Nexpression and for some reason I
-Dialogue: 0,0:22:11.80,0:22:14.92,Dubtitles,,0,0,0,,can't shake the feeling that being\Nin this house is actually terrifying?
-Dialogue: 0,0:22:15.00,0:22:19.28,Dubtitles,,0,0,0,,Why you finally made it?
-Dialogue: 0,0:22:19.36,0:22:20.48,Dubtitles,,0,0,0,,It's good to see you!
-Dialogue: 0,0:22:20.56,0:22:22.34,Dubtitles,,0,0,0,,Right on time for our session.
+Dialogue: 0,0:22:07.08,0:22:10.80,Dubtitles,,0,0,0,,Rohan he's working with such\Na chilling expression and
+Dialogue: 0,0:22:10.88,0:22:13.12,Dubtitles,,0,0,0,,for some reason I can't\Nshake the feeling that being
+Dialogue: 0,0:22:13.20,0:22:18.68,Dubtitles,,0,0,0,,In this house is actually\Nterrifying. Why you finally
+Dialogue: 0,0:22:18.76,0:22:22.34,Dubtitles,,0,0,0,,made it it's good to see you\Nright on time for our session
 Dialogue: 1,0:22:50.26,0:22:52.64,ED Lyrics,,0,0,0,,{\fad(100,100)}Any time I need to see your face, I just close my eyes
 Dialogue: 1,0:22:52.64,0:22:54.89,ED Lyrics,,0,0,0,,{\fad(100,100)}And I am taken to a place where your crystal mind
 Dialogue: 1,0:22:54.89,0:22:57.68,ED Lyrics,,0,0,0,,{\fad(100,100)}And magenta feelings take up shelter in the base of my spine
@@ -737,75 +739,55 @@ Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105
 Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(732,770)}the
 Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(1052,770)}Mangaka's
 Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(1557,770)}House, Part 2
-Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(195,770)}Let's Go
-Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(479,770)}Visit
 Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(822,770)}the Comics
 Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(1218,770)}Artist's
-Dialogue: 1,0:23:38.85,0:23:40.02,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\fad(350,0)\be25\pos(1647,770)}House Part 2
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,770)\fs107\1c&H110B0F&}Visit
 Dialogue: 2,0:23:40.02,0:23:40.06,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,770)\fs107\1c&H0F0D11&}Mangaka's
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,770)\fs107\1c&H110B0F&}Visit
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,770)\fs107\1c&H0F0D11&}Artist's
 Dialogue: 1,0:23:40.02,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\be25\pos(265,770)}Let's Go
 Dialogue: 1,0:23:40.02,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\be25\pos(732,770)}the
 Dialogue: 1,0:23:40.02,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\be25\pos(1557,770)}House, Part 2
-Dialogue: 1,0:23:40.02,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\be25\pos(195,770)}Let's Go
 Dialogue: 1,0:23:40.02,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\be25\pos(822,770)}the Comics
-Dialogue: 1,0:23:40.02,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\fs105\an2\be25\pos(1647,770)}House Part 2
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,770)\fs109\1c&H1A090B&}Visit
 Dialogue: 2,0:23:40.06,0:23:40.10,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,770)\fs109\1c&H100913&}Mangaka's
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,770)\fs109\1c&H1A090B&}Visit
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,770)\fs109\1c&H100913&}Artist's
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,770.5)\fs111\1c&H26090D&}Visit
 Dialogue: 2,0:23:40.10,0:23:40.14,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,770.5)\fs111\1c&H19081D&}Mangaka's
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,770.5)\fs111\1c&H26090D&}Visit
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,770.5)\fs111\1c&H19081D&}Artist's
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,771)\fs113\1c&H2D080C&}Visit
 Dialogue: 2,0:23:40.14,0:23:40.19,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,771)\fs113\1c&H1E0827&}Mangaka's
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,771)\fs113\1c&H2D080C&}Visit
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,771)\fs113\1c&H1E0827&}Artist's
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,772)\fs115\1c&H3C090C&}Visit
 Dialogue: 2,0:23:40.19,0:23:40.23,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,772)\fs115\1c&H240533&}Mangaka's
-Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,772)\fs115\1c&H3C090C&}Visit
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,772)\fs115\1c&H240533&}Artist's
 Dialogue: 1,0:23:40.23,0:23:40.27,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,772.5)\fs117\1c&H4A0A10&}Visit
 Dialogue: 2,0:23:40.23,0:23:40.27,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,772.5)\fs117\1c&H240533&}Mangaka's
-Dialogue: 1,0:23:40.23,0:23:40.27,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,772.5)\fs117\1c&H4A0A10&}Visit
 Dialogue: 1,0:23:40.23,0:23:40.27,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,772.5)\fs117\1c&H240533&}Artist's
 Dialogue: 1,0:23:40.27,0:23:40.31,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,773)\fs119\1c&H5D0912&}Visit
 Dialogue: 2,0:23:40.27,0:23:40.31,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,773)\fs119\1c&H32084A&}Mangaka's
-Dialogue: 1,0:23:40.27,0:23:40.31,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,773)\fs119\1c&H5D0912&}Visit
 Dialogue: 1,0:23:40.27,0:23:40.31,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,773)\fs119\1c&H32084A&}Artist's
 Dialogue: 1,0:23:40.31,0:23:40.35,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,773.5)\fs121\1c&H6D0912&}Visit
 Dialogue: 2,0:23:40.31,0:23:40.35,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,773.5)\fs121\1c&H3B0758&}Mangaka's
-Dialogue: 1,0:23:40.31,0:23:40.35,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,773.5)\fs121\1c&H6D0912&}Visit
 Dialogue: 1,0:23:40.31,0:23:40.35,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,773.5)\fs121\1c&H3B0758&}Artist's
 Dialogue: 1,0:23:40.35,0:23:40.39,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,774)\fs123\1c&H7B0A13&}Visit
 Dialogue: 2,0:23:40.35,0:23:40.39,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,774)\fs123\1c&H440366&}Mangaka's
-Dialogue: 1,0:23:40.35,0:23:40.39,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,774)\fs123\1c&H7B0A13&}Visit
 Dialogue: 1,0:23:40.35,0:23:40.39,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,774)\fs123\1c&H440366&}Artist's
 Dialogue: 1,0:23:40.39,0:23:40.44,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,774.5)\fs125\1c&H8A0814&}Visit
 Dialogue: 2,0:23:40.39,0:23:40.44,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,774.5)\fs125\1c&H4B0274&}Mangaka's
-Dialogue: 1,0:23:40.39,0:23:40.44,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,774.5)\fs125\1c&H8A0814&}Visit
 Dialogue: 1,0:23:40.39,0:23:40.44,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,774.5)\fs125\1c&H4B0274&}Artist's
 Dialogue: 1,0:23:40.44,0:23:40.48,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,775)\fs127\1c&H9A0814&}Visit
 Dialogue: 2,0:23:40.44,0:23:40.48,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,775)\fs127\1c&H55027D&}Mangaka's
-Dialogue: 1,0:23:40.44,0:23:40.48,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,775)\fs127\1c&H9A0814&}Visit
 Dialogue: 1,0:23:40.44,0:23:40.48,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,775)\fs127\1c&H55027D&}Artist's
 Dialogue: 1,0:23:40.48,0:23:40.52,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,775.5)\fs129\1c&HA60713&}Visit
 Dialogue: 2,0:23:40.48,0:23:40.52,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,775.5)\fs129\1c&H5B008A&}Mangaka's
-Dialogue: 1,0:23:40.48,0:23:40.52,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,775.5)\fs129\1c&HA60713&}Visit
 Dialogue: 1,0:23:40.48,0:23:40.52,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,775.5)\fs129\1c&H5B008A&}Artist's
 Dialogue: 1,0:23:40.52,0:23:40.56,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,776)\fs131\1c&HB40716&}Visit
 Dialogue: 2,0:23:40.52,0:23:40.56,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,776)\fs131\1c&H600094&}Mangaka's
-Dialogue: 1,0:23:40.52,0:23:40.56,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,776)\fs131\1c&HB40716&}Visit
 Dialogue: 1,0:23:40.52,0:23:40.56,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,776)\fs131\1c&H600094&}Artist's
 Dialogue: 1,0:23:40.56,0:23:40.60,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,776.5)\fs133\1c&HBB0716&}Visit
 Dialogue: 2,0:23:40.56,0:23:40.60,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,776.5)\fs133\1c&H640098&}Mangaka's
-Dialogue: 1,0:23:40.56,0:23:40.60,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,776.5)\fs133\1c&HBB0716&}Visit
 Dialogue: 1,0:23:40.56,0:23:40.60,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,776.5)\fs133\1c&H640098&}Artist's
 Dialogue: 1,0:23:40.60,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(539,777)\fs135\1c&HC40714&}Visit
 Dialogue: 2,0:23:40.60,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1052,777)\fs135\1c&H6600A1&}Mangaka's
-Dialogue: 1,0:23:40.60,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(479,777)\fs135\1c&HC40714&}Visit
 Dialogue: 1,0:23:40.60,0:23:41.90,Next Episode Title (Rohan),sign,0,0,0,,{\an2\be25\pos(1218,777)\fs135\1c&H6600A1&}Artist's
 

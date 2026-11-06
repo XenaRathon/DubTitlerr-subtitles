@@ -48,7 +48,7 @@ Style: ED Lyrics,Hobo Std,56,&H00FFFFFF,&H002728AF,&H00000000,&H00000000,-1,-1,0
 Style: Vulgar Back 2,Arial,20,&H009F95DD,&H000000FF,&H00000000,&H00000000,0,0,-1,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Vulgar Back Mask,Arial,20,&H00B3ADDD,&H000000FF,&H00000000,&H00000000,0,0,-1,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Title - Box,Kozuka Mincho Pro Strp M,126,&H00050D10,&H000000FF,&H00040D10,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,90,90,52,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -56,12 +56,9 @@ Dialogue: 0,0:00:09.44,0:00:13.62,Dubtitles,,0,0,0,,Extend arms and bend wrists\
 Dialogue: 0,0:00:14.12,0:00:16.53,Dubtitles,,0,0,0,,making sure to keep each finger straight.
 Dialogue: 0,0:00:21.94,0:00:25.12,Dubtitles,,0,0,0,,Then palms up in front, straighten elbows,
 Dialogue: 0,0:00:25.40,0:00:28.86,Dubtitles,,0,0,0,,whilst maintaining the 90\Ndegree angles, bend each finger.
-Dialogue: 0,0:00:28.94,0:00:31.96,Dubtitles,,0,0,0,,One, two, three, four, five.
-Dialogue: 0,0:00:32.74,0:00:34.82,Dubtitles,,0,0,0,,Now open your hands back up.
-Dialogue: 0,0:00:34.90,0:00:38.06,Dubtitles,,0,0,0,,One, two, three, four, five.
-Dialogue: 0,0:00:38.14,0:00:39.52,Dubtitles,,0,0,0,,And done?
-Dialogue: 0,0:00:42.96,0:00:45.44,Dubtitles,,0,0,0,,Now you are ready to draw manga.
-Dialogue: 0,0:00:45.52,0:00:47.90,Dubtitles,,0,0,0,,Let's begin, shall we?
+Dialogue: 0,0:00:28.94,0:00:31.96,Dubtitles,,0,0,0,,One, two, three, four, five
+Dialogue: 0,0:00:32.74,0:00:39.52,Dubtitles,,0,0,0,,Now open your hands back up. One,\Ntwo, three, four, five. And done.
+Dialogue: 0,0:00:42.96,0:00:47.90,Dubtitles,,0,0,0,,Now you are ready to draw\Nmanga. Let's begin, shall we?
 Dialogue: 0,0:01:00.76,0:01:02.50,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:01:27.73,0:01:27.77,Title - Box,,0,0,0,,{\fscx117.52\fscy117.52\p1\pos(-73.79,-89.67)\an7}m 766 688 l 764 416 1280 413 1277 684
 Dialogue: 2,0:01:27.73,0:01:27.77,Title,,0,0,0,,{=1}{\an2\blur0.75\fs75\pos(1174,514.68)}E{\fs60}PISODE{\fs75} ＃05
@@ -142,7 +139,7 @@ Dialogue: 0,0:03:50.66,0:03:52.52,Dubtitles,,0,0,0,,Still wrong. Trust me.
 Dialogue: 0,0:03:52.72,0:03:54.96,Dubtitles,,0,0,0,,The only thing I want you to do is draw.
 Dialogue: 0,0:03:55.04,0:03:57.44,Dubtitles,,0,0,0,,The one buying a house will be me.
 Dialogue: 0,0:03:57.96,0:03:59.54,Dubtitles,,0,0,0,,You? Now let's see.
-Dialogue: 0,0:03:59.72,0:04:02.78,Dubtitles,,0,0,0,,That's 2,600 square meters\Ngoing for 3 million yen.
+Dialogue: 0,0:03:59.72,0:04:02.78,Dubtitles,,0,0,0,,That's 2,600 square meters,\Ngoing for 3 million yen.
 Dialogue: 0,0:04:03.10,0:04:07.39,Dubtitles,,0,0,0,,On my salary, I could probably get a\Nloan for it or even buy it outright.
 Dialogue: 0,0:04:07.90,0:04:09.19,Dubtitles,,0,0,0,,Yeah, this could work.
 Dialogue: 0,0:04:09.32,0:04:11.44,Dubtitles,,0,0,0,,I could commute from my\Napartment during the week,
@@ -171,13 +168,13 @@ Dialogue: 0,0:05:01.92,0:05:05.57,Dubtitles,,0,0,0,,For starters, how does a vil
 Dialogue: 0,0:05:06.54,0:05:07.96,Dubtitles,,0,0,0,,There must be a catch.
 Dialogue: 0,0:05:08.16,0:05:09.82,Dubtitles,,0,0,0,,Except there isn't, Rohan-sensei.
 Dialogue: 0,0:05:09.90,0:05:13.61,Dubtitles,,0,0,0,,I've yet to tell you the most\Nimportant thing about this place.
-Dialogue: 0,0:05:13.88,0:05:17.42,Dubtitles,,0,0,0,,The 11 people who live\Nhere all bought their lots.
-Dialogue: 0,0:05:17.50,0:05:21.16,Dubtitles,,0,0,0,,when they were just 25 years\Nold can you Believe it I mean
+Dialogue: 0,0:05:13.88,0:05:17.42,Dubtitles,,0,0,0,,The 11 people who live here,\Nthey all bought their lots.
+Dialogue: 0,0:05:17.50,0:05:21.16,Dubtitles,,0,0,0,,when they were just 25 years\Nold can you believe it i mean
 Dialogue: 0,0:05:21.24,0:05:23.86,Dubtitles,,0,0,0,,yeah they're super loaded\Ntoday but all of them came up
-Dialogue: 0,0:05:23.94,0:05:26.94,Dubtitles,,0,0,0,,from humble beginnings The\Nmost recent arrival in this
+Dialogue: 0,0:05:23.94,0:05:26.94,Dubtitles,,0,0,0,,from humble beginnings the\Nmost recent arrival in this
 Dialogue: 0,0:05:27.02,0:05:30.30,Dubtitles,,0,0,0,,village bought his plot of\Nland number 11 back in 1989
-Dialogue: 0,0:05:30.38,0:05:34.44,Dubtitles,,0,0,0,,the man Was a modest 25 year\Nold delivery driver who had
-Dialogue: 0,0:05:34.52,0:05:38.18,Dubtitles,,0,0,0,,moved all the way out there\Nfrom tokyo And now he's the head
+Dialogue: 0,0:05:30.38,0:05:34.44,Dubtitles,,0,0,0,,the man was a modest 25 year\Nold delivery driver who had
+Dialogue: 0,0:05:34.52,0:05:38.18,Dubtitles,,0,0,0,,moved all the way out there\Nfrom tokyo and now he's the head
 Dialogue: 0,0:05:38.26,0:05:41.84,Dubtitles,,0,0,0,,honcho of a big airline company\Nworth over 30 billion yen
 Dialogue: 0,0:05:42.50,0:05:47.15,Dubtitles,,0,0,0,,So yeah, there's not a single person\Nliving in this village who came for money.
 Dialogue: 0,0:05:47.70,0:05:51.04,Dubtitles,,0,0,0,,They were all just ordinary\N25-year-old dudes who moved
@@ -258,8 +255,8 @@ Dialogue: 0,0:07:58.08,0:07:59.90,Dubtitles,,0,0,0,,Let's practice before we go 
 Dialogue: 0,0:08:01.16,0:08:05.45,Dubtitles,,0,0,0,,Traditionally, where in the house\Nshould a visitor take their jacket off?
 Dialogue: 0,0:08:05.70,0:08:08.74,Dubtitles,,0,0,0,,You seem set on wasting my\Ntime with this nonsense.
 Dialogue: 0,0:08:09.24,0:08:11.44,Dubtitles,,0,0,0,,The answer is at the entrance.
-Dialogue: 0,0:08:11.82,0:08:13.50,Dubtitles,,0,0,0,,Not once you've come inside?
-Dialogue: 0,0:08:13.72,0:08:15.82,Dubtitles,,0,0,0,,But before you pass through the door!
+Dialogue: 0,0:08:11.82,0:08:13.50,Dubtitles,,0,0,0,,Not once you've come inside,
+Dialogue: 0,0:08:13.72,0:08:15.82,Dubtitles,,0,0,0,,but before you pass through the door,
 Dialogue: 0,0:08:15.90,0:08:18.44,Dubtitles,,0,0,0,,just in case there's\Nlingering dirt on your coat.
 Dialogue: 0,0:08:18.52,0:08:19.35,Dubtitles,,0,0,0,,What a relief!
 Dialogue: 0,0:08:19.43,0:08:20.82,Dubtitles,,0,0,0,,So you do know how to behave!
@@ -273,26 +270,19 @@ Dialogue: 0,0:08:38.04,0:08:39.10,Dubtitles,,0,0,0,,What should we do?
 Dialogue: 0,0:08:39.28,0:08:41.94,Dubtitles,,0,0,0,,If we leave him, he might\Nget eaten by something.
 Dialogue: 0,0:08:42.02,0:08:43.26,Dubtitles,,0,0,0,,Or freeze to death.
 Dialogue: 0,0:08:43.60,0:08:47.72,Dubtitles,,0,0,0,,Well, if that happens, we could\Nsimply write it off as nature's work.
-Dialogue: 0,0:08:48.92,0:08:51.16,Dubtitles,,0,0,0,,Good thing we found you, little Fool.
+Dialogue: 0,0:08:48.92,0:08:51.16,Dubtitles,,0,0,0,,Good thing we found you, little fella.
 Dialogue: 0,0:08:51.54,0:08:53.19,Dubtitles,,0,0,0,,Don't worry, we'll help you.
 Dialogue: 0,0:08:53.64,0:08:56.52,Dubtitles,,0,0,0,,I'm glad I hung on to\Nthis box. There you go.
 Dialogue: 0,0:08:57.74,0:09:00.38,Dubtitles,,0,0,0,,It's likely his nest is\Nin one of these trees.
 Dialogue: 0,0:09:00.46,0:09:02.99,Dubtitles,,0,0,0,,We should come back\Nhere later and find it.
-Dialogue: 0,0:09:15.20,0:09:16.34,Dubtitles,,0,0,0,,Good day to you.
-Dialogue: 0,0:09:16.42,0:09:19.76,Dubtitles,,0,0,0,,I'd like to begin by thanking\Nyou for coming all this way.
-Dialogue: 0,0:09:19.84,0:09:24.14,Dubtitles,,0,0,0,,And I'm glad to see that good weather\Nwas accommodating to your long journey.
-Dialogue: 0,0:09:24.22,0:09:25.40,Dubtitles,,0,0,0,,This way, please.
-Dialogue: 0,0:09:26.58,0:09:27.52,Dubtitles,,0,0,0,,We've been waiting.
-Dialogue: 0,0:09:27.60,0:09:29.60,Dubtitles,,0,0,0,,Let us proceed swiftly.
-Dialogue: 0,0:09:35.64,0:09:37.50,Dubtitles,,0,0,0,,My name is Izumi Kyoka.
-Dialogue: 0,0:09:37.58,0:09:40.28,Dubtitles,,0,0,0,,Thank you so much for sparing\Nus some of your precious
-Dialogue: 0,0:09:40.36,0:09:42.44,Dubtitles,,0,0,0,,time to discuss the sale\Nof your lovely estate.
-Dialogue: 0,0:09:42.52,0:09:45.54,Dubtitles,,0,0,0,,This gentleman here is my\Ngood friend Rohan Kishibe.
-Dialogue: 0,0:09:45.62,0:09:47.34,Dubtitles,,0,0,0,,He's a successful manga artist.
-Dialogue: 0,0:09:47.42,0:09:48.80,Dubtitles,,0,0,0,,I'm pleased to meet you.
-Dialogue: 0,0:09:48.88,0:09:50.02,Dubtitles,,0,0,0,,You may call me IQ.
-Dialogue: 0,0:09:50.10,0:09:52.54,Dubtitles,,0,0,0,,I've been given the great honor.
-Dialogue: 0,0:09:52.62,0:09:54.56,Dubtitles,,0,0,0,,of facilitating your visit today.
+Dialogue: 0,0:09:15.20,0:09:19.76,Dubtitles,,0,0,0,,Good day to you I'd like to begin by\Nthanking you for coming all this way
+Dialogue: 0,0:09:19.84,0:09:24.14,Dubtitles,,0,0,0,,And I'm glad to see that good weather\Nwas accommodating to your long journey
+Dialogue: 0,0:09:24.22,0:09:25.40,Dubtitles,,0,0,0,,This way, please
+Dialogue: 0,0:09:26.58,0:09:29.60,Dubtitles,,0,0,0,,We've been waiting.\NLet us proceed swiftly.
+Dialogue: 0,0:09:35.64,0:09:40.28,Dubtitles,,0,0,0,,My name is Kyoka Izumi. Thank you so\Nmuch for sparing us some of your precious
+Dialogue: 0,0:09:40.36,0:09:44.26,Dubtitles,,0,0,0,,time to discuss the sale of your lovely\Nestate this gentleman here is my good
+Dialogue: 0,0:09:44.34,0:09:49.10,Dubtitles,,0,0,0,,friend rohan kishibe he's a successful\Nmanga artist i'm pleased to meet you you
+Dialogue: 0,0:09:49.18,0:09:54.34,Dubtitles,,0,0,0,,may call me iq i've been given the great\Nhonor of facilitating your visit today.
 Dialogue: 0,0:09:54.68,0:09:56.68,Dubtitles,,0,0,0,,Please follow me as I guide you.
 Dialogue: 0,0:10:09.16,0:10:13.16,Dubtitles,,0,0,0,,Now then, if you would kindly allow\Nme to relieve you of your coats.
 Dialogue: 0,0:10:27.30,0:10:29.54,Dubtitles,,0,0,0,,Please, you may enter at your leisure.
@@ -322,8 +312,7 @@ Dialogue: 0,0:13:00.26,0:13:01.78,Dubtitles,,0,0,0,,Wait, what are you talking a
 Dialogue: 0,0:13:01.86,0:13:02.69,Dubtitles,,0,0,0,,What did I...
 Dialogue: 0,0:13:02.77,0:13:05.16,Dubtitles,,0,0,0,,What did I do wrong? Firstly,
 Dialogue: 0,0:13:05.48,0:13:07.14,Dubtitles,,0,0,0,,though you are a guest in this house,
-Dialogue: 0,0:13:07.22,0:13:09.34,Dubtitles,,0,0,0,,it is improper to take the\Nfurthest seat from the door!
-Dialogue: 0,0:13:09.42,0:13:11.07,Dubtitles,,0,0,0,,unless it is offered to you.
+Dialogue: 0,0:13:07.22,0:13:12.10,Dubtitles,,0,0,0,,it is improper to take the furthest seat\Nfrom the door unless it is offered to you.
 Dialogue: 1,0:13:12.35,0:13:20.69,Seats Caption,Caption,0,0,0,,{\fad(150,0)\pos(264,827)\be1}Entrance
 Dialogue: 1,0:13:12.35,0:13:20.69,Seats Caption,Caption,0,0,0,,{\fad(150,0)\pos(632,579)\fs61\b1}➃ {\fs55\b0}Guest Seat{Trans note: The “guest seats” in JP are literally “low seats”, while what I called the “chief seats” are called “high seats”.}
 Dialogue: 1,0:13:12.73,0:13:20.69,Seats Caption,Caption,0,0,0,,{\fad(150,0)\pos(846,75\fs61)\b1}➂ {\fs55\b0}Guest Seat
@@ -394,10 +383,10 @@ Dialogue: 0,0:14:32.94,0:14:34.50,Dubtitles,,0,0,0,,Hey, let's just leave.
 Dialogue: 0,0:14:34.76,0:14:37.60,Dubtitles,,0,0,0,,There aren't any good manga\Nideas to be found here.
 Dialogue: 0,0:14:37.68,0:14:40.86,Dubtitles,,0,0,0,,I would leave if I weren't\Nso in love with this place.
 Dialogue: 0,0:14:40.96,0:14:42.66,Dubtitles,,0,0,0,,Sure, they're strict about etiquette,
-Dialogue: 0,0:14:42.74,0:14:46.46,Dubtitles,,0,0,0,,but that's what I'd expect.\NJust look around you.
+Dialogue: 0,0:14:42.74,0:14:46.46,Dubtitles,,0,0,0,,But that's what I'd expect.\NJust look around you.
 Dialogue: 0,0:14:46.66,0:14:48.18,Dubtitles,,0,0,0,,It's so lovely.
 Dialogue: 0,0:15:01.92,0:15:03.72,Dubtitles,,0,0,0,,Hi, Kyoka speaking
-Dialogue: 0,0:15:07.96,0:15:09.48,Dubtitles,,0,0,0,,What the hell happened?
+Dialogue: 0,0:15:07.96,0:15:09.48,Dubtitles,,0,0,0,,What the hell happened
 Dialogue: 0,0:15:10.96,0:15:11.79,Dubtitles,,0,0,0,,Oh, no!
 Dialogue: 0,0:15:15.34,0:15:16.78,Dubtitles,,0,0,0,,No, please, no!
 Dialogue: 0,0:15:18.46,0:15:19.72,Dubtitles,,0,0,0,,I have to...
@@ -416,7 +405,7 @@ Dialogue: 0,0:15:56.66,0:15:58.02,Dubtitles,,0,0,0,,Excuse the intrusion.
 Dialogue: 0,0:15:59.86,0:16:03.98,Dubtitles,,0,0,0,,The Master has agreed to let you\Ntake the trial of manners once again.
 Dialogue: 0,0:16:04.36,0:16:05.54,Dubtitles,,0,0,0,,Now let us proceed.
 Dialogue: 0,0:16:05.82,0:16:08.62,Dubtitles,,0,0,0,,You will reveal yourself this instant!
-Dialogue: 0,0:16:12.00,0:16:12.94,Dubtitles,,0,0,0,,Heaven’s Door!
+Dialogue: 0,0:16:12.00,0:16:12.94,Dubtitles,,0,0,0,,Heaven's door!
 Dialogue: 0,0:16:18.28,0:16:22.80,Dubtitles,,0,0,0,,I am the guide at the main gate,\Nand the land speaks through me.
 Dialogue: 0,0:16:23.04,0:16:24.70,Dubtitles,,0,0,0,,When crossing into this domain,
 Dialogue: 0,0:16:24.78,0:16:26.78,Dubtitles,,0,0,0,,those lacking proper\Netiquette will soon find
@@ -434,9 +423,9 @@ Dialogue: 0,0:16:56.48,0:16:59.50,Dubtitles,,0,0,0,,It appears our enemies\Nare 
 Dialogue: 0,0:16:59.88,0:17:03.24,Dubtitles,,0,0,0,,For the three rules she\Nbroke, she lost three things.
 Dialogue: 0,0:17:03.32,0:17:06.82,Dubtitles,,0,0,0,,She then further transgressed when\Nshe begged for another chance.
 Dialogue: 0,0:17:06.90,0:17:07.73,Dubtitles,,0,0,0,,Impudence.
-Dialogue: 0,0:17:07.81,0:17:12.20,Dubtitles,,0,0,0,,On top of that, turning\Nsomeone into a book?
-Dialogue: 0,0:17:12.28,0:17:14.16,Dubtitles,,0,0,0,,and reading their mind without permission!
-Dialogue: 0,0:17:14.24,0:17:17.28,Dubtitles,,0,0,0,,is also an egregious act of disrespect!
+Dialogue: 0,0:17:07.81,0:17:08.74,Dubtitles,,0,0,0,,On top of that,
+Dialogue: 0,0:17:08.90,0:17:13.46,Dubtitles,,0,0,0,,turning someone into a\Nbook and reading their mind
+Dialogue: 0,0:17:13.54,0:17:17.28,Dubtitles,,0,0,0,,without permission is also an\Negregious act of disrespect!
 Dialogue: 0,0:17:18.46,0:17:19.32,Dubtitles,,0,0,0,,Oh, no!
 Dialogue: 0,0:17:20.32,0:17:21.22,Dubtitles,,0,0,0,,You're kidding!
 Dialogue: 0,0:17:22.12,0:17:23.50,Dubtitles,,0,0,0,,This... this is bad!
@@ -473,7 +462,7 @@ Dialogue: 0,0:19:47.58,0:19:48.41,Dubtitles,,0,0,0,,Heaven's door.
 Dialogue: 1,0:19:51.00,0:19:53.13,Note,Caption,0,0,0,,Note: "I cannot see the borders of tatami mats."
 Dialogue: 0,0:19:52.28,0:19:53.12,Dubtitles,,0,0,0,,Oh, look.
 Dialogue: 0,0:19:53.34,0:19:54.63,Dubtitles,,0,0,0,,You're doing it again.
-Dialogue: 0,0:19:55.26,0:19:56.26,Dubtitles,,0,0,0,,It's a both feet.
+Dialogue: 0,0:19:55.26,0:19:56.26,Dubtitles,,0,0,0,,It's both feet.
 Dialogue: 0,0:19:58.00,0:20:00.53,Dubtitles,,0,0,0,,It's an impressive\Npower, wouldn't you say?
 Dialogue: 0,0:20:00.80,0:20:04.24,Dubtitles,,0,0,0,,I do appreciate the lessons\Nyou gave me. Thank you.
 Dialogue: 0,0:20:04.86,0:20:08.14,Dubtitles,,0,0,0,,Now, on to the matter of what\NI gain, as per the rules.
@@ -518,29 +507,23 @@ Dialogue: 0,0:22:06.30,0:22:08.30,Dubtitles,,0,0,0,,I must refuse. What?
 Dialogue: 1,0:22:21.86,0:22:27.20,ED Lyrics,,0,0,0,,{\fad(100,100)}I wanna know the truth of life that never ends
 Dialogue: 0,0:22:26.64,0:22:29.38,Dubtitles,,0,0,0,,To chain a mystic rise.
 Dialogue: 1,0:22:27.20,0:22:32.41,ED Lyrics,,0,0,0,,{\fad(100,100)}To unchain the mystic rites I'm calling
-Dialogue: 0,0:22:29.46,0:22:31.50,Dubtitles,,0,0,0,,I'm coming.
-Dialogue: 0,0:22:31.58,0:22:34.82,Dubtitles,,0,0,0,,I'm on my way to find.
+Dialogue: 0,0:22:29.46,0:22:33.76,Dubtitles,,0,0,0,,I'm coming I'm on my way
 Dialogue: 1,0:22:32.58,0:22:37.87,ED Lyrics,,0,0,0,,{\fad(100,100)}I'm on my way to find the eternal verities
-Dialogue: 0,0:22:34.90,0:22:37.56,Dubtitles,,0,0,0,,Eternal valedictives.
-Dialogue: 0,0:22:37.64,0:22:41.38,Dubtitles,,0,0,0,,Exploding all their teardrops by the sun.
+Dialogue: 0,0:22:33.84,0:22:39.38,Dubtitles,,0,0,0,,To find Eternal valedictives.\NExploding all their
 Dialogue: 1,0:22:37.87,0:22:43.59,ED Lyrics,,0,0,0,,{\fad(100,100)}Exploding all the teardrops by the sun
-Dialogue: 0,0:22:41.46,0:22:48.14,Dubtitles,,0,0,0,,I can feel my heart feeling.
+Dialogue: 0,0:22:39.46,0:22:43.90,Dubtitles,,0,0,0,,teardrops by the sun I
 Dialogue: 1,0:22:43.59,0:22:48.93,ED Lyrics,,0,0,0,,{\fad(100,100)}I can feel my heart beating
-Dialogue: 0,0:22:48.22,0:22:52.00,Dubtitles,,0,0,0,,I can see my face.
+Dialogue: 0,0:22:43.98,0:22:49.24,Dubtitles,,0,0,0,,can feel my heart feeling I
 Dialogue: 1,0:22:48.93,0:22:59.48,ED Lyrics,,0,0,0,,{\fad(100,100)}I can see my fate all spinning around beyond the time
-Dialogue: 0,0:22:52.08,0:22:54.90,Dubtitles,,0,0,0,,All spinning round.
-Dialogue: 0,0:22:54.98,0:22:57.54,Dubtitles,,0,0,0,,Beyond the storm.
-Dialogue: 0,0:22:58.90,0:23:01.96,Dubtitles,,0,0,0,,Rise up to the sky.
+Dialogue: 0,0:22:49.32,0:22:53.62,Dubtitles,,0,0,0,,can see my face All spinning
+Dialogue: 0,0:22:53.70,0:22:57.54,Dubtitles,,0,0,0,,Round beyond the storm.
+Dialogue: 0,0:22:58.90,0:23:05.12,Dubtitles,,0,0,0,,Rise up to the sky Like a butterfly Show
 Dialogue: 1,0:22:59.48,0:23:04.77,ED Lyrics,,0,0,0,,{\fad(100,100)}Rise up to the sky, like a butterfly
-Dialogue: 0,0:23:02.04,0:23:04.18,Dubtitles,,0,0,0,,Like a butterfly.
-Dialogue: 0,0:23:04.26,0:23:07.28,Dubtitles,,0,0,0,,Show me what's inside.
 Dialogue: 1,0:23:04.77,0:23:10.11,ED Lyrics,,0,0,0,,{\fad(100,100)}Show me what's inside, don't ever let go
-Dialogue: 0,0:23:07.36,0:23:09.86,Dubtitles,,0,0,0,,Don't know the world. Grow.
-Dialogue: 0,0:23:09.94,0:23:13.62,Dubtitles,,0,0,0,,Shining stars will guide me to.
+Dialogue: 0,0:23:05.20,0:23:09.86,Dubtitles,,0,0,0,,Me, what's inside. Don't\Nknow the world grow.
+Dialogue: 0,0:23:09.94,0:23:14.68,Dubtitles,,0,0,0,,Shining stars will guide me to Somewhere
 Dialogue: 1,0:23:10.11,0:23:15.58,ED Lyrics,,0,0,0,,{\fad(100,100)}Shining stars will guide me to somewhere high
-Dialogue: 0,0:23:13.70,0:23:15.48,Dubtitles,,0,0,0,,Somewhere high.
-Dialogue: 0,0:23:15.56,0:23:17.04,Dubtitles,,0,0,0,,Finding the truth.
+Dialogue: 0,0:23:14.76,0:23:19.74,Dubtitles,,0,0,0,,high Finding the truth\NBeyond the heaven storm
 Dialogue: 1,0:23:15.58,0:23:21.46,ED Lyrics,,0,0,0,,{\fad(100,100)}Finding the truth beyond the Heaven's Door
-Dialogue: 0,0:23:17.12,0:23:19.74,Dubtitles,,0,0,0,,Beyond the heaven storm.
-Dialogue: 0,0:23:54.98,0:24:00.60,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:23:54.82,0:24:00.60,Dubtitles,,0,0,0,,CastingWords. Thank you.
 

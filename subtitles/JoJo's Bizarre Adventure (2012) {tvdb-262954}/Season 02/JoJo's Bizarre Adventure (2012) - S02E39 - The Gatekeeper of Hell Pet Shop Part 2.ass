@@ -47,7 +47,7 @@ Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00140A0A,&H000000FF,&H00000000,&H
 Style: SFXEpisode03,Shaky Hand Some Comic Bold,150,&H00ADECE8,&H000000FF,&H004D5A4F,&H00000000,-1,0,0,0,130,100,0,0,1,8,0,8,50,40,20,1
 Style: SFXEpisode32,Franc Gothique Brush,150,&H00223291,&H000000FF,&H000F1A38,&H000F1A38,0,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
 Style: SFXEpisode11,Shaky Hand Some Comic Bold,160,&H002765BB,&H000000FF,&H00153350,&H00000000,-1,0,0,0,130,100,0,0,1,6,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,7 +55,7 @@ Dialogue: 0,0:00:00.00,0:00:03.40,Dubtitles,,0,0,0,,Previously on JoJo's Bizarre
 Dialogue: 0,0:00:16.06,0:00:17.06,Dubtitles,,0,0,0,,Blast it!
 Dialogue: 0,0:00:17.34,0:00:19.72,Dubtitles,,0,0,0,,Oh no, the exit's blocked with ice!
 Dialogue: 0,0:00:20.00,0:00:21.72,Dubtitles,,0,0,0,,And more is coming this way!
-Dialogue: 0,0:00:22.44,0:00:23.94,Dubtitles,,0,0,0,,Hey, shits!
+Dialogue: 0,0:00:22.44,0:00:23.94,Dubtitles,,0,0,0,,Hey, shit!
 Dialogue: 0,0:00:25.88,0:00:27.80,Dubtitles,,0,0,0,,It's time to cover the whole tunnel!
 Dialogue: 0,0:00:27.88,0:00:30.90,Dubtitles,,0,0,0,,I gotta find a way out of this death trap!
 Dialogue: 0,0:00:38.42,0:00:39.25,Dubtitles,,0,0,0,,What?
@@ -63,19 +63,19 @@ Dialogue: 0,0:00:39.62,0:00:41.30,Dubtitles,,0,0,0,,No, my paw!
 Dialogue: 0,0:00:43.24,0:00:45.56,Dubtitles,,0,0,0,,I can't rip my paw loose!
 Dialogue: 0,0:01:20.38,0:01:21.92,Dubtitles,,0,0,0,,Let's go.
 Dialogue: 1,0:01:21.47,0:01:24.31,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,953)}Seeking out...
-Dialogue: 0,0:02:02.52,0:02:05.16,Dubtitles,,0,0,0,,Stop it now!
-Dialogue: 0,0:02:26.56,0:02:30.86,Dubtitles,,0,0,0,,..end of world…
+Dialogue: 0,0:02:27.62,0:02:28.96,Dubtitles,,0,0,0,,End of the world
+Dialogue: 0,0:02:31.34,0:02:33.78,Dubtitles,,0,0,0,,That's the memory of the soul.
 Dialogue: 1,0:02:50.52,0:02:55.65,Title 3,title,0,0,0,,{\fad(640,686)\pos(150,877)}Episode 39: The Guardian of Hell, Pet Shop, Part 2
-Dialogue: 0,0:02:56.56,0:02:57.39,Dubtitles,,0,0,0,,about to set.
-Dialogue: 0,0:02:57.47,0:02:59.20,Dubtitles,,0,0,0,,Didn't Shade say three hours?
+Dialogue: 0,0:02:54.46,0:02:57.28,Dubtitles,,0,0,0,,Hmm. All right. The sun is about to set.
+Dialogue: 0,0:02:57.46,0:02:59.24,Dubtitles,,0,0,0,,Didn't Shade say three hours?
 Dialogue: 0,0:02:59.54,0:03:02.72,Dubtitles,,0,0,0,,Guess that cocky beggar had\Na bit more trouble finding
 Dialogue: 0,0:03:03.06,0:03:04.83,Dubtitles,,0,0,0,,Dio's mansion than he thought.
 Dialogue: 0,0:03:04.98,0:03:07.08,Dubtitles,,0,0,0,,Can't say I was expecting\Nthis to happen, though.
 Dialogue: 0,0:03:07.16,0:03:08.28,Dubtitles,,0,0,0,,Right, Avdol?
-Dialogue: 0,0:03:09.74,0:03:11.22,Dubtitles,,0,0,0,,I have a bad feeling.
-Dialogue: 0,0:03:11.30,0:03:14.77,Dubtitles,,0,0,0,,Maybe it's better if he doesn't\Nfind that accursed mansion.
-Dialogue: 0,0:03:15.62,0:03:20.54,Dubtitles,,0,0,0,,You see, maybe he hasn't come\Nback because he did find it.
-Dialogue: 0,0:03:22.02,0:03:23.20,Dubtitles,,0,0,0,,What are you saying?
+Dialogue: 0,0:03:09.70,0:03:11.20,Dubtitles,,0,0,0,,I have a bad feeling.
+Dialogue: 0,0:03:11.28,0:03:14.75,Dubtitles,,0,0,0,,Maybe it's better if he doesn't\Nfind that accursed mansion.
+Dialogue: 0,0:03:15.60,0:03:20.54,Dubtitles,,0,0,0,,You see, maybe he hasn't come\Nback, because he did find it.
+Dialogue: 0,0:03:22.00,0:03:23.18,Dubtitles,,0,0,0,,What are you saying?
 Dialogue: 0,0:03:23.48,0:03:25.60,Dubtitles,,0,0,0,,It didn't occur to me until a moment ago,
 Dialogue: 0,0:03:25.68,0:03:28.72,Dubtitles,,0,0,0,,but a stand user is likely\Nto be guarding Dio's lair.
 Dialogue: 0,0:03:28.80,0:03:31.50,Dubtitles,,0,0,0,,We may have put that beggar's\Nlife in grave danger,
@@ -242,17 +242,13 @@ Dialogue: 0,0:07:25.92,0:07:28.63,Dubtitles,,0,0,0,,It's focusing on freezing\Nt
 Dialogue: 0,0:07:35.52,0:07:37.30,Dubtitles,,0,0,0,,And it's cut my air pipes.
 Dialogue: 0,0:07:37.64,0:07:40.11,Dubtitles,,0,0,0,,I don't think it's trying to suffocate me.
 Dialogue: 0,0:07:40.94,0:07:43.12,Dubtitles,,0,0,0,,Its real plan is to bury me alive.
-Dialogue: 0,0:07:49.16,0:07:50.84,Dubtitles,,0,0,0,,It's no use. It's collapsing.
-Dialogue: 0,0:07:50.92,0:07:53.86,Dubtitles,,0,0,0,,This bird is too powerful\Nfor me to hold it off.
-Dialogue: 0,0:07:53.94,0:07:55.28,Dubtitles,,0,0,0,,And what's worse?
-Dialogue: 0,0:07:55.36,0:07:57.36,Dubtitles,,0,0,0,,I'm surrounded by ice and freezing water.
-Dialogue: 0,0:07:57.44,0:07:58.62,Dubtitles,,0,0,0,,Just my damn luck.
-Dialogue: 0,0:07:58.70,0:08:02.18,Dubtitles,,0,0,0,,So much for finding a decent hiding\Nplace to lay low in for a while.
-Dialogue: 0,0:08:02.26,0:08:05.62,Dubtitles,,0,0,0,,No other choice.
-Dialogue: 0,0:08:05.70,0:08:07.44,Dubtitles,,0,0,0,,I have to dig my way out.
-Dialogue: 0,0:08:07.52,0:08:08.44,Dubtitles,,0,0,0,,Give me a break.
-Dialogue: 0,0:08:08.52,0:08:12.14,Dubtitles,,0,0,0,,This stupid day has gone from bad to\Nhorrifying in the worst possible way.
-Dialogue: 0,0:08:12.22,0:08:13.82,Dubtitles,,0,0,0,,First I lose my leg and now...
+Dialogue: 0,0:07:49.16,0:07:52.52,Dubtitles,,0,0,0,,it's no use it's collapsing\Nthis bird is too powerful
+Dialogue: 0,0:07:52.60,0:07:55.88,Dubtitles,,0,0,0,,for me to hold it off and\Nwhat's worse i'm surrounded
+Dialogue: 0,0:07:55.96,0:07:59.26,Dubtitles,,0,0,0,,by ice and freezing water\Njust my damn luck so much for
+Dialogue: 0,0:07:59.34,0:08:02.18,Dubtitles,,0,0,0,,finding a decent hiding place\Nto lay low in for a while
+Dialogue: 0,0:08:02.26,0:08:08.16,Dubtitles,,0,0,0,,no other choice i have to\Ndig my way out give me a
+Dialogue: 0,0:08:08.24,0:08:10.88,Dubtitles,,0,0,0,,break this stupid day has\Ngone from bad to horrifying in
+Dialogue: 0,0:08:10.96,0:08:13.82,Dubtitles,,0,0,0,,the worst possible way\Nfirst i lose my leg and now
 Dialogue: 0,0:08:13.90,0:08:17.19,Dubtitles,,0,0,0,,some demon bird wants me\Nflattened into a frozen dinner!
 Dialogue: 0,0:08:18.50,0:08:20.50,Dubtitles,,0,0,0,,Damn, I can't hold it off anymore!
 Dialogue: 0,0:08:20.66,0:08:22.07,Dubtitles,,0,0,0,,I'm about to be crushed!
@@ -261,7 +257,7 @@ Dialogue: 0,0:08:32.18,0:08:33.01,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:08:33.20,0:08:34.24,Dubtitles,,0,0,0,,What is that?
 Dialogue: 0,0:08:34.52,0:08:36.90,Dubtitles,,0,0,0,,It looks like someone\Ndug a tunnel down here.
 Dialogue: 0,0:08:36.98,0:08:37.90,Dubtitles,,0,0,0,,But why?
-Dialogue: 0,0:08:43.98,0:08:45.52,Dubtitles,,0,0,0,,It's the bird!
+Dialogue: 0,0:08:44.02,0:08:45.52,Dubtitles,,0,0,0,,It's birdbrain!
 Dialogue: 2,0:08:45.58,0:08:45.62,SFXIce,3,0,0,0,,{=0}{\bord14.62\fscx190.03\fscy146.17\blur0.8\xshad-7.31\frz14.97\pos(1892.23,14.25)\c&H251A12&}Gape
 Dialogue: 3,0:08:45.58,0:08:45.62,SFXIce,3,0,0,0,,{=0}{\bord0\fscx190.03\fscy146.17\blur0.8\xshad-7.31\frz14.97\pos(1892.23,14.25)\4a&HFF&}Gape
 Dialogue: 2,0:08:45.62,0:08:45.67,SFXIce,3,0,0,0,,{=0}{\bord14.62\fscx190.03\fscy146.17\blur0.8\xshad-7.31\frz14.97\pos(1893.81,14.25)\c&H251A12&}Gape
@@ -290,14 +286,13 @@ Dialogue: 2,0:08:46.50,0:08:46.58,SFXIce,3,0,0,0,,{\blur0.8\pos(1598.69,475.7)\x
 Dialogue: 3,0:08:46.50,0:08:46.58,SFXIce,3,0,0,0,,{\bord0\blur0.8\pos(1598.69,475.7)\xshad-5\frz14.97\4a&HFF&}Gape
 Dialogue: 2,0:08:46.58,0:08:46.67,SFXIce,3,0,0,0,,{\blur0.8\pos(1592,483)\xshad-5\frz14.97\c&H251A12&}Gape
 Dialogue: 3,0:08:46.58,0:08:46.67,SFXIce,3,0,0,0,,{\bord0\blur0.8\pos(1592,483)\xshad-5\frz14.97\4a&HFF&}Gape
-Dialogue: 0,0:08:48.02,0:08:50.84,Dubtitles,,0,0,0,,It's getting ready to\Nshoot another ice missile!
-Dialogue: 0,0:08:52.44,0:08:53.28,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:08:48.06,0:08:50.88,Dubtitles,,0,0,0,,It's getting ready to\Nshoot another ice missile!
+Dialogue: 0,0:08:52.48,0:08:53.31,Dubtitles,,0,0,0,,Damn it!
 Dialogue: 0,0:08:53.48,0:08:55.66,Dubtitles,,0,0,0,,My stand is being held by the ice!
-Dialogue: 0,0:08:57.68,0:08:59.50,Dubtitles,,0,0,0,,I can't defend myself!
-Dialogue: 0,0:08:59.84,0:09:02.02,Dubtitles,,0,0,0,,And there's nowhere for me to escape!
-Dialogue: 0,0:09:05.36,0:09:06.68,Dubtitles,,0,0,0,,Wait, that's it!
-Dialogue: 0,0:09:06.82,0:09:10.08,Dubtitles,,0,0,0,,Either way you slice it, it's Dead time!
-Dialogue: 0,0:09:15.84,0:09:19.04,Dubtitles,,0,0,0,,I'll let the dome break\Nand use the air pressure.
+Dialogue: 0,0:08:57.72,0:09:01.74,Dubtitles,,0,0,0,,I can't defend myself, and\Nthere's nowhere for me to escape!
+Dialogue: 0,0:09:05.40,0:09:06.68,Dubtitles,,0,0,0,,Wait, that's it!
+Dialogue: 0,0:09:06.82,0:09:10.10,Dubtitles,,0,0,0,,Either way you slice\Nit, it's do-a-die time!
+Dialogue: 0,0:09:15.84,0:09:19.04,Dubtitles,,0,0,0,,I'll let the sand break\Nand use the air pressure
 Dialogue: 0,0:09:19.12,0:09:21.83,Dubtitles,,0,0,0,,to catapult me forward\Nlike a spitting bullet!
 Dialogue: 0,0:09:54.14,0:09:55.64,Dubtitles,,0,0,0,,I got out of there alive.
 Dialogue: 0,0:09:56.12,0:09:59.65,Dubtitles,,0,0,0,,That dumb bird didn't have to\Ndie, but it left me no choice.
@@ -320,13 +315,13 @@ Dialogue: 0,0:12:01.40,0:12:03.08,Dubtitles,,0,0,0,,You're gonna pull through th
 Dialogue: 0,0:12:03.16,0:12:05.82,Dubtitles,,0,0,0,,The bird's gone, so there's\Nnothing to worry about.
 Dialogue: 0,0:12:05.90,0:12:07.40,Dubtitles,,0,0,0,,Try and hang on, all right?
 Dialogue: 0,0:12:07.48,0:12:08.31,Dubtitles,,0,0,0,,Keep fighting.
-Dialogue: 0,0:12:08.39,0:12:10.28,Dubtitles,,0,0,0,,I'll fix you right away!
+Dialogue: 0,0:12:08.39,0:12:10.28,Dubtitles,,0,0,0,,I'll patch you up right away!
 Dialogue: 0,0:12:14.54,0:12:15.76,Dubtitles,,0,0,0,,The bird!
 Dialogue: 1,0:12:15.63,0:12:19.34,Pet Shop Retire Typesetting,sign,0,0,0,,{\fad(500,400)\pos(1034,156)\blur(1)}The Bird: Pet Shop
 Dialogue: 1,0:12:15.63,0:12:19.34,Pet Shop Retire Typesetting,sign,0,0,0,,{\fad(500,400)\pos(1034,250)\blur(1)}Stand: Horus
 Dialogue: 1,0:12:15.63,0:12:19.34,Pet Shop Retire Typesetting,sign,0,0,0,,{\fad(500,400)\pos(1034,344)\blur(1)}Status: Deceased
 Dialogue: 0,0:12:16.12,0:12:17.80,Dubtitles,,0,0,0,,Pet Shop Stand Horus!
-Dialogue: 0,0:12:18.06,0:12:19.74,Dubtitles,,0,0,0,,Status deceased!
+Dialogue: 0,0:12:18.06,0:12:19.74,Dubtitles,,0,0,0,,Status: deceased!
 Dialogue: 1,0:12:24.09,0:12:24.13,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:12:24.09,0:12:24.13,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:12:24.09,0:12:24.13,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -475,7 +470,7 @@ Dialogue: 0,0:13:20.60,0:13:21.68,Dubtitles,,0,0,0,,It's... Iggy!
 Dialogue: 0,0:13:29.98,0:13:30.81,Dubtitles,,0,0,0,,Iggy!
 Dialogue: 0,0:13:32.74,0:13:34.09,Dubtitles,,0,0,0,,What on earth happened?
 Dialogue: 0,0:13:35.16,0:13:36.02,Dubtitles,,0,0,0,,Look at that!
-Dialogue: 0,0:13:36.18,0:13:38.62,Dubtitles,,0,0,0,,He's got injuries all over his body! Hey!
+Dialogue: 0,0:13:36.18,0:13:38.62,Dubtitles,,0,0,0,,He's got injuries all over his body!
 Dialogue: 0,0:13:39.06,0:13:41.06,Dubtitles,,0,0,0,,Iggy's missing his front leg, too!
 Dialogue: 0,0:13:41.32,0:13:43.40,Dubtitles,,0,0,0,,You think he got run over by a car?
 Dialogue: 0,0:13:44.44,0:13:47.62,Dubtitles,,0,0,0,,He's not the kind of dog\Nthat gets into car accidents.
@@ -504,7 +499,7 @@ Dialogue: 0,0:15:04.06,0:15:04.89,Dubtitles,,0,0,0,,Jotaro.
 Dialogue: 0,0:15:12.90,0:15:15.14,Dubtitles,,0,0,0,,Where do you think you're going, Iggy?
 Dialogue: 0,0:15:16.28,0:15:19.86,Dubtitles,,0,0,0,,He may have been quite indifferent\Ntoward humans and Stans in the past,
 Dialogue: 0,0:15:19.94,0:15:22.78,Dubtitles,,0,0,0,,but now it looks like he's\Ntrying to lead us somewhere.
-Dialogue: 0,0:15:22.86,0:15:26.66,Dubtitles,,0,0,0,,I'm not aware of all the details surrounding\Nhis encounter with the enemy Stans.
+Dialogue: 0,0:15:22.86,0:15:26.66,Dubtitles,,0,0,0,,I'm not aware of all the details surrounding\Nhis encounter with the enemy Stand,
 Dialogue: 0,0:15:26.74,0:15:28.62,Dubtitles,,0,0,0,,but judging from his resolve,
 Dialogue: 0,0:15:28.94,0:15:30.23,Dubtitles,,0,0,0,,this is about revenge.
 Dialogue: 0,0:15:31.02,0:15:33.90,Dubtitles,,0,0,0,,Maybe, but that still doesn't\Nexplain where he's taking us.
@@ -512,7 +507,7 @@ Dialogue: 0,0:15:33.98,0:15:34.98,Dubtitles,,0,0,0,,Hang on, Iggy!
 Dialogue: 0,0:15:35.14,0:15:36.02,Dubtitles,,0,0,0,,Wait for us!
 Dialogue: 0,0:15:51.18,0:15:53.06,Dubtitles,,0,0,0,,I recognize that car.
 Dialogue: 0,0:15:55.40,0:15:58.40,Dubtitles,,0,0,0,,It's the same fancy ride\Nthe beggar was driving.
-Dialogue: 0,0:15:59.02,0:16:01.44,Dubtitles,,0,0,0,,Could this wreckage mean that he...
+Dialogue: 0,0:15:59.02,0:16:01.44,Dubtitles,,0,0,0,,C-could this wreckage mean that he...
 Dialogue: 0,0:16:02.62,0:16:03.58,Dubtitles,,0,0,0,,But how?
 Dialogue: 0,0:16:03.98,0:16:08.69,Dubtitles,,0,0,0,,What's strong enough to tear a hole through\Na car like a piece of wet newspaper?
 Dialogue: 0,0:16:08.84,0:16:12.28,Dubtitles,,0,0,0,,It would seem as though I was\Nright to be concerned about him.

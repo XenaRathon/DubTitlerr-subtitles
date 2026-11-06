@@ -59,17 +59,7 @@ Style: SFXPurple2,Shaky Hand Some Comic,160,&H00442925,&H000000FF,&H001A110E,&H0
 Style: SFXRed2,Franc Gothique Brush,150,&H0019117A,&H000000FF,&H000C0C13,&H00000000,0,0,0,0,130,100,0,0,1,11,0,8,50,40,20,1
 Style: SFXYellow2,Ashcan BB,160,&H0042FEFD,&H000000FF,&H00264160,&H00000000,-1,0,0,0,90,100,0,0,1,8,0,8,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: RippleSigns,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,2,100,100,45,1
-Style: RippleSigns - 5,Cabin,60,&H004D3F3A,&HFF0000FF,&H00E0F2FA,&HB9000000,-1,0,0,0,100,100,0,0,1,3,0,5,100,100,45,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -89,7 +79,7 @@ Dialogue: 0,0:00:49.62,0:00:52.24,Dubtitles,,0,0,0,,Even the local mafiosos fear
 Dialogue: 0,0:00:52.62,0:00:55.24,Dubtitles,,0,0,0,,Hey, you're that guy\Nnamed Caesar, aren't you?
 Dialogue: 0,0:00:55.32,0:00:56.70,Dubtitles,,0,0,0,,So what's your last name?
 Dialogue: 0,0:00:56.78,0:00:57.90,Dubtitles,,0,0,0,,I don't have one.
-Dialogue: 0,0:00:58.64,0:01:01.46,Dubtitles,,0,0,0,,Well, that means there's\Nno way you're Italian.
+Dialogue: 0,0:00:58.64,0:01:01.46,Dubtitles,,0,0,0,,Well, that means there's\Nno way you're Italiano.
 Dialogue: 0,0:01:01.88,0:01:04.35,Dubtitles,,0,0,0,,Italian are proud of their family names.
 Dialogue: 0,0:01:05.16,0:01:06.42,Dubtitles,,0,0,0,,Never holding back,
 Dialogue: 1,0:01:06.34,0:01:06.38,SFXYellow2,1,0,0,0,,{=39}{\blur7\bord8\fscx90\fscy100\alpha&H80&\frz3.05\pos(670.67,354.67)}C{*\c&H40E7EC&}l{*\c&H3FD0DC&}u{*\c&H3EB9CC&}n{\c&H3CA2BB&}k
@@ -773,20 +763,20 @@ Dialogue: 1,0:03:45.96,0:03:51.75,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuuki wo hik
 Dialogue: 0,0:03:52.24,0:03:58.60,Dubtitles,,0,0,0,,It's time for love to call it a true love.
 Dialogue: 1,0:03:52.75,0:04:00.47,Lyrics OP2 Jap,,0,0,0,,Uketsugu ai wo sadame to yobu nara
 Dialogue: 1,0:03:52.75,0:04:00.47,Lyrics OP2 Eng,,0,0,0,,Even if the love I feel is just part of my legacy...
-Dialogue: 0,0:04:00.36,0:04:03.54,Dubtitles,,0,0,0,,It's time for a moment to call it a true.
+Dialogue: 0,0:04:00.36,0:04:03.54,Dubtitles,,0,0,0,,It's time for a moment to call it a true
 Dialogue: 1,0:04:00.47,0:04:06.56,Lyrics OP2 Jap,,0,0,0,,Hohoemu me de tsugi no te wo
 Dialogue: 1,0:04:00.47,0:04:06.56,Lyrics OP2 Eng,,0,0,0,,I'll still be smiling as I stay one step ahead
-Dialogue: 0,0:04:03.62,0:04:04.54,Dubtitles,,0,0,0,,Love. I
-Dialogue: 0,0:04:04.62,0:04:10.58,Dubtitles,,0,0,0,,want to call
+Dialogue: 0,0:04:03.62,0:04:04.54,Dubtitles,,0,0,0,,love I
+Dialogue: 0,0:04:04.62,0:04:10.58,Dubtitles,,0,0,0,,Want to call.
 Dialogue: 1,0:04:08.35,0:04:13.19,Lyrics OP2 Jap,,0,0,0,,Yami wo azamuite setsuna wo kawashite
 Dialogue: 1,0:04:08.35,0:04:13.19,Lyrics OP2 Eng,,0,0,0,,Defying the darkness and dodging death at every turn
 Dialogue: 1,0:04:13.19,0:04:17.03,Lyrics OP2 Jap,,0,0,0,,Yaiba surinuke yatsura no suki wo tsuke
 Dialogue: 1,0:04:13.19,0:04:17.03,Lyrics OP2 Eng,,0,0,0,,Slipping past the knife's edge and striking when you least expect
-Dialogue: 0,0:04:14.26,0:04:16.04,Dubtitles,,0,0,0,,we're gonna get yasura no Seiko wo
-Dialogue: 0,0:04:16.12,0:04:21.94,Dubtitles,,0,0,0,,tuk Dario Knight omoi ga Mili no kira ko
+Dialogue: 0,0:04:14.26,0:04:16.04,Dubtitles,,0,0,0,,we're gonna get yasura no suki wo
+Dialogue: 0,0:04:16.12,0:04:21.94,Dubtitles,,0,0,0,,Tuk Tura naita omoi ga Mili no kira ko.
 Dialogue: 1,0:04:17.03,0:04:22.45,Lyrics OP2 Jap,,0,0,0,,Tsuranuita omoi ga mirai wo hiraku
 Dialogue: 1,0:04:17.03,0:04:22.45,Lyrics OP2 Eng,,0,0,0,,The emotions running through me blaze a path to the future...
-Dialogue: 0,0:04:23.80,0:04:28.84,Dubtitles,,0,0,0,,Like a burning stone. Atsuko\Nlike a burning stone. Ketsu Mega
+Dialogue: 0,0:04:23.80,0:04:28.84,Dubtitles,,0,0,0,,Like a burning stone. Atsuko\Nlike a burning stone. Ketsu maku.
 Dialogue: 1,0:04:24.29,0:04:25.54,Lyrics OP2 Jap,,0,0,0,,Like a bloody storm
 Dialogue: 1,0:04:24.29,0:04:25.54,Lyrics OP2 Eng,,0,0,0,,Like a bloody storm
 Dialogue: 1,0:04:25.54,0:04:27.79,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody stone
@@ -802,7 +792,6 @@ Dialogue: 1,0:04:37.42,0:04:42.47,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:04:37.42,0:04:42.47,Lyrics OP2 Eng,,0,0,0,,So hold them close
 Dialogue: 0,0:04:37.92,0:04:39.66,Dubtitles,,0,0,0,,Nihiri shimete
 Dialogue: 1,0:04:47.89,0:04:52.36,Title2,,0,0,0,,{\fad(700,0)\pos(1155,865)\blur1}Episode 20: "Caesar's Lonely Youth" {Toni, Check that the title matches the preview at the end of 19 -Fadeout4}
-Dialogue: 1,0:04:47.89,0:04:52.36,Title2,,0,0,0,,{\fad(700,0)\pos(1155,865)}Episode 20: "Caesar's Lonely Youth" {Toni, Check that the title matches the preview at the end of 19 -Fadeout4}
 Dialogue: 0,0:04:50.12,0:04:51.16,Dubtitles,,0,0,0,,I see.
 Dialogue: 0,0:04:52.84,0:04:57.84,Dubtitles,,0,0,0,,Caesar's misunderstanding led to a\Ndeep hatred, but then that changed.
 Dialogue: 0,0:04:58.22,0:05:01.06,Dubtitles,,0,0,0,,It became pride in his\Nfather and his family.
@@ -1153,7 +1142,7 @@ Dialogue: 0,0:07:36.36,0:07:38.84,Dubtitles,,0,0,0,,That infuriating, smart-talk
 Dialogue: 0,0:07:39.36,0:07:42.30,Dubtitles,,0,0,0,,I hear tell that Jojo\Nhas learned quite a bit.
 Dialogue: 0,0:07:43.20,0:07:45.80,Dubtitles,,0,0,0,,Where is the man who killed Master AC/DC?
 Dialogue: 0,0:07:47.04,0:07:47.87,Dubtitles,,0,0,0,,Wind.
-Dialogue: 0,0:07:48.10,0:07:49.98,Dubtitles,,0,0,0,,Wam can control the wind.
+Dialogue: 0,0:07:48.10,0:07:49.98,Dubtitles,,0,0,0,,Wamuu can control the wind.
 Dialogue: 0,0:07:50.68,0:07:52.62,Dubtitles,,0,0,0,,That's why he's difficult to see.
 Dialogue: 0,0:07:52.76,0:07:54.94,Dubtitles,,0,0,0,,Air's coming from pipes in his chest.
 Dialogue: 0,0:07:55.36,0:07:58.32,Dubtitles,,0,0,0,,He's only slightly\Nvisible because of water
@@ -1162,16 +1151,16 @@ Dialogue: 0,0:08:01.38,0:08:02.42,Dubtitles,,0,0,0,,I've got it!
 Dialogue: 0,0:08:02.60,0:08:06.26,Dubtitles,,0,0,0,,He's cloaking himself in vapor\Nthat he's generating from the air.
 Dialogue: 0,0:08:06.34,0:08:08.36,Dubtitles,,0,0,0,,And then he's pumping\Nit out of those pipes.
 Dialogue: 0,0:08:08.44,0:08:12.40,Dubtitles,,0,0,0,,It's refracting light,\Nlike a million tiny prisms.
-Dialogue: 0,0:08:13.12,0:08:17.58,Dubtitles,,0,0,0,,It's a suit that bends light around\Nhim, protecting him from the sun's rays.
-Dialogue: 0,0:08:17.66,0:08:19.54,Dubtitles,,0,0,0,,thus allowing him to be outside.
+Dialogue: 0,0:08:13.12,0:08:15.56,Dubtitles,,0,0,0,,It's a suit that bends light around him,
+Dialogue: 0,0:08:15.80,0:08:19.62,Dubtitles,,0,0,0,,protecting him from the sun's rays,\Nthus allowing him to be outside.
 Dialogue: 0,0:08:19.70,0:08:21.94,Dubtitles,,0,0,0,,That's why he seems to be transparent.
-Dialogue: 0,0:08:22.88,0:08:25.10,Dubtitles,,0,0,0,,Too bad JoJo isn't here.
+Dialogue: 0,0:08:22.88,0:08:25.10,Dubtitles,,0,0,0,,Too bad. JoJo isn't here.
 Dialogue: 0,0:08:25.78,0:08:29.20,Dubtitles,,0,0,0,,You are the bubble user\Nnamed Caesar, are you not?
 Dialogue: 0,0:08:29.70,0:08:31.70,Dubtitles,,0,0,0,,Simply by looking into your eyes,
 Dialogue: 0,0:08:31.78,0:08:35.37,Dubtitles,,0,0,0,,I can see that you've also\Nlearned much through your ordeals.
-Dialogue: 0,0:08:37.08,0:08:41.10,Dubtitles,,0,0,0,,Very well. You are worthy of\Ndeath at my hands. Bubble user?
+Dialogue: 0,0:08:37.08,0:08:41.10,Dubtitles,,0,0,0,,Very well. You are worthy of\Ndeath at my hands, Bubble User.
 Dialogue: 0,0:08:42.10,0:08:48.22,Dubtitles,,0,0,0,,Let's see who dies. I feel like I did\Nback then when I was naive and poor.
-Dialogue: 0,0:08:48.30,0:08:53.80,Dubtitles,,0,0,0,,back when you viciously took the\Nlife of my father and now I'll use my
+Dialogue: 0,0:08:48.30,0:08:53.80,Dubtitles,,0,0,0,,Back when you viciously took the life\Nof my father, and now I'll use my
 Dialogue: 0,0:08:53.88,0:09:00.00,Dubtitles,,0,0,0,,viciousness to destroy you very\Nimpressive but don't think your wind
 Dialogue: 0,0:09:00.08,0:09:04.52,Dubtitles,,0,0,0,,will be able to just blow my bubbles\Naway some bubbles go right through a
 Dialogue: 0,0:09:05.58,0:09:09.58,Dubtitles,,0,0,0,,I've significantly updated my\Ngrandfather's Hamon Cutter!
@@ -1976,7 +1965,7 @@ Dialogue: 0,0:10:57.76,0:11:00.08,Dubtitles,,0,0,0,,I have the itch like when I 
 Dialogue: 0,0:11:00.62,0:11:03.04,Dubtitles,,0,0,0,,My breathing is relaxed and normal.
 Dialogue: 0,0:11:03.34,0:11:04.36,Dubtitles,,0,0,0,,I'm not sweating.
 Dialogue: 0,0:11:04.82,0:11:06.50,Dubtitles,,0,0,0,,Perfect Haman conditions.
-Dialogue: 0,0:11:09.90,0:11:11.18,Dubtitles,,0,0,0,,Instructor Machina!
+Dialogue: 0,0:11:09.90,0:11:11.18,Dubtitles,,0,0,0,,Instructor Messina!
 Dialogue: 1,0:11:15.24,0:11:15.28,SFXPeach,9,0,0,0,,{=52}{\blur1\1a&HFF&\3a&HFF&\frz355.3\pos(1789.08,386.42)\c&H293049&}Glare
 Dialogue: 2,0:11:15.24,0:11:15.28,SFXPeach,9,0,0,0,,{=52}{\bord0\blur1\1a&HFF&\3a&HFF&\frz355.3\pos(1789.08,386.42)\4a&HFF&}Glare
 Dialogue: 1,0:11:15.28,0:11:15.32,SFXPeach,9,0,0,0,,{=52}{\blur1\1a&HE3&\3a&HDD&\frz355.3\pos(1784.4,432.72)\c&H293049&}Glare
@@ -2060,7 +2049,7 @@ Dialogue: 1,0:11:17.91,0:11:17.99,SFXPeach,9,0,0,0,,{=52}{\blur1\1a&H2F&\3a&H00&
 Dialogue: 2,0:11:17.91,0:11:17.99,SFXPeach,9,0,0,0,,{=52}{\bord0\blur1\1a&H2F&\3a&H00&\frz355.3\pos(1784.26,288.32)\4a&HFF&}Glare
 Dialogue: 1,0:11:17.99,0:11:18.07,SFXPeach,9,0,0,0,,{=52}{\blur1\1a&H2F&\3a&H00&\frz355.3\pos(1789.14,282.49)\c&H293049&}Glare
 Dialogue: 2,0:11:17.99,0:11:18.07,SFXPeach,9,0,0,0,,{=52}{\bord0\blur1\1a&H2F&\3a&H00&\frz355.3\pos(1789.14,282.49)\4a&HFF&}Glare
-Dialogue: 0,0:11:21.78,0:11:22.90,Dubtitles,,0,0,0,,WAMU!
+Dialogue: 0,0:11:21.78,0:11:22.90,Dubtitles,,0,0,0,,WAMUU!
 Dialogue: 1,0:11:22.20,0:11:22.24,SFXOang,10,0,0,0,,{=53}{\blur7\alpha&H80&\frz13.79\pos(411.01,15.81)}Zam
 Dialogue: 2,0:11:22.20,0:11:22.24,SFXOang,10,0,0,0,,{=53}{\blur0.8\alpha&H00&\frz13.79\pos(411.01,15.81)\c&H0B1C2A&}Zam
 Dialogue: 3,0:11:22.20,0:11:22.24,SFXOang,10,0,0,0,,{=53}{\bord0\blur0.8\alpha&H00&\frz13.79\pos(411.01,15.81)\4a&HFF&}Zam
@@ -2193,9 +2182,9 @@ Dialogue: 0,0:11:55.68,0:11:56.92,Dubtitles,,0,0,0,,Bubble Cutter!
 Dialogue: 0,0:11:58.16,0:11:58.99,Dubtitles,,0,0,0,,Running?
 Dialogue: 0,0:11:59.56,0:12:01.64,Dubtitles,,0,0,0,,I won't run or hide from you!
 Dialogue: 0,0:12:18.72,0:12:19.96,Dubtitles,,0,0,0,,Bubble Cutter!
-Dialogue: 0,0:12:25.08,0:12:26.50,Dubtitles,,0,0,0,,You're dead, Wamuu!
-Dialogue: 0,0:12:27.22,0:12:29.22,Dubtitles,,0,0,0,,Riding Bubble Cutter!
-Dialogue: 0,0:12:36.70,0:12:37.53,Dubtitles,,0,0,0,,Wamuu?
+Dialogue: 0,0:12:25.08,0:12:26.50,Dubtitles,,0,0,0,,You're dead, Wham!
+Dialogue: 0,0:12:27.22,0:12:29.22,Dubtitles,,0,0,0,,Riding Power Cutter!
+Dialogue: 0,0:12:36.70,0:12:37.53,Dubtitles,,0,0,0,,Whamu?
 Dialogue: 0,0:12:39.04,0:12:41.06,Dubtitles,,0,0,0,,I'm finished with these games.
 Dialogue: 0,0:12:41.72,0:12:42.66,Dubtitles,,0,0,0,,You're through.
 Dialogue: 1,0:12:43.41,0:12:43.45,SFXGreen,11,0,0,0,,{=70}{\blur7\bord7\fscx90.98\fscy69.98\alpha&HFF&\frz355.1\pos(1470.01,480.61)}W
@@ -2603,15 +2592,14 @@ Dialogue: 3,0:12:44.49,0:12:44.54,SFXGreen,11,0,0,0,,{=67}{\blur1.5\bord0\fscx13
 Dialogue: 1,0:12:44.49,0:12:44.54,SFXGreen,11,0,0,0,,{=66}{\blur7\bord10\fscx130\fscy100\alpha&H80&\frz350.4\pos(1443.73,699.73)}m
 Dialogue: 2,0:12:44.49,0:12:44.54,SFXGreen,11,0,0,0,,{=66}{\blur1.5\bord10\fscx130\fscy100\alpha&H00&\frz350.4\pos(1443.73,699.73)\c&H26511F&}m
 Dialogue: 3,0:12:44.49,0:12:44.54,SFXGreen,11,0,0,0,,{=66}{\blur1.5\bord0\fscx130\fscy100\alpha&H00&\frz350.4\pos(1443.73,699.73)\4a&HFF&}m
-Dialogue: 0,0:12:45.64,0:12:46.78,Dubtitles,,0,0,0,,Divine Sans!
-Dialogue: 0,0:12:46.90,0:12:47.96,Dubtitles,,0,0,0,,Wait a minute, Wamuu!
+Dialogue: 0,0:12:45.64,0:12:46.78,Dubtitles,,0,0,0,,Divine Sand!
+Dialogue: 0,0:12:46.90,0:12:47.96,Dubtitles,,0,0,0,,Wait a minute, Whamu!
 Dialogue: 0,0:12:48.04,0:12:49.28,Dubtitles,,0,0,0,,Stop and look around!
 Dialogue: 0,0:12:50.02,0:12:50.85,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:12:51.12,0:12:53.94,Dubtitles,,0,0,0,,My bubble cutters are now bubble lenses,
 Dialogue: 0,0:12:54.24,0:12:56.94,Dubtitles,,0,0,0,,and they're floating in\Nthe air all around you.
-Dialogue: 0,0:12:57.02,0:12:59.96,Dubtitles,,0,0,0,,And that enormous hole you\Nknocked in the wall earlier?
-Dialogue: 0,0:13:00.04,0:13:02.42,Dubtitles,,0,0,0,,Is just like the open shutter of a camera.
-Dialogue: 0,0:13:02.50,0:13:03.85,Dubtitles,,0,0,0,,on a bright summer day.
+Dialogue: 0,0:12:57.02,0:13:00.50,Dubtitles,,0,0,0,,And that enormous hole you\Nknocked in the wall earlier is
+Dialogue: 0,0:13:00.58,0:13:04.22,Dubtitles,,0,0,0,,just like the open shutter of a\Ncamera on a bright summer day.
 Dialogue: 0,0:13:04.30,0:13:06.98,Dubtitles,,0,0,0,,Those lenses, they focus the sunlight...
 Dialogue: 0,0:13:09.32,0:13:10.72,Dubtitles,,0,0,0,,into the hotel!
 Dialogue: 1,0:13:11.27,0:13:11.31,SFXFire,12,0,0,0,,{=71}{\blur0.6\bord3.69\fscx49.24\fscy41.03\frz14.17\pos(769.07,623.99)\3c&HCDD8DC&\c&HCDD8DC&}Boom
@@ -2816,7 +2804,7 @@ Dialogue: 3,0:13:16.40,0:13:16.44,SFXBubble,13,0,0,0,,{=73}{\bord0\blur1.1\alpha
 Dialogue: 1,0:13:16.44,0:13:16.48,SFXBubble,13,0,0,0,,{=73}{\blur10\alpha&H80&\frz1.362\pos(1414.58,32.41)}A{*\c&H59B377&\3c&H3F3F35&}g{*\c&H74837F&\3c&H3A3B3B&}g{\c&H8E5288&\3c&H363741&}h{*\c&H816C9F&\3c&H38404B&}h{*\c&H7485B6&\3c&H3B4954&}h{*\c&H669ECC&\3c&H3E525E&}{\fscx200}!{\c&H59B8E3&\3c&H405B68&}!
 Dialogue: 2,0:13:16.44,0:13:16.48,SFXBubble,13,0,0,0,,{=73}{\blur1.1\alpha&H00&\frz1.362\pos(1414.58,32.41)\c&H142E26&\3c&H142E26&}A{*\c&H172C24&\3c&H172C24&}g{*\c&H1A2A22&\3c&H1A2A22&}g{*\c&H1A2A22&\3c&H1A2A22&}h{*\c&H1D2820&\3c&H1D2820&}h{*\c&H20271E&\3c&H20271E&}h{*\c&H23251C&\3c&H23251C&}{\fscx200}!{\c&H26231A&\3c&H26231A&}!
 Dialogue: 3,0:13:16.44,0:13:16.48,SFXBubble,13,0,0,0,,{=73}{\bord0\blur1.1\alpha&H00&\frz1.362\pos(1414.58,32.41)\4a&HFF&}A{*\c&H288969&}g{*\c&H317965&}g{*\c&H3B6A60&}h{*\c&H445A5B&}h{*\c&H4E4B56&}h{*\c&H573B52&}{\fscx200}!{\c&H612C4D&}!
-Dialogue: 0,0:13:16.44,0:13:17.84,Dubtitles,,0,0,0,,You can't move.
+Dialogue: 0,0:13:16.44,0:13:17.84,Dubtitles,,0,0,0,,You can't move!
 Dialogue: 1,0:13:16.48,0:13:16.53,SFXBubble,13,0,0,0,,{=73}{\blur10\alpha&H80&\frz1.362\pos(1408.53,16.12)}A{*\c&H59B377&\3c&H3F3F35&}g{*\c&H74837F&\3c&H3A3B3B&}g{\c&H8E5288&\3c&H363741&}h{*\c&H816C9F&\3c&H38404B&}h{*\c&H7485B6&\3c&H3B4954&}h{*\c&H669ECC&\3c&H3E525E&}{\fscx200}!{\c&H59B8E3&\3c&H405B68&}!
 Dialogue: 2,0:13:16.48,0:13:16.53,SFXBubble,13,0,0,0,,{=73}{\blur1.1\alpha&H00&\frz1.362\pos(1408.53,16.12)\c&H142E26&\3c&H142E26&}A{*\c&H172C24&\3c&H172C24&}g{*\c&H1A2A22&\3c&H1A2A22&}g{*\c&H1A2A22&\3c&H1A2A22&}h{*\c&H1D2820&\3c&H1D2820&}h{*\c&H20271E&\3c&H20271E&}h{*\c&H23251C&\3c&H23251C&}{\fscx200}!{\c&H26231A&\3c&H26231A&}!
 Dialogue: 3,0:13:16.48,0:13:16.53,SFXBubble,13,0,0,0,,{=73}{\bord0\blur1.1\alpha&H00&\frz1.362\pos(1408.53,16.12)\4a&HFF&}A{*\c&H288969&}g{*\c&H317965&}g{*\c&H3B6A60&}h{*\c&H445A5B&}h{*\c&H4E4B56&}h{*\c&H573B52&}{\fscx200}!{\c&H612C4D&}!
@@ -2832,7 +2820,7 @@ Dialogue: 3,0:13:16.61,0:13:16.65,SFXBubble,13,0,0,0,,{=73}{\bord0\blur1.1\alpha
 Dialogue: 1,0:13:16.65,0:13:16.69,SFXBubble,13,0,0,0,,{=73}{\blur10\alpha&H80&\frz1.362\pos(1402.23,26.37)}A{*\c&H59B377&\3c&H3F3F35&}g{*\c&H74837F&\3c&H3A3B3B&}g{\c&H8E5288&\3c&H363741&}h{*\c&H816C9F&\3c&H38404B&}h{*\c&H7485B6&\3c&H3B4954&}h{*\c&H669ECC&\3c&H3E525E&}{\fscx200}!{\c&H59B8E3&\3c&H405B68&}!
 Dialogue: 2,0:13:16.65,0:13:16.69,SFXBubble,13,0,0,0,,{=73}{\blur1.1\alpha&H00&\frz1.362\pos(1402.23,26.37)\c&H142E26&\3c&H142E26&}A{*\c&H172C24&\3c&H172C24&}g{*\c&H1A2A22&\3c&H1A2A22&}g{*\c&H1A2A22&\3c&H1A2A22&}h{*\c&H1D2820&\3c&H1D2820&}h{*\c&H20271E&\3c&H20271E&}h{*\c&H23251C&\3c&H23251C&}{\fscx200}!{\c&H26231A&\3c&H26231A&}!
 Dialogue: 3,0:13:16.65,0:13:16.69,SFXBubble,13,0,0,0,,{=73}{\bord0\blur1.1\alpha&H00&\frz1.362\pos(1402.23,26.37)\4a&HFF&}A{*\c&H288969&}g{*\c&H317965&}g{*\c&H3B6A60&}h{*\c&H445A5B&}h{*\c&H4E4B56&}h{*\c&H573B52&}{\fscx200}!{\c&H612C4D&}!
-Dialogue: 0,0:13:17.92,0:13:20.68,Dubtitles,,0,0,0,,You're like a frozen image!
+Dialogue: 0,0:13:17.92,0:13:20.68,Dubtitles,,0,0,0,,You're film! A frozen film!
 Dialogue: 0,0:13:20.98,0:13:23.48,Dubtitles,,0,0,0,,You're totally exposed, Wamuu!
 Dialogue: 0,0:13:25.62,0:13:27.88,Dubtitles,,0,0,0,,Trying your vapor barrier again?
 Dialogue: 0,0:13:28.16,0:13:29.46,Dubtitles,,0,0,0,,Not this time!
@@ -2935,9 +2923,9 @@ Dialogue: 0,0:14:07.12,0:14:08.48,Dubtitles,,0,0,0,,Such destruction!
 Dialogue: 0,0:14:08.90,0:14:09.90,Dubtitles,,0,0,0,,It couldn't be!
 Dialogue: 0,0:14:10.44,0:14:13.16,Dubtitles,,0,0,0,,It's Wamuu's Divine\NSandstorm! I'm sure of it!
 Dialogue: 0,0:14:13.44,0:14:15.44,Dubtitles,,0,0,0,,So that means Caesar is...
-Dialogue: 0,0:14:18.36,0:14:25.02,Dubtitles,,0,0,0,,You had grown so much in so little time.\NI'm satisfied. I haven't had a fight?
-Dialogue: 0,0:14:25.10,0:14:27.38,Dubtitles,,0,0,0,,Like that in ages now warrior
-Dialogue: 0,0:14:27.46,0:14:32.24,Dubtitles,,0,0,0,,of Hamon and it was a close
+Dialogue: 0,0:14:18.36,0:14:25.02,Dubtitles,,0,0,0,,You had grown so much in so little time.\NI'm satisfied. I haven't had a fight.
+Dialogue: 0,0:14:25.10,0:14:28.16,Dubtitles,,0,0,0,,like that in ages now warrior of Hamon
+Dialogue: 0,0:14:28.24,0:14:32.24,Dubtitles,,0,0,0,,and it was a close
 Dialogue: 1,0:14:29.35,0:14:29.39,SFXPurple2,15,0,0,0,,{=81}{\blur1.3\bord7.39\fscx129.27\fscy92.34\alpha&H33&\pos(1353.98,11.59)\frz0.1179\c&H1A110E&}Crash
 Dialogue: 2,0:14:29.35,0:14:29.39,SFXPurple2,15,0,0,0,,{=81}{\blur1.3\bord0\fscx129.27\fscy92.34\alpha&H33&\pos(1353.98,11.59)\frz0.1179\4a&HFF&}Crash
 Dialogue: 1,0:14:29.39,0:14:29.43,SFXPurple2,15,0,0,0,,{=81}{\blur1.3\bord6.76\fscx118.21\fscy84.44\alpha&H33&\pos(1355.82,-22.41)\frz0.1179\c&H1A110E&}Crash
@@ -3019,22 +3007,21 @@ Dialogue: 1,0:14:31.06,0:14:31.10,SFXPurple2,15,0,0,0,,{=81}{\bord8.31\fscx145.4
 Dialogue: 1,0:14:31.10,0:14:31.14,SFXPurple2,15,0,0,0,,{=81}{\bord8.49\fscx147.35\fscy105.25\alpha&HAC&\pos(1416.57,100.52)\frz0.1179}Crash
 Dialogue: 1,0:14:31.14,0:14:31.18,SFXPurple2,15,0,0,0,,{=81}{\bord8.42\fscx147.35\fscy105.25\alpha&HCC&\pos(1414.39,103.39)\frz0.1179}Crash
 Dialogue: 1,0:14:31.18,0:14:31.23,SFXPurple2,15,0,0,0,,{=81}{\bord8.43\fscx147.56\fscy105.4\alpha&HE6&\pos(1414.92,113.3)\frz0.1179}Crash
-Dialogue: 0,0:14:32.32,0:14:37.16,Dubtitles,,0,0,0,,one as well if the wind of\Nmy divine sandstorm hadn't
-Dialogue: 0,0:14:37.24,0:14:41.58,Dubtitles,,0,0,0,,had the strength to blow your\Nbubble senses to oblivion I
-Dialogue: 0,0:14:41.66,0:14:44.20,Dubtitles,,0,0,0,,have no idea how I would have\Nstopped the light before it.
-Dialogue: 0,0:14:44.28,0:14:45.12,Dubtitles,,0,0,0,,destroyed me.
+Dialogue: 0,0:14:32.32,0:14:35.26,Dubtitles,,0,0,0,,one as well if the wind
+Dialogue: 0,0:14:35.34,0:14:39.30,Dubtitles,,0,0,0,,of my divine sandstorm hadn't had the\Nstrength to blow your bubble senses to
+Dialogue: 0,0:14:39.38,0:14:45.12,Dubtitles,,0,0,0,,oblivion I have no idea how I would have\Nstopped the light before it destroyed me.
 Dialogue: 0,0:14:47.00,0:14:50.40,Dubtitles,,0,0,0,,And even if the mighty Lord\NKars, who cannot use wind,
 Dialogue: 0,0:14:50.66,0:14:54.06,Dubtitles,,0,0,0,,had been the one to first note your\Npresence and confront you as I did,
 Dialogue: 0,0:14:54.14,0:14:55.58,Dubtitles,,0,0,0,,and faced your power,
-Dialogue: 0,0:14:59.64,0:15:03.76,Dubtitles,,0,0,0,,if he had prevailed, he most certainly\Nwould have been in far worse shape?
-Dialogue: 0,0:15:03.84,0:15:05.66,Dubtitles,,0,0,0,,than I find myself in now.
+Dialogue: 0,0:14:59.64,0:15:01.12,Dubtitles,,0,0,0,,if he had prevailed,
+Dialogue: 0,0:15:01.34,0:15:05.99,Dubtitles,,0,0,0,,he most certainly would have been in far\Nworse shape than I find myself in now.
 Dialogue: 0,0:15:14.84,0:15:15.67,Dubtitles,,0,0,0,,Enough.
 Dialogue: 0,0:15:15.90,0:15:19.80,Dubtitles,,0,0,0,,You will not fight again, for you\Nhave nothing left with which to fight.
 Dialogue: 0,0:15:19.88,0:15:24.48,Dubtitles,,0,0,0,,My divine sandstorm has shredded your\Nbody beyond any chance of survival.
 Dialogue: 0,0:15:25.42,0:15:26.25,Dubtitles,,0,0,0,,Stop.
 Dialogue: 0,0:15:26.50,0:15:27.96,Dubtitles,,0,0,0,,The battle is over.
-Dialogue: 0,0:15:29.24,0:15:33.04,Dubtitles,,0,0,0,,You have no more harmone\Nwith which to continue. See?
-Dialogue: 0,0:15:33.50,0:15:35.56,Dubtitles,,0,0,0,,You've almost completely bled out.
+Dialogue: 0,0:15:29.24,0:15:33.04,Dubtitles,,0,0,0,,You have no more Hamon with\Nwhich to continue. See?
+Dialogue: 0,0:15:33.50,0:15:35.56,Dubtitles,,0,0,0,,You've almost bled out.
 Dialogue: 0,0:15:37.14,0:15:39.80,Dubtitles,,0,0,0,,That means you have no hope.
 Dialogue: 0,0:15:45.88,0:15:46.78,Dubtitles,,0,0,0,,Stop, Caesar.
 Dialogue: 0,0:15:51.96,0:15:52.79,Dubtitles,,0,0,0,,Goodbye.
@@ -3102,10 +3089,10 @@ Dialogue: 1,0:16:41.56,0:16:41.61,SFXRed2,16,0,0,0,,{=83}{\blur1.3\alpha&H00&\bo
 Dialogue: 2,0:16:41.56,0:16:41.61,SFXRed2,16,0,0,0,,{=83}{\blur1.3\alpha&H00&\bord0\fscx129.96\fscy99.97\frz3.937\pos(841.6,815.12)\4a&HFF&}Slash {Flashback to ep 7}
 Dialogue: 1,0:16:41.61,0:16:41.65,SFXRed2,16,0,0,0,,{=83}{\blur1.3\alpha&H00&\bord11\fscx129.96\fscy99.97\frz3.937\pos(843.32,814.97)\c&H0C0C13&}Slash {Flashback to ep 7}
 Dialogue: 2,0:16:41.61,0:16:41.65,SFXRed2,16,0,0,0,,{=83}{\blur1.3\alpha&H00&\bord0\fscx129.96\fscy99.97\frz3.937\pos(843.32,814.97)\4a&HFF&}Slash {Flashback to ep 7}
-Dialogue: 0,0:16:42.38,0:16:46.82,Dubtitles,,0,0,0,,gave his Ripple energy to save Jojo's\Ngrandfather right before he died.
+Dialogue: 0,0:16:42.38,0:16:46.82,Dubtitles,,0,0,0,,gave his Hamon energy to JoJo's\Ngrandfather, right before he died.
 Dialogue: 0,0:16:49.30,0:16:50.76,Dubtitles,,0,0,0,,It's tradition.
 Dialogue: 0,0:16:51.22,0:16:53.38,Dubtitles,,0,0,0,,I have to do something.
-Dialogue: 0,0:16:53.96,0:16:59.84,Dubtitles,,0,0,0,,I can't let my life's flame\Nsputter out to darkness.
+Dialogue: 0,0:16:53.96,0:16:59.84,Dubtitles,,0,0,0,,I, I can't let my life's flame\Njust sputter out to darkness.
 Dialogue: 0,0:17:00.52,0:17:02.96,Dubtitles,,0,0,0,,This is the Zeppeli family spirit,
 Dialogue: 0,0:17:03.22,0:17:06.66,Dubtitles,,0,0,0,,handed down from the past to\Nensure the family's future.
 Dialogue: 0,0:17:07.24,0:17:09.16,Dubtitles,,0,0,0,,It's the human spirit.
@@ -3127,18 +3114,12 @@ Dialogue: 0,0:18:20.96,0:18:23.68,Dubtitles,,0,0,0,,His talent as a fighter was 
 Dialogue: 0,0:18:24.32,0:18:27.16,Dubtitles,,0,0,0,,He has my deep respect\Nas a fellow warrior.
 Dialogue: 0,0:18:27.24,0:18:32.86,Dubtitles,,0,0,0,,I will hold you in the last moments we\Nspent together forever in my memory, Caesar.
 Dialogue: 0,0:18:35.12,0:18:39.76,Dubtitles,,0,0,0,,A man as splendid and as fleeting\Nas the bubbles he conjured.
-Dialogue: 0,0:18:51.74,0:18:53.02,Dubtitles,,0,0,0,,The place is a wreck.
-Dialogue: 0,0:18:53.10,0:18:55.86,Dubtitles,,0,0,0,,A divine sandstorm did all this!
-Dialogue: 0,0:18:55.94,0:18:57.62,Dubtitles,,0,0,0,,And Caesar was caught.
-Dialogue: 0,0:18:57.70,0:18:59.04,Dubtitles,,0,0,0,,Right inside the heart of it.
-Dialogue: 0,0:18:59.12,0:19:04.76,Dubtitles,,0,0,0,,A bubble.
-Dialogue: 0,0:19:06.40,0:19:07.78,Dubtitles,,0,0,0,,Could it be?
-Dialogue: 0,0:19:07.86,0:19:09.42,Dubtitles,,0,0,0,,Look at that.
-Dialogue: 0,0:19:11.52,0:19:13.86,Dubtitles,,0,0,0,,Inside is Caesar's bandana.
-Dialogue: 0,0:19:13.94,0:19:15.96,Dubtitles,,0,0,0,,Also, a ring.
-Dialogue: 0,0:19:16.04,0:19:17.96,Dubtitles,,0,0,0,,Wamuu's lip ring.
-Dialogue: 0,0:19:21.70,0:19:24.94,Dubtitles,,0,0,0,,This hormone energy feels really strange.
-Dialogue: 0,0:19:25.02,0:19:26.18,Dubtitles,,0,0,0,,Whoa!
+Dialogue: 0,0:18:51.74,0:18:56.76,Dubtitles,,0,0,0,,The place is a wreck. A divine\Nsandstorm did all this. And
+Dialogue: 0,0:18:56.84,0:18:57.86,Dubtitles,,0,0,0,,Caesar was caught Right
+Dialogue: 0,0:18:57.94,0:19:04.76,Dubtitles,,0,0,0,,inside the heart of it A bubble
+Dialogue: 0,0:19:06.40,0:19:09.42,Dubtitles,,0,0,0,,Could it be Look at that
+Dialogue: 0,0:19:11.52,0:19:17.96,Dubtitles,,0,0,0,,Inside is Caesar's bandana.\NAlso, a ring. Wamuu's lip ring.
+Dialogue: 0,0:19:21.70,0:19:26.18,Dubtitles,,0,0,0,,This hormone energy feels\Nreally strange Whoa!
 Dialogue: 0,0:19:35.94,0:19:36.77,Dubtitles,,0,0,0,,You know,
 Dialogue: 0,0:19:36.85,0:19:39.00,Dubtitles,,0,0,0,,I haven't been able to\Nbring myself to call
 Dialogue: 0,0:19:39.08,0:19:42.14,Dubtitles,,0,0,0,,Caesar's name since we made\Nour way into this place.
@@ -3148,7 +3129,7 @@ Dialogue: 0,0:19:52.06,0:19:54.77,Dubtitles,,0,0,0,,There might be nothing\Nbut 
 Dialogue: 0,0:19:55.12,0:19:56.47,Dubtitles,,0,0,0,,That is what scares me.
 Dialogue: 0,0:19:56.60,0:19:59.86,Dubtitles,,0,0,0,,I couldn't accept it, so\NI didn't call his name.
 Dialogue: 0,0:20:00.74,0:20:03.36,Dubtitles,,0,0,0,,But now, I know he's gone.
-Dialogue: 0,0:20:04.14,0:20:08.38,Dubtitles,,0,0,0,,The Abbacchio in that bubble told\Nme everything I needed to know.
+Dialogue: 0,0:20:04.14,0:20:08.38,Dubtitles,,0,0,0,,The Hamon contained in that bubble\Ntold me everything I needed to know.
 Dialogue: 0,0:20:10.62,0:20:14.56,Dubtitles,,0,0,0,,Right here, just a few\Nmoments ago, Caesar died.
 Dialogue: 0,0:20:16.10,0:20:17.42,Dubtitles,,0,0,0,,Caesar, you bastard!
 Dialogue: 0,0:20:17.72,0:20:20.94,Dubtitles,,0,0,0,,You had to be a damn show-off\Nright up until the very end!
@@ -3156,8 +3137,8 @@ Dialogue: 0,0:20:21.02,0:20:24.08,Dubtitles,,0,0,0,,And then you leave a preciou
 Dialogue: 0,0:20:25.46,0:20:26.29,Dubtitles,,0,0,0,,Caesar!
 Dialogue: 0,0:20:26.54,0:20:27.50,Dubtitles,,0,0,0,,Where are you?
 Dialogue: 0,0:20:27.58,0:20:29.46,Dubtitles,,0,0,0,,Where the hell are you sleeping?
-Dialogue: 0,0:20:29.80,0:20:31.20,Dubtitles,,0,0,0,,I'll find you, Caesar!
-Dialogue: 0,0:20:31.42,0:20:33.26,Dubtitles,,0,0,0,,I'll pick you up! Caesar!
+Dialogue: 0,0:20:29.80,0:20:31.20,Dubtitles,,0,0,0,,I'll find you! Caesar!
+Dialogue: 0,0:20:31.42,0:20:33.26,Dubtitles,,0,0,0,,I'll dig you up! Caesar!
 Dialogue: 0,0:20:34.86,0:20:35.69,Dubtitles,,0,0,0,,Jojo!
 Dialogue: 0,0:20:35.77,0:20:37.62,Dubtitles,,0,0,0,,This isn't the time to search or grieve.
 Dialogue: 0,0:20:37.76,0:20:39.54,Dubtitles,,0,0,0,,We have work to do. What?
@@ -3165,7 +3146,7 @@ Dialogue: 0,0:20:40.00,0:20:42.12,Dubtitles,,0,0,0,,There are two of them and tw
 Dialogue: 0,0:20:42.30,0:20:43.52,Dubtitles,,0,0,0,,The numbers are balanced.
 Dialogue: 0,0:20:43.60,0:20:44.43,Dubtitles,,0,0,0,,They're even.
 Dialogue: 0,0:20:45.78,0:20:48.18,Dubtitles,,0,0,0,,That trail of blood leading up the stairs
-Dialogue: 0,0:20:48.26,0:20:51.50,Dubtitles,,0,0,0,,tells me that Caesar\Nsignificantly wounded Wamuu.
+Dialogue: 0,0:20:48.26,0:20:51.50,Dubtitles,,0,0,0,,Tells me that Caesar\Nsignificantly wounded Wamuu.
 Dialogue: 0,0:20:52.18,0:20:54.47,Dubtitles,,0,0,0,,We're in the middle of enemy territory.
 Dialogue: 0,0:20:54.68,0:20:56.58,Dubtitles,,0,0,0,,Let's go and finish this fight.
 Dialogue: 0,0:20:57.70,0:20:59.00,Dubtitles,,0,0,0,,Jojo, come on.
@@ -3177,10 +3158,10 @@ Dialogue: 0,0:21:17.72,0:21:20.58,Dubtitles,,0,0,0,,Coach Lisa Lisa, your cigare
 Dialogue: 0,0:21:20.66,0:21:22.00,Dubtitles,,0,0,0,,It's backwards.
 Dialogue: 0,0:21:27.06,0:21:31.50,Dubtitles,,0,0,0,,Lisa Lisa is our coach, so she\Nalways has to keep a cool exterior.
 Dialogue: 0,0:21:32.02,0:21:35.42,Dubtitles,,0,0,0,,I know she wants to cry,\Nmuch more than I do.
-Dialogue: 0,0:21:35.88,0:21:40.06,Dubtitles,,0,0,0,,He treated her like a goddess, and\Nknew her longer than I've known her.
+Dialogue: 0,0:21:35.88,0:21:40.06,Dubtitles,,0,0,0,,He treated her like a goddess,\Nand knew her longer than I did.
 Dialogue: 0,0:21:42.42,0:21:45.32,Dubtitles,,0,0,0,,I have to try and hold my feelings back.
 Dialogue: 0,0:21:49.16,0:21:53.10,Dubtitles,,0,0,0,,Caesar, I know you always thought\NI was impulsive and self-centered
-Dialogue: 0,0:21:53.50,0:21:57.34,Dubtitles,,0,0,0,,But sometimes I do understand\Nthe feelings of those around me.
+Dialogue: 0,0:21:53.50,0:21:57.34,Dubtitles,,0,0,0,,But sometimes, I do understand\Nthe feelings of those around me.
 Dialogue: 0,0:21:57.98,0:21:59.82,Dubtitles,,0,0,0,,I might finally be learning
 Dialogue: 0,0:22:00.90,0:22:01.80,Dubtitles,,0,0,0,,I swear,
 Dialogue: 0,0:22:02.04,0:22:03.72,Dubtitles,,0,0,0,,I will fight them both\Nlike the devil until
@@ -3194,31 +3175,24 @@ Dialogue: 0,0:22:31.18,0:22:32.36,Dubtitles,,0,0,0,,Caesar.
 Dialogue: 0,0:22:36.68,0:22:37.86,Dubtitles,,0,0,0,,Caesar!
 Dialogue: 0,0:22:41.60,0:22:43.70,Dubtitles,,0,0,0,,They were deep in enemy territory.
 Dialogue: 0,0:22:43.78,0:22:49.60,Dubtitles,,0,0,0,,Cars and Wamuu were very nearby, but\Nthe two simply couldn't help themselves.
-Dialogue: 0,0:22:50.86,0:22:52.72,Dubtitles,,0,0,0,,Jojo called out Caesar's name.
+Dialogue: 0,0:22:50.86,0:22:52.72,Dubtitles,,0,0,0,,Jojo cried out Caesar's name.
 Dialogue: 0,0:22:54.50,0:22:56.48,Dubtitles,,0,0,0,,Lisa Lisa's tears flowed freely,
 Dialogue: 0,0:22:56.56,0:23:02.72,Dubtitles,,0,0,0,,but their heartbroken cries of grief\Nwere answered only by a cold silence.
 Dialogue: 0,0:23:03.40,0:23:05.88,Dubtitles,,0,0,0,,Caesar was gone.
 Dialogue: 0,0:23:06.76,0:23:11.88,Dubtitles,,0,0,0,,As they mourned him, they took\Nsolace in one simple fact.
 Dialogue: 0,0:23:11.96,0:23:17.88,Dubtitles,,0,0,0,,Though his body had died, his\Nsoul would live on through them.
 Dialogue: 0,0:23:19.18,0:23:21.62,Dubtitles,,0,0,0,,Rest in peace, Caesar Zeppeli.
-Dialogue: 0,0:23:40.22,0:23:43.94,Dubtitles,,0,0,0,,In and around the lake.
+Dialogue: 0,0:23:40.22,0:23:45.38,Dubtitles,,0,0,0,,In and around the lake Mountains
 Dialogue: 1,0:23:41.02,0:23:44.94,Lyrics 2,Yes,0,0,0,,In and around the lake
-Dialogue: 0,0:23:44.02,0:23:47.02,Dubtitles,,0,0,0,,Mountains come out of the sky.
 Dialogue: 1,0:23:44.94,0:23:47.32,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
-Dialogue: 0,0:23:47.10,0:23:49.42,Dubtitles,,0,0,0,,They stand there.
+Dialogue: 0,0:23:45.46,0:23:49.42,Dubtitles,,0,0,0,,come out of the sky They stand there
 Dialogue: 1,0:23:47.32,0:23:51.45,Lyrics 2,Yes,0,0,0,,They stand there
-Dialogue: 0,0:23:51.06,0:23:53.40,Dubtitles,,0,0,0,,24 before my love!
+Dialogue: 0,0:23:51.06,0:23:55.30,Dubtitles,,0,0,0,,24 before my love. I'll be there.
 Dialogue: 1,0:23:51.45,0:23:58.17,Lyrics 2,Yes,0,0,0,,Twenty four before my love and I'll be there
-Dialogue: 0,0:23:53.48,0:23:55.30,Dubtitles,,0,0,0,,I'll be there.
 Dialogue: 1,0:24:56.43,0:24:58.44,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:56.43,0:24:58.44,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
-Dialogue: 0,0:24:58.66,0:25:00.72,Dubtitles,,0,0,0,,You're really not impressing me.
-Dialogue: 0,0:25:00.80,0:25:02.44,Dubtitles,,0,0,0,,I'm going to hug you to death.
-Dialogue: 0,0:25:02.52,0:25:05.34,Dubtitles,,0,0,0,,We fight tonight under the full moon!
-Dialogue: 0,0:25:05.42,0:25:07.08,Dubtitles,,0,0,0,,You have no tomorrow.
-Dialogue: 0,0:25:07.16,0:25:09.45,Dubtitles,,0,0,0,,We'll face this fight together, Caesar?
+Dialogue: 0,0:24:58.66,0:25:03.66,Dubtitles,,0,0,0,,you're really not impressing me i'm going\Nto hug you to death we fight tonight
+Dialogue: 0,0:25:03.74,0:25:09.38,Dubtitles,,0,0,0,,under the full moon you have no tomorrow\Nwe'll face this fight together caesar
 Dialogue: 1,0:25:09.45,0:25:11.45,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 21:
 Dialogue: 1,0:25:09.45,0:25:11.45,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"A Hundred Against Two"{\i0}
-Dialogue: 1,0:25:09.45,0:25:11.45,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 21:
 Dialogue: 1,0:25:09.45,0:25:11.45,Title2,,0,0,0,,{\fs105\pos(960,772)}"One-Hundred Versus Two"
 

@@ -48,7 +48,7 @@ Style: Default,Impress BT,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Style: SFX,LeviNaiveLetter,160,&H002314B9,&H000000FF,&H0015142B,&H0015142B,0,0,0,0,120,100,0,0,1,6,3,8,50,40,20,1
 Style: SFX Purple,Shaky Hand Some Comic Bold,170,&H0045087B,&H000000FF,&H00EAE6E9,&H00050607,-1,0,0,0,130,100,0,0,1,8,5.5,8,50,40,20,1
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H2B920722,&H000000FF,&H00000000,&H1FC2002B,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -56,7 +56,7 @@ Dialogue: 0,0:00:03.82,0:00:05.60,Dubtitles,,0,0,0,,Ugh, God damn it.
 Dialogue: 0,0:00:08.62,0:00:10.68,Dubtitles,,0,0,0,,This frickin' pisses me off.
 Dialogue: 0,0:00:11.06,0:00:12.10,Dubtitles,,0,0,0,,I don't get it.
 Dialogue: 0,0:00:12.30,0:00:13.83,Dubtitles,,0,0,0,,Where'd the damn thing go?
-Dialogue: 0,0:00:17.68,0:00:20.00,Dubtitles,,0,0,0,,Angelo Katagiri, a .k .a. Angelo.
+Dialogue: 0,0:00:17.68,0:00:20.00,Dubtitles,,0,0,0,,Angelo Katagiri, a.k.a. Angelo.
 Dialogue: 0,0:00:21.08,0:00:24.85,Dubtitles,,0,0,0,,Known as the sickest, most heinous\Ncriminal in Japanese history.
 Dialogue: 0,0:00:25.84,0:00:30.44,Dubtitles,,0,0,0,,He continually murdered from the age\Nof 12, with his final homicide being...
 Dialogue: 0,0:00:30.52,0:00:31.35,Dubtitles,,0,0,0,,Hey, Milkman!
@@ -74,8 +74,8 @@ Dialogue: 0,0:00:56.96,0:01:00.58,Dubtitles,,0,0,0,,pocket tomorrow morning soun
 Dialogue: 0,0:01:00.66,0:01:03.98,Dubtitles,,0,0,0,,I left your milk sitting\Nright over there later then
 Dialogue: 0,0:01:09.02,0:01:10.08,Dubtitles,,0,0,0,,Just a sec.
 Dialogue: 0,0:01:10.40,0:01:12.66,Dubtitles,,0,0,0,,I don't think I've seen\Nyou around here before.
-Dialogue: 0,0:01:12.74,0:01:15.52,Dubtitles,,0,0,0,,Oh Yeah, i'm just temping for the day.
-Dialogue: 0,0:01:17.38,0:01:22.22,Dubtitles,,0,0,0,,The third boy came from an extremely\Nwealthy family so angelo demanded ransom.
+Dialogue: 0,0:01:12.74,0:01:15.52,Dubtitles,,0,0,0,,Oh Yeah, I'm just temping for the day
+Dialogue: 0,0:01:17.38,0:01:22.22,Dubtitles,,0,0,0,,The third boy came from an extremely\Nwealthy family so Angelo demanded ransom
 Dialogue: 0,0:01:22.88,0:01:24.65,Dubtitles,,0,0,0,,That's what led to his arrest.
 Dialogue: 0,0:01:25.40,0:01:27.42,Dubtitles,,0,0,0,,Well, I hate to nitpick, Temp Guy,
 Dialogue: 0,0:01:27.66,0:01:30.72,Dubtitles,,0,0,0,,but the safety seal on this\Nbottle is clearly broken.
@@ -167,13 +167,12 @@ Dialogue: 0,0:02:04.42,0:02:07.89,Dubtitles,,0,0,0,,I can't believe you have mor
 Dialogue: 0,0:02:09.40,0:02:14.72,Dubtitles,,0,0,0,,When the police finally raided Angelo's\Ntorture den, they found a horrific sight.
 Dialogue: 0,0:02:15.48,0:02:17.48,Dubtitles,,0,0,0,,The boy had already been murdered.
 Dialogue: 0,0:02:17.70,0:02:21.82,Dubtitles,,0,0,0,,His genitalia severed and nailed to\Na pillar that was standing nearby.
-Dialogue: 0,0:02:36.42,0:02:40.42,Dubtitles,,0,0,0,,Worthless bastard don't you know how to\Npick up after your dog and you just had
-Dialogue: 0,0:02:40.50,0:02:45.88,Dubtitles,,0,0,0,,to toss your dirty cig on the ground\Nwell you got what you deserved shitface?
+Dialogue: 0,0:02:36.42,0:02:40.16,Dubtitles,,0,0,0,,worthless bastard don't you know how\Nto pick up after your dog and you just
+Dialogue: 0,0:02:40.24,0:02:45.88,Dubtitles,,0,0,0,,had to toss your dirty cig on the ground\Nwell you got what you deserved shitface
 Dialogue: 0,0:02:46.56,0:02:48.52,Dubtitles,,0,0,0,,Wanna be a pompous asshole?
 Dialogue: 0,0:02:52.88,0:02:57.16,Dubtitles,,0,0,0,,Then you could swallow my stand\Nand die like the dirty rat you are!
 Dialogue: 1,0:03:24.55,0:03:28.18,Part 4 OP Japanese,,0,0,0,,{\1c&H94D6DE&}{\fad(100,100)}surechigatteku kao no nai shisen {Only reason I'm changing the font is because I already used it for a lot of sfx}
 Dialogue: 1,0:03:24.55,0:03:28.18,Part 4 OP English,,0,0,0,,{\1c&H94D6DE&}{\fad(100,100)}As I watch the indistinct faces passing me by
-Dialogue: 1,0:03:24.55,0:03:28.18,Part 4 OP Japanese,,0,0,0,,{\1c&H94D6DE&}{\fad(100,100)}surechigatteku kao no nai shisen
 Dialogue: 1,0:03:28.18,0:03:31.69,Part 4 OP Japanese,,0,0,0,,{\1c&HEF61E5&}{\fad(100,100)}mune no ana ga kaetetta nichijou
 Dialogue: 1,0:03:28.18,0:03:31.69,Part 4 OP English,,0,0,0,,{\1c&HEF61E5&}{\fad(100,100)}The hole in my heart reminds me how much my life has changed
 Dialogue: 1,0:03:31.69,0:03:38.82,Part 4 OP Japanese,,0,0,0,,{\1c&H77FFE8&}{\fad(100,100)}kyoukai nante nakutearu atarimae no kimyou, oh yeah!
@@ -200,18 +199,15 @@ Dialogue: 0,0:04:05.20,0:04:09.16,Dubtitles,,0,0,0,,Crazy noise is a drum.
 Dialogue: 1,0:04:05.43,0:04:11.39,Part 4 OP Japanese,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}Crazy Noisy Bizarre Town
 Dialogue: 1,0:04:05.43,0:04:11.39,Part 4 OP English,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}in this Crazy Noisy Bizarre Town!
 Dialogue: 1,0:04:26.37,0:04:32.29,Title Part 4 Episode 2,Title,0,0,0,,{\fad(614,646)\pos(132,873)\fs60}Episode 2: {\fs80} Higashikata Josuke Meets Angelo!
-Dialogue: 0,0:04:44.46,0:04:49.14,Dubtitles,,0,0,0,,The End My hair today, listen.
-Dialogue: 0,0:04:49.22,0:04:51.28,Dubtitles,,0,0,0,,His stand may not be very strong,
-Dialogue: 0,0:04:51.36,0:04:54.06,Dubtitles,,0,0,0,,but he can control it\Nfrom afar and its ability
-Dialogue: 0,0:04:54.14,0:04:56.52,Dubtitles,,0,0,0,,to infiltrate bodies is\Ngonna make things tricky.
-Dialogue: 0,0:04:56.60,0:04:57.82,Dubtitles,,0,0,0,,Sit tight.
-Dialogue: 0,0:04:57.90,0:04:58.73,Dubtitles,,0,0,0,,I'll be there soon.
-Dialogue: 0,0:04:58.81,0:05:01.06,Dubtitles,,0,0,0,,You mean until I get there?
-Dialogue: 0,0:05:01.14,0:05:02.56,Dubtitles,,0,0,0,,Don't eat or drink anything.
-Dialogue: 0,0:05:02.64,0:05:03.47,Dubtitles,,0,0,0,,Do you understand?
-Dialogue: 0,0:05:03.55,0:05:07.52,Dubtitles,,0,0,0,,Stay away from tap water and avoid\Nthe bathroom and shower. Got it.
-Dialogue: 0,0:05:07.60,0:05:08.56,Dubtitles,,0,0,0,,Can we slow down a bit?
-Dialogue: 0,0:05:08.64,0:05:11.29,Dubtitles,,0,0,0,,I haven't exactly told\Nmy mom that you're in.
+Dialogue: 1,0:04:27.62,0:04:33.54,Main,Josuke,0,0,0,,{\an8}So like I was saying, it looked like his Stand possessed\N that guy robbing the convenience store or something, but...
+Dialogue: 0,0:04:44.46,0:04:50.52,Dubtitles,,0,0,0,,The end of my hair today.\NListen, his stand may not
+Dialogue: 0,0:04:50.60,0:04:53.56,Dubtitles,,0,0,0,,be very strong but he can\Ncontrol it from afar and
+Dialogue: 0,0:04:53.64,0:04:55.78,Dubtitles,,0,0,0,,its ability to infiltrate\Nbodies is gonna make
+Dialogue: 0,0:04:55.86,0:04:59.96,Dubtitles,,0,0,0,,things tricky sit tight\Ni'll be there soon you mean
+Dialogue: 0,0:05:00.04,0:05:02.84,Dubtitles,,0,0,0,,until i get there don't\Neat or drink anything do
+Dialogue: 0,0:05:02.92,0:05:05.96,Dubtitles,,0,0,0,,you understand stay away\Nfrom tap water and avoid
+Dialogue: 0,0:05:06.04,0:05:08.28,Dubtitles,,0,0,0,,the bathroom and shower\Ngot it can we slow down
+Dialogue: 0,0:05:08.36,0:05:11.30,Dubtitles,,0,0,0,,a bit i haven't exactly\Ntold my mom that you're in
 Dialogue: 0,0:05:12.16,0:05:12.99,Dubtitles,,0,0,0,,town yet.
 Dialogue: 0,0:05:13.07,0:05:15.48,Dubtitles,,0,0,0,,She's as tough as they\Ncome, but the thought of Mr.
 Dialogue: 0,0:05:15.56,0:05:17.38,Dubtitles,,0,0,0,,Joestar can still make her cry.
@@ -339,16 +335,19 @@ Dialogue: 0,0:06:40.30,0:06:43.06,Dubtitles,,0,0,0,,Angelo was only able to\Nsur
 Dialogue: 0,0:06:43.14,0:06:46.08,Dubtitles,,0,0,0,,break out of prison because\Nhe had use of a stand.
 Dialogue: 0,0:06:46.86,0:06:50.02,Dubtitles,,0,0,0,,Still, I don't know the full\Nextent of his abilities.
 Dialogue: 1,0:06:51.97,0:06:53.39,Episode 2 Typesetting 3 (Baseball),sign,0,0,0,,{\pos(1682.8,740.629)}Bottom of the 9th
-Dialogue: 0,0:06:53.98,0:06:56.08,Dubtitles,,0,0,0,,Dead ball, sayonara!
+Dialogue: 0,0:06:53.98,0:06:56.08,Dubtitles,,0,0,0,,Dead ball! Sayonara!
 Dialogue: 0,0:06:56.44,0:06:58.74,Dubtitles,,0,0,0,,Dead ball, game over, sayonara!
 Dialogue: 0,0:07:02.10,0:07:03.18,Dubtitles,,0,0,0,,Good boy.
 Dialogue: 0,0:07:05.08,0:07:06.16,Dubtitles,,0,0,0,,You bastard!
+Dialogue: 1,0:07:06.86,0:07:10.07,Main,Tomoko,0,0,0,,{\an8\i1}Josuke! You'll be late if you don't get going!{\i0}
 Dialogue: 0,0:07:07.52,0:07:11.96,Dubtitles,,0,0,0,,I'm gonna smash your prissy face and\Nrip your smoking hot mom to pieces!
+Dialogue: 1,0:07:10.07,0:07:11.28,Main,Josuke,0,0,0,,{\an8\i1}Okay!{\i0}
 Dialogue: 0,0:07:12.54,0:07:16.89,Dubtitles,,0,0,0,,I have to find a way to get that cap\Noff, or maybe I can break the bottle.
 Dialogue: 0,0:07:16.98,0:07:18.26,Dubtitles,,0,0,0,,What am I gonna do?
 Dialogue: 0,0:07:29.56,0:07:30.39,Dubtitles,,0,0,0,,Wait.
 Dialogue: 0,0:07:30.47,0:07:31.82,Dubtitles,,0,0,0,,Is that…
-Dialogue: 0,0:07:31.90,0:07:33.44,Dubtitles,,0,0,0,,Higashkata.
+Dialogue: 1,0:07:31.18,0:07:33.93,Main,Ryohei,0,0,0,,{\an8\i1}I'm home.{\i0}
+Dialogue: 0,0:07:31.90,0:07:33.44,Dubtitles,,0,0,0,,Higashikata.
 Dialogue: 0,0:07:33.80,0:07:35.88,Dubtitles,,0,0,0,,I knew that name was familiar.
 Dialogue: 0,0:07:35.96,0:07:37.82,Dubtitles,,0,0,0,,So, I've stumbled upon
 Dialogue: 0,0:07:39.58,0:07:41.14,Dubtitles,,0,0,0,,Officer Higashkata's house.
@@ -368,23 +367,27 @@ Dialogue: 0,0:08:12.28,0:08:16.92,Dubtitles,,0,0,0,,Guess that means the first w
 Dialogue: 0,0:08:17.00,0:08:22.20,Dubtitles,,0,0,0,,you win hmm what's wrong you don't\Nusually take it on the chin like that fine
 Dialogue: 0,0:08:22.28,0:08:25.84,Dubtitles,,0,0,0,,and mom left for the day now shouldn't\Nyou be in bed you must be exhausted
 Dialogue: 0,0:08:25.92,0:08:30.84,Dubtitles,,0,0,0,,for our next story in a gruesome chain\Nof horrific incidents the death count
+Dialogue: 1,0:08:28.40,0:08:33.15,Narrator,TV,0,0,0,,{\an8}The number of reported casualties involving injuries \Nsustained to the eyes and ears from inside the body...
 Dialogue: 0,0:08:30.92,0:08:35.22,Dubtitles,,0,0,0,,has risen to seven in all cases the\Nvictims eyes and ears were disfigured
-Dialogue: 0,0:08:35.30,0:08:40.56,Dubtitles,,0,0,0,,the incident seems to be isolated to\Nthe town of Mariah but the police aren't
-Dialogue: 0,0:08:40.64,0:08:44.98,Dubtitles,,0,0,0,,sure whether the trauma is caused by\Ndisease or aggressive behavior i've
+Dialogue: 1,0:08:33.15,0:08:35.24,Narrator,TV,0,0,0,,{\an8}...has risen to seven as of this morning.
+Dialogue: 0,0:08:35.30,0:08:40.56,Dubtitles,,0,0,0,,The incident seems to be isolated to the\Ntown of Morioh, but the police aren't
+Dialogue: 0,0:08:40.64,0:08:44.98,Dubtitles,,0,0,0,,Sure whether the trauma is caused by\Ndisease or aggressive behavior. I've
 Dialogue: 0,0:08:45.06,0:08:49.94,Dubtitles,,0,0,0,,encountered this before my gut tells me\Nthese occurrences are undeniably deliberate
 Dialogue: 0,0:08:51.38,0:08:54.14,Dubtitles,,0,0,0,,i hope it's not as bad\Nas i think but make no
 Dialogue: 0,0:08:54.22,0:08:56.99,Dubtitles,,0,0,0,,mistake something wicked's\Nlurking in this town
 Dialogue: 0,0:08:57.68,0:08:58.51,Dubtitles,,0,0,0,,grandpa
+Dialogue: 1,0:09:00.93,0:09:03.89,Narrator,TV,0,0,0,,{\an8}Morioh's staple food, beef tongue stewed in miso{\fscx300}-{\r}
 Dialogue: 0,0:09:01.66,0:09:02.49,Dubtitles,,0,0,0,,she's here
 Dialogue: 0,0:09:05.40,0:09:11.24,Dubtitles,,0,0,0,,I know all of your quirks, Higashikata,\Nincluding what you drink after work.
 Dialogue: 0,0:09:12.10,0:09:16.46,Dubtitles,,0,0,0,,If I recall, your drink of choice\Nis a nice cognac, isn't it?
 Dialogue: 0,0:09:27.94,0:09:30.26,Dubtitles,,0,0,0,,Josuke, grab the bottle\Nand get in the car.
 Dialogue: 0,0:09:30.34,0:09:32.36,Dubtitles,,0,0,0,,We'll take it where no one\Nwill be able to get hurt.
 Dialogue: 0,0:09:32.44,0:09:33.60,Dubtitles,,0,0,0,,That's a good idea.
-Dialogue: 0,0:09:42.32,0:09:43.15,Dubtitles,,0,0,0,,Grandpa.
-Dialogue: 0,0:09:46.92,0:09:51.04,Dubtitles,,0,0,0,,Just gay he gots guitar\Nyou really blew it kiddo!
-Dialogue: 0,0:09:51.12,0:09:56.92,Dubtitles,,0,0,0,,You turned your back on the old geezer, and\Nnow he's paid the ultimate price for it.
-Dialogue: 0,0:09:57.00,0:10:00.04,Dubtitles,,0,0,0,,That's what happens\Nwhen you get cocky punk?
+Dialogue: 0,0:09:42.32,0:09:43.15,Dubtitles,,0,0,0,,Grandpa
+Dialogue: 0,0:09:46.92,0:09:50.50,Dubtitles,,0,0,0,,Just now he gets guitar,\Nyou really blew it.
+Dialogue: 0,0:09:50.58,0:09:53.92,Dubtitles,,0,0,0,,kiddo You turned your\Nback on the old geezer,
+Dialogue: 0,0:09:54.02,0:09:56.92,Dubtitles,,0,0,0,,and now he's paid the\Nultimate price for it
+Dialogue: 0,0:09:57.00,0:10:00.04,Dubtitles,,0,0,0,,That's what happens when\Nyou get cocky, punk!
 Dialogue: 0,0:10:01.38,0:10:02.24,Dubtitles,,0,0,0,,You know,
 Dialogue: 0,0:10:02.38,0:10:05.48,Dubtitles,,0,0,0,,there's nothing quite like the\Nfeeling of bringing a pretentious
 Dialogue: 0,0:10:05.56,0:10:09.22,Dubtitles,,0,0,0,,bastard crashing down to\Nearth in a puddle of despair.
@@ -415,22 +418,16 @@ Dialogue: 0,0:11:32.56,0:11:36.14,Dubtitles,,0,0,0,,It's said the human organism
 Dialogue: 0,0:11:36.22,0:11:40.34,Dubtitles,,0,0,0,,But your power is an unparalleled\Nact of compassion in a brutal world.
 Dialogue: 0,0:11:41.48,0:11:46.68,Dubtitles,,0,0,0,,The problem is, no amount of compassion\Nor love can bring back the dead.
 Dialogue: 0,0:11:48.72,0:11:52.00,Dubtitles,,0,0,0,,Not even stands have\Nthat power. I'm sorry.
-Dialogue: 0,0:12:01.42,0:12:04.70,Dubtitles,,0,0,0,,My grandfather looked after\Nthis town for 35 years.
-Dialogue: 0,0:12:04.78,0:12:07.38,Dubtitles,,0,0,0,,He never once abandoned his post.
-Dialogue: 0,0:12:08.40,0:12:11.72,Dubtitles,,0,0,0,,He told me the danger\Nwas lurking as soon as he
-Dialogue: 0,0:12:11.80,0:12:14.06,Dubtitles,,0,0,0,,heard the news report\Nabout Angelo's return to.
-Dialogue: 0,0:12:14.14,0:12:14.97,Dubtitles,,0,0,0,,Murder.
-Dialogue: 0,0:12:15.05,0:12:19.20,Dubtitles,,0,0,0,,I looked into his eyes and saw\Na man of honor ready to protect.
-Dialogue: 0,0:12:21.78,0:12:23.62,Dubtitles,,0,0,0,,Angelo's racked up a high body count.
-Dialogue: 0,0:12:23.70,0:12:26.72,Dubtitles,,0,0,0,,There are probably more victims out there.
-Dialogue: 0,0:12:26.80,0:12:28.42,Dubtitles,,0,0,0,,Just waiting to be found.
-Dialogue: 0,0:12:29.10,0:12:30.66,Dubtitles,,0,0,0,,He kills without motive.
-Dialogue: 0,0:12:30.74,0:12:32.08,Dubtitles,,0,0,0,,Murdering for the thrill of it.
-Dialogue: 0,0:12:32.16,0:12:33.98,Dubtitles,,0,0,0,,And this is only the beginning.
-Dialogue: 0,0:12:35.00,0:12:36.88,Dubtitles,,0,0,0,,I'm certain that he'll keep killing.
-Dialogue: 0,0:12:36.96,0:12:39.66,Dubtitles,,0,0,0,,But first he'll kill you and your mother.
+Dialogue: 0,0:12:01.42,0:12:07.38,Dubtitles,,0,0,0,,my grandfather looked after this town for\N35 years he never once abandoned his post
+Dialogue: 0,0:12:08.40,0:12:13.52,Dubtitles,,0,0,0,,he told me the danger was lurking as soon\Nas he heard the news report about angelo's
+Dialogue: 0,0:12:13.60,0:12:19.20,Dubtitles,,0,0,0,,return to murder i looked into his eyes\Nand saw a man of honor ready to protect
+Dialogue: 0,0:12:21.78,0:12:24.94,Dubtitles,,0,0,0,,Angelo's racked up a high\Nbody count. There are
+Dialogue: 0,0:12:25.02,0:12:28.42,Dubtitles,,0,0,0,,probably more victims out\Nthere Just waiting to be found
+Dialogue: 0,0:12:29.10,0:12:31.50,Dubtitles,,0,0,0,,He kills without motive Murdering for the
+Dialogue: 0,0:12:31.58,0:12:34.11,Dubtitles,,0,0,0,,thrill of it And this\Nis only the beginning
+Dialogue: 0,0:12:35.00,0:12:39.66,Dubtitles,,0,0,0,,I'm certain that he'll keep killing But\Nfirst he'll kill you and your mother
 Dialogue: 0,0:12:51.36,0:12:52.26,Dubtitles,,0,0,0,,I'll do it.
-Dialogue: 0,0:12:52.34,0:12:57.46,Dubtitles,,0,0,0,,I'll take the baton my grandpa left\Nbehind, to protect my mom and the town,
+Dialogue: 0,0:12:52.34,0:12:57.46,Dubtitles,,0,0,0,,I'll take the baton my grandpa left\Nbehind, to protect my mom and the town.
 Dialogue: 0,0:12:57.74,0:13:00.45,Dubtitles,,0,0,0,,and nothing's going to\Nget in the way of that.
 Dialogue: 2,0:13:04.76,0:13:04.80,Eyecatch - Stats,sign bot,0,0,0,,{\fade(255,0,255,0,300,3210,3210)\fscx305.34\fscy305.34\be0.2\frz300\pos(776.94,1179.79)}PRECISION
 Dialogue: 2,0:13:04.76,0:13:04.80,Eyecatch - Stats,sign bot,0,0,0,,{\fade(255,0,255,0,300,3210,3210)\fscx305.73\fscy305.73\be0.2\frz57.56\pos(707.19,160.85)}POTENTIAL
@@ -467,60 +464,46 @@ Dialogue: 1,0:13:05.09,0:13:07.97,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:13:05.26,0:13:05.34,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}A
 Dialogue: 2,0:13:05.26,0:13:05.34,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}A
 Dialogue: 3,0:13:05.26,0:13:05.34,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}A
-Dialogue: 1,0:13:05.26,0:13:05.34,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}A
 Dialogue: 1,0:13:05.34,0:13:05.47,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aq
 Dialogue: 2,0:13:05.34,0:13:05.47,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aq
 Dialogue: 3,0:13:05.34,0:13:05.47,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aq
-Dialogue: 1,0:13:05.34,0:13:05.47,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aq
 Dialogue: 1,0:13:05.47,0:13:05.55,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqu
 Dialogue: 2,0:13:05.47,0:13:05.55,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqu
 Dialogue: 3,0:13:05.47,0:13:05.55,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqu
-Dialogue: 1,0:13:05.47,0:13:05.55,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqu
 Dialogue: 1,0:13:05.55,0:13:05.63,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqua
 Dialogue: 2,0:13:05.55,0:13:05.63,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqua
 Dialogue: 3,0:13:05.55,0:13:05.63,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqua
-Dialogue: 1,0:13:05.55,0:13:05.63,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqua
 Dialogue: 1,0:13:05.63,0:13:05.76,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqua Ne
 Dialogue: 2,0:13:05.63,0:13:05.76,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqua Ne
 Dialogue: 3,0:13:05.63,0:13:05.76,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqua Ne
-Dialogue: 1,0:13:05.63,0:13:05.76,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqua Ne
 Dialogue: 1,0:13:05.76,0:13:05.84,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqua Nec
 Dialogue: 2,0:13:05.76,0:13:05.84,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqua Nec
 Dialogue: 3,0:13:05.76,0:13:05.84,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqua Nec
-Dialogue: 1,0:13:05.76,0:13:05.84,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqua Nec
 Dialogue: 1,0:13:05.84,0:13:05.97,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqua Neck
 Dialogue: 2,0:13:05.84,0:13:05.97,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqua Neck
 Dialogue: 3,0:13:05.84,0:13:05.97,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqua Neck
-Dialogue: 1,0:13:05.84,0:13:05.97,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqua Neck
 Dialogue: 1,0:13:05.97,0:13:06.05,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqua Neckla
 Dialogue: 2,0:13:05.97,0:13:06.05,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqua Neckla
 Dialogue: 3,0:13:05.97,0:13:06.05,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqua Neckla
-Dialogue: 1,0:13:05.97,0:13:06.05,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqua Neckla
 Dialogue: 1,0:13:06.05,0:13:07.97,Eyecatch - Right,signtop,0,0,0,,{\blur14\pos(1406,345)\3c&HE67B8D&}Aqua Necklace
 Dialogue: 2,0:13:06.05,0:13:07.97,Eyecatch - Right,signtop,0,0,0,,{\blur0.6\pos(1406,345)\c&H160E0F&}Aqua Necklace
 Dialogue: 3,0:13:06.05,0:13:07.97,Eyecatch - Right,signtop,0,0,0,,{\bord0\blur0.6\pos(1406,345)\shad1.5\4a&HFF&}Aqua Necklace
-Dialogue: 1,0:13:06.05,0:13:07.97,Eyecatch - Right,signtop,0,0,0,,{\pos(1406,345)}Aqua Necklace
 Dialogue: 1,0:13:06.55,0:13:06.64,Eyecatch - Left,signbot,0,0,0,,{\blur14\pos(82,794)\alpha&H50&\3c&HFFFFFF&}Kata
 Dialogue: 2,0:13:06.55,0:13:06.64,Eyecatch - Left,signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H0D0D0D&}Kata
 Dialogue: 3,0:13:06.55,0:13:06.64,Eyecatch - Left,signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Kata
-Dialogue: 1,0:13:06.55,0:13:06.64,Eyecatch - Left,signbot,0,0,0,,{\pos(82,794)}Kata
 Dialogue: 1,0:13:06.64,0:13:06.72,Eyecatch - Left,signbot,0,0,0,,{\blur14\pos(82,794)\alpha&H50&\3c&HFFFFFF&}Katagiri
 Dialogue: 2,0:13:06.64,0:13:06.72,Eyecatch - Left,signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H0D0D0D&}Katagiri
 Dialogue: 3,0:13:06.64,0:13:06.72,Eyecatch - Left,signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Katagiri
-Dialogue: 1,0:13:06.64,0:13:06.72,Eyecatch - Left,signbot,0,0,0,,{\pos(82,794)}Katagiri
 Dialogue: 1,0:13:06.68,0:13:07.97,Eyecatch - Stats,sign bot,0,0,0,,{\an7\fad(300,0)\pos(48,31)}Power: C \NSpeed: C \NRange: A \NDurability: A \NPrecision: C \NGrowth Potential: E
 Dialogue: 1,0:13:06.72,0:13:06.84,Eyecatch - Left,signbot,0,0,0,,{\blur14\pos(82,794)\alpha&H50&\3c&HFFFFFF&}Katagiri An
 Dialogue: 2,0:13:06.72,0:13:06.84,Eyecatch - Left,signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H0D0D0D&}Katagiri An
 Dialogue: 3,0:13:06.72,0:13:06.84,Eyecatch - Left,signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Katagiri An
-Dialogue: 1,0:13:06.72,0:13:06.84,Eyecatch - Left,signbot,0,0,0,,{\pos(82,794)}Katagiri An
 Dialogue: 1,0:13:06.84,0:13:06.93,Eyecatch - Left,signbot,0,0,0,,{\blur14\pos(82,794)\alpha&H50&\3c&HFFFFFF&}Katagiri Anju
 Dialogue: 2,0:13:06.84,0:13:06.93,Eyecatch - Left,signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H0D0D0D&}Katagiri Anju
 Dialogue: 3,0:13:06.84,0:13:06.93,Eyecatch - Left,signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Katagiri Anju
-Dialogue: 1,0:13:06.84,0:13:06.93,Eyecatch - Left,signbot,0,0,0,,{\pos(82,794)}Katagiri Anju
 Dialogue: 1,0:13:06.93,0:13:07.97,Eyecatch - Left,signbot,0,0,0,,{\blur14\pos(82,794)\alpha&H50&\3c&HFFFFFF&}Katagiri Anjuro
 Dialogue: 2,0:13:06.93,0:13:07.97,Eyecatch - Left,signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H0D0D0D&}Katagiri Anjuro
 Dialogue: 3,0:13:06.93,0:13:07.97,Eyecatch - Left,signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Katagiri Anjuro
-Dialogue: 1,0:13:06.93,0:13:07.97,Eyecatch - Left,signbot,0,0,0,,{\pos(82,794)}Katagiri Anjuro
 Dialogue: 0,0:13:27.94,0:13:29.78,Dubtitles,,0,0,0,,The End
 Dialogue: 0,0:13:30.70,0:13:34.06,Dubtitles,,0,0,0,,Eventually, even these\Nbelongings would be discarded.
 Dialogue: 0,0:13:35.72,0:13:38.32,Dubtitles,,0,0,0,,For despite his daughter's\Nreluctance to part
@@ -551,7 +534,7 @@ Dialogue: 0,0:14:59.62,0:15:02.02,Dubtitles,,0,0,0,,If he gets me, I'm a dead ma
 Dialogue: 0,0:15:05.86,0:15:10.57,Dubtitles,,0,0,0,,I don't know what you're planning, but\Nmy stand's not going back in that bottle.
 Dialogue: 0,0:15:12.02,0:15:16.08,Dubtitles,,0,0,0,,You've already played your hand, so I'm\None step ahead of the game, my friend.
 Dialogue: 0,0:15:16.16,0:15:17.57,Dubtitles,,0,0,0,,Your efforts are futile.
-Dialogue: 0,0:15:19.74,0:15:24.12,Dubtitles,,0,0,0,,I've got all the time in the world, so\Nhole up in there as long as you want.
+Dialogue: 0,0:15:19.74,0:15:24.12,Dubtitles,,0,0,0,,I've got all the time in the world, so\Nhold up in there as long as you want.
 Dialogue: 0,0:15:24.20,0:15:25.22,Dubtitles,,0,0,0,,I can wait.
 Dialogue: 1,0:15:27.36,0:15:30.45,Episode 2 Typesetting 1,sign,0,0,0,,{\be0.2\fad(338,521)\pos(964,770)}— 3 Days Later —
 Dialogue: 0,0:15:31.94,0:15:36.16,Dubtitles,,0,0,0,,The bastard's been sniffing around\Nhere right under our noses, and still,
@@ -563,7 +546,7 @@ Dialogue: 0,0:15:56.54,0:15:58.06,Dubtitles,,0,0,0,,Raining? Wait.
 Dialogue: 0,0:16:06.58,0:16:07.41,Dubtitles,,0,0,0,,Interesting.
 Dialogue: 0,0:16:07.49,0:16:11.24,Dubtitles,,0,0,0,,I knew you were a weird one, but I\Ndidn't think you'd be a stand user.
 Dialogue: 0,0:16:11.92,0:16:12.84,Dubtitles,,0,0,0,,No matter.
-Dialogue: 0,0:16:13.12,0:16:17.22,Dubtitles,,0,0,0,,My moment has finally arrived,\Ncause this house belongs to me now!
+Dialogue: 0,0:16:13.12,0:16:17.22,Dubtitles,,0,0,0,,My moment has finally arrived,\N'cause this house belongs to me now!
 Dialogue: 0,0:16:17.52,0:16:20.52,Dubtitles,,0,0,0,,And thanks to this rain,\Nyou're not going anywhere!
 Dialogue: 0,0:16:32.02,0:16:35.26,Dubtitles,,0,0,0,,By the looks of things, he must\Nhave gotten all this water boiling.
 Dialogue: 0,0:16:35.34,0:16:37.56,Dubtitles,,0,0,0,,He even turned on the\Nhot water faucets, too.
@@ -584,21 +567,19 @@ Dialogue: 0,0:17:24.36,0:17:29.02,Dubtitles,,0,0,0,,Of course, Angelo's already 
 Dialogue: 0,0:17:29.10,0:17:32.92,Dubtitles,,0,0,0,,Upstairs is no good, and we'll be\Nsitting ducks if we go outside.
 Dialogue: 0,0:17:33.64,0:17:35.56,Dubtitles,,0,0,0,,This is just great.
 Dialogue: 0,0:17:48.60,0:17:51.28,Dubtitles,,0,0,0,,I have to be honest with\Nyou this liquid morphing
-Dialogue: 0,0:17:51.36,0:17:53.86,Dubtitles,,0,0,0,,stand is way more than\NI bargained for plus!
-Dialogue: 0,0:17:53.94,0:17:57.72,Dubtitles,,0,0,0,,It's really freaky he's a clever bastard
-Dialogue: 0,0:17:57.80,0:18:04.20,Dubtitles,,0,0,0,,what's so funny the
-Dialogue: 0,0:18:04.28,0:18:05.11,Dubtitles,,0,0,0,,son of a bitch has?
-Dialogue: 0,0:18:05.19,0:18:09.78,Dubtitles,,0,0,0,,cornered us hey it's fine mr.
-Dialogue: 0,0:18:09.90,0:18:13.34,Dubtitles,,0,0,0,,Jotaro my grandpa's murder\Nhas been kind enough to
-Dialogue: 0,0:18:13.42,0:18:18.30,Dubtitles,,0,0,0,,Turn himself in it's pretty\Ngreat don't you think?
-Dialogue: 0,0:18:18.38,0:18:24.42,Dubtitles,,0,0,0,,Okay it's time to finish
-Dialogue: 0,0:18:24.50,0:18:25.60,Dubtitles,,0,0,0,,them once and for all
-Dialogue: 0,0:18:25.68,0:18:32.68,Dubtitles,,0,0,0,,I'm
-Dialogue: 0,0:18:39.66,0:18:40.49,Dubtitles,,0,0,0,,all ears
-Dialogue: 0,0:18:40.57,0:18:41.40,Dubtitles,,0,0,0,,Josuke if
-Dialogue: 0,0:18:41.49,0:18:42.32,Dubtitles,,0,0,0,,you have a plan now's
-Dialogue: 0,0:18:42.40,0:18:46.64,Dubtitles,,0,0,0,,the time how do we get\Nout of this get out huh
-Dialogue: 0,0:18:46.72,0:18:51.24,Dubtitles,,0,0,0,,getting out isn't exactly\Nwhat I had in mind?
+Dialogue: 0,0:17:51.36,0:17:54.14,Dubtitles,,0,0,0,,stand is way more than I\Nbargained for plus it's
+Dialogue: 0,0:17:54.22,0:17:57.02,Dubtitles,,0,0,0,,really freaky he's a clever
+Dialogue: 0,0:17:57.10,0:18:03.52,Dubtitles,,0,0,0,,bastard what's so funny
+Dialogue: 0,0:18:03.60,0:18:09.78,Dubtitles,,0,0,0,,The son of a bitch has cornered\Nus. Hey, it's fine, Mr.
+Dialogue: 0,0:18:09.90,0:18:14.48,Dubtitles,,0,0,0,,Jotaro my grandpa's murder has\Nbeen kind enough to turn himself in
+Dialogue: 0,0:18:14.56,0:18:18.30,Dubtitles,,0,0,0,,it's pretty great don't you think
+Dialogue: 0,0:18:18.38,0:18:25.12,Dubtitles,,0,0,0,,okay it's time to finish them once and
+Dialogue: 0,0:18:25.20,0:18:26.03,Dubtitles,,0,0,0,,for all
+Dialogue: 0,0:18:26.11,0:18:32.68,Dubtitles,,0,0,0,,I'm
+Dialogue: 0,0:18:39.66,0:18:40.49,Dubtitles,,0,0,0,,all
+Dialogue: 0,0:18:40.57,0:18:41.40,Dubtitles,,0,0,0,,ears Josuke if you
+Dialogue: 0,0:18:41.49,0:18:44.34,Dubtitles,,0,0,0,,have a plan now's the time how do we
+Dialogue: 0,0:18:44.42,0:18:51.24,Dubtitles,,0,0,0,,get out of this get out huh getting\Nout isn't exactly what I had in mind
 Dialogue: 0,0:18:56.20,0:18:57.76,Dubtitles,,0,0,0,,Breaking out works better.
 Dialogue: 0,0:18:58.16,0:18:59.40,Dubtitles,,0,0,0,,Come on, this way.
 Dialogue: 0,0:18:59.78,0:19:01.60,Dubtitles,,0,0,0,,The wall's gonna repair itself.
@@ -633,13 +614,14 @@ Dialogue: 0,0:20:22.92,0:20:24.22,Dubtitles,,0,0,0,,Shit. Shit.
 Dialogue: 0,0:20:29.48,0:20:30.96,Dubtitles,,0,0,0,,Well, what do you know?
 Dialogue: 0,0:20:31.18,0:20:32.32,Dubtitles,,0,0,0,,It's Angelo.
 Dialogue: 0,0:20:32.72,0:20:34.30,Dubtitles,,0,0,0,,Screw the both of you!
-Dialogue: 0,0:20:41.78,0:20:43.78,Dubtitles,,0,0,0,,Easy now I don't know what you're thinking
-Dialogue: 0,0:20:43.86,0:20:46.00,Dubtitles,,0,0,0,,but you can't be serious about killing me.
-Dialogue: 0,0:20:46.08,0:20:50.74,Dubtitles,,0,0,0,,Okay I admit it I escaped that hellhole\Ncalled death row and sure I may have been
-Dialogue: 0,0:20:50.82,0:20:55.70,Dubtitles,,0,0,0,,found guilty Under Japanese law but you\Nguys have no right to do anything to me
-Dialogue: 0,0:20:55.78,0:21:01.54,Dubtitles,,0,0,0,,Josuke let's be frank yeah I murdered\Nyour grandpa but that doesn't mean you can
-Dialogue: 0,0:21:01.62,0:21:03.96,Dubtitles,,0,0,0,,put me to death too if you kill me you'll
-Dialogue: 0,0:21:04.04,0:21:06.22,Dubtitles,,0,0,0,,You'll end up cursed\Njust like yours truly!
+Dialogue: 0,0:20:41.78,0:20:44.20,Dubtitles,,0,0,0,,easy now i don't know what\Nyou're thinking but you
+Dialogue: 0,0:20:44.28,0:20:47.66,Dubtitles,,0,0,0,,can't be serious about\Nkilling me okay i admit it i
+Dialogue: 0,0:20:47.74,0:20:50.34,Dubtitles,,0,0,0,,escaped that hellhole\Ncalled death row and sure i
+Dialogue: 0,0:20:50.42,0:20:53.38,Dubtitles,,0,0,0,,may have been found guilty\Nunder japanese law but you
+Dialogue: 0,0:20:53.46,0:20:56.86,Dubtitles,,0,0,0,,guys have no right to\Ndo anything to me josuke
+Dialogue: 0,0:20:56.94,0:21:00.78,Dubtitles,,0,0,0,,let's be frank yeah i\Nmurdered your grandpa but that
+Dialogue: 0,0:21:00.86,0:21:03.50,Dubtitles,,0,0,0,,doesn't mean you can put\Nme to death too if you kill
+Dialogue: 0,0:21:03.58,0:21:06.22,Dubtitles,,0,0,0,,You'll end up cursed\Njust like yours truly!
 Dialogue: 0,0:21:06.30,0:21:08.89,Dubtitles,,0,0,0,,So back off if you know\Nwhat's good for you!
 Dialogue: 0,0:21:11.58,0:21:13.76,Dubtitles,,0,0,0,,It's rude to point your finger at people.
 Dialogue: 0,0:21:13.84,0:21:16.13,Dubtitles,,0,0,0,,Didn't your mother ever teach you that?
@@ -653,81 +635,66 @@ Dialogue: 0,0:21:33.40,0:21:36.69,Dubtitles,,0,0,0,,What the hell are you psycho
 Dialogue: 0,0:21:37.20,0:21:39.52,Dubtitles,,0,0,0,,Enjoy your eternal penance, Angelo.
 Dialogue: 0,0:21:39.82,0:21:43.64,Dubtitles,,0,0,0,,Reflect on the life you stole from\Nmy grandpa and all the others!
 Dialogue: 0,0:21:54.24,0:21:58.90,Dubtitles,,0,0,0,,Here you'll remain for all eternity\Nin the town my grandpa loved.
+Dialogue: 1,0:22:02.42,0:22:03.63,Narrator,Narrator,0,0,0,,{\an8}The Angelo Rock.
+Dialogue: 1,0:22:02.42,0:22:03.63,Narrator,Narrator,0,0,0,,{\an8}The Angelo Stone.
 Dialogue: 0,0:22:02.58,0:22:03.66,Dubtitles,,0,0,0,,Angelo's Rock,
 Dialogue: 1,0:22:03.46,0:22:14.14,Episode 2 Typesetting 2,sign,0,0,0,,{\fad(237,1)\pos(460,632)}Morioh Landmark #1
 Dialogue: 1,0:22:03.46,0:22:14.14,Episode 2 Typesetting 2a,sign,0,0,0,,{\fad(237,1)\pos(910,722)}The Angelo Rock:\N Location: One minute's walk from \NMorioh's Jozenji Street bus stop #3
 Dialogue: 1,0:22:03.46,0:22:14.14,Episode 2 Typesetting 2a,sign,0,0,0,,{\fad(237,1)\pos(910,722)}The Angelo Stone:\N Location: One minute's walk from \NMorioh's Jozenji Street bus stop #3
+Dialogue: 1,0:22:03.63,0:22:09.18,Narrator,Narrator,0,0,0,,{\an8}The Angelo Rock came to be considered a landmark, \Nas well as a spot where lovers meet. {Make sure this is consistent with the eyecatch in episode 3}
+Dialogue: 1,0:22:03.63,0:22:09.18,Narrator,Narrator,0,0,0,,{\an8}The Angelo Stone came to be considered a landmark, \Nas well as a spot where lovers meet. {Make sure this is consistent with the eyecatch in episode 3}
 Dialogue: 0,0:22:03.86,0:22:06.16,Dubtitles,,0,0,0,,a popular town landmark that's well-known
 Dialogue: 0,0:22:06.24,0:22:08.83,Dubtitles,,0,0,0,,for being a hotspot for\Nromantic rendezvous.
 Dialogue: 0,0:22:08.98,0:22:13.86,Dubtitles,,0,0,0,,For years, it's charmed the residents of\NMorioh, despite its disturbing appearance.
+Dialogue: 1,0:22:09.18,0:22:13.31,Narrator,Narrator,0,0,0,,{\an8}The residents of Morioh are fond of it, \Ndespite its unsettling appearance.
 Dialogue: 0,0:22:16.62,0:22:19.62,Dubtitles,,0,0,0,,Geez, this kid is batshit crazy.
 Dialogue: 0,0:22:22.40,0:22:23.66,Dubtitles,,0,0,0,,Good grief.
 Dialogue: 1,0:22:49.88,0:22:52.26,ED Lyrics,,0,0,0,,{\fad(100,100)}Any time I need to see your face, I just close my eyes
-Dialogue: 0,0:22:50.06,0:22:52.44,Dubtitles,,0,0,0,,Anytime I need to see your\Nface, it has closed my eyes.
+Dialogue: 0,0:22:50.06,0:22:51.36,Dubtitles,,0,0,0,,Anytime I need to see your face,
+Dialogue: 0,0:22:51.44,0:22:53.48,Dubtitles,,0,0,0,,it has closed my eyes And I am taken to a
 Dialogue: 1,0:22:52.26,0:22:54.51,ED Lyrics,,0,0,0,,{\fad(100,100)}And I am taken to a place where your crystal mind
-Dialogue: 0,0:22:52.52,0:22:54.68,Dubtitles,,0,0,0,,And I am taken to a place\Nwith a crystal mind.
+Dialogue: 0,0:22:53.56,0:22:55.92,Dubtitles,,0,0,0,,place with a crystal\Nmind A magenta feeling,
 Dialogue: 1,0:22:54.51,0:22:57.31,ED Lyrics,,0,0,0,,{\fad(100,100)}And magenta feelings take up shelter in the base of my spine
-Dialogue: 0,0:22:54.76,0:22:57.48,Dubtitles,,0,0,0,,A magenta feeling, take a\Nshelter in the face of my spine.
+Dialogue: 0,0:22:56.00,0:22:58.22,Dubtitles,,0,0,0,,take a shelter in the face\Nof my spine like a chicka
 Dialogue: 1,0:22:57.31,0:22:58.98,ED Lyrics,,0,0,0,,{\fad(100,100)}Sweet like a chic-a-cherry cola
-Dialogue: 0,0:22:57.56,0:22:58.86,Dubtitles,,0,0,0,,Like a Chaka cherry cola.
-Dialogue: 0,0:22:58.94,0:23:00.28,Dubtitles,,0,0,0,,I don't need to try to explain.
+Dialogue: 0,0:22:58.30,0:23:00.96,Dubtitles,,0,0,0,,cherry cola I don't need to\Ntry to explain I just hold
 Dialogue: 1,0:22:58.98,0:23:01.35,ED Lyrics,,0,0,0,,{\fad(100,100)}I don't need to try to explain, I just hold on tight
-Dialogue: 0,0:23:00.36,0:23:01.46,Dubtitles,,0,0,0,,I just hold on tight.
+Dialogue: 0,0:23:01.04,0:23:03.78,Dubtitles,,0,0,0,,on tight and if it happens\Nagain I'ma move so slightly
 Dialogue: 1,0:23:01.35,0:23:03.73,ED Lyrics,,0,0,0,,{\fad(100,100)}And if it happens again, I might move so slightly
-Dialogue: 0,0:23:01.54,0:23:02.54,Dubtitles,,0,0,0,,And if it happens again.
-Dialogue: 0,0:23:02.62,0:23:05.18,Dubtitles,,0,0,0,,I'ma move so slightly To the\Narms and the lips And the
 Dialogue: 1,0:23:03.73,0:23:06.53,ED Lyrics,,0,0,0,,{\fad(100,100)}To the arms and the lips and the face of the human cannonball
-Dialogue: 0,0:23:05.26,0:23:08.02,Dubtitles,,0,0,0,,face of the humic And the\Nball that I need to I want to
+Dialogue: 0,0:23:03.86,0:23:06.36,Dubtitles,,0,0,0,,to the arms and the lips and\Nthe face of the humic and
+Dialogue: 0,0:23:06.44,0:23:09.16,Dubtitles,,0,0,0,,the ball that I need to I\Nwant to come and stand a
 Dialogue: 1,0:23:06.53,0:23:08.24,ED Lyrics,,0,0,0,,{\fad(100,100)}That I need to, I want to
-Dialogue: 0,0:23:08.10,0:23:11.82,Dubtitles,,0,0,0,,Come and stand a little bit\Ncloser Breathe in and get a
 Dialogue: 1,0:23:08.24,0:23:10.49,ED Lyrics,,0,0,0,,{\fad(100,100)}Come stand a little bit closer
+Dialogue: 0,0:23:09.24,0:23:13.26,Dubtitles,,0,0,0,,little bit closer breathe in\Nand get a bit higher you'll
 Dialogue: 1,0:23:10.49,0:23:12.82,ED Lyrics,,0,0,0,,{\fad(100,100)}Breathe in and get a bit higher
-Dialogue: 0,0:23:11.90,0:23:16.96,Dubtitles,,0,0,0,,bit higher You'll never know\Nwhat hit you When I get to you.
 Dialogue: 1,0:23:12.82,0:23:14.45,ED Lyrics,,0,0,0,,{\fad(100,100)}You'll never know what hit you
+Dialogue: 0,0:23:13.34,0:23:18.42,Dubtitles,,0,0,0,,Never know what hit you when\NI get to you. Ooh, I want
 Dialogue: 1,0:23:14.45,0:23:17.08,ED Lyrics,,0,0,0,,{\fad(100,100)}When I get to you
-Dialogue: 0,0:23:17.04,0:23:20.34,Dubtitles,,0,0,0,,Ooh I want you I don't know if I
 Dialogue: 1,0:23:17.08,0:23:21.58,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:20.42,0:23:24.48,Dubtitles,,0,0,0,,need you Ooh I want you Find help.
+Dialogue: 0,0:23:18.50,0:23:24.48,Dubtitles,,0,0,0,,You, I don't know if I need\Nyou. Ooh, I want you. Find help.
 Dialogue: 1,0:23:21.58,0:23:25.13,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I'd die to find out
-Dialogue: 0,0:23:25.94,0:23:30.32,Dubtitles,,0,0,0,,Ooh, I want you, I\Ndon't know if I need you
+Dialogue: 0,0:23:25.94,0:23:30.32,Dubtitles,,0,0,0,,Ooh, I want you. I don't\Nknow if I need you.
 Dialogue: 1,0:23:26.13,0:23:30.59,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
 Dialogue: 1,0:23:30.59,0:23:33.97,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I would die to find out
-Dialogue: 0,0:23:31.34,0:23:33.50,Dubtitles,,0,0,0,,Ooh, I'm trying to find you?
+Dialogue: 0,0:23:31.34,0:23:33.50,Dubtitles,,0,0,0,,Ooh, I'm trying to find you.
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an3\fad(350,0)\be25\pos(1703,780)}Nijimura Brothers, Part 1
-Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode Title,sign,0,0,0,,{\an3\fad(350,0)\be25\pos(1713,780)}Nijimura Brothers Part 1
 Dialogue: 1,0:23:38.43,0:23:41.48,Next Episode,sign,0,0,0,,{\fad(350,0)\be25\pos(400,250)}Episode 3
 Dialogue: 1,0:23:38.43,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(302,780)}The
-Dialogue: 1,0:23:38.43,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an2\fad(350,0)\be25\pos(312,780)}The
 Dialogue: 2,0:23:39.60,0:23:39.64,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,780)\fs142\1c&H12131E&}Niji
-Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,780)\fs142\1c&H12131E&}Niji
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(1703,780)}mura Brothers, Part 1
-Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(1713,780)}mura Brothers Part 1
 Dialogue: 2,0:23:39.64,0:23:39.68,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,781)\fs144\1c&H101325&}Niji
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,781)\fs144\1c&H101325&}Niji
 Dialogue: 2,0:23:39.68,0:23:39.73,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,781)\fs146\1c&H111734&}Niji
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,781)\fs146\1c&H111734&}Niji
 Dialogue: 2,0:23:39.73,0:23:39.77,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,782)\fs148\1c&H0D153F&}Niji
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,782)\fs148\1c&H0D153F&}Niji
 Dialogue: 2,0:23:39.77,0:23:39.81,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,782)\fs150\1c&H0C1A4E&}Niji
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,782)\fs150\1c&H0C1A4E&}Niji
 Dialogue: 2,0:23:39.81,0:23:39.85,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,783)\fs152\1c&H0E1B60&}Niji
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,783)\fs152\1c&H0E1B60&}Niji
 Dialogue: 2,0:23:39.85,0:23:39.89,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,783)\fs154\1c&H0F1F70&}Niji
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,783)\fs154\1c&H0F1F70&}Niji
 Dialogue: 2,0:23:39.89,0:23:39.93,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,784)\fs156\1c&H0E207F&}Niji
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,784)\fs156\1c&H0E207F&}Niji
 Dialogue: 2,0:23:39.93,0:23:39.98,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,784)\fs158\1c&H0E248C&}Niji
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,784)\fs158\1c&H0E248C&}Niji
 Dialogue: 2,0:23:39.98,0:23:40.02,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,785)\fs160\1c&H0F269F&}Niji
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,785)\fs160\1c&H0F269F&}Niji
 Dialogue: 2,0:23:40.02,0:23:40.06,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,785)\fs162\1c&H0F29A9&}Niji
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,785)\fs162\1c&H0F29A9&}Niji
 Dialogue: 2,0:23:40.06,0:23:40.10,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,786)\fs164\1c&H0628B0&}Niji
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,786)\fs164\1c&H0628B0&}Niji
 Dialogue: 2,0:23:40.10,0:23:40.14,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,786)\fs166\1c&H082ABF&}Niji
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,786)\fs166\1c&H082ABF&}Niji
 Dialogue: 2,0:23:40.14,0:23:40.19,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,787)\fs168\1c&H0F2AC7&}Niji
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,787)\fs168\1c&H0F2AC7&}Niji
 Dialogue: 2,0:23:40.19,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(622,787)\fs170\1c&H072DCB&}Niji
-Dialogue: 1,0:23:40.19,0:23:41.48,Next Episode Title,sign,0,0,0,,{\an3\be25\pos(660,787)\fs170\1c&H072DCB&}Niji
 

@@ -40,12 +40,12 @@ Style: HAIL 2 U,Lucida Sans,6,&H004C434F,&H000000FF,&H37FFFFFF,&H00000000,0,0,0,
 Style: SFX2U,Shaky Hand Some Comic Bold,140,&H0056DEBB,&H000000FF,&H002D3C44,&H00000000,0,0,0,0,130,100,0,0,1,6,0,8,50,40,20,1
 Style: SFXGreen,LeviNaiveLetter,170,&H0038C061,&H000000FF,&H00112313,&H00112313,-1,0,0,0,130,100,0,0,1,7,4,8,50,40,20,1
 Style: SFXRed,KG Turning Tables,130,&H003B2BBC,&H000000FF,&H001D0751,&H00000000,-1,0,0,0,120,100,0,0,1,5,0,8,50,40,0,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.39,0:00:04.25,Dubtitles,,0,0,0,,Previously on JoJo's Bizarre Adventure...
-Dialogue: 0,0:00:06.63,0:00:08.91,Dubtitles,,0,0,0,,Hey, old man. Something's off.
+Dialogue: 0,0:00:06.63,0:00:08.91,Dubtitles,,0,0,0,,Hey, Gramps... something's off.
 Dialogue: 0,0:00:08.99,0:00:10.93,Dubtitles,,0,0,0,,You're going the wrong direction.
 Dialogue: 0,0:00:11.01,0:00:11.84,Dubtitles,,0,0,0,,Hmm?
 Dialogue: 0,0:00:11.97,0:00:14.03,Dubtitles,,0,0,0,,We seem to be heading toward that island.
@@ -66,7 +66,7 @@ Dialogue: 0,0:00:54.67,0:00:55.50,Dubtitles,,0,0,0,,Wait a sec.
 Dialogue: 0,0:00:55.59,0:00:57.99,Dubtitles,,0,0,0,,When you say, a man... What?
 Dialogue: 0,0:00:58.35,0:00:59.47,Dubtitles,,0,0,0,,Mangoes from India?
 Dialogue: 0,0:01:00.45,0:01:01.67,Dubtitles,,0,0,0,,I
-Dialogue: 0,0:01:01.75,0:01:08.75,Dubtitles,,0,0,0,,don't
+Dialogue: 0,0:01:01.75,0:01:08.75,Dubtitles,,0,0,0,,Don't.
 Dialogue: 0,0:01:25.61,0:01:26.44,Dubtitles,,0,0,0,,know.
 Dialogue: 2,0:02:37.88,0:02:42.47,Title 3,Title,0,0,0,,{\fad(480,480)\pos(192,810)}Episode 21: Judgement, Part 1
 Dialogue: 0,0:02:42.89,0:02:44.07,Dubtitles,,0,0,0,,I hate to interrupt,
@@ -86,7 +86,7 @@ Dialogue: 0,0:03:22.53,0:03:24.83,Dubtitles,,0,0,0,,And there's lots more\Nwhere
 Dialogue: 0,0:03:24.91,0:03:28.87,Dubtitles,,0,0,0,,Make sure to get nice and fat so\Nyou'll be a tasty chicken, Lionel.
 Dialogue: 0,0:03:28.95,0:03:30.11,Dubtitles,,0,0,0,,It's not possible.
 Dialogue: 0,0:03:30.53,0:03:31.49,Dubtitles,,0,0,0,,That man...
-Dialogue: 0,0:03:31.57,0:03:33.77,Dubtitles,,0,0,0,,It can't be. It's... Hold it!
+Dialogue: 0,0:03:31.57,0:03:33.77,Dubtitles,,0,0,0,,It can't be... It can't be... Wait!
 Dialogue: 0,0:03:35.25,0:03:36.93,Dubtitles,,0,0,0,,I'm gonna go and talk to him.
 Dialogue: 0,0:03:37.01,0:03:39.31,Dubtitles,,0,0,0,,The rest of you just wait here for now.
 Dialogue: 0,0:03:41.33,0:03:43.51,Dubtitles,,0,0,0,,Pardon me, my name is Joseph Joestar.
@@ -109,7 +109,7 @@ Dialogue: 0,0:04:12.55,0:04:14.25,Dubtitles,,0,0,0,,That wasn't Avdol.
 Dialogue: 0,0:04:14.69,0:04:16.17,Dubtitles,,0,0,0,,It was his father.
 Dialogue: 0,0:04:16.99,0:04:18.01,Dubtitles,,0,0,0,,His father?
 Dialogue: 0,0:04:19.29,0:04:22.99,Dubtitles,,0,0,0,,He withdrew from society and\Nlives alone on this island.
-Dialogue: 0,0:04:23.43,0:04:26.39,Dubtitles,,0,0,0,,I'm sorry that I wasn't able\Nto tell you about this earlier.
+Dialogue: 0,0:04:23.43,0:04:26.39,Dubtitles,,0,0,0,,I'm sorry that I wasn't able\Nto tell you about this earlier,
 Dialogue: 0,0:04:26.47,0:04:30.53,Dubtitles,,0,0,0,,But if it ever became known to\NDio that we stopped at this place,
 Dialogue: 0,0:04:31.19,0:04:33.84,Dubtitles,,0,0,0,,Avdahl's father would\Nbe put in grave danger.
 Dialogue: 0,0:04:34.11,0:04:36.91,Dubtitles,,0,0,0,,I would never forgive\Nmyself if that happened.
@@ -234,7 +234,7 @@ Dialogue: 0,0:06:59.19,0:07:01.45,Dubtitles,,0,0,0,,What in the world happened j
 Dialogue: 0,0:07:01.73,0:07:02.75,Dubtitles,,0,0,0,,From the looks of it,
 Dialogue: 0,0:07:02.83,0:07:06.83,Dubtitles,,0,0,0,,the air trapped inside just burst\Nout and I was scared over nothing.
 Dialogue: 0,0:07:07.05,0:07:07.88,Dubtitles,,0,0,0,,Ooh.
-Dialogue: 0,0:07:08.19,0:07:11.21,Dubtitles,,0,0,0,,Luckily, I'm not dealing with\NAladdin's magic lamp or anything,
+Dialogue: 0,0:07:08.19,0:07:11.21,Dubtitles,,0,0,0,,Luckily, I'm not dealing with\NAladdin's magic lamp or anything.
 Dialogue: 0,0:07:11.29,0:07:13.18,Dubtitles,,0,0,0,,so I guess I can relax a little.
 Dialogue: 0,0:07:15.47,0:07:16.71,Dubtitles,,0,0,0,,You get three!
 Dialogue: 0,0:07:17.99,0:07:19.21,Dubtitles,,0,0,0,,Three, I say!
@@ -372,9 +372,8 @@ Dialogue: 0,0:11:01.19,0:11:02.45,Dubtitles,,0,0,0,,I've made up my mind!
 Dialogue: 0,0:11:02.53,0:11:04.30,Dubtitles,,0,0,0,,I want a beautiful girlfriend!
 Dialogue: 0,0:11:05.47,0:11:06.99,Dubtitles,,0,0,0,,More than money or fame.
 Dialogue: 0,0:11:07.87,0:11:09.53,Dubtitles,,0,0,0,,What I want is true love!
-Dialogue: 0,0:11:09.75,0:11:11.67,Dubtitles,,0,0,0,,I'm talking not only\Nsomeone who's really cute!
-Dialogue: 0,0:11:11.75,0:11:13.03,Dubtitles,,0,0,0,,But a girl who wore pinkies for her?
-Dialogue: 0,0:11:13.11,0:11:14.93,Dubtitles,,0,0,0,,she loves me with all her heart.
+Dialogue: 0,0:11:09.75,0:11:11.67,Dubtitles,,0,0,0,,I'm talking not only\Nsomeone who's really cute,
+Dialogue: 0,0:11:11.75,0:11:14.93,Dubtitles,,0,0,0,,But a girl who wore pinkies for her,\Nshe loves me with all her heart.
 Dialogue: 0,0:11:15.01,0:11:18.75,Dubtitles,,0,0,0,,I want to meet a girl who feels the\Nsame way about me as I do for her.
 Dialogue: 0,0:11:18.83,0:11:23.27,Dubtitles,,0,0,0,,So if that's within your power to do,\Nthen prove it to me right now, dammit!
 Dialogue: 0,0:11:23.35,0:11:26.11,Dubtitles,,0,0,0,,You want a girl, do you? Very well.
@@ -652,7 +651,7 @@ Dialogue: 0,0:18:02.87,0:18:05.05,Dubtitles,,0,0,0,,It was when we were little k
 Dialogue: 0,0:18:05.13,0:18:07.87,Dubtitles,,0,0,0,,your favorite tropical\Nfish to that stupid cat.
 Dialogue: 0,0:18:07.95,0:18:11.15,Dubtitles,,0,0,0,,You got really angry over\Nit and said you hated me.
 Dialogue: 0,0:18:12.45,0:18:15.37,Dubtitles,,0,0,0,,I admit I was angry that\Nday, but no matter what,
-Dialogue: 0,0:18:15.49,0:18:17.97,Dubtitles,,0,0,0,,I've always loved you more\Nthan the stars in the sky,
+Dialogue: 0,0:18:15.49,0:18:17.97,Dubtitles,,0,0,0,,I've always loved you more\Nthan the stars in the sky.
 Dialogue: 0,0:18:18.05,0:18:19.07,Dubtitles,,0,0,0,,and I still do.
 Dialogue: 0,0:18:20.25,0:18:21.08,Dubtitles,,0,0,0,,Really?
 Dialogue: 0,0:18:21.17,0:18:23.09,Dubtitles,,0,0,0,,You've always loved me,\Nno matter what I did?
@@ -700,8 +699,8 @@ Dialogue: 0,0:21:01.75,0:21:04.43,Dubtitles,,0,0,0,,If you haven't figured\Nit o
 Dialogue: 0,0:21:04.75,0:21:06.09,Dubtitles,,0,0,0,,Not just any stand.
 Dialogue: 0,0:21:06.29,0:21:08.71,Dubtitles,,0,0,0,,The one represented by the judgment card.
 Dialogue: 0,0:21:09.37,0:21:10.27,Dubtitles,,0,0,0,,You see,
-Dialogue: 0,0:21:10.53,0:21:15.25,Dubtitles,,0,0,0,,my powers allow me to extract wishes from\Nthe deepest corners of the human mind.
-Dialogue: 0,0:21:15.33,0:21:17.69,Dubtitles,,0,0,0,,and manifest it from the soil below.
+Dialogue: 0,0:21:10.53,0:21:13.71,Dubtitles,,0,0,0,,my powers allow me to extract\Nwishes from the deepest
+Dialogue: 0,0:21:13.79,0:21:17.69,Dubtitles,,0,0,0,,corners of the human mind and\Nmanifest it from the soil below.
 Dialogue: 0,0:21:17.97,0:21:20.74,Dubtitles,,0,0,0,,You created your sister\Nfrom your own yearning.
 Dialogue: 0,0:21:21.39,0:21:22.65,Dubtitles,,0,0,0,,How dare you?
 Dialogue: 0,0:21:22.83,0:21:26.69,Dubtitles,,0,0,0,,And since you created\Nher, I cannot undo it.
@@ -782,54 +781,46 @@ Dialogue: 2,0:21:37.23,0:21:37.27,SFXGreen,2,0,0,0,,{\bord0\blur1\pos(1581.57,37
 Dialogue: 0,0:21:40.85,0:21:42.61,Dubtitles,,0,0,0,,But don't you remember, Polnareff?
 Dialogue: 0,0:21:42.69,0:21:45.77,Dubtitles,,0,0,0,,You've already made\Nyour third wish. Oh, no.
 Dialogue: 0,0:21:48.09,0:21:49.87,Dubtitles,,0,0,0,,You don't mean him.
-Dialogue: 0,0:22:07.81,0:22:10.49,Dubtitles,,0,0,0,,All the old paintings on the tomb.
-Dialogue: 0,0:22:10.57,0:22:12.53,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
-Dialogue: 0,0:22:12.61,0:22:14.17,Dubtitles,,0,0,0,,If they move too quick.
+Dialogue: 0,0:22:07.81,0:22:11.89,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb. They do the sand dance,
+Dialogue: 0,0:22:12.03,0:22:14.21,Dubtitles,,0,0,0,,don't you know If they move too quick
 Dialogue: 1,0:22:13.22,0:22:15.64,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:22:14.83,0:22:17.19,Dubtitles,,0,0,0,,They're falling down like a domino.
+Dialogue: 0,0:22:14.83,0:22:18.15,Dubtitles,,0,0,0,,They're falling down like\Na domino. All the birds
 Dialogue: 1,0:22:15.64,0:22:17.89,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:22:17.27,0:22:19.85,Dubtitles,,0,0,0,,All the birds are men by the Nile.
 Dialogue: 1,0:22:17.89,0:22:19.35,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:19.93,0:22:21.91,Dubtitles,,0,0,0,,They've got their money on a bed.
+Dialogue: 0,0:22:18.23,0:22:21.53,Dubtitles,,0,0,0,,Are men by the Nile.\NThey've got their money on
 Dialogue: 1,0:22:20.15,0:22:22.61,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:21.99,0:22:23.51,Dubtitles,,0,0,0,,Called crocodiles.
+Dialogue: 0,0:22:21.61,0:22:25.69,Dubtitles,,0,0,0,,a bed Called crocodiles\NThey snap their teeth on
 Dialogue: 1,0:22:22.61,0:22:24.94,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:22:23.59,0:22:26.49,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
 Dialogue: 1,0:22:24.94,0:22:27.28,Lyrics 2,,0,0,0,,They got the money on a bet
-Dialogue: 0,0:22:26.57,0:22:28.81,Dubtitles,,0,0,0,,Falling tight to the hookah. I say.
+Dialogue: 0,0:22:25.77,0:22:28.81,Dubtitles,,0,0,0,,Your cigarette falling\Ntight to the hookah, I say.
 Dialogue: 1,0:22:27.28,0:22:28.78,Lyrics 2,,0,0,0,,Gold crocodiles
 Dialogue: 1,0:22:29.45,0:22:31.91,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
 Dialogue: 1,0:22:31.91,0:22:34.12,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
 Dialogue: 0,0:22:35.33,0:22:37.71,Dubtitles,,0,0,0,,Walk like an Egyptian.
 Dialogue: 1,0:22:41.13,0:22:43.67,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:49.37,0:22:51.09,Dubtitles,,0,0,0,,The blonde waitresses.
-Dialogue: 0,0:22:51.17,0:22:52.49,Dubtitles,,0,0,0,,Take their trays.
-Dialogue: 0,0:22:52.57,0:22:54.47,Dubtitles,,0,0,0,,Spin around and they cross the floor.
-Dialogue: 0,0:22:54.55,0:22:55.99,Dubtitles,,0,0,0,,They've got the moves.
+Dialogue: 0,0:22:49.37,0:22:53.59,Dubtitles,,0,0,0,,The blonde waitresses Take\Ntheir trays Spin around and
+Dialogue: 0,0:22:53.67,0:22:57.63,Dubtitles,,0,0,0,,They cross the floor. They've\Ngot the moves. You drop,
 Dialogue: 1,0:22:55.06,0:22:57.52,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
-Dialogue: 0,0:22:56.07,0:22:57.95,Dubtitles,,0,0,0,,You drop, you drink.
 Dialogue: 1,0:22:57.52,0:22:59.89,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:22:58.03,0:22:59.15,Dubtitles,,0,0,0,,Then they bring you more.
-Dialogue: 0,0:22:59.23,0:23:01.77,Dubtitles,,0,0,0,,All the school kids so sick of books.
+Dialogue: 0,0:22:57.77,0:23:00.27,Dubtitles,,0,0,0,,you drink Then they bring\Nyou more All the school kids
 Dialogue: 1,0:22:59.89,0:23:01.15,Lyrics 2,,0,0,0,,They've got the moves
-Dialogue: 0,0:23:01.85,0:23:03.83,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:23:00.35,0:23:03.83,Dubtitles,,0,0,0,,So sick of books. They're like\Nthe punk and the metal band.
 Dialogue: 1,0:23:02.19,0:23:04.52,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:23:03.91,0:23:05.31,Dubtitles,,0,0,0,,When the buzzer rings.
+Dialogue: 0,0:23:03.91,0:23:08.07,Dubtitles,,0,0,0,,When the buzzer rings, they're\Nwalking like an Egyptian.
 Dialogue: 1,0:23:04.52,0:23:06.86,Lyrics 2,,0,0,0,,All the school kids so sick of books
-Dialogue: 0,0:23:05.39,0:23:08.07,Dubtitles,,0,0,0,,They're walking like an Egyptian.
 Dialogue: 1,0:23:06.86,0:23:09.20,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:23:08.15,0:23:11.43,Dubtitles,,0,0,0,,All the kids in the marketplace say. Walk
+Dialogue: 0,0:23:08.15,0:23:11.43,Dubtitles,,0,0,0,,All the kids in the marketplace say Walk
 Dialogue: 1,0:23:09.20,0:23:10.66,Lyrics 2,,0,0,0,,When the buzzer rings
 Dialogue: 1,0:23:11.49,0:23:13.83,Lyrics 2,,0,0,0,,They're walking like an Egyptian
 Dialogue: 0,0:23:11.51,0:23:18.51,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:23:13.83,0:23:16.04,Lyrics 2,,0,0,0,,All the kids in the marketplace say
-Dialogue: 0,0:23:18.89,0:23:19.72,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:23:22.63,0:23:25.39,Dubtitles,,0,0,0,,When a man uncovers his deepest desires.
+Dialogue: 0,0:23:18.89,0:23:19.72,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:23:22.63,0:23:26.23,Dubtitles,,0,0,0,,When a man uncovers his\Ndeepest desires All of his
 Dialogue: 1,0:23:23.17,0:23:26.25,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:23:25.47,0:23:27.71,Dubtitles,,0,0,0,,All of his weaknesses are laid bare.
+Dialogue: 0,0:23:26.31,0:23:29.09,Dubtitles,,0,0,0,,weaknesses are laid bare\NBecause of your idiotic,
 Dialogue: 2,0:23:27.51,0:23:29.51,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:27.79,0:23:29.91,Dubtitles,,0,0,0,,Because of your idiotic, bumbling eye!
-Dialogue: 0,0:23:29.99,0:23:32.49,Dubtitles,,0,0,0,,After all, I truly didn't\Nthink you'd be this hurt.
+Dialogue: 0,0:23:29.17,0:23:30.00,Dubtitles,,0,0,0,,bumbling eye!
+Dialogue: 0,0:23:30.09,0:23:32.49,Dubtitles,,0,0,0,,After all, I truly didn't\Nthink you'd be this hurt.
 Dialogue: 0,0:23:32.57,0:23:34.46,Dubtitles,,0,0,0,,I'll get better if I eat, right?
 Dialogue: 0,0:23:34.99,0:23:37.37,Dubtitles,,0,0,0,,I know it was only the third wish.
 Dialogue: 1,0:23:38.18,0:23:38.22,SFXRed,P1.1,0,0,0,,{\blur3\frz357.1\pos(378.89,851.68)\alpha&H80&}Grind {In preview for last episode}

@@ -13,15 +13,12 @@ Video Zoom: 6
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: F:/[inid4cFix + SFX Ver.2]  JoJo's Bizarre Adventure - Phantom Blood and Battle Tendency (Blu-Ray 1080p x265 FLAC)/[inid4c] JoJo's Bizarre Adventure 13 (BD 1080p FLAC) [0C2DC7B8].mkv
-Video File: F:/[inid4cFix + SFX Ver.2]  JoJo's Bizarre Adventure - Phantom Blood and Battle Tendency (Blu-Ray 1080p x265 FLAC)/[inid4c] JoJo's Bizarre Adventure 13 (BD 1080p FLAC) [0C2DC7B8].mkv
+Audio File: Episode 013.mkv
+Video File: Episode 013.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2254
-Active Line: 132
-Video Position: 12546
-Data: 111,a-mo,e{"uuid"#3A"b305f401-64b9-4e98-8364-a483a8200159"#2C"originalText"#3A"{\\frz29.49\\pos(421.2#2C220.8)}Rumble"}
+Video Position: 6070
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,10 +27,18 @@ Style: Secondary,Impress BT,72,&H00D6D6D6,&H000000FF,&H00000000,&H00000000,0,0,0
 Style: Narrator,Impress BT,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,10,10,25,1
 Style: Thoughts,Impress BT,72,&H00FFFFFF,&H00FFFFFF,&H005C5C5C,&H00000000,0,0,0,0,100,100,0,0,1,2.3,1.75,2,10,10,25,1
 Style: Lyrics 2,Hobo Std,55,&H00FFFFFF,&H002728AF,&H96000000,&H00000000,-1,-1,0,0,100,100,2,0,1,4,2,8,10,10,25,1
-Style: Title2,Arial,77,&H00FDFFFF,&H000000FF,&H240E0811,&H69000000,0,0,0,0,100,100,3,0,1,2,4,5,90,90,40,1
+Style: Title2,Arial,77,&H00FDFFFF,&H000000FF,&H500E0811,&H96000000,0,0,0,0,100,100,3,0,1,2,3,5,90,90,40,1
 Style: Lyrics OP2 Eng,Chinacat,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,25,1
 Style: Lyrics OP2 Jap,Chinacat,52,&H00EC2C95,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,110,100,0,0,1,4,2,8,10,10,25,1
 Style: blueboxen,Consolas,38,&H00FCFFF4,&H000000FF,&H00784337,&H00000000,0,0,0,0,100,105,0,0,1,2,0,5,10,10,10,1
+Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
+Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
+Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
+Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
 Style: PowerLevels,Univers LT Std 55,28,&H00FFFFFF,&H000000FF,&H508A6E63,&H96000000,0,0,0,0,65,100,3,0,1,2,0,3,90,90,40,1
 Style: SFX,Shaky Hand Some Comic Bold,170,&H0036DB4C,&H000000FF,&H000F1615,&H00000000,-1,0,0,0,130,100,0,0,1,14,0,8,50,40,20,1
 Style: SFXBrown,Shaky Hand Some Comic Bold,170,&H0041A5DD,&H000000FF,&H001A2529,&H00000000,-1,0,0,0,130,100,0,0,1,13,0,8,50,40,20,1
@@ -56,15 +61,7 @@ Style: SFXSand - Copy - Copy,LeviNaiveLetter,150,&H19A3B3C0,&H000000FF,&H31544F5
 Style: SFXBlue - Copy (2),Rene Levesque,150,&H00C7A551,&H000000FF,&H00313728,&H00000000,-1,0,0,0,120,100,0,0,1,10,0,7,50,40,20,1
 Style: SFXBlue3,Rene Levesque,150,&H00A03623,&H000000FF,&H0031140C,&H00000000,-1,0,0,0,120,100,0,0,1,9,0,9,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -174,9 +171,9 @@ Dialogue: 1,0:01:23.58,0:01:26.96,Lyrics OP2 Jap,,0,0,0,,Toki wo koe
 Dialogue: 1,0:01:23.58,0:01:26.96,Lyrics OP2 Eng,,0,0,0,,To the dawn of a new day
 Dialogue: 3,0:01:26.96,0:01:34.21,Lyrics OP2 Jap,,0,0,0,,Shinku no chishio ga
 Dialogue: 1,0:01:26.96,0:01:34.21,Lyrics OP2 Eng,,0,0,0,,The river of crimson blood within you
-Dialogue: 1,0:01:34.97,0:01:40.76,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuki wo hikiawaseru
-Dialogue: 1,0:01:34.97,0:01:40.76,Lyrics OP2 Eng,,0,0,0,,Carries with it the courage to stand and fight
 Dialogue: 1,0:01:34.97,0:01:40.76,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuuki wo hikiawaseru
+Dialogue: 1,0:01:34.97,0:01:40.76,Lyrics OP2 Eng,,0,0,0,,Carries with it the courage to stand and fight
+Dialogue: 1,0:01:34.97,0:01:40.76,Lyrics OP2 Jap,,0,0,0,,Tachiagaru yuki wo hikiawaseru
 Dialogue: 1,0:01:41.76,0:01:49.48,Lyrics OP2 Jap,,0,0,0,,Uketsugu ai wo sadame to yobu nara
 Dialogue: 1,0:01:41.76,0:01:49.48,Lyrics OP2 Eng,,0,0,0,,Even if the love I feel is just part of my legacy...
 Dialogue: 1,0:01:49.48,0:01:55.57,Lyrics OP2 Jap,,0,0,0,,Hohoemu me de tsugi no te wo
@@ -189,23 +186,23 @@ Dialogue: 1,0:02:06.04,0:02:11.46,Lyrics OP2 Jap,,0,0,0,,Tsuranuita omoi ga mira
 Dialogue: 1,0:02:06.04,0:02:11.46,Lyrics OP2 Eng,,0,0,0,,The emotions running through me blaze a path to the future...
 Dialogue: 1,0:02:13.30,0:02:14.55,Lyrics OP2 Jap,,0,0,0,,Like a bloody storm
 Dialogue: 1,0:02:13.30,0:02:14.55,Lyrics OP2 Eng,,0,0,0,,Like a bloody storm
-Dialogue: 1,0:02:14.55,0:02:16.80,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody stone
-Dialogue: 1,0:02:14.55,0:02:16.80,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody stone
 Dialogue: 1,0:02:14.55,0:02:16.80,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody storm
 Dialogue: 1,0:02:14.55,0:02:16.80,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody storm
+Dialogue: 1,0:02:14.55,0:02:16.80,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody stone
+Dialogue: 1,0:02:14.55,0:02:16.80,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody stone
 Dialogue: 1,0:02:16.80,0:02:20.64,Lyrics OP2 Jap,,0,0,0,,Ketsumyaku ni kizamareta innen ni
 Dialogue: 1,0:02:16.80,0:02:20.64,Lyrics OP2 Eng,,0,0,0,,When the time comes to end the vendetta carried by our blood
 Dialogue: 1,0:02:20.64,0:02:26.43,Lyrics OP2 Jap,,0,0,0,,Ukiagaru kienai hokori no kizuna
 Dialogue: 1,0:02:20.64,0:02:26.43,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds of pride will carry you through any storm
 Dialogue: 1,0:02:26.43,0:02:31.48,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:02:26.43,0:02:31.48,Lyrics OP2 Eng,,0,0,0,,So hold them close.
-Dialogue: 1,0:02:36.92,0:02:42.89,Title2,,0,0,0,,{\fad(1000,800)\pos(1160,865)\fs65\blur1}Episode 13: "JoJo vs. the Ultimate Lifeform" {Let me know if this is the final title. I had to lower the font size and move it over a lot to get it to fit} {I wanted to have "Versus" fully spelled out, so fix this if need be.}
 Dialogue: 1,0:02:36.92,0:02:42.89,Title2,,0,0,0,,{\fad(1000,800)\pos(1160,865)\fs(65)\fscx(92)}Episode 13: "Jojo Versus The Ultimate Life Form" {Let me know if this is the final title. I had to lower the font size and move it over a lot to get it to fit} {I wanted to have "Versus" fully spelled out, so fix this if need be.}
+Dialogue: 1,0:02:36.92,0:02:42.89,Title2,,0,0,0,,{\fad(1000,800)\pos(1160,865)\fs65\blur1}Episode 13: "JoJo vs. the Ultimate Lifeform" {Let me know if this is the final title. I had to lower the font size and move it over a lot to get it to fit} {I wanted to have "Versus" fully spelled out, so fix this if need be.}
 Dialogue: 0,0:02:37.76,0:02:39.12,Dubtitles,,0,0,0,,Come on, big guy.
-Dialogue: 0,0:02:39.48,0:02:41.30,Dubtitles,,0,0,0,,Smile at the birdie. Jojo!
+Dialogue: 0,0:02:39.48,0:02:41.30,Dubtitles,,0,0,0,,Smile at the birdie, Jojo!
 Dialogue: 0,0:02:41.52,0:02:43.18,Dubtitles,,0,0,0,,Stop this nonsense immediately!
 Dialogue: 0,0:02:43.26,0:02:44.18,Dubtitles,,0,0,0,,Don't provoke him!
-Dialogue: 0,0:02:44.26,0:02:47.08,Dubtitles,,0,0,0,,Please, Jojo, send me\Ninto his dangerous! Yeah.
+Dialogue: 0,0:02:44.26,0:02:47.08,Dubtitles,,0,0,0,,Please, Jojo, send me\Ninto his danger! Yeah.
 Dialogue: 0,0:02:47.54,0:02:51.66,Dubtitles,,0,0,0,,I know you think he's dangerous, but I\Nhave a theory that maybe he's not so bad.
 Dialogue: 0,0:02:51.74,0:02:53.32,Dubtitles,,0,0,0,,Let me test something out here.
 Dialogue: 0,0:02:53.40,0:02:57.18,Dubtitles,,0,0,0,,I don't want to assume he's evil just\Nbecause he killed a bunch of brainless...
@@ -221,14 +218,12 @@ Dialogue: 0,0:03:16.82,0:03:18.72,Dubtitles,,0,0,0,,Anyway, I'm not here to figh
 Dialogue: 0,0:03:18.96,0:03:20.50,Dubtitles,,0,0,0,,And I'm feeling generous.
 Dialogue: 0,0:03:20.96,0:03:22.70,Dubtitles,,0,0,0,,Come on, loosen up, big guy.
 Dialogue: 0,0:03:22.94,0:03:24.48,Dubtitles,,0,0,0,,How about that smile?
-Dialogue: 0,0:03:30.70,0:03:31.70,Dubtitles,,0,0,0,,That was rude.
-Dialogue: 0,0:03:31.78,0:03:34.36,Dubtitles,,0,0,0,,He just walked through me\Nlike I wasn't even there.
-Dialogue: 0,0:03:34.44,0:03:36.64,Dubtitles,,0,0,0,,Who the hell does this guy think he is?
-Dialogue: 0,0:03:36.72,0:03:38.90,Dubtitles,,0,0,0,,Maybe I should teach him a quick lesson.
-Dialogue: 0,0:03:38.98,0:03:40.30,Dubtitles,,0,0,0,,Have a nice trip.
-Dialogue: 0,0:03:40.38,0:03:46.70,Dubtitles,,0,0,0,,What the
-Dialogue: 0,0:03:46.78,0:03:47.61,Dubtitles,,0,0,0,,hell was that?
-Dialogue: 0,0:03:47.69,0:03:50.86,Dubtitles,,0,0,0,,That was the weirdest feeling and it hurt.
+Dialogue: 0,0:03:30.70,0:03:33.76,Dubtitles,,0,0,0,,that was rude he just walked\Nthrough me like I wasn't
+Dialogue: 0,0:03:33.84,0:03:37.52,Dubtitles,,0,0,0,,even there who the hell does\Nthis guy think he is maybe I
+Dialogue: 0,0:03:37.60,0:03:38.43,Dubtitles,,0,0,0,,should teach him a quick
+Dialogue: 0,0:03:38.51,0:03:40.30,Dubtitles,,0,0,0,,lesson have a nice trip
+Dialogue: 0,0:03:40.38,0:03:46.70,Dubtitles,,0,0,0,,what the
+Dialogue: 0,0:03:46.78,0:03:50.86,Dubtitles,,0,0,0,,hell was that that was the\Nweirdest feeling and it hurt
 Dialogue: 0,0:03:58.74,0:04:00.08,Dubtitles,,0,0,0,,What is this?
 Dialogue: 0,0:04:00.20,0:04:05.16,Dubtitles,,0,0,0,,This tool, cold and long,\Nwith many different pieces.
 Dialogue: 0,0:04:05.38,0:04:06.50,Dubtitles,,0,0,0,,He does understand!
@@ -386,8 +381,6 @@ Dialogue: 0,0:04:53.66,0:04:54.68,Dubtitles,,0,0,0,,Jojo, get away!
 Dialogue: 0,0:04:56.56,0:04:58.50,Dubtitles,,0,0,0,,You are playing games, Primitive.
 Dialogue: 0,0:04:58.62,0:05:01.28,Dubtitles,,0,0,0,,I do not want to play games.
 Dialogue: 0,0:05:04.34,0:05:05.38,Dubtitles,,0,0,0,,What the?
-Dialogue: 1,0:05:07.49,0:05:14.16,blueboxen,,0,0,0,,{\fs23\fscy87\fscx110\be1\pos(1245,835)}Maximum Length
-Dialogue: 1,0:05:07.49,0:05:14.16,blueboxen,,0,0,0,,{\fs23\fscy87\fscx110\be1\pos(1245,920)}Maximum Pressure{fuck it, let's cheat it!}
 Dialogue: 1,0:05:07.49,0:05:14.16,blueboxen,,0,0,0,,{\fs23\fscy(87)\fscx(110)\be1\pos(1245,835)}Maximum Length
 Dialogue: 1,0:05:07.49,0:05:14.16,blueboxen,,0,0,0,,{\fs23\fscy(87)\fscx(110)\be1\pos(1245,920)}Maximum Pressure{fuck it, let's cheat it!}
 Dialogue: 1,0:05:07.74,0:05:07.87,blueboxen,,0,0,0,,{\fs29\be1\3c&HC8AF9E&\pos(1273,702)\clip(1186,674,1220,721)}Rib{\3c&H9C7B6D&} Blades
@@ -416,13 +409,12 @@ Dialogue: 1,0:05:11.87,0:05:12.04,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c
 Dialogue: 1,0:05:12.04,0:05:12.20,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&HC8AF9E&\pos(1336,772)\clip(1182,756,1418,786)}Each rib {\3c&H9C7B6D&}can rotate and{\3c&HC8AF9E&} extend
 Dialogue: 1,0:05:12.20,0:05:12.37,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&HC8AF9E&\pos(1336,772)\clip(1182,750,1439,788)}Each rib {\3c&H9C7B6D&}can rotate and{\3c&HC8AF9E&} extend
 Dialogue: 1,0:05:12.37,0:05:12.54,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&HC8AF9E&\pos(1336,772)\clip(1188,748,1458,795)}Each rib {\3c&H9C7B6D&}can rotate and{\3c&HC8AF9E&} extend
-Dialogue: 1,0:05:12.54,0:05:14.16,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&HC8AF9E&\pos(1336,772)}Each rib {\3c&H9C7B6D&}can rotate and{\3c&HC8AF9E&} extend
 Dialogue: 1,0:05:12.54,0:05:14.16,blueboxen,,0,0,0,,{\fs18\fscy(87)\fscx(110)\be1\3c&HC8AF9E&\pos(1336,772)}Each rib {\3c&H9C7B6D&}can rotate and{\3c&HC8AF9E&} extend
 Dialogue: 1,0:05:13.37,0:05:13.58,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&H9C7B6D&\pos(1680,772)\clip(1576,746,1630,794)}in any direction
 Dialogue: 1,0:05:13.58,0:05:13.79,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&H9C7B6D&\pos(1680,772)\clip(1584,752,1664,792)}in any direction
 Dialogue: 1,0:05:13.79,0:05:13.96,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&H9C7B6D&\pos(1680,772)\clip(1586,754,1690,792)}in any direction
 Dialogue: 1,0:05:13.96,0:05:14.16,blueboxen,,0,0,0,,{\fs18\fscy87\fscx110\be1\3c&H9C7B6D&\pos(1680,772)}in any direction
-Dialogue: 0,0:05:25.02,0:05:26.46,Dubtitles,,0,0,0,,Sparks energy.
+Dialogue: 0,0:05:25.02,0:05:26.46,Dubtitles,,0,0,0,,Sparks... energy.
 Dialogue: 0,0:05:27.28,0:05:30.42,Dubtitles,,0,0,0,,This human seems\Ndifferent from the others.
 Dialogue: 0,0:05:30.86,0:05:34.54,Dubtitles,,0,0,0,,I was not able to absorb\Nhis body into mine.
 Dialogue: 0,0:05:34.88,0:05:36.68,Dubtitles,,0,0,0,,He just flew away.
@@ -549,7 +541,7 @@ Dialogue: 1,0:08:34.03,0:08:34.07,SFXHotCheetosXXtraSpicy,4,0,0,0,,{=111}{\blur0
 Dialogue: 2,0:08:34.03,0:08:34.07,SFXHotCheetosXXtraSpicy,4,0,0,0,,{=111}{\blur0.7\bord0\fscx125.91\fscy96.85\frz29.39\pos(417.13,99.07)\4a&HFF&}Rumble
 Dialogue: 1,0:08:34.07,0:08:34.11,SFXHotCheetosXXtraSpicy,4,0,0,0,,{=111}{\blur0.7\bord9.79\fscx127.28\fscy97.91\frz29.16\pos(437.75,93.03)\c&H070E1B&}Rumble
 Dialogue: 2,0:08:34.07,0:08:34.11,SFXHotCheetosXXtraSpicy,4,0,0,0,,{=111}{\blur0.7\bord0\fscx127.28\fscy97.91\frz29.16\pos(437.75,93.03)\4a&HFF&}Rumble
-Dialogue: 0,0:08:36.58,0:08:41.05,Dubtitles,,0,0,0,,Let's see if I can inject some hormone\Ninto his system with something sharp!
+Dialogue: 0,0:08:36.58,0:08:41.05,Dubtitles,,0,0,0,,Let's see if I can inject some Hamon\Ninto his system with something sharp!
 Dialogue: 1,0:08:41.00,0:08:41.04,SFXBlue,5,0,0,0,,{=97}{\blur0.8\bord5.54\fscx49.89\fscy55.44\fade(255,0,255,0,0,1280,1580)\frz17.61\pos(1060.16,351.2)\c&H20232C&}Stretch
 Dialogue: 2,0:08:41.00,0:08:41.04,SFXBlue,5,0,0,0,,{=97}{\blur0.8\bord0\fscx49.89\fscy55.44\fade(255,0,255,0,0,1280,1580)\frz17.61\pos(1060.16,351.2)\4a&HFF&}Stretch
 Dialogue: 1,0:08:41.04,0:08:41.08,SFXBlue,5,0,0,0,,{=97}{\blur0.8\bord5.54\fscx49.89\fscy55.44\fade(255,0,255,-40,-40,1240,1540)\frz17.61\pos(1069.01,467.02)\c&H20232C&}Stretch
@@ -1029,7 +1021,7 @@ Dialogue: 0,0:09:15.48,0:09:18.46,Dubtitles,,0,0,0,,He seems to create his own e
 Dialogue: 0,0:09:18.86,0:09:20.90,Dubtitles,,0,0,0,,He controls it with his breathing.
 Dialogue: 0,0:09:21.40,0:09:27.12,Dubtitles,,0,0,0,,But lying there now, unconscious, he\Nis as vulnerable as any other human.
 Dialogue: 0,0:09:27.92,0:09:28.75,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:09:28.83,0:09:31.23,Dubtitles,,0,0,0,,You've got to use your harm on breathing!
+Dialogue: 0,0:09:28.83,0:09:31.23,Dubtitles,,0,0,0,,You've got to use your Hamon breathing!
 Dialogue: 1,0:09:32.71,0:09:32.76,SFXPink,10,0,0,0,,{=90}{\blur1\bord12.13\fscx109.13\fscy121.25\alpha&H00&\pos(2157.21,883.97)\frz355.5\c&H251922&}Grab
 Dialogue: 2,0:09:32.71,0:09:32.76,SFXPink,10,0,0,0,,{=90}{\blur1\bord0\fscx109.13\fscy121.25\alpha&H00&\pos(2157.21,883.97)\frz355.5\4a&HFF&}G{*\c&HB970A9&}r{*\c&HBF7BB1&}a{\c&HC585B8&}b
 Dialogue: 1,0:09:32.76,0:09:32.80,SFXPink,10,0,0,0,,{=90}{\blur1\bord10.65\fscx95.86\fscy106.51\alpha&H00&\pos(1927.26,766.23)\frz355.5\c&H251922&}Grab
@@ -1374,7 +1366,7 @@ Dialogue: 0,0:10:48.26,0:10:50.48,Dubtitles,,0,0,0,,making it possible to dissol
 Dialogue: 0,0:10:50.56,0:10:54.97,Dubtitles,,0,0,0,,It looks like he's absorbing them, when\Nactually he's digesting them whole.
 Dialogue: 0,0:10:55.86,0:10:59.00,Dubtitles,,0,0,0,,Harmon, that was what kept\Nme from being digested.
 Dialogue: 0,0:10:59.18,0:11:01.72,Dubtitles,,0,0,0,,I sent it inside him\Nwhen he tried to eat me.
-Dialogue: 0,0:11:01.80,0:11:03.92,Dubtitles,,0,0,0,,Jojo, your Harmon wasn't enough.
+Dialogue: 0,0:11:01.80,0:11:03.92,Dubtitles,,0,0,0,,Jojo, your Hamon wasn't enough.
 Dialogue: 0,0:11:04.14,0:11:07.43,Dubtitles,,0,0,0,,You have to find a way to\Ncompletely destroy San Viento.
 Dialogue: 1,0:11:17.57,0:11:17.61,SFXGray,12,0,0,0,,{=71}{\blur0.8\frz34.45\pos(1679.15,-2.15)\c&H0F100E&}Clang
 Dialogue: 2,0:11:17.57,0:11:17.61,SFXGray,12,0,0,0,,{=71}{\bord0\blur0.8\frz34.45\pos(1679.15,-2.15)\4a&HFF&}C{*\c&HC9C0AE&}l{*\c&HD5CEBF&}a{*\c&HE1DDD0&}n{\c&HEDECE2&}g
@@ -1399,7 +1391,7 @@ Dialogue: 2,0:11:18.24,0:11:18.32,SFXGray,12,0,0,0,,{=71}{\bord0\blur0.8\frz34.4
 Dialogue: 1,0:11:18.32,0:11:18.40,SFXGray,12,0,0,0,,{=71}{\blur0.8\frz34.45\pos(645.01,911.59)\c&H0F100E&}Clang
 Dialogue: 2,0:11:18.32,0:11:18.40,SFXGray,12,0,0,0,,{=71}{\bord0\blur0.8\frz34.45\pos(645.01,911.59)\4a&HFF&}C{*\c&HC9C0AE&}l{*\c&HD5CEBF&}a{*\c&HE1DDD0&}n{\c&HEDECE2&}g
 Dialogue: 0,0:11:19.92,0:11:24.00,Dubtitles,,0,0,0,,The separated parts of San Viento\Nare trying to connect to one another.
-Dialogue: 0,0:11:24.08,0:11:26.64,Dubtitles,,0,0,0,,That's pretty much exactly\Nwhat happened with Streetser.
+Dialogue: 0,0:11:24.08,0:11:26.64,Dubtitles,,0,0,0,,That's pretty much exactly\Nwhat happened with Straits.
 Dialogue: 0,0:11:26.72,0:11:30.08,Dubtitles,,0,0,0,,Lucky me, I figured you would\Ntry to go and do the same thing.
 Dialogue: 0,0:11:30.16,0:11:31.22,Dubtitles,,0,0,0,,Von Stroheim!
 Dialogue: 0,0:11:36.74,0:11:38.62,Dubtitles,,0,0,0,,Come on, get a hold of yourself!
@@ -1413,7 +1405,7 @@ Dialogue: 0,0:12:01.30,0:12:02.42,Dubtitles,,0,0,0,,What are you doing?
 Dialogue: 0,0:12:02.58,0:12:06.04,Dubtitles,,0,0,0,,You can't let San Viento\Nescape into the outside world!
 Dialogue: 0,0:12:06.12,0:12:10.02,Dubtitles,,0,0,0,,On the contrary, I think he needs\Nto go on a nice sunlit stroll.
 Dialogue: 0,0:12:14.66,0:12:16.25,Dubtitles,,0,0,0,,He's running out of breath.
-Dialogue: 0,0:12:16.92,0:12:19.27,Dubtitles,,0,0,0,,He won't be able to control his harmone.
+Dialogue: 0,0:12:16.92,0:12:19.27,Dubtitles,,0,0,0,,He won't be able to control his Hamon.
 Dialogue: 0,0:12:19.42,0:12:21.24,Dubtitles,,0,0,0,,He hasn't had enough training with it.
 Dialogue: 0,0:12:21.32,0:12:23.67,Dubtitles,,0,0,0,,This fight has completely exhausted him.
 Dialogue: 0,0:12:24.52,0:12:28.30,Dubtitles,,0,0,0,,Cease this foolishness\Nnow, you lowly primitive.
@@ -1430,22 +1422,22 @@ Dialogue: 0,0:13:04.70,0:13:05.72,Dubtitles,,0,0,0,,I feel so heavy!
 Dialogue: 0,0:13:06.76,0:13:07.59,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:13:07.68,0:13:09.12,Dubtitles,,0,0,0,,What's happening to me?
 Dialogue: 0,0:13:10.06,0:13:13.42,Dubtitles,,0,0,0,,Meat invade, also known as foul flesh.
-Dialogue: 1,0:13:10.22,0:13:10.39,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1464,702,1512,746)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:10.22,0:13:10.39,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1464,702,1512,746)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:10.39,0:13:10.51,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1458,694,1530,744)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:10.22,0:13:10.39,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1464,702,1512,746)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:10.39,0:13:10.51,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1458,694,1530,744)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:10.51,0:13:10.81,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1460,694,1556,746)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:10.39,0:13:10.51,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1458,694,1530,744)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:10.51,0:13:10.81,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1460,694,1556,746)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:10.81,0:13:10.93,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1460,698,1600,750)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:10.51,0:13:10.81,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1460,694,1556,746)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:10.81,0:13:10.93,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1460,698,1600,750)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:10.93,0:13:11.06,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1454,684,1636,766)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:10.81,0:13:10.93,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1460,698,1600,750)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:10.93,0:13:11.06,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1454,684,1636,766)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:11.06,0:13:11.22,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1462,694,1672,758)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:10.93,0:13:11.06,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1454,684,1636,766)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:11.06,0:13:11.22,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1462,694,1672,758)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:11.22,0:13:11.35,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1464,692,1688,758)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:11.06,0:13:11.22,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1462,694,1672,758)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:11.22,0:13:11.35,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1464,692,1688,758)}Meat{\3c&H9C7B6D&} Invaders
-Dialogue: 1,0:13:11.35,0:13:14.14,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)}Meat{\3c&H9C7B6D&} Invade
+Dialogue: 1,0:13:11.22,0:13:11.35,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)\clip(1464,692,1688,758)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:11.35,0:13:14.14,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)}Meat{\3c&H9C7B6D&} Invaders
+Dialogue: 1,0:13:11.35,0:13:14.14,blueboxen,,0,0,0,,{\be1\3c&HC8AF9E&\pos(1591,722)}Meat{\3c&H9C7B6D&} Invade
 Dialogue: 1,0:13:11.89,0:13:12.02,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)\clip(m 1396 796 l 1409 798 1405 811 1408 826 1393 829)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
 Dialogue: 1,0:13:12.02,0:13:12.10,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)\clip(1380,792,1508,830)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
 Dialogue: 1,0:13:12.10,0:13:12.64,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)\clip(1364,786,1570,840)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
@@ -1453,7 +1445,6 @@ Dialogue: 1,0:13:12.64,0:13:12.85,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E
 Dialogue: 1,0:13:12.85,0:13:13.06,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)\clip(1384,788,1660,854)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
 Dialogue: 1,0:13:13.06,0:13:13.31,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)\clip(1390,786,1720,846)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
 Dialogue: 1,0:13:13.31,0:13:13.52,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)\clip(m 1387 793 l 1771 799 1778 814 1774 827 1389 831)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
-Dialogue: 1,0:13:13.52,0:13:14.14,blueboxen,,0,0,0,,{\fs27\fscx83\be1\3c&HC8AF9E&\pos(1591,812)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh) {Wiki calls this "Malevolent Meat Morsels" but that sounds kinda stupid.}
 Dialogue: 1,0:13:13.52,0:13:14.14,blueboxen,,0,0,0,,{\fs27\fscx(83)\be1\3c&HC8AF9E&\pos(1591,812)}(Alternate Name: {\3c&H9C7B6D&}The Ferocious Flesh)
 Dialogue: 0,0:13:13.92,0:13:16.10,Dubtitles,,0,0,0,,They're pieces of his flesh!
 Dialogue: 0,0:13:17.40,0:13:18.23,Dubtitles,,0,0,0,,They're...
@@ -1559,10 +1550,10 @@ Dialogue: 0,0:15:29.30,0:15:30.13,Dubtitles,,0,0,0,,Ow!
 Dialogue: 0,0:15:30.28,0:15:34.98,Dubtitles,,0,0,0,,I figured this guy was just some bloated\Npower monger, but I gotta hand it to him.
 Dialogue: 0,0:15:35.06,0:15:36.18,Dubtitles,,0,0,0,,He's got guts.
 Dialogue: 0,0:15:36.66,0:15:42.06,Dubtitles,,0,0,0,,I wish there was some other way, but if\Nhe's courageous enough, then forgive me!
-Dialogue: 0,0:15:59.86,0:16:00.69,Dubtitles,,0,0,0,,Aaaaah!
-Dialogue: 0,0:16:05.10,0:16:08.51,Dubtitles,,0,0,0,,Tell me big guy, how does that\Nsunshine feel on your skin?
-Dialogue: 0,0:16:09.24,0:16:10.07,Dubtitles,,0,0,0,,Aaaaah!
-Dialogue: 0,0:16:11.86,0:16:13.22,Dubtitles,,0,0,0,,He did it!
+Dialogue: 0,0:15:59.96,0:16:00.79,Dubtitles,,0,0,0,,Aaaaaaahhh!
+Dialogue: 0,0:16:04.62,0:16:08.12,Dubtitles,,0,0,0,,Tell me, big guy, how does that\Nsunshine feel on your skin?
+Dialogue: 0,0:16:09.28,0:16:10.11,Dubtitles,,0,0,0,,Aaaaaahhh!
+Dialogue: 0,0:16:12.06,0:16:13.80,Dubtitles,,0,0,0,,He did it...
 Dialogue: 1,0:16:18.04,0:16:18.08,SFXRed,13,0,0,0,,{=91}{\blur10\bord6.17\fscx79.08\fscy68.52\alpha&H80&\frz6.945\pos(836.5,570.77)}Crush
 Dialogue: 2,0:16:18.04,0:16:18.08,SFXRed,13,0,0,0,,{=91}{\blur1.1\bord6.17\fscx79.08\fscy68.52\alpha&H00&\frz6.945\pos(836.5,570.77)\c&H34282D&}Crush
 Dialogue: 3,0:16:18.04,0:16:18.08,SFXRed,13,0,0,0,,{=91}{\blur1.1\bord0\fscx79.08\fscy68.52\alpha&H00&\frz6.945\pos(836.5,570.77)\4a&HFF&}Crush
@@ -1881,7 +1872,6 @@ Dialogue: 1,0:16:21.04,0:16:21.08,SFXSand,14.2,0,0,0,,{=81}{\blur1.1\fade(255,0,
 Dialogue: 2,0:16:21.04,0:16:21.08,SFXSand,14.2,0,0,0,,{=81}{\bord0\blur1.1\fade(255,0,255,-1630,-1530,210,210)\frz341.7\pos(1703.58,113.17)\4a&HFF&\fscx120}T{*}w{*}i{*}st
 Dialogue: 1,0:16:21.04,0:16:21.08,SFXSand - Copy - Copy,14.3,0,0,0,,{=82}{\blur1.1\fade(255,0,255,-1630,-1530,210,210)\frz348.3\pos(1733.6,636.75)\c&H544F54&\fscx110}Twist
 Dialogue: 2,0:16:21.04,0:16:21.08,SFXSand - Copy - Copy,14.3,0,0,0,,{=82}{\bord0\blur1.1\fade(255,0,255,-1630,-1530,210,210)\frz348.3\pos(1733.6,636.75)\4a&HFF&\fscx110}Twist
-Dialogue: 0,0:16:21.06,0:16:22.20,Dubtitles,,0,0,0,,What's he doing?
 Dialogue: 1,0:16:21.08,0:16:21.12,SFXSand,14.1,0,0,0,,{=80}{\blur1.1\fade(255,0,255,-1670,-1570,170,170)\frz1.373\pos(354.6,276.23)\c&H6E5D5D&\fscx120}Twist
 Dialogue: 2,0:16:21.08,0:16:21.12,SFXSand,14.1,0,0,0,,{=80}{\bord0\blur1.1\fade(255,0,255,-1670,-1570,170,170)\frz1.373\pos(354.6,276.23)\4a&HFF&\fscx120}Twist
 Dialogue: 1,0:16:21.08,0:16:21.12,SFXSand,14.2,0,0,0,,{=81}{\blur1.1\fade(255,0,255,-1670,-1570,170,170)\3c&HACA8A0&\c&HACA8A0&\frz341.7\pos(1716.82,94.6)\fscx120}T{*\3c&HA39D95&}w{*\3c&H9A928A&}i{*\3c&H90887F&}s{\3c&H877D74&}t
@@ -1900,79 +1890,83 @@ Dialogue: 1,0:16:21.16,0:16:21.21,SFXSand,14.2,0,0,0,,{=81}{\blur1.1\fade(255,0,
 Dialogue: 2,0:16:21.16,0:16:21.21,SFXSand,14.2,0,0,0,,{=81}{\bord0\blur1.1\fade(255,0,255,-1750,-1650,90,90)\frz341.7\pos(1695.29,92.91)\4a&HFF&\fscx120}T{*}w{*}i{*}st
 Dialogue: 1,0:16:21.16,0:16:21.21,SFXSand - Copy - Copy,14.3,0,0,0,,{=82}{\blur1.1\fade(255,0,255,-1750,-1650,90,90)\frz348.3\pos(1766.21,648.45)\c&H544F54&\fscx110}Twist
 Dialogue: 2,0:16:21.16,0:16:21.21,SFXSand - Copy - Copy,14.3,0,0,0,,{=82}{\bord0\blur1.1\fade(255,0,255,-1750,-1650,90,90)\frz348.3\pos(1766.21,648.45)\4a&HFF&\fscx110}Twist
+Dialogue: 0,0:16:21.16,0:16:23.20,Dubtitles,,0,0,0,,What's he doing?!
 Dialogue: 1,0:16:21.21,0:16:21.25,SFXSand,14.1,0,0,0,,{=80}{\blur1.1\fade(255,0,255,-1790,-1690,50,50)\frz1.373\pos(353.9,287.76)\c&H6E5D5D&\fscx120}Twist
 Dialogue: 2,0:16:21.21,0:16:21.25,SFXSand,14.1,0,0,0,,{=80}{\bord0\blur1.1\fade(255,0,255,-1790,-1690,50,50)\frz1.373\pos(353.9,287.76)\4a&HFF&\fscx120}Twist
 Dialogue: 1,0:16:21.21,0:16:21.25,SFXSand,14.2,0,0,0,,{=81}{\blur1.1\fade(255,0,255,-1790,-1690,50,50)\3c&HACA8A0&\c&HACA8A0&\frz341.7\pos(1710.03,94.93)\fscx120}T{*\3c&HA39D95&}w{*\3c&H9A928A&}i{*\3c&H90887F&}s{\3c&H877D74&}t
 Dialogue: 2,0:16:21.21,0:16:21.25,SFXSand,14.2,0,0,0,,{=81}{\bord0\blur1.1\fade(255,0,255,-1790,-1690,50,50)\frz341.7\pos(1710.03,94.93)\4a&HFF&\fscx120}T{*}w{*}i{*}st
 Dialogue: 1,0:16:21.21,0:16:21.25,SFXSand - Copy - Copy,14.3,0,0,0,,{=82}{\blur1.1\fade(255,0,255,-1790,-1690,50,50)\frz348.3\pos(1754.18,658.97)\c&H544F54&\fscx110}Twist
 Dialogue: 2,0:16:21.21,0:16:21.25,SFXSand - Copy - Copy,14.3,0,0,0,,{=82}{\bord0\blur1.1\fade(255,0,255,-1790,-1690,50,50)\frz348.3\pos(1754.18,658.97)\4a&HFF&\fscx110}Twist
-Dialogue: 0,0:16:25.36,0:16:26.19,Dubtitles,,0,0,0,,Aaaaaah!
-Dialogue: 0,0:16:26.27,0:16:27.34,Dubtitles,,0,0,0,,Help me!
-Dialogue: 0,0:16:27.52,0:16:30.12,Dubtitles,,0,0,0,,That monster's trying\Nto crawl inside my leg!
-Dialogue: 0,0:16:30.20,0:16:31.49,Dubtitles,,0,0,0,,Get out of there, you!
-Dialogue: 0,0:16:33.88,0:16:35.68,Dubtitles,,0,0,0,,Whoa, this is a shock.
-Dialogue: 0,0:16:36.20,0:16:39.55,Dubtitles,,0,0,0,,Von Stroheim's basically okay,\Nand he's free of any harm.
+Dialogue: 0,0:16:26.50,0:16:27.33,Dubtitles,,0,0,0,,Help me!
+Dialogue: 0,0:16:27.54,0:16:30.18,Dubtitles,,0,0,0,,That monster is trying\Nto crawl inside my leg!
+Dialogue: 0,0:16:30.26,0:16:31.55,Dubtitles,,0,0,0,,Get out of there, you!
+Dialogue: 0,0:16:34.40,0:16:36.12,Dubtitles,,0,0,0,,Whoa, this is a shock.
+Dialogue: 0,0:16:36.20,0:16:39.85,Dubtitles,,0,0,0,,Von Stroheim's basically okay\Nand he's free of any harm on it.
 Dialogue: 0,0:16:45.14,0:16:45.97,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:16:46.10,0:16:48.20,Dubtitles,,0,0,0,,You get out of me! Run, Viento!
-Dialogue: 0,0:16:49.16,0:16:51.50,Dubtitles,,0,0,0,,I can't believe this thing's willpower.
+Dialogue: 0,0:16:46.14,0:16:48.12,Dubtitles,,0,0,0,,You get out of me! Son Bind!
+Dialogue: 0,0:16:48.20,0:16:51.50,Dubtitles,,0,0,0,,I can't believe this thing's willpower.
 Dialogue: 0,0:16:51.76,0:16:53.70,Dubtitles,,0,0,0,,I've never seen anything like it.
-Dialogue: 0,0:16:56.06,0:17:00.80,Dubtitles,,0,0,0,,If he stays inside von Stroheim, he'll be\Ntotally fine even here in broad daylight!
-Dialogue: 0,0:17:00.88,0:17:02.36,Dubtitles,,0,0,0,,I can feel him!
-Dialogue: 0,0:17:02.60,0:17:03.98,Dubtitles,,0,0,0,,This can't be real!
-Dialogue: 0,0:17:04.42,0:17:07.50,Dubtitles,,0,0,0,,Do you want to know what the\Nworst part about this is?
-Dialogue: 0,0:17:07.58,0:17:09.80,Dubtitles,,0,0,0,,My leg doesn't even hurt anymore!
-Dialogue: 0,0:17:10.16,0:17:12.68,Dubtitles,,0,0,0,,It feels pleasant, you believe that?
-Dialogue: 0,0:17:12.92,0:17:14.06,Dubtitles,,0,0,0,,Oh my god!
-Dialogue: 0,0:17:15.00,0:17:16.28,Dubtitles,,0,0,0,,Von Stroheim!
-Dialogue: 0,0:17:30.04,0:17:31.80,Dubtitles,,0,0,0,,Wait, what are you doing?
-Dialogue: 0,0:17:32.40,0:17:34.90,Dubtitles,,0,0,0,,Put it down, Von Stroheim! Stay back!
-Dialogue: 0,0:17:36.62,0:17:40.36,Dubtitles,,0,0,0,,You've seen what horrible\Nthings San Viento is capable of!
-Dialogue: 0,0:17:40.68,0:17:41.98,Dubtitles,,0,0,0,,There is no hope!
-Dialogue: 0,0:17:42.18,0:17:44.00,Dubtitles,,0,0,0,,My destiny has been determined!
-Dialogue: 0,0:17:44.36,0:17:48.16,Dubtitles,,0,0,0,,So now, all I can do is\Ndestroy the both of us!
-Dialogue: 0,0:17:49.52,0:17:53.42,Dubtitles,,0,0,0,,But I have one more thing to say\Nto you before my time is done!
-Dialogue: 0,0:17:53.50,0:17:57.32,Dubtitles,,0,0,0,,If you know what's good for you,\Nyou'll listen close, Englishman.
-Dialogue: 0,0:17:58.86,0:18:04.30,Dubtitles,,0,0,0,,We did not awaken San Viento simply for\Nscientific research or military gain.
-Dialogue: 0,0:18:05.40,0:18:06.26,Dubtitles,,0,0,0,,Then why?
-Dialogue: 0,0:18:06.48,0:18:08.40,Dubtitles,,0,0,0,,Why did you risk it? Tell me!
+Dialogue: 0,0:16:55.68,0:17:00.56,Dubtitles,,0,0,0,,If he stays inside von Stroheim, he'll be\Ntotally fine even here in broad daylight.
+Dialogue: 0,0:17:00.86,0:17:02.40,Dubtitles,,0,0,0,,I can feel him.
+Dialogue: 0,0:17:02.60,0:17:04.00,Dubtitles,,0,0,0,,This can't be real.
+Dialogue: 0,0:17:04.48,0:17:07.54,Dubtitles,,0,0,0,,Do you want to know what the\Nworst part about this is?
+Dialogue: 0,0:17:07.62,0:17:09.78,Dubtitles,,0,0,0,,My leg doesn't even hurt anymore.
+Dialogue: 0,0:17:10.16,0:17:12.68,Dubtitles,,0,0,0,,It feels pleasant. You believe that?
+Dialogue: 0,0:17:13.16,0:17:14.06,Dubtitles,,0,0,0,,Oh, my God.
+Dialogue: 0,0:17:14.94,0:17:16.22,Dubtitles,,0,0,0,,Von Stroheim!
+Dialogue: 0,0:17:29.90,0:17:34.32,Dubtitles,,0,0,0,,Wait, what are you doing? Put\Nit down, von Stroheim, stay.
+Dialogue: 0,0:17:34.40,0:17:39.34,Dubtitles,,0,0,0,,back you've seen what\Nhorrible thing son viento is
+Dialogue: 0,0:17:39.42,0:17:43.30,Dubtitles,,0,0,0,,capable of there is no\Nhope my destiny has been
+Dialogue: 0,0:17:43.38,0:17:48.18,Dubtitles,,0,0,0,,Determined. So now all I can\Ndo is destroy the both of us.
+Dialogue: 0,0:17:49.56,0:17:53.52,Dubtitles,,0,0,0,,But I have one more thing to say\Nto you before my time is done.
+Dialogue: 0,0:17:53.78,0:17:57.43,Dubtitles,,0,0,0,,If you know what's good for you,\Nyou listen close, Englishman.
+Dialogue: 0,0:17:58.28,0:17:59.11,Dubtitles,,0,0,0,,Our Wehrmacht,
+Dialogue: 0,0:17:59.24,0:18:04.30,Dubtitles,,0,0,0,,we did not awaken San Viento simply for\Nscientific research or military gain.
+Dialogue: 0,0:18:05.40,0:18:06.30,Dubtitles,,0,0,0,,Then why?
+Dialogue: 0,0:18:06.48,0:18:08.42,Dubtitles,,0,0,0,,Why did you risk it? Tell me!
 Dialogue: 0,0:18:08.98,0:18:09.81,Dubtitles,,0,0,0,,Silence!
 Dialogue: 0,0:18:09.89,0:18:13.49,Dubtitles,,0,0,0,,It's your destiny to hear these\Nwords from my lips, Joe Starr.
-Dialogue: 0,0:18:13.74,0:18:16.20,Dubtitles,,0,0,0,,San Viento is just the tip of the iceberg.
-Dialogue: 0,0:18:16.28,0:18:18.80,Dubtitles,,0,0,0,,The Wehrmacht has discovered\Nanother pillar in Europe.
-Dialogue: 0,0:18:18.88,0:18:22.82,Dubtitles,,0,0,0,,We now know that San Viento is not\Nthe only one of his kind around.
-Dialogue: 0,0:18:24.88,0:18:28.38,Dubtitles,,0,0,0,,Wait so there's more of them\Nwhere are they tell me Von
-Dialogue: 0,0:18:28.46,0:18:31.90,Dubtitles,,0,0,0,,Stroheim where I'm sorry but I\Ndon't have that answer for you
-Dialogue: 0,0:18:31.98,0:18:35.06,Dubtitles,,0,0,0,,Joestar there are more pillar\Nmen out there and they have
-Dialogue: 0,0:18:35.14,0:18:38.64,Dubtitles,,0,0,0,,powers that are beyond our\Nwildest imagination for millennia
-Dialogue: 0,0:18:38.72,0:18:41.66,Dubtitles,,0,0,0,,those powers have remained\Ndormant but that won't last and
-Dialogue: 0,0:18:41.74,0:18:44.80,Dubtitles,,0,0,0,,soon they will awaken you must\Nfind another weakness other
-Dialogue: 0,0:18:44.88,0:18:49.44,Dubtitles,,0,0,0,,than just sunlight or else\Nhope is lost that's why we were
-Dialogue: 0,0:18:49.52,0:18:52.96,Dubtitles,,0,0,0,,experimenting on San Viento we\Nwere looking for that weakness.
-Dialogue: 0,0:18:53.04,0:18:56.10,Dubtitles,,0,0,0,,There's a battle against the\NPillar Man yet to be fought.
-Dialogue: 0,0:18:56.18,0:18:59.52,Dubtitles,,0,0,0,,The events of 50 years ago\Ncall upon you for that battle.
-Dialogue: 0,0:18:59.60,0:19:00.66,Dubtitles,,0,0,0,,Listen to me.
-Dialogue: 0,0:19:00.96,0:19:04.31,Dubtitles,,0,0,0,,You will need more than just\Nyour Hamon to overcome them.
-Dialogue: 0,0:19:04.58,0:19:06.44,Dubtitles,,0,0,0,,You must go to Rome.
-Dialogue: 0,0:19:06.76,0:19:09.26,Dubtitles,,0,0,0,,There you will find\Nsomeone who can help you.
-Dialogue: 0,0:19:09.34,0:19:12.88,Dubtitles,,0,0,0,,It is someone that your\Nspeed wagon knows very well.
-Dialogue: 0,0:19:15.30,0:19:20.90,Dubtitles,,0,0,0,,San Viento is trying to move my party\Ninto that well so he can hide again.
-Dialogue: 0,0:19:20.98,0:19:26.82,Dubtitles,,0,0,0,,But he can't stop me from opening up my\Nbody completely to let the sun shine in!
-Dialogue: 0,0:19:30.94,0:19:33.80,Dubtitles,,0,0,0,,Von Stroheim, don't you dare.
-Dialogue: 0,0:19:36.96,0:19:41.46,Dubtitles,,0,0,0,,Human greatness lies in having the\Ncourage to face down one's fears.
-Dialogue: 0,0:19:41.84,0:19:43.37,Dubtitles,,0,0,0,,Do you know who said that?
-Dialogue: 0,0:19:43.56,0:19:45.27,Dubtitles,,0,0,0,,The Greek historian Plutarch.
-Dialogue: 0,0:19:49.12,0:19:49.95,Dubtitles,,0,0,0,,Farewell.
-Dialogue: 0,0:19:50.98,0:19:52.66,Dubtitles,,0,0,0,,You annoying Englishman!
-Dialogue: 0,0:19:53.12,0:19:53.98,Dubtitles,,0,0,0,,Don't do it!
-Dialogue: 0,0:19:54.08,0:19:55.64,Dubtitles,,0,0,0,,I still have questions for you!
-Dialogue: 0,0:19:55.72,0:19:56.55,Dubtitles,,0,0,0,,Monster!
-Dialogue: 0,0:20:00.16,0:20:02.92,Dubtitles,,0,0,0,,Damn that crazy German and all his honor!
-Dialogue: 0,0:20:04.88,0:20:07.59,Dubtitles,,0,0,0,,I'm sure that we could\Nhave found another way!
-Dialogue: 0,0:20:21.36,0:20:22.26,Dubtitles,,0,0,0,,Cezriato!
-Dialogue: 0,0:20:24.86,0:20:25.72,Dubtitles,,0,0,0,,You annoy me!
-Dialogue: 0,0:20:26.08,0:20:28.96,Dubtitles,,0,0,0,,Primitive, I will destroy you!
-Dialogue: 0,0:20:29.34,0:20:30.63,Dubtitles,,0,0,0,,Steady your breathing.
-Dialogue: 0,0:20:30.82,0:20:32.41,Dubtitles,,0,0,0,,Use your hormone technique.
+Dialogue: 0,0:18:13.64,0:18:15.96,Dubtitles,,0,0,0,,San Viento is just the tip of the iceberg.
+Dialogue: 0,0:18:16.04,0:18:18.88,Dubtitles,,0,0,0,,The Wehrmacht has discovered\Nanother pillar in Europe.
+Dialogue: 0,0:18:18.96,0:18:22.90,Dubtitles,,0,0,0,,We now know that San Viento is not\Nthe only one of his kind around.
+Dialogue: 0,0:18:25.04,0:18:26.81,Dubtitles,,0,0,0,,Wait, so there's more of them?
+Dialogue: 0,0:18:26.98,0:18:27.81,Dubtitles,,0,0,0,,Where are they?
+Dialogue: 0,0:18:27.89,0:18:29.44,Dubtitles,,0,0,0,,Tell me, von Stroheim, where?
+Dialogue: 0,0:18:29.52,0:18:32.82,Dubtitles,,0,0,0,,I'm sorry, but I don't have\Nthat answer for you, Joestar.
+Dialogue: 0,0:18:32.90,0:18:34.58,Dubtitles,,0,0,0,,There are more pillormen out there,
+Dialogue: 0,0:18:34.66,0:18:37.86,Dubtitles,,0,0,0,,and they have powers that are\Nbeyond our wildest imagination.
+Dialogue: 0,0:18:37.94,0:18:40.50,Dubtitles,,0,0,0,,For millennia, those powers\Nhave remained dormant,
+Dialogue: 0,0:18:40.58,0:18:42.62,Dubtitles,,0,0,0,,but that won't last, and\Nsoon they will awaken.
+Dialogue: 0,0:18:42.70,0:18:47.72,Dubtitles,,0,0,0,,You must find another weakness other\Nthan just sunlight, or else hope is lost.
+Dialogue: 0,0:18:48.52,0:18:51.29,Dubtitles,,0,0,0,,That's why we were\Nexperimenting on San Viento.
+Dialogue: 0,0:18:51.42,0:18:53.36,Dubtitles,,0,0,0,,We were looking for that weakness.
+Dialogue: 0,0:18:53.44,0:18:56.08,Dubtitles,,0,0,0,,There's a battle against the\NPillar Men yet to be fought.
+Dialogue: 0,0:18:56.16,0:18:59.51,Dubtitles,,0,0,0,,The events of 50 years ago\Ncall upon you for that battle.
+Dialogue: 0,0:18:59.76,0:19:00.64,Dubtitles,,0,0,0,,Listen to me.
+Dialogue: 0,0:19:00.96,0:19:04.37,Dubtitles,,0,0,0,,You will need more than just\Nyour Hamon to overcome them.
+Dialogue: 0,0:19:04.62,0:19:06.36,Dubtitles,,0,0,0,,You must go to Rome.
+Dialogue: 0,0:19:06.78,0:19:08.82,Dubtitles,,0,0,0,,There you will find\Nsomeone who can help you.
+Dialogue: 0,0:19:08.90,0:19:09.73,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:19:09.81,0:19:12.86,Dubtitles,,0,0,0,,It is someone that your\NSpeedwagon knows very well!
+Dialogue: 0,0:19:15.14,0:19:20.90,Dubtitles,,0,0,0,,San Viento is trying to move my body\Ninto that well so he can hide again!
+Dialogue: 0,0:19:21.40,0:19:26.72,Dubtitles,,0,0,0,,But he can't stop me from opening up my\Nbody completely to let the sun shine in!
+Dialogue: 0,0:19:30.92,0:19:33.80,Dubtitles,,0,0,0,,Von Stroheim, don't you dare!
+Dialogue: 0,0:19:37.04,0:19:41.44,Dubtitles,,0,0,0,,Human greatness lies in having the\Ncourage to face down one's fears.
+Dialogue: 0,0:19:41.80,0:19:43.34,Dubtitles,,0,0,0,,Do you know who said that?
+Dialogue: 0,0:19:43.60,0:19:45.31,Dubtitles,,0,0,0,,The Greek historian Plutarch.
+Dialogue: 0,0:19:49.20,0:19:50.03,Dubtitles,,0,0,0,,Farewell.
+Dialogue: 0,0:19:50.46,0:19:52.72,Dubtitles,,0,0,0,,You are annoying Englishman.
+Dialogue: 0,0:19:53.10,0:19:53.98,Dubtitles,,0,0,0,,Don't do it.
+Dialogue: 0,0:19:54.08,0:19:55.74,Dubtitles,,0,0,0,,I still have questions for you.
+Dialogue: 0,0:19:55.82,0:19:56.65,Dubtitles,,0,0,0,,Monster!
+Dialogue: 0,0:20:00.32,0:20:02.92,Dubtitles,,0,0,0,,Damn that crazy German and all his honor.
+Dialogue: 0,0:20:04.70,0:20:07.41,Dubtitles,,0,0,0,,I'm sure that we could\Nhave found another way.
+Dialogue: 0,0:20:21.56,0:20:22.39,Dubtitles,,0,0,0,,Cegliato!
+Dialogue: 0,0:20:24.34,0:20:25.72,Dubtitles,,0,0,0,,You annoy me!
+Dialogue: 0,0:20:26.36,0:20:28.98,Dubtitles,,0,0,0,,Primitive, I will destroy you!
+Dialogue: 0,0:20:29.38,0:20:30.67,Dubtitles,,0,0,0,,Steady your breathing.
+Dialogue: 0,0:20:30.78,0:20:32.37,Dubtitles,,0,0,0,,Use your hormone technique.
+Dialogue: 0,0:20:35.54,0:20:44.23,Dubtitles,,0,0,0,,Ah!
 Dialogue: 1,0:20:39.30,0:20:39.34,SFXYellow2,15,0,0,0,,{=92}{\blur7\bord9.71\fscx126.17\fscy97.05\alpha&H80&\frz335.3\pos(1639.86,320.53)}Kablam
 Dialogue: 2,0:20:39.30,0:20:39.34,SFXYellow2,15,0,0,0,,{=92}{\blur0.6\bord9.71\fscx126.17\fscy97.05\alpha&H00&\frz335.3\pos(1639.86,320.53)\c&H1C3542&}Kablam
 Dialogue: 3,0:20:39.30,0:20:39.34,SFXYellow2,15,0,0,0,,{=92}{\blur0.6\bord0\fscx126.17\fscy97.05\alpha&H00&\frz335.3\pos(1639.86,320.53)\4a&HFF&}Kablam
@@ -2180,68 +2174,60 @@ Dialogue: 3,0:20:42.09,0:20:42.13,SFXYellow2,15,0,0,0,,{=92}{\blur0.6\bord0\fscx
 Dialogue: 1,0:20:42.13,0:20:42.17,SFXYellow2,15,0,0,0,,{=92}{\blur7\bord8.83\fscx114.76\fscy88.27\alpha&H80&\frz339.4\pos(1424.78,207.26)}Kablam
 Dialogue: 2,0:20:42.13,0:20:42.17,SFXYellow2,15,0,0,0,,{=92}{\blur0.6\bord8.83\fscx114.76\fscy88.27\alpha&H00&\frz339.4\pos(1424.78,207.26)\c&H1C3542&}Kablam
 Dialogue: 3,0:20:42.13,0:20:42.17,SFXYellow2,15,0,0,0,,{=92}{\blur0.6\bord0\fscx114.76\fscy88.27\alpha&H00&\frz339.4\pos(1424.78,207.26)\4a&HFF&}Kablam
-Dialogue: 0,0:20:46.88,0:20:49.54,Dubtitles,,0,0,0,,Primitive, why oppose me?
-Dialogue: 0,0:20:49.62,0:20:51.80,Dubtitles,,0,0,0,,You were doomed here from the start!
-Dialogue: 0,0:20:52.46,0:20:53.29,Dubtitles,,0,0,0,,Ha!
-Dialogue: 0,0:20:53.37,0:20:55.54,Dubtitles,,0,0,0,,I know just what you're going to say next!
+Dialogue: 0,0:20:47.24,0:20:48.07,Dubtitles,,0,0,0,,Primitive!
+Dialogue: 0,0:20:48.22,0:20:49.60,Dubtitles,,0,0,0,,Why oppose me?
+Dialogue: 0,0:20:49.82,0:20:51.94,Dubtitles,,0,0,0,,You were doomed here from the start!
+Dialogue: 0,0:20:52.44,0:20:53.27,Dubtitles,,0,0,0,,Ha!
+Dialogue: 0,0:20:53.35,0:20:55.54,Dubtitles,,0,0,0,,I know just what you're going to say next!
 Dialogue: 0,0:20:55.62,0:20:58.78,Dubtitles,,0,0,0,,You'll say I've seen right through\Nyou all this time, Joestar!
 Dialogue: 0,0:20:58.86,0:21:01.86,Dubtitles,,0,0,0,,I've seen right through\Nyou all this time, Joestar!
-Dialogue: 0,0:21:07.50,0:21:09.48,Dubtitles,,0,0,0,,It's high noon over this well!
-Dialogue: 0,0:21:09.74,0:21:12.92,Dubtitles,,0,0,0,,The sun reflecting off of the\Nwater should cook you nicely!
-Dialogue: 0,0:21:13.00,0:21:15.46,Dubtitles,,0,0,0,,Although I doubt you even thought of that!
-Dialogue: 0,0:21:15.54,0:21:17.54,Dubtitles,,0,0,0,,You were thinking about jumping under the
-Dialogue: 0,0:21:17.62,0:21:20.02,Dubtitles,,0,0,0,,night's cool water and\Ngetting out of the sun,
-Dialogue: 0,0:21:20.10,0:21:20.93,Dubtitles,,0,0,0,,right?
+Dialogue: 0,0:21:07.46,0:21:09.48,Dubtitles,,0,0,0,,It's high noon! It's high noon!
+Dialogue: 0,0:21:09.74,0:21:12.90,Dubtitles,,0,0,0,,The sun reflecting off of the\Nwater should cook you nicely.
+Dialogue: 0,0:21:12.98,0:21:15.42,Dubtitles,,0,0,0,,Although I doubt you even thought of that.
+Dialogue: 0,0:21:15.50,0:21:17.54,Dubtitles,,0,0,0,,You were thinking about jumping under the
+Dialogue: 0,0:21:17.62,0:21:19.94,Dubtitles,,0,0,0,,night's cool water and\Ngetting out of the sun,
+Dialogue: 0,0:21:20.02,0:21:20.85,Dubtitles,,0,0,0,,right?
 Dialogue: 0,0:21:22.42,0:21:24.40,Dubtitles,,0,0,0,,Well, screw that idea!
-Dialogue: 0,0:21:24.80,0:21:26.94,Dubtitles,,0,0,0,,I'm not letting you touch the water!
-Dialogue: 0,0:21:44.84,0:21:47.48,Dubtitles,,0,0,0,,I'm alive, thanks to the sun.
-Dialogue: 0,0:21:47.56,0:21:49.46,Dubtitles,,0,0,0,,He's a statue now.
-Dialogue: 0,0:21:49.54,0:21:50.38,Dubtitles,,0,0,0,,But!
-Dialogue: 0,0:21:50.46,0:21:53.18,Dubtitles,,0,0,0,,We finally got that smile.
-Dialogue: 0,0:22:10.88,0:22:14.18,Dubtitles,,0,0,0,,I'll be the roundabout.
+Dialogue: 0,0:21:24.80,0:21:26.92,Dubtitles,,0,0,0,,I'm not letting you touch the water!
+Dialogue: 0,0:21:44.48,0:21:47.56,Dubtitles,,0,0,0,,I'm alive, thanks to the sun.
+Dialogue: 0,0:21:48.06,0:21:53.14,Dubtitles,,0,0,0,,He's a statue now, but we\Nfinally got that smile.
+Dialogue: 0,0:22:11.12,0:22:16.22,Dubtitles,,0,0,0,,I'll be the roundabout.\NThe words will make
 Dialogue: 1,0:22:11.47,0:22:15.06,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
-Dialogue: 0,0:22:14.26,0:22:17.14,Dubtitles,,0,0,0,,The words will make you.
 Dialogue: 1,0:22:15.06,0:22:18.60,Lyrics 2,Yes,0,0,0,,The words will make you out 'n' out
-Dialogue: 0,0:22:17.22,0:22:18.34,Dubtitles,,0,0,0,,Out and out!
-Dialogue: 0,0:22:18.42,0:22:21.64,Dubtitles,,0,0,0,,I spend the day your way.
+Dialogue: 0,0:22:16.30,0:22:22.02,Dubtitles,,0,0,0,,You out and out. I'll\Nspend the day your way.
 Dialogue: 1,0:22:18.60,0:22:23.94,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:22:23.58,0:22:25.04,Dubtitles,,0,0,0,,Call it morning.
+Dialogue: 0,0:22:23.74,0:22:28.08,Dubtitles,,0,0,0,,Call it morning driving through\Nthe sun, and in and out the valley.
 Dialogue: 1,0:22:23.94,0:22:26.61,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
-Dialogue: 0,0:22:25.12,0:22:26.44,Dubtitles,,0,0,0,,Driving through the sun.
-Dialogue: 0,0:22:26.52,0:22:28.12,Dubtitles,,0,0,0,,And in and out the valley.
 Dialogue: 1,0:22:26.61,0:22:31.07,Lyrics 2,Yes,0,0,0,,In and out the valley
-Dialogue: 0,0:22:37.62,0:22:41.18,Dubtitles,,0,0,0,,The music dance and sing.
+Dialogue: 0,0:22:37.98,0:22:42.80,Dubtitles,,0,0,0,,The music, dance, and sing. They make the
 Dialogue: 1,0:22:38.58,0:22:42.17,Lyrics 2,Yes,0,0,0,,The music dance and sing
-Dialogue: 0,0:22:41.26,0:22:45.38,Dubtitles,,0,0,0,,They make the children really ring.
 Dialogue: 1,0:22:42.17,0:22:45.76,Lyrics 2,Yes,0,0,0,,They make the children really ring
-Dialogue: 0,0:22:45.46,0:22:49.52,Dubtitles,,0,0,0,,I'll spend the day your way.
+Dialogue: 0,0:22:42.88,0:22:49.48,Dubtitles,,0,0,0,,children really ring I\Nspend the day your way
 Dialogue: 1,0:22:45.76,0:22:51.05,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:22:50.84,0:22:53.54,Dubtitles,,0,0,0,,Cold and mooding, driving through the sun.
+Dialogue: 0,0:22:50.66,0:22:55.22,Dubtitles,,0,0,0,,Call that morning driving through\Nthe sun And in and out the valley
 Dialogue: 1,0:22:51.05,0:22:53.72,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
-Dialogue: 0,0:22:53.62,0:22:55.52,Dubtitles,,0,0,0,,And in and out the valley.
 Dialogue: 1,0:22:53.72,0:22:57.73,Lyrics 2,Yes,0,0,0,,In and out the valley
-Dialogue: 0,0:22:57.40,0:23:00.00,Dubtitles,,0,0,0,,In and out around the lake.
+Dialogue: 0,0:22:57.36,0:23:00.00,Dubtitles,,0,0,0,,In and around the lake
 Dialogue: 1,0:22:57.73,0:23:00.10,Lyrics 2,Yes,0,0,0,,In and around the lake
-Dialogue: 0,0:23:01.18,0:23:03.40,Dubtitles,,0,0,0,,Mountains come out of the sky.
+Dialogue: 0,0:23:01.24,0:23:05.06,Dubtitles,,0,0,0,,Mothers come out of the sky,\Nand they'll stand there.
 Dialogue: 1,0:23:01.40,0:23:03.61,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
-Dialogue: 0,0:23:03.48,0:23:05.08,Dubtitles,,0,0,0,,And they'll stand there.
 Dialogue: 1,0:23:03.61,0:23:05.36,Lyrics 2,Yes,0,0,0,,and they stand there
-Dialogue: 0,0:23:08.24,0:23:10.38,Dubtitles,,0,0,0,,When my lover will be there.
+Dialogue: 0,0:23:08.22,0:23:11.90,Dubtitles,,0,0,0,,When my lover will be\Nthere And we'll see you
 Dialogue: 1,0:23:08.53,0:23:12.20,Lyrics 2,Yes,0,0,0,,One mile over we'll be there and we'll see you
-Dialogue: 0,0:23:10.46,0:23:11.84,Dubtitles,,0,0,0,,And we'll see you?
+Dialogue: 0,0:23:14.62,0:23:18.30,Dubtitles,,0,0,0,,Ten true summers. We'll\Nbe there laughing at you.
 Dialogue: 1,0:23:14.95,0:23:18.62,Lyrics 2,Yes,0,0,0,,Ten true summers we'll be there and laughing too
+Dialogue: 0,0:23:21.14,0:23:26.34,Dubtitles,,0,0,0,,Twenty-four before my lover.\NWe'll say I'll be there with you.
 Dialogue: 1,0:23:21.42,0:23:25.09,Lyrics 2,Yes,0,0,0,,Twenty-four before my love you'll see I'll be
 Dialogue: 1,0:23:25.09,0:23:27.01,Lyrics 2,Yes,0,0,0,,There with you
-Dialogue: 1,0:23:27.51,0:23:29.51,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
 Dialogue: 1,0:23:27.51,0:23:29.51,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
-Dialogue: 0,0:23:30.14,0:23:32.20,Dubtitles,,0,0,0,,My grandfather died tragically.
+Dialogue: 0,0:23:30.02,0:23:32.22,Dubtitles,,0,0,0,,My grandfather died tragically.
 Dialogue: 1,0:23:32.26,0:23:32.30,SFXPurple,P1,0,0,0,,{=95}{\blur0.7\alpha&H00&\frz290.2\pos(1535.7,-6.56)\c&H151329&}Boom {In preview for last episode}
 Dialogue: 2,0:23:32.26,0:23:32.30,SFXPurple,P1,0,0,0,,{=95}{\bord0\blur0.7\alpha&H00&\frz290.2\pos(1535.7,-6.56)\4a&HFF&}Boom {In preview for last episode}
 Dialogue: 1,0:23:32.30,0:23:32.34,SFXPurple,P1,0,0,0,,{=95}{\blur0.7\alpha&H00&\frz290.2\pos(1584.89,95.6)\c&H151329&}Boom {In preview for last episode}
 Dialogue: 2,0:23:32.30,0:23:32.34,SFXPurple,P1,0,0,0,,{=95}{\bord0\blur0.7\alpha&H00&\frz290.2\pos(1584.89,95.6)\4a&HFF&}Boom {In preview for last episode}
+Dialogue: 0,0:23:32.30,0:23:34.42,Dubtitles,,0,0,0,,You couldn't even beat\None of those pigeons.
 Dialogue: 1,0:23:32.34,0:23:32.39,SFXPurple,P1,0,0,0,,{=95}{\blur0.7\alpha&H00&\frz290.2\pos(1620.84,213.54)\c&H151329&}Boom {In preview for last episode}
 Dialogue: 2,0:23:32.34,0:23:32.39,SFXPurple,P1,0,0,0,,{=95}{\bord0\blur0.7\alpha&H00&\frz290.2\pos(1620.84,213.54)\4a&HFF&}Boom {In preview for last episode}
-Dialogue: 0,0:23:32.34,0:23:34.42,Dubtitles,,0,0,0,,You couldn't even beat\None of those pigeons.
 Dialogue: 1,0:23:32.39,0:23:32.43,SFXPurple,P1,0,0,0,,{=95}{\blur0.7\alpha&H00&\frz290.2\pos(1644.8,271.55)\c&H151329&}Boom {In preview for last episode}
 Dialogue: 2,0:23:32.39,0:23:32.43,SFXPurple,P1,0,0,0,,{=95}{\bord0\blur0.7\alpha&H00&\frz290.2\pos(1644.8,271.55)\4a&HFF&}Boom {In preview for last episode}
 Dialogue: 1,0:23:32.43,0:23:32.47,SFXPurple,P1,0,0,0,,{=95}{\blur0.7\alpha&H00&\frz290.2\pos(1665.61,366.15)\c&H151329&}Boom {In preview for last episode}
@@ -2412,9 +2398,7 @@ Dialogue: 3,0:23:40.44,0:23:40.48,SFXBrown2,P3,0,0,0,,{=85}{\bord0\blur1\frz5.71
 Dialogue: 1,0:23:40.48,0:23:40.52,SFXBrown2,P3,0,0,0,,{=85}{\blur5\frz5.719\pos(810.7,768.02)\alpha&H80&}Rumble {In preview for last episode} {Also used in final episode flashback}
 Dialogue: 2,0:23:40.48,0:23:40.52,SFXBrown2,P3,0,0,0,,{=85}{\blur1\frz5.719\pos(810.7,768.02)\c&H192128&}Rumble {In preview for last episode} {Also used in final episode flashback}
 Dialogue: 3,0:23:40.48,0:23:40.52,SFXBrown2,P3,0,0,0,,{=85}{\bord0\blur1\frz5.719\pos(810.7,768.02)\4a&HFF&}Rumble {In preview for last episode} {Also used in final episode flashback}
-Dialogue: 1,0:23:40.52,0:23:42.52,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 14:
-Dialogue: 1,0:23:40.52,0:23:42.52,Title2.1,,0,0,0,,{\fs92\pos(960,772)\blur2\i1}"Ultimate Warriors from Ancient Times"{\i0} {I feel like this could be less wordy? I also made it smaller than any other episode because it was two lines. If you can make this title shorter, change the "fs92" in the beginning to a "fs105"-Fadeout4} {Didn't we decide on a better title for this? I don't remember it, so we'll discuss it when you get here.}
 Dialogue: 1,0:23:40.52,0:23:42.52,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 14:
 Dialogue: 1,0:23:40.52,0:23:42.52,Title2,,0,0,0,,{\fs92\pos(960,772)}"The Ultimate Warriors of an Ancient Age" {I feel like this could be less wordy? I also made it smaller than any other episode because it was two lines. If you can make this title shorter, change the "fs92" in the beginning to a "fs105"-Fadeout4} {Didn't we decide on a better title for this? I don't remember it, so we'll discuss it when you get here.}
-Dialogue: 0,0:23:41.84,0:23:42.67,Dubtitles,,0,0,0,,Amen.
+Dialogue: 1,0:23:40.52,0:23:42.52,Title2.1,,0,0,0,,{\fs92\pos(960,772)\blur2\i1}"Ultimate Warriors from Ancient Times"{\i0} {I feel like this could be less wordy? I also made it smaller than any other episode because it was two lines. If you can make this title shorter, change the "fs92" in the beginning to a "fs105"-Fadeout4} {Didn't we decide on a better title for this? I don't remember it, so we'll discuss it when you get here.}
 

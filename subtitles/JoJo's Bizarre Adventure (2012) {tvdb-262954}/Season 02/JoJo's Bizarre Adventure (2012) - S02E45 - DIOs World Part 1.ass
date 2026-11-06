@@ -33,244 +33,235 @@ Style: SCOP2,Coolvetica Rg,50,&H00282A29,&H000000FF,&H00D7D7D7,&H00000000,0,0,0,
 Style: SC Opening 2 Jap,Gill Sans MT,60,&H00FFFFFF,&H000000FF,&H00FE1427,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,0,8,11,11,15,1
 Style: SC Opening 2 Eng,Gill Sans MT,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,11,11,15,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00180C18,&H000000FF,&H00000000,&HA0451641,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.07,0:00:17.33,Dubtitles,,0,0,0,,You've finally come out, Dio.
-Dialogue: 0,0:00:20.45,0:00:22.91,Dubtitles,,0,0,0,,A job well done, Polnareff.
-Dialogue: 0,0:00:23.03,0:00:24.95,Dubtitles,,0,0,0,,You managed to avenge your sister.
-Dialogue: 0,0:00:25.03,0:00:29.89,Dubtitles,,0,0,0,,But what's most impressive is that you\Nalso found the time to track me down. Ha!
-Dialogue: 0,0:00:30.27,0:00:32.47,Dubtitles,,0,0,0,,I'll gladly kill you to celebrate.
-Dialogue: 0,0:00:32.85,0:00:35.44,Dubtitles,,0,0,0,,But I think we should\Nstart with this first.
-Dialogue: 0,0:00:40.89,0:00:42.91,Dubtitles,,0,0,0,,I'll give you a chance to rethink.
-Dialogue: 0,0:00:42.99,0:00:45.33,Dubtitles,,0,0,0,,Descend now and not only will you live,
-Dialogue: 0,0:00:45.65,0:00:48.30,Dubtitles,,0,0,0,,you'll be given the\Nchance to serve me again.
-Dialogue: 0,0:00:48.43,0:00:50.47,Dubtitles,,0,0,0,,Or you could choose to rise forth.
-Dialogue: 0,0:00:50.79,0:00:53.21,Dubtitles,,0,0,0,,However, you'd be ascending to your doom.
-Dialogue: 0,0:00:54.35,0:00:58.63,Dubtitles,,0,0,0,,When the two of us first met,\Nfear consumed me like a curse.
-Dialogue: 0,0:00:58.83,0:01:02.54,Dubtitles,,0,0,0,,It gave your evil Card blanche\Nto manipulate me like a puppet.
-Dialogue: 0,0:01:02.73,0:01:07.41,Dubtitles,,0,0,0,,That fear was the beginning of a\Nfutile existence with no end in sight.
-Dialogue: 0,0:01:07.77,0:01:09.60,Dubtitles,,0,0,0,,It was a fate worse than death.
-Dialogue: 0,0:01:09.79,0:01:13.73,Dubtitles,,0,0,0,,A wretched life devoid of any desire\Nother than doing your bidding.
-Dialogue: 0,0:01:15.33,0:01:20.51,Dubtitles,,0,0,0,,But that fear has been eradicated,\Nleaving only the burning will to fight.
-Dialogue: 0,0:01:20.59,0:01:23.61,Dubtitles,,0,0,0,,I've spent 45 days traveling with Mr.
-Dialogue: 0,0:01:23.75,0:01:25.93,Dubtitles,,0,0,0,,Joestar and the others\Nand in honor of those who
-Dialogue: 0,0:01:26.01,0:01:28.91,Dubtitles,,0,0,0,,Died on that journey,\NI'll never fear you again.
-Dialogue: 0,0:01:31.19,0:01:36.49,Dubtitles,,0,0,0,,My aren't we confident climb these\Nstairs and put that bravado to the test?
-Dialogue: 0,0:01:41.83,0:01:44.47,Dubtitles,,0,0,0,,Quite the interesting decision Polnareff.
-Dialogue: 0,0:01:45.23,0:01:48.23,Dubtitles,,0,0,0,,You've backed down after\Nall is that your clever
-Dialogue: 0,0:01:48.31,0:01:50.90,Dubtitles,,0,0,0,,way of telling me you\Nwant your former life?
-Dialogue: 0,0:01:58.43,0:01:59.26,Dubtitles,,0,0,0,,back.
-Dialogue: 0,0:01:59.35,0:02:00.18,Dubtitles,,0,0,0,,What in the hell?
-Dialogue: 0,0:02:00.47,0:02:04.43,Dubtitles,,0,0,0,,But I went up the stairs. I'm\Nsure. What happened? Problem?
-Dialogue: 0,0:02:04.85,0:02:07.05,Dubtitles,,0,0,0,,You seem to be shaken, Polnareff.
-Dialogue: 0,0:02:07.33,0:02:08.69,Dubtitles,,0,0,0,,But why is that?
-Dialogue: 0,0:02:08.89,0:02:12.17,Dubtitles,,0,0,0,,Could the winds of fear have\Nextinguished your burning resolve?
-Dialogue: 0,0:02:12.25,0:02:15.01,Dubtitles,,0,0,0,,Perhaps the only steps you\Ntook were in your mind.
-Dialogue: 0,0:02:15.09,0:02:18.27,Dubtitles,,0,0,0,,And in actuality, fear\Noverrode your consciousness,
-Dialogue: 0,0:02:18.35,0:02:22.37,Dubtitles,,0,0,0,,wrestling control from your brain\Ncausing you to descend down the stairs.
-Dialogue: 0,0:02:22.45,0:02:23.28,Dubtitles,,0,0,0,,No way!
-Dialogue: 0,0:02:23.43,0:02:25.96,Dubtitles,,0,0,0,,I'm positive I just\Nwalked up those stairs!
-Dialogue: 0,0:02:30.35,0:02:31.18,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:02:31.27,0:02:32.64,Dubtitles,,0,0,0,,Is he doing this with his stand?
-Dialogue: 0,0:02:34.35,0:02:35.18,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:02:35.27,0:02:36.10,Dubtitles,,0,0,0,,It couldn't be!
-Dialogue: 0,0:02:39.45,0:02:41.49,Dubtitles,,0,0,0,,Dio's stand is...
-Dialogue: 0,0:02:42.79,0:02:44.07,Dubtitles,,0,0,0,,...the world?!
-Dialogue: 0,0:02:45.79,0:02:47.97,Dubtitles,,0,0,0,,What am I supposed to do now?
+Dialogue: 0,0:00:14.58,0:00:16.84,Dubtitles,,0,0,0,,You've finally come out, Dio.
+Dialogue: 0,0:00:19.96,0:00:22.42,Dubtitles,,0,0,0,,A job well done, Polnareff.
+Dialogue: 0,0:00:22.54,0:00:24.46,Dubtitles,,0,0,0,,You managed to avenge your sister.
+Dialogue: 0,0:00:24.54,0:00:29.40,Dubtitles,,0,0,0,,But what's most impressive is that you\Nalso found the time to track me down. Ha!
+Dialogue: 0,0:00:29.78,0:00:31.98,Dubtitles,,0,0,0,,I'll gladly kill you to celebrate.
+Dialogue: 0,0:00:32.36,0:00:34.95,Dubtitles,,0,0,0,,But I think we should\Nstart with this first.
+Dialogue: 0,0:00:40.40,0:00:42.42,Dubtitles,,0,0,0,,I'll give you a chance to rethink.
+Dialogue: 0,0:00:42.50,0:00:44.84,Dubtitles,,0,0,0,,Descend now and not only will you live,
+Dialogue: 0,0:00:45.16,0:00:47.81,Dubtitles,,0,0,0,,you'll be given the\Nchance to serve me again.
+Dialogue: 0,0:00:47.94,0:00:49.98,Dubtitles,,0,0,0,,Or you could choose to rise forth.
+Dialogue: 0,0:00:50.30,0:00:52.71,Dubtitles,,0,0,0,,However, you'd be ascending to your doom.
+Dialogue: 0,0:00:53.86,0:00:58.14,Dubtitles,,0,0,0,,When the two of us first met,\Nfear consumed me like a curse.
+Dialogue: 0,0:00:58.34,0:01:02.05,Dubtitles,,0,0,0,,It gave your evil Card blanche\Nto manipulate me like a puppet.
+Dialogue: 0,0:01:02.24,0:01:06.92,Dubtitles,,0,0,0,,That fear was the beginning of a\Nfutile existence with no end in sight.
+Dialogue: 0,0:01:07.28,0:01:09.10,Dubtitles,,0,0,0,,It was a fate worse than death.
+Dialogue: 0,0:01:09.30,0:01:13.24,Dubtitles,,0,0,0,,A wretched life devoid of any desire\Nother than doing your bidding.
+Dialogue: 0,0:01:14.84,0:01:20.02,Dubtitles,,0,0,0,,But that fear has been eradicated,\Nleaving only the burning will to fight.
+Dialogue: 0,0:01:20.10,0:01:23.12,Dubtitles,,0,0,0,,I've spent 45 days traveling with Mr.
+Dialogue: 0,0:01:23.26,0:01:25.44,Dubtitles,,0,0,0,,Joestar and the others\Nand in honor of those who
+Dialogue: 0,0:01:25.52,0:01:28.42,Dubtitles,,0,0,0,,Died on that journey,\NI'll never fear you again.
+Dialogue: 0,0:01:30.70,0:01:36.00,Dubtitles,,0,0,0,,My aren't we confident climb these\Nstairs and put that bravado to the test
+Dialogue: 0,0:01:41.34,0:01:43.98,Dubtitles,,0,0,0,,Quite the interesting decision Polnareff
+Dialogue: 0,0:01:44.74,0:01:47.74,Dubtitles,,0,0,0,,You've backed down after\Nall. Is that your clever
+Dialogue: 0,0:01:47.82,0:01:50.41,Dubtitles,,0,0,0,,way of telling me you\Nwant your former life?
+Dialogue: 0,0:01:57.94,0:01:58.77,Dubtitles,,0,0,0,,back.
+Dialogue: 0,0:01:58.85,0:01:59.68,Dubtitles,,0,0,0,,What in the hell?
+Dialogue: 0,0:01:59.98,0:02:03.94,Dubtitles,,0,0,0,,But I went up the stairs. I'm\Nsure. What happened? Problem?
+Dialogue: 0,0:02:04.36,0:02:06.56,Dubtitles,,0,0,0,,You seem to be shaken, Polnareff.
+Dialogue: 0,0:02:06.84,0:02:08.20,Dubtitles,,0,0,0,,But why is that?
+Dialogue: 0,0:02:08.40,0:02:11.68,Dubtitles,,0,0,0,,Could the winds of fear have\Nextinguished your burning resolve?
+Dialogue: 0,0:02:11.76,0:02:14.52,Dubtitles,,0,0,0,,Perhaps the only steps you\Ntook were in your mind.
+Dialogue: 0,0:02:14.60,0:02:17.78,Dubtitles,,0,0,0,,And in actuality, fear\Noverrode your consciousness,
+Dialogue: 0,0:02:17.86,0:02:21.88,Dubtitles,,0,0,0,,wrestling control from your brain\Ncausing you to descend down the stairs.
+Dialogue: 0,0:02:21.96,0:02:22.79,Dubtitles,,0,0,0,,No way!
+Dialogue: 0,0:02:22.94,0:02:25.47,Dubtitles,,0,0,0,,I'm positive I just\Nwalked up those stairs!
+Dialogue: 0,0:02:29.86,0:02:30.69,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:02:30.77,0:02:32.14,Dubtitles,,0,0,0,,Is he doing this with his stand?
+Dialogue: 0,0:02:33.86,0:02:34.69,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:02:34.77,0:02:35.60,Dubtitles,,0,0,0,,It couldn't be!
+Dialogue: 0,0:02:38.96,0:02:41.00,Dubtitles,,0,0,0,,Dio's stand is...
+Dialogue: 0,0:02:42.30,0:02:43.58,Dubtitles,,0,0,0,,...the world?!
+Dialogue: 0,0:02:45.30,0:02:47.48,Dubtitles,,0,0,0,,What am I supposed to do now?
 Dialogue: 1,0:02:52.52,0:02:55.36,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,952.999)}Seeking out...
-Dialogue: 0,0:03:15.03,0:03:21.43,Dubtitles,,0,0,0,,Once I come back to the jump and\Nsee it, I will never let it be.
-Dialogue: 0,0:03:21.67,0:03:25.07,Dubtitles,,0,0,0,,We will still look at the\Nplace where we'll see.
-Dialogue: 0,0:03:26.37,0:03:31.03,Dubtitles,,0,0,0,,We will still see the chance of the\Nbattle, the time we will not look at it.
-Dialogue: 0,0:03:31.11,0:03:34.97,Dubtitles,,0,0,0,,I'm sorry, I'm sorry. Let's go.
-Dialogue: 0,0:03:39.01,0:03:41.81,Dubtitles,,0,0,0,,And the story of the tale started.
-Dialogue: 0,0:03:41.89,0:03:43.61,Dubtitles,,0,0,0,,I'll be able to take a moment.
-Dialogue: 0,0:03:43.69,0:03:46.45,Dubtitles,,0,0,0,,I'll be able to continue.
-Dialogue: 0,0:03:46.53,0:03:47.41,Dubtitles,,0,0,0,,I'll be able to continue.
-Dialogue: 0,0:03:47.49,0:03:49.89,Dubtitles,,0,0,0,,The Crusaders.
-Dialogue: 0,0:03:50.45,0:03:53.89,Dubtitles,,0,0,0,,The last page of the stars.
-Dialogue: 0,0:03:56.37,0:03:58.85,Dubtitles,,0,0,0,,I'll be able to take that.
-Dialogue: 0,0:03:58.93,0:03:59.99,Dubtitles,,0,0,0,,End of the world!
-Dialogue: 0,0:04:02.07,0:04:02.90,Dubtitles,,0,0,0,,I'll be able to take that.
-Dialogue: 0,0:04:02.99,0:04:06.19,Dubtitles,,0,0,0,,I'll be able to take that!
-Dialogue: 0,0:04:06.27,0:04:11.87,Dubtitles,,0,0,0,,I'll be able to take that.
+Dialogue: 0,0:03:42.16,0:03:47.26,Dubtitles,,0,0,0,,We will continue to walk through
+Dialogue: 0,0:03:47.34,0:03:54.10,Dubtitles,,0,0,0,,The end of the last page. We will return.
+Dialogue: 0,0:03:54.18,0:04:00.38,Dubtitles,,0,0,0,,To the last page. We will return to\Nthe end of the world. End of the world.
+Dialogue: 0,0:04:01.56,0:04:03.66,Dubtitles,,0,0,0,,That's the real memory.
+Dialogue: 0,0:04:20.34,0:04:22.54,Dubtitles,,0,0,0,,I'm curious, Polnareff.
 Dialogue: 1,0:04:20.65,0:04:26.16,Title 3,title,0,0,0,,{\fad(985,689)\pos(135,858)}Episode 45: Dio's World, Part 1
-Dialogue: 0,0:04:20.89,0:04:23.01,Dubtitles,,0,0,0,,I'm curious, Polnareff.
-Dialogue: 0,0:04:23.29,0:04:26.71,Dubtitles,,0,0,0,,Have you ever wondered what\Nthe human soul desires most?
-Dialogue: 0,0:04:26.99,0:04:28.15,Dubtitles,,0,0,0,,Peace of mind.
-Dialogue: 0,0:04:28.87,0:04:32.17,Dubtitles,,0,0,0,,Subconsciously, all humans\Nwish to overcome their fears.
-Dialogue: 0,0:04:32.63,0:04:33.95,Dubtitles,,0,0,0,,They seek fame,
-Dialogue: 0,0:04:34.37,0:04:39.63,Dubtitles,,0,0,0,,money, and dominance of others, all to\Nobtain a sense of everlasting security.
-Dialogue: 0,0:04:40.63,0:04:41.59,Dubtitles,,0,0,0,,What a farce.
-Dialogue: 0,0:04:41.87,0:04:44.81,Dubtitles,,0,0,0,,They create bonds as a\Nmeans of self-preservation.
-Dialogue: 0,0:04:45.11,0:04:49.53,Dubtitles,,0,0,0,,They say they wish to help others,\Npurely for the sake of love and justice.
-Dialogue: 0,0:04:49.77,0:04:52.30,Dubtitles,,0,0,0,,But it's only to settle\Ntheir feeble minds.
-Dialogue: 0,0:04:52.93,0:04:56.11,Dubtitles,,0,0,0,,Humanity's greatest desire\Nis to attain serenity.
-Dialogue: 0,0:04:57.05,0:04:58.11,Dubtitles,,0,0,0,,So why?
-Dialogue: 0,0:04:58.37,0:04:59.95,Dubtitles,,0,0,0,,Why refuse to serve me?
-Dialogue: 0,0:05:00.17,0:05:02.01,Dubtitles,,0,0,0,,What greater serenity is there?
-Dialogue: 0,0:05:02.37,0:05:05.53,Dubtitles,,0,0,0,,Return to me, and all I\Nspeak of will be yours.
-Dialogue: 0,0:05:06.01,0:05:07.93,Dubtitles,,0,0,0,,You don't want to challenge me.
-Dialogue: 0,0:05:08.13,0:05:11.79,Dubtitles,,0,0,0,,There's just no point in running\Nheadlong into a meaningless death.
-Dialogue: 0,0:05:11.87,0:05:13.57,Dubtitles,,0,0,0,,You deserve much more.
-Dialogue: 0,0:05:14.19,0:05:15.02,Dubtitles,,0,0,0,,No!
-Dialogue: 0,0:05:15.23,0:05:17.77,Dubtitles,,0,0,0,,Am I seriously letting\Nhim draw me back in?
-Dialogue: 0,0:05:18.11,0:05:20.35,Dubtitles,,0,0,0,,You're a talented stand user.
-Dialogue: 0,0:05:20.71,0:05:22.87,Dubtitles,,0,0,0,,It would be a shame to kill you.
-Dialogue: 0,0:05:23.31,0:05:27.47,Dubtitles,,0,0,0,,Turn your back on Joestar\Nand live as my right hand.
-Dialogue: 0,0:05:27.81,0:05:30.91,Dubtitles,,0,0,0,,I promise you unending peace starting now.
-Dialogue: 0,0:05:31.41,0:05:32.69,Dubtitles,,0,0,0,,I have to resist.
-Dialogue: 0,0:05:32.93,0:05:36.09,Dubtitles,,0,0,0,,Avdol, Iggy, I need your courage.
-Dialogue: 0,0:05:37.29,0:05:39.23,Dubtitles,,0,0,0,,Cut the bullshit, Dio!
-Dialogue: 0,0:05:39.37,0:05:41.55,Dubtitles,,0,0,0,,I've already stared death in the eye!
-Dialogue: 0,0:05:42.25,0:05:46.67,Dubtitles,,0,0,0,,And I'll gladly do it again, if it\Nhelps uncover your stand's abilities!
-Dialogue: 0,0:05:49.31,0:05:50.51,Dubtitles,,0,0,0,,How disappointing.
-Dialogue: 0,0:05:56.49,0:05:59.09,Dubtitles,,0,0,0,,Time to meet your end, Polnareff!
-Dialogue: 0,0:06:00.23,0:06:02.99,Dubtitles,,0,0,0,,So that's your stand, the world! Bring it!
-Dialogue: 0,0:06:17.53,0:06:19.11,Dubtitles,,0,0,0,,It's... Mr. Joestar!
-Dialogue: 0,0:06:19.87,0:06:22.21,Dubtitles,,0,0,0,,There's no need to worry, Paul the Rep.
-Dialogue: 0,0:06:26.27,0:06:27.10,Dubtitles,,0,0,0,,Dio!
-Dialogue: 0,0:06:27.27,0:06:28.81,Dubtitles,,0,0,0,,That was Dio!
-Dialogue: 0,0:06:29.19,0:06:30.07,Dubtitles,,0,0,0,,After him!
-Dialogue: 0,0:06:30.37,0:06:32.43,Dubtitles,,0,0,0,,I have to tell you something first!
-Dialogue: 0,0:06:32.73,0:06:37.26,Dubtitles,,0,0,0,,It was only out in the open for a moment\Nor two, but I saw him use his stand.
-Dialogue: 0,0:06:37.41,0:06:41.77,Dubtitles,,0,0,0,,Well, I didn't actually see it, but I\Ndid feel it in a manner of speaking.
-Dialogue: 0,0:06:42.47,0:06:45.51,Dubtitles,,0,0,0,,It's complicated, but here's\Nthe long and short of it.
-Dialogue: 0,0:06:45.59,0:06:47.99,Dubtitles,,0,0,0,,I was heading up the stairs\Nto beat the life out of
-Dialogue: 0,0:06:48.07,0:06:51.25,Dubtitles,,0,0,0,,that bastard when suddenly\NI was back where I started.
-Dialogue: 0,0:06:51.79,0:06:55.17,Dubtitles,,0,0,0,,Believe me, I know what I'm saying\Ndoesn't make any sense at all.
-Dialogue: 0,0:06:55.25,0:06:57.91,Dubtitles,,0,0,0,,I can't wrap my head around\Nwhat happened either.
-Dialogue: 0,0:06:57.99,0:07:00.41,Dubtitles,,0,0,0,,I feel like I'm losing my mind over here.
-Dialogue: 0,0:07:00.61,0:07:03.17,Dubtitles,,0,0,0,,I'm sure he wasn't using\Nany sort of hypnosis.
-Dialogue: 0,0:07:03.25,0:07:06.03,Dubtitles,,0,0,0,,I'd say super speed, but there's no way.
-Dialogue: 0,0:07:06.67,0:07:10.27,Dubtitles,,0,0,0,,All I know is that I sense\Nsomething utterly terrifying.
-Dialogue: 0,0:07:13.01,0:07:15.49,Dubtitles,,0,0,0,,Hey, where are Iggy and Avdol?
-Dialogue: 0,0:07:19.19,0:07:21.79,Dubtitles,,0,0,0,,They didn't make it. They're both dead.
-Dialogue: 0,0:07:22.75,0:07:25.87,Dubtitles,,0,0,0,,They died trying to save me.
-Dialogue: 0,0:07:32.27,0:07:33.65,Dubtitles,,0,0,0,,Is that so?
-Dialogue: 0,0:07:38.33,0:07:39.55,Dubtitles,,0,0,0,,We should go.
-Dialogue: 0,0:07:40.09,0:07:40.92,Dubtitles,,0,0,0,,Look, Mr.
-Dialogue: 0,0:07:41.01,0:07:42.31,Dubtitles,,0,0,0,,Joestar, the sun is setting.
-Dialogue: 0,0:07:42.39,0:07:43.22,Dubtitles,,0,0,0,,Let's hurry.
-Dialogue: 0,0:07:44.61,0:07:45.75,Dubtitles,,0,0,0,,Yeah, you're right.
-Dialogue: 0,0:07:46.87,0:07:48.23,Dubtitles,,0,0,0,,All right, out with it.
-Dialogue: 0,0:07:48.37,0:07:50.20,Dubtitles,,0,0,0,,What's waiting for us upstairs?
-Dialogue: 0,0:07:50.79,0:07:51.62,Dubtitles,,0,0,0,,The...
-Dialogue: 0,0:07:51.71,0:07:52.54,Dubtitles,,0,0,0,,the towers!
-Dialogue: 0,0:07:52.71,0:07:54.63,Dubtitles,,0,0,0,,There's also another room at the top!
-Dialogue: 0,0:07:54.71,0:07:56.69,Dubtitles,,0,0,0,,It's where Lord Dio dwells during the day!
-Dialogue: 0,0:07:56.77,0:07:58.61,Dubtitles,,0,0,0,,Is there another staircase to the tower?
-Dialogue: 0,0:07:58.69,0:08:01.75,Dubtitles,,0,0,0,,No, this is the only set\Nof stairs that leads there!
-Dialogue: 0,0:08:01.85,0:08:03.65,Dubtitles,,0,0,0,,In that case, lead the way.
-Dialogue: 0,0:08:23.69,0:08:25.01,Dubtitles,,0,0,0,,So that's him.
-Dialogue: 0,0:08:26.05,0:08:28.03,Dubtitles,,0,0,0,,The two of us have never met.
-Dialogue: 0,0:08:28.27,0:08:32.33,Dubtitles,,0,0,0,,But I've known about this monster\Nfor longer than I care to remember.
-Dialogue: 0,0:08:32.53,0:08:34.65,Dubtitles,,0,0,0,,How could I not know this fiend?
-Dialogue: 0,0:08:34.97,0:08:39.56,Dubtitles,,0,0,0,,The thought of him has been burned into\Nmy mind ever since the day I was born.
-Dialogue: 0,0:08:40.03,0:08:41.31,Dubtitles,,0,0,0,,Same for Jotaro.
-Dialogue: 0,0:08:42.17,0:08:46.43,Dubtitles,,0,0,0,,We'd hoped this day would never come,\Nthat we'd never have to face Dio.
-Dialogue: 0,0:08:46.77,0:08:50.59,Dubtitles,,0,0,0,,But as Joestars, we knew we'd\Neventually have to destroy him.
-Dialogue: 0,0:08:51.27,0:08:52.67,Dubtitles,,0,0,0,,I have no regrets.
-Dialogue: 0,0:08:53.35,0:08:55.75,Dubtitles,,0,0,0,,I came on this journey\Nof my own free will,
-Dialogue: 0,0:08:55.83,0:08:58.97,Dubtitles,,0,0,0,,so I can live with whatever\Nhappens from here on out.
-Dialogue: 0,0:08:59.95,0:09:02.19,Dubtitles,,0,0,0,,I've never seen things more clearly.
-Dialogue: 0,0:09:02.61,0:09:05.41,Dubtitles,,0,0,0,,It's like a light of\Nclarity has washed over me.
-Dialogue: 0,0:09:05.49,0:09:08.49,Dubtitles,,0,0,0,,My friends are that light,\Nwhile Dio is darkness.
-Dialogue: 0,0:09:09.55,0:09:13.20,Dubtitles,,0,0,0,,My body may be broken and battered,\Nbut the fear has vanished.
-Dialogue: 0,0:09:13.95,0:09:16.19,Dubtitles,,0,0,0,,Virtue and light has purified my soul.
-Dialogue: 0,0:09:17.27,0:09:20.33,Dubtitles,,0,0,0,,We'll attack the moment Dio\Nsteps out of the coffin.
-Dialogue: 0,0:09:20.69,0:09:21.75,Dubtitles,,0,0,0,,Stay at the ready.
-Dialogue: 0,0:09:21.87,0:09:24.70,Dubtitles,,0,0,0,,We don't know what tricks\Nhe has up his sleeves.
-Dialogue: 0,0:09:26.35,0:09:27.65,Dubtitles,,0,0,0,,It's time, loser.
-Dialogue: 0,0:09:28.01,0:09:29.03,Dubtitles,,0,0,0,,Open the coffin.
-Dialogue: 0,0:09:30.73,0:09:34.93,Dubtitles,,0,0,0,,Whatever happens, ordeal, you\Nhave to know I never betrayed you.
-Dialogue: 0,0:09:35.01,0:09:37.93,Dubtitles,,0,0,0,,I only led these\Ndegenerates here because I
-Dialogue: 0,0:09:38.01,0:09:40.90,Dubtitles,,0,0,0,,knew you had the power to\Neasily dispose of them!
-Dialogue: 0,0:09:40.99,0:09:44.01,Dubtitles,,0,0,0,,As certain as a man wetting\Nhimself when pissing in the wind,
-Dialogue: 0,0:09:44.09,0:09:47.07,Dubtitles,,0,0,0,,your victory is assured\Nyou are all-powerful!
-Dialogue: 0,0:09:47.35,0:09:49.23,Dubtitles,,0,0,0,,Please don't be angry with me!
-Dialogue: 0,0:09:49.55,0:09:50.91,Dubtitles,,0,0,0,,Enough of the groveling!
-Dialogue: 0,0:09:50.99,0:09:52.37,Dubtitles,,0,0,0,,Open the damn coffin!
-Dialogue: 0,0:09:53.99,0:09:55.59,Dubtitles,,0,0,0,,Please, I'm begging you!
-Dialogue: 0,0:09:55.73,0:09:58.50,Dubtitles,,0,0,0,,Give these bastards a\Ncruel and horrifying end!
-Dialogue: 0,0:10:00.01,0:10:00.84,Dubtitles,,0,0,0,,Ordeal!
-Dialogue: 0,0:10:02.31,0:10:03.73,Dubtitles,,0,0,0,,Get ready, everyone.
-Dialogue: 0,0:10:14.75,0:10:18.85,Dubtitles,,0,0,0,,I don't know what's going on.\NHow'd I get in here? I was
-Dialogue: 0,0:10:18.93,0:10:23.37,Dubtitles,,0,0,0,,just what the hell how did he\Nmy eyes were locked on loser
-Dialogue: 0,0:10:23.45,0:10:26.27,Dubtitles,,0,0,0,,boy the entire time did\Nanyone else see him get in the
-Dialogue: 0,0:10:26.35,0:10:30.35,Dubtitles,,0,0,0,,coffin wait did someone put him\Nin there without us knowing no
-Dialogue: 0,0:10:30.43,0:10:32.91,Dubtitles,,0,0,0,,I was watching him just like\Nyou were he's opening the
-Dialogue: 0,0:10:32.99,0:10:35.87,Dubtitles,,0,0,0,,coffin one second and the next\Nhe's inside it you're right
-Dialogue: 0,0:10:35.95,0:10:39.11,Dubtitles,,0,0,0,,polnareff but I don't believe\Nit's a mind trick and it's
-Dialogue: 0,0:10:39.19,0:10:43.39,Dubtitles,,0,0,0,,not super speed either good\Ngrief is he playing games with us
-Dialogue: 0,0:10:46.49,0:10:53.19,Dubtitles,,0,0,0,,get out of here damn you\Nwhat are you doing come on?
-Dialogue: 0,0:10:57.23,0:10:58.45,Dubtitles,,0,0,0,,Let me go!
-Dialogue: 0,0:11:01.67,0:11:04.19,Dubtitles,,0,0,0,,Okay, what was that feeling back there?
-Dialogue: 0,0:11:04.41,0:11:07.31,Dubtitles,,0,0,0,,The ominous presence it was\Ngiving off was far more powerful
-Dialogue: 0,0:11:07.39,0:11:10.17,Dubtitles,,0,0,0,,than any stand our group\Nhas ever encountered before!
-Dialogue: 0,0:11:10.25,0:11:12.71,Dubtitles,,0,0,0,,It was like knowing a\Nbulldozer is coming after
-Dialogue: 0,0:11:12.79,0:11:15.09,Dubtitles,,0,0,0,,you just from the sound\Nof its roaring engine!
-Dialogue: 0,0:11:15.17,0:11:16.67,Dubtitles,,0,0,0,,Yeah, I sensed it too!
-Dialogue: 0,0:11:17.01,0:11:18.79,Dubtitles,,0,0,0,,An insane lust to kill us!
-Dialogue: 0,0:11:18.97,0:11:21.73,Dubtitles,,0,0,0,,It felt like somebody\Nshoving an icicle up my ass!
-Dialogue: 0,0:11:21.81,0:11:26.64,Dubtitles,,0,0,0,,If we hadn't escaped when we did, whatever\Nthat was would have killed us for sure!
-Dialogue: 0,0:11:40.59,0:11:41.42,Dubtitles,,0,0,0,,Damn it!
-Dialogue: 0,0:11:41.73,0:11:42.97,Dubtitles,,0,0,0,,Just look at the sun!
-Dialogue: 0,0:11:43.17,0:11:45.23,Dubtitles,,0,0,0,,It's almost gone below the horizon!
-Dialogue: 0,0:11:46.03,0:11:48.39,Dubtitles,,0,0,0,,Dio will have the advantage in the dark.
-Dialogue: 0,0:11:50.37,0:11:51.23,Dubtitles,,0,0,0,,Hang on!
-Dialogue: 0,0:11:51.81,0:11:52.64,Dubtitles,,0,0,0,,Come again?
-Dialogue: 0,0:11:52.73,0:11:55.87,Dubtitles,,0,0,0,,Please don't tell me you guys are\Nplanning to run away and hide until dawn.
-Dialogue: 0,0:11:55.95,0:11:57.53,Dubtitles,,0,0,0,,Listen to me, Mr. Joestar.
-Dialogue: 0,0:11:57.91,0:11:59.03,Dubtitles,,0,0,0,,I'm finishing this.
-Dialogue: 0,0:11:59.21,0:12:01.81,Dubtitles,,0,0,0,,There's no way I'm packing\Nup and heading for the hills.
-Dialogue: 0,0:12:01.89,0:12:02.72,Dubtitles,,0,0,0,,You're right.
-Dialogue: 0,0:12:02.81,0:12:05.07,Dubtitles,,0,0,0,,We have to see this through to the end.
-Dialogue: 0,0:12:08.33,0:12:11.07,Dubtitles,,0,0,0,,I want to get this over\Nwith as much as you do.
-Dialogue: 0,0:12:11.15,0:12:13.15,Dubtitles,,0,0,0,,But the tide of battle has turned.
-Dialogue: 0,0:12:13.41,0:12:16.25,Dubtitles,,0,0,0,,While not up close, we\Nface to stand the world.
-Dialogue: 0,0:12:16.47,0:12:19.03,Dubtitles,,0,0,0,,But we still have no\Nidea what its powers are.
-Dialogue: 0,0:12:19.11,0:12:20.61,Dubtitles,,0,0,0,,We're fighting blind here.
-Dialogue: 0,0:12:20.69,0:12:21.73,Dubtitles,,0,0,0,,Think of it this way.
-Dialogue: 0,0:12:21.81,0:12:24.09,Dubtitles,,0,0,0,,It's like mountain climbing\Nwithout knowing the route.
-Dialogue: 0,0:12:24.17,0:12:27.00,Dubtitles,,0,0,0,,If we try to fight Dio\Nright now, we'll all die.
-Dialogue: 0,0:12:27.29,0:12:31.83,Dubtitles,,0,0,0,,That fact is as inevitable as burping\Nafter knocking back a couple of colas.
-Dialogue: 0,0:12:33.23,0:12:36.06,Dubtitles,,0,0,0,,Dio would be a fool not\Nto come racing after us,
-Dialogue: 0,0:12:36.17,0:12:38.59,Dubtitles,,0,0,0,,but he only has until Sunrise to kill us.
-Dialogue: 0,0:12:38.71,0:12:39.65,Dubtitles,,0,0,0,,In the meantime,
-Dialogue: 0,0:12:39.79,0:12:43.61,Dubtitles,,0,0,0,,we need to learn the extent of his stance\Npower and find a way to put him down.
-Dialogue: 0,0:12:43.69,0:12:46.37,Dubtitles,,0,0,0,,If we can just hold out\Nuntil then... No way!
-Dialogue: 0,0:12:46.63,0:12:48.40,Dubtitles,,0,0,0,,I'm not going back on my word.
-Dialogue: 0,0:12:48.75,0:12:50.93,Dubtitles,,0,0,0,,Avdol and Iggy died\Nbecause of my weakness.
-Dialogue: 0,0:12:51.01,0:12:53.15,Dubtitles,,0,0,0,,I have to kill Dio.
-Dialogue: 0,0:12:53.37,0:12:55.37,Dubtitles,,0,0,0,,I'll go to hell and back to do it,
-Dialogue: 0,0:12:55.51,0:12:59.41,Dubtitles,,0,0,0,,but all I won't do is run\Naway from my obligation! No!
-Dialogue: 0,0:12:59.59,0:13:01.67,Dubtitles,,0,0,0,,Come back, Polnareff! Forget it.
-Dialogue: 0,0:13:01.91,0:13:03.23,Dubtitles,,0,0,0,,He's not gonna listen.
-Dialogue: 0,0:13:04.23,0:13:06.76,Dubtitles,,0,0,0,,Jotaro, what do you\Nthink we should do now?
-Dialogue: 0,0:13:08.85,0:13:11.61,Dubtitles,,0,0,0,,He went down there to fight Dio.
-Dialogue: 0,0:13:12.01,0:13:14.61,Dubtitles,,0,0,0,,As we retreat, we'll also be fighting him.
-Dialogue: 0,0:13:15.09,0:13:18.67,Dubtitles,,0,0,0,,Which means we'll be attacking\Nfrom both sides at once.
-Dialogue: 0,0:13:23.65,0:13:25.89,Dubtitles,,0,0,0,,Hey, buddy, let us buy this truck off you.
-Dialogue: 0,0:13:25.97,0:13:26.91,Dubtitles,,0,0,0,,What do you say?
-Dialogue: 0,0:13:27.01,0:13:28.60,Dubtitles,,0,0,0,,The hell is wrong with you?
-Dialogue: 0,0:13:28.71,0:13:30.60,Dubtitles,,0,0,0,,This baby's my bread and butter.
-Dialogue: 0,0:13:30.77,0:13:32.39,Dubtitles,,0,0,0,,No, wait, it's all yours.
-Dialogue: 0,0:13:35.19,0:13:36.53,Dubtitles,,0,0,0,,Buckle up, cock-o-een.
-Dialogue: 0,0:13:54.19,0:13:55.83,Dubtitles,,0,0,0,,There you are, Dio.
-Dialogue: 0,0:13:56.11,0:13:57.81,Dubtitles,,0,0,0,,Think I'll just run till dawn?
-Dialogue: 0,0:13:57.89,0:13:59.69,Dubtitles,,0,0,0,,You've crossed the wrong Frenchman.
-Dialogue: 0,0:13:59.77,0:14:02.13,Dubtitles,,0,0,0,,I'll settle this on my own if I have to.
-Dialogue: 0,0:14:02.31,0:14:04.75,Dubtitles,,0,0,0,,So what if I don't know\Nhow Dio's stand works?
-Dialogue: 0,0:14:04.83,0:14:07.25,Dubtitles,,0,0,0,,I'll just find another way to defeat him.
-Dialogue: 0,0:14:07.97,0:14:08.81,Dubtitles,,0,0,0,,He's dead.
-Dialogue: 0,0:14:09.51,0:14:10.77,Dubtitles,,0,0,0,,Hold it, Polnareff.
-Dialogue: 0,0:14:12.15,0:14:14.05,Dubtitles,,0,0,0,,I had them let you go because convincing
-Dialogue: 0,0:14:14.13,0:14:16.71,Dubtitles,,0,0,0,,stubborn guys like you\Nis a pain in the ass.
-Dialogue: 0,0:14:16.79,0:14:20.85,Dubtitles,,0,0,0,,But the old men in Kakyoin insisted\NI stay close and watch your back.
-Dialogue: 0,0:14:21.01,0:14:23.25,Dubtitles,,0,0,0,,So here I am. Jotaro!
-Dialogue: 0,0:14:24.93,0:14:26.45,Dubtitles,,0,0,0,,Oh, good grief.
+Dialogue: 0,0:04:22.72,0:04:26.22,Dubtitles,,0,0,0,,Have you ever wondered what\Nthe human soul desires most?
+Dialogue: 0,0:04:26.50,0:04:27.66,Dubtitles,,0,0,0,,Peace of mind.
+Dialogue: 0,0:04:28.32,0:04:31.61,Dubtitles,,0,0,0,,Subconsciously, all humans\Nwish to overcome their fears.
+Dialogue: 0,0:04:32.12,0:04:34.28,Dubtitles,,0,0,0,,They seek fame, money,
+Dialogue: 0,0:04:34.56,0:04:38.74,Dubtitles,,0,0,0,,and dominance of others, all to obtain\Na sense of everlasting security.
+Dialogue: 0,0:04:39.68,0:04:41.08,Dubtitles,,0,0,0,,What a farce.
+Dialogue: 0,0:04:41.38,0:04:44.32,Dubtitles,,0,0,0,,They create bonds as a\Nmeans of self-preservation.
+Dialogue: 0,0:04:44.64,0:04:48.99,Dubtitles,,0,0,0,,They say they wish to help others\Npurely for the sake of love and justice,
+Dialogue: 0,0:04:49.20,0:04:51.73,Dubtitles,,0,0,0,,but it's only to settle\Ntheir feeble minds.
+Dialogue: 0,0:04:52.40,0:04:55.58,Dubtitles,,0,0,0,,Humanity's greatest desire\Nis to latch on to serenity.
+Dialogue: 0,0:04:56.40,0:04:57.62,Dubtitles,,0,0,0,,So why?
+Dialogue: 0,0:04:57.86,0:04:59.46,Dubtitles,,0,0,0,,Why refuse to serve me?
+Dialogue: 0,0:04:59.78,0:05:01.60,Dubtitles,,0,0,0,,What greater serenity is there?
+Dialogue: 0,0:05:01.90,0:05:05.04,Dubtitles,,0,0,0,,Return to me and all I\Nspeak of will be yours.
+Dialogue: 0,0:05:05.56,0:05:07.44,Dubtitles,,0,0,0,,You don't want to challenge me.
+Dialogue: 0,0:05:07.68,0:05:11.24,Dubtitles,,0,0,0,,There's just no point in running\Nheadlong into a meaningless death.
+Dialogue: 0,0:05:11.32,0:05:13.08,Dubtitles,,0,0,0,,You deserve much more.
+Dialogue: 0,0:05:13.72,0:05:14.55,Dubtitles,,0,0,0,,No!
+Dialogue: 0,0:05:14.78,0:05:17.31,Dubtitles,,0,0,0,,Am I seriously letting\Nhim draw me back in?
+Dialogue: 0,0:05:17.70,0:05:19.86,Dubtitles,,0,0,0,,You're a very powerful Stand user.
+Dialogue: 0,0:05:20.28,0:05:22.28,Dubtitles,,0,0,0,,It would be a shame to kill you.
+Dialogue: 0,0:05:22.36,0:05:26.98,Dubtitles,,0,0,0,,Turn your back on Joestar\Nand live as my right hand.
+Dialogue: 0,0:05:27.32,0:05:30.36,Dubtitles,,0,0,0,,I promise you unending peace starting now.
+Dialogue: 0,0:05:30.88,0:05:32.22,Dubtitles,,0,0,0,,I have to resist.
+Dialogue: 0,0:05:32.42,0:05:35.66,Dubtitles,,0,0,0,,Haftal, Iggy, I need your courage.
+Dialogue: 0,0:05:36.76,0:05:38.74,Dubtitles,,0,0,0,,Cut the bullshit, Dio!
+Dialogue: 0,0:05:38.88,0:05:41.06,Dubtitles,,0,0,0,,I've already stared death in the eye!
+Dialogue: 0,0:05:41.64,0:05:46.16,Dubtitles,,0,0,0,,And I'll gladly do it again if it\Nhelps uncover your stand's abilities!
+Dialogue: 0,0:05:48.58,0:05:50.02,Dubtitles,,0,0,0,,How disappointing.
+Dialogue: 0,0:05:56.08,0:05:58.58,Dubtitles,,0,0,0,,Time to meet your end, Polnareff!
+Dialogue: 0,0:05:59.78,0:06:02.50,Dubtitles,,0,0,0,,So that's your stand the world! Bring it!
+Dialogue: 0,0:06:16.90,0:06:18.64,Dubtitles,,0,0,0,,It's Mr. Joestar!
+Dialogue: 0,0:06:19.30,0:06:21.80,Dubtitles,,0,0,0,,There's no need to worry, Polnareff.
+Dialogue: 0,0:06:25.82,0:06:26.65,Dubtitles,,0,0,0,,Dio!
+Dialogue: 0,0:06:26.82,0:06:28.32,Dubtitles,,0,0,0,,That was Dio!
+Dialogue: 0,0:06:28.76,0:06:29.64,Dubtitles,,0,0,0,,After him!
+Dialogue: 0,0:06:29.88,0:06:31.94,Dubtitles,,0,0,0,,I have to tell you something first!
+Dialogue: 0,0:06:32.28,0:06:36.81,Dubtitles,,0,0,0,,It was only out in the open for a moment\Nor two, but I saw him use his stand.
+Dialogue: 0,0:06:36.94,0:06:41.29,Dubtitles,,0,0,0,,Well, I didn't actually see it, but I\Ndid feel it in a manner of speaking.
+Dialogue: 0,0:06:42.02,0:06:45.04,Dubtitles,,0,0,0,,It's complicated, but here's\Nthe long and short of it.
+Dialogue: 0,0:06:45.12,0:06:47.50,Dubtitles,,0,0,0,,I was heading up the stairs\Nto beat the life out of
+Dialogue: 0,0:06:47.58,0:06:50.76,Dubtitles,,0,0,0,,that bastard when suddenly\NI was back where I started.
+Dialogue: 0,0:06:51.20,0:06:54.62,Dubtitles,,0,0,0,,Believe me, I know what I'm saying\Ndoesn't make any sense at all.
+Dialogue: 0,0:06:54.70,0:06:57.42,Dubtitles,,0,0,0,,I can't wrap my head around\Nwhat happened either.
+Dialogue: 0,0:06:57.50,0:06:59.91,Dubtitles,,0,0,0,,I feel like I'm losing my mind over here.
+Dialogue: 0,0:07:00.12,0:07:02.62,Dubtitles,,0,0,0,,I'm sure he wasn't using\Nany sort of hypnosis.
+Dialogue: 0,0:07:02.70,0:07:05.54,Dubtitles,,0,0,0,,I'd say super speed, but there's no way.
+Dialogue: 0,0:07:06.12,0:07:09.76,Dubtitles,,0,0,0,,All I know is that I sense\Nsomething utterly terrifying.
+Dialogue: 0,0:07:12.76,0:07:14.94,Dubtitles,,0,0,0,,Hey, where are Iggy and Avdol?
+Dialogue: 0,0:07:19.94,0:07:22.32,Dubtitles,,0,0,0,,They didn't make it. They're both dead.
+Dialogue: 0,0:07:22.40,0:07:25.38,Dubtitles,,0,0,0,,They died trying to save me.
+Dialogue: 0,0:07:31.94,0:07:33.14,Dubtitles,,0,0,0,,Is that so?
+Dialogue: 0,0:07:38.62,0:07:40.40,Dubtitles,,0,0,0,,We should go. Look, Mr.
+Dialogue: 0,0:07:40.50,0:07:41.80,Dubtitles,,0,0,0,,Joestar, the sun is setting.
+Dialogue: 0,0:07:41.88,0:07:42.71,Dubtitles,,0,0,0,,Let's hurry.
+Dialogue: 0,0:07:44.08,0:07:49.32,Dubtitles,,0,0,0,,Yeah, you're right. All right, out with\Nit. What's waiting for us upstairs?
+Dialogue: 0,0:07:49.40,0:07:54.92,Dubtitles,,0,0,0,,the the towers there's also another\Nroom at the top it's where lord
+Dialogue: 0,0:07:55.00,0:07:58.58,Dubtitles,,0,0,0,,dio dwells during the day is there\Nanother staircase to the tower no
+Dialogue: 0,0:07:58.66,0:08:03.20,Dubtitles,,0,0,0,,this is the only set of stairs that\Nleads there in that case lead the way
+Dialogue: 0,0:08:23.16,0:08:28.48,Dubtitles,,0,0,0,,So that's him. The two of us\Nhave never met, but I've known
+Dialogue: 0,0:08:28.56,0:08:31.28,Dubtitles,,0,0,0,,about this monster for longer\Nthan i care to remember
+Dialogue: 0,0:08:31.36,0:08:35.60,Dubtitles,,0,0,0,,how could i not know this\Nfiend the thought of him has
+Dialogue: 0,0:08:35.68,0:08:38.98,Dubtitles,,0,0,0,,been burned into my mind ever\Nsince the day I was born.
+Dialogue: 0,0:08:39.58,0:08:40.82,Dubtitles,,0,0,0,,Same for Jotaro.
+Dialogue: 0,0:08:41.68,0:08:45.94,Dubtitles,,0,0,0,,We'd hoped this day would never come,\Nthat we'd never have to face Dio.
+Dialogue: 0,0:08:46.22,0:08:50.10,Dubtitles,,0,0,0,,But as Joestars, we knew we'd\Neventually have to destroy him.
+Dialogue: 0,0:08:50.78,0:08:52.18,Dubtitles,,0,0,0,,I have no regrets.
+Dialogue: 0,0:08:52.86,0:08:55.26,Dubtitles,,0,0,0,,I came on this journey\Nof my own free will,
+Dialogue: 0,0:08:55.34,0:08:58.48,Dubtitles,,0,0,0,,so I can live with whatever\Nhappens from here on out.
+Dialogue: 0,0:08:59.46,0:09:01.72,Dubtitles,,0,0,0,,I've never seen things more clearly.
+Dialogue: 0,0:09:02.04,0:09:04.86,Dubtitles,,0,0,0,,It's like a light of\Nclarity has washed over me.
+Dialogue: 0,0:09:05.36,0:09:08.24,Dubtitles,,0,0,0,,My friends are that light,\Nwhile Dio is darkness.
+Dialogue: 0,0:09:08.94,0:09:12.66,Dubtitles,,0,0,0,,My body may be broken and battered,\Nbut the fear has vanished.
+Dialogue: 0,0:09:13.44,0:09:15.68,Dubtitles,,0,0,0,,Virtue and light has purified my soul.
+Dialogue: 0,0:09:16.80,0:09:21.04,Dubtitles,,0,0,0,,We'll attack the moment Dio steps\Nout of the coffin. Stay at the ready.
+Dialogue: 0,0:09:21.48,0:09:24.30,Dubtitles,,0,0,0,,We don't know what tricks\Nhe has up his sleeves.
+Dialogue: 0,0:09:25.88,0:09:27.16,Dubtitles,,0,0,0,,It's time, loser.
+Dialogue: 0,0:09:27.54,0:09:28.52,Dubtitles,,0,0,0,,Open the coffin.
+Dialogue: 0,0:09:30.28,0:09:32.70,Dubtitles,,0,0,0,,Whatever happens,\Nordeal, you have to know.
+Dialogue: 0,0:09:32.78,0:09:34.54,Dubtitles,,0,0,0,,I never betrayed you!
+Dialogue: 0,0:09:34.82,0:09:37.46,Dubtitles,,0,0,0,,I only led these\Ndegenerates here because I
+Dialogue: 0,0:09:37.54,0:09:40.40,Dubtitles,,0,0,0,,knew you had the power to\Neasily dispose of them!
+Dialogue: 0,0:09:40.48,0:09:43.54,Dubtitles,,0,0,0,,As certain as a man wetting\Nhimself when pissing in the wind,
+Dialogue: 0,0:09:43.62,0:09:46.58,Dubtitles,,0,0,0,,your victory is assured\Nyou are all-powerful!
+Dialogue: 0,0:09:46.86,0:09:48.80,Dubtitles,,0,0,0,,Please don't be angry with me!
+Dialogue: 0,0:09:49.08,0:09:50.42,Dubtitles,,0,0,0,,Enough of the groveling!
+Dialogue: 0,0:09:50.50,0:09:51.88,Dubtitles,,0,0,0,,Open the damn coffin!
+Dialogue: 0,0:09:53.52,0:09:55.12,Dubtitles,,0,0,0,,Please, I'm begging you!
+Dialogue: 0,0:09:55.24,0:09:58.01,Dubtitles,,0,0,0,,Give these bastards a\Ncruel and horrifying end!
+Dialogue: 0,0:09:58.74,0:10:00.52,Dubtitles,,0,0,0,,Lord DIO!
+Dialogue: 0,0:10:01.90,0:10:03.26,Dubtitles,,0,0,0,,Get ready, everyone.
+Dialogue: 0,0:10:10.68,0:10:11.51,Dubtitles,,0,0,0,,Why?
+Dialogue: 0,0:10:14.34,0:10:16.40,Dubtitles,,0,0,0,,I don't know what's going on.
+Dialogue: 0,0:10:16.60,0:10:17.78,Dubtitles,,0,0,0,,How'd I get in here?
+Dialogue: 0,0:10:17.88,0:10:19.20,Dubtitles,,0,0,0,,I was just opening the coffin!
+Dialogue: 0,0:10:19.28,0:10:20.11,Dubtitles,,0,0,0,,What the hell?
+Dialogue: 0,0:10:20.70,0:10:21.53,Dubtitles,,0,0,0,,How did he?
+Dialogue: 0,0:10:21.61,0:10:24.30,Dubtitles,,0,0,0,,My eyes were locked on\NLoser Boy the entire time.
+Dialogue: 0,0:10:24.38,0:10:26.52,Dubtitles,,0,0,0,,Did anyone else see him get in the coffin?
+Dialogue: 0,0:10:26.60,0:10:29.28,Dubtitles,,0,0,0,,Wait, did someone put him\Nin there without us knowing?
+Dialogue: 0,0:10:29.36,0:10:31.76,Dubtitles,,0,0,0,,No, I was watching him just like you were.
+Dialogue: 0,0:10:31.84,0:10:34.96,Dubtitles,,0,0,0,,He's opening the coffin one second\Nand the next he's inside it.
+Dialogue: 0,0:10:35.04,0:10:36.18,Dubtitles,,0,0,0,,You're right, Polnareff.
+Dialogue: 0,0:10:36.26,0:10:38.18,Dubtitles,,0,0,0,,But I don't believe it's a mind trick.
+Dialogue: 0,0:10:38.26,0:10:41.08,Dubtitles,,0,0,0,,And it's not super speed\Neither. Good grief.
+Dialogue: 0,0:10:41.38,0:10:43.03,Dubtitles,,0,0,0,,Is he playing games with us?
+Dialogue: 0,0:10:46.08,0:10:47.58,Dubtitles,,0,0,0,,Get out of here!
+Dialogue: 0,0:10:49.26,0:10:50.30,Dubtitles,,0,0,0,,Damn you!
+Dialogue: 0,0:10:50.94,0:10:52.68,Dubtitles,,0,0,0,,What are you doing? Come on!
+Dialogue: 0,0:10:56.72,0:10:58.12,Dubtitles,,0,0,0,,Let me go!
+Dialogue: 0,0:11:01.20,0:11:03.70,Dubtitles,,0,0,0,,Okay, what was that feeling back there?
+Dialogue: 0,0:11:03.94,0:11:06.82,Dubtitles,,0,0,0,,The ominous presence it was\Ngiving off was far more powerful
+Dialogue: 0,0:11:06.90,0:11:09.72,Dubtitles,,0,0,0,,than any stand our group\Nhas ever encountered before.
+Dialogue: 0,0:11:09.80,0:11:12.22,Dubtitles,,0,0,0,,It was like knowing a\Nbulldozer is coming after
+Dialogue: 0,0:11:12.30,0:11:14.68,Dubtitles,,0,0,0,,you just from the sound\Nof its roaring engine.
+Dialogue: 0,0:11:14.76,0:11:16.20,Dubtitles,,0,0,0,,Yeah, I sensed it too.
+Dialogue: 0,0:11:16.50,0:11:18.30,Dubtitles,,0,0,0,,An insane lust to kill us.
+Dialogue: 0,0:11:18.50,0:11:21.42,Dubtitles,,0,0,0,,It felt like somebody\Nshoving an icicle up my ass.
+Dialogue: 0,0:11:21.50,0:11:26.32,Dubtitles,,0,0,0,,If we hadn't escaped when we did, whatever\Nthat was would have killed us for sure.
+Dialogue: 0,0:11:40.10,0:11:40.93,Dubtitles,,0,0,0,,Damn it!
+Dialogue: 0,0:11:41.14,0:11:42.40,Dubtitles,,0,0,0,,Just look at the sun.
+Dialogue: 0,0:11:42.66,0:11:44.72,Dubtitles,,0,0,0,,It's almost gone below the horizon.
+Dialogue: 0,0:11:45.46,0:11:47.81,Dubtitles,,0,0,0,,Dio will have the advantage in the dark.
+Dialogue: 0,0:11:49.88,0:11:51.86,Dubtitles,,0,0,0,,Hang on. Come again?
+Dialogue: 0,0:11:52.14,0:11:55.40,Dubtitles,,0,0,0,,Please don't tell me you guys are\Nplanning to run away and hide until dawn.
+Dialogue: 0,0:11:55.48,0:11:57.04,Dubtitles,,0,0,0,,Listen to me, Mr. Joestar.
+Dialogue: 0,0:11:57.40,0:11:58.46,Dubtitles,,0,0,0,,I'm finishing this.
+Dialogue: 0,0:11:58.54,0:12:01.30,Dubtitles,,0,0,0,,There's no way I'm packing\Nup and heading for the hills.
+Dialogue: 0,0:12:01.38,0:12:02.21,Dubtitles,,0,0,0,,You're right.
+Dialogue: 0,0:12:02.32,0:12:04.61,Dubtitles,,0,0,0,,We have to see this through to the end.
+Dialogue: 0,0:12:07.84,0:12:10.60,Dubtitles,,0,0,0,,I want to get this over\Nwith as much as you do.
+Dialogue: 0,0:12:10.68,0:12:12.68,Dubtitles,,0,0,0,,But the tide of battle has turned.
+Dialogue: 0,0:12:13.16,0:12:15.90,Dubtitles,,0,0,0,,While not up close, we\Nface to stand the world.
+Dialogue: 0,0:12:15.98,0:12:18.56,Dubtitles,,0,0,0,,But we still have no\Nidea what its powers are.
+Dialogue: 0,0:12:18.64,0:12:20.16,Dubtitles,,0,0,0,,We're fighting blind here.
+Dialogue: 0,0:12:20.24,0:12:21.20,Dubtitles,,0,0,0,,Think of it this way.
+Dialogue: 0,0:12:21.28,0:12:23.58,Dubtitles,,0,0,0,,It's like mountain climbing\Nwithout knowing the route.
+Dialogue: 0,0:12:23.66,0:12:26.48,Dubtitles,,0,0,0,,If we try to fight Dio\Nright now, we'll all die.
+Dialogue: 0,0:12:26.96,0:12:31.43,Dubtitles,,0,0,0,,That fact is as inevitable as burping\Nafter knocking back a couple of colas.
+Dialogue: 0,0:12:32.78,0:12:35.60,Dubtitles,,0,0,0,,Dio would be a fool not\Nto come racing after us,
+Dialogue: 0,0:12:35.74,0:12:38.15,Dubtitles,,0,0,0,,but he only has until sunrise to kill us.
+Dialogue: 0,0:12:38.26,0:12:39.20,Dubtitles,,0,0,0,,In the meantime,
+Dialogue: 0,0:12:39.30,0:12:43.16,Dubtitles,,0,0,0,,we need to learn the extent of his stance\Npower and find a way to put him down.
+Dialogue: 0,0:12:43.24,0:12:45.18,Dubtitles,,0,0,0,,If we can just hold out until then...
+Dialogue: 0,0:12:45.26,0:12:46.09,Dubtitles,,0,0,0,,No way!
+Dialogue: 0,0:12:46.17,0:12:47.92,Dubtitles,,0,0,0,,I'm not going back on my word!
+Dialogue: 0,0:12:48.26,0:12:50.79,Dubtitles,,0,0,0,,Avdol and Iggy died\Nbecause of my weakness!
+Dialogue: 0,0:12:50.88,0:12:52.68,Dubtitles,,0,0,0,,I have to kill Dio.
+Dialogue: 0,0:12:53.06,0:12:54.72,Dubtitles,,0,0,0,,I'll go to hell and back to do it.
+Dialogue: 0,0:12:54.80,0:12:58.90,Dubtitles,,0,0,0,,But all I won't do is run\Naway from my obligation! No!
+Dialogue: 0,0:12:59.10,0:13:01.16,Dubtitles,,0,0,0,,Come back, Polnareff! Forget it.
+Dialogue: 0,0:13:01.34,0:13:02.81,Dubtitles,,0,0,0,,He's not going to listen.
+Dialogue: 0,0:13:03.02,0:13:05.60,Dubtitles,,0,0,0,,Jotaro, what do you\Nthink we should do now?
+Dialogue: 0,0:13:08.26,0:13:11.12,Dubtitles,,0,0,0,,He went down there to fight Dio.
+Dialogue: 0,0:13:11.50,0:13:14.12,Dubtitles,,0,0,0,,As we retreat, we'll also be fighting him.
+Dialogue: 0,0:13:14.52,0:13:18.18,Dubtitles,,0,0,0,,Which means we'll be attacking\Nfrom both sides at once.
+Dialogue: 0,0:13:23.12,0:13:25.40,Dubtitles,,0,0,0,,Hey, buddy, let us buy this truck off you.
+Dialogue: 0,0:13:25.48,0:13:26.42,Dubtitles,,0,0,0,,What do you say?
+Dialogue: 0,0:13:26.58,0:13:28.16,Dubtitles,,0,0,0,,The hell is wrong with you?
+Dialogue: 0,0:13:28.24,0:13:30.84,Dubtitles,,0,0,0,,This baby's my bread and butter. No, wait!
+Dialogue: 0,0:13:30.98,0:13:31.90,Dubtitles,,0,0,0,,It's all yours.
+Dialogue: 0,0:13:34.68,0:13:36.04,Dubtitles,,0,0,0,,Buckle up, cock-o-een.
+Dialogue: 0,0:13:53.70,0:13:55.34,Dubtitles,,0,0,0,,There you are, Dio.
+Dialogue: 0,0:13:55.58,0:13:57.32,Dubtitles,,0,0,0,,Think I'll just run till dawn?
+Dialogue: 0,0:13:57.40,0:13:59.20,Dubtitles,,0,0,0,,You've crossed the wrong Frenchman.
+Dialogue: 0,0:13:59.28,0:14:01.63,Dubtitles,,0,0,0,,I'll settle this on my own if I have to.
+Dialogue: 0,0:14:01.82,0:14:04.53,Dubtitles,,0,0,0,,So what if I don't know\Nhow Dio's stand works?
+Dialogue: 0,0:14:05.16,0:14:07.40,Dubtitles,,0,0,0,,I'll just find another way to defeat him.
+Dialogue: 0,0:14:07.48,0:14:08.32,Dubtitles,,0,0,0,,He's dead!
+Dialogue: 0,0:14:10.36,0:14:11.58,Dubtitles,,0,0,0,,Hold it, Polnareff.
+Dialogue: 0,0:14:11.66,0:14:13.56,Dubtitles,,0,0,0,,I had them let you go because convincing
+Dialogue: 0,0:14:13.64,0:14:15.92,Dubtitles,,0,0,0,,stubborn guys like you\Nis a pain in the ass.
+Dialogue: 0,0:14:16.00,0:14:20.22,Dubtitles,,0,0,0,,But the old man in Kakyoin insisted\NI stay close and watch your back.
+Dialogue: 0,0:14:20.40,0:14:21.48,Dubtitles,,0,0,0,,So here I am.
+Dialogue: 0,0:14:22.24,0:14:23.07,Dubtitles,,0,0,0,,Jotaro!
+Dialogue: 0,0:14:24.70,0:14:25.96,Dubtitles,,0,0,0,,Oh, good grief.
 Dialogue: 1,0:14:31.05,0:14:31.10,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:14:31.05,0:14:31.10,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:14:31.05,0:14:31.10,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -391,156 +382,158 @@ Dialogue: 3,0:14:32.89,0:14:33.06,Eyecatch1,signtop,0,0,0,,{\bord0\blur0.6\pos(1
 Dialogue: 1,0:14:33.06,0:14:34.97,Eyecatch1,signtop,0,0,0,,{\blur13\alpha&H50&\3c&HFCFEFC&\pos(116.286,374.86)}The World
 Dialogue: 2,0:14:33.06,0:14:34.97,Eyecatch1,signtop,0,0,0,,{\blur0.6\c&H4E3D4E&\pos(116.286,374.86)}The World
 Dialogue: 3,0:14:33.06,0:14:34.97,Eyecatch1,signtop,0,0,0,,{\bord0\blur0.6\shad2\4a&HFF&\pos(116.286,374.86)}The World
-Dialogue: 0,0:14:47.17,0:14:48.43,Dubtitles,,0,0,0,,The automobile.
-Dialogue: 0,0:14:48.51,0:14:51.29,Dubtitles,,0,0,0,,Such impressive power and speed.
-Dialogue: 0,0:14:52.13,0:14:55.84,Dubtitles,,0,0,0,,When I was young, all we had were\Nshabby horse-drawn carriages.
-Dialogue: 0,0:14:56.21,0:14:57.04,Dubtitles,,0,0,0,,Don't move!
-Dialogue: 0,0:14:57.39,0:14:58.77,Dubtitles,,0,0,0,,What do you think you're doing?
-Dialogue: 0,0:14:58.85,0:15:00.31,Dubtitles,,0,0,0,,This car belongs to U .S.
-Dialogue: 0,0:15:00.39,0:15:01.22,Dubtitles,,0,0,0,,Senator Mr.
-Dialogue: 0,0:15:01.31,0:15:04.02,Dubtitles,,0,0,0,,Phillips, and touching\Nit results in a beatdown!
-Dialogue: 0,0:15:07.69,0:15:09.79,Dubtitles,,0,0,0,,What the hell's wrong with you?
-Dialogue: 0,0:15:13.61,0:15:14.44,Dubtitles,,0,0,0,,My,
-Dialogue: 0,0:15:14.53,0:15:19.97,Dubtitles,,0,0,0,,my, young people these days are so full\Nof piss and vinegar Times are a-changin'.
-Dialogue: 0,0:15:22.71,0:15:23.91,Dubtitles,,0,0,0,,Why would you?
-Dialogue: 0,0:15:24.39,0:15:27.16,Dubtitles,,0,0,0,,Stop talking now and\Nproceed to the front seat.
-Dialogue: 0,0:15:27.37,0:15:28.51,Dubtitles,,0,0,0,,It's time to drive.
-Dialogue: 0,0:15:28.91,0:15:30.85,Dubtitles,,0,0,0,,Just who the hell are you, Seiko?
-Dialogue: 0,0:15:30.93,0:15:35.21,Dubtitles,,0,0,0,,After I'm finished with you, you'll rue\Nthe day you ever march into my vehicle.
-Dialogue: 0,0:15:35.29,0:15:36.97,Dubtitles,,0,0,0,,Yeah, this is unforgivable.
-Dialogue: 0,0:15:37.43,0:15:40.01,Dubtitles,,0,0,0,,No one gets away with doing\Nsomething like this to me.
-Dialogue: 0,0:15:40.09,0:15:42.99,Dubtitles,,0,0,0,,I was valedictorian in both\Nhigh school and college,
-Dialogue: 0,0:15:43.07,0:15:45.21,Dubtitles,,0,0,0,,not to mention captain of\Nthe college wrestling team.
-Dialogue: 0,0:15:45.29,0:15:47.53,Dubtitles,,0,0,0,,Even after graduation,\Npeople respected me.
-Dialogue: 0,0:15:47.61,0:15:49.55,Dubtitles,,0,0,0,,That's how I became a politician!
-Dialogue: 0,0:15:49.71,0:15:52.49,Dubtitles,,0,0,0,,I own a villa on a thousand-acre\Nplot of land in Hawaii.
-Dialogue: 0,0:15:52.57,0:15:55.05,Dubtitles,,0,0,0,,My gorgeous model of a\Nwife is 25 years younger,
-Dialogue: 0,0:15:55.13,0:15:57.37,Dubtitles,,0,0,0,,and I pay more taxes than anyone else!
-Dialogue: 0,0:15:57.63,0:16:00.41,Dubtitles,,0,0,0,,I've destroyed every enemy\Nwho's ever stood in my way,
-Dialogue: 0,0:16:00.49,0:16:02.27,Dubtitles,,0,0,0,,and someday I'll become president!
-Dialogue: 0,0:16:02.35,0:16:04.65,Dubtitles,,0,0,0,,I'm THE Senator Phillips, damn it!
-Dialogue: 0,0:16:05.45,0:16:07.65,Dubtitles,,0,0,0,,Listen to me, you punk band reject!
-Dialogue: 0,0:16:07.95,0:16:10.97,Dubtitles,,0,0,0,,I'm gonna make sure you rot in\Nprison for the rest of your misery!
-Dialogue: 0,0:16:11.05,0:16:13.11,Dubtitles,,0,0,0,,Hear this, as I won't repeat it.
-Dialogue: 0,0:16:15.87,0:16:17.35,Dubtitles,,0,0,0,,Drive the car.
-Dialogue: 0,0:16:19.93,0:16:22.17,Dubtitles,,0,0,0,,This psychopath's gonna kill me.
-Dialogue: 0,0:16:22.59,0:16:24.81,Dubtitles,,0,0,0,,I have to get the hell out of this car.
-Dialogue: 0,0:16:24.89,0:16:26.43,Dubtitles,,0,0,0,,If I don't, I'm a goner.
-Dialogue: 0,0:16:27.01,0:16:28.91,Dubtitles,,0,0,0,,Someone help me.
-Dialogue: 0,0:16:31.25,0:16:33.45,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:16:36.07,0:16:36.90,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:16:37.83,0:16:38.81,Dubtitles,,0,0,0,,What's that?
-Dialogue: 0,0:16:39.15,0:16:40.83,Dubtitles,,0,0,0,,I'm positive I jumped out of the car.
-Dialogue: 0,0:16:40.91,0:16:43.50,Dubtitles,,0,0,0,,So what the hell am I\Ndoing back in the car?
-Dialogue: 0,0:16:43.59,0:16:44.91,Dubtitles,,0,0,0,,I don't get it!
-Dialogue: 0,0:16:45.25,0:16:46.59,Dubtitles,,0,0,0,,What's going on?
-Dialogue: 0,0:16:46.91,0:16:49.15,Dubtitles,,0,0,0,,Your job is to catch up to that truck.
-Dialogue: 0,0:16:49.33,0:16:51.45,Dubtitles,,0,0,0,,Fail to do so and you die.
-Dialogue: 0,0:16:52.33,0:16:53.37,Dubtitles,,0,0,0,,Yes, sir!
-Dialogue: 0,0:16:53.97,0:16:55.91,Dubtitles,,0,0,0,,How am I still in the car?
-Dialogue: 0,0:16:56.23,0:16:57.91,Dubtitles,,0,0,0,,Of course. That's it.
-Dialogue: 0,0:16:58.05,0:16:58.93,Dubtitles,,0,0,0,,I'm a senator.
-Dialogue: 0,0:16:59.29,0:17:00.43,Dubtitles,,0,0,0,,What can't I do?
-Dialogue: 0,0:17:00.65,0:17:02.61,Dubtitles,,0,0,0,,Yes, it makes total sense now!
-Dialogue: 0,0:17:11.59,0:17:14.45,Dubtitles,,0,0,0,,I still sense D .O.'s sinister bloodlust.
-Dialogue: 0,0:17:14.77,0:17:16.48,Dubtitles,,0,0,0,,Its presence is overwhelming.
-Dialogue: 0,0:17:16.87,0:17:18.35,Dubtitles,,0,0,0,,He's coming for us.
-Dialogue: 0,0:17:18.53,0:17:20.83,Dubtitles,,0,0,0,,You can bet your ass he's on our trail.
-Dialogue: 0,0:17:20.91,0:17:22.38,Dubtitles,,0,0,0,,Are you saying that D .O.
-Dialogue: 0,0:17:22.65,0:17:24.61,Dubtitles,,0,0,0,,somehow knows our precise location?
-Dialogue: 0,0:17:24.69,0:17:25.57,Dubtitles,,0,0,0,,Not quite.
-Dialogue: 0,0:17:25.85,0:17:29.03,Dubtitles,,0,0,0,,He stole the body of my\Ngrandfather, Jonathan Joestar.
-Dialogue: 0,0:17:29.49,0:17:33.38,Dubtitles,,0,0,0,,I can sense his body, but I can't\Ntell if he's nearby or far away.
-Dialogue: 0,0:17:33.63,0:17:37.03,Dubtitles,,0,0,0,,I have a general feeling, but I\Ndon't know exactly where he is.
-Dialogue: 0,0:17:37.11,0:17:40.70,Dubtitles,,0,0,0,,It's like when we got to Cairo,\Nand while I knew he was here,
-Dialogue: 0,0:17:40.83,0:17:42.54,Dubtitles,,0,0,0,,I couldn't pinpoint his lair.
-Dialogue: 0,0:17:42.81,0:17:45.28,Dubtitles,,0,0,0,,Lucky for us, the same thing goes for Dio.
-Dialogue: 0,0:17:45.43,0:17:47.43,Dubtitles,,0,0,0,,All he knows is that we're nearby,
-Dialogue: 0,0:17:47.53,0:17:50.47,Dubtitles,,0,0,0,,but he's unable to tell\Nthe difference between us.
-Dialogue: 0,0:17:50.83,0:17:54.83,Dubtitles,,0,0,0,,And he probably doesn't know we've\Nseparated, which is good for now.
-Dialogue: 0,0:17:57.03,0:17:58.92,Dubtitles,,0,0,0,,Why the hell isn't this working?
-Dialogue: 0,0:17:59.05,0:18:02.76,Dubtitles,,0,0,0,,Cars always start up when they\Ndo this kind of thing in movies.
-Dialogue: 0,0:18:07.39,0:18:12.25,Dubtitles,,0,0,0,,Seems like there's a traffic jam. I'm\Nsorry, sir, the evening commute is
-Dialogue: 0,0:18:12.33,0:18:16.85,Dubtitles,,0,0,0,,always bumper-to-bumper move it but\Nwe're stuck here there's just too
-Dialogue: 0,0:18:16.93,0:18:22.89,Dubtitles,,0,0,0,,much traffic have you forgotten there's\Na sidewalk use it the sidewalk but
-Dialogue: 0,0:18:22.97,0:18:28.85,Dubtitles,,0,0,0,,it's covered with people heading home\Nfrom work and your point go yes sir
-Dialogue: 0,0:18:31.23,0:18:33.19,Dubtitles,,0,0,0,,Faster, yes sir.
-Dialogue: 0,0:18:41.27,0:18:45.61,Dubtitles,,0,0,0,,okay it's running hurry up\Nand get on Polnareff oh yeah
-Dialogue: 0,0:18:50.17,0:18:54.31,Dubtitles,,0,0,0,,Oh, the things I do for you. But\NI've done everything you've asked so.
-Dialogue: 0,0:18:54.39,0:18:58.45,Dubtitles,,0,0,0,,you'll spare my life right there's\Nno need to kill a helpless senator
-Dialogue: 0,0:18:58.53,0:18:59.36,Dubtitles,,0,0,0,,Wrong.
-Dialogue: 0,0:19:02.33,0:19:03.65,Dubtitles,,0,0,0,,I have to be dreaming.
-Dialogue: 0,0:19:03.93,0:19:05.47,Dubtitles,,0,0,0,,What other explanation is there?
-Dialogue: 0,0:19:05.55,0:19:07.91,Dubtitles,,0,0,0,,As if a senator like me could be killed.
-Dialogue: 0,0:19:08.35,0:19:09.75,Dubtitles,,0,0,0,,It's just a dream!
-Dialogue: 0,0:19:11.21,0:19:12.09,Dubtitles,,0,0,0,,Found you.
-Dialogue: 0,0:19:12.33,0:19:13.35,Dubtitles,,0,0,0,,Now get closer.
-Dialogue: 0,0:19:13.57,0:19:14.97,Dubtitles,,0,0,0,,We need to catch up to them.
-Dialogue: 0,0:19:15.05,0:19:17.83,Dubtitles,,0,0,0,,I can't use the world\Nif I'm this far away.
-Dialogue: 0,0:19:18.63,0:19:19.91,Dubtitles,,0,0,0,,Look, here he comes.
-Dialogue: 0,0:19:20.21,0:19:21.29,Dubtitles,,0,0,0,,You see that car?
-Dialogue: 0,0:19:21.49,0:19:22.73,Dubtitles,,0,0,0,,That's Dio's ride.
-Dialogue: 0,0:19:25.13,0:19:25.96,Dubtitles,,0,0,0,,Hakuin!
-Dialogue: 0,0:19:29.57,0:19:30.81,Dubtitles,,0,0,0,,It's Kakyoin.
-Dialogue: 0,0:19:30.99,0:19:32.21,Dubtitles,,0,0,0,,Take this, Dio!
-Dialogue: 0,0:19:32.51,0:19:33.69,Dubtitles,,0,0,0,,Emerald Splash!
-Dialogue: 0,0:19:51.53,0:19:52.36,Dubtitles,,0,0,0,,Unbelievable!
-Dialogue: 0,0:19:52.77,0:19:55.37,Dubtitles,,0,0,0,,He deflected my attack\Nwith the flick of a finger!
-Dialogue: 0,0:19:55.45,0:19:56.73,Dubtitles,,0,0,0,,He barely moved!
-Dialogue: 0,0:19:57.29,0:19:58.76,Dubtitles,,0,0,0,,But how do you like this?
-Dialogue: 0,0:20:03.67,0:20:07.35,Dubtitles,,0,0,0,,He even dodged the\Nconcentrated splash? Damn it!
-Dialogue: 0,0:20:09.59,0:20:11.48,Dubtitles,,0,0,0,,When did he bring out his stand?
-Dialogue: 0,0:20:11.63,0:20:13.34,Dubtitles,,0,0,0,,How could I have missed that?
-Dialogue: 0,0:20:17.89,0:20:19.15,Dubtitles,,0,0,0,,Well, that's a shame.
-Dialogue: 0,0:20:19.27,0:20:20.57,Dubtitles,,0,0,0,,He's too far away now.
-Dialogue: 0,0:20:21.17,0:20:24.64,Dubtitles,,0,0,0,,My punch seems to have thrown\Nhim out of the world's range.
-Dialogue: 0,0:20:26.93,0:20:27.76,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:20:27.93,0:20:28.93,Dubtitles,,0,0,0,,What's happening?
-Dialogue: 0,0:20:29.53,0:20:33.53,Dubtitles,,0,0,0,,And what precisely would I gain by\Nexplaining this situation to you?
-Dialogue: 0,0:20:33.81,0:20:35.93,Dubtitles,,0,0,0,,Pay attention to the road and drive.
-Dialogue: 0,0:20:40.53,0:20:42.19,Dubtitles,,0,0,0,,Be careful, Kakyoin.
-Dialogue: 0,0:20:42.41,0:20:44.47,Dubtitles,,0,0,0,,You were way too close to it.
-Dialogue: 0,0:20:44.71,0:20:46.17,Dubtitles,,0,0,0,,Please, forgive me.
-Dialogue: 0,0:20:46.53,0:20:48.17,Dubtitles,,0,0,0,,I didn't mean...
-Dialogue: 0,0:20:49.67,0:20:52.35,Dubtitles,,0,0,0,,It was only a few months\Nago when Dio asked
-Dialogue: 0,0:20:52.43,0:20:55.14,Dubtitles,,0,0,0,,me if I was really going\Nto vomit out of fear.
-Dialogue: 0,0:20:55.41,0:20:58.71,Dubtitles,,0,0,0,,That monster had the audacity\Nto tell me I should relax.
-Dialogue: 0,0:20:59.91,0:21:00.74,Dubtitles,,0,0,0,,Bastard!
-Dialogue: 0,0:21:00.83,0:21:01.66,Dubtitles,,0,0,0,,Never again!
-Dialogue: 0,0:21:01.74,0:21:03.22,Dubtitles,,0,0,0,,I'll never lose to you again!
-Dialogue: 0,0:21:03.57,0:21:05.21,Dubtitles,,0,0,0,,Are you alright, Kakyoin?
-Dialogue: 0,0:21:05.39,0:21:07.57,Dubtitles,,0,0,0,,Did you catch a glimpse of the world?
-Dialogue: 0,0:21:07.73,0:21:11.57,Dubtitles,,0,0,0,,Yes, I saw it when I attacked\NDio from ten meters away.
-Dialogue: 0,0:21:11.83,0:21:14.55,Dubtitles,,0,0,0,,If I had gotten any closer,\NI would have been done for.
-Dialogue: 0,0:21:14.63,0:21:16.63,Dubtitles,,0,0,0,,But we know one thing for certain.
-Dialogue: 0,0:21:16.71,0:21:20.85,Dubtitles,,0,0,0,,His stand holds a power more horrific\Nthan we could have ever imagined.
-Dialogue: 0,0:21:20.93,0:21:23.11,Dubtitles,,0,0,0,,However, we know two things about it.
-Dialogue: 0,0:21:23.73,0:21:24.56,Dubtitles,,0,0,0,,First,
-Dialogue: 0,0:21:24.65,0:21:27.95,Dubtitles,,0,0,0,,his stand doesn't have the reach of my\NHierophant Green or your Hermit Purple.
-Dialogue: 0,0:21:28.03,0:21:29.86,Dubtitles,,0,0,0,,It's a close-range power stand,
-Dialogue: 0,0:21:30.05,0:21:33.29,Dubtitles,,0,0,0,,like Star Platinum, and has\Na range of about 10 meters.
-Dialogue: 0,0:21:33.53,0:21:34.36,Dubtitles,,0,0,0,,Second,
-Dialogue: 0,0:21:34.45,0:21:38.74,Dubtitles,,0,0,0,,it attacked with its fist, so it doesn't\Nuse projectile weapons like bullets.
-Dialogue: 0,0:21:38.91,0:21:39.99,Dubtitles,,0,0,0,,That being said,
-Dialogue: 0,0:21:40.23,0:21:42.67,Dubtitles,,0,0,0,,if we can sneak up on\Nhim and get within range,
-Dialogue: 0,0:21:42.75,0:21:45.25,Dubtitles,,0,0,0,,we just might have a chance\Nof finishing him off.
-Dialogue: 0,0:21:45.33,0:21:47.39,Dubtitles,,0,0,0,,We have to figure out his secret.
-Dialogue: 0,0:21:47.51,0:21:51.99,Dubtitles,,0,0,0,,Even so, we have to exercise extreme\Ncaution when approaching this bastard.
-Dialogue: 0,0:21:53.39,0:21:54.47,Dubtitles,,0,0,0,,Hold on.
-Dialogue: 0,0:21:54.75,0:21:56.39,Dubtitles,,0,0,0,,Why does car suddenly stop?
-Dialogue: 0,0:22:00.81,0:22:01.64,Dubtitles,,0,0,0,,Incoming!
-Dialogue: 0,0:22:01.85,0:22:03.15,Dubtitles,,0,0,0,,We're about to be hit!
-Dialogue: 0,0:22:08.27,0:22:09.61,Dubtitles,,0,0,0,,Mr. Joestar!
-Dialogue: 0,0:22:37.13,0:22:39.11,Dubtitles,,0,0,0,,What are you doing, Kakyoin?
-Dialogue: 0,0:22:39.35,0:22:40.77,Dubtitles,,0,0,0,,I understand now.
-Dialogue: 0,0:22:42.67,0:22:46.05,Dubtitles,,0,0,0,,I know now how to uncover\Nthe secret of Dio's stand.
-Dialogue: 0,0:23:02.79,0:23:04.53,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:14:47.48,0:14:48.52,Dubtitles,,0,0,0,,The automobile.
+Dialogue: 0,0:14:48.60,0:14:50.84,Dubtitles,,0,0,0,,Such impressive power and speed.
+Dialogue: 0,0:14:51.60,0:14:55.31,Dubtitles,,0,0,0,,When I was young, all we had were\Nshabby horse-drawn carriages.
+Dialogue: 0,0:14:55.68,0:14:56.54,Dubtitles,,0,0,0,,Don't move!
+Dialogue: 0,0:14:56.88,0:14:58.30,Dubtitles,,0,0,0,,What do you think you're doing?
+Dialogue: 0,0:14:58.38,0:14:59.84,Dubtitles,,0,0,0,,This car belongs to U .S.
+Dialogue: 0,0:14:59.92,0:15:00.75,Dubtitles,,0,0,0,,Senator Mr.
+Dialogue: 0,0:15:00.83,0:15:03.52,Dubtitles,,0,0,0,,Phillips, and touching\Nit results in a beatdown!
+Dialogue: 0,0:15:07.16,0:15:09.28,Dubtitles,,0,0,0,,What the hell is wrong with you?
+Dialogue: 0,0:15:10.76,0:15:17.48,Dubtitles,,0,0,0,,Oh, my, my, young people these days\Nare so full of piss and vinegar.
+Dialogue: 0,0:15:17.72,0:15:19.22,Dubtitles,,0,0,0,,Times are a-changin'.
+Dialogue: 0,0:15:22.22,0:15:23.42,Dubtitles,,0,0,0,,Why would you?
+Dialogue: 0,0:15:23.90,0:15:26.67,Dubtitles,,0,0,0,,Stop talking now and\Nproceed to the front seat.
+Dialogue: 0,0:15:26.82,0:15:27.98,Dubtitles,,0,0,0,,It's time to drive.
+Dialogue: 0,0:15:28.42,0:15:30.34,Dubtitles,,0,0,0,,Just who the hell are you, sicko?
+Dialogue: 0,0:15:30.42,0:15:34.68,Dubtitles,,0,0,0,,After I'm finished with you, you'll rue\Nthe day you ever march into my vehicle.
+Dialogue: 0,0:15:34.76,0:15:36.40,Dubtitles,,0,0,0,,Yeah, this is unforgivable.
+Dialogue: 0,0:15:36.48,0:15:39.52,Dubtitles,,0,0,0,,No one gets away with doing\Nsomething like this to me.
+Dialogue: 0,0:15:39.60,0:15:42.52,Dubtitles,,0,0,0,,I was valedictorian in both\Nhigh school and college,
+Dialogue: 0,0:15:42.60,0:15:44.68,Dubtitles,,0,0,0,,not to mention captain of\Nthe college wrestling team.
+Dialogue: 0,0:15:44.76,0:15:47.20,Dubtitles,,0,0,0,,Even after graduation,\Npeople respected me.
+Dialogue: 0,0:15:47.28,0:15:49.14,Dubtitles,,0,0,0,,That's how I became a politician.
+Dialogue: 0,0:15:49.22,0:15:52.00,Dubtitles,,0,0,0,,I own a villa on a thousand-acre\Nplot of land in Hawaii.
+Dialogue: 0,0:15:52.08,0:15:54.58,Dubtitles,,0,0,0,,My gorgeous model of a\Nwife is 25 years younger,
+Dialogue: 0,0:15:54.66,0:15:56.90,Dubtitles,,0,0,0,,and I pay more taxes than anyone else.
+Dialogue: 0,0:15:57.14,0:15:59.94,Dubtitles,,0,0,0,,I've destroyed every enemy\Nwho's ever stood in my way.
+Dialogue: 0,0:16:00.02,0:16:01.76,Dubtitles,,0,0,0,,and someday I'll become president.
+Dialogue: 0,0:16:01.84,0:16:04.16,Dubtitles,,0,0,0,,I'm THE Senator Phillips, damn it!
+Dialogue: 0,0:16:04.86,0:16:07.16,Dubtitles,,0,0,0,,Listen to me, you punk band reject!
+Dialogue: 0,0:16:07.48,0:16:11.26,Dubtitles,,0,0,0,,I'm gonna make sure you rot in prison\Nfor the rest of your miser - Hear this,
+Dialogue: 0,0:16:11.34,0:16:12.66,Dubtitles,,0,0,0,,as I won't repeat it.
+Dialogue: 0,0:16:15.50,0:16:16.84,Dubtitles,,0,0,0,,Drive the car.
+Dialogue: 0,0:16:19.70,0:16:21.66,Dubtitles,,0,0,0,,This psychopath's gonna kill me!
+Dialogue: 0,0:16:22.16,0:16:24.30,Dubtitles,,0,0,0,,I have to get the hell out of this car!
+Dialogue: 0,0:16:24.38,0:16:25.94,Dubtitles,,0,0,0,,If I don't, I'm a goner!
+Dialogue: 0,0:16:26.90,0:16:28.38,Dubtitles,,0,0,0,,Someone help me!
+Dialogue: 0,0:16:30.96,0:16:33.16,Dubtitles,,0,0,0,,What the hell?!
+Dialogue: 0,0:16:36.98,0:16:38.32,Dubtitles,,0,0,0,,What was that?
+Dialogue: 0,0:16:38.66,0:16:40.52,Dubtitles,,0,0,0,,I'm positive I jumped out of the car.
+Dialogue: 0,0:16:40.60,0:16:43.02,Dubtitles,,0,0,0,,So what the hell am I\Ndoing back in the car?
+Dialogue: 0,0:16:43.10,0:16:44.42,Dubtitles,,0,0,0,,I don't get it.
+Dialogue: 0,0:16:44.78,0:16:46.14,Dubtitles,,0,0,0,,What's going on?
+Dialogue: 0,0:16:46.44,0:16:48.68,Dubtitles,,0,0,0,,Your job is to catch up to that truck.
+Dialogue: 0,0:16:48.90,0:16:50.96,Dubtitles,,0,0,0,,Fail to do so and you die.
+Dialogue: 0,0:16:51.96,0:16:52.90,Dubtitles,,0,0,0,,Yes, sir.
+Dialogue: 0,0:16:53.50,0:16:55.38,Dubtitles,,0,0,0,,How am I still in the car?
+Dialogue: 0,0:16:55.78,0:16:57.42,Dubtitles,,0,0,0,,Of course, that's it.
+Dialogue: 0,0:16:57.58,0:16:58.46,Dubtitles,,0,0,0,,I'm a senator.
+Dialogue: 0,0:16:58.98,0:16:59.94,Dubtitles,,0,0,0,,What can't I do?
+Dialogue: 0,0:17:00.16,0:17:02.14,Dubtitles,,0,0,0,,Yes, it makes total sense now.
+Dialogue: 0,0:17:11.52,0:17:14.50,Dubtitles,,0,0,0,,I still sense Dio's sinister bloodlust.
+Dialogue: 0,0:17:14.70,0:17:16.26,Dubtitles,,0,0,0,,Its presence is overwhelming.
+Dialogue: 0,0:17:16.34,0:17:17.88,Dubtitles,,0,0,0,,He's coming for us.
+Dialogue: 0,0:17:18.06,0:17:20.34,Dubtitles,,0,0,0,,You can bet your ass he's on our trail.
+Dialogue: 0,0:17:20.42,0:17:23.89,Dubtitles,,0,0,0,,Are you saying that Dio somehow\Nknows our precise location?
+Dialogue: 0,0:17:24.26,0:17:25.09,Dubtitles,,0,0,0,,Not quite.
+Dialogue: 0,0:17:25.36,0:17:28.54,Dubtitles,,0,0,0,,He stole the body of my\Ngrandfather, Jonathan Joestar.
+Dialogue: 0,0:17:29.08,0:17:32.96,Dubtitles,,0,0,0,,I can sense his body, but I can't\Ntell if he's nearby or far away.
+Dialogue: 0,0:17:33.14,0:17:36.85,Dubtitles,,0,0,0,,I have a general feeling, but I\Ndon't know exactly where he is.
+Dialogue: 0,0:17:37.00,0:17:38.78,Dubtitles,,0,0,0,,It's like when we got to Cairo,
+Dialogue: 0,0:17:38.86,0:17:42.08,Dubtitles,,0,0,0,,and while I knew he was here,\NI couldn't pinpoint his lair.
+Dialogue: 0,0:17:42.16,0:17:44.63,Dubtitles,,0,0,0,,Lucky for us, the same thing goes for Dio.
+Dialogue: 0,0:17:45.52,0:17:47.08,Dubtitles,,0,0,0,,All he knows is that we're nearby,
+Dialogue: 0,0:17:47.16,0:17:50.10,Dubtitles,,0,0,0,,but he's unable to tell\Nthe difference between us.
+Dialogue: 0,0:17:50.30,0:17:54.30,Dubtitles,,0,0,0,,And he probably doesn't know we've\Nseparated, which is good for now.
+Dialogue: 0,0:17:56.50,0:17:58.38,Dubtitles,,0,0,0,,Why the hell isn't this working?
+Dialogue: 0,0:17:58.60,0:18:02.31,Dubtitles,,0,0,0,,Cars always start up when they\Ndo this kind of thing in movies.
+Dialogue: 0,0:18:07.04,0:18:08.98,Dubtitles,,0,0,0,,Seems like there's a traffic jam.
+Dialogue: 0,0:18:09.58,0:18:10.70,Dubtitles,,0,0,0,,I'm sorry, sir.
+Dialogue: 0,0:18:10.90,0:18:13.18,Dubtitles,,0,0,0,,The evening commute is\Nalways bumper to bumper.
+Dialogue: 0,0:18:13.26,0:18:14.09,Dubtitles,,0,0,0,,Move it.
+Dialogue: 0,0:18:14.54,0:18:15.78,Dubtitles,,0,0,0,,But we're stuck here.
+Dialogue: 0,0:18:15.96,0:18:17.68,Dubtitles,,0,0,0,,There's just too much traffic.
+Dialogue: 0,0:18:17.76,0:18:22.36,Dubtitles,,0,0,0,,Have you forgotten there's a\Nsidewalk? Use it. The sidewalk?! But
+Dialogue: 0,0:18:22.44,0:18:26.86,Dubtitles,,0,0,0,,it's covered with people heading\Nhome from work and your point go
+Dialogue: 0,0:18:27.54,0:18:28.38,Dubtitles,,0,0,0,,Yes, sir.
+Dialogue: 0,0:18:30.60,0:18:31.43,Dubtitles,,0,0,0,,Faster
+Dialogue: 0,0:18:40.52,0:18:44.18,Dubtitles,,0,0,0,,Okay, it's running hurry\Nup and get on Polnareff.
+Dialogue: 0,0:18:44.32,0:18:45.15,Dubtitles,,0,0,0,,Oh, yeah
+Dialogue: 0,0:18:49.84,0:18:51.78,Dubtitles,,0,0,0,,Oh, the things I do for you!
+Dialogue: 0,0:18:52.10,0:18:54.98,Dubtitles,,0,0,0,,But I've done everything you've\Nasked, so you'll spare my life, right?
+Dialogue: 0,0:18:55.06,0:18:57.59,Dubtitles,,0,0,0,,There's no need to kill\Na helpless senator!
+Dialogue: 0,0:18:58.12,0:18:58.95,Dubtitles,,0,0,0,,Wrong.
+Dialogue: 0,0:19:01.92,0:19:03.21,Dubtitles,,0,0,0,,I have to be dreaming?
+Dialogue: 0,0:19:03.40,0:19:04.98,Dubtitles,,0,0,0,,What other explanation is there?
+Dialogue: 0,0:19:05.06,0:19:07.12,Dubtitles,,0,0,0,,As if a senator like me could be killed!
+Dialogue: 0,0:19:07.20,0:19:08.03,Dubtitles,,0,0,0,,Woo-hoo-hoo!
+Dialogue: 0,0:19:08.11,0:19:09.26,Dubtitles,,0,0,0,,It's just a dream!
+Dialogue: 0,0:19:10.80,0:19:11.63,Dubtitles,,0,0,0,,Found you.
+Dialogue: 0,0:19:11.86,0:19:12.86,Dubtitles,,0,0,0,,Now get closer.
+Dialogue: 0,0:19:13.06,0:19:14.20,Dubtitles,,0,0,0,,We need to catch up to them.
+Dialogue: 0,0:19:14.28,0:19:17.34,Dubtitles,,0,0,0,,I can't use the world\Nif I'm this far away.
+Dialogue: 0,0:19:18.04,0:19:19.42,Dubtitles,,0,0,0,,Look, here he comes.
+Dialogue: 0,0:19:19.80,0:19:20.80,Dubtitles,,0,0,0,,You see that car?
+Dialogue: 0,0:19:20.98,0:19:22.26,Dubtitles,,0,0,0,,That's Dio's ride.
+Dialogue: 0,0:19:24.66,0:19:25.49,Dubtitles,,0,0,0,,Kakyoin!
+Dialogue: 0,0:19:29.02,0:19:30.30,Dubtitles,,0,0,0,,It's Kakyoin's.
+Dialogue: 0,0:19:30.52,0:19:31.72,Dubtitles,,0,0,0,,Take this, Dio!
+Dialogue: 0,0:19:32.02,0:19:33.20,Dubtitles,,0,0,0,,Emerald Splash!
+Dialogue: 0,0:19:51.74,0:19:52.57,Dubtitles,,0,0,0,,Unbelievable.
+Dialogue: 0,0:19:52.65,0:19:54.88,Dubtitles,,0,0,0,,He deflected my attack\Nwith the flick of a finger.
+Dialogue: 0,0:19:54.96,0:19:56.24,Dubtitles,,0,0,0,,He barely moved.
+Dialogue: 0,0:19:56.70,0:19:58.17,Dubtitles,,0,0,0,,But how do you like this?
+Dialogue: 0,0:20:03.18,0:20:06.86,Dubtitles,,0,0,0,,He even dodged the\Nconcentrated splash? Damn it!
+Dialogue: 0,0:20:09.14,0:20:11.00,Dubtitles,,0,0,0,,When did he bring out his stand?
+Dialogue: 0,0:20:11.08,0:20:12.79,Dubtitles,,0,0,0,,How could I have missed that?
+Dialogue: 0,0:20:17.42,0:20:18.66,Dubtitles,,0,0,0,,Well, that's a shame.
+Dialogue: 0,0:20:18.86,0:20:20.15,Dubtitles,,0,0,0,,He's too far away now.
+Dialogue: 0,0:20:20.58,0:20:24.05,Dubtitles,,0,0,0,,My punch seems to have thrown\Nhim out of the world's range.
+Dialogue: 0,0:20:27.44,0:20:28.46,Dubtitles,,0,0,0,,What's happening?
+Dialogue: 0,0:20:29.10,0:20:33.10,Dubtitles,,0,0,0,,And what precisely would I gain by\Nexplaining this situation to you?
+Dialogue: 0,0:20:33.32,0:20:35.44,Dubtitles,,0,0,0,,Pay attention to the road and drive.
+Dialogue: 0,0:20:40.06,0:20:41.70,Dubtitles,,0,0,0,,Be careful, Kakyoin.
+Dialogue: 0,0:20:41.92,0:20:43.94,Dubtitles,,0,0,0,,You were way too close to it.
+Dialogue: 0,0:20:44.28,0:20:45.68,Dubtitles,,0,0,0,,Please, forgive me.
+Dialogue: 0,0:20:46.04,0:20:47.48,Dubtitles,,0,0,0,,I didn't mean...
+Dialogue: 0,0:20:49.22,0:20:51.86,Dubtitles,,0,0,0,,It was only a few months\Nago when Dio asked
+Dialogue: 0,0:20:51.94,0:20:54.65,Dubtitles,,0,0,0,,me if I was really going\Nto vomit out of fear.
+Dialogue: 0,0:20:54.90,0:20:58.19,Dubtitles,,0,0,0,,That monster had the audacity\Nto tell me I should relax.
+Dialogue: 0,0:20:59.10,0:21:00.76,Dubtitles,,0,0,0,,Bastard! Never again!
+Dialogue: 0,0:21:01.04,0:21:02.75,Dubtitles,,0,0,0,,I'll never lose to you again!
+Dialogue: 0,0:21:03.14,0:21:04.74,Dubtitles,,0,0,0,,Are you alright, Kakyoin?
+Dialogue: 0,0:21:04.90,0:21:07.08,Dubtitles,,0,0,0,,Did you catch a glimpse of the world?
+Dialogue: 0,0:21:07.18,0:21:08.01,Dubtitles,,0,0,0,,Yes.
+Dialogue: 0,0:21:08.09,0:21:11.08,Dubtitles,,0,0,0,,I saw it when I attacked\NDio from ten meters away.
+Dialogue: 0,0:21:11.36,0:21:14.20,Dubtitles,,0,0,0,,If I had gotten any closer,\NI would have been done for.
+Dialogue: 0,0:21:14.28,0:21:16.06,Dubtitles,,0,0,0,,But we know one thing for certain.
+Dialogue: 0,0:21:16.14,0:21:20.32,Dubtitles,,0,0,0,,His stand holds a power more horrific\Nthan we could have ever imagined.
+Dialogue: 0,0:21:20.40,0:21:23.50,Dubtitles,,0,0,0,,However, we know two\Nthings about it. First,
+Dialogue: 0,0:21:23.74,0:21:27.42,Dubtitles,,0,0,0,,his stand doesn't have the reach of my\NHierophant Green or your Hermit Purple.
+Dialogue: 0,0:21:27.50,0:21:30.58,Dubtitles,,0,0,0,,It's a close-range power\Nstand, like Star Platinum.
+Dialogue: 0,0:21:30.72,0:21:32.72,Dubtitles,,0,0,0,,It has a range of about 10 meters.
+Dialogue: 0,0:21:33.04,0:21:33.87,Dubtitles,,0,0,0,,Second,
+Dialogue: 0,0:21:33.95,0:21:38.23,Dubtitles,,0,0,0,,it attacked with its fist, so it doesn't\Nuse projectile weapons like bullets.
+Dialogue: 0,0:21:38.42,0:21:39.50,Dubtitles,,0,0,0,,That being said,
+Dialogue: 0,0:21:39.74,0:21:41.98,Dubtitles,,0,0,0,,if we can sneak up on\Nhim and get within range,
+Dialogue: 0,0:21:42.06,0:21:46.42,Dubtitles,,0,0,0,,We just might have a chance of finishing\Nhim off We have to figure out his
+Dialogue: 0,0:21:46.50,0:21:51.56,Dubtitles,,0,0,0,,secret even so we have to exercise extreme\Ncaution when approaching this bastard
+Dialogue: 0,0:21:52.98,0:21:56.00,Dubtitles,,0,0,0,,Hold on why does car suddenly stop?
+Dialogue: 0,0:22:00.44,0:22:02.60,Dubtitles,,0,0,0,,Incoming we're about to be hit
+Dialogue: 0,0:22:07.86,0:22:08.69,Dubtitles,,0,0,0,,Mr.
+Dialogue: 0,0:22:08.77,0:22:09.60,Dubtitles,,0,0,0,,Joestar
+Dialogue: 0,0:22:36.56,0:22:38.62,Dubtitles,,0,0,0,,What are you doing, Kakyoin?
+Dialogue: 0,0:22:38.86,0:22:40.28,Dubtitles,,0,0,0,,I understand now.
+Dialogue: 0,0:22:42.28,0:22:45.60,Dubtitles,,0,0,0,,I know now how to uncover\Nthe secret of Dio's stand.
+Dialogue: 0,0:23:27.30,0:23:29.54,Dubtitles,,0,0,0,,Whenever I think about Avdol and Iggy,
 Dialogue: 1,0:23:27.46,0:23:29.47,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:27.79,0:23:30.03,Dubtitles,,0,0,0,,Whenever I think about Avdol and Iggy,
-Dialogue: 0,0:23:30.11,0:23:33.33,Dubtitles,,0,0,0,,it makes the hairs on the\Nback of my neck stand on end.
-Dialogue: 0,0:23:33.41,0:23:36.99,Dubtitles,,0,0,0,,I'm sure it's because they were the\Nfirst to treat me like a friend.
-Dialogue: 0,0:23:37.07,0:23:39.96,Dubtitles,,0,0,0,,My friends and I were on\Na journey to defeat Dio.
-Dialogue: 0,0:23:40.31,0:23:42.15,Dubtitles,,0,0,0,,All right, here it comes!
+Dialogue: 0,0:23:29.62,0:23:32.82,Dubtitles,,0,0,0,,it makes the hairs on the\Nback of my neck stand on end.
+Dialogue: 0,0:23:32.90,0:23:36.46,Dubtitles,,0,0,0,,I'm sure it's because they were the\Nfirst to treat me like a friend.
+Dialogue: 0,0:23:36.54,0:23:39.42,Dubtitles,,0,0,0,,My friends and I were on\Na journey to defeat Dio.
+Dialogue: 0,0:23:39.66,0:23:41.68,Dubtitles,,0,0,0,,All right, here it comes!
 Dialogue: 1,0:23:40.48,0:23:42.48,Next Episode,sign,0,0,0,,{\pos(960,230)\fs100.001}Episode 46
 Dialogue: 1,0:23:40.48,0:23:42.48,Next Episode,sign,0,0,0,,{\pos(960,800)\fs100.001}Dio's World, Part 2
+Dialogue: 0,0:23:42.64,0:23:42.92,Dubtitles,,0,0,0,,Thank you.
 

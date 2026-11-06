@@ -51,7 +51,7 @@ Style: ED Lyrics,Hobo Std,56,&H00FFFFFF,&H002728AF,&H00000000,&H00000000,-1,-1,0
 Style: Title - Box,Kozuka Mincho Pro Strp M,126,&H00050D10,&H000000FF,&H00040D10,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,90,90,52,1
 Style: Captions,Berthold Akzidenz Grotesk BE Su,70,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Captions 2,Calibri,30,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0,0,1,0,0,2,10,10,10,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -135,11 +135,10 @@ Dialogue: 0,0:01:11.54,0:01:12.68,Dubtitles,,0,0,0,,He doesn't have time!
 Dialogue: 0,0:01:12.76,0:01:13.82,Dubtitles,,0,0,0,,It's already done.
 Dialogue: 0,0:01:15.76,0:01:18.41,Dubtitles,,0,0,0,,Unlike some manga artists,\NI'm a fast worker.
 Dialogue: 0,0:01:18.60,0:01:21.06,Dubtitles,,0,0,0,,I always have time to thank my fans.
-Dialogue: 0,0:01:22.22,0:01:26.60,Dubtitles,,0,0,0,,Two-trip-part autographs done in\Ncoffee?! No way! Thank you, sir!
+Dialogue: 0,0:01:22.22,0:01:26.60,Dubtitles,,0,0,0,,Drip paintings done in coffee?!\NNo way! Thank you, sir!
 Dialogue: 0,0:01:26.78,0:01:27.84,Dubtitles,,0,0,0,,We'll treasure these!
-Dialogue: 0,0:01:31.12,0:01:32.84,Dubtitles,,0,0,0,,Actually, if you wouldn't mind?
-Dialogue: 0,0:01:32.92,0:01:34.60,Dubtitles,,0,0,0,,There is something personal\NI'd like to discuss.
-Dialogue: 0,0:01:34.68,0:01:36.26,Dubtitles,,0,0,0,,before we get down to business.
+Dialogue: 0,0:01:31.12,0:01:32.84,Dubtitles,,0,0,0,,Actually, if you wouldn't mind,
+Dialogue: 0,0:01:32.92,0:01:36.26,Dubtitles,,0,0,0,,there is something personal I'd like to\Ndiscuss before we get down to business.
 Dialogue: 0,0:01:36.34,0:01:37.17,Dubtitles,,0,0,0,,Sure.
 Dialogue: 0,0:01:37.25,0:01:39.72,Dubtitles,,0,0,0,,To be perfectly frank,\Nit's a question about cash.
 Dialogue: 0,0:01:39.80,0:01:41.40,Dubtitles,,0,0,0,,More specifically, my payment.
@@ -216,7 +215,7 @@ Dialogue: 2,0:05:02.69,0:05:08.16,Title,,0,0,0,,{=17}{\an2\blur0.75\fs75\pos(111
 Dialogue: 2,0:05:02.69,0:05:08.16,Title,,0,0,0,,{=16}{\an2\blur0.75\fnKozuka Mincho Pro Strp B\fs95\pos(1110,620)}“MUTSUKABE HILL”
 Dialogue: 0,0:05:12.54,0:05:13.72,Dubtitles,,0,0,0,,Naoko Osato,
 Dialogue: 0,0:05:14.12,0:05:16.36,Dubtitles,,0,0,0,,the only daughter of the Osato family,
-Dialogue: 0,0:05:16.44,0:05:20.85,Dubtitles,,0,0,0,,who found their fortune making Masa in\NMutskabe village for over 300 years.
+Dialogue: 0,0:05:16.44,0:05:20.85,Dubtitles,,0,0,0,,who found their fortune making miso in\NMutskabe village for over 300 years.
 Dialogue: 0,0:05:24.46,0:05:28.20,Dubtitles,,0,0,0,,The Osato estate stood at the end\Nof a single track road upon a hill,
 Dialogue: 0,0:05:28.28,0:05:31.50,Dubtitles,,0,0,0,,which is to say, the The\Nentire hill was theirs.
 Dialogue: 0,0:05:41.36,0:05:44.62,Dubtitles,,0,0,0,,Hey, could you go home for the day? Huh?
@@ -234,7 +233,7 @@ Dialogue: 0,0:06:16.84,0:06:19.64,Dubtitles,,0,0,0,,but it's not going to work o
 Dialogue: 0,0:06:19.72,0:06:21.37,Dubtitles,,0,0,0,,You're a part-time gardener.
 Dialogue: 0,0:06:22.14,0:06:25.88,Dubtitles,,0,0,0,,And as my dad's only daughter, I'm\Nsupposed to protect the family fortune.
 Dialogue: 0,0:06:25.96,0:06:26.79,Dubtitles,,0,0,0,,We're done.
-Dialogue: 0,0:06:28.72,0:06:30.30,Dubtitles,,0,0,0,,I Don't think so?
+Dialogue: 0,0:06:28.72,0:06:30.30,Dubtitles,,0,0,0,,I don't think so.
 Dialogue: 0,0:06:31.04,0:06:33.20,Dubtitles,,0,0,0,,You don't mean that come on.
 Dialogue: 0,0:06:33.28,0:06:35.70,Dubtitles,,0,0,0,,What's wrong with keeping our thing going?
 Dialogue: 0,0:06:35.78,0:06:37.90,Dubtitles,,0,0,0,,There's no reason for us to split up
@@ -242,7 +241,7 @@ Dialogue: 0,0:06:38.62,0:06:41.38,Dubtitles,,0,0,0,,How do you think they would\
 Dialogue: 0,0:06:41.46,0:06:44.93,Dubtitles,,0,0,0,,us like this your precious\Nfather in this new man of yours?
 Dialogue: 0,0:06:45.44,0:06:47.28,Dubtitles,,0,0,0,,Let me fucking go!
 Dialogue: 0,0:06:48.92,0:06:49.75,Dubtitles,,0,0,0,,You...
-Dialogue: 0,0:06:49.83,0:06:50.66,Dubtitles,,0,0,0,,You what?!
+Dialogue: 0,0:06:49.83,0:06:50.66,Dubtitles,,0,0,0,,you bitch!
 Dialogue: 0,0:06:52.98,0:06:53.86,Dubtitles,,0,0,0,,I'm sorry.
 Dialogue: 0,0:06:54.12,0:06:55.22,Dubtitles,,0,0,0,,I didn't...
 Dialogue: 0,0:06:55.30,0:06:57.30,Dubtitles,,0,0,0,,after you hit me, I just reacted.
@@ -267,7 +266,7 @@ Dialogue: 0,0:08:15.04,0:08:15.87,Dubtitles,,0,0,0,,No.
 Dialogue: 0,0:08:15.95,0:08:18.14,Dubtitles,,0,0,0,,If this is another one of\Nyour jokes, it's not funny.
 Dialogue: 0,0:08:18.22,0:08:20.10,Dubtitles,,0,0,0,,Another prank, right? Gunpei.
 Dialogue: 0,0:08:20.18,0:08:21.60,Dubtitles,,0,0,0,,Stop playing around.
-Dialogue: 0,0:08:21.68,0:08:24.72,Dubtitles,,0,0,0,,I don't feel a pulse. He's dead.
+Dialogue: 0,0:08:21.68,0:08:24.72,Dubtitles,,0,0,0,,I don't feel a pulse. He's...
 Dialogue: 0,0:08:24.80,0:08:25.92,Dubtitles,,0,0,0,,He's dead.
 Dialogue: 0,0:08:29.38,0:08:34.70,Dubtitles,,0,0,0,,Not knowing what else to do, Naoko Osato\Ndecided to dress Gunpei's wound regardless.
 Dialogue: 0,0:08:34.78,0:08:38.14,Dubtitles,,0,0,0,,She pressed a towel she found\Nnearby against his head.
@@ -296,8 +295,8 @@ Dialogue: 0,0:09:43.10,0:09:45.04,Dubtitles,,0,0,0,,Maybe Naoko isn't here after
 Dialogue: 0,0:09:46.66,0:09:48.90,Dubtitles,,0,0,0,,It may have been my imagination, Mr.
 Dialogue: 0,0:09:49.04,0:09:53.04,Dubtitles,,0,0,0,,Osato, but I could have sworn I saw\Nthat window screen move earlier.
 Dialogue: 0,0:10:02.08,0:10:08.84,Dubtitles,,0,0,0,,I need to do something with his body.
-Dialogue: 0,0:10:15.58,0:10:19.10,Dubtitles,,0,0,0,,What's going on he\Ndoesn't have a pulse his
-Dialogue: 0,0:10:19.18,0:10:22.00,Dubtitles,,0,0,0,,heart's not beating so\Nwhy is he still bleeding?
+Dialogue: 0,0:10:15.58,0:10:19.10,Dubtitles,,0,0,0,,What's going on? He\Ndoesn't have a pulse. His
+Dialogue: 0,0:10:19.18,0:10:21.95,Dubtitles,,0,0,0,,heart's not beating so\Nwhy is he still bleeding
 Dialogue: 0,0:10:23.00,0:10:24.64,Dubtitles,,0,0,0,,Naoko, are you there?
 Dialogue: 0,0:10:26.14,0:10:27.20,Dubtitles,,0,0,0,,What's going on?
 Dialogue: 0,0:10:27.60,0:10:28.56,Dubtitles,,0,0,0,,Are you alright?
@@ -336,7 +335,7 @@ Dialogue: 0,0:11:45.32,0:11:46.64,Dubtitles,,0,0,0,,It's me, Shuichi.
 Dialogue: 0,0:11:47.16,0:11:50.60,Dubtitles,,0,0,0,,I bet you're wondering what\NI'm still doing out front here.
 Dialogue: 0,0:11:50.68,0:11:52.80,Dubtitles,,0,0,0,,Honestly, it was your father's idea.
 Dialogue: 0,0:11:53.18,0:11:57.71,Dubtitles,,0,0,0,,He lent me the spare key so you and I\Ncould spend more quality time together.
-Dialogue: 0,0:11:58.92,0:12:00.12,Dubtitles,,0,0,0,,No! Damn!
+Dialogue: 0,0:11:58.92,0:12:00.12,Dubtitles,,0,0,0,,No! Damn it!
 Dialogue: 0,0:12:00.52,0:12:02.46,Dubtitles,,0,0,0,,You can't come in no matter what!
 Dialogue: 0,0:12:04.58,0:12:06.70,Dubtitles,,0,0,0,,Naoko, I actually saw someone.
 Dialogue: 0,0:12:07.28,0:12:10.46,Dubtitles,,0,0,0,,A figure in the window as I\Nwas approaching the house.
@@ -357,7 +356,7 @@ Dialogue: 0,0:13:39.68,0:13:41.62,Dubtitles,,0,0,0,,Who might that have been, Su
 Dialogue: 0,0:13:47.10,0:13:47.93,Dubtitles,,0,0,0,,Please...
 Dialogue: 0,0:13:48.01,0:13:50.20,Dubtitles,,0,0,0,,Please stop...
 Dialogue: 0,0:13:50.28,0:13:52.26,Dubtitles,,0,0,0,,Please stop...
-Dialogue: 0,0:13:52.34,0:13:54.22,Dubtitles,,0,0,0,,Unpei... I'm sorry...
+Dialogue: 0,0:13:52.34,0:13:54.22,Dubtitles,,0,0,0,,Gunpei... I'm sorry...
 Dialogue: 0,0:13:58.00,0:13:58.83,Dubtitles,,0,0,0,,Stop.
 Dialogue: 0,0:13:58.91,0:14:00.08,Dubtitles,,0,0,0,,Please forgive me.
 Dialogue: 0,0:14:03.88,0:14:06.22,Dubtitles,,0,0,0,,Hey, I'm really sorry about that.
@@ -377,15 +376,14 @@ Dialogue: 0,0:15:09.24,0:15:10.48,Dubtitles,,0,0,0,,A daily ritual.
 Dialogue: 0,0:15:11.18,0:15:16.20,Dubtitles,,0,0,0,,She does this without fail so as to hide\Nit from the prying eyes of her family.
 Dialogue: 0,0:15:17.00,0:15:19.32,Dubtitles,,0,0,0,,Hey Naoko, come and eat with us.
 Dialogue: 0,0:15:19.90,0:15:21.28,Dubtitles,,0,0,0,,I'll be right there.
-Dialogue: 0,0:15:29.96,0:15:33.88,Dubtitles,,0,0,0,,Ever since the detached guest house\Nwas demolished for conversion.
-Dialogue: 0,0:15:33.96,0:15:37.12,Dubtitles,,0,0,0,,Hidden in the attic above\Nthe closet in the main house.
-Dialogue: 0,0:15:37.20,0:15:39.08,Dubtitles,,0,0,0,,Lies Gunpei.
-Dialogue: 0,0:15:42.22,0:15:44.42,Dubtitles,,0,0,0,,This is where Naoko discovered.
-Dialogue: 0,0:15:45.42,0:15:49.78,Dubtitles,,0,0,0,,That whenever she sprayed\Nwater All over Gunpei's body
-Dialogue: 0,0:15:52.06,0:15:57.26,Dubtitles,,0,0,0,,Somehow his skin would temporarily return\Nto the state it was in when he was alive.
+Dialogue: 0,0:15:29.96,0:15:33.88,Dubtitles,,0,0,0,,Ever since the detached guest\Nhouse was demolished for conversion
+Dialogue: 0,0:15:33.96,0:15:39.08,Dubtitles,,0,0,0,,Hidden in the attic above the closet\Nin the main house lies Gunpei.
+Dialogue: 0,0:15:42.22,0:15:44.42,Dubtitles,,0,0,0,,This is where Naoko discovered
+Dialogue: 0,0:15:45.42,0:15:49.78,Dubtitles,,0,0,0,,That whenever she sprayed\Nwater all over Gunpei's body.
+Dialogue: 0,0:15:52.06,0:15:57.26,Dubtitles,,0,0,0,,Somehow his skin would temporarily return\Nto the state it was in when he was alive
 Dialogue: 0,0:15:59.12,0:16:01.24,Dubtitles,,0,0,0,,You're so cute when you're asleep.
-Dialogue: 0,0:16:02.62,0:16:05.06,Dubtitles,,0,0,0,,Gunpei, you are mine and mine alone.
-Dialogue: 0,0:16:06.18,0:16:11.08,Dubtitles,,0,0,0,,I'm the only person in the whole world who\Ncould take care of you forever and ever?
+Dialogue: 0,0:16:02.62,0:16:05.06,Dubtitles,,0,0,0,,Gunpei, you are mine and mine alone
+Dialogue: 0,0:16:06.18,0:16:11.08,Dubtitles,,0,0,0,,I'm the only person in the whole world who\Ncould take care of you forever and ever
 Dialogue: 0,0:16:12.12,0:16:13.78,Dubtitles,,0,0,0,,What exactly is he?
 Dialogue: 0,0:16:14.10,0:16:17.34,Dubtitles,,0,0,0,,There's no denying he's\Nbeen dead this entire time.
 Dialogue: 0,0:16:19.58,0:16:23.54,Dubtitles,,0,0,0,,I first learned of Gunpei Kamofsa\Non one of my trips to the area.
@@ -396,21 +394,22 @@ Dialogue: 0,0:16:33.32,0:16:39.04,Dubtitles,,0,0,0,,this is an absolutely positi
 Dialogue: 0,0:16:39.18,0:16:40.06,Dubtitles,,0,0,0,,Absolutely not.
 Dialogue: 0,0:16:40.70,0:16:43.68,Dubtitles,,0,0,0,,I've told you a hundred times\NI'm not selling my hills.
 Dialogue: 0,0:16:43.76,0:16:47.26,Dubtitles,,0,0,0,,Well, I'm sure there's some way\Nwe can help change your mind.
-Dialogue: 0,0:16:47.34,0:16:48.90,Dubtitles,,0,0,0,,Heh heh heh. Huh?
-Dialogue: 0,0:16:49.80,0:16:50.63,Dubtitles,,0,0,0,,Oh!
-Dialogue: 0,0:16:51.20,0:16:53.42,Dubtitles,,0,0,0,,Yes, hello! This is Matsudera.
-Dialogue: 0,0:16:54.36,0:16:55.83,Dubtitles,,0,0,0,,I learned of this affair?
-Dialogue: 0,0:16:56.48,0:16:59.88,Dubtitles,,0,0,0,,When I stumbled into a chance\Nencounter with Naoko Osato!
-Dialogue: 0,0:17:00.86,0:17:03.15,Dubtitles,,0,0,0,,and read her memory with Heaven's Door.
-Dialogue: 0,0:17:03.42,0:17:08.34,Dubtitles,,0,0,0,,It's through this stroke of luck that I\Nlearned about the existence of this man.
-Dialogue: 0,0:17:09.38,0:17:10.21,Dubtitles,,0,0,0,,Yes?
+Dialogue: 0,0:16:47.34,0:16:48.90,Dubtitles,,0,0,0,,Heh heh heh heh. Huh?
+Dialogue: 0,0:16:50.34,0:16:51.17,Dubtitles,,0,0,0,,Oh!
+Dialogue: 0,0:16:51.25,0:16:53.42,Dubtitles,,0,0,0,,Yes, hello! This is Matsudera.
+Dialogue: 0,0:16:54.36,0:16:55.80,Dubtitles,,0,0,0,,I learned of this affair
+Dialogue: 0,0:16:56.50,0:16:59.86,Dubtitles,,0,0,0,,when I stumbled into a chance\Nencounter with Naoko Osato
+Dialogue: 0,0:17:00.44,0:17:02.82,Dubtitles,,0,0,0,,and read her memory with Heaven's Door.
+Dialogue: 0,0:17:03.44,0:17:07.86,Dubtitles,,0,0,0,,It's through this stroke of luck that I\Nlearned about the existence of this...
+Dialogue: 0,0:17:07.94,0:17:08.77,Dubtitles,,0,0,0,,...man.
+Dialogue: 0,0:17:09.40,0:17:10.23,Dubtitles,,0,0,0,,Yes!
 Dialogue: 0,0:17:10.48,0:17:13.08,Dubtitles,,0,0,0,,Hey, can you hear me? The signal's bad.
 Dialogue: 0,0:17:13.24,0:17:14.53,Dubtitles,,0,0,0,,Just a moment, please.
 Dialogue: 0,0:17:15.78,0:17:18.16,Dubtitles,,0,0,0,,So, what are you, huh, Gunpei?
 Dialogue: 0,0:17:18.64,0:17:21.72,Dubtitles,,0,0,0,,I intend to see the truth\Nwith my own two eyes.
 Dialogue: 0,0:17:22.36,0:17:25.58,Dubtitles,,0,0,0,,I want to know what you're after.
-Dialogue: 0,0:17:27.02,0:17:31.40,Dubtitles,,0,0,0,,In the attic above the closet in\Nthat main house, I'll find him there.
-Dialogue: 0,0:17:31.66,0:17:33.60,Dubtitles,,0,0,0,,You're Kishibe Rohan, aren't you?
+Dialogue: 0,0:17:27.02,0:17:31.40,Dubtitles,,0,0,0,,In the attic above the closet in\Nthat main house. I'll find him there.
+Dialogue: 0,0:17:31.66,0:17:33.60,Dubtitles,,0,0,0,,You're Rohan Kishibe, aren't you?
 Dialogue: 0,0:17:33.70,0:17:34.82,Dubtitles,,0,0,0,,The manga artist.
 Dialogue: 0,0:17:35.88,0:17:37.17,Dubtitles,,0,0,0,,That's what I thought.
 Dialogue: 0,0:17:37.52,0:17:40.40,Dubtitles,,0,0,0,,I'd heard you'd been\Nsnooping around here lately.
@@ -431,10 +430,10 @@ Dialogue: 0,0:18:29.30,0:18:30.84,Dubtitles,,0,0,0,,What's going on here?
 Dialogue: 0,0:18:31.08,0:18:32.72,Dubtitles,,0,0,0,,Who the hell is this girl?
 Dialogue: 0,0:18:33.12,0:18:34.12,Dubtitles,,0,0,0,,It can't be.
 Dialogue: 0,0:18:34.38,0:18:35.44,Dubtitles,,0,0,0,,There's no way.
-Dialogue: 0,0:18:35.52,0:18:39.00,Dubtitles,,0,0,0,,Is this girl Gunpei's daughter?
+Dialogue: 0,0:18:35.52,0:18:39.00,Dubtitles,,0,0,0,,Is this girl Gunpei's child?
 Dialogue: 0,0:18:39.50,0:18:40.80,Dubtitles,,0,0,0,,Naoko Osato,
 Dialogue: 0,0:18:41.26,0:18:46.62,Dubtitles,,0,0,0,,did she get pregnant from the corpse\Nhiding in the attic and give birth? Mr.
-Dialogue: 0,0:18:46.72,0:18:48.50,Dubtitles,,0,0,0,,Koshime, where are you?
+Dialogue: 0,0:18:46.72,0:18:48.50,Dubtitles,,0,0,0,,Kishibe, where are you?
 Dialogue: 0,0:18:49.98,0:18:52.58,Dubtitles,,0,0,0,,Where are you, Mr. Kishibe?
 Dialogue: 0,0:18:57.50,0:18:58.52,Dubtitles,,0,0,0,,Damn it.
 Dialogue: 0,0:18:59.14,0:19:00.70,Dubtitles,,0,0,0,,It's trying to possess me.
@@ -453,7 +452,7 @@ Dialogue: 0,0:20:01.24,0:20:04.48,Dubtitles,,0,0,0,,A moment's hesitation, and\N
 Dialogue: 0,0:20:05.94,0:20:08.96,Dubtitles,,0,0,0,,Or worse yet, devastated.
 Dialogue: 0,0:20:09.90,0:20:12.76,Dubtitles,,0,0,0,,What a terrifying\Ncreature. Another second.
 Dialogue: 0,0:20:13.92,0:20:15.62,Dubtitles,,0,0,0,,So that's where you went, Mr.
-Dialogue: 0,0:20:15.70,0:20:16.53,Dubtitles,,0,0,0,,Kishibe.
+Dialogue: 0,0:20:15.70,0:20:16.53,Dubtitles,,0,0,0,,Kishibe!
 Dialogue: 0,0:20:16.61,0:20:18.62,Dubtitles,,0,0,0,,Terribly sorry to have\Nleft you alone like that.
 Dialogue: 0,0:20:18.70,0:20:21.82,Dubtitles,,0,0,0,,It was an important call from\Nthe main office, you see.
 Dialogue: 0,0:20:21.90,0:20:24.12,Dubtitles,,0,0,0,,You can take your offer and shove it.
@@ -481,46 +480,43 @@ Dialogue: 0,0:21:29.08,0:21:30.96,Dubtitles,,0,0,0,,You can't just barge into ou
 Dialogue: 0,0:21:31.52,0:21:34.32,Dubtitles,,0,0,0,,By the way, there's something\NI've always wanted to ask you.
 Dialogue: 0,0:21:34.40,0:21:36.32,Dubtitles,,0,0,0,,Are you serious when\Nyou say you're an alien?
 Dialogue: 0,0:21:36.40,0:21:37.23,Dubtitles,,0,0,0,,Oh, yes.
-Dialogue: 0,0:21:37.31,0:21:40.53,Dubtitles,,0,0,0,,I traveled from the Magellanic\NClouds to live here in Mariah.
+Dialogue: 0,0:21:37.31,0:21:40.53,Dubtitles,,0,0,0,,I traveled from the Magellanic\NClouds to live here in Morio.
 Dialogue: 0,0:21:40.74,0:21:43.16,Dubtitles,,0,0,0,,But my spaceship is still standing by...
 Dialogue: 0,0:21:43.24,0:21:46.26,Dubtitles,,0,0,0,,All this alien crap is\Nputting me to sleep here.
 Dialogue: 1,0:21:44.43,0:21:47.07,Main,Okuyasu,0,0,0,,{\an8}Fuckin' annoying space alien...{Ditto. -Starfish}
 Dialogue: 0,0:21:48.60,0:21:51.48,Dubtitles,,0,0,0,,How many Mutsukabe Hill\NMonsters walk this world?
 Dialogue: 0,0:21:51.74,0:21:54.21,Dubtitles,,0,0,0,,I have no interest in questions like that.
-Dialogue: 0,0:21:55.60,0:21:57.80,Dubtitles,,0,0,0,,Naoko Osato looks happy enough.
-Dialogue: 0,0:21:57.88,0:22:00.35,Dubtitles,,0,0,0,,And I've discovered the monster's purpose!
-Dialogue: 0,0:22:01.86,0:22:03.60,Dubtitles,,0,0,0,,I know what I am.
-Dialogue: 0,0:22:03.68,0:22:04.80,Dubtitles,,0,0,0,,And it's not a scholar.
-Dialogue: 0,0:22:04.88,0:22:06.34,Dubtitles,,0,0,0,,Or a journalist either.
-Dialogue: 0,0:22:06.42,0:22:07.60,Dubtitles,,0,0,0,,Me.
-Dialogue: 0,0:22:07.68,0:22:10.00,Dubtitles,,0,0,0,,I'm just a manga artist.
+Dialogue: 0,0:21:55.60,0:22:00.28,Dubtitles,,0,0,0,,Naoko Osato looks happy enough. And\NI've discovered the monster's purpose.
+Dialogue: 0,0:22:01.86,0:22:05.46,Dubtitles,,0,0,0,,I know what I am And\Nit's not a scholar Or a
+Dialogue: 0,0:22:05.54,0:22:10.00,Dubtitles,,0,0,0,,journalist either Me\NI'm just a manga artist
 Dialogue: 0,0:22:10.90,0:22:11.73,Dubtitles,,0,0,0,,Mom!
 Dialogue: 0,0:22:13.78,0:22:17.08,Dubtitles,,0,0,0,,Do you think I'll marry\Na handsome man one day?
-Dialogue: 0,0:22:18.42,0:22:20.04,Dubtitles,,0,0,0,,Of course you will.
-Dialogue: 0,0:22:44.20,0:22:47.00,Dubtitles,,0,0,0,,I don't want to know the truth.
+Dialogue: 0,0:22:18.42,0:22:20.04,Dubtitles,,0,0,0,,Of course you will
+Dialogue: 0,0:22:44.20,0:22:48.26,Dubtitles,,0,0,0,,I don't want to know the truth Of life
 Dialogue: 1,0:22:44.80,0:22:50.14,ED Lyrics,,0,0,0,,{\fad(100,100)}I wanna know the truth of life that never ends
-Dialogue: 0,0:22:47.08,0:22:49.74,Dubtitles,,0,0,0,,Of life that never melts.
-Dialogue: 0,0:22:49.82,0:22:52.64,Dubtitles,,0,0,0,,To chain a mystic rise.
+Dialogue: 0,0:22:48.34,0:22:52.64,Dubtitles,,0,0,0,,that never melts To chain a mystic rise
 Dialogue: 1,0:22:50.14,0:22:55.35,ED Lyrics,,0,0,0,,{\fad(100,100)}To unchain the mystic rites I'm calling
 Dialogue: 0,0:22:53.54,0:22:55.38,Dubtitles,,0,0,0,,I'm coming,
-Dialogue: 0,0:22:55.46,0:23:00.58,Dubtitles,,0,0,0,,I'm on my way to find\Neternal valedictives!
+Dialogue: 0,0:22:55.46,0:22:59.04,Dubtitles,,0,0,0,,I'm on my way to find eternal
 Dialogue: 1,0:22:55.52,0:23:00.81,ED Lyrics,,0,0,0,,{\fad(100,100)}I'm on my way to find the eternal verities
-Dialogue: 0,0:23:00.66,0:23:04.54,Dubtitles,,0,0,0,,Exploding all their\Ntears, drops by the sun.
+Dialogue: 0,0:22:59.12,0:23:03.10,Dubtitles,,0,0,0,,Valedictives, exploding all their tears.
 Dialogue: 1,0:23:00.81,0:23:06.53,ED Lyrics,,0,0,0,,{\fad(100,100)}Exploding all the teardrops by the sun
+Dialogue: 0,0:23:03.28,0:23:04.54,Dubtitles,,0,0,0,,Drops by the sun.
 Dialogue: 0,0:23:05.28,0:23:11.88,Dubtitles,,0,0,0,,I can feel my heart beating,
 Dialogue: 1,0:23:06.53,0:23:11.87,ED Lyrics,,0,0,0,,{\fad(100,100)}I can feel my heart beating
 Dialogue: 1,0:23:11.87,0:23:22.42,ED Lyrics,,0,0,0,,{\fad(100,100)}I can see my fate all spinning around beyond the time
-Dialogue: 0,0:23:11.96,0:23:15.02,Dubtitles,,0,0,0,,I can see my faith.
-Dialogue: 0,0:23:15.10,0:23:20.64,Dubtitles,,0,0,0,,All spinning round beyond our time.
-Dialogue: 0,0:23:20.72,0:23:27.20,Dubtitles,,0,0,0,,Rise up to the sky like a butterfly.
+Dialogue: 0,0:23:11.96,0:23:15.72,Dubtitles,,0,0,0,,I can see my faith All
+Dialogue: 0,0:23:15.80,0:23:20.64,Dubtitles,,0,0,0,,Spinning round beyond our time.
+Dialogue: 0,0:23:20.72,0:23:25.80,Dubtitles,,0,0,0,,Rise up to the sky like
 Dialogue: 1,0:23:22.42,0:23:27.67,ED Lyrics,,0,0,0,,{\fad(100,100)}Rise up to the sky, like a butterfly
-Dialogue: 0,0:23:27.28,0:23:31.66,Dubtitles,,0,0,0,,Show me what's inside your world.
+Dialogue: 0,0:23:25.88,0:23:29.60,Dubtitles,,0,0,0,,a butterfly Show me what's
 Dialogue: 1,0:23:27.67,0:23:33.01,ED Lyrics,,0,0,0,,{\fad(100,100)}Show me what's inside, don't ever let go
-Dialogue: 0,0:23:31.74,0:23:38.34,Dubtitles,,0,0,0,,Shining stars will guide\Nme to somewhere high.
+Dialogue: 0,0:23:29.68,0:23:34.04,Dubtitles,,0,0,0,,inside your world. Shining
 Dialogue: 1,0:23:33.01,0:23:38.48,ED Lyrics,,0,0,0,,{\fad(100,100)}Shining stars will guide me to somewhere high
-Dialogue: 0,0:23:38.42,0:23:42.76,Dubtitles,,0,0,0,,Finding the truth beyond\Nthe heaven's door.
+Dialogue: 0,0:23:34.12,0:23:36.64,Dubtitles,,0,0,0,,stars will guide me to
+Dialogue: 0,0:23:36.72,0:23:42.76,Dubtitles,,0,0,0,,Somewhere high, finding the\Ntruth beyond the heaven's door.
 Dialogue: 1,0:23:38.48,0:23:44.36,ED Lyrics,,0,0,0,,{\fad(100,100)}Finding the truth beyond the Heaven's Door
-Dialogue: 0,0:23:58.18,0:23:59.58,Dubtitles,,0,0,0,,You
+Dialogue: 0,0:23:58.18,0:23:59.58,Dubtitles,,0,0,0,,You.
 Dialogue: 0,0:24:20.72,0:24:21.55,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 0,0:24:50.72,0:24:52.82,Dubtitles,,0,0,0,,Thank you.
 

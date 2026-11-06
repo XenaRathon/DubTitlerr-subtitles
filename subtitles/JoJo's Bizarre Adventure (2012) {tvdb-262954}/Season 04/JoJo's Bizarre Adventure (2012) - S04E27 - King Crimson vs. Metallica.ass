@@ -11,7 +11,7 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.32,0:00:02.52,Default,,0,0,0,,I'll dope you.
+Dialogue: 0,0:00:01.32,0:00:02.52,Default,,0,0,0,,I'll drop you.
 Dialogue: 0,0:00:02.82,0:00:05.54,Default,,0,0,0,,Have you so easily\Nforgotten that I bestowed
 Dialogue: 0,0:00:05.62,0:00:08.03,Default,,0,0,0,,you with part of Emperor Crimson's power?
 Dialogue: 0,0:00:09.82,0:00:12.68,Default,,0,0,0,,Now's your chance to\Napply your unique talents.
@@ -19,58 +19,45 @@ Dialogue: 0,0:00:12.76,0:00:16.08,Default,,0,0,0,,You have eulogy and the\Narms 
 Dialogue: 0,0:00:16.30,0:00:19.60,Default,,0,0,0,,Calm your senses and open your eyes.
 Dialogue: 0,0:00:19.80,0:00:22.40,Default,,0,0,0,,I know you have what it takes to do this.
 Dialogue: 0,0:00:22.74,0:00:26.92,Default,,0,0,0,,Now look at your immediate\Nsurroundings and peer into the future.
-Dialogue: 0,0:00:31.42,0:00:36.58,Default,,0,0,0,,I can't find it anymore.
-Dialogue: 0,0:00:36.82,0:00:39.50,Default,,0,0,0,,I'm not sure.
-Dialogue: 0,0:00:39.58,0:00:40.66,Default,,0,0,0,,I'm not sure.
-Dialogue: 0,0:00:40.74,0:00:42.20,Default,,0,0,0,,I can't find it.
-Dialogue: 0,0:00:42.34,0:00:43.20,Default,,0,0,0,,I can't find it anymore.
-Dialogue: 0,0:00:43.28,0:00:44.11,Default,,0,0,0,,GameStop.
-Dialogue: 0,0:01:00.74,0:01:05.06,Default,,0,0,0,,It's a dream that's a dream\Nthat's a massive dream.
-Dialogue: 0,0:01:05.14,0:01:09.88,Default,,0,0,0,,It's a dream that I'm dreaming!
-Dialogue: 0,0:01:12.26,0:01:13.40,Default,,0,0,0,,I'll tell you,
-Dialogue: 0,0:01:13.54,0:01:15.86,Default,,0,0,0,,Can you?
-Dialogue: 0,0:01:15.94,0:01:21.18,Default,,0,0,0,,tell me?
-Dialogue: 0,0:01:22.64,0:01:25.74,Default,,0,0,0,,I just say, I'm thinking.
-Dialogue: 0,0:01:25.82,0:01:27.26,Default,,0,0,0,,I'm thinking. I'm thinking.
-Dialogue: 0,0:01:27.34,0:01:28.42,Default,,0,0,0,,I'm thinking. I'm thinking.
-Dialogue: 0,0:01:28.50,0:01:29.33,Default,,0,0,0,,I'm thinking.
-Dialogue: 0,0:01:29.41,0:01:31.38,Default,,0,0,0,,Break it and roll.
-Dialogue: 0,0:01:32.02,0:01:34.40,Default,,0,0,0,,Whoa, whoa!
-Dialogue: 0,0:01:35.32,0:01:38.92,Default,,0,0,0,,I'm going to go to the world.
-Dialogue: 0,0:01:39.00,0:01:39.83,Default,,0,0,0,,I'm going to go to the world.
-Dialogue: 0,0:01:39.91,0:01:41.67,Default,,0,0,0,,I'm going to go to the sky.
-Dialogue: 0,0:01:41.76,0:01:46.28,Default,,0,0,0,,When I'm going to die.
-Dialogue: 0,0:01:46.90,0:01:50.28,Default,,0,0,0,,I'm going to die. Hell no!
-Dialogue: 0,0:01:50.36,0:01:54.20,Default,,0,0,0,,I'm going to go and win.
-Dialogue: 0,0:02:03.20,0:02:07.46,Default,,0,0,0,,Look carefully into the future\Nand predict that which shall be.
-Dialogue: 0,0:02:07.74,0:02:09.28,Default,,0,0,0,,Ten seconds from now.
-Dialogue: 0,0:02:14.72,0:02:15.55,Default,,0,0,0,,Birds!
+Dialogue: 0,0:00:31.92,0:00:33.45,Default,,0,0,0,,I'd like to hear the song.
+Dialogue: 0,0:00:36.68,0:00:43.58,Default,,0,0,0,,I'd like to hear the song.\NI'd like to hear the song.
+Dialogue: 0,0:00:44.36,0:00:49.92,Default,,0,0,0,,I'm sorry, I'm sorry, I'm
+Dialogue: 0,0:00:50.00,0:00:57.00,Default,,0,0,0,,sorry,
+Dialogue: 0,0:01:05.42,0:01:09.10,Default,,0,0,0,,I'm sorry, I'm sorry.
+Dialogue: 0,0:01:41.74,0:01:43.50,Default,,0,0,0,,The end of the day is the end of the day.
+Dialogue: 0,0:01:43.58,0:01:45.11,Default,,0,0,0,,When the world is falling,
+Dialogue: 0,0:01:47.08,0:01:48.42,Default,,0,0,0,,I will never die,
+Dialogue: 0,0:01:49.58,0:01:50.41,Default,,0,0,0,,Hell no!
+Dialogue: 0,0:01:50.86,0:01:52.70,Default,,0,0,0,,The beginning of the world!
+Dialogue: 0,0:02:14.56,0:02:15.40,Default,,0,0,0,,Ah, birds!
 Dialogue: 0,0:02:15.74,0:02:17.96,Default,,0,0,0,,The birds flew by just like I saw!
-Dialogue: 0,0:02:27.12,0:02:29.32,Default,,0,0,0,,Boss, I think I found something.
-Dialogue: 0,0:02:29.54,0:02:31.90,Default,,0,0,0,,It was hard for me, but Eulogy found him.
-Dialogue: 0,0:02:31.98,0:02:33.22,Default,,0,0,0,,Ten seconds from now.
+Dialogue: 0,0:02:26.64,0:02:27.47,Default,,0,0,0,,Ah!
+Dialogue: 0,0:02:27.55,0:02:29.32,Default,,0,0,0,,Boss, I think I found something.
+Dialogue: 0,0:02:29.54,0:02:31.86,Default,,0,0,0,,It was hard for me, but Eulogy found him.
+Dialogue: 0,0:02:31.94,0:02:33.18,Default,,0,0,0,,Ten seconds from now.
 Dialogue: 0,0:02:34.04,0:02:35.36,Default,,0,0,0,,I can't believe it.
-Dialogue: 0,0:02:35.54,0:02:38.22,Default,,0,0,0,,The guy's blending into the\Ncliffs to stay out of sight.
-Dialogue: 0,0:02:38.30,0:02:40.16,Default,,0,0,0,,But I can't see him right now.
-Dialogue: 0,0:02:40.34,0:02:43.38,Default,,0,0,0,,My bare eyes are useless as\Nlong as he stays like this.
-Dialogue: 0,0:02:43.46,0:02:44.50,Default,,0,0,0,,That's Risotto.
-Dialogue: 0,0:02:45.08,0:02:47.64,Default,,0,0,0,,Somehow he's also able\Nto disguise himself.
-Dialogue: 0,0:02:48.34,0:02:53.70,Default,,0,0,0,,Of course, he's normally invisible, but\Nyou saw him because of your foresight.
-Dialogue: 0,0:02:54.20,0:02:58.14,Default,,0,0,0,,Deep look a few seconds ahead\Nand see how he's going to attack.
-Dialogue: 0,0:02:59.56,0:03:02.26,Default,,0,0,0,,There he is he's on the move.
-Dialogue: 0,0:03:08.76,0:03:10.30,Default,,0,0,0,,What the hell!
-Dialogue: 0,0:03:11.42,0:03:14.62,Default,,0,0,0,,I've got some bad news,\Nboss. In ten seconds
-Dialogue: 0,0:03:14.70,0:03:17.64,Default,,0,0,0,,scissors are gonna rip\Ntheir way out of my throat.
-Dialogue: 0,0:03:18.18,0:03:19.42,Default,,0,0,0,,Peace, Deep.
-Dialogue: 0,0:03:19.50,0:03:22.28,Default,,0,0,0,,Despite appearances,\Nthat was not your death.
-Dialogue: 0,0:03:22.96,0:03:26.08,Default,,0,0,0,,Risotto is the one defector\Nwho's eluded the Family.
-Dialogue: 0,0:03:26.40,0:03:28.82,Default,,0,0,0,,Dealing with him will result in injury.
-Dialogue: 0,0:03:29.30,0:03:32.16,Default,,0,0,0,,You must use those seconds\Nof knowledge granted to you
+Dialogue: 0,0:02:35.54,0:02:38.20,Default,,0,0,0,,The guy's blending into the\Ncliffs to stay out of sight.
+Dialogue: 0,0:02:38.28,0:02:40.16,Default,,0,0,0,,But I can't see him right now.
+Dialogue: 0,0:02:40.34,0:02:43.50,Default,,0,0,0,,My bare eyes are useless as\Nlong as he stays like this.
+Dialogue: 0,0:02:43.58,0:02:44.50,Default,,0,0,0,,That's Risotto.
+Dialogue: 0,0:02:44.82,0:02:47.62,Default,,0,0,0,,Somehow he's also able\Nto disguise himself.
+Dialogue: 0,0:02:48.32,0:02:53.70,Default,,0,0,0,,Of course he's normally invisible, but\Nyou saw him because of your foresight.
+Dialogue: 0,0:02:54.30,0:02:58.12,Default,,0,0,0,,Topio, look a few seconds ahead\Nand see how he's going to attack.
+Dialogue: 0,0:02:59.52,0:03:00.60,Default,,0,0,0,,There he is!
+Dialogue: 0,0:03:00.74,0:03:02.24,Default,,0,0,0,,He's on the move!
+Dialogue: 0,0:03:08.72,0:03:10.66,Default,,0,0,0,,What the hell?!
+Dialogue: 0,0:03:11.34,0:03:13.28,Default,,0,0,0,,I've got some bad news, boss!
+Dialogue: 0,0:03:13.58,0:03:17.56,Default,,0,0,0,,In 10 seconds, scissors are going\Nto rip their way out of my throat!
+Dialogue: 0,0:03:17.64,0:03:18.86,Default,,0,0,0,,Peace, Stopio.
+Dialogue: 0,0:03:19.52,0:03:22.28,Default,,0,0,0,,Despite appearances,\Nthat was not your death.
+Dialogue: 0,0:03:22.96,0:03:26.08,Default,,0,0,0,,Risotto is the one defector\Nwho's eluded the familia.
+Dialogue: 0,0:03:26.46,0:03:28.82,Default,,0,0,0,,Dealing with him will result in injury.
+Dialogue: 0,0:03:29.32,0:03:32.16,Default,,0,0,0,,You must use those seconds\Nof knowledge granted to you
 Dialogue: 0,0:03:32.24,0:03:35.30,Default,,0,0,0,,by your foresight and deduce\Nhow he will attack you.
-Dialogue: 0,0:03:36.24,0:03:37.20,Default,,0,0,0,,Will do, boss.
-Dialogue: 0,0:03:37.46,0:03:39.26,Default,,0,0,0,,He's definitely moving in for the kill.
-Dialogue: 0,0:03:39.34,0:03:41.60,Default,,0,0,0,,so there's no way he's\Nusing a long-range stand.
-Dialogue: 0,0:03:41.68,0:03:44.80,Default,,0,0,0,,And so if my vision from\Nthe future is showing
+Dialogue: 0,0:03:36.28,0:03:37.24,Default,,0,0,0,,Will do, boss.
+Dialogue: 0,0:03:37.46,0:03:39.28,Default,,0,0,0,,He's definitely moving in for the kill.
+Dialogue: 0,0:03:39.36,0:03:41.60,Default,,0,0,0,,So there's no way he's\Nusing a long-range stand.
+Dialogue: 0,0:03:41.68,0:03:44.80,Default,,0,0,0,,And so, if my vision from\Nthe future is showing
 Dialogue: 0,0:03:44.88,0:03:47.20,Default,,0,0,0,,a pair of scissors being\Nlodged in my throat,
 Dialogue: 0,0:03:47.28,0:03:51.98,Default,,0,0,0,,does that mean there's nothing I can\Ndo to change my destiny, boss? Exactly.
 Dialogue: 0,0:03:52.42,0:03:53.82,Default,,0,0,0,,You've seen the inevitable.
@@ -110,30 +97,24 @@ Dialogue: 0,0:05:42.92,0:05:44.94,Default,,0,0,0,,The boss is gonna lose his shi
 Dialogue: 0,0:05:45.62,0:05:48.09,Default,,0,0,0,,How the hell does this guy just disappear?
 Dialogue: 0,0:05:49.42,0:05:51.52,Default,,0,0,0,,Regardless, he really got me good.
 Dialogue: 0,0:05:52.26,0:05:53.68,Default,,0,0,0,,I'm getting wobbly.
-Dialogue: 0,0:05:57.04,0:06:00.02,Default,,0,0,0,,Wait that's what's wrong, Deep?
-Dialogue: 0,0:06:00.10,0:06:02.48,Default,,0,0,0,,Were you able to see Risotto's attack?
-Dialogue: 0,0:06:04.74,0:06:06.44,Default,,0,0,0,,Sorry, boss. I'm here.
-Dialogue: 0,0:06:06.52,0:06:08.50,Default,,0,0,0,,Did you see it or didn't you?
-Dialogue: 0,0:06:08.58,0:06:11.62,Default,,0,0,0,,Your silence tells me you need to move.
-Dialogue: 0,0:06:11.70,0:06:14.94,Default,,0,0,0,,Provoke him into giving chase\Nand pinpoint his location.
-Dialogue: 0,0:06:15.02,0:06:18.20,Default,,0,0,0,,Don't fail me, you bastard! I'm scared!
+Dialogue: 0,0:05:57.04,0:06:02.48,Default,,0,0,0,,Wait, that's what's wrong, Dopio.\NWere you able to see Risotto's attack?
+Dialogue: 0,0:06:04.74,0:06:08.28,Default,,0,0,0,,sorry boss i'm here did\Nyou see it or didn't
+Dialogue: 0,0:06:08.36,0:06:11.62,Default,,0,0,0,,you your silence tells me you need to move
+Dialogue: 0,0:06:11.70,0:06:14.42,Default,,0,0,0,,provoke him into giving\Nchase and pinpoint his
+Dialogue: 0,0:06:14.50,0:06:18.20,Default,,0,0,0,,Location, don't fail me,\Nyou bastard! I'm scared!
 Dialogue: 0,0:06:22.00,0:06:23.65,Default,,0,0,0,,I'm ready for what may come.
 Dialogue: 0,0:06:24.02,0:06:26.55,Default,,0,0,0,,I swear he won't be\Nable to trick me again.
 Dialogue: 0,0:06:27.50,0:06:30.82,Default,,0,0,0,,Keikatsu, I'll get in range\Nif it's the last thing I do.
 Dialogue: 0,0:06:32.90,0:06:36.78,Default,,0,0,0,,Emperor Crimson has provided you\Nwith yet another vision, hasn't it?
 Dialogue: 0,0:06:36.86,0:06:37.90,Default,,0,0,0,,What did you see?
-Dialogue: 0,0:06:39.70,0:06:41.92,Default,,0,0,0,,I'm asking you a question, Deep!
+Dialogue: 0,0:06:39.70,0:06:41.92,Default,,0,0,0,,I'm asking you a question, Dio!
 Dialogue: 0,0:06:42.16,0:06:43.16,Default,,0,0,0,,What did you see?
-Dialogue: 0,0:06:46.90,0:06:48.44,Default,,0,0,0,,My foot, boss.
-Dialogue: 0,0:06:48.52,0:06:54.44,Default,,0,0,0,,I know what he's gonna do next and\Nit's he's gonna go after my right foot.
-Dialogue: 0,0:06:54.52,0:06:57.44,Default,,0,0,0,,And chop it off, no doubt about it.
-Dialogue: 0,0:06:57.52,0:06:59.04,Default,,0,0,0,,I have to prepare to lose my foot.
-Dialogue: 0,0:06:59.12,0:07:00.64,Default,,0,0,0,,What did you say, Deep?
-Dialogue: 0,0:07:02.66,0:07:03.49,Default,,0,0,0,,He's coming.
-Dialogue: 0,0:07:03.57,0:07:05.45,Default,,0,0,0,,I saw him out of the corner of my eye.
-Dialogue: 0,0:07:05.54,0:07:07.30,Default,,0,0,0,,You have to get to safety now.
-Dialogue: 0,0:07:07.38,0:07:08.21,Default,,0,0,0,,Wow.
-Dialogue: 0,0:07:08.29,0:07:11.09,Default,,0,0,0,,You saw what the future holds,\Nso why aren't you moving?
+Dialogue: 0,0:06:46.90,0:06:50.90,Default,,0,0,0,,My foot, Boss. I know\Nwhat he's gonna do next.
+Dialogue: 0,0:06:50.98,0:06:54.44,Default,,0,0,0,,and it's he's gonna go after my right foot
+Dialogue: 0,0:06:54.52,0:06:57.90,Default,,0,0,0,,and chop it off no\Ndoubt about it i have to
+Dialogue: 0,0:06:57.98,0:07:00.69,Default,,0,0,0,,prepare to lose my foot\Nwhat did you say topio
+Dialogue: 0,0:07:02.66,0:07:07.60,Default,,0,0,0,,he's coming i saw him out of the corner of\Nmy eye you have to get to safety now Wow.
+Dialogue: 0,0:07:07.80,0:07:11.09,Default,,0,0,0,,You saw what the future holds,\Nso why aren't you moving?
 Dialogue: 0,0:07:11.56,0:07:12.56,Default,,0,0,0,,Rysolto Niros.
 Dialogue: 0,0:07:12.88,0:07:13.82,Default,,0,0,0,,A hitman.
 Dialogue: 0,0:07:14.40,0:07:16.52,Default,,0,0,0,,All of his movements are calculated.
@@ -143,7 +124,7 @@ Dialogue: 0,0:07:24.72,0:07:26.00,Default,,0,0,0,,Razors, now scissors.
 Dialogue: 0,0:07:26.70,0:07:28.58,Default,,0,0,0,,He knew all of this would exhaust me.
 Dialogue: 0,0:07:28.66,0:07:30.54,Default,,0,0,0,,He was planning for this moment.
 Dialogue: 0,0:07:31.18,0:07:32.01,Default,,0,0,0,,Blast it.
-Dialogue: 0,0:07:32.48,0:07:34.48,Default,,0,0,0,,Dopio's chance at victory is shot.
+Dialogue: 0,0:07:32.48,0:07:34.48,Default,,0,0,0,,Dopio's chance at victory is shot,
 Dialogue: 0,0:07:34.60,0:07:38.07,Default,,0,0,0,,and it would take longer than\Nten seconds to reveal myself.
 Dialogue: 0,0:07:39.12,0:07:39.95,Default,,0,0,0,,Mysteria.
 Dialogue: 0,0:07:40.03,0:07:43.27,Default,,0,0,0,,Losing a foot would be lethal\Nat this point in the fight.
@@ -165,8 +146,8 @@ Dialogue: 0,0:08:38.10,0:08:41.70,Default,,0,0,0,,That would explain my exhausti
 Dialogue: 0,0:08:41.78,0:08:43.30,Default,,0,0,0,,I've got you figured out!
 Dialogue: 0,0:08:43.58,0:08:46.24,Default,,0,0,0,,You use your stand ability\Nto suck the iron nutrients
 Dialogue: 0,0:08:46.32,0:08:49.24,Default,,0,0,0,,out of living things so you\Ncan make razor-sharp objects!
-Dialogue: 0,0:08:49.32,0:08:52.08,Default,,0,0,0,,And since the blades shot\Nout of the frog first?
-Dialogue: 0,0:08:52.16,0:08:54.50,Default,,0,0,0,,Instead of affecting us at the same time,
+Dialogue: 0,0:08:49.32,0:08:52.08,Default,,0,0,0,,And since the blades shot\Nout of the frog first,
+Dialogue: 0,0:08:52.16,0:08:54.50,Default,,0,0,0,,instead of affecting us at the same time,
 Dialogue: 0,0:08:54.58,0:08:57.11,Default,,0,0,0,,you are creeping toward\Nme from over there!
 Dialogue: 0,0:08:59.22,0:09:00.38,Default,,0,0,0,,Damn that brick!
 Dialogue: 0,0:09:02.36,0:09:04.72,Default,,0,0,0,,That vision from the future was spot on.
@@ -302,7 +283,7 @@ Dialogue: 0,0:16:18.06,0:16:19.18,Default,,0,0,0,,And he's not alone.
 Dialogue: 0,0:16:19.50,0:16:21.90,Default,,0,0,0,,Narancia and Abakio are with him. What?
 Dialogue: 0,0:16:22.38,0:16:24.18,Default,,0,0,0,,Damn it, Abakio's there!
 Dialogue: 0,0:16:24.40,0:16:25.60,Default,,0,0,0,,We're out of time.
-Dialogue: 0,0:16:26.04,0:16:28.88,Default,,0,0,0,,Deep, your next strike\Nmust be the killing blow!
+Dialogue: 0,0:16:26.04,0:16:28.88,Default,,0,0,0,,Dopio, your next strike\Nmust be the killing blow!
 Dialogue: 0,0:16:28.96,0:16:31.66,Default,,0,0,0,,Use your power to see\NRisotto's next attack!
 Dialogue: 0,0:16:31.98,0:16:33.45,Default,,0,0,0,,I'm already looking, sir.
 Dialogue: 0,0:16:34.18,0:16:36.78,Default,,0,0,0,,Risotto's gonna ambush\Nme from my right side.
@@ -310,7 +291,7 @@ Dialogue: 0,0:16:36.86,0:16:37.70,Default,,0,0,0,,After that, he...
 Dialogue: 0,0:16:37.78,0:16:38.61,Default,,0,0,0,,he disappears!
 Dialogue: 0,0:16:38.69,0:16:40.48,Default,,0,0,0,,I can't see him anymore!
 Dialogue: 0,0:16:42.00,0:16:43.14,Default,,0,0,0,,It can't be.
-Dialogue: 0,0:16:43.84,0:16:45.48,Default,,0,0,0,,What do you see, Deep?
+Dialogue: 0,0:16:43.84,0:16:45.48,Default,,0,0,0,,What do you see, Dio?
 Dialogue: 0,0:16:45.76,0:16:46.94,Default,,0,0,0,,Hurry, spit it out!
 Dialogue: 0,0:16:49.44,0:16:51.58,Default,,0,0,0,,That bastard won't know what hit him.
 Dialogue: 0,0:16:51.66,0:16:52.80,Default,,0,0,0,,He's gonna suffer.
@@ -333,7 +314,7 @@ Dialogue: 0,0:17:31.50,0:17:32.33,Default,,0,0,0,,Deal with it!
 Dialogue: 0,0:17:32.48,0:17:35.25,Default,,0,0,0,,Once I arrive, I'll use\Nmy time-removal powers.
 Dialogue: 0,0:17:35.44,0:17:38.04,Default,,0,0,0,,That'll undo the horrid future\Nyou saw in your foresight.
 Dialogue: 0,0:17:38.12,0:17:40.12,Default,,0,0,0,,But what if he offs me before then?
-Dialogue: 0,0:17:40.20,0:17:41.90,Default,,0,0,0,,I have to kill him! Deep!
+Dialogue: 0,0:17:40.20,0:17:41.90,Default,,0,0,0,,I have to kill him! Topio!
 Dialogue: 0,0:17:42.08,0:17:43.42,Default,,0,0,0,,This is the only way!
 Dialogue: 0,0:17:43.70,0:17:46.04,Default,,0,0,0,,If you want to live,\Nyou'll follow my orders!
 Dialogue: 0,0:17:46.12,0:17:48.10,Default,,0,0,0,,Your body has reached its limit.
@@ -346,9 +327,9 @@ Dialogue: 0,0:18:06.76,0:18:07.59,Default,,0,0,0,,You see,
 Dialogue: 0,0:18:07.67,0:18:12.04,Default,,0,0,0,,I now know that the bastard's gonna attack\Nme by pulling the iron out of my body.
 Dialogue: 0,0:18:14.22,0:18:15.86,Default,,0,0,0,,Here it is! His attack!
 Dialogue: 0,0:18:16.14,0:18:17.90,Default,,0,0,0,,If his stand is strong enough,
-Dialogue: 0,0:18:17.98,0:18:21.66,Default,,0,0,0,,if it has enough power to pull\Nthe iron directly from my body?
+Dialogue: 0,0:18:17.98,0:18:21.66,Default,,0,0,0,,if it has enough power to pull\Nthe iron directly from my body,
 Dialogue: 0,0:18:21.82,0:18:24.44,Default,,0,0,0,,then the scalpel will show\Nme the source of that force!
-Dialogue: 0,0:18:24.52,0:18:26.16,Default,,0,0,0,,Gotcha now, Risoto!
+Dialogue: 0,0:18:24.52,0:18:26.16,Default,,0,0,0,,Gotcha now, Risotto!
 Dialogue: 0,0:18:26.92,0:18:29.16,Default,,0,0,0,,You're so painfully predictable.
 Dialogue: 0,0:18:33.08,0:18:35.74,Default,,0,0,0,,You knew magnetic fields attract iron.
 Dialogue: 0,0:18:35.94,0:18:40.34,Default,,0,0,0,,and thought if you detected the origin\Nof the field, you could track me down.
@@ -407,21 +388,14 @@ Dialogue: 0,0:21:34.08,0:21:40.02,Default,,0,0,0,,How interesting what Doppio wi
 Dialogue: 0,0:21:40.78,0:21:42.14,Default,,0,0,0,,I was winning.
 Dialogue: 0,0:21:42.64,0:21:45.40,Default,,0,0,0,,Victory was within my reach.
 Dialogue: 0,0:21:45.82,0:21:50.34,Default,,0,0,0,,But you had to throw the scalpels, boss.
-Dialogue: 0,0:22:00.46,0:22:02.06,Default,,0,0,0,,They were accusing.
-Dialogue: 0,0:22:02.14,0:22:04.26,Default,,0,0,0,,Not always with a knowing.
-Dialogue: 0,0:22:04.34,0:22:06.42,Default,,0,0,0,,What is just fiction?
-Dialogue: 0,0:22:06.50,0:22:08.42,Default,,0,0,0,,Or what is the truth?
-Dialogue: 0,0:22:08.50,0:22:10.52,Default,,0,0,0,,They have a mission.
-Dialogue: 0,0:22:10.60,0:22:12.52,Default,,0,0,0,,They are the passion.
-Dialogue: 0,0:22:12.60,0:22:14.94,Default,,0,0,0,,But they dare to tell us.
-Dialogue: 0,0:22:15.02,0:22:16.74,Default,,0,0,0,,What's bad and what's good?
-Dialogue: 0,0:22:16.82,0:22:18.18,Default,,0,0,0,,Stand up.
-Dialogue: 0,0:22:18.26,0:22:20.26,Default,,0,0,0,,Join us.
-Dialogue: 0,0:22:20.34,0:22:22.18,Default,,0,0,0,,Come on.
-Dialogue: 0,0:22:22.26,0:22:23.12,Default,,0,0,0,,We'll see this.
-Dialogue: 0,0:22:23.20,0:22:26.20,Default,,0,0,0,,We are the power.
-Dialogue: 0,0:22:26.28,0:22:28.22,Default,,0,0,0,,Who's in the future?
-Dialogue: 0,0:22:28.30,0:22:31.28,Default,,0,0,0,,Cause we are the fighters.
-Dialogue: 0,0:22:31.36,0:22:34.42,Default,,0,0,0,,Just fighting for a ride.
-Dialogue: 0,0:23:58.30,0:23:59.13,Default,,0,0,0,,Thank.
+Dialogue: 0,0:22:00.46,0:22:03.76,Default,,0,0,0,,They were accusing. Not always with a
+Dialogue: 0,0:22:03.84,0:22:07.70,Default,,0,0,0,,knowing What is just fiction Or what is
+Dialogue: 0,0:22:07.78,0:22:11.90,Default,,0,0,0,,the truth They have a mission They are
+Dialogue: 0,0:22:11.98,0:22:14.94,Default,,0,0,0,,The passion, but they dare to tell us
+Dialogue: 0,0:22:15.02,0:22:18.18,Default,,0,0,0,,What's bad and what's good. Stand up.
+Dialogue: 0,0:22:18.26,0:22:22.58,Default,,0,0,0,,Join us. Come on. We'll
+Dialogue: 0,0:22:22.66,0:22:25.60,Default,,0,0,0,,See this. We are the
+Dialogue: 0,0:22:25.68,0:22:30.62,Default,,0,0,0,,Power! Who's in the future? Cause we are.
+Dialogue: 0,0:22:30.70,0:22:34.42,Default,,0,0,0,,The fighters. Just fighting for a ride.
+Dialogue: 0,0:23:58.30,0:23:59.13,Default,,0,0,0,,Thank
 Dialogue: 0,0:23:59.21,0:24:05.66,Default,,0,0,0,,you.

@@ -48,7 +48,7 @@ Style: ED Lyrics,Hobo Std,56,&H00FFFFFF,&H002728AF,&H96000000,&H00000000,-1,-1,0
 Style: Vulgar Back 2,Arial,20,&H009F95DD,&H000000FF,&H00000000,&H00000000,0,0,-1,0,100,100,0,0,1,0,0,2,11,11,11,1
 Style: Vulgar Back Mask,Arial,20,&H00B3ADDD,&H000000FF,&H00000000,&H00000000,0,0,-1,0,100,100,0,0,1,0,0,2,11,11,11,1
 Style: Title - Box,Kozuka Mincho Pro Strp M,126,&H00050D10,&H000000FF,&H00040D10,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,90,90,52,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -100,12 +100,12 @@ Dialogue: 0,0:00:45.68,0:00:50.03,Dubtitles,,0,0,0,,Truth is, I've never left th
 Dialogue: 0,0:00:50.46,0:00:54.54,Dubtitles,,0,0,0,,So at the very least, I'd really like\Nto be able to speak the language.
 Dialogue: 0,0:00:54.62,0:00:55.86,Dubtitles,,0,0,0,,Please help me out!
 Dialogue: 0,0:00:57.60,0:00:58.92,Dubtitles,,0,0,0,,Bound for Italy, huh?
-Dialogue: 0,0:00:59.70,0:01:03.17,Dubtitles,,0,0,0,,Perhaps you'd like to hear a\Nstory about my own time there?
-Dialogue: 0,0:01:04.04,0:01:07.42,Dubtitles,,0,0,0,,When we first met, I was\Nforced on a brief hiatus!
-Dialogue: 0,0:01:07.50,0:01:10.14,Dubtitles,,0,0,0,,Due in no small part to a certain someone!
-Dialogue: 0,0:01:11.14,0:01:15.20,Dubtitles,,0,0,0,,During that period of time, I\Nundertook some research for my work.
-Dialogue: 0,0:01:15.28,0:01:19.02,Dubtitles,,0,0,0,,A journey which took me to Venice,\Nwhere I stayed for eight days.
-Dialogue: 0,0:01:19.10,0:01:23.74,Dubtitles,,0,0,0,,And the story I discovered\Nwas truly mind-boggling?
+Dialogue: 0,0:00:59.70,0:01:03.11,Dubtitles,,0,0,0,,Perhaps you'd like to hear a\Nstory about my own time there
+Dialogue: 0,0:01:04.04,0:01:05.46,Dubtitles,,0,0,0,,When we first met,
+Dialogue: 0,0:01:05.64,0:01:10.14,Dubtitles,,0,0,0,,I was forced on a brief hiatus. Due\Nin no small part to a certain someone
+Dialogue: 0,0:01:11.14,0:01:12.88,Dubtitles,,0,0,0,,During that period of time,
+Dialogue: 0,0:01:13.14,0:01:17.38,Dubtitles,,0,0,0,,I undertook some research for my work\NA journey which took me to Venice,
+Dialogue: 0,0:01:17.52,0:01:23.74,Dubtitles,,0,0,0,,where I stayed for eight days And the\Nstory I discovered was truly mind-boggling
 Dialogue: 1,0:02:06.77,0:02:06.81,Title - Box,,0,0,0,,{\fscx117.52\fscy117.52\p1\pos(-73.79,-89.67)\an7}m 766 688 l 764 416 1280 413 1277 684
 Dialogue: 2,0:02:06.77,0:02:06.81,Title,,0,0,0,,{=1}{\fscx110.65\fscy110.65\an2\blur0.83\fs75\pos(1205.02,519.46)}E{\fs60}PISODE{\fs75} ＃16
 Dialogue: 2,0:02:06.77,0:02:06.81,Title,,0,0,0,,{=0}{\fscy110.65\an2\blur0.83\fnKozuka Mincho Pro Strp B\fs95\pos(1205.02,630.1)\fscx99.58}“AT A CONFESSIONAL”
@@ -115,7 +115,7 @@ Dialogue: 2,0:02:06.81,0:02:06.85,Title,,0,0,0,,{=0}{\fscy105.32\an2\blur0.79\fn
 Dialogue: 1,0:02:06.85,0:02:12.32,Title - Box,,0,0,0,,{\p1\pos(0,0)\an7}m 766 688 l 764 416 1480 413 1477 684
 Dialogue: 2,0:02:06.85,0:02:12.32,Title,,0,0,0,,{=1}{\fscx100\fscy100\an2\blur0.75\fs75\pos(1110,520)}E{\fs60}PISODE{\fs75} ＃16
 Dialogue: 2,0:02:06.85,0:02:12.32,Title,,0,0,0,,{=0}{\fscy100\an2\blur0.75\fnKozuka Mincho Pro Strp B\fs95\pos(1110,620)\fscx90}“AT A CONFESSIONAL”
-Dialogue: 0,0:02:23.74,0:02:27.62,Dubtitles,,0,0,0,,Very own ears its genre is horror
+Dialogue: 0,0:02:23.74,0:02:27.62,Dubtitles,,0,0,0,,Very own ears. Its genre is horror.
 Dialogue: 0,0:02:27.70,0:02:33.00,Dubtitles,,0,0,0,,tell me do you know what a confessional
 Dialogue: 0,0:02:33.08,0:02:37.34,Dubtitles,,0,0,0,,is the practice is found in all
 Dialogue: 0,0:02:37.42,0:02:40.06,Dubtitles,,0,0,0,,italian churches and occurs in a set of
@@ -137,31 +137,25 @@ Dialogue: 0,0:03:27.02,0:03:30.84,Dubtitles,,0,0,0,,Though it was against the ru
 Dialogue: 0,0:03:31.90,0:03:36.60,Dubtitles,,0,0,0,,priest wasn't around, to study the more\Nintricate details of its design later.
 Dialogue: 0,0:03:36.68,0:03:38.80,Dubtitles,,0,0,0,,And, for the sake of the experience,
 Dialogue: 0,0:03:39.18,0:03:41.76,Dubtitles,,0,0,0,,I thought I'd partake in\Na confession of my own.
-Dialogue: 0,0:03:41.84,0:03:48.04,Dubtitles,,0,0,0,,So, I entered the booth. It would\Nsurely help the authenticity of my work.
+Dialogue: 0,0:03:41.84,0:03:48.04,Dubtitles,,0,0,0,,So, I entered at the booth, it would\Nsurely help the authenticity of my work.
 Dialogue: 0,0:04:03.64,0:04:05.78,Dubtitles,,0,0,0,,Father, I have come to confess.
 Dialogue: 0,0:04:08.42,0:04:09.25,Dubtitles,,0,0,0,,I...
 Dialogue: 0,0:04:09.33,0:04:10.50,Dubtitles,,0,0,0,,I've committed a great sin
 Dialogue: 0,0:04:13.92,0:04:16.34,Dubtitles,,0,0,0,,I cannot bear to hold it in any longer.
-Dialogue: 0,0:04:17.30,0:04:18.13,Dubtitles,,0,0,0,,Father.
-Dialogue: 0,0:04:20.04,0:04:23.36,Dubtitles,,0,0,0,,I won't be able to sleep until I confess.
-Dialogue: 0,0:04:23.44,0:04:25.14,Dubtitles,,0,0,0,,I swear to you,
+Dialogue: 0,0:04:17.30,0:04:18.13,Dubtitles,,0,0,0,,Father
+Dialogue: 0,0:04:20.04,0:04:25.14,Dubtitles,,0,0,0,,I won't be able to sleep until\NI confess I swear to you,
 Dialogue: 0,0:04:25.30,0:04:27.42,Dubtitles,,0,0,0,,at the time I did not\Nknow the booth with the
-Dialogue: 0,0:04:27.50,0:04:29.20,Dubtitles,,0,0,0,,curtains was actually\Nmeant for the priest.
-Dialogue: 0,0:04:29.28,0:04:33.30,Dubtitles,,0,0,0,,As a result, I suddenly found\Nmyself receiving a confession.
-Dialogue: 0,0:04:34.68,0:04:37.82,Dubtitles,,0,0,0,,It was a great stroke of luck.
-Dialogue: 0,0:04:37.90,0:04:41.88,Dubtitles,,0,0,0,,what is this great sin?
-Dialogue: 0,0:04:41.96,0:04:44.24,Dubtitles,,0,0,0,,Wouldn't hurt to listen to the end.
-Dialogue: 0,0:04:45.12,0:04:47.84,Dubtitles,,0,0,0,,Real experiences are\Nwhat yield great works,
-Dialogue: 0,0:04:47.92,0:04:50.72,Dubtitles,,0,0,0,,it shouldn't matter who\Nhears the confession.
-Dialogue: 0,0:04:50.80,0:04:54.64,Dubtitles,,0,0,0,,As long as this man continues\Nto believe I am the priest.
-Dialogue: 0,0:04:54.72,0:04:57.68,Dubtitles,,0,0,0,,I imagine there shouldn't\Nbe any harm done.
-Dialogue: 0,0:04:57.76,0:05:01.00,Dubtitles,,0,0,0,,Father, is there something wrong?
-Dialogue: 0,0:05:03.64,0:05:05.10,Dubtitles,,0,0,0,,No, it's nothing.
-Dialogue: 0,0:05:05.18,0:05:06.62,Dubtitles,,0,0,0,,Please proceed.
-Dialogue: 0,0:05:06.70,0:05:12.20,Dubtitles,,0,0,0,,Um, my child, I how should I begin?
-Dialogue: 0,0:05:12.28,0:05:14.16,Dubtitles,,0,0,0,,It was
-Dialogue: 0,0:05:15.06,0:05:16.20,Dubtitles,,0,0,0,,That evening.
-Dialogue: 0,0:05:16.28,0:05:20.90,Dubtitles,,0,0,0,,Yes, all of this began\Nthe evening of that day.
+Dialogue: 0,0:04:27.50,0:04:30.70,Dubtitles,,0,0,0,,curtains was actually meant\Nfor the priest As a result,
+Dialogue: 0,0:04:30.78,0:04:33.49,Dubtitles,,0,0,0,,I suddenly found myself\Nreceiving a confession
+Dialogue: 0,0:04:34.68,0:04:41.00,Dubtitles,,0,0,0,,It was a great stroke\Nof luck. What is this?
+Dialogue: 0,0:04:41.08,0:04:44.24,Dubtitles,,0,0,0,,great sin wouldn't hurt\Nto listen to the end
+Dialogue: 0,0:04:45.12,0:04:49.28,Dubtitles,,0,0,0,,real experiences are what\Nyield great works it shouldn't
+Dialogue: 0,0:04:49.36,0:04:52.74,Dubtitles,,0,0,0,,matter who hears the\Nconfession as long as this man
+Dialogue: 0,0:04:52.82,0:04:56.42,Dubtitles,,0,0,0,,continues to believe i am\Nthe priest i imagine there
+Dialogue: 0,0:04:56.50,0:05:01.00,Dubtitles,,0,0,0,,shouldn't be any harm done\Nfather is there something wrong
+Dialogue: 0,0:05:03.64,0:05:07.16,Dubtitles,,0,0,0,,No, it's nothing. Please proceed. Um.
+Dialogue: 0,0:05:07.24,0:05:14.16,Dubtitles,,0,0,0,,my child i how should i begin it was
+Dialogue: 0,0:05:15.06,0:05:20.90,Dubtitles,,0,0,0,,that evening yes all of this\Nbegan the evening of that day
 Dialogue: 0,0:05:31.08,0:05:35.94,Dubtitles,,0,0,0,,I was 24 years old at the time, and\Nmade a modest living at a food market,
 Dialogue: 0,0:05:36.20,0:05:37.74,Dubtitles,,0,0,0,,as a manual laborer.
 Dialogue: 0,0:05:38.48,0:05:43.07,Dubtitles,,0,0,0,,I'd spend my days hauling sacks of corn\Nbetween the storehouse and the trucks.
@@ -188,7 +182,7 @@ Dialogue: 0,0:06:57.24,0:06:59.30,Dubtitles,,0,0,0,,I will work, sir. I promise.
 Dialogue: 0,0:06:59.52,0:07:02.76,Dubtitles,,0,0,0,,But first, I'm begging you\Nto give me something to eat.
 Dialogue: 0,0:07:03.00,0:07:05.20,Dubtitles,,0,0,0,,Please, I haven't eaten in five days.
 Dialogue: 0,0:07:05.52,0:07:06.42,Dubtitles,,0,0,0,,It's the truth.
-Dialogue: 0,0:07:06.98,0:07:11.26,Dubtitles,,0,0,0,,I just need a little something in the\Ntank, then I'll get right to it, I swear.
+Dialogue: 0,0:07:06.98,0:07:11.26,Dubtitles,,0,0,0,,I just need a little something in the\Ntank, then I'll get right to it. I swear.
 Dialogue: 0,0:07:11.34,0:07:12.17,Dubtitles,,0,0,0,,Please, sir.
 Dialogue: 0,0:07:12.40,0:07:14.06,Dubtitles,,0,0,0,,That isn't how things work.
 Dialogue: 0,0:07:14.32,0:07:17.32,Dubtitles,,0,0,0,,People only get paid after\Nthey finish their job.
@@ -222,20 +216,12 @@ Dialogue: 0,0:09:02.66,0:09:06.74,Dubtitles,,0,0,0,,I'll come back to pay you a 
 Dialogue: 0,0:09:06.92,0:09:07.96,Dubtitles,,0,0,0,,My revenge!
 Dialogue: 0,0:09:13.86,0:09:15.28,Dubtitles,,0,0,0,,Hey! Over here!
 Dialogue: 0,0:09:15.60,0:09:18.78,Dubtitles,,0,0,0,,I think there's somebody\Ncrushed underneath this sack.
-Dialogue: 0,0:09:20.90,0:09:21.74,Dubtitles,,0,0,0,,He's dead.
-Dialogue: 0,0:09:21.82,0:09:24.34,Dubtitles,,0,0,0,,Oh shit! You're right. He is.
-Dialogue: 0,0:09:24.42,0:09:26.82,Dubtitles,,0,0,0,,Someone call a doctor!
-Dialogue: 0,0:09:26.90,0:09:28.10,Dubtitles,,0,0,0,,No wait.
-Dialogue: 0,0:09:28.18,0:09:29.02,Dubtitles,,0,0,0,,The police!
-Dialogue: 0,0:09:31.36,0:09:32.84,Dubtitles,,0,0,0,,I didn't think he'd.
-Dialogue: 0,0:09:32.92,0:09:35.74,Dubtitles,,0,0,0,,When he said he hadn't\Neaten for five days.
-Dialogue: 0,0:09:35.82,0:09:37.20,Dubtitles,,0,0,0,,I couldn't tell if he was lying.
-Dialogue: 0,0:09:37.28,0:09:38.28,Dubtitles,,0,0,0,,Wait.
-Dialogue: 0,0:09:38.36,0:09:39.44,Dubtitles,,0,0,0,,What did you say?
-Dialogue: 0,0:09:39.52,0:09:40.68,Dubtitles,,0,0,0,,I don't think I heard you.
-Dialogue: 0,0:09:40.76,0:09:41.59,Dubtitles,,0,0,0,,Right.
-Dialogue: 0,0:09:41.67,0:09:44.14,Dubtitles,,0,0,0,,The vagrant spoke after he'd already died.
-Dialogue: 0,0:09:44.22,0:09:46.16,Dubtitles,,0,0,0,,But how is such a thing possible?
+Dialogue: 0,0:09:20.90,0:09:24.34,Dubtitles,,0,0,0,,he's dead oh shit you're right he is
+Dialogue: 0,0:09:24.42,0:09:29.02,Dubtitles,,0,0,0,,someone call a doctor no wait the police
+Dialogue: 0,0:09:31.36,0:09:35.54,Dubtitles,,0,0,0,,i didn't think he'd when he\Nsaid he hadn't eaten for five
+Dialogue: 0,0:09:35.62,0:09:39.16,Dubtitles,,0,0,0,,days i couldn't tell if he\Nwas lying wait what did you
+Dialogue: 0,0:09:39.24,0:09:42.70,Dubtitles,,0,0,0,,say i don't think i heard\Nyou right the vagrant spoke
+Dialogue: 0,0:09:42.78,0:09:46.13,Dubtitles,,0,0,0,,after he'd already died But\Nhow is such a thing possible?
 Dialogue: 0,0:09:46.34,0:09:48.99,Dubtitles,,0,0,0,,Are you sure you didn't\Ndream this encounter?
 Dialogue: 0,0:09:50.18,0:09:51.01,Dubtitles,,0,0,0,,Dream it?
 Dialogue: 0,0:09:51.09,0:09:53.30,Dubtitles,,0,0,0,,Oh, how I wish it had been a dream.
@@ -250,15 +236,15 @@ Dialogue: 0,0:10:19.12,0:10:23.30,Dubtitles,,0,0,0,,which all became instant wor
 Dialogue: 0,0:10:23.86,0:10:27.88,Dubtitles,,0,0,0,,And after having spent my life\Nas a bachelor, I got married.
 Dialogue: 0,0:10:28.40,0:10:32.46,Dubtitles,,0,0,0,,My wife was a model who had once\Ngraced the Milan Fashion Week stage.
 Dialogue: 0,0:10:33.00,0:10:36.12,Dubtitles,,0,0,0,,My fortune was so vast I\Nhardly knew how to spend it.
-Dialogue: 0,0:10:36.52,0:10:40.74,Dubtitles,,0,0,0,,At present, my estate is staffed\Nwith 15 servants, three chauffeurs!
-Dialogue: 0,0:10:40.82,0:10:46.94,Dubtitles,,0,0,0,,But my extreme success came with constant\Nanxiety lurking in the back of my mind.
-Dialogue: 0,0:10:47.02,0:10:48.36,Dubtitles,,0,0,0,,Were thoughts of that dead
-Dialogue: 0,0:10:48.44,0:10:50.24,Dubtitles,,0,0,0,,man and what he had said
-Dialogue: 0,0:10:50.32,0:10:56.68,Dubtitles,,0,0,0,,still?
-Dialogue: 0,0:10:56.76,0:10:59.00,Dubtitles,,0,0,0,,I eventually became a father.
-Dialogue: 0,0:10:59.08,0:11:05.14,Dubtitles,,0,0,0,,A beautiful girl, just like her mother.
-Dialogue: 0,0:11:05.22,0:11:08.04,Dubtitles,,0,0,0,,I want to show I'll show\Nyou a super cool trick!
-Dialogue: 0,0:11:08.32,0:11:09.54,Dubtitles,,0,0,0,,Don't blink, kay?
+Dialogue: 0,0:10:36.52,0:10:39.30,Dubtitles,,0,0,0,,At present, my estate is\Nstaffed with 15 servants,
+Dialogue: 0,0:10:39.38,0:10:44.66,Dubtitles,,0,0,0,,Three chauffeurs, but my extreme\Nsuccess came with constant anxiety.
+Dialogue: 0,0:10:44.74,0:10:49.32,Dubtitles,,0,0,0,,lurking in the back of my mind\Nwere thoughts of that dead man and
+Dialogue: 0,0:10:49.40,0:10:50.24,Dubtitles,,0,0,0,,what he had said
+Dialogue: 0,0:10:50.32,0:10:56.68,Dubtitles,,0,0,0,,still
+Dialogue: 0,0:10:56.76,0:10:57.90,Dubtitles,,0,0,0,,I eventually
+Dialogue: 0,0:10:57.98,0:11:03.92,Dubtitles,,0,0,0,,became a father a beautiful girl
+Dialogue: 0,0:11:04.00,0:11:08.06,Dubtitles,,0,0,0,,just like her mother I want to show\NI'll show you a super cool trick!
+Dialogue: 0,0:11:08.32,0:11:09.54,Dubtitles,,0,0,0,,Don't blink, okay?
 Dialogue: 0,0:11:14.92,0:11:16.78,Dubtitles,,0,0,0,,Aww, I missed!
 Dialogue: 0,0:11:17.74,0:11:20.62,Dubtitles,,0,0,0,,Hey now, it's okay, you were so close!
 Dialogue: 0,0:11:20.90,0:11:23.58,Dubtitles,,0,0,0,,You accidentally closed\Nyour eyes at the end there.
@@ -293,19 +279,19 @@ Dialogue: 0,0:12:48.58,0:12:53.14,Dubtitles,,0,0,0,,But on the other, it'd be a 
 Dialogue: 0,0:12:53.22,0:12:55.93,Dubtitles,,0,0,0,,and I'd hate to perpetuate\Nany more injustice.
 Dialogue: 0,0:12:56.14,0:12:58.20,Dubtitles,,0,0,0,,That'd be the worst, wouldn't it?
 Dialogue: 0,0:12:58.32,0:13:00.14,Dubtitles,,0,0,0,,So tell you what we're gonna do.
-Dialogue: 0,0:13:00.22,0:13:05.44,Dubtitles,,0,0,0,,How's about we let fate decide whether or\Nnot You deserve to die today that's right
+Dialogue: 0,0:13:00.22,0:13:05.44,Dubtitles,,0,0,0,,How's about we let fate decide whether or\Nnot you deserve to die today that's right
 Dialogue: 0,0:13:05.52,0:13:07.78,Dubtitles,,0,0,0,,you've still got a chance at life if the
-Dialogue: 0,0:13:07.86,0:13:10.66,Dubtitles,,0,0,0,,heavens agree With you\Nthat is if destiny takes
+Dialogue: 0,0:13:07.86,0:13:10.66,Dubtitles,,0,0,0,,heavens agree with you\Nthat is if destiny takes
 Dialogue: 0,0:13:10.74,0:13:12.90,Dubtitles,,0,0,0,,your side in my grudges\Nand deep baseless then
-Dialogue: 0,0:13:12.98,0:13:15.16,Dubtitles,,0,0,0,,i'll spare your Miserable\Nlife and disappear
-Dialogue: 0,0:13:15.24,0:13:20.30,Dubtitles,,0,0,0,,and you'll never hear from me again nobody\Ncould ask for a more Impartial judge now
+Dialogue: 0,0:13:12.98,0:13:15.16,Dubtitles,,0,0,0,,i'll spare your miserable\Nlife and disappear
+Dialogue: 0,0:13:15.24,0:13:20.30,Dubtitles,,0,0,0,,and you'll never hear from me again nobody\Ncould ask for a more impartial judge now
 Dialogue: 0,0:13:20.38,0:13:22.92,Dubtitles,,0,0,0,,wouldn't you agree well will you try your
-Dialogue: 0,0:13:23.00,0:13:26.46,Dubtitles,,0,0,0,,luck or die where you\Nstand i i have No idea
+Dialogue: 0,0:13:23.00,0:13:26.46,Dubtitles,,0,0,0,,luck or die where you\Nstand i i have no idea
 Dialogue: 0,0:13:26.54,0:13:29.14,Dubtitles,,0,0,0,,what's going on about\Nyou'll understand soon
 Dialogue: 0,0:13:29.22,0:13:31.92,Dubtitles,,0,0,0,,now answer do you accept\Nthese conditions or
-Dialogue: 0,0:13:32.00,0:13:35.90,Dubtitles,,0,0,0,,Not why? Why is this\Nhappening to me? Speak.
+Dialogue: 0,0:13:32.00,0:13:35.90,Dubtitles,,0,0,0,,Not! Why? Why is this\Nhappening to me? Speak!
 Dialogue: 0,0:13:35.98,0:13:38.34,Dubtitles,,0,0,0,,you idiot use that head\Nto think quickly or
-Dialogue: 0,0:13:38.42,0:13:44.62,Dubtitles,,0,0,0,,else i'm Cutting it off yes i accept the
+Dialogue: 0,0:13:38.42,0:13:44.62,Dubtitles,,0,0,0,,else i'm cutting it off yes i accept the
 Dialogue: 0,0:13:44.70,0:13:46.74,Dubtitles,,0,0,0,,conditions what other
 Dialogue: 0,0:13:46.82,0:13:51.98,Dubtitles,,0,0,0,,choice do i have good catch
 Dialogue: 0,0:13:55.24,0:13:59.42,Dubtitles,,0,0,0,,Destiny can manifest in ways\Nwe often overlook. Look.
@@ -333,16 +319,15 @@ Dialogue: 0,0:15:06.18,0:15:07.18,Dubtitles,,0,0,0,,That's one down!
 Dialogue: 0,0:15:09.64,0:15:11.12,Dubtitles,,0,0,0,,It's time for round two!
 Dialogue: 0,0:15:11.34,0:15:13.26,Dubtitles,,0,0,0,,Grab another piece of\Npopcorn and let's go!
 Dialogue: 0,0:15:13.34,0:15:14.58,Dubtitles,,0,0,0,,No, no, wait, please!
-Dialogue: 0,0:15:15.06,0:15:16.56,Dubtitles,,0,0,0,,The sun was in my eyes!
-Dialogue: 0,0:15:16.68,0:15:18.12,Dubtitles,,0,0,0,,It completely blinded me!
-Dialogue: 0,0:15:18.20,0:15:20.46,Dubtitles,,0,0,0,,We can just continue\Nthis in the shade, right?
-Dialogue: 0,0:15:20.54,0:15:24.00,Dubtitles,,0,0,0,,Next you'll ask for a juice\Nbox and a pat on the head. Huh?
-Dialogue: 0,0:15:24.08,0:15:28.10,Dubtitles,,0,0,0,,You'll throw the popcorn right\Nhere, and you'll throw it right now!
-Dialogue: 0,0:15:28.66,0:15:32.78,Dubtitles,,0,0,0,,Two more to go, hop to it, and\Nremember if you miss, you die.
+Dialogue: 0,0:15:15.06,0:15:17.98,Dubtitles,,0,0,0,,The sun was in my eyes,\Nit completely blinded me!
+Dialogue: 0,0:15:18.22,0:15:20.46,Dubtitles,,0,0,0,,We can just continue\Nthis in the shade, right?
+Dialogue: 0,0:15:20.54,0:15:24.02,Dubtitles,,0,0,0,,Next you'll ask for a juice\Nbox and a pat on the head. Huh?
+Dialogue: 0,0:15:24.10,0:15:28.10,Dubtitles,,0,0,0,,You'll throw the popcorn right\Nhere, and you'll throw it right now!
+Dialogue: 0,0:15:28.56,0:15:32.78,Dubtitles,,0,0,0,,Two more to go, hop to it, and\Nremember if you miss, you die.
 Dialogue: 0,0:15:33.52,0:15:37.30,Dubtitles,,0,0,0,,And if you succeed, I'll disappear\Nwithout saying another word.
-Dialogue: 0,0:15:37.90,0:15:40.16,Dubtitles,,0,0,0,,So, your second throw, now!
+Dialogue: 0,0:15:37.84,0:15:40.16,Dubtitles,,0,0,0,,So, your second throw, now!
 Dialogue: 0,0:15:42.74,0:15:46.92,Dubtitles,,0,0,0,,If I make all three, you swear\Nyou'll disappear for good?
-Dialogue: 0,0:15:47.36,0:15:51.32,Dubtitles,,0,0,0,,If that's what it'll take to\Nsave my life, then so be it!
+Dialogue: 0,0:15:47.34,0:15:51.32,Dubtitles,,0,0,0,,If that's what it'll take to\Nsave my life, then so be it!
 Dialogue: 0,0:15:51.40,0:15:52.54,Dubtitles,,0,0,0,,Enough talk!
 Dialogue: 0,0:15:52.84,0:15:54.90,Dubtitles,,0,0,0,,Make your throw now or you're dead!
 Dialogue: 0,0:15:59.94,0:16:00.86,Dubtitles,,0,0,0,,Alright, yeah!
@@ -353,7 +338,7 @@ Dialogue: 0,0:16:17.04,0:16:18.68,Dubtitles,,0,0,0,,Look at that! How cute!
 Dialogue: 0,0:16:18.96,0:16:21.67,Dubtitles,,0,0,0,,All the little birdies\Nwant to join the party!
 Dialogue: 0,0:16:35.18,0:16:36.01,Dubtitles,,0,0,0,,Oh yeah!
 Dialogue: 0,0:16:36.09,0:16:37.04,Dubtitles,,0,0,0,,Did you see me?
-Dialogue: 0,0:16:37.24,0:16:41.82,Dubtitles,,0,0,0,,That one was the second one in the\Ncan! Boom! That's right! I'm on a roll!
+Dialogue: 0,0:16:37.24,0:16:41.82,Dubtitles,,0,0,0,,That there was the second one in the\Ncan! Boom! That's right! I'm on a roll!
 Dialogue: 0,0:16:42.02,0:16:44.50,Dubtitles,,0,0,0,,Man, I can't believe I thought\Nthis was gonna be difficult,
 Dialogue: 0,0:16:44.58,0:16:46.16,Dubtitles,,0,0,0,,but I'm getting the hang of it!
 Dialogue: 0,0:16:46.24,0:16:47.24,Dubtitles,,0,0,0,,I can win!
@@ -387,13 +372,13 @@ Dialogue: 0,0:18:16.23,0:18:17.06,Dubtitles,,0,0,0,,A flame!
 Dialogue: 0,0:18:17.36,0:18:19.62,Dubtitles,,0,0,0,,Where did it go? Damn it!
 Dialogue: 0,0:18:20.04,0:18:22.28,Dubtitles,,0,0,0,,The sunlight's completely engulfed it!
 Dialogue: 0,0:18:22.52,0:18:23.56,Dubtitles,,0,0,0,,This is bad!
-Dialogue: 0,0:18:23.98,0:18:27.00,Dubtitles,,0,0,0,,I can't see it! No! Where did it go?
+Dialogue: 0,0:18:23.98,0:18:27.00,Dubtitles,,0,0,0,,I can't see it! Where'd it go?
 Dialogue: 0,0:18:38.68,0:18:40.26,Dubtitles,,0,0,0,,Destiny has spoken.
 Dialogue: 0,0:18:40.72,0:18:43.96,Dubtitles,,0,0,0,,Looks like you did deserve\Nto lose your head after all.
-Dialogue: 0,0:19:04.10,0:19:07.86,Dubtitles,,0,0,0,,You're wondering how I'm sitting\Nhere, speaking with you right now,
+Dialogue: 0,0:19:04.10,0:19:07.86,Dubtitles,,0,0,0,,You're wondering how I'm sitting\Nhere, speaking with you right now?
 Dialogue: 0,0:19:07.94,0:19:09.48,Dubtitles,,0,0,0,,aren't you, Father?
 Dialogue: 0,0:19:10.80,0:19:14.14,Dubtitles,,0,0,0,,You see, it's the same\Nreason for my visit today.
-Dialogue: 0,0:19:14.82,0:19:19.66,Dubtitles,,0,0,0,,I cannot bear it myself any longer,\Nthat despicable sin I've committed.
+Dialogue: 0,0:19:14.82,0:19:19.66,Dubtitles,,0,0,0,,I cannot bear it myself any longer.\NThat despicable sin I've committed.
 Dialogue: 0,0:19:21.90,0:19:23.78,Dubtitles,,0,0,0,,The spirit of that vagrant,
 Dialogue: 0,0:19:23.86,0:19:27.82,Dubtitles,,0,0,0,,he'd made me so rich that virtually\Nnothing was outside my grasp.
 Dialogue: 0,0:19:28.22,0:19:32.75,Dubtitles,,0,0,0,,It took almost no effort to find a\Nservant who would do anything I commanded.
@@ -416,7 +401,7 @@ Dialogue: 0,0:21:02.14,0:21:02.97,Dubtitles,,0,0,0,,Whoa!
 Dialogue: 0,0:21:03.05,0:21:05.08,Dubtitles,,0,0,0,,Now that's scary! Uh, Okuyasu?
 Dialogue: 0,0:21:05.44,0:21:06.40,Dubtitles,,0,0,0,,And Yukako?
 Dialogue: 0,0:21:06.64,0:21:10.64,Dubtitles,,0,0,0,,Yo, Rohan-sensei, was that really\Na true story you just told us?
-Dialogue: 0,0:21:11.24,0:21:14.24,Dubtitles,,0,0,0,,Excuse me, can I get a\Nthing of Baby tea over here?
+Dialogue: 0,0:21:11.24,0:21:14.24,Dubtitles,,0,0,0,,Excuse me, can I get a\Nthing of boba tea over here?
 Dialogue: 0,0:21:14.76,0:21:16.54,Dubtitles,,0,0,0,,When did you show up exactly?
 Dialogue: 0,0:21:16.62,0:21:19.68,Dubtitles,,0,0,0,,and to so shamelessly accuse me of lying.
 Dialogue: 0,0:21:19.94,0:21:20.78,Dubtitles,,0,0,0,,Hang on.
@@ -428,7 +413,7 @@ Dialogue: 0,0:21:29.81,0:21:32.26,Dubtitles,,0,0,0,,Well, either way, they're\Nr
 Dialogue: 0,0:21:32.34,0:21:35.50,Dubtitles,,0,0,0,,Man, I can't imagine having ghosts\Nhaunt me for the rest of my life.
 Dialogue: 0,0:21:35.58,0:21:36.76,Dubtitles,,0,0,0,,That's way too much.
 Dialogue: 0,0:21:37.68,0:21:41.60,Dubtitles,,0,0,0,,Hey, Koichi, you'll have to tell me\Nright away if that ever happens to you.
-Dialogue: 0,0:21:41.68,0:21:44.68,Dubtitles,,0,0,0,,I'll banish the mean ghost\Nbefore it lays a finger on you.
+Dialogue: 0,0:21:41.68,0:21:44.68,Dubtitles,,0,0,0,,I'll come banish the mean ghost\Nbefore it lays a finger on you!
 Dialogue: 0,0:21:44.76,0:21:47.60,Dubtitles,,0,0,0,,Oh, thank you.
 Dialogue: 0,0:21:54.72,0:21:56.62,Dubtitles,,0,0,0,,What's become of that man since?
 Dialogue: 0,0:21:56.92,0:21:59.66,Dubtitles,,0,0,0,,I, Rohan Kishibe, have yet to discover.
@@ -438,34 +423,28 @@ Dialogue: 0,0:22:07.46,0:22:11.08,Dubtitles,,0,0,0,,He kept on walking, even wit
 Dialogue: 0,0:22:11.52,0:22:13.48,Dubtitles,,0,0,0,,Alone, yet undeterred.
 Dialogue: 0,0:22:14.76,0:22:18.86,Dubtitles,,0,0,0,,His may not have been a good heart,\Nbut he is undeniably resilient.
 Dialogue: 0,0:22:21.32,0:22:25.16,Dubtitles,,0,0,0,,And it might be that I am the only\None who thinks that about him.
-Dialogue: 0,0:22:51.04,0:22:53.90,Dubtitles,,0,0,0,,I want to know the truth.
+Dialogue: 0,0:22:51.04,0:22:54.74,Dubtitles,,0,0,0,,I want to know the truth Of
 Dialogue: 1,0:22:51.72,0:22:57.06,ED Lyrics,,0,0,0,,{\fad(100,100)}I wanna know the truth of life that never ends
-Dialogue: 0,0:22:53.98,0:22:56.64,Dubtitles,,0,0,0,,Of life that never melts.
-Dialogue: 0,0:22:56.72,0:22:59.32,Dubtitles,,0,0,0,,To chain a mystic rise.
+Dialogue: 0,0:22:54.82,0:22:58.08,Dubtitles,,0,0,0,,life that never melts To chain a
 Dialogue: 1,0:22:57.06,0:23:02.27,ED Lyrics,,0,0,0,,{\fad(100,100)}To unchain the mystic rites I'm calling
-Dialogue: 0,0:22:59.40,0:23:01.42,Dubtitles,,0,0,0,,I'm coming.
-Dialogue: 0,0:23:01.50,0:23:04.74,Dubtitles,,0,0,0,,I'm on my way to find.
+Dialogue: 0,0:22:58.16,0:23:03.20,Dubtitles,,0,0,0,,mystic rise I'm coming I'm on
 Dialogue: 1,0:23:02.44,0:23:07.74,ED Lyrics,,0,0,0,,{\fad(100,100)}I'm on my way to find the eternal verities
-Dialogue: 0,0:23:04.82,0:23:06.74,Dubtitles,,0,0,0,,Eternal varieties.
-Dialogue: 0,0:23:06.82,0:23:09.90,Dubtitles,,0,0,0,,Expanding all their tears.
+Dialogue: 0,0:23:03.28,0:23:06.74,Dubtitles,,0,0,0,,my way to find Eternal varieties
+Dialogue: 0,0:23:06.82,0:23:10.40,Dubtitles,,0,0,0,,Expanding all their tears By
 Dialogue: 1,0:23:07.74,0:23:13.45,ED Lyrics,,0,0,0,,{\fad(100,100)}Exploding all the teardrops by the sun
-Dialogue: 0,0:23:09.98,0:23:11.28,Dubtitles,,0,0,0,,By the sun.
-Dialogue: 0,0:23:11.36,0:23:18.04,Dubtitles,,0,0,0,,I can feel my heart beating.
+Dialogue: 0,0:23:10.48,0:23:17.04,Dubtitles,,0,0,0,,the sun I can feel my heart
 Dialogue: 1,0:23:13.45,0:23:18.79,ED Lyrics,,0,0,0,,{\fad(100,100)}I can feel my heart beating
-Dialogue: 0,0:23:18.12,0:23:23.56,Dubtitles,,0,0,0,,I can see my faith all spinning.
+Dialogue: 0,0:23:17.12,0:23:22.66,Dubtitles,,0,0,0,,beating I can see my faith all
 Dialogue: 1,0:23:18.79,0:23:29.34,ED Lyrics,,0,0,0,,{\fad(100,100)}I can see my fate all spinning around beyond the time
-Dialogue: 0,0:23:23.64,0:23:27.58,Dubtitles,,0,0,0,,Long beyond the dark.
-Dialogue: 0,0:23:28.76,0:23:34.10,Dubtitles,,0,0,0,,Rise up to the sky like a butterfly.
+Dialogue: 0,0:23:22.74,0:23:27.58,Dubtitles,,0,0,0,,Spinning long beyond the dark.
+Dialogue: 0,0:23:28.76,0:23:35.54,Dubtitles,,0,0,0,,Rise up to the sky like\Na butterfly Show me
 Dialogue: 1,0:23:29.34,0:23:34.64,ED Lyrics,,0,0,0,,{\fad(100,100)}Rise up to the sky, like a butterfly
-Dialogue: 0,0:23:34.18,0:23:37.24,Dubtitles,,0,0,0,,Show me what's inside.
 Dialogue: 1,0:23:34.64,0:23:39.98,ED Lyrics,,0,0,0,,{\fad(100,100)}Show me what's inside, don't ever let go
-Dialogue: 0,0:23:37.32,0:23:39.84,Dubtitles,,0,0,0,,I don't know the world's cold.
-Dialogue: 0,0:23:39.92,0:23:43.50,Dubtitles,,0,0,0,,Shining stars will guide me to.
+Dialogue: 0,0:23:35.62,0:23:39.84,Dubtitles,,0,0,0,,What's inside? I don't\Nknow. The world's cold.
+Dialogue: 0,0:23:39.92,0:23:45.20,Dubtitles,,0,0,0,,Shining stars will guide\Nme to Somewhere high
 Dialogue: 1,0:23:39.98,0:23:45.44,ED Lyrics,,0,0,0,,{\fad(100,100)}Shining stars will guide me to somewhere high
-Dialogue: 0,0:23:43.58,0:23:45.20,Dubtitles,,0,0,0,,Somewhere high.
-Dialogue: 0,0:23:45.28,0:23:46.96,Dubtitles,,0,0,0,,Finding the truth.
+Dialogue: 0,0:23:45.28,0:23:49.68,Dubtitles,,0,0,0,,Finding the truth beyond\Nthe heaven's door.
 Dialogue: 1,0:23:45.44,0:23:51.32,ED Lyrics,,0,0,0,,{\fad(100,100)}Finding the truth beyond the Heaven's Door
-Dialogue: 0,0:23:47.04,0:23:49.68,Dubtitles,,0,0,0,,Beyond the heaven's door.
 Dialogue: 0,0:24:13.34,0:24:14.76,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 0,0:24:41.14,0:24:42.50,Dubtitles,,0,0,0,,Thank you.
 

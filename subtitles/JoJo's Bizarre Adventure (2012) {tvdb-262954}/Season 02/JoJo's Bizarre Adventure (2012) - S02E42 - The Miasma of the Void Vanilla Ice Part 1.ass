@@ -39,7 +39,7 @@ Style: SFX,Shaky Hand Some Comic,170,&H00B40052,&H000000FF,&H00000000,&H00000000
 Style: SFXPink,LeviNaiveLetter,150,&H007C4BC2,&H000000FF,&H00403846,&H00000000,0,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXBlack,LeviNaiveLetter,150,&H00101111,&H000000FF,&H00F0E7EF,&H00FFFFFF,0,0,0,0,130,100,0,0,1,5,7,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00080710,&H000000FF,&H00000000,&H87181548,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -181,23 +181,24 @@ Dialogue: 0,0:00:44.76,0:00:46.23,Dubtitles,,0,0,0,,Regardless of what it is,
 Dialogue: 0,0:00:46.36,0:00:50.48,Dubtitles,,0,0,0,,by analyzing your soul I can see the\Nanswer to any yes or no question.
 Dialogue: 0,0:00:50.82,0:00:54.44,Dubtitles,,0,0,0,,Right or left, high or\Nlow, outside or inside,
 Dialogue: 0,0:00:54.76,0:00:58.86,Dubtitles,,0,0,0,,fastball or curveball, my\Nstand's perception is infallible.
+Dialogue: 0,0:01:02.62,0:01:04.91,Dubtitles,,0,0,0,,this is characters now on your channel.
 Dialogue: 1,0:01:03.45,0:01:06.29,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,952.999)}Seeking out...
-Dialogue: 0,0:01:04.26,0:01:06.74,Dubtitles,,0,0,0,,Subtitles provided by Suzi\NThis is the power of iwi
-Dialogue: 0,0:01:06.82,0:01:10.11,Dubtitles,,0,0,0,,Thank you for the moment This\Nis the power of the nation
-Dialogue: 0,0:01:10.56,0:01:11.39,Dubtitles,,0,0,0,,Anyway,
-Dialogue: 0,0:01:11.47,0:01:13.38,Dubtitles,,0,0,0,,I'm going to close the journey This is
-Dialogue: 0,0:01:13.46,0:01:20.46,Dubtitles,,0,0,0,,the
-Dialogue: 0,0:01:20.90,0:01:23.42,Dubtitles,,0,0,0,,power of my soul
-Dialogue: 0,0:01:23.50,0:01:24.90,Dubtitles,,0,0,0,,Thank
-Dialogue: 0,0:01:24.98,0:01:31.70,Dubtitles,,0,0,0,,you.
-Dialogue: 0,0:02:21.66,0:02:23.48,Dubtitles,,0,0,0,,Thank you so much for watching.
+Dialogue: 0,0:01:33.06,0:01:37.00,Dubtitles,,0,0,0,,We're still looking at the\Ndestination of the enemy.
+Dialogue: 0,0:01:37.98,0:01:43.54,Dubtitles,,0,0,0,,We're still looking at the end\Nof the battle of the battle.
+Dialogue: 0,0:01:49.08,0:01:54.36,Dubtitles,,0,0,0,,The battle of the battle\Nis the end of the battle.
+Dialogue: 0,0:01:54.44,0:01:55.40,Dubtitles,,0,0,0,,Thank
+Dialogue: 0,0:01:55.48,0:02:02.48,Dubtitles,,0,0,0,,you
+Dialogue: 0,0:02:12.30,0:02:13.13,Dubtitles,,0,0,0,,so
+Dialogue: 0,0:02:13.21,0:02:14.04,Dubtitles,,0,0,0,,much
+Dialogue: 0,0:02:14.13,0:02:19.42,Dubtitles,,0,0,0,,for
+Dialogue: 0,0:02:23.08,0:02:23.91,Dubtitles,,0,0,0,,watching.
 Dialogue: 0,0:02:31.66,0:02:34.62,Dubtitles,,0,0,0,,Will your pitch be a\Nhigh outside fastball?
 Dialogue: 1,0:02:32.00,0:02:36.63,Title 3,title,0,0,0,,{\fad(650,639)\pos(146,858)}Episode 42: The Miasma of the Void, Cool Ice, Part 1
-Dialogue: 0,0:02:35.98,0:02:37.20,Dubtitles,,0,0,0,,Yes or no?
+Dialogue: 0,0:02:36.02,0:02:37.20,Dubtitles,,0,0,0,,Yes or no?
 Dialogue: 0,0:02:41.16,0:02:43.75,Dubtitles,,0,0,0,,Well, Chotaro's telling\Nthe truth after all.
 Dialogue: 0,0:02:43.98,0:02:46.98,Dubtitles,,0,0,0,,He's really going to pitch\Na high outside fastball.
-Dialogue: 0,0:02:47.40,0:02:48.48,Dubtitles,,0,0,0,,What's he up to?
-Dialogue: 0,0:02:48.86,0:02:51.10,Dubtitles,,0,0,0,,It's true that he beat\Nmy brother by bluffing,
+Dialogue: 0,0:02:47.38,0:02:48.48,Dubtitles,,0,0,0,,What's he up to?
+Dialogue: 0,0:02:48.88,0:02:51.10,Dubtitles,,0,0,0,,It's true that he beat\Nmy brother by bluffing.
 Dialogue: 0,0:02:51.18,0:02:55.24,Dubtitles,,0,0,0,,But he's a fool if he thinks the\Nsame tired tactic will work with me.
 Dialogue: 0,0:02:55.58,0:02:56.56,Dubtitles,,0,0,0,,Here it comes.
 Dialogue: 0,0:03:01.78,0:03:02.92,Dubtitles,,0,0,0,,For your sake,
@@ -306,9 +307,9 @@ Dialogue: 0,0:05:04.84,0:05:06.36,Dubtitles,,0,0,0,,Are you taking me for a fool
 Dialogue: 0,0:05:06.44,0:05:08.46,Dubtitles,,0,0,0,,Have you any idea who you're speaking to?
 Dialogue: 0,0:05:08.54,0:05:10.72,Dubtitles,,0,0,0,,Jotaro, pitch the ball.
 Dialogue: 0,0:05:11.14,0:05:14.91,Dubtitles,,0,0,0,,I'll figure out your little trick\Nand take your soul as my prize
-Dialogue: 0,0:05:16.20,0:05:17.08,Dubtitles,,0,0,0,,All right
-Dialogue: 0,0:05:17.68,0:05:20.30,Dubtitles,,0,0,0,,Let's continue. My next pitch will be...
-Dialogue: 0,0:05:20.56,0:05:22.78,Dubtitles,,0,0,0,,I'll throw a high outside fastball
+Dialogue: 0,0:05:16.20,0:05:17.08,Dubtitles,,0,0,0,,All right.
+Dialogue: 0,0:05:17.68,0:05:20.30,Dubtitles,,0,0,0,,Let's continue. For my next pitch...
+Dialogue: 0,0:05:20.56,0:05:22.78,Dubtitles,,0,0,0,,I'll throw a high outside fastball.
 Dialogue: 0,0:05:25.70,0:05:27.90,Dubtitles,,0,0,0,,Yes, yes, yes, yes
 Dialogue: 0,0:05:28.58,0:05:31.44,Dubtitles,,0,0,0,,Once again, his soul says\Nhe's telling the truth.
 Dialogue: 0,0:05:31.52,0:05:34.46,Dubtitles,,0,0,0,,He's really going to pitch\Na high outside fastball
@@ -332,7 +333,7 @@ Dialogue: 0,0:06:10.39,0:06:12.00,Dubtitles,,0,0,0,,That's three outs! Change!
 Dialogue: 0,0:06:12.82,0:06:13.65,Dubtitles,,0,0,0,,Oh.
 Dialogue: 0,0:06:16.34,0:06:17.56,Dubtitles,,0,0,0,,I don't get it.
 Dialogue: 0,0:06:17.82,0:06:20.23,Dubtitles,,0,0,0,,Why can't I figure out how he's cheating?
-Dialogue: 0,0:06:20.94,0:06:23.20,Dubtitles,,0,0,0,,Jotaro's soul kept saying\Nhe'd throw a fastball,
+Dialogue: 0,0:06:20.94,0:06:23.20,Dubtitles,,0,0,0,,Jotaro's soul kept saying\Nhe'd throw a fastball.
 Dialogue: 0,0:06:23.28,0:06:26.16,Dubtitles,,0,0,0,,but at the last second it\Ncurved into a forkball.
 Dialogue: 0,0:06:26.92,0:06:28.98,Dubtitles,,0,0,0,,This doesn't make any sense!
 Dialogue: 0,0:06:29.66,0:06:30.49,Dubtitles,,0,0,0,,How?
@@ -355,7 +356,7 @@ Dialogue: 0,0:07:16.68,0:07:18.32,Dubtitles,,0,0,0,,No, no, no, no.
 Dialogue: 0,0:07:18.70,0:07:19.88,Dubtitles,,0,0,0,,Just admit it.
 Dialogue: 0,0:07:20.02,0:07:21.32,Dubtitles,,0,0,0,,You're doing something.
 Dialogue: 0,0:07:24.48,0:07:26.32,Dubtitles,,0,0,0,,Damn it. Damn it.
-Dialogue: 0,0:07:26.56,0:07:28.54,Dubtitles,,0,0,0,,I can clearly read Jotaro's thoughts,
+Dialogue: 0,0:07:26.56,0:07:28.54,Dubtitles,,0,0,0,,I can clearly read Jotaro's thoughts.
 Dialogue: 0,0:07:28.62,0:07:31.52,Dubtitles,,0,0,0,,which means my stand's power\Nis still working as it should.
 Dialogue: 0,0:07:31.60,0:07:35.02,Dubtitles,,0,0,0,,So how can his mind say one\Nthing but his body do another?
 Dialogue: 0,0:07:35.34,0:07:37.30,Dubtitles,,0,0,0,,Hey, Jotaro, are you seeing this?
@@ -364,7 +365,7 @@ Dialogue: 0,0:07:39.68,0:07:43.03,Dubtitles,,0,0,0,,He definitely doesn't look\N
 Dialogue: 0,0:07:43.76,0:07:46.10,Dubtitles,,0,0,0,,Darby, it's your turn to pitch, so hurry.
 Dialogue: 0,0:07:46.18,0:07:47.47,Dubtitles,,0,0,0,,We don't have all day.
 Dialogue: 0,0:07:47.98,0:07:48.81,Dubtitles,,0,0,0,,It's four to three.
-Dialogue: 0,0:07:48.89,0:07:51.80,Dubtitles,,0,0,0,,With only a one-point difference,\NI might still have a chance.
+Dialogue: 0,0:07:48.89,0:07:51.80,Dubtitles,,0,0,0,,With only a one point difference,\NI might still have a chance.
 Dialogue: 0,0:07:51.88,0:07:53.58,Dubtitles,,0,0,0,,I am a video game genius.
 Dialogue: 0,0:07:53.88,0:07:54.80,Dubtitles,,0,0,0,,I can't lose.
 Dialogue: 0,0:07:55.02,0:07:56.74,Dubtitles,,0,0,0,,I am a video game genius.
@@ -376,7 +377,7 @@ Dialogue: 0,0:08:04.12,0:08:07.12,Dubtitles,,0,0,0,,Do you think you can shake\N
 Dialogue: 0,0:08:10.76,0:08:11.62,Dubtitles,,0,0,0,,Look at that!
 Dialogue: 0,0:08:11.76,0:08:12.76,Dubtitles,,0,0,0,,Another home run!
 Dialogue: 0,0:08:12.86,0:08:15.32,Dubtitles,,0,0,0,,That's another run for the Jaguars, folks!
-Dialogue: 0,0:08:15.40,0:08:16.56,Dubtitles,,0,0,0,,It's five-to-three!
+Dialogue: 0,0:08:15.40,0:08:16.56,Dubtitles,,0,0,0,,It's five to three!
 Dialogue: 0,0:08:27.66,0:08:29.06,Dubtitles,,0,0,0,,It can't be!
 Dialogue: 0,0:08:29.32,0:08:33.00,Dubtitles,,0,0,0,,I accidentally released his\Nsoul from the doll! Look!
 Dialogue: 0,0:08:33.28,0:08:35.14,Dubtitles,,0,0,0,,His soul has returned to his body!
@@ -389,7 +390,7 @@ Dialogue: 0,0:08:46.56,0:08:49.09,Dubtitles,,0,0,0,,But the thing is, you\Ndid r
 Dialogue: 0,0:08:49.50,0:08:50.97,Dubtitles,,0,0,0,,You know what that means.
 Dialogue: 0,0:08:51.86,0:08:54.56,Dubtitles,,0,0,0,,Your soul admitted defeat\Nand it's game over.
 Dialogue: 0,0:08:56.96,0:08:59.32,Dubtitles,,0,0,0,,Huh? Hold on. Is...
-Dialogue: 0,0:08:59.40,0:09:00.74,Dubtitles,,0,0,0,,It is Joseph's Stand?
+Dialogue: 0,0:08:59.40,0:09:00.74,Dubtitles,,0,0,0,,is Joseph's stand?
 Dialogue: 0,0:09:01.10,0:09:05.36,Dubtitles,,0,0,0,,It was wrapped around the controller\Nthe entire time! Huh? Whoops.
 Dialogue: 0,0:09:05.58,0:09:07.58,Dubtitles,,0,0,0,,I guess I forgot to put this away.
 Dialogue: 0,0:09:07.80,0:09:10.60,Dubtitles,,0,0,0,,How could something so stupid... No.
@@ -579,7 +580,7 @@ Dialogue: 0,0:12:52.66,0:12:57.06,Dubtitles,,0,0,0,,But unfortunately, he was no
 Dialogue: 0,0:12:57.82,0:13:02.40,Dubtitles,,0,0,0,,Which is why, at the edge of glory,\Nvictory slipped through his fingers.
 Dialogue: 0,0:13:03.66,0:13:07.54,Dubtitles,,0,0,0,,For the rest of eternity,\NDarby will remain in ignorance.
 Dialogue: 0,0:13:09.50,0:13:12.60,Dubtitles,,0,0,0,,Ice, have a look at the scar on my neck.
-Dialogue: 0,0:13:15.06,0:13:17.90,Dubtitles,,0,0,0,,Jonathan Joestar's body\Nis still rejecting me.
+Dialogue: 0,0:13:15.06,0:13:17.90,Dubtitles,,0,0,0,,Jonathan Joestar's body\Nis still rejecting me,
 Dialogue: 0,0:13:18.02,0:13:22.36,Dubtitles,,0,0,0,,but I need the blood of one more soul\Nbefore this body truly becomes mine.
 Dialogue: 0,0:13:22.44,0:13:24.97,Dubtitles,,0,0,0,,And once that happens,\Nthe wound will heal.
 Dialogue: 0,0:13:26.20,0:13:30.74,Dubtitles,,0,0,0,,Ice, will you offer me the crimson\Nvigor coursing through your veins?
@@ -780,12 +781,11 @@ Dialogue: 0,0:18:37.40,0:18:38.23,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:18:38.31,0:18:39.14,Dubtitles,,0,0,0,,The maze!
 Dialogue: 0,0:18:39.23,0:18:40.52,Dubtitles,,0,0,0,,It's totally disappeared!
 Dialogue: 0,0:18:40.60,0:18:44.08,Dubtitles,,0,0,0,,I'm willing to bet the power\Nof this man stand created the
-Dialogue: 0,0:18:44.16,0:18:48.04,Dubtitles,,0,0,0,,illusion of the maze it dissipated\Nas soon as Iggy slashed him.
-Dialogue: 0,0:18:48.96,0:18:52.70,Dubtitles,,0,0,0,,His name Billy Jean his\Nfate instant defeat.
+Dialogue: 0,0:18:44.16,0:18:48.04,Dubtitles,,0,0,0,,illusion of the maze it dissipated\Nas soon as Iggy slashed him
+Dialogue: 0,0:18:48.96,0:18:55.48,Dubtitles,,0,0,0,,His name Billy Jean his fate instant defeat\NThe mansion is back to normal now So we
 Dialogue: 1,0:18:49.10,0:18:53.15,SC42 Sign 3,sign,0,0,0,,{\pos(1248,840)}Name: Billie Jean \NStand Power: Illusions  \NInstant Defeat
-Dialogue: 0,0:18:52.78,0:18:55.06,Dubtitles,,0,0,0,,The mansion is back to normal now.
-Dialogue: 0,0:18:55.14,0:18:58.30,Dubtitles,,0,0,0,,So we averted at least\None potential crisis and
-Dialogue: 0,0:18:58.38,0:19:01.15,Dubtitles,,0,0,0,,the flames don't seem to\Nbe sensing any danger?
+Dialogue: 0,0:18:55.56,0:18:58.30,Dubtitles,,0,0,0,,averted at least one potential crisis and
+Dialogue: 0,0:18:58.38,0:19:01.09,Dubtitles,,0,0,0,,the flames don't seem\Nto be sensing any danger
 Dialogue: 1,0:19:02.24,0:19:06.12,Note,Sign,0,0,0,,{\fs57)}The moment you turn around...
 Dialogue: 1,0:19:15.34,0:19:18.22,Note,Sign,0,0,0,,{\fs57)}...you will die.
 Dialogue: 0,0:19:21.98,0:19:24.08,Dubtitles,,0,0,0,,The flames don't sense a thing.
@@ -811,21 +811,20 @@ Dialogue: 0,0:20:42.44,0:20:43.68,Dubtitles,,0,0,0,,Hey, Iggy!
 Dialogue: 0,0:20:43.96,0:20:46.20,Dubtitles,,0,0,0,,Couldn't your nose pick up on this thing?
 Dialogue: 0,0:20:46.28,0:20:47.32,Dubtitles,,0,0,0,,Answer me!
 Dialogue: 0,0:20:49.70,0:20:51.44,Dubtitles,,0,0,0,,Avdol, where are you?
-Dialogue: 0,0:20:51.72,0:20:53.13,Dubtitles,,0,0,0,,Where did you go?!
+Dialogue: 0,0:20:51.72,0:20:53.13,Dubtitles,,0,0,0,,Where the hell'd you go?
 Dialogue: 0,0:20:55.46,0:20:56.29,Dubtitles,,0,0,0,,Avdol.
 Dialogue: 0,0:20:58.20,0:20:59.03,Dubtitles,,0,0,0,,Avdol.
 Dialogue: 0,0:21:01.26,0:21:03.24,Dubtitles,,0,0,0,,Has been reduced to nothingness.
-Dialogue: 0,0:21:05.54,0:21:09.46,Dubtitles,,0,0,0,,Beyond my jaws lies an endless\Nvoid, a dark dimension.
-Dialogue: 0,0:21:09.54,0:21:12.44,Dubtitles,,0,0,0,,which harbors things even\NI do not fully comprehend.
-Dialogue: 0,0:21:12.52,0:21:17.08,Dubtitles,,0,0,0,,Your ally is dead but fret\Nnot as you will soon join him.
-Dialogue: 0,0:21:17.16,0:21:20.48,Dubtitles,,0,0,0,,You were arrogant enough to\Nbelieve you could defeat Lord Dio.
-Dialogue: 0,0:21:20.56,0:21:22.94,Dubtitles,,0,0,0,,Therefore you must be punished.
+Dialogue: 0,0:21:05.54,0:21:09.72,Dubtitles,,0,0,0,,Beyond my jaws lies an endless\Nvoid, a dark dimension which
+Dialogue: 0,0:21:09.80,0:21:14.92,Dubtitles,,0,0,0,,harbors things even i do not fully\Ncomprehend your ally is dead but
+Dialogue: 0,0:21:15.00,0:21:18.70,Dubtitles,,0,0,0,,fret not as you will soon join\Nhim you were arrogant enough to
+Dialogue: 0,0:21:18.78,0:21:22.94,Dubtitles,,0,0,0,,believe you could defeat lord dio\Ntherefore you must be punished
 Dialogue: 0,0:21:29.52,0:21:30.92,Dubtitles,,0,0,0,,One by one,
 Dialogue: 0,0:21:31.22,0:21:34.90,Dubtitles,,0,0,0,,each of you shall fall in\Nline as I scatter your atomic
 Dialogue: 0,0:21:34.98,0:21:38.00,Dubtitles,,0,0,0,,fragments across the deepest\Nrecesses of the Void.
 Dialogue: 0,0:21:40.68,0:21:42.14,Dubtitles,,0,0,0,,No, you're lying.
 Dialogue: 0,0:21:43.92,0:21:45.16,Dubtitles,,0,0,0,,It's impossible.
-Dialogue: 0,0:21:47.18,0:21:49.34,Dubtitles,,0,0,0,,There's no way you killed Abbacchio.
+Dialogue: 0,0:21:47.18,0:21:49.34,Dubtitles,,0,0,0,,There's no way you killed Abzal.
 Dialogue: 0,0:21:49.42,0:21:52.60,Dubtitles,,0,0,0,,How dare you lie to me!
 Dialogue: 0,0:22:19.42,0:22:20.60,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 0,0:22:51.38,0:22:53.46,Dubtitles,,0,0,0,,Thank you.

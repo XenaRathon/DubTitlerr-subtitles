@@ -48,7 +48,7 @@ Style: SFXRed,Ashcan BB,170,&H003C1BBD,&H000000FF,&H000F0A17,&H00000000,-1,0,0,0
 Style: SFXRed2,WorldsAtWar BB,170,&H002416A8,&H000000FF,&H00010102,&H00000000,0,0,0,0,130,100,0,0,1,12,0,8,50,40,20,1
 Style: SFXPurple2,LeviNaiveLetter,130,&H00811268,&H000000FF,&H0025131D,&H00000000,0,0,0,0,130,100,0,0,1,5,0,9,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,45,&H00181615,&H000000FF,&H00000000,&H4970524D,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -80,26 +80,21 @@ Dialogue: 0,0:01:19.58,0:01:21.23,Dubtitles,,0,0,0,,You're here now, so move on.
 Dialogue: 0,0:01:21.78,0:01:23.86,Dubtitles,,0,0,0,,I'm meeting up with him in five days.
 Dialogue: 0,0:01:23.94,0:01:25.98,Dubtitles,,0,0,0,,I can go wherever the hell I want.
 Dialogue: 0,0:01:26.22,0:01:28.40,Dubtitles,,0,0,0,,I'm not taking orders from you jerks.
-Dialogue: 0,0:01:32.36,0:01:33.28,Dubtitles,,0,0,0,,She mustn't.
-Dialogue: 0,0:01:33.36,0:01:35.32,Dubtitles,,0,0,0,,She'll be in danger if she stays with us.
-Dialogue: 0,0:01:35.40,0:01:38.38,Dubtitles,,0,0,0,,Well, maybe she lacks the\Ncash for a place to stay.
-Dialogue: 0,0:01:38.46,0:01:39.64,Dubtitles,,0,0,0,,Then that's it.
-Dialogue: 0,0:01:39.72,0:01:42.54,Dubtitles,,0,0,0,,We'll have to get her a\Nhotel room for a few nights.
-Dialogue: 0,0:01:42.62,0:01:43.64,Dubtitles,,0,0,0,,Hey, Polnareff.
-Dialogue: 0,0:01:43.72,0:01:46.78,Dubtitles,,0,0,0,,Get her to come with us and\Ntry not to bruise her ego.
-Dialogue: 0,0:01:46.86,0:01:47.94,Dubtitles,,0,0,0,,You got it.
-Dialogue: 0,0:01:48.02,0:01:52.14,Dubtitles,,0,0,0,,Hey, you're stinking poor, aren't?
+Dialogue: 0,0:01:32.36,0:01:36.64,Dubtitles,,0,0,0,,She mustn't. She'll be in danger if\Nshe stays with us. Well maybe she
+Dialogue: 0,0:01:36.72,0:01:40.92,Dubtitles,,0,0,0,,lacks the cash for a place to stay\Nthen that's it we'll have to get her
+Dialogue: 0,0:01:41.00,0:01:45.26,Dubtitles,,0,0,0,,a hotel room for a few nights hey\Npolnareff get her to come with us
+Dialogue: 0,0:01:45.34,0:01:52.14,Dubtitles,,0,0,0,,and try not to bruise her ego you got\Nit hey you're stinking poor aren't
 Dialogue: 0,0:01:55.48,0:01:56.31,Dubtitles,,0,0,0,,you.
 Dialogue: 0,0:01:56.39,0:01:57.88,Dubtitles,,0,0,0,,Consider this your lucky day, freeloader.
 Dialogue: 0,0:01:57.96,0:01:58.79,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:01:58.87,0:02:00.46,Dubtitles,,0,0,0,,Oh, for God's sake.
 Dialogue: 0,0:02:00.78,0:02:01.76,Dubtitles,,0,0,0,,Well, let's go.
-Dialogue: 0,0:02:05.62,0:02:06.54,Dubtitles,,0,0,0,,chicken. Okay.
+Dialogue: 0,0:02:05.62,0:02:06.54,Dubtitles,,0,0,0,,Chicken? Okay.
 Dialogue: 0,0:02:06.62,0:02:10.68,Dubtitles,,0,0,0,,I'm terribly sorry, sir, but we tend\Nto be full at this time of year.
 Dialogue: 0,0:02:10.92,0:02:13.57,Dubtitles,,0,0,0,,We no longer have any\Nlarge suites available.
 Dialogue: 0,0:02:13.76,0:02:15.44,Dubtitles,,0,0,0,,May I suggest our double rooms?
 Dialogue: 0,0:02:15.52,0:02:16.64,Dubtitles,,0,0,0,,I guess we're
-Dialogue: 0,0:02:18.00,0:02:18.83,Dubtitles,,0,0,0,,Stuck.
+Dialogue: 0,0:02:18.00,0:02:18.83,Dubtitles,,0,0,0,,Stuck?
 Dialogue: 0,0:02:18.91,0:02:22.86,Dubtitles,,0,0,0,,Now, for the rooms, uh, Avdol and I\Nwill share a room with each other.
 Dialogue: 0,0:02:23.04,0:02:26.64,Dubtitles,,0,0,0,,It'd make sense for Jotaro and I to\Nshare a room, since we're both students.
 Dialogue: 0,0:02:26.72,0:02:28.07,Dubtitles,,0,0,0,,Does that help, Joseph?
@@ -118,11 +113,11 @@ Dialogue: 0,0:03:15.70,0:03:16.53,Dubtitles,,0,0,0,,See ya.
 Dialogue: 0,0:03:42.76,0:03:44.22,Dubtitles,,0,0,0,,Damn it, I should have guessed.
 Dialogue: 0,0:03:44.30,0:03:48.64,Dubtitles,,0,0,0,,Couldn't you guys at least give us a\Nchance to rest, persistent bastards?
 Dialogue: 0,0:03:51.22,0:03:52.12,Dubtitles,,0,0,0,,Come out!
-Dialogue: 0,0:04:45.02,0:04:49.68,Dubtitles,,0,0,0,,Climb HIKARI YAKU SADAME
-Dialogue: 0,0:04:56.30,0:04:58.56,Dubtitles,,0,0,0,,UCHI Cameo NOAH
-Dialogue: 0,0:04:59.30,0:05:00.78,Dubtitles,,0,0,0,,Onland, onland.
+Dialogue: 0,0:04:45.02,0:04:49.68,Dubtitles,,0,0,0,,KALUMA HIKARI YAKU SADAME
+Dialogue: 0,0:04:56.30,0:04:58.56,Dubtitles,,0,0,0,,UCHI KOMU NOAH
+Dialogue: 0,0:04:59.30,0:05:00.78,Dubtitles,,0,0,0,,ONLAND ONLAND
 Dialogue: 0,0:05:01.30,0:05:03.20,Dubtitles,,0,0,0,,ONLAND ONLAND ONLAND ONLAND
-Dialogue: 0,0:05:07.28,0:05:11.76,Dubtitles,,0,0,0,,BREAK YOU DOWN KOMBUSH\NKOMBUSH Take it now,
+Dialogue: 0,0:05:07.28,0:05:11.76,Dubtitles,,0,0,0,,BREAK YOU DOWN! KOMBUSH!\NKOMBUSH! Take it now,
 Dialogue: 0,0:05:12.12,0:05:14.74,Dubtitles,,0,0,0,,I'll be strong to die and die! No!
 Dialogue: 1,0:05:31.47,0:05:35.60,Title 3,title,0,0,0,,{\fad(0,475)\pos(192,817)}Episode 8: The Devil
 Dialogue: 1,0:05:31.81,0:05:31.85,SFX,1,0,0,0,,{\fade(255,0,255,0,1000,3910,3910)\frz5.87\pos(1878.29,817.24)}Whoosh
@@ -489,7 +484,7 @@ Dialogue: 0,0:10:38.80,0:10:40.74,Dubtitles,,0,0,0,,We need to figure out a stra
 Dialogue: 0,0:10:41.70,0:10:43.47,Dubtitles,,0,0,0,,He'll be here in five minutes.
 Dialogue: 0,0:10:43.66,0:10:45.48,Dubtitles,,0,0,0,,Let's all meet up in this room.
 Dialogue: 0,0:10:46.12,0:10:47.08,Dubtitles,,0,0,0,,You got it.
-Dialogue: 0,0:10:47.46,0:10:50.44,Dubtitles,,0,0,0,,We'll see you in room 1212 soon, old man.
+Dialogue: 0,0:10:47.46,0:10:50.44,Dubtitles,,0,0,0,,We'll see you in room 1212, old man.
 Dialogue: 0,0:10:51.68,0:10:54.64,Dubtitles,,0,0,0,,What was that all about, Jojo? Let's go.
 Dialogue: 0,0:10:55.20,0:10:56.85,Dubtitles,,0,0,0,,Apparently, we're in danger.
 Dialogue: 0,0:10:57.32,0:10:58.15,Dubtitles,,0,0,0,,What?
@@ -500,7 +495,7 @@ Dialogue: 0,0:11:04.94,0:11:06.04,Dubtitles,,0,0,0,,Am I going crazy?
 Dialogue: 0,0:11:06.82,0:11:08.44,Dubtitles,,0,0,0,,Damn it. Where is it?
 Dialogue: 0,0:11:08.64,0:11:11.46,Dubtitles,,0,0,0,,Now how the hell am I\Ngoing to get back in here?
 Dialogue: 0,0:11:11.94,0:11:14.66,Dubtitles,,0,0,0,,Could I tell the front\Ndesk and ask for a new one?
-Dialogue: 0,0:11:14.74,0:11:17.92,Dubtitles,,0,0,0,,There's probably a fine\Nfor that. There it is.
+Dialogue: 0,0:11:14.74,0:11:17.92,Dubtitles,,0,0,0,,There's probably a fine\Nfor that. There it is!
 Dialogue: 0,0:11:18.10,0:11:20.58,Dubtitles,,0,0,0,,It must have fallen during\Nall the commotion earlier.
 Dialogue: 0,0:11:20.66,0:11:23.48,Dubtitles,,0,0,0,,Why did it have to go all\Nthe way to the middle?
 Dialogue: 0,0:11:34.26,0:11:35.09,Dubtitles,,0,0,0,,What the?
@@ -662,8 +657,8 @@ Dialogue: 0,0:13:03.15,0:13:07.19,Dubtitles,,0,0,0,,How dare you stab one of my 
 Dialogue: 0,0:13:08.18,0:13:09.88,Dubtitles,,0,0,0,,Wait, he's a doll?
 Dialogue: 0,0:13:10.10,0:13:11.69,Dubtitles,,0,0,0,,What kind of stand is that?
 Dialogue: 0,0:13:11.90,0:13:13.14,Dubtitles,,0,0,0,,Silver Chariot!
-Dialogue: 0,0:13:13.68,0:13:18.00,Dubtitles,,0,0,0,,You're stupid as you look don't you\Nget it your stand can't fight where you
-Dialogue: 0,0:13:18.08,0:13:22.37,Dubtitles,,0,0,0,,can't see as long as you're tied up\Nunderneath the bed you can't hurt me?
+Dialogue: 0,0:13:13.68,0:13:17.88,Dubtitles,,0,0,0,,you're stupid as you look don't you\Nget it your stand can't fight where
+Dialogue: 0,0:13:17.96,0:13:22.43,Dubtitles,,0,0,0,,you can't see as long as you're tied\Nup underneath the bed you can't hurt me
 Dialogue: 1,0:13:38.08,0:13:38.13,Eyecatch Stats,,0,0,0,,{=21}{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:13:38.08,0:13:38.13,Eyecatch Stats,,0,0,0,,{=24}{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:13:38.08,0:13:38.13,Eyecatch Stats,,0,0,0,,{=24}{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -809,7 +804,7 @@ Dialogue: 0,0:13:46.04,0:13:47.30,Dubtitles,,0,0,0,,Oh, Jojo!
 Dialogue: 0,0:13:48.62,0:13:49.97,Dubtitles,,0,0,0,,Did you need something?
 Dialogue: 0,0:13:50.56,0:13:52.78,Dubtitles,,0,0,0,,So you are here. Listen up.
 Dialogue: 0,0:13:53.12,0:13:55.12,Dubtitles,,0,0,0,,Don't leave this room for a while.
-Dialogue: 0,0:13:55.56,0:13:57.33,Dubtitles,,0,0,0,,I'll come for you again later.
+Dialogue: 0,0:13:55.56,0:13:57.33,Dubtitles,,0,0,0,,I'll be back for you later.
 Dialogue: 0,0:13:57.44,0:13:58.78,Dubtitles,,0,0,0,,Keep your door locked, okay?
 Dialogue: 0,0:13:58.86,0:14:00.98,Dubtitles,,0,0,0,,And don't open it for any strangers.
 Dialogue: 0,0:14:01.40,0:14:02.42,Dubtitles,,0,0,0,,Oh, okay.
@@ -848,22 +843,19 @@ Dialogue: 0,0:14:10.44,0:14:11.68,Dubtitles,,0,0,0,,How heavy is this bed anyway
 Dialogue: 0,0:14:11.76,0:14:13.94,Dubtitles,,0,0,0,,It's gonna be at least 120 kilograms.
 Dialogue: 0,0:14:14.20,0:14:16.18,Dubtitles,,0,0,0,,There's no way I can push it off of me.
 Dialogue: 0,0:14:16.26,0:14:19.61,Dubtitles,,0,0,0,,I've got to use Silver Chariot's\Nsword to cut these cords
-Dialogue: 0,0:14:23.70,0:14:27.88,Dubtitles,,0,0,0,,You little bastard! As soon as\NI stop attacking, this happens?
-Dialogue: 0,0:14:27.96,0:14:32.73,Dubtitles,,0,0,0,,You better believe I'm gonna keep blindly\Nstabbing every centimeter of this room!
-Dialogue: 0,0:14:41.76,0:14:46.75,Dubtitles,,0,0,0,,Ah-yah!
-Dialogue: 0,0:14:47.06,0:14:47.89,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:14:48.18,0:14:50.54,Dubtitles,,0,0,0,,Looks like the big scary\Nknight can't even pin
-Dialogue: 0,0:14:50.62,0:14:52.94,Dubtitles,,0,0,0,,the tail on the donkey\Nwhen he's blindfolded.
-Dialogue: 0,0:14:53.02,0:14:54.20,Dubtitles,,0,0,0,,Talk about dents!
+Dialogue: 0,0:14:23.70,0:14:28.72,Dubtitles,,0,0,0,,You little bastard! As soon as I stop\Nattacking, this happens! You better
+Dialogue: 0,0:14:28.80,0:14:32.86,Dubtitles,,0,0,0,,believe I'm gonna keep blindly\Nstabbing every centimeter of this room
+Dialogue: 0,0:14:44.62,0:14:45.45,Dubtitles,,0,0,0,,Ah-wah!
+Dialogue: 0,0:14:47.04,0:14:47.87,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:14:48.20,0:14:50.54,Dubtitles,,0,0,0,,Looks like the big scary\Nknight can't even pin
+Dialogue: 0,0:14:50.62,0:14:52.96,Dubtitles,,0,0,0,,the tail on the donkey\Nwhen he's blindfolded!
+Dialogue: 0,0:14:53.04,0:14:54.22,Dubtitles,,0,0,0,,Talk about dents!
 Dialogue: 0,0:14:54.44,0:14:55.92,Dubtitles,,0,0,0,,You're mine now! Ah!
-Dialogue: 0,0:14:59.84,0:15:00.67,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:15:02.46,0:15:03.29,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:15:04.44,0:15:05.27,Dubtitles,,0,0,0,,Ah! Ah!
-Dialogue: 0,0:15:05.35,0:15:06.18,Dubtitles,,0,0,0,,Ah!
-Dialogue: 0,0:15:07.56,0:15:08.39,Dubtitles,,0,0,0,,Bastards!
-Dialogue: 0,0:15:08.47,0:15:11.58,Dubtitles,,0,0,0,,I've just about had it\Nwith you, you little runt!
+Dialogue: 0,0:14:59.52,0:15:06.99,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:15:07.07,0:15:08.08,Dubtitles,,0,0,0,,Ah! Bastards!
+Dialogue: 0,0:15:08.40,0:15:11.58,Dubtitles,,0,0,0,,I've just about had it\Nwith you, you little runt!
 Dialogue: 0,0:15:16.40,0:15:17.23,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:15:17.32,0:15:18.72,Dubtitles,,0,0,0,,It's just you two?
+Dialogue: 0,0:15:17.32,0:15:18.72,Dubtitles,,0,0,0,,It's just you two guys?
 Dialogue: 0,0:15:19.04,0:15:20.69,Dubtitles,,0,0,0,,Why isn't the girl with you?
 Dialogue: 0,0:15:21.10,0:15:21.93,Dubtitles,,0,0,0,,Wow.
 Dialogue: 0,0:15:22.01,0:15:24.30,Dubtitles,,0,0,0,,We went to her room and\Nmade sure she was okay.
@@ -905,8 +897,8 @@ Dialogue: 0,0:17:59.94,0:18:04.84,Dubtitles,,0,0,0,,Hm, you're not the only one 
 Dialogue: 0,0:18:06.80,0:18:07.63,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:18:07.71,0:18:10.97,Dubtitles,,0,0,0,,How did you know precisely\Nwhere I was on top of the bed?
 Dialogue: 0,0:18:11.24,0:18:13.34,Dubtitles,,0,0,0,,I trapped you underneath it!
-Dialogue: 0,0:18:13.72,0:18:17.86,Dubtitles,,0,0,0,,Simple, I broke all the mirrors, so\NI could see you hanging over the bed?
-Dialogue: 0,0:18:17.94,0:18:19.59,Dubtitles,,0,0,0,,clear as day from down here.
+Dialogue: 0,0:18:13.72,0:18:15.82,Dubtitles,,0,0,0,,Simple, I broke all the mirrors,
+Dialogue: 0,0:18:16.12,0:18:19.74,Dubtitles,,0,0,0,,so I could see you hanging over the\Nbed clear as day from down here.
 Dialogue: 0,0:18:19.82,0:18:21.16,Dubtitles,,0,0,0,,Sucks to be you!
 Dialogue: 0,0:18:25.64,0:18:27.12,Dubtitles,,0,0,0,,At last we meet.
 Dialogue: 0,0:18:30.72,0:18:31.68,Dubtitles,,0,0,0,,Whoa there!
@@ -918,8 +910,7 @@ Dialogue: 0,0:18:46.52,0:18:49.80,Dubtitles,,0,0,0,,No assassin worth a damn wou
 Dialogue: 0,0:18:49.88,0:18:53.28,Dubtitles,,0,0,0,,It only happens in the face of\Ncertain death for him or his opponent!
 Dialogue: 0,0:18:53.36,0:18:57.02,Dubtitles,,0,0,0,,You guys are so stupid, always showing\Noff your stands everywhere you go!
 Dialogue: 0,0:18:57.10,0:19:01.60,Dubtitles,,0,0,0,,It's your own fault that we know all your\Nweaknesses if it weren't for that mirror.
-Dialogue: 0,0:19:01.68,0:19:04.30,Dubtitles,,0,0,0,,I would have killed you You're\Njust a moron who got lucky.
-Dialogue: 0,0:19:04.38,0:19:06.94,Dubtitles,,0,0,0,,All right, then come at me!
+Dialogue: 0,0:19:01.68,0:19:06.94,Dubtitles,,0,0,0,,I would have killed you You're just a moron\Nwho got lucky All right, then come at me
 Dialogue: 0,0:19:08.16,0:19:10.32,Dubtitles,,0,0,0,,What's the matter didn't\Nyou say you were going
 Dialogue: 0,0:19:10.40,0:19:12.98,Dubtitles,,0,0,0,,to bite off my balls\Nor something tough guy?
 Dialogue: 0,0:19:13.06,0:19:14.50,Dubtitles,,0,0,0,,Go ahead and try it
@@ -1019,7 +1010,7 @@ Dialogue: 2,0:19:17.67,0:19:17.71,SFXBlue,7,0,0,0,,{=14}{\bord0\blur0.8\fade(255
 Dialogue: 1,0:19:17.71,0:19:17.76,SFXBlue,7,0,0,0,,{=14}{\blur0.8\fade(255,0,255,-1910,-1810,70,70)\pos(1647,348.67)\frz43.83\c&H181108&}Bam
 Dialogue: 2,0:19:17.71,0:19:17.76,SFXBlue,7,0,0,0,,{=14}{\bord0\blur0.8\fade(255,0,255,-1910,-1810,70,70)\pos(1647,348.67)\frz43.83\4a&HFF&}Bam
 Dialogue: 0,0:19:17.86,0:19:19.26,Dubtitles,,0,0,0,,I am gonna
-Dialogue: 0,0:19:23.18,0:19:25.14,Dubtitles,,0,0,0,,Everything except your balls
+Dialogue: 0,0:19:23.18,0:19:25.14,Dubtitles,,0,0,0,,Everything except your balls!
 Dialogue: 1,0:19:25.39,0:19:25.43,SFXSilver,8,0,0,0,,{=15}{\blur6\fscx81.24\fscy62.49\fade(255,0,255,0,50,1550,1550)\frz14.48\pos(876.13,562.16)\alpha&H80&}Kabang!
 Dialogue: 2,0:19:25.39,0:19:25.43,SFXSilver,8,0,0,0,,{=15}{\bord5\blur0.6\fscx81.24\fscy62.49\fade(255,0,255,0,50,1550,1550)\frz14.48\pos(876.13,562.16)\c&H505041&}Kabang!
 Dialogue: 3,0:19:25.39,0:19:25.43,SFXSilver,8,0,0,0,,{=15}{\bord0\blur0.6\fscx81.24\fscy62.49\fade(255,0,255,0,50,1550,1550)\frz14.48\pos(876.13,562.16)\4a&HFF&}Kabang!
@@ -1519,13 +1510,13 @@ Dialogue: 0,0:21:28.90,0:21:30.30,Dubtitles,,0,0,0,,Oh, no!
 Dialogue: 0,0:21:37.08,0:21:38.06,Dubtitles,,0,0,0,,Very strange.
 Dialogue: 0,0:21:38.42,0:21:41.38,Dubtitles,,0,0,0,,The channels are changing as if\Nthe TV has a mind of its own.
 Dialogue: 0,0:21:41.46,0:21:43.00,Dubtitles,,0,0,0,,It's searching for words from among the
-Dialogue: 0,0:21:43.08,0:21:44.92,Dubtitles,,0,0,0,,channels and connecting\Nthem into a sentence.
-Dialogue: 0,0:21:45.00,0:21:47.52,Dubtitles,,0,0,0,,Creating a message for\Nthe ear not the eye.
-Dialogue: 0,0:21:47.60,0:21:54.26,Dubtitles,,0,0,0,,There I think the first part is there.
-Dialogue: 0,0:21:54.34,0:22:00.26,Dubtitles,,0,0,0,,Is wait what was that?
-Dialogue: 0,0:22:00.34,0:22:01.98,Dubtitles,,0,0,0,,What the hell did it just say?
-Dialogue: 0,0:22:02.06,0:22:05.04,Dubtitles,,0,0,0,,I could be wrong but I think it said that
-Dialogue: 0,0:22:05.12,0:22:07.65,Dubtitles,,0,0,0,,there is a traitor who\Nis walking among us.
+Dialogue: 0,0:21:43.08,0:21:44.92,Dubtitles,,0,0,0,,channels and connecting\Nthem into a sentence,
+Dialogue: 0,0:21:45.00,0:21:46.26,Dubtitles,,0,0,0,,creating a message for
+Dialogue: 0,0:21:46.34,0:21:52.72,Dubtitles,,0,0,0,,The ear, not the eye. There! I
+Dialogue: 0,0:21:52.80,0:21:54.26,Dubtitles,,0,0,0,,think the first part is there
+Dialogue: 0,0:21:54.34,0:22:00.80,Dubtitles,,0,0,0,,is wait what was that what
+Dialogue: 0,0:22:00.88,0:22:04.44,Dubtitles,,0,0,0,,the hell did it just say I\Ncould be wrong but I think
+Dialogue: 0,0:22:04.52,0:22:07.76,Dubtitles,,0,0,0,,it said that there is a\Ntraitor who is walking among us
 Dialogue: 0,0:22:15.04,0:22:15.87,Dubtitles,,0,0,0,,Servant!
 Dialogue: 0,0:22:16.48,0:22:18.92,Dubtitles,,0,0,0,,Kakyoin? What? It can't be!
 Dialogue: 0,0:22:19.16,0:22:20.52,Dubtitles,,0,0,0,,That's impossible.
@@ -1669,42 +1660,40 @@ Dialogue: 1,0:23:24.42,0:23:24.46,SFXPurple2,11,0,0,0,,{\blur0.8\fade(255,0,255,
 Dialogue: 1,0:23:24.46,0:23:24.50,SFXPurple2,11,0,0,0,,{\blur0.8\fade(255,0,255,-2500,-2499,-190,110)\frz357.7\org(1909.19,44.458)\pos(1909.19,44.458)}Menacing
 Dialogue: 1,0:23:24.50,0:23:24.54,SFXPurple2,11,0,0,0,,{\blur0.8\fade(255,0,255,-2540,-2539,-230,70)\frz357.7\org(1909.19,44.458)\pos(1909.19,44.458)}Menacing
 Dialogue: 1,0:23:40.73,0:23:43.10,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:23:42.94,0:23:45.00,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
+Dialogue: 0,0:23:42.94,0:23:46.64,Dubtitles,,0,0,0,,They do the sand dance, don't\Nyou know If they move too quick
 Dialogue: 1,0:23:43.10,0:23:45.40,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:23:45.08,0:23:46.64,Dubtitles,,0,0,0,,If they move too quick!
 Dialogue: 1,0:23:45.40,0:23:46.86,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:23:47.30,0:23:49.68,Dubtitles,,0,0,0,,They're falling down like a domino.
+Dialogue: 0,0:23:47.30,0:23:50.84,Dubtitles,,0,0,0,,They're falling down like\Na domino. All the birds are
 Dialogue: 1,0:23:47.65,0:23:50.11,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:23:49.76,0:23:52.34,Dubtitles,,0,0,0,,All the birds are men by the Nile.
 Dialogue: 1,0:23:50.11,0:23:52.45,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:23:52.42,0:23:55.98,Dubtitles,,0,0,0,,They've got their money on\Na bed Called crocodiles.
+Dialogue: 0,0:23:50.92,0:23:54.88,Dubtitles,,0,0,0,,Men by the Nile. They've got\Ntheir money on a bed called.
 Dialogue: 1,0:23:52.45,0:23:54.78,Lyrics 2,,0,0,0,,They got the money on a bet
 Dialogue: 1,0:23:54.78,0:23:56.28,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:23:56.06,0:23:58.92,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
+Dialogue: 0,0:23:54.96,0:23:58.92,Dubtitles,,0,0,0,,Crocodiles. They snap their\Nteeth on your cigarette.
 Dialogue: 1,0:23:56.95,0:23:59.41,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
-Dialogue: 0,0:23:59.00,0:24:01.18,Dubtitles,,0,0,0,,Falling tacks with a hookah. I say!
+Dialogue: 0,0:23:59.00,0:24:00.56,Dubtitles,,0,0,0,,Falling tacks with a hookah
 Dialogue: 1,0:23:59.41,0:24:01.62,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:24:01.26,0:24:02.24,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:24:00.64,0:24:02.24,Dubtitles,,0,0,0,,I say Walk
 Dialogue: 0,0:24:02.32,0:24:09.32,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:24:08.63,0:24:11.17,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:24:09.40,0:24:10.23,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:24:22.00,0:24:26.94,Dubtitles,,0,0,0,,The blonde waitresses take their trays,\Nspin around and they cross the floor.
+Dialogue: 0,0:24:09.40,0:24:10.23,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:24:22.00,0:24:27.58,Dubtitles,,0,0,0,,the blonde waitresses take their trays spin\Naround and they cross the floor they've
 Dialogue: 1,0:24:22.56,0:24:25.02,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
 Dialogue: 1,0:24:25.02,0:24:27.40,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:24:27.02,0:24:31.60,Dubtitles,,0,0,0,,They've got the moves. You drop your\Ndrink, then they bring you more.
 Dialogue: 1,0:24:27.40,0:24:28.65,Lyrics 2,,0,0,0,,They've got the moves
+Dialogue: 0,0:24:27.66,0:24:33.14,Dubtitles,,0,0,0,,got the moves you drop your drink then\Nthey bring you more all the school kids so
 Dialogue: 1,0:24:29.69,0:24:32.03,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:24:31.68,0:24:36.30,Dubtitles,,0,0,0,,All the school kids so sick of folks\Nthey like the punk and the metal band.
 Dialogue: 1,0:24:32.03,0:24:34.36,Lyrics 2,,0,0,0,,All the school kids so sick of books
+Dialogue: 0,0:24:33.22,0:24:39.16,Dubtitles,,0,0,0,,sick of folks they like the punk and the\Nmetal band when the buzzer rings they're
 Dialogue: 1,0:24:34.36,0:24:36.70,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:24:36.38,0:24:40.86,Dubtitles,,0,0,0,,When the buzzer rings they're\Nwalking like an egyptian!
 Dialogue: 1,0:24:36.70,0:24:38.16,Lyrics 2,,0,0,0,,When the buzzer rings
 Dialogue: 1,0:24:38.99,0:24:41.33,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:24:40.94,0:24:44.00,Dubtitles,,0,0,0,,All the kids in the marketplace say? Walk
+Dialogue: 0,0:24:39.24,0:24:42.00,Dubtitles,,0,0,0,,walking like an egyptian All the kids in
 Dialogue: 1,0:24:41.33,0:24:43.54,Lyrics 2,,0,0,0,,All the kids in the marketplace say
+Dialogue: 0,0:24:42.08,0:24:44.00,Dubtitles,,0,0,0,,The marketplace say, "Walk
 Dialogue: 0,0:24:44.08,0:24:51.08,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:24:50.67,0:24:53.76,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:24:51.36,0:24:52.19,Dubtitles,,0,0,0,,an Egyptian.
+Dialogue: 0,0:24:51.36,0:24:52.19,Dubtitles,,0,0,0,,an Egyptian
 Dialogue: 1,0:24:55.05,0:24:57.05,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
 Dialogue: 1,0:25:08.06,0:25:10.07,Next Episode,sign,0,0,0,,{\pos(960,220)\fs100}Episode 9
 Dialogue: 1,0:25:08.06,0:25:10.07,Next Episode,sign,0,0,0,,{\pos(960,845)\fs100}Yellow Temperance

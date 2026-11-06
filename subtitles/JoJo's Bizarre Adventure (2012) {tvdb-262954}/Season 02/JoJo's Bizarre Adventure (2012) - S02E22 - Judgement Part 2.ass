@@ -45,7 +45,7 @@ Style: SFXRed,KG Turning Tables,130,&H003B2BBC,&H000000FF,&H001D0751,&H00000000,
 Style: SFXSunset,Shaky Hand Some Comic Bold,160,&H006C3D7B,&H000000FF,&H0023212D,&H00000000,-1,0,0,0,130,100,0,0,1,10,0,8,50,40,0,1
 Style: SFXPeach,Franciscan,150,&H00B0CFDE,&H000000FF,&H00232728,&H00000000,-1,0,0,0,130,100,0,0,1,9,0,8,50,40,0,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00040D13,&H000000FF,&H00000000,&HC40D1219,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -179,9 +179,9 @@ Dialogue: 2,0:01:18.39,0:01:18.43,SFX2,1.2,0,0,0,,{\frz8.397\pos(1773.77,579.44)
 Dialogue: 2,0:01:18.43,0:01:18.47,SFX2,1.2,0,0,0,,{\frz8.397\pos(1774.13,579.55)}Zam!
 Dialogue: 2,0:01:18.47,0:01:18.51,SFX2,1.2,0,0,0,,{\frz8.397\pos(1774.5,579.67)}Zam!
 Dialogue: 0,0:01:40.94,0:01:42.38,Dubtitles,,0,0,0,,And now,
-Dialogue: 0,0:01:42.46,0:01:48.14,Dubtitles,,0,0,0,,I'm a star-dust It's
-Dialogue: 0,0:01:48.22,0:01:49.50,Dubtitles,,0,0,0,,called 100 years ago
-Dialogue: 0,0:01:53.30,0:01:58.74,Dubtitles,,0,0,0,,The young men are facing The time
+Dialogue: 0,0:01:42.46,0:01:48.14,Dubtitles,,0,0,0,,I'm a star-dust. It's
+Dialogue: 0,0:01:48.22,0:01:49.50,Dubtitles,,0,0,0,,Called 100 years ago.
+Dialogue: 0,0:01:53.30,0:01:58.74,Dubtitles,,0,0,0,,The young men are facing the time.
 Dialogue: 0,0:02:37.22,0:02:40.26,Dubtitles,,0,0,0,,This is time for me!
 Dialogue: 0,0:02:59.22,0:03:00.28,Dubtitles,,0,0,0,,After all it's me!
 Dialogue: 2,0:03:04.08,0:03:09.54,Title 3,Title,0,0,0,,{\fad(480,480)\pos(197,805)}Episode 22: Judgement, Part 2
@@ -640,12 +640,12 @@ Dialogue: 0,0:08:14.84,0:08:17.84,Dubtitles,,0,0,0,,sister and never stop to\Nth
 Dialogue: 0,0:08:18.36,0:08:20.72,Dubtitles,,0,0,0,,I simply refuse to accept this.
 Dialogue: 0,0:08:20.96,0:08:22.22,Dubtitles,,0,0,0,,Muhammad Avdol is dead!
 Dialogue: 0,0:08:22.30,0:08:25.42,Dubtitles,,0,0,0,,I was told whole horse put a\Nbullet between your eyes after
-Dialogue: 0,0:08:25.50,0:08:29.21,Dubtitles,,0,0,0,,hangman sunk his blade into your\Nback and you died on the spot.
+Dialogue: 0,0:08:25.50,0:08:29.15,Dubtitles,,0,0,0,,hangman sunk his blade into your\Nback and you died on the spot
 Dialogue: 0,0:08:30.18,0:08:33.74,Dubtitles,,0,0,0,,You're correct about me being\Nshot right in the forehead.
 Dialogue: 0,0:08:34.74,0:08:38.28,Dubtitles,,0,0,0,,That said because I was stabbed\Nin the back for a moment
-Dialogue: 0,0:08:38.36,0:08:42.18,Dubtitles,,0,0,0,,my face was looking up and\Nthe bullet only grazed me I.
-Dialogue: 0,0:08:43.84,0:08:46.88,Dubtitles,,0,0,0,,Suppose this is what one would\Ncall a blessing in disguise.
-Dialogue: 0,0:08:46.96,0:08:48.96,Dubtitles,,0,0,0,,Holehorse didn't realize it.
+Dialogue: 0,0:08:38.36,0:08:42.18,Dubtitles,,0,0,0,,my face was looking up and\Nthe bullet only grazed me I
+Dialogue: 0,0:08:43.84,0:08:46.16,Dubtitles,,0,0,0,,Suppose this is what one\Nwould call a blessing
+Dialogue: 0,0:08:46.24,0:08:48.96,Dubtitles,,0,0,0,,In disguise. Holehorse didn't realize it.
 Dialogue: 0,0:08:49.16,0:08:51.40,Dubtitles,,0,0,0,,But his bullet never made\Ncontact with my brain,
 Dialogue: 0,0:08:51.48,0:08:53.60,Dubtitles,,0,0,0,,so he didn't inflict a mortal wound.
 Dialogue: 0,0:08:53.88,0:08:57.34,Dubtitles,,0,0,0,,He was only able to scratch\Nmy skin and bruise my skull.
@@ -800,20 +800,18 @@ Dialogue: 0,0:09:56.88,0:09:57.86,Dubtitles,,0,0,0,,I have to let Mr.
 Dialogue: 0,0:09:57.94,0:10:01.24,Dubtitles,,0,0,0,,Joestar, Kakyoin, and\NJotaro know! Avdol's back!
 Dialogue: 0,0:10:01.98,0:10:04.82,Dubtitles,,0,0,0,,This is very surprising news to be sure,
 Dialogue: 0,0:10:04.96,0:10:07.60,Dubtitles,,0,0,0,,but the way I see it,\NI can spin it this way!
-Dialogue: 0,0:10:07.68,0:10:11.46,Dubtitles,,0,0,0,,Not only did Judgment's cameo\Nslay the idiot Balnareff?
-Dialogue: 0,0:10:11.58,0:10:14.32,Dubtitles,,0,0,0,,but also succeeded in eliminating Avdol?
-Dialogue: 0,0:10:14.44,0:10:15.94,Dubtitles,,0,0,0,,who was actually alive!
+Dialogue: 0,0:10:07.68,0:10:11.46,Dubtitles,,0,0,0,,Not only did Judgment's\Ncameo slay the idiot Bruford,
+Dialogue: 0,0:10:11.58,0:10:15.94,Dubtitles,,0,0,0,,but also succeeded in eliminating\NAvdol, who was actually alive!
 Dialogue: 0,0:10:16.38,0:10:20.36,Dubtitles,,0,0,0,,Oh, I can't wait to tell\Nthem the splendid news!
-Dialogue: 0,0:10:21.06,0:10:22.32,Dubtitles,,0,0,0,,Maticians, run!
+Dialogue: 0,0:10:21.06,0:10:22.32,Dubtitles,,0,0,0,,Mathematicians, run!
 Dialogue: 0,0:10:25.54,0:10:26.88,Dubtitles,,0,0,0,,Whoa there!
 Dialogue: 0,0:10:32.96,0:10:33.80,Dubtitles,,0,0,0,,Avdol!
-Dialogue: 0,0:10:36.50,0:10:39.92,Dubtitles,,0,0,0,,This stand, it's four more\Npowerful than I expected.
-Dialogue: 0,0:10:40.52,0:10:43.12,Dubtitles,,0,0,0,,Be careful, it's not just his power!
-Dialogue: 0,0:10:43.20,0:10:45.36,Dubtitles,,0,0,0,,This guy's got incredible speed too.
-Dialogue: 0,0:10:45.44,0:10:49.38,Dubtitles,,0,0,0,,Come now, Avdol, is that the\Nextent of your abilities?
-Dialogue: 0,0:10:49.68,0:10:54.54,Dubtitles,,0,0,0,,If so, then sharing my good news\Nwill be even easier than expected.
-Dialogue: 0,0:10:54.62,0:10:56.62,Dubtitles,,0,0,0,,May Fortune
-Dialogue: 0,0:10:58.68,0:11:00.58,Dubtitles,,0,0,0,,Be with you both?
+Dialogue: 0,0:10:36.50,0:10:39.92,Dubtitles,,0,0,0,,This stand, it's four more\Npowerful than I expected
+Dialogue: 0,0:10:40.52,0:10:46.32,Dubtitles,,0,0,0,,Be careful, it's not just his power. This\Nguy's got incredible speed too. Come now,
+Dialogue: 0,0:10:46.52,0:10:47.35,Dubtitles,,0,0,0,,Avdol,
+Dialogue: 0,0:10:47.43,0:10:49.46,Dubtitles,,0,0,0,,is that the extent of your abilities?
+Dialogue: 0,0:10:49.68,0:10:56.62,Dubtitles,,0,0,0,,If so, then sharing my good news will\Nbe even easier than expected May Fortune
+Dialogue: 0,0:10:58.68,0:11:00.58,Dubtitles,,0,0,0,,Be with you both.
 Dialogue: 0,0:11:04.58,0:11:05.86,Dubtitles,,0,0,0,,What now?
 Dialogue: 0,0:11:06.46,0:11:08.14,Dubtitles,,0,0,0,,Hail to you!
 Dialogue: 0,0:11:16.26,0:11:17.70,Dubtitles,,0,0,0,,My brother?
@@ -824,16 +822,14 @@ Dialogue: 0,0:11:30.14,0:11:35.18,Dubtitles,,0,0,0,,You're nothing but a hunk of
 Dialogue: 0,0:11:41.22,0:11:42.34,Dubtitles,,0,0,0,,But, brother…
 Dialogue: 0,0:11:49.18,0:11:50.42,Dubtitles,,0,0,0,,Polnareff, apologies.
 Dialogue: 0,0:11:50.70,0:11:53.96,Dubtitles,,0,0,0,,I would like to take back what\NI said about you not changing.
-Dialogue: 0,0:11:54.04,0:11:56.08,Dubtitles,,0,0,0,,No, you were right about me all along.
-Dialogue: 0,0:11:56.16,0:11:58.90,Dubtitles,,0,0,0,,I'm the one who should apologize.
-Dialogue: 0,0:12:08.34,0:12:11.44,Dubtitles,,0,0,0,,This battle has already been decided!
-Dialogue: 0,0:12:14.72,0:12:15.74,Dubtitles,,0,0,0,,Tell you what!
-Dialogue: 0,0:12:15.82,0:12:19.36,Dubtitles,,0,0,0,,After all, before you head off\Nfor that magic lamp in the sky?
-Dialogue: 0,0:12:19.44,0:12:21.70,Dubtitles,,0,0,0,,I'd like to hear your three wishes.
-Dialogue: 0,0:12:21.96,0:12:24.98,Dubtitles,,0,0,0,,I'll grant them before I\Nput you to rest for good
+Dialogue: 0,0:11:54.04,0:11:58.90,Dubtitles,,0,0,0,,No, you were right about me all along\NI'm the one who should apologize
+Dialogue: 0,0:12:08.34,0:12:11.44,Dubtitles,,0,0,0,,This battle has already been decided
+Dialogue: 0,0:12:14.72,0:12:18.04,Dubtitles,,0,0,0,,Tell you what after all\Nbefore you head off for that
+Dialogue: 0,0:12:18.12,0:12:21.70,Dubtitles,,0,0,0,,magic lamp in the sky I'd like\Nto hear your three wishes.
+Dialogue: 0,0:12:21.96,0:12:24.98,Dubtitles,,0,0,0,,I'll grant them before I\Nput you to rest for good.
 Dialogue: 0,0:12:25.88,0:12:26.84,Dubtitles,,0,0,0,,Go ahead.
 Dialogue: 0,0:12:27.18,0:12:29.00,Dubtitles,,0,0,0,,You may as well give it a shot.
-Dialogue: 0,0:12:29.14,0:12:33.10,Dubtitles,,0,0,0,,As I said, you get three wishes Kel salut.
+Dialogue: 0,0:12:29.14,0:12:33.10,Dubtitles,,0,0,0,,As I said, you get\Nthree wishes. Kel salut.
 Dialogue: 0,0:12:33.38,0:12:34.84,Dubtitles,,0,0,0,,He's making fools of us.
 Dialogue: 0,0:12:35.00,0:12:36.36,Dubtitles,,0,0,0,,Just ignore him, Avdol.
 Dialogue: 0,0:12:36.60,0:12:38.54,Dubtitles,,0,0,0,,You don't have to make any wishes
@@ -875,13 +871,13 @@ Dialogue: 0,0:14:32.14,0:14:33.06,Dubtitles,,0,0,0,,Wait, damn it!
 Dialogue: 0,0:14:33.24,0:14:34.36,Dubtitles,,0,0,0,,Get back here!
 Dialogue: 0,0:14:35.46,0:14:36.29,Dubtitles,,0,0,0,,Shh!
 Dialogue: 0,0:14:36.37,0:14:37.20,Dubtitles,,0,0,0,,Polnareff, quiet.
-Dialogue: 0,0:14:40.52,0:14:43.36,Dubtitles,,0,0,0,,With that kind of power\Nand speed given the
+Dialogue: 0,0:14:40.52,0:14:43.36,Dubtitles,,0,0,0,,With that kind of power\Nand speed, given the
 Dialogue: 0,0:14:43.44,0:14:45.88,Dubtitles,,0,0,0,,rule of stands the user\Nmust be hiding somewhere
 Dialogue: 0,0:14:45.96,0:14:47.16,Dubtitles,,0,0,0,,nearby supplying his
 Dialogue: 0,0:14:47.24,0:14:48.07,Dubtitles,,0,0,0,,stand with
 Dialogue: 0,0:14:48.15,0:14:48.98,Dubtitles,,0,0,0,,energy
 Dialogue: 0,0:14:49.07,0:14:54.72,Dubtitles,,0,0,0,,is he
-Dialogue: 0,0:14:54.80,0:14:59.72,Dubtitles,,0,0,0,,here yes he should be\Nhiding out very close to us?
+Dialogue: 0,0:14:54.80,0:14:59.72,Dubtitles,,0,0,0,,here yes he should be\Nhiding out very close to us
 Dialogue: 0,0:15:06.06,0:15:07.78,Dubtitles,,0,0,0,,Oh, hey, could that be...
 Dialogue: 0,0:15:10.20,0:15:11.03,Dubtitles,,0,0,0,,Shhh...
 Dialogue: 0,0:15:25.30,0:15:26.13,Dubtitles,,0,0,0,,Shhh...
@@ -1117,8 +1113,8 @@ Dialogue: 1,0:15:52.59,0:15:52.63,SFXRed,4.2,0,0,0,,{=32}{\blur3\frz7.555\pos(14
 Dialogue: 2,0:15:52.59,0:15:52.63,SFXRed,4.2,0,0,0,,{=32}{\blur1.7\frz7.555\pos(1478.31,1121.6)\c&H2F2C34&}Grind {In preview for last episode}
 Dialogue: 3,0:15:52.59,0:15:52.63,SFXRed,4.2,0,0,0,,{=32}{\bord0\blur1.7\frz7.555\pos(1478.31,1121.6)\4a&HFF&}Grind {In preview for last episode}
 Dialogue: 0,0:15:55.58,0:15:57.18,Dubtitles,,0,0,0,,Like dirt and sand.
-Dialogue: 0,0:15:57.88,0:15:59.08,Dubtitles,,0,0,0,,A spider,
-Dialogue: 0,0:16:00.04,0:16:01.02,Dubtitles,,0,0,0,,ants too?
+Dialogue: 0,0:15:57.88,0:15:59.08,Dubtitles,,0,0,0,,a spider,
+Dialogue: 0,0:16:00.04,0:16:01.02,Dubtitles,,0,0,0,,ants too,
 Dialogue: 0,0:16:03.24,0:16:04.62,Dubtitles,,0,0,0,,and a match.
 Dialogue: 0,0:16:10.72,0:16:14.78,Dubtitles,,0,0,0,,Bastard, I hope you're ready because\Nyour suffering has barely begun.
 Dialogue: 0,0:16:15.08,0:16:16.32,Dubtitles,,0,0,0,,Hey, Polnareff,
@@ -1440,7 +1436,7 @@ Dialogue: 0,0:19:10.34,0:19:13.06,Dubtitles,,0,0,0,,A man we thought was dead\Nj
 Dialogue: 0,0:19:13.14,0:19:16.66,Dubtitles,,0,0,0,,How the hell can you just brush it\Noff and act like nothing has changed?
 Dialogue: 0,0:19:16.74,0:19:19.21,Dubtitles,,0,0,0,,Oh, yeah, I'm sorry about that, Polnareff.
 Dialogue: 0,0:19:19.46,0:19:24.74,Dubtitles,,0,0,0,,When I told you I'd taken it upon myself\Nto bury Avdol in India, I may have lied.
-Dialogue: 0,0:19:26.46,0:19:29.00,Dubtitles,,0,0,0,,What the hell?! Mr.
+Dialogue: 0,0:19:26.46,0:19:29.00,Dubtitles,,0,0,0,,What the hell?!
 Dialogue: 1,0:19:28.85,0:19:28.89,SFXPeach,6,0,0,0,,{\blur1\fade(255,0,255,0,200,1000,1000)\frz9.847\pos(1507.01,249.51)\c&H2B2E30&}Calm
 Dialogue: 2,0:19:28.85,0:19:28.89,SFXPeach,6,0,0,0,,{\bord0\blur0.6\fade(255,0,255,0,200,1000,1000)\frz9.847\pos(1507.01,249.51)\4a&HFF&}Calm
 Dialogue: 1,0:19:28.89,0:19:28.93,SFXPeach,6,0,0,0,,{\blur1\fade(255,0,255,-40,160,960,960)\frz9.847\pos(1507.01,249.51)\c&H2B2E30&}Calm
@@ -1526,7 +1522,7 @@ Dialogue: 0,0:20:54.14,0:20:55.78,Dubtitles,,0,0,0,,I apologize as well,
 Dialogue: 0,0:20:55.90,0:20:59.58,Dubtitles,,0,0,0,,but I had a very good reason for\Ncoming to this island in disguise.
 Dialogue: 0,0:20:59.66,0:21:00.64,Dubtitles,,0,0,0,,Yeah, what is it?
 Dialogue: 0,0:21:00.72,0:21:03.10,Dubtitles,,0,0,0,,It was partially so the\Nenemy wouldn't find out.
-Dialogue: 0,0:21:03.18,0:21:07.12,Dubtitles,,0,0,0,,But I also had Abdal do some shopping\Nfor me while he was laying low.
+Dialogue: 0,0:21:03.18,0:21:07.12,Dubtitles,,0,0,0,,But I also had Avdol do some shopping\Nfor me while he was laying low.
 Dialogue: 0,0:21:07.20,0:21:08.50,Dubtitles,,0,0,0,,What kind of shopping?
 Dialogue: 0,0:21:08.82,0:21:11.40,Dubtitles,,0,0,0,,Since it was a very\Nconspicuous acquisition,
 Dialogue: 0,0:21:11.48,0:21:14.46,Dubtitles,,0,0,0,,I disguised myself as a\Nwealthy Arab gentleman.
@@ -1544,50 +1540,46 @@ Dialogue: 0,0:21:38.30,0:21:39.13,Dubtitles,,0,0,0,,Whoa!
 Dialogue: 0,0:21:39.21,0:21:40.04,Dubtitles,,0,0,0,,A submarine!
 Dialogue: 0,0:21:41.18,0:21:42.01,Dubtitles,,0,0,0,,That's right.
 Dialogue: 0,0:21:42.20,0:21:43.04,Dubtitles,,0,0,0,,From here on out,
-Dialogue: 0,0:21:43.12,0:21:49.06,Dubtitles,,0,0,0,,we're riding to egypt in this you you've\Ngot to be kidding how did you afford this?
-Dialogue: 0,0:22:08.00,0:22:12.68,Dubtitles,,0,0,0,,all your paintings on the tomb they\Ndo the sand dance don't you know?
+Dialogue: 0,0:21:43.12,0:21:49.06,Dubtitles,,0,0,0,,we're riding to egypt in this you you've\Ngot to be kidding how did you afford this
+Dialogue: 0,0:22:08.00,0:22:13.16,Dubtitles,,0,0,0,,all your paintings on the tomb they\Ndo the sand dance don't you know If
 Dialogue: 1,0:22:12.68,0:22:15.10,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:22:12.76,0:22:17.36,Dubtitles,,0,0,0,,if they move too quick they're\Nfalling down like a domino
+Dialogue: 0,0:22:13.24,0:22:18.90,Dubtitles,,0,0,0,,They move too quick. They're falling\Ndown like a domino. On the buzzer men
 Dialogue: 1,0:22:15.10,0:22:17.35,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
 Dialogue: 1,0:22:17.35,0:22:18.81,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:17.44,0:22:21.82,Dubtitles,,0,0,0,,on the buzzer men by the\Nnile they got the money on a
+Dialogue: 0,0:22:18.98,0:22:25.26,Dubtitles,,0,0,0,,By the Nile. They got the money on a\Nbed. Called crocodiles. They snap their
 Dialogue: 1,0:22:19.60,0:22:22.07,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:21.90,0:22:26.00,Dubtitles,,0,0,0,,bed called crocodiles they\Nsnap their teeth on your
 Dialogue: 1,0:22:22.07,0:22:24.40,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
 Dialogue: 1,0:22:24.40,0:22:26.74,Lyrics 2,,0,0,0,,They got the money on a bet
-Dialogue: 0,0:22:26.08,0:22:27.78,Dubtitles,,0,0,0,,cigarette foreign types with
+Dialogue: 0,0:22:25.34,0:22:27.56,Dubtitles,,0,0,0,,teeth on your cigarette Foreign types
 Dialogue: 1,0:22:26.74,0:22:28.24,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:22:27.86,0:22:29.22,Dubtitles,,0,0,0,,a hookah walk
+Dialogue: 0,0:22:27.64,0:22:29.22,Dubtitles,,0,0,0,,With a hookah. Walk
 Dialogue: 1,0:22:28.91,0:22:31.37,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
 Dialogue: 0,0:22:29.30,0:22:36.30,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:31.37,0:22:33.58,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:37.14,0:22:37.97,Dubtitles,,0,0,0,,an egyptian
+Dialogue: 0,0:22:37.14,0:22:37.97,Dubtitles,,0,0,0,,an Egyptian
 Dialogue: 1,0:22:40.58,0:22:43.13,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:49.72,0:22:53.94,Dubtitles,,0,0,0,,the blonde waitresses take\Ntheir trays spin around and they
-Dialogue: 0,0:22:54.02,0:22:58.12,Dubtitles,,0,0,0,,cross the floor they've got\Nthe moves you drop your drink
+Dialogue: 0,0:22:49.72,0:22:53.94,Dubtitles,,0,0,0,,The blonde waitresses take their\Ntrays. Spin around and they
+Dialogue: 0,0:22:54.02,0:22:58.12,Dubtitles,,0,0,0,,Cross the floor. They've got\Nthe moves. You drop your drink.
 Dialogue: 1,0:22:54.51,0:22:56.98,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
 Dialogue: 1,0:22:56.98,0:22:59.35,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:22:58.20,0:23:01.94,Dubtitles,,0,0,0,,then they bring you more all\Nthe school kids so sick of books
+Dialogue: 0,0:22:58.20,0:23:01.94,Dubtitles,,0,0,0,,Then they bring you more. All\Nthe school kids so sick of books.
 Dialogue: 1,0:22:59.35,0:23:00.60,Lyrics 2,,0,0,0,,They've got the moves
 Dialogue: 1,0:23:01.65,0:23:03.98,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:23:02.02,0:23:05.56,Dubtitles,,0,0,0,,they like the punk and the\Nmetal band when the buzzer rings
+Dialogue: 0,0:23:02.02,0:23:05.56,Dubtitles,,0,0,0,,They like the punk and the\Nmetal band When the buzzer rings
 Dialogue: 1,0:23:03.98,0:23:06.32,Lyrics 2,,0,0,0,,All the school kids so sick of books
-Dialogue: 0,0:23:06.30,0:23:11.98,Dubtitles,,0,0,0,,they're walking like an egyptian all\Nthe kids in the marketplace say wayo,
+Dialogue: 0,0:23:06.30,0:23:12.00,Dubtitles,,0,0,0,,They're walking like an Egyptian. All\Nthe kids in the marketplace say Wee-oh,
 Dialogue: 1,0:23:06.32,0:23:08.65,Lyrics 2,,0,0,0,,They like the punk and the metal band
 Dialogue: 1,0:23:08.65,0:23:10.11,Lyrics 2,,0,0,0,,When the buzzer rings
 Dialogue: 1,0:23:10.95,0:23:13.28,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:23:12.26,0:23:15.62,Dubtitles,,0,0,0,,wayo, wayo, wayo, wayo
 Dialogue: 1,0:23:13.28,0:23:15.49,Lyrics 2,,0,0,0,,All the kids in the marketplace say
-Dialogue: 0,0:23:17.98,0:23:19.76,Dubtitles,,0,0,0,,walk like an egyptian
+Dialogue: 0,0:23:18.06,0:23:19.76,Dubtitles,,0,0,0,,Walk like an Egyptian.
 Dialogue: 1,0:23:22.63,0:23:25.71,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:23:22.88,0:23:25.60,Dubtitles,,0,0,0,,the sparkly design is\Nmuch more to my liking?
-Dialogue: 0,0:23:25.68,0:23:26.84,Dubtitles,,0,0,0,,A submarine, huh?
+Dialogue: 0,0:23:22.96,0:23:26.42,Dubtitles,,0,0,0,,The sparkly design is much\Nmore to my liking. A submarine?
+Dialogue: 0,0:23:26.82,0:23:30.62,Dubtitles,,0,0,0,,Perhaps a refreshing white would be\Nbetter Hurry and make the coffee!
 Dialogue: 2,0:23:26.92,0:23:28.92,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode {PREVIEW IS NOT UP TO DATE}
-Dialogue: 0,0:23:26.96,0:23:29.10,Dubtitles,,0,0,0,,Perhaps a refreshing\Nwhite would be better?
-Dialogue: 0,0:23:29.18,0:23:30.46,Dubtitles,,0,0,0,,Hurry and make the coffee!
-Dialogue: 0,0:23:30.54,0:23:31.76,Dubtitles,,0,0,0,,Which one should I pick?
-Dialogue: 0,0:23:31.84,0:23:34.82,Dubtitles,,0,0,0,,Kakuwi, why'd you grab\Nsix cups? Yes, hello?
-Dialogue: 0,0:23:35.20,0:23:37.42,Dubtitles,,0,0,0,,Oh, Joseph, darling, it's you!
+Dialogue: 0,0:23:30.70,0:23:31.78,Dubtitles,,0,0,0,,Which one should I pick?
+Dialogue: 0,0:23:31.86,0:23:34.80,Dubtitles,,0,0,0,,Kakuwi, why'd you grab\Nsix cups? Yes, hello?
+Dialogue: 0,0:23:35.20,0:23:37.44,Dubtitles,,0,0,0,,Oh, Joseph, darling, it's you!
 Dialogue: 2,0:23:39.93,0:23:41.94,Next Episode,sign,0,0,0,,{\pos(960,225)\fs100}Episode 23
 Dialogue: 2,0:23:39.93,0:23:41.94,Next Episode,sign,0,0,0,,{\fs100\pos(960,845)}The High Priestess, Part 1
 

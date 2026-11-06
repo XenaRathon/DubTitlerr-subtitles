@@ -46,11 +46,11 @@ Style: SFXYellow4,LeviNaiveLetter,170,&H0060CCF6,&H000000FF,&H000E131C,&H0000000
 Style: SFXPurple,Shaky Hand Some Comic Bold,160,&H00C55174,&H000000FF,&H000E0E19,&H000E0E19,0,0,0,0,130,100,0,0,1,6,4,8,50,40,20,1
 Style: SFXWater,Franc Gothique Brush,140,&H00F4CD82,&H000000FF,&H00432922,&H00000000,0,0,0,0,130,100,0,0,1,8,0,7,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H001B1420,&H000000FF,&H00000000,&H93352340,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.49,0:00:07.37,Dubtitles,,0,0,0,,Previously on JoJo's Bizarre\NAdventure... Ka. Choo! Aim. Beware!
+Dialogue: 0,0:00:00.49,0:00:07.37,Dubtitles,,0,0,0,,Previously on JoJo's Bizarre Adventure...\NKa. ...Choo! ...in... ...Beware...
 Dialogue: 0,0:00:08.03,0:00:08.95,Dubtitles,,0,0,0,,Uh-oh. Him!
 Dialogue: 0,0:00:09.87,0:00:10.73,Dubtitles,,0,0,0,,D. Oh.
 Dialogue: 0,0:00:11.29,0:00:12.12,Dubtitles,,0,0,0,,Lloyd.
@@ -61,8 +61,9 @@ Dialogue: 0,0:00:20.57,0:00:21.85,Dubtitles,,0,0,0,,He's with Jotaro.
 Dialogue: 0,0:00:24.19,0:00:25.02,Dubtitles,,0,0,0,,Ooh!
 Dialogue: 0,0:00:27.49,0:00:28.67,Dubtitles,,0,0,0,,Can I get some ice cream, please?
 Dialogue: 0,0:00:28.75,0:00:29.75,Dubtitles,,0,0,0,,Welcome!
-Dialogue: 0,0:00:30.65,0:00:36.07,Dubtitles,,0,0,0,,You know, ice cream is pretty good, but\Nthis baby here, chilled coconut juice,?
-Dialogue: 0,0:00:36.21,0:00:37.92,Dubtitles,,0,0,0,,nothing in the world like it.
+Dialogue: 0,0:00:30.65,0:00:31.48,Dubtitles,,0,0,0,,You know,
+Dialogue: 0,0:00:31.65,0:00:34.71,Dubtitles,,0,0,0,,ice cream is pretty\Ngood, but this baby here,
+Dialogue: 0,0:00:34.91,0:00:37.97,Dubtitles,,0,0,0,,chilled coconut juice,\Nnothing in the world like it.
 Dialogue: 0,0:00:38.13,0:00:39.11,Dubtitles,,0,0,0,,How about it?
 Dialogue: 0,0:00:40.85,0:00:42.53,Dubtitles,,0,0,0,,I guess we can try it.
 Dialogue: 0,0:00:44.25,0:00:46.17,Dubtitles,,0,0,0,,Three, then. Thank you much!
@@ -610,9 +611,9 @@ Dialogue: 0,0:01:41.53,0:01:45.15,Dubtitles,,0,0,0,,I can't let you get away wit
 Dialogue: 0,0:01:46.07,0:01:46.93,Dubtitles,,0,0,0,,Can I?
 Dialogue: 0,0:01:52.37,0:01:53.20,Dubtitles,,0,0,0,,Kakyoin!
 Dialogue: 0,0:01:53.29,0:01:54.41,Dubtitles,,0,0,0,,What are you doing to this guy?
-Dialogue: 0,0:01:54.49,0:01:55.91,Dubtitles,,0,0,0,,You'll kill the bastard!
+Dialogue: 0,0:01:54.49,0:01:55.85,Dubtitles,,0,0,0,,You'll kill the bastard
 Dialogue: 0,0:02:05.81,0:02:07.99,Dubtitles,,0,0,0,,Come on! Tell me! Come on!
-Dialogue: 0,0:02:08.95,0:02:09.78,Dubtitles,,0,0,0,,Kick
+Dialogue: 0,0:02:08.95,0:02:09.78,Dubtitles,,0,0,0,,Kukui
 Dialogue: 0,0:02:10.07,0:02:11.75,Dubtitles,,0,0,0,,Now cut it out damn it.
 Dialogue: 0,0:02:11.91,0:02:13.43,Dubtitles,,0,0,0,,You're losing control.
 Dialogue: 0,0:02:14.19,0:02:16.23,Dubtitles,,0,0,0,,We're acting like such a bastard.
@@ -627,7 +628,7 @@ Dialogue: 0,0:02:37.69,0:02:39.53,Dubtitles,,0,0,0,,Tell me, am I wrong, Jotaro?
 Dialogue: 0,0:02:39.81,0:02:41.40,Dubtitles,,0,0,0,,You'd do the same, old pal.
 Dialogue: 0,0:02:44.99,0:02:46.03,Dubtitles,,0,0,0,,This guy...
 Dialogue: 0,0:03:02.85,0:03:05.43,Dubtitles,,0,0,0,,Let's go.
-Dialogue: 0,0:03:38.15,0:03:39.47,Dubtitles,,0,0,0,,Thank
+Dialogue: 0,0:03:38.15,0:03:39.47,Dubtitles,,0,0,0,,Thank.
 Dialogue: 0,0:03:39.55,0:03:40.87,Dubtitles,,0,0,0,,you
 Dialogue: 0,0:03:40.95,0:03:47.95,Dubtitles,,0,0,0,,so
 Dialogue: 0,0:03:53.27,0:03:54.45,Dubtitles,,0,0,0,,much for watching.
@@ -640,13 +641,13 @@ Dialogue: 0,0:04:27.65,0:04:29.99,Dubtitles,,0,0,0,,You couldn't possibly be\Nth
 Dialogue: 0,0:04:30.07,0:04:32.53,Dubtitles,,0,0,0,,friendship over a little\Ntussle with a thief now,
 Dialogue: 0,0:04:32.61,0:04:33.44,Dubtitles,,0,0,0,,would you?
 Dialogue: 0,0:04:33.53,0:04:36.25,Dubtitles,,0,0,0,,You're acting as if I've\Ndone something unforgivable.
-Dialogue: 0,0:04:40.57,0:04:41.40,Dubtitles,,0,0,0,,Defeat!
+Dialogue: 0,0:04:40.57,0:04:41.40,Dubtitles,,0,0,0,,Devita!
 Dialogue: 0,0:04:41.49,0:04:42.39,Dubtitles,,0,0,0,,That's awesome!
 Dialogue: 0,0:04:43.81,0:04:45.37,Dubtitles,,0,0,0,,Oh, wow! I see them!
 Dialogue: 0,0:04:45.45,0:04:46.77,Dubtitles,,0,0,0,,There's four of them up there!
 Dialogue: 0,0:04:46.85,0:04:47.69,Dubtitles,,0,0,0,,So cool!
 Dialogue: 0,0:04:55.41,0:04:56.24,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:04:56.33,0:04:58.81,Dubtitles,,0,0,0,,You're making way too\Nbig a deal out of this.
+Dialogue: 0,0:04:56.33,0:04:58.81,Dubtitles,,0,0,0,,You're making way too big\Nof a deal out of this.
 Dialogue: 0,0:04:59.15,0:05:01.73,Dubtitles,,0,0,0,,I'm just having a bad day. No big thing.
 Dialogue: 0,0:05:02.05,0:05:04.01,Dubtitles,,0,0,0,,I'm so exhausted from the trip.
 Dialogue: 0,0:05:04.23,0:05:06.06,Dubtitles,,0,0,0,,It's put me in such a bad mood.
@@ -655,15 +656,15 @@ Dialogue: 0,0:05:09.01,0:05:11.01,Dubtitles,,0,0,0,,Seemed to me you felt pretty
 Dialogue: 0,0:05:14.51,0:05:19.04,Dubtitles,,0,0,0,,The old man in Avdol think it's a good\Nidea for us to head to India by train.
 Dialogue: 0,0:05:19.73,0:05:21.03,Dubtitles,,0,0,0,,We leave tomorrow.
 Dialogue: 0,0:05:21.65,0:05:25.48,Dubtitles,,0,0,0,,We'll take the cable car to\NSingapore Station to reserve tickets.
-Dialogue: 0,0:05:27.83,0:05:29.47,Dubtitles,,0,0,0,,Come on, Kick!
+Dialogue: 0,0:05:27.83,0:05:29.47,Dubtitles,,0,0,0,,Come on, Kakao!
 Dialogue: 0,0:05:33.99,0:05:34.82,Dubtitles,,0,0,0,,Mr.
-Dialogue: 0,0:05:34.91,0:05:36.59,Dubtitles,,0,0,0,,Kakaoing, Jojo's left already.
+Dialogue: 0,0:05:34.91,0:05:36.59,Dubtitles,,0,0,0,,Kakyoin, Jojo's left already.
 Dialogue: 0,0:05:36.85,0:05:38.21,Dubtitles,,0,0,0,,Shouldn't we get going?
 Dialogue: 0,0:05:42.63,0:05:44.03,Dubtitles,,0,0,0,,Ah, right.
 Dialogue: 0,0:05:44.31,0:05:46.14,Dubtitles,,0,0,0,,I'll catch up in just a second.
 Dialogue: 0,0:05:46.63,0:05:47.46,Dubtitles,,0,0,0,,Oh, okay.
 Dialogue: 0,0:05:47.71,0:05:50.83,Dubtitles,,0,0,0,,I guess you must like coconut\Njuice a whole lot, huh?
-Dialogue: 0,0:06:08.01,0:06:10.07,Dubtitles,,0,0,0,,Was that a beetle?
+Dialogue: 0,0:06:08.01,0:06:10.07,Dubtitles,,0,0,0,,Was that a b-beetle?
 Dialogue: 0,0:06:10.67,0:06:12.73,Dubtitles,,0,0,0,,No, no, I must be seeing things.
 Dialogue: 0,0:06:12.97,0:06:15.27,Dubtitles,,0,0,0,,It must have been a piece\Nof coconut or something.
 Dialogue: 0,0:06:15.35,0:06:16.18,Dubtitles,,0,0,0,,Oh, yes.
@@ -688,7 +689,7 @@ Dialogue: 0,0:07:33.03,0:07:34.53,Dubtitles,,0,0,0,,Get in, Kakyoin.
 Dialogue: 0,0:07:37.59,0:07:39.55,Dubtitles,,0,0,0,,The cable car just got here.
 Dialogue: 0,0:07:40.19,0:07:42.13,Dubtitles,,0,0,0,,Now I told you to get in.
 Dialogue: 0,0:07:42.47,0:07:44.29,Dubtitles,,0,0,0,,See, I've got your ticket right here.
-Dialogue: 0,0:07:44.37,0:07:49.47,Dubtitles,,0,0,0,,I'm gonna knock your crooked possessed\Nass right into that cable car.
+Dialogue: 0,0:07:44.37,0:07:49.47,Dubtitles,,0,0,0,,I'm gonna knock your crooked possessed\Nass right into that cable car
 Dialogue: 1,0:07:52.41,0:07:52.45,SFXYellow4,4,0,0,0,,{=14}{\blur0.6\frz357.7\pos(682.57,828.75)\c&H0E131C&}Wham
 Dialogue: 2,0:07:52.41,0:07:52.45,SFXYellow4,4,0,0,0,,{=14}{\bord0\blur0.6\frz357.7\pos(682.57,828.75)\4a&HFF&}Wham
 Dialogue: 1,0:07:52.45,0:07:52.49,SFXYellow4,4,0,0,0,,{=14}{\blur0.6\frz357.7\pos(732.56,751.57)\c&H0E131C&}Wham
@@ -848,7 +849,7 @@ Dialogue: 0,0:08:58.85,0:09:02.61,Dubtitles,,0,0,0,,It latched on when you hit m
 Dialogue: 0,0:09:02.69,0:09:06.73,Dubtitles,,0,0,0,,I advise you not to touch, or\Nit'll go after your left hand too.
 Dialogue: 0,0:09:07.37,0:09:10.49,Dubtitles,,0,0,0,,You should save your left\Nhand for picking your nose.
 Dialogue: 0,0:09:10.61,0:09:14.89,Dubtitles,,0,0,0,,This stand is a slow eater, and the\Nmore it eats, the bigger it gets.
-Dialogue: 0,0:09:15.37,0:09:16.83,Dubtitles,,0,0,0,,You'll never get it off.
+Dialogue: 0,0:09:15.37,0:09:16.83,Dubtitles,,0,0,0,,You'll never get it off!
 Dialogue: 0,0:09:17.57,0:09:19.11,Dubtitles,,0,0,0,,Crap, damn you!
 Dialogue: 0,0:09:20.35,0:09:21.18,Dubtitles,,0,0,0,,Hurrah!
 Dialogue: 0,0:09:21.27,0:09:22.47,Dubtitles,,0,0,0,,What do you mean, hurrah?
@@ -864,7 +865,7 @@ Dialogue: 0,0:09:44.63,0:09:46.01,Dubtitles,,0,0,0,,What about Kakyoin?
 Dialogue: 0,0:09:46.25,0:09:49.57,Dubtitles,,0,0,0,,It's true, seems he has betrayed us. Mr.
 Dialogue: 0,0:09:49.73,0:09:51.97,Dubtitles,,0,0,0,,Kakyoing's face split\Nand now he's a giant.
 Dialogue: 0,0:09:52.05,0:09:52.88,Dubtitles,,0,0,0,,But Mr.
-Dialogue: 0,0:09:52.97,0:09:54.41,Dubtitles,,0,0,0,,Kakyoing wasn't Mr. Kakyoing.
+Dialogue: 0,0:09:52.97,0:09:54.41,Dubtitles,,0,0,0,,Kakyoin wasn't Mr. Kakyoin.
 Dialogue: 0,0:09:54.49,0:09:55.55,Dubtitles,,0,0,0,,He's a fake, Anne.
 Dialogue: 0,0:09:55.99,0:09:58.25,Dubtitles,,0,0,0,,Jojo got attacked by some weird slime on
 Dialogue: 0,0:09:58.33,0:10:00.53,Dubtitles,,0,0,0,,the cable car and now\Nit's eating his finger.
@@ -884,7 +885,7 @@ Dialogue: 0,0:10:22.99,0:10:24.69,Dubtitles,,0,0,0,,With your school uniform on?
 Dialogue: 0,0:10:24.89,0:10:25.79,Dubtitles,,0,0,0,,Yes, why not?
 Dialogue: 0,0:10:26.63,0:10:27.52,Dubtitles,,0,0,0,,It's all right.
 Dialogue: 0,0:10:27.71,0:10:29.45,Dubtitles,,0,0,0,,We have the real one here with us.
-Dialogue: 0,0:10:29.53,0:10:33.13,Dubtitles,,0,0,0,,And be careful, this means\Nyour Kakyoin is... a fake!
+Dialogue: 0,0:10:29.53,0:10:33.13,Dubtitles,,0,0,0,,And be careful, this means\Nyour Kakyoin is... A fake!
 Dialogue: 0,0:10:33.27,0:10:34.55,Dubtitles,,0,0,0,,I told you that!
 Dialogue: 0,0:10:35.59,0:10:36.59,Dubtitles,,0,0,0,,Oh, no!
 Dialogue: 0,0:10:37.05,0:10:39.29,Dubtitles,,0,0,0,,JoJo just jumped out of the cable car!
@@ -1072,28 +1073,29 @@ Dialogue: 0,0:13:20.77,0:13:22.19,Dubtitles,,0,0,0,,Papa, the puppy.
 Dialogue: 0,0:13:22.43,0:13:23.55,Dubtitles,,0,0,0,,It's got our puppy.
 Dialogue: 0,0:13:23.71,0:13:24.63,Dubtitles,,0,0,0,,You bastard.
 Dialogue: 0,0:13:24.99,0:13:28.70,Dubtitles,,0,0,0,,You were already in this cable\Ncar waiting for me, weren't you?
-Dialogue: 0,0:13:29.89,0:13:32.27,Dubtitles,,0,0,0,,No, please. Don't hurt Poco!
+Dialogue: 0,0:13:29.89,0:13:32.27,Dubtitles,,0,0,0,,No, please. Don't hurt Paki!
 Dialogue: 0,0:13:33.25,0:13:35.85,Dubtitles,,0,0,0,,Watch out! Don't pull him! Let go!
 Dialogue: 0,0:13:40.51,0:13:42.85,Dubtitles,,0,0,0,,And now it's your turn to die!
-Dialogue: 0,0:13:43.43,0:13:44.75,Dubtitles,,0,0,0,,Gyotaro, old pal!
+Dialogue: 0,0:13:43.43,0:13:44.75,Dubtitles,,0,0,0,,Jotaro, old pal!
 Dialogue: 0,0:13:46.53,0:13:48.75,Dubtitles,,0,0,0,,You're fast, but...
 Dialogue: 0,0:13:49.49,0:13:52.26,Dubtitles,,0,0,0,,I keep telling you I\Ndon't have any weaknesses.
 Dialogue: 0,0:13:52.81,0:13:54.63,Dubtitles,,0,0,0,,Are you even listening to me?
 Dialogue: 0,0:13:55.49,0:13:56.85,Dubtitles,,0,0,0,,You dumbass redneck!
 Dialogue: 0,0:13:57.71,0:14:00.71,Dubtitles,,0,0,0,,My stand is armor that\Ncan also absorb power.
 Dialogue: 0,0:14:00.79,0:14:03.03,Dubtitles,,0,0,0,,A defensive wall that can also attack.
-Dialogue: 0,0:14:03.45,0:14:06.63,Dubtitles,,0,0,0,,No matter how fast you are,\Nno matter how strong or smart?
-Dialogue: 0,0:14:06.71,0:14:10.97,Dubtitles,,0,0,0,,You think you are, against yellow\Ntemperance, you are helpless.
+Dialogue: 0,0:14:03.45,0:14:05.04,Dubtitles,,0,0,0,,No matter how fast you are,
+Dialogue: 0,0:14:05.17,0:14:07.73,Dubtitles,,0,0,0,,no matter how strong or\Nsmart you think you are,
+Dialogue: 0,0:14:07.81,0:14:10.97,Dubtitles,,0,0,0,,against yellow temperance,\Nyou are helpless.
 Dialogue: 0,0:14:11.67,0:14:13.61,Dubtitles,,0,0,0,,There's no way you can defeat me.
 Dialogue: 0,0:14:13.71,0:14:15.61,Dubtitles,,0,0,0,,You won't survive unless, of course,
 Dialogue: 0,0:14:15.69,0:14:18.55,Dubtitles,,0,0,0,,you suck it up and take a\Ncleaver to your right hand.
 Dialogue: 0,0:14:18.63,0:14:20.91,Dubtitles,,0,0,0,,Do you understand?
 Dialogue: 0,0:14:23.01,0:14:26.31,Dubtitles,,0,0,0,,Try as hard as you want, but\Nyou have no way of winning.
-Dialogue: 0,0:14:26.43,0:14:29.65,Dubtitles,,0,0,0,,You're not getting out of this,\Nnot until you're digested.
+Dialogue: 0,0:14:26.43,0:14:29.65,Dubtitles,,0,0,0,,You're not getting out of this.\NNot until you're digested!
 Dialogue: 0,0:14:29.73,0:14:31.13,Dubtitles,,0,0,0,,I'll eat you up!
 Dialogue: 0,0:14:31.87,0:14:33.11,Dubtitles,,0,0,0,,Oh, good grief.
 Dialogue: 0,0:14:33.73,0:14:34.56,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:14:35.21,0:14:37.93,Dubtitles,,0,0,0,,You're right. You really\Ndon't have any weaknesses.
+Dialogue: 0,0:14:35.21,0:14:37.93,Dubtitles,,0,0,0,,You're right, you really\Ndon't have any weaknesses.
 Dialogue: 0,0:14:38.01,0:14:39.95,Dubtitles,,0,0,0,,Maybe you are the world's strongest.
 Dialogue: 0,0:14:40.03,0:14:41.33,Dubtitles,,0,0,0,,And that's terrifying.
 Dialogue: 0,0:14:41.61,0:14:43.69,Dubtitles,,0,0,0,,But I'll tell you, we Cujos...
@@ -1200,7 +1202,7 @@ Dialogue: 1,0:15:53.22,0:15:53.26,SFXPurple,5,0,0,0,,{=15}{\blur0.7\bord5.71\fsc
 Dialogue: 2,0:15:53.22,0:15:53.26,SFXPurple,5,0,0,0,,{=15}{\blur0.7\bord0\fscx123.69\fscy95.14\pos(409.21,59.98)\frz5.61\shad3.81\4a&HFF&}Kapow
 Dialogue: 1,0:15:53.26,0:15:53.30,SFXPurple,5,0,0,0,,{=15}{\blur0.7\bord5.77\fscx125.12\fscy96.25\shad3.85\pos(393.74,62.48)\frz5.61\c&H0E0E19&}Kapow
 Dialogue: 2,0:15:53.26,0:15:53.30,SFXPurple,5,0,0,0,,{=15}{\blur0.7\bord0\fscx125.12\fscy96.25\pos(393.74,62.48)\frz5.61\shad3.85\4a&HFF&}Kapow
-Dialogue: 0,0:15:59.25,0:16:00.85,Dubtitles,,0,0,0,,Oh, please stop!
+Dialogue: 0,0:15:59.25,0:16:00.85,Dubtitles,,0,0,0,,Oh, please stop it.
 Dialogue: 0,0:16:01.07,0:16:03.13,Dubtitles,,0,0,0,,I can't fight anymore. I'm through.
 Dialogue: 0,0:16:03.47,0:16:06.07,Dubtitles,,0,0,0,,My beautiful nose is completely shattered.
 Dialogue: 0,0:16:06.33,0:16:10.57,Dubtitles,,0,0,0,,And my face is so messed up, they're\Ngoing to have to wire my jaw shut too.
@@ -1209,9 +1211,10 @@ Dialogue: 0,0:16:12.71,0:16:14.59,Dubtitles,,0,0,0,,Dio, he paid me to do this.
 Dialogue: 0,0:16:15.95,0:16:19.27,Dubtitles,,0,0,0,,Look, I don't plan on risking\Nmy life going after you guys.
 Dialogue: 0,0:16:19.35,0:16:20.41,Dubtitles,,0,0,0,,There, see?
 Dialogue: 0,0:16:20.85,0:16:22.61,Dubtitles,,0,0,0,,I want something from you.
-Dialogue: 0,0:16:23.77,0:16:27.23,Dubtitles,,0,0,0,,The other stand users, I\Nwant all the info you've got.
-Dialogue: 0,0:16:27.31,0:16:31.53,Dubtitles,,0,0,0,,But that's the one thing I can't\Nsay, don't ask me that, please?
-Dialogue: 0,0:16:31.61,0:16:37.51,Dubtitles,,0,0,0,,I won't do it, I mean I do have some\Npride, you know, I just can't, okay?
+Dialogue: 0,0:16:23.77,0:16:25.23,Dubtitles,,0,0,0,,The other stand users,
+Dialogue: 0,0:16:25.31,0:16:30.03,Dubtitles,,0,0,0,,I want all the info you've got. But\Nthat's the one thing I can't say.
+Dialogue: 0,0:16:30.19,0:16:31.25,Dubtitles,,0,0,0,,don't ask me that,
+Dialogue: 0,0:16:31.33,0:16:37.51,Dubtitles,,0,0,0,,please I won't do it, I mean I do have\Nsome pride, you know, I just can't, okay?
 Dialogue: 0,0:16:38.33,0:16:43.87,Dubtitles,,0,0,0,,Well okay then, that's honorable I\Nremember now, there are four of them, okay?
 Dialogue: 0,0:16:44.23,0:16:45.35,Dubtitles,,0,0,0,,One is the emperor,
 Dialogue: 0,0:16:45.47,0:16:49.45,Dubtitles,,0,0,0,,then hanged man and empress, and\Nthe last one goes by death Got it,
@@ -1249,7 +1252,7 @@ Dialogue: 0,0:18:22.07,0:18:24.49,Dubtitles,,0,0,0,,I'm gonna pull you in and ho
 Dialogue: 0,0:18:25.67,0:18:27.67,Dubtitles,,0,0,0,,No, you can't attack me, loser!
 Dialogue: 0,0:18:28.07,0:18:31.63,Dubtitles,,0,0,0,,I guess what I told you about the man\Nwith two right hands will go to waste!
 Dialogue: 0,0:18:31.71,0:18:35.75,Dubtitles,,0,0,0,,You're not gonna be able to help\Npoor Polnareff, Jotaro Kujo!
-Dialogue: 0,0:18:35.99,0:18:39.05,Dubtitles,,0,0,0,,Aren't I lucky to have\Nthis drain to slurp you in?
+Dialogue: 0,0:18:35.99,0:18:39.05,Dubtitles,,0,0,0,,Aren't I lucky to have this\Ndrain to slurp you into?
 Dialogue: 0,0:18:39.41,0:18:41.71,Dubtitles,,0,0,0,,And you thought you had me, didn't you?
 Dialogue: 0,0:18:42.11,0:18:43.31,Dubtitles,,0,0,0,,Man, am I lucky!
 Dialogue: 0,0:18:44.49,0:18:47.33,Dubtitles,,0,0,0,,Time to power off with some crustaceans!
@@ -1261,7 +1264,7 @@ Dialogue: 0,0:19:02.89,0:19:03.89,Dubtitles,,0,0,0,,Aren't I lucky?
 Dialogue: 0,0:19:04.51,0:19:08.11,Dubtitles,,0,0,0,,Tell me I'm lucky, you\Nball-less little butt-munch!
 Dialogue: 0,0:19:09.21,0:19:10.57,Dubtitles,,0,0,0,,Good grief, really.
 Dialogue: 0,0:19:10.89,0:19:12.75,Dubtitles,,0,0,0,,When you're focused on everything else,
-Dialogue: 0,0:19:12.83,0:19:18.29,Dubtitles,,0,0,0,,It's hard to observe yourself. You don't\Nget it, do you? Fine, then I'll just beat.
+Dialogue: 0,0:19:12.83,0:19:18.29,Dubtitles,,0,0,0,,It's hard to observe yourself. You don't\Nget it, do you? Fine then, I'll just beat
 Dialogue: 0,0:19:18.37,0:19:24.43,Dubtitles,,0,0,0,,the lesson in your luck finally ran out\Nbefore you got away with only a broken nose
 Dialogue: 0,0:19:25.53,0:19:28.59,Dubtitles,,0,0,0,,when i'm done you won't\Nhave any bones left to break
 Dialogue: 1,0:19:28.64,0:19:28.68,SFXWater,6,0,0,0,,{=8}{\blur1\bord3.07\fscx49.9\fscy38.39\frz14.26\pos(827.85,256.21)\c&H432922&}Whoom
@@ -1350,6 +1353,7 @@ Dialogue: 0,0:20:15.03,0:20:16.61,Dubtitles,,0,0,0,,Just shut up already.
 Dialogue: 0,0:20:17.01,0:20:19.17,Dubtitles,,0,0,0,,I have nothing more to say to you.
 Dialogue: 0,0:20:19.59,0:20:20.93,Dubtitles,,0,0,0,,You're way too pathetic.
 Dialogue: 0,0:20:21.01,0:20:23.01,Dubtitles,,0,0,0,,I'm done wasting my breath.
+Dialogue: 0,0:20:24.21,0:20:25.04,Dubtitles,,0,0,0,,No,
 Dialogue: 1,0:20:30.62,0:20:30.66,Eyecatch Stats 2,,0,0,0,,{\fscx57.05\fscy63.38\fade(255,0,255,0,400,3920,3920)\be0.8\xshad-2.54\yshad2.54\pos(405.02,483.7)}POWER
 Dialogue: 1,0:20:30.62,0:20:30.66,Eyecatch Stats 2,,0,0,0,,{\fscx57.11\fscy63.46\fade(255,0,255,0,400,3920,3920)\xshad-2.54\yshad2.54\be0.8\pos(598.08,592.65)\frz302.3}SPEED
 Dialogue: 1,0:20:30.62,0:20:30.66,Eyecatch Stats 2,,0,0,0,,{\fscx61.31\fscy68.13\fade(255,0,255,0,400,3920,3920)\xshad-2.73\yshad2.73\be0.8\frz59.07\pos(582.66,819.45)}RANGE
@@ -1500,10 +1504,10 @@ Dialogue: 3,0:20:33.29,0:20:33.46,Eyecatch2 - Top,sign bot,0,0,0,,{\bord0\blur0.
 Dialogue: 1,0:20:33.46,0:20:34.54,Eyecatch2 - Top,sign bot,0,0,0,,{\blur13\alpha&H80&\3c&HFDFEFE&\pos(1465,815)}Rubber Soul
 Dialogue: 2,0:20:33.46,0:20:34.54,Eyecatch2 - Top,sign bot,0,0,0,,{\blur0.6\c&H332B2A&\pos(1465,815)}Rubber Soul
 Dialogue: 3,0:20:33.46,0:20:34.54,Eyecatch2 - Top,sign bot,0,0,0,,{\bord0\blur0.6\shad2.5\4a&HFF&\pos(1465,815)}Rubber Soul
-Dialogue: 0,0:20:37.65,0:20:38.61,Dubtitles,,0,0,0,,Good grief.
-Dialogue: 0,0:20:39.23,0:20:41.23,Dubtitles,,0,0,0,,So we're finally heading to India.
-Dialogue: 0,0:20:43.03,0:20:47.41,Dubtitles,,0,0,0,,And the man with the two right\Nhands is called Centerfold. Right.
-Dialogue: 0,0:20:50.21,0:20:52.17,Dubtitles,,0,0,0,,By the way, where did Anne run off to?
+Dialogue: 0,0:20:38.39,0:20:39.22,Dubtitles,,0,0,0,,Good grief.
+Dialogue: 0,0:20:39.31,0:20:41.27,Dubtitles,,0,0,0,,So we're finally heading to India.
+Dialogue: 0,0:20:43.07,0:20:47.41,Dubtitles,,0,0,0,,And the man with the two right\Nhands is called Centerfold. Right.
+Dialogue: 0,0:20:50.25,0:20:52.17,Dubtitles,,0,0,0,,By the way, where did Anne run off to?
 Dialogue: 0,0:20:52.25,0:20:56.73,Dubtitles,,0,0,0,,She was hanging around Singapore Station\Nright before our train departed, but...
 Dialogue: 0,0:20:56.81,0:20:57.64,Dubtitles,,0,0,0,,She vanished.
 Dialogue: 0,0:20:57.89,0:21:00.29,Dubtitles,,0,0,0,,Remember, she came to\NSingapore to meet her father.
@@ -1521,55 +1525,48 @@ Dialogue: 0,0:21:27.03,0:21:29.56,Dubtitles,,0,0,0,,Not to be greedy, but\Nthey 
 Dialogue: 0,0:21:30.15,0:21:31.09,Dubtitles,,0,0,0,,Could I have one?
 Dialogue: 0,0:21:31.17,0:21:32.00,Dubtitles,,0,0,0,,Yeah, sure.
 Dialogue: 0,0:21:32.19,0:21:33.13,Dubtitles,,0,0,0,,You're the best.
-Dialogue: 0,0:21:40.69,0:21:41.71,Dubtitles,,0,0,0,,Hey, look, Jojo.
+Dialogue: 0,0:21:40.85,0:21:41.71,Dubtitles,,0,0,0,,Hey, look, Jojo.
 Dialogue: 0,0:21:41.79,0:21:42.97,Dubtitles,,0,0,0,,Flamingos in flight.
-Dialogue: 0,0:21:44.83,0:21:45.95,Dubtitles,,0,0,0,,Oh, good grief.
+Dialogue: 0,0:21:44.85,0:21:45.95,Dubtitles,,0,0,0,,Oh, good grief.
 Dialogue: 0,0:21:53.93,0:21:54.85,Dubtitles,,0,0,0,,Ciao, ciao.
 Dialogue: 0,0:22:13.45,0:22:18.01,Dubtitles,,0,0,0,,All the old paintings on the tomb,\Nthey do the sand dance, don't you know?
 Dialogue: 1,0:22:13.77,0:22:16.14,Lyrics 2,,0,0,0,,All the old paintings on the tomb
 Dialogue: 1,0:22:16.14,0:22:18.40,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:22:18.09,0:22:19.57,Dubtitles,,0,0,0,,If they move too quick?
+Dialogue: 0,0:22:18.09,0:22:22.71,Dubtitles,,0,0,0,,If they move too quick, they're\Nfalling down like a domino.
 Dialogue: 1,0:22:18.40,0:22:19.85,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:22:19.65,0:22:22.71,Dubtitles,,0,0,0,,They're falling down like a domino!
 Dialogue: 1,0:22:20.65,0:22:23.11,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:22:22.79,0:22:25.35,Dubtitles,,0,0,0,,All the birds are men by the Nile.
+Dialogue: 0,0:22:22.79,0:22:27.03,Dubtitles,,0,0,0,,All the birds are men by the\NNile. They've got the money on
 Dialogue: 1,0:22:23.11,0:22:25.44,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:22:25.43,0:22:29.01,Dubtitles,,0,0,0,,They've got the money on\Na bed Called crocodiles.
 Dialogue: 1,0:22:25.44,0:22:27.78,Lyrics 2,,0,0,0,,They got the money on a bet
+Dialogue: 0,0:22:27.11,0:22:31.35,Dubtitles,,0,0,0,,a bed Called crocodiles They\Nsnap their teeth on your
 Dialogue: 1,0:22:27.78,0:22:29.28,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:22:29.09,0:22:31.99,Dubtitles,,0,0,0,,They snap their teeth on your cigarette.
 Dialogue: 1,0:22:29.95,0:22:32.41,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
-Dialogue: 0,0:22:32.07,0:22:34.25,Dubtitles,,0,0,0,,Falling tight to the hook, I say!
+Dialogue: 0,0:22:31.43,0:22:33.21,Dubtitles,,0,0,0,,cigarette Falling tight to the
 Dialogue: 1,0:22:32.41,0:22:34.62,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:22:34.33,0:22:35.27,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:22:33.29,0:22:35.27,Dubtitles,,0,0,0,,hook I say Walk
 Dialogue: 0,0:22:35.35,0:22:42.35,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:41.63,0:22:44.17,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:42.43,0:22:43.26,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:22:55.07,0:22:59.97,Dubtitles,,0,0,0,,The blonde waitresses take their trays,\Nspin around and they cross the floor.
+Dialogue: 0,0:22:42.43,0:22:43.26,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:22:55.07,0:22:59.29,Dubtitles,,0,0,0,,The blonde waitresses take their\Ntrays. Spin around and they
 Dialogue: 1,0:22:55.56,0:22:58.02,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
 Dialogue: 1,0:22:58.02,0:23:00.40,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:23:00.05,0:23:01.51,Dubtitles,,0,0,0,,They've got the moves.
+Dialogue: 0,0:22:59.37,0:23:03.73,Dubtitles,,0,0,0,,Cross the floor. They've got the\Nmoves. You drop your drink then
 Dialogue: 1,0:23:00.40,0:23:01.65,Lyrics 2,,0,0,0,,They've got the moves
-Dialogue: 0,0:23:01.59,0:23:04.65,Dubtitles,,0,0,0,,You drop your drink then\Nthey bring you more.
 Dialogue: 1,0:23:02.69,0:23:05.03,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:23:04.73,0:23:07.27,Dubtitles,,0,0,0,,All the school kids so sick of books!
+Dialogue: 0,0:23:03.81,0:23:07.27,Dubtitles,,0,0,0,,they bring you more All the\Nschool kids so sick of books
 Dialogue: 1,0:23:05.03,0:23:07.36,Lyrics 2,,0,0,0,,All the school kids so sick of books
-Dialogue: 0,0:23:07.35,0:23:09.35,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:23:07.35,0:23:11.00,Dubtitles,,0,0,0,,They're like the punk and the\Nmetal band When the buzzer rings
 Dialogue: 1,0:23:07.36,0:23:09.70,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:23:09.43,0:23:10.89,Dubtitles,,0,0,0,,When the buzzer rings?
 Dialogue: 1,0:23:09.70,0:23:11.16,Lyrics 2,,0,0,0,,When the buzzer rings
-Dialogue: 0,0:23:11.65,0:23:13.59,Dubtitles,,0,0,0,,They're walking like an Egyptian.
+Dialogue: 0,0:23:11.65,0:23:16.33,Dubtitles,,0,0,0,,They're walking like an Egyptian.\NAll the kids in the marketplace say.
 Dialogue: 1,0:23:11.99,0:23:14.33,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:23:13.67,0:23:16.33,Dubtitles,,0,0,0,,All the kids in the marketplace say!
 Dialogue: 1,0:23:14.33,0:23:16.54,Lyrics 2,,0,0,0,,All the kids in the marketplace say
-Dialogue: 0,0:23:23.45,0:23:25.13,Dubtitles,,0,0,0,,Walk like an Egyptian.
+Dialogue: 0,0:23:23.45,0:23:25.13,Dubtitles,,0,0,0,,Walk like an Egyptian
 Dialogue: 1,0:23:23.67,0:23:26.76,Lyrics 2,,0,0,0,,Walk like an Egyptian
 Dialogue: 1,0:23:28.01,0:23:30.01,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode {PREVIEW IS NOT UP TO DATE}
-Dialogue: 0,0:23:28.97,0:23:30.57,Dubtitles,,0,0,0,,Somebody's already stolen my wallet.
-Dialogue: 0,0:23:30.65,0:23:31.73,Dubtitles,,0,0,0,,I don't need any?
-Dialogue: 0,0:23:31.81,0:23:33.19,Dubtitles,,0,0,0,,Tip! Tip!
-Dialogue: 0,0:23:33.43,0:23:35.81,Dubtitles,,0,0,0,,If you don't give me tips,\Nyou won't go to heaven, sir?
-Dialogue: 0,0:23:35.89,0:23:38.66,Dubtitles,,0,0,0,,Hey kid, don't put your\Nnose all over my stuff!
+Dialogue: 0,0:23:28.97,0:23:33.19,Dubtitles,,0,0,0,,Somebody's already stolen my\Nwallet. I don't need any. Tip! Tip!
+Dialogue: 0,0:23:33.43,0:23:35.51,Dubtitles,,0,0,0,,If you don't give me tips,\Nyou won't go to heaven,
+Dialogue: 0,0:23:35.59,0:23:38.53,Dubtitles,,0,0,0,,sir Hey kid, don't put\Nyour nose all over my stuff
 Dialogue: 0,0:23:39.05,0:23:39.88,Dubtitles,,0,0,0,,Avdol!
 Dialogue: 0,0:23:39.97,0:23:41.37,Dubtitles,,0,0,0,,So this is India? See?
 Dialogue: 1,0:23:41.02,0:23:43.02,Next Episode,sign,0,0,0,,{\pos(960,110)\fs100}Episode 10

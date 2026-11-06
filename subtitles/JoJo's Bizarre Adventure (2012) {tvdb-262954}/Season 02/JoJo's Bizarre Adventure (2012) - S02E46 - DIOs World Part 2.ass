@@ -42,7 +42,7 @@ Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00180C18,&H000000FF,&H00000000,&H
 Style: SFXEpisode03,Shaky Hand Some Comic Bold,150,&H00C5EEDE,&H000000FF,&H002A2E26,&H00000000,-1,0,0,0,130,100,0,0,1,8,0,8,50,40,20,1
 Style: SFXEpisode11,Shaky Hand Some Comic Bold,160,&H00A6AAAD,&H000000FF,&H00211E1B,&H00000000,-1,0,0,0,130,100,0,0,1,6,0,8,50,40,20,1
 Style: SFXGreenFB,LeviNaiveLetter,175,&H00829A91,&H000000FF,&H002B3039,&H00000000,0,0,0,0,130,100,0,0,1,8,0,7,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -109,11 +109,11 @@ Dialogue: 1,0:00:38.10,0:00:38.14,SFX,1,0,0,0,,{=0}{\frz3.304\pos(33.172,43.581)
 Dialogue: 1,0:00:38.14,0:00:38.18,SFX,1,0,0,0,,{=0}{\frz3.304\pos(33.172,43.581)\org(33.172,43.581)\fade(255,0,255,-2380,-2379,139,140)}Rumble
 Dialogue: 1,0:00:38.18,0:00:38.22,SFX,1,0,0,0,,{=0}{\frz3.304\pos(37.923,50.552)\org(37.923,50.552)\fade(255,0,255,-2420,-2419,99,100)}Rumble
 Dialogue: 1,0:00:38.22,0:00:38.26,SFX,1,0,0,0,,{=0}{\frz3.304\pos(37.923,50.552)\org(37.923,50.552)\fade(255,0,255,-2460,-2459,59,60)}Rumble
-Dialogue: 0,0:00:40.74,0:00:42.48,Dubtitles,,0,0,0,,For Noriyaki Kakyoin,
+Dialogue: 0,0:00:40.74,0:00:42.48,Dubtitles,,0,0,0,,For Noriaki Kakyoin,
 Dialogue: 0,0:00:42.80,0:00:46.74,Dubtitles,,0,0,0,,Hierophant Green served as a poignant\Nreminder of a time long past.
 Dialogue: 0,0:00:49.42,0:00:50.54,Dubtitles,,0,0,0,,It's Noriaki.
 Dialogue: 0,0:00:50.76,0:00:53.54,Dubtitles,,0,0,0,,He doesn't attempt to socialize\Nwith the other children.
-Dialogue: 0,0:00:53.62,0:00:57.68,Dubtitles,,0,0,0,,It's not that he's disliked per se;\Nhe just seems a bit too reserved.
+Dialogue: 0,0:00:53.62,0:00:57.68,Dubtitles,,0,0,0,,It's not that he's disliked per se,\Nhe just seems a bit too reserved.
 Dialogue: 0,0:00:58.40,0:01:00.76,Dubtitles,,0,0,0,,As his teacher, I'm very concerned.
 Dialogue: 0,0:01:01.38,0:01:05.68,Dubtitles,,0,0,0,,I'm ashamed to say it, but I'm\Nafraid I don't understand it either.
 Dialogue: 0,0:01:07.06,0:01:09.30,Dubtitles,,0,0,0,,I always had the same thoughts.
@@ -228,23 +228,19 @@ Dialogue: 1,0:02:18.11,0:02:18.15,SFXEpisode11,F2,0,0,0,,{=10}{\blur1\bord6.13\f
 Dialogue: 2,0:02:18.11,0:02:18.15,SFXEpisode11,F2,0,0,0,,{=10}{\blur1\bord0\fscx132.71\fscy102.08\frz4.86\pos(447.43,410.53)\4a&HFF&}Crunch
 Dialogue: 0,0:02:18.56,0:02:20.56,Dubtitles,,0,0,0,,and while it may have been short-lived,
 Dialogue: 0,0:02:20.64,0:02:23.05,Dubtitles,,0,0,0,,they've understood me better than anyone.
-Dialogue: 0,0:02:25.30,0:02:28.78,Dubtitles,,0,0,0,,Looking at Hierophant Green\Nwas a revelation for Kick.
+Dialogue: 0,0:02:25.30,0:02:28.78,Dubtitles,,0,0,0,,Looking at Hierophant Green\Nwas a revelation for Kakyoin.
 Dialogue: 0,0:02:29.14,0:02:32.88,Dubtitles,,0,0,0,,I'll make Hierophant Green invisible\Nto everyone like it used to be.
 Dialogue: 0,0:02:32.96,0:02:35.84,Dubtitles,,0,0,0,,I'll use its invisibility\Nto my advantage and reveal
 Dialogue: 0,0:02:35.92,0:02:38.69,Dubtitles,,0,0,0,,Dio's secret before\Nfinishing him off for good.
 Dialogue: 1,0:02:41.51,0:02:44.35,SC Opening 2 Eng,,0,0,0,,{\an8\pos(960,952.999)}Seeking out...
 Dialogue: 0,0:03:02.58,0:03:05.38,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:03:23.16,0:03:25.40,Dubtitles,,0,0,0,,Stop it now!
-Dialogue: 0,0:03:27.86,0:03:30.40,Dubtitles,,0,0,0,,It's the beginning of the story.
-Dialogue: 0,0:03:30.48,0:03:33.02,Dubtitles,,0,0,0,,It's the moment that it's been taken.
-Dialogue: 0,0:03:33.10,0:03:35.40,Dubtitles,,0,0,0,,It's the moment that we're\Ngoing to continue to walk.
-Dialogue: 0,0:03:35.48,0:03:37.14,Dubtitles,,0,0,0,,I'm going to continue to go.
-Dialogue: 0,0:03:37.22,0:03:39.20,Dubtitles,,0,0,0,,Stop! Stop!
-Dialogue: 0,0:03:39.68,0:03:42.00,Dubtitles,,0,0,0,,I'll be the last page.
-Dialogue: 0,0:03:42.68,0:03:44.70,Dubtitles,,0,0,0,,I'll be the first one of those who are!
-Dialogue: 0,0:03:44.78,0:03:49.20,Dubtitles,,0,0,0,,I'll be the end of the\Nworld. End of the world?
+Dialogue: 0,0:03:22.94,0:03:25.42,Dubtitles,,0,0,0,,Stop it now.
+Dialogue: 0,0:03:27.62,0:03:33.56,Dubtitles,,0,0,0,,It's the beginning of the story. It's the\Nmoment of the moment. It's the moment of
+Dialogue: 0,0:03:33.64,0:03:38.41,Dubtitles,,0,0,0,,It's the moment of the moment. I'm\Ngoing to continue to go. Goodbye now.
+Dialogue: 0,0:03:39.68,0:03:41.96,Dubtitles,,0,0,0,,I'm on the last page.
+Dialogue: 0,0:03:42.68,0:03:49.16,Dubtitles,,0,0,0,,I'm on the last page. I'm on\Nthe last page. End of the world.
 Dialogue: 1,0:04:09.64,0:04:14.94,Title 3,title,0,0,0,,{\fad(985,689)\pos(132,889.999)}Episode 46: Dio's World, Part 2
-Dialogue: 0,0:04:11.30,0:04:12.86,Dubtitles,,0,0,0,,Hey, Jotaro!
+Dialogue: 0,0:04:11.30,0:04:12.86,Dubtitles,,0,0,0,,Hey, Jotaro.
 Dialogue: 0,0:04:16.02,0:04:19.16,Dubtitles,,0,0,0,,The truck is completely totaled. Up there.
 Dialogue: 0,0:04:19.50,0:04:22.98,Dubtitles,,0,0,0,,I can sense the old man and\NDio racing across the rooftops.
 Dialogue: 0,0:04:27.22,0:04:30.24,Dubtitles,,0,0,0,,I've only dealt with\NKakyoin and Joseph so far.
@@ -256,17 +252,17 @@ Dialogue: 0,0:04:41.04,0:04:42.24,Dubtitles,,0,0,0,,How futile.
 Dialogue: 0,0:04:46.50,0:04:48.04,Dubtitles,,0,0,0,,This is...
 Dialogue: 0,0:04:48.98,0:04:51.30,Dubtitles,,0,0,0,,It's Kakyoin's Hierophant Green!
 Dialogue: 0,0:05:00.00,0:05:02.08,Dubtitles,,0,0,0,,He turned it into a web?
-Dialogue: 0,0:05:20.80,0:05:25.56,Dubtitles,,0,0,0,,So you've laid that up?\NThat's right. Anything that
-Dialogue: 0,0:05:25.64,0:05:27.88,Dubtitles,,0,0,0,,touches this web is instantly fired upon.
-Dialogue: 0,0:05:27.96,0:05:32.70,Dubtitles,,0,0,0,,And you're surrounded for 20\Nmeters on all sides you're done dio
-Dialogue: 0,0:05:32.78,0:05:36.43,Dubtitles,,0,0,0,,i've snared you in your stand\NAnd i can sense your every move?
+Dialogue: 0,0:05:20.80,0:05:25.88,Dubtitles,,0,0,0,,So you've laid up. That's\Nright, anything that touches
+Dialogue: 0,0:05:25.96,0:05:29.08,Dubtitles,,0,0,0,,this web is instantly fired\Nupon and you're surrounded
+Dialogue: 0,0:05:29.16,0:05:33.54,Dubtitles,,0,0,0,,for 20 meters on all sides\Nyou're done dio i've snared
+Dialogue: 0,0:05:33.62,0:05:36.50,Dubtitles,,0,0,0,,you in your stand and i\Ncan sense your every move
 Dialogue: 0,0:05:50.76,0:05:52.04,Dubtitles,,0,0,0,,Now, die!
 Dialogue: 0,0:05:52.44,0:05:53.58,Dubtitles,,0,0,0,,20 meter radius!
 Dialogue: 0,0:05:53.84,0:05:55.08,Dubtitles,,0,0,0,,Emerald Blast!
-Dialogue: 0,0:05:57.76,0:05:59.84,Dubtitles,,0,0,0,,You're a fool, Kakyoin!
+Dialogue: 0,0:05:57.76,0:05:59.84,Dubtitles,,0,0,0,,You fool, Kakyoin!
 Dialogue: 0,0:06:00.20,0:06:03.28,Dubtitles,,0,0,0,,With my stand, I have the\Nability to rule the world!
 Dialogue: 0,0:06:03.36,0:06:08.96,Dubtitles,,0,0,0,,What can you do in the face of such\Noverwhelming power all right here it comes?
-Dialogue: 0,0:06:10.28,0:06:11.11,Dubtitles,,0,0,0,,Behold
+Dialogue: 0,0:06:10.28,0:06:11.11,Dubtitles,,0,0,0,,Behold...
 Dialogue: 1,0:06:12.26,0:06:12.31,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord5.28\fscx85.73\fscy65.95\frz346.1\pos(683.81,743.76)\c&H17241A&}Doom {Probably one of my favorite SFX}
 Dialogue: 2,0:06:12.26,0:06:12.31,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord0\fscx85.73\fscy65.95\frz346.1\pos(683.81,743.76)\c&H75B34D&\4a&HFF&}Doom {Probably one of my favorite SFX}
 Dialogue: 1,0:06:12.31,0:06:12.35,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord5.87\fscx95.43\fscy73.4\frz346.1\pos(558.73,611.96)\c&H17241A&}Doom {Probably one of my favorite SFX}
@@ -315,14 +311,12 @@ Dialogue: 1,0:06:13.22,0:06:13.31,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord8.38\fscx1
 Dialogue: 2,0:06:13.22,0:06:13.31,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord0\fscx136.22\fscy104.78\frz346.1\pos(108.01,592.08)\4a&HFF&}D{*\c&HBCDE74&}o{*\c&HA3D064&}o{\c&H8BC253&}m {Probably one of my favorite SFX}
 Dialogue: 1,0:06:13.31,0:06:13.39,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord8.41\fscx136.61\fscy105.09\frz346.1\pos(101.07,592.37)\c&H17241A&}Doom {Probably one of my favorite SFX}
 Dialogue: 2,0:06:13.31,0:06:13.39,SFXGreen,2,0,0,0,,{=6}{\blur0.6\bord0\fscx136.61\fscy105.09\frz346.1\pos(101.07,592.37)\4a&HFF&}D{*\c&HBCDE74&}o{*\c&HA3D064&}o{\c&H8BC253&}m {Probably one of my favorite SFX}
-Dialogue: 0,0:06:17.66,0:06:19.16,Dubtitles,,0,0,0,,What got you in?
-Dialogue: 0,0:06:19.24,0:06:23.56,Dubtitles,,0,0,0,,He went flying through the\Nair like a rag doll, but how?
-Dialogue: 0,0:06:30.02,0:06:33.68,Dubtitles,,0,0,0,,I don't understand what just happened.
-Dialogue: 0,0:06:33.76,0:06:38.56,Dubtitles,,0,0,0,,Did he really hit me?
-Dialogue: 0,0:06:38.64,0:06:44.02,Dubtitles,,0,0,0,,I can't even move a single finger.
-Dialogue: 0,0:06:44.86,0:06:46.44,Dubtitles,,0,0,0,,I can't speak either.
-Dialogue: 0,0:06:46.52,0:06:49.12,Dubtitles,,0,0,0,,It must have been a fatal blow.
-Dialogue: 0,0:06:53.56,0:06:58.06,Dubtitles,,0,0,0,,It's 5:15, which means it's\Nmidnight back in Japan.
+Dialogue: 0,0:06:17.66,0:06:23.56,Dubtitles,,0,0,0,,What got you in? He went flying through\Nthe air like a rag doll, but how?
+Dialogue: 0,0:06:30.02,0:06:33.02,Dubtitles,,0,0,0,,I don't understand what
+Dialogue: 0,0:06:33.10,0:06:37.44,Dubtitles,,0,0,0,,Just happened? Did he?
+Dialogue: 0,0:06:37.52,0:06:44.02,Dubtitles,,0,0,0,,really hit me I can't\Neven move a single finger
+Dialogue: 0,0:06:44.86,0:06:49.12,Dubtitles,,0,0,0,,I can't speak either it\Nmust have been a fatal blow
+Dialogue: 0,0:06:53.56,0:06:58.06,Dubtitles,,0,0,0,,It's 5:15, which means that\Nit's midnight back in Japan.
 Dialogue: 0,0:06:59.50,0:07:02.21,Dubtitles,,0,0,0,,I wonder what mom and\Ndad are doing right now.
 Dialogue: 0,0:07:02.54,0:07:05.28,Dubtitles,,0,0,0,,Knowing them, I'm sure\Nthey're sound asleep.
 Dialogue: 0,0:07:06.10,0:07:08.18,Dubtitles,,0,0,0,,I'm sorry for worrying you.
@@ -369,10 +363,10 @@ Dialogue: 2,0:07:53.86,0:07:53.91,SFXGreenFB,F3,0,0,0,,{=11}{\blur0.6\bord0\fscx
 Dialogue: 0,0:07:57.16,0:07:58.52,Dubtitles,,0,0,0,,What's his secret?
 Dialogue: 0,0:08:00.60,0:08:01.62,Dubtitles,,0,0,0,,Damn it.
 Dialogue: 0,0:08:03.06,0:08:04.74,Dubtitles,,0,0,0,,Kakyoin! Shit!
-Dialogue: 0,0:08:04.94,0:08:07.68,Dubtitles,,0,0,0,,I've had enough of this! Hermit! Purp off!
+Dialogue: 0,0:08:04.94,0:08:07.68,Dubtitles,,0,0,0,,I've had enough of this!\NHermit Purple, off!
 Dialogue: 0,0:08:09.06,0:08:11.74,Dubtitles,,0,0,0,,You're next on the chopping block, Joseph.
 Dialogue: 0,0:08:14.16,0:08:17.38,Dubtitles,,0,0,0,,In order for Jonathan's body\Nto become mine completely,
-Dialogue: 0,0:08:17.46,0:08:19.86,Dubtitles,,0,0,0,,I must drink the blood of a Joestar,!
+Dialogue: 0,0:08:17.46,0:08:19.86,Dubtitles,,0,0,0,,I must drink the blood of a Joestar,
 Dialogue: 0,0:08:20.14,0:08:23.58,Dubtitles,,0,0,0,,and I think now's as good a\Ntime as any to partake. Dio!
 Dialogue: 0,0:08:25.26,0:08:29.03,Dubtitles,,0,0,0,,How did he destroy them all without\Nthe slightest delay in time?
 Dialogue: 0,0:08:30.60,0:08:31.43,Dubtitles,,0,0,0,,Time.
@@ -380,26 +374,25 @@ Dialogue: 0,0:08:32.92,0:08:33.75,Dubtitles,,0,0,0,,Time.
 Dialogue: 0,0:08:35.14,0:08:35.97,Dubtitles,,0,0,0,,Time.
 Dialogue: 0,0:08:37.76,0:08:38.78,Dubtitles,,0,0,0,,The time!
 Dialogue: 0,0:08:43.72,0:08:44.55,Dubtitles,,0,0,0,,That's it.
-Dialogue: 0,0:08:45.32,0:08:47.98,Dubtitles,,0,0,0,,Something as outlandish as\Nthat doesn't seem possible.
-Dialogue: 0,0:08:48.06,0:08:50.16,Dubtitles,,0,0,0,,But there's no other explanation!
-Dialogue: 0,0:08:51.16,0:08:53.51,Dubtitles,,0,0,0,,I have to find a way to tell the others.
-Dialogue: 0,0:08:54.12,0:08:57.71,Dubtitles,,0,0,0,,They need to know the truth\Nbehind such a terrifying ability?
+Dialogue: 0,0:08:45.32,0:08:47.46,Dubtitles,,0,0,0,,Something as outlandish\Nas that doesn't seem
+Dialogue: 0,0:08:47.54,0:08:50.16,Dubtitles,,0,0,0,,Possible. But there's\Nno other explanation.
+Dialogue: 0,0:08:51.16,0:08:53.45,Dubtitles,,0,0,0,,I have to find a way to tell the others
+Dialogue: 0,0:08:54.12,0:08:57.65,Dubtitles,,0,0,0,,They need to know the truth\Nbehind such a terrifying ability
 Dialogue: 0,0:08:58.48,0:08:59.90,Dubtitles,,0,0,0,,If I can't tell Mr.
 Dialogue: 0,0:09:00.00,0:09:01.47,Dubtitles,,0,0,0,,Joestar what I've learned
-Dialogue: 0,0:09:03.02,0:09:05.79,Dubtitles,,0,0,0,,The friends I've come to\Nlove are going to die.
-Dialogue: 0,0:09:08.64,0:09:10.74,Dubtitles,,0,0,0,,You're gonna pay for what you've done!
-Dialogue: 0,0:09:10.82,0:09:12.06,Dubtitles,,0,0,0,,Just you wait.
-Dialogue: 0,0:09:12.14,0:09:16.28,Dubtitles,,0,0,0,,I'm taking that body back in\Nthe name of Granny Erina! Erina?
+Dialogue: 0,0:09:03.02,0:09:05.73,Dubtitles,,0,0,0,,The friends I've come\Nto love are going to die
+Dialogue: 0,0:09:08.64,0:09:12.06,Dubtitles,,0,0,0,,You're gonna pay for what\Nyou've done. Just you wait.
+Dialogue: 0,0:09:12.14,0:09:16.28,Dubtitles,,0,0,0,,I'm taking that body back in\Nthe name of Granny Urena! Urena?
 Dialogue: 0,0:09:16.58,0:09:19.46,Dubtitles,,0,0,0,,Ah, you mean that backwater shrew?
 Dialogue: 0,0:09:21.22,0:09:22.05,Dubtitles,,0,0,0,,Nonsense.
 Dialogue: 0,0:09:22.13,0:09:25.20,Dubtitles,,0,0,0,,I'm going to drink your blood,\Nthen eliminate you vermin.
 Dialogue: 0,0:09:45.30,0:09:48.04,Dubtitles,,0,0,0,,Now, Joseph Joestar, die!
 Dialogue: 0,0:10:07.64,0:10:11.20,Dubtitles,,0,0,0,,That was my final Emerald Splash.
-Dialogue: 0,0:10:12.16,0:10:13.28,Dubtitles,,0,0,0,,Make it count.
-Dialogue: 0,0:10:15.32,0:10:18.18,Dubtitles,,0,0,0,,But why that attack was utterly pointless?
-Dialogue: 0,0:10:18.26,0:10:23.86,Dubtitles,,0,0,0,,Well, I suppose you're now just a dying\Nhero longing to make his mark on the world!
-Dialogue: 0,0:10:24.46,0:10:29.14,Dubtitles,,0,0,0,,As if Kakyoin wouldn't waste the time he\Nhas left with some meaningless attack?
-Dialogue: 0,0:10:29.22,0:10:31.40,Dubtitles,,0,0,0,,Why did he go after the clock?
+Dialogue: 0,0:10:12.16,0:10:13.28,Dubtitles,,0,0,0,,Make it count
+Dialogue: 0,0:10:15.32,0:10:19.22,Dubtitles,,0,0,0,,But why? That attack was\Nutterly pointless, well,
+Dialogue: 0,0:10:19.30,0:10:23.86,Dubtitles,,0,0,0,,I suppose you're now just a dying hero\Nlonging to make his mark on the world
+Dialogue: 0,0:10:24.46,0:10:27.88,Dubtitles,,0,0,0,,As if Kakyoin wouldn't waste\Nthe time he has left with
+Dialogue: 0,0:10:27.96,0:10:31.40,Dubtitles,,0,0,0,,Some meaningless attack.\NWhy'd he go after the clock?
 Dialogue: 0,0:10:32.22,0:10:33.96,Dubtitles,,0,0,0,,Was it some kind of sign?
 Dialogue: 0,0:10:34.40,0:10:36.52,Dubtitles,,0,0,0,,Was he trained to tell me something?
 Dialogue: 0,0:10:39.64,0:10:40.82,Dubtitles,,0,0,0,,It's a message.
@@ -423,11 +416,10 @@ Dialogue: 0,0:11:51.88,0:11:53.64,Dubtitles,,0,0,0,,Where the hell is Kakyoin?
 Dialogue: 0,0:11:57.76,0:11:59.58,Dubtitles,,0,0,0,,Could that be it, Kakyoin?
 Dialogue: 0,0:11:59.78,0:12:04.19,Dubtitles,,0,0,0,,Did you figure out the secret of his\Nstand's ability in your dying moments?
 Dialogue: 0,0:12:05.58,0:12:08.40,Dubtitles,,0,0,0,,You destroy the clock with Emerald Splash.
-Dialogue: 0,0:12:09.76,0:12:15.28,Dubtitles,,0,0,0,,But you aimed for the hands\Nwhich stopped the clock?
+Dialogue: 0,0:12:09.76,0:12:15.28,Dubtitles,,0,0,0,,But you aimed for the hands,\Nwhich stopped the clock.
 Dialogue: 0,0:12:16.44,0:12:19.04,Dubtitles,,0,0,0,,No way, that's impossible!
-Dialogue: 0,0:12:21.08,0:12:27.90,Dubtitles,,0,0,0,,Dio Stan the world has the power to\Nstop time whenever Dio commands it to.
-Dialogue: 0,0:12:29.36,0:12:30.78,Dubtitles,,0,0,0,,Now die!
-Dialogue: 0,0:12:30.86,0:12:32.42,Dubtitles,,0,0,0,,20 meter radius.
+Dialogue: 0,0:12:21.08,0:12:27.90,Dubtitles,,0,0,0,,Dio Stan the world has the power to\Nstop time whenever Dio commands it to
+Dialogue: 0,0:12:29.36,0:12:32.42,Dubtitles,,0,0,0,,Now die 20 meter radius
 Dialogue: 1,0:12:37.86,0:12:37.90,SFXGreen,3,0,0,0,,{=7}{\blur0.6\bord5.28\fscx85.73\fscy65.95\frz346.1\pos(683.81,743.76)\c&H17241A&}Doom {Probably one of my favorite SFX}
 Dialogue: 2,0:12:37.86,0:12:37.90,SFXGreen,3,0,0,0,,{=7}{\blur0.6\bord0\fscx85.73\fscy65.95\frz346.1\pos(683.81,743.76)\c&H75B34D&\4a&HFF&}Doom {Probably one of my favorite SFX}
 Dialogue: 1,0:12:37.90,0:12:37.94,SFXGreen,3,0,0,0,,{=7}{\blur0.6\bord5.87\fscx95.43\fscy73.4\frz346.1\pos(558.73,611.96)\c&H17241A&}Doom {Probably one of my favorite SFX}
@@ -479,7 +471,7 @@ Dialogue: 2,0:12:38.90,0:12:38.98,SFXGreen,3,0,0,0,,{=7}{\blur0.6\bord0\fscx136.
 Dialogue: 0,0:13:04.96,0:13:07.84,Dubtitles,,0,0,0,,Now witness the power of the world.
 Dialogue: 0,0:13:07.92,0:13:09.24,Dubtitles,,0,0,0,,That's right.
 Dialogue: 0,0:13:09.58,0:13:14.70,Dubtitles,,0,0,0,,I've caused time to stop for you, which\Nmeans you won't see or feel any of this.
-Dialogue: 0,0:13:17.60,0:13:19.70,Dubtitles,,0,0,0,,Now die! Cock fight!
+Dialogue: 0,0:13:17.60,0:13:19.70,Dubtitles,,0,0,0,,Now die! Kakyoin!
 Dialogue: 0,0:13:24.32,0:13:27.02,Dubtitles,,0,0,0,,You don't even realize\Nyou're about to die.
 Dialogue: 0,0:13:27.36,0:13:28.82,Dubtitles,,0,0,0,,In a way, you're lucky.
 Dialogue: 0,0:13:29.68,0:13:33.26,Dubtitles,,0,0,0,,You won't know what happened\Nhere, only that you're dying.
@@ -630,16 +622,15 @@ Dialogue: 1,0:13:54.98,0:13:56.44,Eyecatch2 - Top - Joseph SC46,sign bottom,0,0,
 Dialogue: 2,0:13:54.98,0:13:56.44,Eyecatch2 - Top - Joseph SC46,sign bottom,0,0,0,,{\bord0\blur0.7\shad2.5\4a&HFF&\pos(1457.333,792.333)}Joseph Joestar
 Dialogue: 0,0:14:00.90,0:14:02.55,Dubtitles,,0,0,0,,Freezing time is bad enough,
 Dialogue: 0,0:14:02.82,0:14:06.06,Dubtitles,,0,0,0,,but Dio being able to move\Naround too is a deadly combo!
-Dialogue: 0,0:14:06.14,0:14:09.18,Dubtitles,,0,0,0,,Unbelievable, we might\Nnot have what it takes to
+Dialogue: 0,0:14:06.14,0:14:09.18,Dubtitles,,0,0,0,,Unbelievable! We might\Nnot have what it takes to
 Dialogue: 0,0:14:09.26,0:14:16.02,Dubtitles,,0,0,0,,beat it just calm down\Ncalm down and think i don't
-Dialogue: 0,0:14:16.10,0:14:18.84,Dubtitles,,0,0,0,,know the meaning of the\Nword panic there has to
-Dialogue: 0,0:14:18.92,0:14:22.62,Dubtitles,,0,0,0,,be a way to beat him and\Nif anyone can find it?
-Dialogue: 0,0:14:22.70,0:14:23.56,Dubtitles,,0,0,0,,It's me!
+Dialogue: 0,0:14:16.10,0:14:18.96,Dubtitles,,0,0,0,,know the meaning of the\Nword panic there has to be
+Dialogue: 0,0:14:19.04,0:14:23.56,Dubtitles,,0,0,0,,A way to beat him, and if\Nanyone can find it, it's me!
 Dialogue: 0,0:14:25.88,0:14:26.94,Dubtitles,,0,0,0,,He's gone!
 Dialogue: 0,0:14:34.58,0:14:36.40,Dubtitles,,0,0,0,,Say, what's the matter?
 Dialogue: 0,0:14:36.78,0:14:38.49,Dubtitles,,0,0,0,,Aren't you gonna hit me, Dio?
 Dialogue: 0,0:14:38.68,0:14:41.62,Dubtitles,,0,0,0,,Or don't you care about\Ndrinking my blood anymore?
-Dialogue: 0,0:14:42.50,0:14:46.00,Dubtitles,,0,0,0,,You're running Hormone through\Nyour body to protect yourself.
+Dialogue: 0,0:14:42.50,0:14:46.00,Dubtitles,,0,0,0,,You're running Hamon through\Nyour body to protect yourself.
 Dialogue: 0,0:14:46.08,0:14:47.26,Dubtitles,,0,0,0,,Quite the strategy.
 Dialogue: 0,0:14:47.76,0:14:49.98,Dubtitles,,0,0,0,,You've wrapped your\Nbody with Hermit Purple,
 Dialogue: 0,0:14:50.06,0:14:54.18,Dubtitles,,0,0,0,,But you've infused it with Hamon,\Nlike a cloak of high-voltage wires.
@@ -650,13 +641,13 @@ Dialogue: 0,0:15:03.60,0:15:05.14,Dubtitles,,0,0,0,,It's just like you said.
 Dialogue: 0,0:15:05.38,0:15:08.44,Dubtitles,,0,0,0,,I've been using this little\Ntrick to protect myself.
 Dialogue: 0,0:15:09.46,0:15:13.75,Dubtitles,,0,0,0,,But thanks to Kakyoin's message, I've\Nlearned something about your stand.
 Dialogue: 0,0:15:14.08,0:15:16.46,Dubtitles,,0,0,0,,Dio, you can bring time to a standstill.
-Dialogue: 0,0:15:16.54,0:15:18.76,Dubtitles,,0,0,0,,But there's a limit to\Nthe amount of time you
-Dialogue: 0,0:15:18.84,0:15:22.32,Dubtitles,,0,0,0,,Can use that power only\Nthree to four seconds. I'd
+Dialogue: 0,0:15:16.54,0:15:18.76,Dubtitles,,0,0,0,,but there's a limit to\Nthe amount of time you
+Dialogue: 0,0:15:18.84,0:15:22.32,Dubtitles,,0,0,0,,You can use that power for\Nonly three to four seconds, I'd
 Dialogue: 0,0:15:22.40,0:15:25.44,Dubtitles,,0,0,0,,say if you could do it\Nfor a longer period than
-Dialogue: 0,0:15:25.52,0:15:28.62,Dubtitles,,0,0,0,,that instead Of chasing us\Naround town all night you
-Dialogue: 0,0:15:28.70,0:15:30.72,Dubtitles,,0,0,0,,would have wiped us all\Nout back at the Mansion
+Dialogue: 0,0:15:25.52,0:15:28.62,Dubtitles,,0,0,0,,that instead of chasing us\Naround town all night you
+Dialogue: 0,0:15:28.70,0:15:30.72,Dubtitles,,0,0,0,,would have wiped us all\Nout back at the mansion
 Dialogue: 0,0:15:30.80,0:15:33.74,Dubtitles,,0,0,0,,tracking us down tells me\Neverything that I need to
-Dialogue: 0,0:15:33.82,0:15:37.72,Dubtitles,,0,0,0,,know so you Finally figured\Nit out that's an impressive
+Dialogue: 0,0:15:33.82,0:15:37.72,Dubtitles,,0,0,0,,know so you finally figured\Nit out that's an impressive
 Dialogue: 0,0:15:37.80,0:15:40.88,Dubtitles,,0,0,0,,accomplishment congratulations\NCongratulations.
 Dialogue: 0,0:15:43.36,0:15:45.82,Dubtitles,,0,0,0,,You should congratulate Kakyoin.
 Dialogue: 0,0:15:46.08,0:15:48.79,Dubtitles,,0,0,0,,He gave his life to give\Nus a fighting chance.
@@ -838,9 +829,9 @@ Dialogue: 3,0:18:44.85,0:18:45.02,Eyecatch1,signtop,0,0,0,,{\bord0\blur0.6\pos(1
 Dialogue: 1,0:18:45.02,0:18:46.93,Eyecatch1,signtop,0,0,0,,{\blur13\alpha&H50&\3c&HFCFEFC&\pos(116.286,374.86)}The World
 Dialogue: 2,0:18:45.02,0:18:46.93,Eyecatch1,signtop,0,0,0,,{\blur0.6\c&H4E3D4E&\pos(116.286,374.86)}The World
 Dialogue: 3,0:18:45.02,0:18:46.93,Eyecatch1,signtop,0,0,0,,{\bord0\blur0.6\shad2\4a&HFF&\pos(116.286,374.86)}The World
-Dialogue: 0,0:18:54.94,0:19:00.08,Dubtitles,,0,0,0,,Old man run away you.
+Dialogue: 0,0:18:54.94,0:19:00.08,Dubtitles,,0,0,0,,Old man, run away, you!
 Dialogue: 0,0:19:00.16,0:19:02.42,Dubtitles,,0,0,0,,get out of here Joe
-Dialogue: 0,0:19:03.04,0:19:07.14,Dubtitles,,0,0,0,,Oh, Dario, don't even try to fight.
+Dialogue: 0,0:19:03.04,0:19:07.14,Dubtitles,,0,0,0,,Oh, Turo, don't even try to fight.
 Dialogue: 0,0:19:09.18,0:19:13.82,Dubtitles,,0,0,0,,Please keep your distance.
 Dialogue: 0,0:19:15.66,0:19:18.74,Dubtitles,,0,0,0,,Stay far away from him.
 Dialogue: 0,0:19:21.24,0:19:23.20,Dubtitles,,0,0,0,,He's invincible.
@@ -851,7 +842,7 @@ Dialogue: 0,0:19:41.30,0:19:43.34,Dubtitles,,0,0,0,,Though, I guess it doesn't m
 Dialogue: 0,0:19:46.00,0:19:47.86,Dubtitles,,0,0,0,,You're next, Jotaro.
 Dialogue: 0,0:19:48.74,0:19:50.12,Dubtitles,,0,0,0,,Time to die.
 Dialogue: 0,0:19:54.24,0:19:55.52,Dubtitles,,0,0,0,,Damn you.
-Dialogue: 0,0:19:57.56,0:19:58.39,Dubtitles,,0,0,0,,Teo!
+Dialogue: 0,0:19:57.56,0:19:58.39,Dubtitles,,0,0,0,,DIO!
 Dialogue: 0,0:19:59.18,0:20:01.60,Dubtitles,,0,0,0,,Oh, so you still want to fight?
 Dialogue: 0,0:20:01.92,0:20:04.86,Dubtitles,,0,0,0,,It would appear pig-headedness\Nruns in the family.
 Dialogue: 0,0:20:05.24,0:20:06.86,Dubtitles,,0,0,0,,How ungrateful can you be?
@@ -875,16 +866,17 @@ Dialogue: 0,0:21:10.12,0:21:12.60,Dubtitles,,0,0,0,,And you ripped my 20,000 yen
 Dialogue: 0,0:21:13.20,0:21:18.34,Dubtitles,,0,0,0,,For the life of me, I can't figure out\Nwhy you Joestars are so stubborn. Fine.
 Dialogue: 0,0:21:18.64,0:21:20.88,Dubtitles,,0,0,0,,I shall accept your cheap provocation.
 Dialogue: 0,0:21:21.08,0:21:22.76,Dubtitles,,0,0,0,,Let our comparison resume.
-Dialogue: 0,0:21:30.24,0:21:31.07,Dubtitles,,0,0,0,,Moulde!
-Dialogue: 0,0:21:39.42,0:21:41.13,Dubtitles,,0,0,0,,Comparing our punching speed?
-Dialogue: 0,0:21:42.84,0:21:43.90,Dubtitles,,0,0,0,,Moulde, muda, muda...
-Dialogue: 0,0:21:43.98,0:21:44.88,Dubtitles,,0,0,0,,Moulde, muda, muda!
-Dialogue: 0,0:22:34.44,0:22:35.27,Dubtitles,,0,0,0,,Thank you.
-Dialogue: 0,0:23:02.14,0:23:03.88,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:21:24.34,0:21:25.17,Dubtitles,,0,0,0,,...
+Dialogue: 0,0:21:38.90,0:21:41.04,Dubtitles,,0,0,0,,Comparing our punching speed?
+Dialogue: 0,0:21:42.48,0:21:45.72,Dubtitles,,0,0,0,,No, no, no, no, no!
+Dialogue: 0,0:22:16.12,0:22:17.44,Dubtitles,,0,0,0,,Thank you.
+Dialogue: 0,0:22:51.12,0:22:53.30,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 1,0:23:26.38,0:23:28.38,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:26.72,0:23:31.14,Dubtitles,,0,0,0,,It's been six months since I began\Nto grasp the art of stopping time.
-Dialogue: 0,0:23:31.76,0:23:36.56,Dubtitles,,0,0,0,,And for a moment, it looked as\Nthough time itself had stood still.
-Dialogue: 0,0:23:37.34,0:23:40.78,Dubtitles,,0,0,0,,The world grind to a halt!
+Dialogue: 0,0:23:26.72,0:23:31.16,Dubtitles,,0,0,0,,It's been six months since I began\Nto grasp the art of stopping time.
+Dialogue: 0,0:23:31.76,0:23:36.54,Dubtitles,,0,0,0,,And for a moment, it looked as\Nthough time itself had stood still.
+Dialogue: 0,0:23:37.32,0:23:38.44,Dubtitles,,0,0,0,,The world!
+Dialogue: 0,0:23:39.14,0:23:40.78,Dubtitles,,0,0,0,,Grind to a halt!
 Dialogue: 1,0:23:39.39,0:23:41.44,Next Episode,sign,0,0,0,,{\pos(960,230)\fs100.001}Episode 47
 Dialogue: 1,0:23:39.39,0:23:41.44,Next Episode,sign,0,0,0,,{\pos(960,799.999)\fs100.001}Dio's World, Part 3
+Dialogue: 0,0:23:41.04,0:23:42.08,Dubtitles,,0,0,0,,Thank you.
 

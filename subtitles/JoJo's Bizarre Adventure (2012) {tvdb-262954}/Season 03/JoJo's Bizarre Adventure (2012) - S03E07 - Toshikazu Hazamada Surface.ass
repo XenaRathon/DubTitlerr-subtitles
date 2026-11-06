@@ -59,12 +59,12 @@ Style: SFXYellow4.4,Shaky Hand Some Comic Bold,130,&H003CCCEC,&H000000FF,&H00197
 Style: SFXYellow3 - Copy,Shaky Hand Some Comic Bold,150,&H003CCCEC,&H000000FF,&H00040A1F,&H00000000,-1,0,0,0,130,100,0,0,1,9,0,8,50,40,20,1
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H00494312,&H000000FF,&H00000000,&H1F514F02,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
 Style: SFX2,LeviNaiveLetter,150,&H006053B2,&H000000FF,&H000B0B0B,&H00000000,0,0,0,0,120,100,0,0,1,6,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.22,0:00:06.28,Dubtitles,,0,0,0,,Hello again!
-Dialogue: 0,0:00:06.64,0:00:08.20,Dubtitles,,0,0,0,,You're listening to Mariah Radio,
+Dialogue: 0,0:00:06.64,0:00:08.20,Dubtitles,,0,0,0,,You're listening to Morio Radio,
 Dialogue: 0,0:00:08.28,0:00:11.92,Dubtitles,,0,0,0,,and we've got another rousing\Nsegment for your aural pleasure.
 Dialogue: 0,0:00:12.00,0:00:13.90,Dubtitles,,0,0,0,,Help, Midnight Mentor!
 Dialogue: 0,0:00:14.22,0:00:19.28,Dubtitles,,0,0,0,,Our first letter is coming to\Nyou from Forever 21, Pretty Baby.
@@ -103,7 +103,9 @@ Dialogue: 1,0:01:42.54,0:01:48.50,Part 4 OP Japanese,,0,0,0,,{\1c&HB061F6&}{\fad
 Dialogue: 1,0:01:42.54,0:01:48.50,Part 4 OP English,,0,0,0,,{\1c&HB061F6&}{\fad(100,100)}in this Crazy Noisy Bizarre Town!
 Dialogue: 0,0:02:00.06,0:02:01.08,Dubtitles,,0,0,0,,You serious?
 Dialogue: 0,0:02:03.24,0:02:07.48,Dubtitles,,0,0,0,,So I guess we aren't the only stand\Nusers at this school after all, huh?
+Dialogue: 1,0:02:03.72,0:02:07.35,Main,Josuke,0,0,0,,{\an8}There's another Stand user at our school?
 Dialogue: 1,0:02:03.77,0:02:08.10,Title Part 4 Episode 2,sign,0,0,0,,{\an3\fad(654,640)\pos(1794,880)\fs60}Episode 7: {\fs80} Hazamada Toshikazu (Surface)
+Dialogue: 1,0:02:07.35,0:02:12.02,Main,Tamami,0,0,0,,{\an8}Yeah. His name is Hazamada Toshikazu. He's in class 3-C.
 Dialogue: 0,0:02:08.28,0:02:09.11,Dubtitles,,0,0,0,,Right.
 Dialogue: 0,0:02:09.19,0:02:11.82,Dubtitles,,0,0,0,,Toshikazu Hazamada enrolled\Nas a junior in Group C.
 Dialogue: 0,0:02:12.36,0:02:13.19,Dubtitles,,0,0,0,,Apparently,
@@ -123,7 +125,7 @@ Dialogue: 0,0:02:57.10,0:03:00.24,Dubtitles,,0,0,0,,Remember, the average person
 Dialogue: 0,0:03:00.32,0:03:01.44,Dubtitles,,0,0,0,,Yeah, I don't know.
 Dialogue: 0,0:03:01.62,0:03:03.27,Dubtitles,,0,0,0,,This all sounds fishy to me.
 Dialogue: 0,0:03:03.44,0:03:04.73,Dubtitles,,0,0,0,,What did you just say?
-Dialogue: 0,0:03:05.06,0:03:05.89,Dubtitles,,0,0,0,,Chosuke,
+Dialogue: 0,0:03:05.06,0:03:05.89,Dubtitles,,0,0,0,,Josuke,
 Dialogue: 0,0:03:05.97,0:03:08.96,Dubtitles,,0,0,0,,I don't know who you think you are, but\Nyou've got no right to say that to me.
 Dialogue: 0,0:03:09.04,0:03:11.02,Dubtitles,,0,0,0,,I've got a real job now, you know.
 Dialogue: 0,0:03:11.10,0:03:13.14,Dubtitles,,0,0,0,,Hang on, you're actually working now?
@@ -192,7 +194,7 @@ Dialogue: 0,0:06:33.62,0:06:35.09,Dubtitles,,0,0,0,,How's that even possible?
 Dialogue: 0,0:06:35.22,0:06:36.62,Dubtitles,,0,0,0,,Are you sure you're Japanese?
 Dialogue: 0,0:06:36.70,0:06:37.53,Dubtitles,,0,0,0,,That's enough!
 Dialogue: 0,0:06:37.61,0:06:39.81,Dubtitles,,0,0,0,,I'll be asking the questions around here!
-Dialogue: 0,0:06:40.64,0:06:43.04,Dubtitles,,0,0,0,,He's got my arm! Yusuke, no!
+Dialogue: 0,0:06:40.64,0:06:43.04,Dubtitles,,0,0,0,,He's got my arm! Josuke, no!
 Dialogue: 0,0:06:43.90,0:06:46.36,Dubtitles,,0,0,0,,However, I must give you a fair warning.
 Dialogue: 0,0:06:46.50,0:06:49.50,Dubtitles,,0,0,0,,My robot is one that you\Nwon't want to have around.
 Dialogue: 0,0:06:51.34,0:06:55.30,Dubtitles,,0,0,0,,Once it copies you, you'll be making\Nall the same movements it does.
@@ -258,7 +260,7 @@ Dialogue: 2,0:07:05.52,0:07:05.57,SFX,1,0,0,0,,{=1}{\bord0\blur0.6\fade(255,0,25
 Dialogue: 1,0:07:05.57,0:07:05.61,SFX,1,0,0,0,,{=1}{\fade(255,0,255,-1170,-1170,-90,110)\frz340.2\pos(1678.07,617.17)}Crunch
 Dialogue: 1,0:07:05.61,0:07:05.65,SFX,1,0,0,0,,{=1}{\fade(255,0,255,-1210,-1210,-130,70)\frz340.2\pos(1670.36,595.91)}Crunch
 Dialogue: 0,0:07:11.02,0:07:11.85,Dubtitles,,0,0,0,,Hm.
-Dialogue: 0,0:07:13.30,0:07:14.13,Dubtitles,,0,0,0,,Keicho.
+Dialogue: 0,0:07:13.30,0:07:14.13,Dubtitles,,0,0,0,,Koichi.
 Dialogue: 0,0:07:15.26,0:07:17.92,Dubtitles,,0,0,0,,Just like that, another\None bites the dust.
 Dialogue: 0,0:07:18.16,0:07:20.02,Dubtitles,,0,0,0,,Best part, I didn't touch him.
 Dialogue: 0,0:07:20.20,0:07:24.49,Dubtitles,,0,0,0,,The honor of knocking him into Kingdom\NCome goes to you, his dear friend.
@@ -267,20 +269,18 @@ Dialogue: 0,0:07:30.66,0:07:33.04,Dubtitles,,0,0,0,,Making others do your dirty\
 Dialogue: 0,0:07:33.12,0:07:36.36,Dubtitles,,0,0,0,,the balls to come out and\Ntake care of things yourself.
 Dialogue: 0,0:07:36.84,0:07:39.62,Dubtitles,,0,0,0,,Nothing makes me want to\Nkick someone's ass more!
 Dialogue: 0,0:07:39.70,0:07:41.04,Dubtitles,,0,0,0,,That's just great.
-Dialogue: 0,0:07:43.96,0:07:47.26,Dubtitles,,0,0,0,,It seems as though I'm outside\Nof your range and if you
-Dialogue: 0,0:07:47.34,0:07:50.58,Dubtitles,,0,0,0,,can't get any closer to me\Nthen neither can your stand!
-Dialogue: 0,0:07:50.96,0:07:53.78,Dubtitles,,0,0,0,,In other words Josuke as\Nlong as I make sure to
-Dialogue: 0,0:07:53.86,0:07:56.24,Dubtitles,,0,0,0,,always keep a little distance\Nbetween the two of us.
-Dialogue: 0,0:07:56.32,0:07:59.79,Dubtitles,,0,0,0,,You don't have a snowball's\Nchance in hell of defeating me!
+Dialogue: 0,0:07:43.96,0:07:47.26,Dubtitles,,0,0,0,,It seems as though I'm outside\Nof your range, and if you
+Dialogue: 0,0:07:47.34,0:07:50.52,Dubtitles,,0,0,0,,can't get any closer to me\Nthen neither can your stand
+Dialogue: 0,0:07:50.96,0:07:55.18,Dubtitles,,0,0,0,,In other words Josuke as long as I make\Nsure to always keep a little distance
+Dialogue: 0,0:07:55.26,0:07:59.97,Dubtitles,,0,0,0,,between the two of us You don't have a\Nsnowball's chance in hell of defeating me
 Dialogue: 0,0:08:03.60,0:08:04.43,Dubtitles,,0,0,0,,So,
 Dialogue: 0,0:08:04.51,0:08:06.62,Dubtitles,,0,0,0,,you know my stand's name is show-off and
-Dialogue: 0,0:08:06.70,0:08:09.62,Dubtitles,,0,0,0,,possessing this doll has\Ngiven my stand physical form.
-Dialogue: 0,0:08:09.70,0:08:13.38,Dubtitles,,0,0,0,,As a result it can now be\Nseen by any ordinary person!
-Dialogue: 0,0:08:13.46,0:08:16.18,Dubtitles,,0,0,0,,Damn you Hazamada!
-Dialogue: 0,0:08:16.26,0:08:19.32,Dubtitles,,0,0,0,,My objective is simple!
-Dialogue: 0,0:08:19.40,0:08:22.06,Dubtitles,,0,0,0,,Pulverize Jotaro to\Nwithin an inch of his life
-Dialogue: 0,0:08:22.14,0:08:24.73,Dubtitles,,0,0,0,,and make sure he never\Nreturns to this town!
-Dialogue: 0,0:08:29.62,0:08:35.22,Dubtitles,,0,0,0,,He's just a pathetic outsider snooping\Naround and getting in our business?
+Dialogue: 0,0:08:06.70,0:08:09.62,Dubtitles,,0,0,0,,possessing this doll has\Ngiven my stand physical form
+Dialogue: 0,0:08:09.70,0:08:12.80,Dubtitles,,0,0,0,,As a result, it can now\Nbe seen by any ordinary.
+Dialogue: 0,0:08:12.88,0:08:19.32,Dubtitles,,0,0,0,,person damn you Hazamada\Nmy objective is simple
+Dialogue: 0,0:08:19.40,0:08:22.06,Dubtitles,,0,0,0,,pulverize jotaro to\Nwithin an inch of his life
+Dialogue: 0,0:08:22.14,0:08:24.67,Dubtitles,,0,0,0,,and make sure he never\Nreturns to this town
+Dialogue: 0,0:08:29.62,0:08:35.22,Dubtitles,,0,0,0,,he's just a pathetic outsider snooping\Naround and getting in our business
 Dialogue: 0,0:08:36.76,0:08:37.59,Dubtitles,,0,0,0,,Although,
 Dialogue: 0,0:08:37.67,0:08:39.12,Dubtitles,,0,0,0,,a little birdie told me that Jotaro's Star
 Dialogue: 0,0:08:39.20,0:08:41.97,Dubtitles,,0,0,0,,Platinum can stop time\Nfor a couple of seconds.
@@ -551,7 +551,7 @@ Dialogue: 1,0:09:35.63,0:09:35.67,SFXEchoes2,3.2,0,0,0,,{=28}{\blur0.6\bord4\fsc
 Dialogue: 2,0:09:35.63,0:09:35.67,SFXEchoes2,3.2,0,0,0,,{=28}{\blur0.6\bord0\fscx130.02\fscy100.02\frz332.71\pos(1506.88,115.49)\4a&HFF&}Squish!
 Dialogue: 1,0:09:35.67,0:09:35.72,SFXEchoes2,3.2,0,0,0,,{=28}{\blur0.6\bord4\fscx130\fscy100\frz332.7\pos(1506.64,115.57)\c&H40173D&}Squish!
 Dialogue: 2,0:09:35.67,0:09:35.72,SFXEchoes2,3.2,0,0,0,,{=28}{\blur0.6\bord0\fscx130\fscy100\frz332.7\pos(1506.64,115.57)\4a&HFF&}Squish!
-Dialogue: 0,0:09:35.68,0:09:37.44,Dubtitles,,0,0,0,,The Mariah Grand Hotel!
+Dialogue: 0,0:09:35.68,0:09:37.44,Dubtitles,,0,0,0,,The Morioh Grand Hotel!
 Dialogue: 0,0:09:37.88,0:09:39.46,Dubtitles,,0,0,0,,Oh yeah, that's it.
 Dialogue: 0,0:09:48.22,0:09:49.76,Dubtitles,,0,0,0,,Koichi! Koichi!
 Dialogue: 0,0:09:51.92,0:09:53.86,Dubtitles,,0,0,0,,Josuke, what happened?
@@ -614,7 +614,7 @@ Dialogue: 0,0:10:18.74,0:10:19.57,Dubtitles,,0,0,0,,But,
 Dialogue: 0,0:10:19.65,0:10:23.62,Dubtitles,,0,0,0,,uh, do you think you could heal the\Ninjuries I got when I slammed into the door?
 Dialogue: 0,0:10:23.70,0:10:26.88,Dubtitles,,0,0,0,,I don't want to be a bother,\Nbut I'm in a lot of pain.
 Dialogue: 0,0:10:27.66,0:10:28.49,Dubtitles,,0,0,0,,You bet.
-Dialogue: 0,0:10:53.92,0:10:57.58,Dubtitles,,0,0,0,,you've reached the Mariah\Ngrand hotel yeah hi how's it
+Dialogue: 0,0:10:53.92,0:10:57.58,Dubtitles,,0,0,0,,You've reached the Morioh\NGrand Hotel. Yeah, hi, how's it
 Dialogue: 0,0:10:57.66,0:11:01.68,Dubtitles,,0,0,0,,going i need jotaro kujo He\Nshould be staying in room 324.
 Dialogue: 0,0:11:02.10,0:11:03.22,Dubtitles,,0,0,0,,One moment, please.
 Dialogue: 0,0:11:05.26,0:11:06.20,Dubtitles,,0,0,0,,Hurry up!
@@ -631,7 +631,7 @@ Dialogue: 0,0:11:23.90,0:11:25.08,Dubtitles,,0,0,0,,It got to him first!
 Dialogue: 0,0:11:26.64,0:11:27.90,Dubtitles,,0,0,0,,You sure, Josuke?
 Dialogue: 0,0:11:28.76,0:11:31.62,Dubtitles,,0,0,0,,Hey, you found proof that there's\Nanother stand user at your school?
 Dialogue: 0,0:11:31.70,0:11:32.53,Dubtitles,,0,0,0,,That I have.
-Dialogue: 0,0:11:32.80,0:11:34.80,Dubtitles,,0,0,0,,I'll fill you in at Mariah Station.
+Dialogue: 0,0:11:32.80,0:11:34.80,Dubtitles,,0,0,0,,I'll fill you in at Morio Station.
 Dialogue: 0,0:11:35.36,0:11:37.28,Dubtitles,,0,0,0,,Let's meet at the square in front.
 Dialogue: 0,0:11:37.36,0:11:39.24,Dubtitles,,0,0,0,,You can get there in 15 minutes.
 Dialogue: 0,0:11:40.00,0:11:40.83,Dubtitles,,0,0,0,,Understood.
@@ -697,29 +697,21 @@ Dialogue: 1,0:13:10.14,0:13:13.02,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:13:10.14,0:13:13.02,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0)\fscx100\fscy100\be0.2\frz57.56\pos(1297.6,537.6)}POTENTIAL
 Dialogue: 1,0:13:10.35,0:13:10.60,Eyecatch - Right,Signtop,0,0,0,,{\blur0.6\pos(1569.8,365.6)\c&H17110A&}Su
 Dialogue: 2,0:13:10.35,0:13:10.60,Eyecatch - Right,Signtop,0,0,0,,{\bord0\blur0.6\pos(1569.8,365.6)\shad2\4a&HFF&}Su
-Dialogue: 1,0:13:10.35,0:13:10.60,Eyecatch - Right,Signtop,0,0,0,,{\pos(1525,380)}Su
 Dialogue: 1,0:13:10.60,0:13:10.81,Eyecatch - Right,Signtop,0,0,0,,{\blur0.6\pos(1569.8,365.6)\c&H17110A&}Sur
 Dialogue: 2,0:13:10.60,0:13:10.81,Eyecatch - Right,Signtop,0,0,0,,{\bord0\blur0.6\pos(1569.8,365.6)\shad2\4a&HFF&}Sur
-Dialogue: 1,0:13:10.60,0:13:10.81,Eyecatch - Right,Signtop,0,0,0,,{\pos(1525,380)}Sur
 Dialogue: 1,0:13:10.81,0:13:11.06,Eyecatch - Right,Signtop,0,0,0,,{\blur0.6\pos(1569.8,365.6)\c&H17110A&}Surfa
 Dialogue: 2,0:13:10.81,0:13:11.06,Eyecatch - Right,Signtop,0,0,0,,{\bord0\blur0.6\pos(1569.8,365.6)\shad2\4a&HFF&}Surfa
-Dialogue: 1,0:13:10.81,0:13:11.06,Eyecatch - Right,Signtop,0,0,0,,{\pos(1525,380)}Surfa
 Dialogue: 1,0:13:11.06,0:13:13.02,Eyecatch - Right,Signtop,0,0,0,,{\blur0.6\pos(1569.8,365.6)\c&H17110A&}Surface
 Dialogue: 2,0:13:11.06,0:13:13.02,Eyecatch - Right,Signtop,0,0,0,,{\bord0\blur0.6\pos(1569.8,365.6)\shad2\4a&HFF&}Surface
-Dialogue: 1,0:13:11.06,0:13:13.02,Eyecatch - Right,Signtop,0,0,0,,{\pos(1525,380)}Surface
 Dialogue: 1,0:13:11.60,0:13:11.72,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H1A1610&}Hazama
 Dialogue: 2,0:13:11.60,0:13:11.72,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Hazama
-Dialogue: 1,0:13:11.60,0:13:11.72,Eyecatch - Left,Signbot,0,0,0,,{\pos(82,794)}Hazama
 Dialogue: 1,0:13:11.68,0:13:13.02,Eyecatch - Stats,sign bot,0,0,0,,{\an7\fad(300,0)\pos(48,31)}Power: B \NSpeed: B \NRange: C \NDurability: B \NPrecision: C \NGrowth Potential: C
 Dialogue: 1,0:13:11.72,0:13:11.85,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H1A1610&}Hazamada
 Dialogue: 2,0:13:11.72,0:13:11.85,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Hazamada
-Dialogue: 1,0:13:11.72,0:13:11.85,Eyecatch - Left,Signbot,0,0,0,,{\pos(82,794)}Hazamada
 Dialogue: 1,0:13:11.85,0:13:11.97,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H1A1610&}Hazamada Toshi
 Dialogue: 2,0:13:11.85,0:13:11.97,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Hazamada Toshi
-Dialogue: 1,0:13:11.85,0:13:11.97,Eyecatch - Left,Signbot,0,0,0,,{\pos(82,794)}Hazamada Toshi
 Dialogue: 1,0:13:11.97,0:13:13.02,Eyecatch - Left,Signbot,0,0,0,,{\blur0.6\pos(82,794)\c&H1A1610&}Hazamada Toshikazu
 Dialogue: 2,0:13:11.97,0:13:13.02,Eyecatch - Left,Signbot,0,0,0,,{\bord0\blur0.6\pos(82,794)\shad1.5\4a&HFF&}Hazamada Toshikazu
-Dialogue: 1,0:13:11.97,0:13:13.02,Eyecatch - Left,Signbot,0,0,0,,{\pos(82,794)}Hazamada Toshikazu
 Dialogue: 1,0:13:14.02,0:13:14.10,Episode 7 Typesetting,Sign,0,0,0,,{\an1\pos(497,815)} 9
 Dialogue: 1,0:13:14.10,0:13:14.18,Episode 7 Typesetting,Sign,0,0,0,,{\an1\pos(497,815)} 9 Mi
 Dialogue: 1,0:13:14.18,0:13:14.27,Episode 7 Typesetting,Sign,0,0,0,,{\an1\pos(497,815)} 9 Minu
@@ -734,7 +726,10 @@ Dialogue: 1,0:13:14.85,0:13:14.94,Episode 7 Typesetting,Sign,0,0,0,,{\an1\pos(49
 Dialogue: 1,0:13:14.94,0:13:15.02,Episode 7 Typesetting,Sign,0,0,0,,{\an1\pos(497,815)} 9 Minutes Left Until the Meet
 Dialogue: 1,0:13:15.02,0:13:19.98,Episode 7 Typesetting,Sign,0,0,0,,{\an1\pos(497,815)\fad(0,139)} 9 Minutes Left Until the Meeting
 Dialogue: 0,0:13:15.34,0:13:19.18,Dubtitles,,0,0,0,,We can't let Jotaro meet up with the\Ncopier, it'll be a total disaster!
+Dialogue: 1,0:13:15.39,0:13:18.06,Main,Koichi,0,0,0,,{\an8}It's gonna be really bad if your copy gets to Mr. Jotaro first!
+Dialogue: 1,0:13:18.06,0:13:19.36,Main,Koichi,0,0,0,,{\an8}Really, {\i1}really{\i0} bad!
 Dialogue: 0,0:13:19.26,0:13:24.03,Dubtitles,,0,0,0,,Yeah, but I haven't figured out a solution\Nyet, so for now, all we can do is run!
+Dialogue: 1,0:13:19.36,0:13:20.02,Main,Josuke,0,0,0,,{\an8}Yeah!
 Dialogue: 0,0:13:31.38,0:13:33.15,Dubtitles,,0,0,0,,We'll catch you later, Josuke.
 Dialogue: 0,0:13:33.40,0:13:35.58,Dubtitles,,0,0,0,,See you tomorrow. Yeah, take it easy.
 Dialogue: 0,0:13:36.94,0:13:38.20,Dubtitles,,0,0,0,,See you yet, Josuke.
@@ -774,8 +769,8 @@ Dialogue: 0,0:15:01.48,0:15:04.86,Dubtitles,,0,0,0,,What a douche damn that\Ndum
 Dialogue: 0,0:15:05.04,0:15:06.26,Dubtitles,,0,0,0,,I'm gonna kill him.
 Dialogue: 0,0:15:06.36,0:15:08.98,Dubtitles,,0,0,0,,Take it easy man It was\Nprobably an accident,
 Dialogue: 0,0:15:09.06,0:15:13.16,Dubtitles,,0,0,0,,you know besides What do you think\NI care if that asshole hears me?
-Dialogue: 0,0:15:13.34,0:15:16.62,Dubtitles,,0,0,0,,Just look at how he's\Nwalking damn It's like
-Dialogue: 0,0:15:16.70,0:15:20.54,Dubtitles,,0,0,0,,watching a dying cricket\Non a death march Oh, man!
+Dialogue: 0,0:15:13.34,0:15:16.62,Dubtitles,,0,0,0,,Just look at how he's\Nwalking. Damn, it's like
+Dialogue: 0,0:15:16.70,0:15:20.54,Dubtitles,,0,0,0,,Watching a dying cricket\Non a death march. Oh, man!
 Dialogue: 0,0:15:20.86,0:15:22.10,Dubtitles,,0,0,0,,That was a sick burn!
 Dialogue: 0,0:15:22.26,0:15:24.28,Dubtitles,,0,0,0,,Good one, dude! Yeah? You think?
 Dialogue: 0,0:15:24.50,0:15:25.76,Dubtitles,,0,0,0,,It was pretty funny.
@@ -785,20 +780,18 @@ Dialogue: 0,0:15:40.80,0:15:42.78,Dubtitles,,0,0,0,,What the hell are you doing,
 Dialogue: 0,0:15:42.86,0:15:43.69,Dubtitles,,0,0,0,,Knock it off!
 Dialogue: 0,0:15:44.76,0:15:48.00,Dubtitles,,0,0,0,,Now, don't worry your pretty little\Nhead about what I'm gonna do.
 Dialogue: 0,0:15:48.08,0:15:52.58,Dubtitles,,0,0,0,,Just focus on relaxing and I'll make\Nsure you never open that mouth again
-Dialogue: 0,0:16:00.36,0:16:02.16,Dubtitles,,0,0,0,,A glass shard?
-Dialogue: 0,0:16:09.08,0:16:10.44,Dubtitles,,0,0,0,,Josuke Higashikata?
-Dialogue: 0,0:16:10.66,0:16:11.58,Dubtitles,,0,0,0,,What the hell?
-Dialogue: 0,0:16:12.00,0:16:13.77,Dubtitles,,0,0,0,,Even the shrimp's still alive!
+Dialogue: 0,0:16:00.60,0:16:02.16,Dubtitles,,0,0,0,,A shard of glass?
+Dialogue: 0,0:16:09.84,0:16:13.49,Dubtitles,,0,0,0,,Josuke Higashikata, what the\Nhell, even the shrimp still alive
 Dialogue: 0,0:16:14.50,0:16:15.33,Dubtitles,,0,0,0,,Hazamada!
 Dialogue: 0,0:16:15.41,0:16:17.65,Dubtitles,,0,0,0,,Finally caught up to you and Pinocchio.
-Dialogue: 0,0:16:18.08,0:16:19.62,Dubtitles,,0,0,0,,How soon we forget.
-Dialogue: 0,0:16:20.14,0:16:23.16,Dubtitles,,0,0,0,,Come face to face with my\Nshow-off if you dare, Josuke.
+Dialogue: 0,0:16:18.10,0:16:19.66,Dubtitles,,0,0,0,,How soon we forget.
+Dialogue: 0,0:16:20.06,0:16:23.16,Dubtitles,,0,0,0,,Come face to face with my\Nshow off if you dare, Josuke.
 Dialogue: 0,0:16:23.24,0:16:26.77,Dubtitles,,0,0,0,,The moment you do, you'll\Ninstantly be turned into a puppet.
 Dialogue: 0,0:16:27.24,0:16:28.07,Dubtitles,,0,0,0,,Control him!
 Dialogue: 0,0:16:28.15,0:16:29.04,Dubtitles,,0,0,0,,Now show off!
-Dialogue: 0,0:16:29.28,0:16:30.26,Dubtitles,,0,0,0,,Not so fast.
+Dialogue: 0,0:16:29.26,0:16:30.26,Dubtitles,,0,0,0,,Not so fast.
 Dialogue: 0,0:16:35.16,0:16:36.16,Dubtitles,,0,0,0,,What's happening?
-Dialogue: 0,0:16:36.80,0:16:38.36,Dubtitles,,0,0,0,,You mean it isn't obvious?
+Dialogue: 0,0:16:36.82,0:16:38.38,Dubtitles,,0,0,0,,You mean it isn't obvious?
 Dialogue: 0,0:16:38.70,0:16:41.72,Dubtitles,,0,0,0,,That glass shard I chucked your\Nway wasn't meant to take you out.
 Dialogue: 0,0:16:41.80,0:16:45.27,Dubtitles,,0,0,0,,I threw it so that it would\Nreform into its original shape.
 Dialogue: 1,0:16:45.48,0:16:45.52,SFXYellow,4,0,0,0,,{=29}{\blur6\bord12.24\fscx212.13\fscy163.18\frz330.44\pos(1116.16,488.62)\3c&H94E9F9&}Break
@@ -882,7 +875,7 @@ Dialogue: 0,0:17:21.34,0:17:23.14,Dubtitles,,0,0,0,,Not to mention the fact\Ntha
 Dialogue: 0,0:17:23.22,0:17:25.44,Dubtitles,,0,0,0,,took is the fastest way\Nto get to the station!
 Dialogue: 0,0:17:25.52,0:17:27.17,Dubtitles,,0,0,0,,Yeah, you're probably right.
 Dialogue: 0,0:17:27.32,0:17:31.16,Dubtitles,,0,0,0,,But I've got a secret weapon\Nin tow, Koichi. You do?
-Dialogue: 0,0:17:37.38,0:17:42.10,Dubtitles,,0,0,0,,so he's not here yet i guess he\Nran into some trouble what's the
+Dialogue: 0,0:17:37.38,0:17:42.10,Dubtitles,,0,0,0,,So he's not here yet. I guess he\Nran into some trouble. What's the
 Dialogue: 0,0:17:42.18,0:17:46.72,Dubtitles,,0,0,0,,word you see josuke anywhere nope\Nnowhere to be found there's nothing
 Dialogue: 0,0:17:46.80,0:17:50.14,Dubtitles,,0,0,0,,to worry about though if i so much\Nas glance at him he'll be turned
 Dialogue: 0,0:17:50.22,0:17:56.60,Dubtitles,,0,0,0,,into my puppet in a flash huh hear\Nthat Hazamada a train's coming
@@ -2621,7 +2614,7 @@ Dialogue: 2,0:18:00.68,0:18:00.72,SFXYellow3 - Copy,6.4,0,0,0,,{=35}{\blur1\fscx
 Dialogue: 1,0:18:00.68,0:18:00.72,SFXYellow3,6.5,0,0,0,,{=39}{\blur1\bord12\fscx130\fscy100\frz354.6\pos(862.6,440.8)\c&H040A1F&}Ding {!!!!!}
 Dialogue: 2,0:18:00.68,0:18:00.72,SFXYellow3,6.5,0,0,0,,{=39}{\blur1\bord0\fscx130\fscy100\frz354.6\pos(862.6,440.8)\4a&HFF&}Ding {!!!!!}
 Dialogue: 0,0:18:07.22,0:18:11.14,Dubtitles,,0,0,0,,Even if he catches up to us, the\Ntrain will stop him! Take that!
-Dialogue: 0,0:18:11.42,0:18:12.54,Dubtitles,,0,0,0,,There's one minute left,
+Dialogue: 0,0:18:11.42,0:18:12.54,Dubtitles,,0,0,0,,There's one minute left.
 Dialogue: 0,0:18:12.62,0:18:16.33,Dubtitles,,0,0,0,,and all sights point to us making\Nit to the meeting spot first.
 Dialogue: 0,0:18:17.02,0:18:17.88,Dubtitles,,0,0,0,,I win!
 Dialogue: 0,0:18:19.80,0:18:20.63,Dubtitles,,0,0,0,,What the?
@@ -2727,14 +2720,14 @@ Dialogue: 0,0:19:40.10,0:19:42.81,Dubtitles,,0,0,0,,Why would I take a pen\Nout 
 Dialogue: 0,0:19:45.92,0:19:47.34,Dubtitles,,0,0,0,,I can't move.
 Dialogue: 0,0:19:47.60,0:19:49.72,Dubtitles,,0,0,0,,It's like my arm is frozen in place.
 Dialogue: 0,0:20:02.94,0:20:03.77,Dubtitles,,0,0,0,,Wait…
-Dialogue: 0,0:20:03.85,0:20:07.14,Dubtitles,,0,0,0,,the other side of the\Nglass… Shit! It's him!
+Dialogue: 0,0:20:03.85,0:20:07.14,Dubtitles,,0,0,0,,The other side of the\Nglass…! Shit! It's him!
 Dialogue: 0,0:20:13.10,0:20:14.28,Dubtitles,,0,0,0,,Jousuke Higashikata.
 Dialogue: 0,0:20:14.78,0:20:18.60,Dubtitles,,0,0,0,,Like it or not, you're gonna plunge\Nthat pen into Jotaro's brain.
 Dialogue: 0,0:20:18.80,0:20:21.68,Dubtitles,,0,0,0,,The blunt force trauma\Nshould kill him instantly.
 Dialogue: 0,0:20:21.90,0:20:25.00,Dubtitles,,0,0,0,,After all, leaving him alive\Nisn't really an option now, is it?
 Dialogue: 0,0:20:25.08,0:20:27.32,Dubtitles,,0,0,0,,Your stand would only heal him anyway.
 Dialogue: 0,0:20:28.62,0:20:29.78,Dubtitles,,0,0,0,,It's your fault!
-Dialogue: 0,0:20:29.94,0:20:32.10,Dubtitles,,0,0,0,,You're meddling as the\Ncause of this, Jousuke!
+Dialogue: 0,0:20:29.94,0:20:32.10,Dubtitles,,0,0,0,,You're meddling as the\Ncause of this, Josuke!
 Dialogue: 0,0:20:32.18,0:20:34.76,Dubtitles,,0,0,0,,I was only gonna beat\NJotaro up and chase him out
 Dialogue: 0,0:20:34.84,0:20:37.90,Dubtitles,,0,0,0,,of town before you involved\Nyourself in my business!
 Dialogue: 0,0:20:38.08,0:20:40.38,Dubtitles,,0,0,0,,But now Jotaro's gonna die!
@@ -2752,7 +2745,7 @@ Dialogue: 0,0:21:07.09,0:21:08.41,Dubtitles,,0,0,0,,Though fortunately for me,
 Dialogue: 0,0:21:08.60,0:21:12.25,Dubtitles,,0,0,0,,it looks like those biker dudes\Nfinally tracked down Hazamada.
 Dialogue: 0,0:21:14.00,0:21:17.26,Dubtitles,,0,0,0,,You're just where Josuke said\Nyou'd be a piece of bug shit!
 Dialogue: 0,0:21:17.34,0:21:19.82,Dubtitles,,0,0,0,,Hiding out at the station\Nlike the coward you are!
-Dialogue: 0,0:21:19.90,0:21:21.60,Dubtitles,,0,0,0,,That Josuke Fool is swell!
+Dialogue: 0,0:21:19.90,0:21:21.60,Dubtitles,,0,0,0,,That Josuke fella is swell!
 Dialogue: 0,0:21:21.84,0:21:23.70,Dubtitles,,0,0,0,,He went out of his way\Nto treat our wounds,
 Dialogue: 0,0:21:23.78,0:21:26.90,Dubtitles,,0,0,0,,even if I don't totally\Nunderstand how we fixed them!
 Dialogue: 0,0:21:27.16,0:21:28.64,Dubtitles,,0,0,0,,You know what time it is?
@@ -2769,101 +2762,61 @@ Dialogue: 1,0:22:53.26,0:22:55.52,ED Lyrics,,0,0,0,,{\fad(100,100)}And I am take
 Dialogue: 1,0:22:55.52,0:22:58.31,ED Lyrics,,0,0,0,,{\fad(100,100)}And magenta feelings take up shelter in the base of my spine
 Dialogue: 1,0:22:58.31,0:22:59.98,ED Lyrics,,0,0,0,,{\fad(100,100)}Sweet like a chic-a-cherry cola
 Dialogue: 1,0:22:59.98,0:23:02.36,ED Lyrics,,0,0,0,,{\fad(100,100)}I don't need to try to explain, I just hold on tight
-Dialogue: 0,0:23:01.16,0:23:02.50,Dubtitles,,0,0,0,,It's pain, it is old, I'm tired.
+Dialogue: 0,0:23:01.16,0:23:03.68,Dubtitles,,0,0,0,,It's pain, it is old, I'm\Ntired And if it happens again,
 Dialogue: 1,0:23:02.36,0:23:04.73,ED Lyrics,,0,0,0,,{\fad(100,100)}And if it happens again, I might move so slightly
-Dialogue: 0,0:23:02.58,0:23:04.84,Dubtitles,,0,0,0,,And if it happens again,\NI'ma move so slightly!
+Dialogue: 0,0:23:03.76,0:23:06.08,Dubtitles,,0,0,0,,I'ma move so slightly To\Nthe arms and the lips and
 Dialogue: 1,0:23:04.73,0:23:07.53,ED Lyrics,,0,0,0,,{\fad(100,100)}To the arms and the lips and the face of the human cannonball
-Dialogue: 0,0:23:04.92,0:23:06.46,Dubtitles,,0,0,0,,To the arms and the lips and the face.
-Dialogue: 0,0:23:06.54,0:23:09.06,Dubtitles,,0,0,0,,Of the human kind of all\Nthat I need to, I want to.
+Dialogue: 0,0:23:06.16,0:23:08.52,Dubtitles,,0,0,0,,The face of the human kind\Nis all that I need to.
 Dialogue: 1,0:23:07.53,0:23:09.24,ED Lyrics,,0,0,0,,{\fad(100,100)}That I need to, I want to
-Dialogue: 0,0:23:09.14,0:23:11.24,Dubtitles,,0,0,0,,Come and stand a little bit closer.
+Dialogue: 0,0:23:08.60,0:23:12.66,Dubtitles,,0,0,0,,I want to Come and stand a little\Nbit closer Breathe in and get
 Dialogue: 1,0:23:09.24,0:23:11.49,ED Lyrics,,0,0,0,,{\fad(100,100)}Come stand a little bit closer
-Dialogue: 0,0:23:11.32,0:23:13.54,Dubtitles,,0,0,0,,Breathe in and get a bit higher.
 Dialogue: 1,0:23:11.49,0:23:13.83,ED Lyrics,,0,0,0,,{\fad(100,100)}Breathe in and get a bit higher
-Dialogue: 0,0:23:13.62,0:23:17.98,Dubtitles,,0,0,0,,You'll never know what\Nhit you when I get to you!
+Dialogue: 0,0:23:12.74,0:23:18.68,Dubtitles,,0,0,0,,A bit higher. You'll never know\Nwhat hit you when I get to you. Ooh,
 Dialogue: 1,0:23:13.83,0:23:15.45,ED Lyrics,,0,0,0,,{\fad(100,100)}You'll never know what hit you
 Dialogue: 1,0:23:15.45,0:23:18.08,ED Lyrics,,0,0,0,,{\fad(100,100)}When I get to you
-Dialogue: 0,0:23:18.06,0:23:22.34,Dubtitles,,0,0,0,,Ooh, I want you, I don't\Nknow if I need you.
 Dialogue: 1,0:23:18.08,0:23:22.58,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
+Dialogue: 0,0:23:18.76,0:23:22.34,Dubtitles,,0,0,0,,I want you, I don't know if I need you
 Dialogue: 1,0:23:22.58,0:23:26.13,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I'd die to find out
-Dialogue: 0,0:23:22.98,0:23:25.57,Dubtitles,,0,0,0,,Ooh, I want you, I don't\Nknow if I need you.
+Dialogue: 0,0:23:22.98,0:23:25.54,Dubtitles,,0,0,0,,Ooh, I want you, I\Ndon't know if I need you
 Dialogue: 1,0:23:27.13,0:23:31.59,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:27.68,0:23:31.08,Dubtitles,,0,0,0,,Ooh, I want you, I don't\Nknow if I need you.
-Dialogue: 0,0:23:31.16,0:23:34.42,Dubtitles,,0,0,0,,But, ooh, I'm done by now.
+Dialogue: 0,0:23:27.68,0:23:34.42,Dubtitles,,0,0,0,,Ooh, I want you, I don't know if I\Nneed you. But, ooh, I'm done by now.
 Dialogue: 1,0:23:31.59,0:23:34.97,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I would die to find out
 Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(304,780)}Yamagishi
 Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(915,780)}Yukako Falls in
 Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(1407,780)}Love,
 Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(1690,780)}Part 1
-Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(314,780)}Yamagishi
-Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(925,780)}Yukako Falls in
-Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(1417,780)}Love
-Dialogue: 1,0:23:39.48,0:23:40.64,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\fad(350,0)\be25\pos(1700,780)}Part 1
 Dialogue: 1,0:23:39.48,0:23:42.52,Next Episode,sign,0,0,0,,{\fad(350,0)\be25\pos(322,250)}Episode 8
 Dialogue: 1,0:23:40.64,0:23:40.69,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,780)\fs122\1c&H0C0B0D&}Yu
 Dialogue: 1,0:23:40.64,0:23:40.69,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,780)\fs122\1c&H120C11&}Love,
-Dialogue: 1,0:23:40.64,0:23:40.69,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,780)\fs122\1c&H0C0B0D&}Yu
-Dialogue: 1,0:23:40.64,0:23:40.69,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,780)\fs122\1c&H120C11&}Love
 Dialogue: 1,0:23:40.64,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\be25\pos(304,780)}Yamagishi
 Dialogue: 1,0:23:40.64,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\be25\pos(974,780)}kako Falls in
 Dialogue: 1,0:23:40.64,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\be25\pos(1690,780)}Part 1
-Dialogue: 1,0:23:40.64,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\be25\pos(314,780)}Yamagishi
-Dialogue: 1,0:23:40.64,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\be25\pos(984,780)}kako Falls in
-Dialogue: 1,0:23:40.64,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\fs(120)\an2\be25\pos(1700,780)}Part 1
 Dialogue: 1,0:23:40.69,0:23:40.73,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,780)\fs124\1c&H111113&}Yu
 Dialogue: 1,0:23:40.69,0:23:40.73,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,780)\fs124\1c&H1A1318&}Love,
-Dialogue: 1,0:23:40.69,0:23:40.73,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,780)\fs124\1c&H111113&}Yu
-Dialogue: 1,0:23:40.69,0:23:40.73,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,780)\fs124\1c&H1A1318&}Love
 Dialogue: 1,0:23:40.73,0:23:40.77,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,780.5)\fs126\1c&H180F23&}Yu
 Dialogue: 1,0:23:40.73,0:23:40.77,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,780.5)\fs126\1c&H21101C&}Love,
-Dialogue: 1,0:23:40.73,0:23:40.77,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,780.5)\fs126\1c&H180F23&}Yu
-Dialogue: 1,0:23:40.73,0:23:40.77,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,780.5)\fs126\1c&H21101C&}Love
 Dialogue: 1,0:23:40.77,0:23:40.81,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,781)\fs128\1c&H1D142F&}Yu
 Dialogue: 1,0:23:40.77,0:23:40.81,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,781)\fs128\1c&H2E1026&}Love,
-Dialogue: 1,0:23:40.77,0:23:40.81,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,781)\fs128\1c&H1D142F&}Yu
-Dialogue: 1,0:23:40.77,0:23:40.81,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,781)\fs128\1c&H2E1026&}Love
 Dialogue: 1,0:23:40.81,0:23:40.85,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,782)\fs130\1c&H221639&}Yu
 Dialogue: 1,0:23:40.81,0:23:40.85,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,782)\fs130\1c&H3B1333&}Love,
-Dialogue: 1,0:23:40.81,0:23:40.85,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,782)\fs130\1c&H221639&}Yu
-Dialogue: 1,0:23:40.81,0:23:40.85,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,782)\fs130\1c&H3B1333&}Love
 Dialogue: 1,0:23:40.85,0:23:40.89,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,782.5)\fs132\1c&H291748&}Yu
 Dialogue: 1,0:23:40.85,0:23:40.89,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,782.5)\fs132\1c&H4E1A40&}Love,
-Dialogue: 1,0:23:40.85,0:23:40.89,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,782.5)\fs132\1c&H291748&}Yu
-Dialogue: 1,0:23:40.85,0:23:40.89,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,782.5)\fs132\1c&H4E1A40&}Love
 Dialogue: 1,0:23:40.89,0:23:40.94,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,783)\fs134\1c&H351B5A&}Yu
 Dialogue: 1,0:23:40.89,0:23:40.94,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,783)\fs134\1c&H5B1C4A&}Love,
-Dialogue: 1,0:23:40.89,0:23:40.94,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,783)\fs134\1c&H351B5A&}Yu
-Dialogue: 1,0:23:40.89,0:23:40.94,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,783)\fs134\1c&H5B1C4A&}Love
 Dialogue: 1,0:23:40.94,0:23:40.98,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,783.5)\fs136\1c&H40216A&}Yu
 Dialogue: 1,0:23:40.94,0:23:40.98,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,783.5)\fs136\1c&H6C1E58&}Love,
-Dialogue: 1,0:23:40.94,0:23:40.98,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,783.5)\fs136\1c&H40216A&}Yu
-Dialogue: 1,0:23:40.94,0:23:40.98,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,783.5)\fs136\1c&H6C1E58&}Love
 Dialogue: 1,0:23:40.98,0:23:41.02,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,784)\fs138\1c&H472479&}Yu
 Dialogue: 1,0:23:40.98,0:23:41.02,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,784)\fs138\1c&H7D2165&}Love,
-Dialogue: 1,0:23:40.98,0:23:41.02,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,784)\fs138\1c&H472479&}Yu
-Dialogue: 1,0:23:40.98,0:23:41.02,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,784)\fs138\1c&H7D2165&}Love
 Dialogue: 1,0:23:41.02,0:23:41.06,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,784.5)\fs140\1c&H4E2486&}Yu
 Dialogue: 1,0:23:41.02,0:23:41.06,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,784.5)\fs140\1c&H8B236F&}Love,
-Dialogue: 1,0:23:41.02,0:23:41.06,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,784.5)\fs140\1c&H4E2486&}Yu
-Dialogue: 1,0:23:41.02,0:23:41.06,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,784.5)\fs140\1c&H8B236F&}Love
 Dialogue: 1,0:23:41.06,0:23:41.10,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,785)\fs142\1c&H582895&}Yu
 Dialogue: 1,0:23:41.06,0:23:41.10,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,785)\fs142\1c&H9D277C&}Love,
-Dialogue: 1,0:23:41.06,0:23:41.10,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,785)\fs142\1c&H582895&}Yu
-Dialogue: 1,0:23:41.06,0:23:41.10,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,785)\fs142\1c&H9D277C&}Love
 Dialogue: 1,0:23:41.10,0:23:41.14,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,785.5)\fs144\1c&H602BA7&}Yu
 Dialogue: 1,0:23:41.10,0:23:41.14,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,785.5)\fs144\1c&HA82987&}Love,
-Dialogue: 1,0:23:41.10,0:23:41.14,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,785.5)\fs144\1c&H602BA7&}Yu
-Dialogue: 1,0:23:41.10,0:23:41.14,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,785.5)\fs144\1c&HA82987&}Love
 Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,786)\fs146\1c&H642CB0&}Yu
 Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,786)\fs146\1c&HB32A92&}Love,
-Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,786)\fs146\1c&H642CB0&}Yu
-Dialogue: 1,0:23:41.14,0:23:41.19,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,786)\fs146\1c&HB32A92&}Love
 Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,786.5)\fs148\1c&H6A30BA&}Yu
 Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,786.5)\fs148\1c&HBF2D9B&}Love,
-Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,786.5)\fs148\1c&H6A30BA&}Yu
-Dialogue: 1,0:23:41.19,0:23:41.23,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,786.5)\fs148\1c&HBF2D9B&}Love
 Dialogue: 1,0:23:41.23,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(702,787)\fs150\1c&H6F31C0&}Yu
 Dialogue: 1,0:23:41.23,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1407,787)\fs150\1c&HCE30A5&}Love,
-Dialogue: 1,0:23:41.23,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\an3\be25\pos(712,787)\fs150\1c&H6F31C0&}Yu
-Dialogue: 1,0:23:41.23,0:23:42.52,Next Episode Title (Yukako),sign,0,0,0,,{\an2\be25\pos(1417,787)\fs150\1c&HCE30A5&}Love
 

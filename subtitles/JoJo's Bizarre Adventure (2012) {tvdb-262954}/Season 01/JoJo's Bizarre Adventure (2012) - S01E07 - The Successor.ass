@@ -47,12 +47,11 @@ Style: SFXPurp - Copy,Rene Levesque,80,&H00C053B6,&H000000FF,&H00120D13,&H000000
 Style: SFXRed 2,Franc Gothique Brush,150,&H0013096A,&H000000FF,&H0007070E,&H00000000,0,0,0,0,120,100,0,0,1,11,0,8,50,40,20,1
 Style: SFXOang - Copy,LeviNaiveLetter,140,&H00268FF3,&H000000FF,&H00030A24,&H00000000,0,0,0,0,120,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXPurp4,KG Turning Tables,150,&H00F43E9E,&H000000FF,&H001A0D12,&H00000000,0,0,0,0,120,100,0,0,1,9,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:03.77,0:00:09.57,Title,,0,0,0,,{\fad(1000,800)\fs(100)\pos(960,800)\bord3\blur2}- 1863 Tibet -
-Dialogue: 1,0:00:03.77,0:00:09.57,Title,,0,0,0,,{\fad(1000,800)\fs(100)\pos(960,800)}- 1863 Tibet -
 Dialogue: 0,0:00:18.78,0:00:23.34,Dubtitles,,0,0,0,,For three years you have endured\Nand survived our training.
 Dialogue: 0,0:00:23.72,0:00:28.32,Dubtitles,,0,0,0,,You can run for unimaginable\Ndistances and not be short of breath.
 Dialogue: 0,0:00:29.04,0:00:32.14,Dubtitles,,0,0,0,,Soon you will be ready\Nto begin the intense
@@ -74,23 +73,21 @@ Dialogue: 0,0:01:21.46,0:01:26.26,Dubtitles,,0,0,0,,If I know how much time I ha
 Dialogue: 0,0:01:27.24,0:01:29.12,Dubtitles,,0,0,0,,I will accept it.
 Dialogue: 0,0:01:30.62,0:01:34.86,Dubtitles,,0,0,0,,So, let it be done if\Nthat is what you believe.
 Dialogue: 0,0:01:35.50,0:01:36.72,Dubtitles,,0,0,0,,Know this.
-Dialogue: 0,0:01:46.76,0:01:50.56,Dubtitles,,0,0,0,,In an ancient chamber\Nhidden from the light and
-Dialogue: 0,0:01:50.64,0:01:55.04,Dubtitles,,0,0,0,,reeking of death a child\Nshall open the way for You
+Dialogue: 0,0:01:46.76,0:01:50.56,Dubtitles,,0,0,0,,In an ancient chamber,\Nhidden from the light, and
+Dialogue: 0,0:01:50.64,0:01:55.04,Dubtitles,,0,0,0,,reeking of death a child\Nshall open the way for you
 Dialogue: 0,0:01:55.12,0:01:59.38,Dubtitles,,0,0,0,,to unchain a young lion\Nand release him into the
-Dialogue: 0,0:01:59.46,0:02:03.84,Dubtitles,,0,0,0,,future of his destiny you\Nwill burn your own Wounds,
-Dialogue: 0,0:02:04.22,0:02:09.66,Dubtitles,,0,0,0,,then freely Will you open your arms\NTo the cruel death that awaits? you.
-Dialogue: 0,0:02:14.18,0:02:18.32,Dubtitles,,0,0,0,,Baron Zeppeli, be careful? my friend.
-Dialogue: 0,0:02:22.16,0:02:23.90,Dubtitles,,0,0,0,,Here I come, Jojo.
-Dialogue: 0,0:02:28.18,0:02:31.58,Dubtitles,,0,0,0,,To unchain a young lion and release?
-Dialogue: 0,0:02:31.66,0:02:33.72,Dubtitles,,0,0,0,,him into the future of his destiny.
+Dialogue: 0,0:01:59.46,0:02:03.84,Dubtitles,,0,0,0,,future of his destiny you\Nwill burn your own wounds,
+Dialogue: 0,0:02:04.22,0:02:09.66,Dubtitles,,0,0,0,,then freely will you open your arms\Nto the cruel death that awaits you.
+Dialogue: 0,0:02:14.18,0:02:18.32,Dubtitles,,0,0,0,,Baron Zeppeli, be careful, my friend.
+Dialogue: 0,0:02:22.16,0:02:23.90,Dubtitles,,0,0,0,,Here I come, Jojo!
+Dialogue: 0,0:02:28.18,0:02:33.68,Dubtitles,,0,0,0,,To unchain a young lion and release\Nhim into the future of his destiny.
 Dialogue: 1,0:02:44.05,0:02:49.18,Lyrics OP1 Jap,,0,0,0,,Sora! Koboreochita futatsu no hoshi ga
 Dialogue: 1,0:02:44.05,0:02:49.18,Lyrics OP1 Eng,,0,0,0,,Two stars fall from the sky
-Dialogue: 1,0:02:44.05,0:02:49.18,Lyrics OP1 Jap,,0,0,0,,Sora koboreochita futatsu no hoshi ga
 Dialogue: 1,0:02:50.26,0:02:56.85,Lyrics OP1 Jap,,0,0,0,,Hikari to yami no minamo suikomareteyuku
 Dialogue: 1,0:02:50.26,0:02:56.85,Lyrics OP1 Eng,,0,0,0,,One shining in the light, the other sinking into darkness
 Dialogue: 1,0:02:56.85,0:03:02.28,Lyrics OP1 Jap,,0,0,0,,Hikiau you ni kasanaru hamon
 Dialogue: 1,0:02:56.85,0:03:02.28,Lyrics OP1 Eng,,0,0,0,,A ripple drawing the two of them together
-Dialogue: 0,0:03:05.68,0:03:09.96,Dubtitles,,0,0,0,,I love you. I love you.
+Dialogue: 0,0:03:05.68,0:03:09.96,Dubtitles,,0,0,0,,I love you, I love you.
 Dialogue: 1,0:03:06.70,0:03:13.33,Lyrics OP1 Jap,,0,0,0,,Hokori no michi wo yuku mono ni taiyo no michibiki wo
 Dialogue: 1,0:03:06.70,0:03:13.33,Lyrics OP1 Eng,,0,0,0,,One will walk the path of pride and receive the sun's guidance
 Dialogue: 1,0:03:06.70,0:03:13.33,Lyrics OP1 Jap,,0,0,0,,Hokori no michi wo yuku mono ni taiyou no michibiki wo
@@ -98,30 +95,27 @@ Dialogue: 1,0:03:13.33,0:03:19.46,Lyrics OP1 Jap,,0,0,0,,Yabou no hate wo mezasu
 Dialogue: 1,0:03:13.33,0:03:19.46,Lyrics OP1 Eng,,0,0,0,,One will walk the path of unbridled ambition...
 Dialogue: 1,0:03:19.46,0:03:20.88,Lyrics OP1 Jap,,0,0,0,,Ikenie wo!
 Dialogue: 1,0:03:19.46,0:03:20.88,Lyrics OP1 Eng,,0,0,0,,Demanding sacrifice!
-Dialogue: 1,0:03:19.46,0:03:20.88,Lyrics OP1 Jap,,0,0,0,,Ikenie wo
 Dialogue: 1,0:03:26.72,0:03:31.60,Lyrics OP1 Jap,,0,0,0,,Furueru hodo kokoro moetsukiru hodo atsuku
 Dialogue: 1,0:03:26.72,0:03:31.60,Lyrics OP1 Eng,,0,0,0,,Let that burning in your soul calm the trembling of your heart
 Dialogue: 1,0:03:31.60,0:03:34.93,Lyrics OP1 Jap,,0,0,0,,Sono te kara hanate kodou
 Dialogue: 1,0:03:31.60,0:03:34.93,Lyrics OP1 Eng,,0,0,0,,Strike down your fears,
-Dialogue: 0,0:03:31.66,0:03:32.98,Dubtitles,,0,0,0,,I just had a heart.
-Dialogue: 0,0:03:33.50,0:03:37.18,Dubtitles,,0,0,0,,I'm going to make you move on my Pode.
+Dialogue: 0,0:03:31.66,0:03:35.08,Dubtitles,,0,0,0,,I'll give it a hand to\Nthe heart. I'll give
 Dialogue: 1,0:03:34.93,0:03:38.39,Lyrics OP1 Jap,,0,0,0,,Karada minagiru yuki de
 Dialogue: 1,0:03:34.93,0:03:38.39,Lyrics OP1 Eng,,0,0,0,,With courage coursing through your veins!
 Dialogue: 1,0:03:34.93,0:03:38.39,Lyrics OP1 Jap,,0,0,0,,Karada minagiru yuuki de
+Dialogue: 0,0:03:35.16,0:03:38.80,Dubtitles,,0,0,0,,It takes courage to do the
 Dialogue: 1,0:03:38.39,0:03:45.07,Lyrics OP1 Jap,,0,0,0,,Mayoi naki kakugo ni kassai wo
 Dialogue: 1,0:03:38.39,0:03:45.07,Lyrics OP1 Eng,,0,0,0,,You cannot overcome your pain unless you can accept...
 Dialogue: 1,0:03:38.39,0:03:45.07,Lyrics OP1 Jap,,0,0,0,,Mayou naki kakugo ni kassai wo
-Dialogue: 0,0:03:38.58,0:03:40.70,Dubtitles,,0,0,0,,I'm not that you're only a good cuz.
-Dialogue: 0,0:03:44.44,0:03:46.40,Dubtitles,,0,0,0,,We're the future.
+Dialogue: 0,0:03:38.88,0:03:44.70,Dubtitles,,0,0,0,,Courage, I'll give it.
+Dialogue: 0,0:03:44.78,0:03:45.98,Dubtitles,,0,0,0,,A courage to make my life. I'll give it.
 Dialogue: 1,0:03:45.07,0:03:49.07,Lyrics OP1 Jap,,0,0,0,,Sono chi no sadame!
 Dialogue: 1,0:03:45.07,0:03:49.07,Lyrics OP1 Eng,,0,0,0,,The legacy of your bloodline!
-Dialogue: 1,0:03:45.07,0:03:49.07,Lyrics OP1 Jap,,0,0,0,,Sono chi no sadame
+Dialogue: 0,0:03:46.06,0:03:52.24,Dubtitles,,0,0,0,,Courage to do the death\Nof my destiny. Judge your.
 Dialogue: 1,0:03:49.07,0:03:52.87,Lyrics OP1 Jap,,0,0,0,,JoJo!
-Dialogue: 1,0:03:49.07,0:03:52.87,Lyrics OP1 Jap,,0,0,0,,Jojo!
-Dialogue: 0,0:03:50.20,0:03:52.24,Dubtitles,,0,0,0,,Judge You!
 Dialogue: 1,0:04:04.72,0:04:09.47,Title,,0,0,0,,{\fs70\fad(700,0)\pos(1345,830)\bord3.5\blur2}Episode 7: "The Successor"
 Dialogue: 1,0:04:04.72,0:04:09.47,Title,,0,0,0,,{\fs70\fad(700,0)\pos(1345,830)}Episode 7: "Sorrowful Successor"
-Dialogue: 0,0:04:16.84,0:04:18.50,Dubtitles,,0,0,0,,I can't fudge this collar.
+Dialogue: 0,0:04:16.84,0:04:18.50,Dubtitles,,0,0,0,,I can't budge this collar.
 Dialogue: 0,0:04:19.70,0:04:20.53,Dubtitles,,0,0,0,,Strange.
 Dialogue: 0,0:04:20.64,0:04:21.62,Dubtitles,,0,0,0,,For some reason,
 Dialogue: 0,0:04:21.74,0:04:25.20,Dubtitles,,0,0,0,,Tarkus hasn't made a display of his\Ntricks for fighting in this room.
@@ -129,7 +123,7 @@ Dialogue: 0,0:04:25.28,0:04:26.84,Dubtitles,,0,0,0,,That worries me.
 Dialogue: 0,0:04:27.10,0:04:28.52,Dubtitles,,0,0,0,,Come to me, fools.
 Dialogue: 0,0:04:29.00,0:04:31.36,Dubtitles,,0,0,0,,You think your hormone will do any good?
 Dialogue: 0,0:04:31.66,0:04:36.58,Dubtitles,,0,0,0,,You little bugs can't lay a finger on\Nme, no matter how hard you may try!
-Dialogue: 0,0:04:38.16,0:04:40.94,Dubtitles,,0,0,0,,You afraid to go to Africa yourself?
+Dialogue: 0,0:04:38.16,0:04:40.94,Dubtitles,,0,0,0,,Are you afraid to go to soil yourself?
 Dialogue: 0,0:04:50.90,0:04:52.46,Dubtitles,,0,0,0,,Masterfully played, Baron.
 Dialogue: 0,0:05:00.38,0:05:04.62,Dubtitles,,0,0,0,,Here we go, how about\Nthis, Tornado Overdrive?
 Dialogue: 0,0:05:06.54,0:05:07.96,Dubtitles,,0,0,0,,Watch your back!
@@ -331,7 +325,7 @@ Dialogue: 1,0:05:13.08,0:05:13.12,SFXPurp - Copy,1,0,0,0,,{=52}{\blur0.9\frz65.3
 Dialogue: 2,0:05:13.08,0:05:13.12,SFXPurp - Copy,1,0,0,0,,{=52}{\bord0\blur0.9\frz65.35\pos(1039.79,261.43)\4a&HFF&}Doom
 Dialogue: 0,0:05:14.48,0:05:17.14,Dubtitles,,0,0,0,,What do you know, you're both right!
 Dialogue: 0,0:05:19.00,0:05:22.44,Dubtitles,,0,0,0,,I call it Hell Heaven, Snake Kick!
-Dialogue: 0,0:05:37.28,0:05:42.64,Dubtitles,,0,0,0,,I, I can't breathe, my hormone\Nwon't manifest. Let's do it!
+Dialogue: 0,0:05:37.28,0:05:42.64,Dubtitles,,0,0,0,,I, I can't breathe, my Hamon\Nwon't manifest. Let's do it!
 Dialogue: 1,0:05:54.29,0:05:54.33,SFXRed 2,2,0,0,0,,{=66}{\bord21.64\fscx236.05\fscy196.71\frz3.937\pos(831.2,994.08)}Slash
 Dialogue: 1,0:05:54.33,0:05:54.37,SFXRed 2,2,0,0,0,,{=66}{\bord16.29\fscx177.73\fscy148.11\frz3.937\pos(831.06,888.78)}Slash
 Dialogue: 1,0:05:54.37,0:05:54.41,SFXRed 2,2,0,0,0,,{=66}{\bord10.94\fscx119.36\fscy99.46\frz3.937\pos(828.72,829.51)}Slash
@@ -642,7 +636,7 @@ Dialogue: 1,0:07:45.65,0:07:45.69,SFXYellow,4,0,0,0,,{=55}{\blur8\bord9.54\fscx1
 Dialogue: 2,0:07:45.65,0:07:45.69,SFXYellow,4,0,0,0,,{=55}{\blur1.1\bord9.54\fscx137.82\fscy106.01\frz358.1\pos(1268.16,216.68)\c&H0B2948&}Aghh!
 Dialogue: 3,0:07:45.65,0:07:45.69,SFXYellow,4,0,0,0,,{=55}{\blur1.1\bord0\fscx137.82\fscy106.01\frz358.1\pos(1268.16,216.68)\4a&HFF&}Aghh!
 Dialogue: 0,0:08:04.64,0:08:05.48,Dubtitles,,0,0,0,,Gun!
-Dialogue: 0,0:08:06.24,0:08:07.07,Dubtitles,,0,0,0,,Jojo,
+Dialogue: 0,0:08:06.24,0:08:07.07,Dubtitles,,0,0,0,,Jojo...
 Dialogue: 0,0:08:07.34,0:08:12.52,Dubtitles,,0,0,0,,I have passed on to you all the hormone\Nwhich was mine to control in this life.
 Dialogue: 0,0:08:22.18,0:08:23.50,Dubtitles,,0,0,0,,Go, dear friend.
 Dialogue: 0,0:08:25.28,0:08:26.12,Dubtitles,,0,0,0,,Go.
@@ -940,7 +934,7 @@ Dialogue: 2,0:08:51.80,0:08:51.84,SFXCrimson,6,0,0,0,,{=65}{\bord0\blur0.8\fade(
 Dialogue: 0,0:08:54.30,0:08:56.32,Dubtitles,,0,0,0,,You can't do this!
 Dialogue: 0,0:08:58.06,0:08:58.89,Dubtitles,,0,0,0,,What?
 Dialogue: 0,0:08:58.98,0:09:02.12,Dubtitles,,0,0,0,,He hauled Tarkus off the\Nground like a sack of turnips!
-Dialogue: 0,0:09:02.20,0:09:05.38,Dubtitles,,0,0,0,,It's as if the Baron's hormone\Nhealed his broken neck!
+Dialogue: 0,0:09:02.20,0:09:05.38,Dubtitles,,0,0,0,,It's as if the Baron's Hamon\Nhealed his broken neck!
 Dialogue: 0,0:09:07.48,0:09:10.96,Dubtitles,,0,0,0,,Numskull, you actually think\Nyou can yank that collar open?
 Dialogue: 0,0:09:11.04,0:09:13.36,Dubtitles,,0,0,0,,You pathetic waste of flesh!
 Dialogue: 0,0:09:13.84,0:09:16.30,Dubtitles,,0,0,0,,I couldn't pull apart\Nthose steel bands even
@@ -1278,7 +1272,7 @@ Dialogue: 0,0:09:39.36,0:09:41.22,Dubtitles,,0,0,0,,Yes, no human feeling.
 Dialogue: 0,0:09:41.68,0:09:46.08,Dubtitles,,0,0,0,,You gave up your redemption when\Nyou chose to follow Dio, Tarkus.
 Dialogue: 0,0:10:04.12,0:10:06.28,Dubtitles,,0,0,0,,Look at that, his hormones visible.
 Dialogue: 0,0:10:06.58,0:10:08.99,Dubtitles,,0,0,0,,His body can barely contain its strength.
-Dialogue: 0,0:10:09.36,0:10:13.68,Dubtitles,,0,0,0,,The Baron's Hormone joined and\Nmultiplied incredibly with Jonathan's.
+Dialogue: 0,0:10:09.36,0:10:13.68,Dubtitles,,0,0,0,,The Baron's Hamon joined and\Nmultiplied incredibly with Jonathan's.
 Dialogue: 0,0:10:13.84,0:10:15.96,Dubtitles,,0,0,0,,There's been nothing like this ever.
 Dialogue: 0,0:10:16.66,0:10:20.58,Dubtitles,,0,0,0,,Tarkus, you cannot be allowed\Nto continue. This is clear.
 Dialogue: 0,0:10:21.38,0:10:23.82,Dubtitles,,0,0,0,,Your evil spirit must be banished.
@@ -1441,10 +1435,10 @@ Dialogue: 4,0:10:38.90,0:10:38.95,SFXGold,11,0,0,0,,{=68}{\blur0.9\bord0\fscx113
 Dialogue: 2,0:10:38.95,0:10:38.99,SFXGold,11,0,0,0,,{=68}{\blur7\bord9.5\fscx113.97\fscy94.97\frz346.2\pos(1393.31,533.78)\alpha&H80&}Whoom
 Dialogue: 3,0:10:38.95,0:10:38.99,SFXGold,11,0,0,0,,{=68}{\blur0.9\bord9.5\fscx113.97\fscy94.97\frz346.2\pos(1393.31,533.78)\c&H071620&}Whoom
 Dialogue: 4,0:10:38.95,0:10:38.99,SFXGold,11,0,0,0,,{=68}{\blur0.9\bord0\fscx113.97\fscy94.97\frz346.2\pos(1393.31,533.78)\4a&HFF&}Whoom
-Dialogue: 0,0:10:40.66,0:10:41.64,Dubtitles,,0,0,0,,Cairo!
-Dialogue: 0,0:10:44.26,0:10:45.24,Dubtitles,,0,0,0,,Cairo!
-Dialogue: 0,0:10:45.94,0:10:46.77,Dubtitles,,0,0,0,,Cairo! Cairo!
-Dialogue: 0,0:10:46.85,0:10:47.68,Dubtitles,,0,0,0,,Cairo!
+Dialogue: 0,0:10:40.66,0:10:41.64,Dubtitles,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:44.26,0:10:45.24,Dubtitles,,0,0,0,,Grrrr!
+Dialogue: 0,0:10:45.94,0:10:46.77,Dubtitles,,0,0,0,,Grrrr! Grrrr!
+Dialogue: 0,0:10:46.85,0:10:47.68,Dubtitles,,0,0,0,,Grrrr!
 Dialogue: 0,0:10:47.77,0:10:48.60,Dubtitles,,0,0,0,,Well played!
 Dialogue: 0,0:11:13.14,0:11:13.97,Dubtitles,,0,0,0,,Berencippoli!
 Dialogue: 0,0:11:16.46,0:11:17.46,Dubtitles,,0,0,0,,Speak to me.
@@ -1452,11 +1446,10 @@ Dialogue: 0,0:11:22.86,0:11:24.42,Dubtitles,,0,0,0,,This is all...
 Dialogue: 0,0:11:25.38,0:11:27.00,Dubtitles,,0,0,0,,so terribly wrong.
 Dialogue: 0,0:11:29.98,0:11:31.88,Dubtitles,,0,0,0,,Without you beside me,
 Dialogue: 0,0:11:32.92,0:11:37.39,Dubtitles,,0,0,0,,without your wisdom and guidance, how\Nwill I make my way through this world?
-Dialogue: 0,0:11:39.38,0:11:43.74,Dubtitles,,0,0,0,,Jojo, you simply must\Npull yourself together.
-Dialogue: 0,0:11:44.90,0:11:48.06,Dubtitles,,0,0,0,,You've no time to waste now!
-Dialogue: 0,0:11:50.64,0:11:54.06,Dubtitles,,0,0,0,,You know what lies ahead?
-Dialogue: 0,0:11:58.34,0:12:00.92,Dubtitles,,0,0,0,,Now go, leave me.
-Dialogue: 0,0:12:01.00,0:12:04.56,Dubtitles,,0,0,0,,Settle accounts with Dio.
+Dialogue: 0,0:11:39.38,0:11:43.74,Dubtitles,,0,0,0,,Jojo, you simply must\Npull yourself together
+Dialogue: 0,0:11:44.90,0:11:48.06,Dubtitles,,0,0,0,,You've no time to waste now.
+Dialogue: 0,0:11:50.64,0:11:54.06,Dubtitles,,0,0,0,,You know what lies ahead
+Dialogue: 0,0:11:58.34,0:12:04.56,Dubtitles,,0,0,0,,Now go, leave me Settle accounts with Dio
 Dialogue: 0,0:12:06.42,0:12:11.88,Dubtitles,,0,0,0,,But first of all, you must\Ndestroy the mask separately.
 Dialogue: 0,0:12:15.36,0:12:17.40,Dubtitles,,0,0,0,,Please don't cry.
 Dialogue: 0,0:12:18.58,0:12:20.14,Dubtitles,,0,0,0,,No tears.
@@ -1468,12 +1461,12 @@ Dialogue: 0,0:12:38.14,0:12:41.86,Dubtitles,,0,0,0,,However, I've never\Nregrett
 Dialogue: 0,0:12:42.34,0:12:45.06,Dubtitles,,0,0,0,,I accept it completely.
 Dialogue: 0,0:12:49.18,0:12:50.54,Dubtitles,,0,0,0,,And it's good.
 Dialogue: 0,0:12:51.42,0:12:55.76,Dubtitles,,0,0,0,,In the end, I can see that\Nmy choice was the right one.
-Dialogue: 0,0:12:58.46,0:13:02.16,Dubtitles,,0,0,0,,Jojo, you are my deliverance.
-Dialogue: 0,0:13:03.10,0:13:04.54,Dubtitles,,0,0,0,,Baron Zeppelin
-Dialogue: 0,0:13:05.62,0:13:11.38,Dubtitles,,0,0,0,,It seems to me that in you I have found\Nboth a best friend and a new family.
+Dialogue: 0,0:12:58.46,0:13:02.16,Dubtitles,,0,0,0,,JoJo, you are my living hope.
+Dialogue: 0,0:13:03.10,0:13:04.54,Dubtitles,,0,0,0,,Baron Zeppeli...
+Dialogue: 0,0:13:05.62,0:13:11.38,Dubtitles,,0,0,0,,It seems to me that in you I have found\Nboth a best friend and a new family
 Dialogue: 0,0:13:13.52,0:13:18.90,Dubtitles,,0,0,0,,Jojo, through you I will live on forever.
 Dialogue: 0,0:13:20.28,0:13:22.90,Dubtitles,,0,0,0,,My son, Jojo
-Dialogue: 0,0:13:32.08,0:13:37.52,Dubtitles,,0,0,0,,The 19th century novelist\NWilliam Makepeace Thackeray wrote
+Dialogue: 0,0:13:32.08,0:13:37.52,Dubtitles,,0,0,0,,The 19th century novelist William\NMakepeace Thackeray wrote.
 Dialogue: 0,0:13:38.68,0:13:42.50,Dubtitles,,0,0,0,,To love and win is the best thing.
 Dialogue: 0,0:13:43.78,0:13:49.00,Dubtitles,,0,0,0,,To love and lose is the next best
 Dialogue: 0,0:13:52.90,0:13:57.84,Dubtitles,,0,0,0,,And so it was that Jojo took\Nup his mentor's life quest,
@@ -1515,7 +1508,7 @@ Dialogue: 0,0:16:37.20,0:16:38.20,Dubtitles,,0,0,0,,Oi, Jonathan!
 Dialogue: 0,0:16:38.28,0:16:42.52,Dubtitles,,0,0,0,,Dio was swarming about, saying he'd\Nwipe out the town by tomorrow night.
 Dialogue: 0,0:16:43.04,0:16:46.80,Dubtitles,,0,0,0,,Zombies will multiply, like\Nrats breeding in a refuse heap.
 Dialogue: 0,0:16:47.94,0:16:50.47,Dubtitles,,0,0,0,,No telling what's been\Ngoing on down there.
-Dialogue: 0,0:16:50.78,0:16:53.90,Dubtitles,,0,0,0,,Is Wind Knight's lot alive or United?
+Dialogue: 0,0:16:50.78,0:16:53.90,Dubtitles,,0,0,0,,Is Wyn Knight's lot alive or United?
 Dialogue: 0,0:16:55.22,0:16:58.46,Dubtitles,,0,0,0,,My sister, is she all right? Let's see.
 Dialogue: 0,0:17:06.18,0:17:07.40,Dubtitles,,0,0,0,,Mr. Adams!
 Dialogue: 0,0:17:09.78,0:17:13.62,Dubtitles,,0,0,0,,Well, Pogo, what are you doing at this\Nhour of the night wandering the moors?
@@ -1987,7 +1980,7 @@ Dialogue: 1,0:22:37.83,0:22:41.42,Lyrics 2,Yes,0,0,0,,The music dance and sing
 Dialogue: 1,0:22:41.42,0:22:44.96,Lyrics 2,Yes,0,0,0,,They make the children really ring
 Dialogue: 0,0:22:42.30,0:22:49.04,Dubtitles,,0,0,0,,children really ring I\Nspend the day your way
 Dialogue: 1,0:22:44.96,0:22:50.30,Lyrics 2,Yes,0,0,0,,I'll spend the day your way
-Dialogue: 0,0:22:50.08,0:22:54.64,Dubtitles,,0,0,0,,Call it morning, driving through\Nthe sun. And in and out the valley
+Dialogue: 0,0:22:50.08,0:22:54.64,Dubtitles,,0,0,0,,Call it morning, driving through\Nthe sun, and in and out the valley.
 Dialogue: 1,0:22:50.30,0:22:52.93,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
 Dialogue: 1,0:22:52.93,0:22:56.98,Lyrics 2,Yes,0,0,0,,In and out the valley
 Dialogue: 0,0:22:56.78,0:22:59.42,Dubtitles,,0,0,0,,In and around the lake
@@ -1995,7 +1988,7 @@ Dialogue: 1,0:22:56.98,0:22:59.35,Lyrics 2,Yes,0,0,0,,In and around the lake
 Dialogue: 0,0:23:00.56,0:23:04.50,Dubtitles,,0,0,0,,Mountains come out of the\Nsky. And they stand there.
 Dialogue: 1,0:23:00.60,0:23:02.81,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
 Dialogue: 1,0:23:02.81,0:23:04.61,Lyrics 2,Yes,0,0,0,,and they stand there
-Dialogue: 0,0:23:07.66,0:23:11.30,Dubtitles,,0,0,0,,One mile over, we'll be\Nthere and we'll see you
+Dialogue: 0,0:23:07.66,0:23:11.30,Dubtitles,,0,0,0,,One mile over. We'll be\Nthere and we'll see you.
 Dialogue: 1,0:23:07.74,0:23:11.41,Lyrics 2,Yes,0,0,0,,One mile over we'll be there and we'll see you
 Dialogue: 0,0:23:14.06,0:23:17.68,Dubtitles,,0,0,0,,Ten true summers. We'll\Nbe there and laughing too.
 Dialogue: 1,0:23:14.20,0:23:17.87,Lyrics 2,Yes,0,0,0,,Ten true summers we'll be there and laughing too
@@ -2003,7 +1996,6 @@ Dialogue: 0,0:23:20.58,0:23:26.20,Dubtitles,,0,0,0,,Twenty-four. We'll be there 
 Dialogue: 1,0:23:20.62,0:23:24.29,Lyrics 2,Yes,0,0,0,,Twenty-four before my love you'll see I'll be
 Dialogue: 1,0:23:24.29,0:23:26.96,Lyrics 2,Yes,0,0,0,,There with you
 Dialogue: 1,0:23:27.46,0:23:29.47,Title,,0,0,0,,{\fs120\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:23:27.46,0:23:29.47,Title,,0,0,0,,{\fs120\pos(960,700)}Next Episode
 Dialogue: 0,0:23:30.14,0:23:31.48,Dubtitles,,0,0,0,,Run, run, run!
 Dialogue: 0,0:23:31.86,0:23:33.50,Dubtitles,,0,0,0,,Falaford, it didn't, you fool!
 Dialogue: 0,0:23:33.58,0:23:34.76,Dubtitles,,0,0,0,,Straightzo's my name.
@@ -2012,6 +2004,4 @@ Dialogue: 0,0:23:35.96,0:23:38.55,Dubtitles,,0,0,0,,I will feel no hint of\Nguil
 Dialogue: 0,0:23:39.30,0:23:40.36,Dubtitles,,0,0,0,,Come, JoJo!
 Dialogue: 1,0:23:40.48,0:23:42.48,Title,,0,0,0,,{\fs120\pos(960,290)\blur2}Episode 8:
 Dialogue: 1,0:23:40.48,0:23:42.48,Title,,0,0,0,,{\fs120\pos(960,765)\blur2\i1}"JoJo & Dio's Bloody Battle!"{\i0} {lit Bloody duel! JoJo & Dio}
-Dialogue: 1,0:23:40.48,0:23:42.48,Title,,0,0,0,,{\fs120\pos(960,290)}Episode 8:
-Dialogue: 1,0:23:40.48,0:23:42.48,Title,,0,0,0,,{\fs120\pos(960,765)}"Jojo & Dio's Bloody Battle!" {lit Bloody duel! Jojo & Dio}
 

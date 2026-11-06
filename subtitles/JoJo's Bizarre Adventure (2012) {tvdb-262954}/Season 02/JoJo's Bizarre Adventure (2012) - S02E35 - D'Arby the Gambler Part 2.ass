@@ -40,7 +40,7 @@ Style: SFXSun,Shaky Hand Some Comic Bold,150,&H006C69C4,&H000000FF,&H00080A0D,&H
 Style: SFXPurple - Copy,Evil Green Plant,155,&H0092586F,&H000000FF,&H00141A1A,&H00000000,-1,0,0,0,100,100,0,0,1,7.5,0,8,50,40,20,1
 Style: SFXPurple - Copy - Copy,Evil Green Plant,140,&H009F657C,&H000000FF,&H00141A1A,&H00000000,-1,0,0,0,100,100,0,0,1,7,0,8,50,40,20,1
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H0005060E,&H000000FF,&H00000000,&HBB0D0929,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -83,7 +83,7 @@ Dialogue: 0,0:02:10.99,0:02:13.99,Dubtitles,,0,0,0,,The page number is 538. 540?
 Dialogue: 0,0:02:14.21,0:02:16.27,Dubtitles,,0,0,0,,No, page 556.
 Dialogue: 0,0:02:18.19,0:02:19.79,Dubtitles,,0,0,0,,I still got it.
 Dialogue: 0,0:02:20.03,0:02:24.33,Dubtitles,,0,0,0,,My ability to discern page numbers\Nby touch is as sharp as ever.
-Dialogue: 0,0:02:24.83,0:02:29.13,Dubtitles,,0,0,0,,It's true that Jotaro's Star Platinum\Nhas incredible visual prowess,
+Dialogue: 0,0:02:24.83,0:02:29.13,Dubtitles,,0,0,0,,It's true that Jotaro's Star Platinum\Nhas incredible visual prowess.
 Dialogue: 0,0:02:29.27,0:02:33.75,Dubtitles,,0,0,0,,but I can remember the placement of\Nanything simply through the use of touch.
 Dialogue: 0,0:02:33.83,0:02:35.21,Dubtitles,,0,0,0,,Shuffle them all you want.
 Dialogue: 0,0:02:35.29,0:02:38.35,Dubtitles,,0,0,0,,I still know the exact\Nlocation of every card.
@@ -134,15 +134,16 @@ Dialogue: 0,0:05:20.95,0:05:22.11,Dubtitles,,0,0,0,,Most impressive.
 Dialogue: 0,0:05:23.25,0:05:25.99,Dubtitles,,0,0,0,,Successful cheating requires\Nthe element of surprise,
 Dialogue: 0,0:05:26.07,0:05:29.35,Dubtitles,,0,0,0,,and it takes more than\Nsharp eyes to prevent that.
 Dialogue: 0,0:05:29.59,0:05:33.47,Dubtitles,,0,0,0,,It appears I underestimated you\Nas you saw through my second deal.
-Dialogue: 0,0:05:33.69,0:05:36.91,Dubtitles,,0,0,0,,I'll accept my fractured\Nfinger as proper punishment,
+Dialogue: 0,0:05:33.69,0:05:36.91,Dubtitles,,0,0,0,,I'll accept my fractured\Nfinger as proper punishment.
 Dialogue: 0,0:05:37.23,0:05:41.63,Dubtitles,,0,0,0,,but from here on I'll devote my full\Nconcentration to winning the game.
 Dialogue: 0,0:05:42.53,0:05:43.36,Dubtitles,,0,0,0,,Jotaro.
 Dialogue: 0,0:05:44.05,0:05:48.59,Dubtitles,,0,0,0,,I've not done so since my\Ncolossal gamble on May 17th, 1986.
-Dialogue: 0,0:05:48.67,0:05:53.69,Dubtitles,,0,0,0,,I was playing against a Japanese\Nman known as Chase Mayama as the
-Dialogue: 0,0:05:53.77,0:05:57.65,Dubtitles,,0,0,0,,victor my spoils included his eight\NTokyo properties and his soul.
-Dialogue: 0,0:05:57.73,0:06:02.31,Dubtitles,,0,0,0,,I will say this for Mayama wealth\Ndidn't dull his gambler's instincts.
-Dialogue: 0,0:06:05.09,0:06:08.57,Dubtitles,,0,0,0,,It's only fair that I warn you I'm\Nnot here on behalf of Lord Dio.
-Dialogue: 0,0:06:08.65,0:06:12.06,Dubtitles,,0,0,0,,I am here due to the simple\Nfact that I am a born gambler.
+Dialogue: 0,0:05:48.67,0:05:52.45,Dubtitles,,0,0,0,,I was playing against a\NJapanese man known as Shozo.
+Dialogue: 0,0:05:52.53,0:05:55.71,Dubtitles,,0,0,0,,Mayama as the victor, my\Nspoils included his eight.
+Dialogue: 0,0:05:55.79,0:05:59.27,Dubtitles,,0,0,0,,Tokyo properties and his\Nsoul I will say this for
+Dialogue: 0,0:05:59.35,0:06:02.31,Dubtitles,,0,0,0,,Mayama wealth didn't dull\Nhis gambler's instincts.
+Dialogue: 0,0:06:05.09,0:06:08.15,Dubtitles,,0,0,0,,It's only fair that I warn you\NI'm not here on behalf of Lord
+Dialogue: 0,0:06:08.23,0:06:11.82,Dubtitles,,0,0,0,,Dio I am here due to the simple\Nfact that I am a born gambler
 Dialogue: 0,0:06:13.51,0:06:15.99,Dubtitles,,0,0,0,,What do you think you're\Ndoing those souls are mr.
 Dialogue: 0,0:06:16.07,0:06:17.42,Dubtitles,,0,0,0,,Joe stars and Bulgarefs
 Dialogue: 1,0:06:20.88,0:06:20.92,SFX,1.1,0,0,0,,{\blur6\frz7.882\pos(673.33,272)\alpha&H80&}Slash
@@ -755,7 +756,7 @@ Dialogue: 1,0:07:30.90,0:07:31.95,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\pos(14
 Dialogue: 2,0:07:30.90,0:07:31.95,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\pos(1485,781.857)\c&H212226&}D'Arby Elder
 Dialogue: 3,0:07:30.90,0:07:31.95,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\pos(1485,781.857)\shad1.5\4a&HFF&}D'Arby Elder
 Dialogue: 0,0:07:43.91,0:07:47.77,Dubtitles,,0,0,0,,For my opening action, I shall\Nbet one chip of Polnareff's soul.
-Dialogue: 0,0:07:50.21,0:07:51.17,Dubtitles,,0,0,0,,Let's begin!
+Dialogue: 0,0:07:50.21,0:07:51.17,Dubtitles,,0,0,0,,Let's begin.
 Dialogue: 0,0:07:51.73,0:07:56.49,Dubtitles,,0,0,0,,When beginning a new game of poker, each\Nplayer is dealt a total of five cards.
 Dialogue: 0,0:07:56.77,0:07:59.89,Dubtitles,,0,0,0,,Players can improve their\Nhand by swapping out cards.
 Dialogue: 0,0:08:02.49,0:08:04.99,Dubtitles,,0,0,0,,Though it seems\Nstraightforward on the surface,
@@ -848,7 +849,7 @@ Dialogue: 0,0:12:57.45,0:13:00.53,Dubtitles,,0,0,0,,Still, not looking at the\Nc
 Dialogue: 0,0:13:00.71,0:13:03.39,Dubtitles,,0,0,0,,He cut me by surprise, albeit briefly.
 Dialogue: 0,0:13:04.03,0:13:05.79,Dubtitles,,0,0,0,,It's clearly a bluff.
 Dialogue: 0,0:13:06.19,0:13:08.03,Dubtitles,,0,0,0,,How dare he bluff against me?
-Dialogue: 0,0:13:08.43,0:13:11.49,Dubtitles,,0,0,0,,Does the fool really think I'll fold?
+Dialogue: 0,0:13:08.43,0:13:11.49,Dubtitles,,0,0,0,,Does the fool really think\NI'll lie down and fold?
 Dialogue: 0,0:13:11.97,0:13:13.33,Dubtitles,,0,0,0,,Huh, very well.
 Dialogue: 0,0:13:14.33,0:13:18.21,Dubtitles,,0,0,0,,If that's your game, I'll match\Nyou with six Polnareff chips.
 Dialogue: 0,0:13:18.73,0:13:21.39,Dubtitles,,0,0,0,,And I raise you Joseph's soul.
@@ -875,7 +876,7 @@ Dialogue: 0,0:14:02.43,0:14:04.25,Dubtitles,,0,0,0,,How dare he try to bluff me.
 Dialogue: 0,0:14:04.63,0:14:06.28,Dubtitles,,0,0,0,,After I'm finished with him,
 Dialogue: 0,0:14:06.45,0:14:10.21,Dubtitles,,0,0,0,,that poker face will be a contorted\Nball of anguish and misery.
 Dialogue: 0,0:14:10.73,0:14:11.93,Dubtitles,,0,0,0,,Sounds like a plan.
-Dialogue: 0,0:14:13.19,0:14:15.43,Dubtitles,,0,0,0,,I'll see your bed with Kakyoin's soul.
+Dialogue: 0,0:14:13.19,0:14:15.43,Dubtitles,,0,0,0,,I'll bet Kakyoin's soul, too.
 Dialogue: 0,0:14:17.97,0:14:19.83,Dubtitles,,0,0,0,,Wait, Jotaro, you can't!
 Dialogue: 0,0:14:19.97,0:14:22.95,Dubtitles,,0,0,0,,Bedding a man's soul without\Nhis knowledge is so uncouth!
 Dialogue: 0,0:14:23.03,0:14:24.68,Dubtitles,,0,0,0,,Well, it is kind of selfish.
@@ -1190,9 +1191,9 @@ Dialogue: 0,0:16:30.81,0:16:34.46,Dubtitles,,0,0,0,,Why are you jumping the gun 
 Dialogue: 0,0:16:38.49,0:16:39.59,Dubtitles,,0,0,0,,Raise the pot?
 Dialogue: 0,0:16:39.77,0:16:42.42,Dubtitles,,0,0,0,,No, you don't have\Nanything to raise it with.
 Dialogue: 0,0:16:45.91,0:16:47.27,Dubtitles,,0,0,0,,That's where you're wrong.
-Dialogue: 0,0:16:47.35,0:16:50.05,Dubtitles,,0,0,0,,I'll raise you my mother's soul. What?
+Dialogue: 0,0:16:47.35,0:16:50.05,Dubtitles,,0,0,0,,I'll raise you my mother's soul. What?!
 Dialogue: 0,0:16:51.15,0:16:52.65,Dubtitles,,0,0,0,,Are you out of your mind?
-Dialogue: 0,0:16:52.97,0:16:55.62,Dubtitles,,0,0,0,,Jojuro, why would you\Nbet your mother's soul?
+Dialogue: 0,0:16:52.97,0:16:55.62,Dubtitles,,0,0,0,,Jotaro, why would you\Nbet your mother's soul?
 Dialogue: 1,0:16:56.72,0:16:56.76,SFXPurp,3,0,0,0,,{=0}{\bord9.81\fscx98.07\fscy98.07\blur0.78\frz34.32\pos(1654.33,-199.63)\c&H0F0D17&}Bang
 Dialogue: 2,0:16:56.72,0:16:56.76,SFXPurp,3,0,0,0,,{=0}{\bord0\fscx98.07\fscy98.07\blur0.78\frz34.32\pos(1654.33,-199.63)\4a&HFF&}Bang
 Dialogue: 1,0:16:56.76,0:16:56.80,SFXPurp,3,0,0,0,,{=0}{\bord9.81\fscx98.07\fscy98.07\blur0.78\frz34.32\pos(1655.36,-187.3)\c&H0F0D17&}Bang
@@ -1422,8 +1423,7 @@ Dialogue: 0,0:20:29.71,0:20:32.43,Dubtitles,,0,0,0,,Your hand was shit, absolute
 Dialogue: 1,0:20:29.72,0:20:29.76,SFXSun,4,0,0,0,,{\blur0.9\fscx130\fscy100\fade(255,0,255,-460,-360,60,60)\frz352.7\pos(1653,229.6)\c&H080A0D&}Stagger
 Dialogue: 2,0:20:29.72,0:20:29.76,SFXSun,4,0,0,0,,{\bord0\blur0.9\fscx130\fscy100\fade(255,0,255,-460,-360,60,60)\frz352.7\pos(1653,229.6)\4a&HFF&}S{*\c&H7166C1&}t{*\c&H7663BE&}a{*\c&H7A5FBB&}g{*\c&H7F5CB8&}g{\c&H8459B5&}er
 Dialogue: 0,0:20:33.13,0:20:35.57,Dubtitles,,0,0,0,,Even with Star Platinum's\Nincredible speed,
-Dialogue: 0,0:20:35.65,0:20:37.07,Dubtitles,,0,0,0,,he wouldn't have been able to swap cards?
-Dialogue: 0,0:20:37.15,0:20:39.11,Dubtitles,,0,0,0,,in front of an expert gambler like Darby.
+Dialogue: 0,0:20:35.65,0:20:39.11,Dubtitles,,0,0,0,,he wouldn't have been able to swap cards\Nin front of an expert gambler like Darby.
 Dialogue: 0,0:20:39.19,0:20:41.15,Dubtitles,,0,0,0,,It's a good thing my\Nbluff and intimidation
 Dialogue: 0,0:20:41.23,0:20:44.09,Dubtitles,,0,0,0,,worked so well with such a worthless hand.
 Dialogue: 0,0:20:44.39,0:20:47.35,Dubtitles,,0,0,0,,Good grief, had I known it was\Nthis crappy, I would have freaked.

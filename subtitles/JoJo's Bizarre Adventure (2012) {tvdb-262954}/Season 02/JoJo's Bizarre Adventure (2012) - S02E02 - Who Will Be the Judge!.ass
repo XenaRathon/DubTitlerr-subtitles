@@ -53,11 +53,11 @@ Style: SFXGreen2,Shaky Hand Some Comic,170,&H7678F24D,&H000000FF,&H001A2F1B,&H52
 Style: SFXFinalStageShingo,Franciscan,150,&H0076AED0,&H000000FF,&H001B2324,&H00000000,0,0,0,0,170,100,0,0,1,7,0,8,50,40,20,1
 Style: SFXYellow2,Shaky Hand Some Comic Bold,170,&H00395CC0,&H000000FF,&H00101632,&H00000000,-1,0,0,0,130,100,0,0,1,10,0,7,50,40,20,1
 Style: SFXBlue2,d puntillas D to tiptoe,210,&H00822D24,&H000000FF,&H001A0506,&H0043040B,-1,0,0,0,80,100,0,0,1,8,9,7,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.56,Dubtitles,,0,0,0,,Previously on JoJo's Bizarre Adventure!
+Dialogue: 0,0:00:00.00,0:00:02.56,Dubtitles,,0,0,0,,Previously on JoJo's Bizarre Adventure...
 Dialogue: 0,0:00:06.70,0:00:07.56,Dubtitles,,0,0,0,,Come out.
 Dialogue: 0,0:00:07.86,0:00:09.44,Dubtitles,,0,0,0,,It's time to go home.
 Dialogue: 0,0:00:09.68,0:00:10.78,Dubtitles,,0,0,0,,Ugh, get lost.
@@ -201,7 +201,7 @@ Dialogue: 0,0:01:17.40,0:01:20.82,Dubtitles,,0,0,0,,When they discovered it four
 Dialogue: 0,0:01:20.90,0:01:23.92,Dubtitles,,0,0,0,,but I know exactly what was inside it.
 Dialogue: 0,0:01:24.00,0:01:27.14,Dubtitles,,0,0,0,,Avdol and I are trying to\Nlocate him as we speak.
 Dialogue: 0,0:01:27.44,0:01:29.24,Dubtitles,,0,0,0,,That person is evil incarnate!
-Dialogue: 0,0:01:29.48,0:01:31.16,Dubtitles,,0,0,0,,And his name is Dio!
+Dialogue: 0,0:01:29.48,0:01:31.16,Dubtitles,,0,0,0,,And his name is DIO!
 Dialogue: 0,0:01:31.62,0:01:35.08,Dubtitles,,0,0,0,,And now that he has been awakened\Nfrom his hundred-year slumber,
 Dialogue: 0,0:01:35.16,0:01:38.24,Dubtitles,,0,0,0,,it is our fate to fight that man!
 Dialogue: 0,0:01:38.76,0:01:42.72,Dubtitles,,0,0,0,,From the neck of this bastard\Non down is Jonathan Joestar!
@@ -551,20 +551,19 @@ Dialogue: 0,0:02:37.56,0:02:38.39,Dubtitles,,0,0,0,,What's going on, Jojo?
 Dialogue: 0,0:02:38.47,0:02:39.90,Dubtitles,,0,0,0,,So tell me, Jojo, where have you been?
 Dialogue: 0,0:02:39.98,0:02:42.39,Dubtitles,,0,0,0,,You haven't been to school for four days!
 Dialogue: 0,0:02:44.02,0:02:44.85,Dubtitles,,0,0,0,,Hey!
-Dialogue: 0,0:02:45.62,0:02:48.24,Dubtitles,,0,0,0,,Who do you think you are,\Ngrabbing off to Jojo like that?
+Dialogue: 0,0:02:45.62,0:02:48.24,Dubtitles,,0,0,0,,Who do you think you are,\Ngrabbing on to JoJo like that?
 Dialogue: 0,0:02:48.32,0:02:50.06,Dubtitles,,0,0,0,,I don't like how friendly\Nyou're getting with him.
 Dialogue: 0,0:02:50.14,0:02:50.97,Dubtitles,,0,0,0,,Stay away!
 Dialogue: 0,0:02:51.05,0:02:51.88,Dubtitles,,0,0,0,,What the hell, ugly?
 Dialogue: 0,0:02:51.97,0:02:53.08,Dubtitles,,0,0,0,,I'd be careful there.
 Dialogue: 0,0:02:53.16,0:02:53.99,Dubtitles,,0,0,0,,No boobs.
-Dialogue: 0,0:02:55.26,0:02:57.78,Dubtitles,,0,0,0,,Ugly... No boobs... Ugly... Ugly...
-Dialogue: 0,0:02:57.86,0:03:00.80,Dubtitles,,0,0,0,,Ugly...
-Dialogue: 0,0:03:00.88,0:03:07.88,Dubtitles,,0,0,0,,supplemental...
-Dialogue: 0,0:03:08.06,0:03:08.98,Dubtitles,,0,0,0,,Shut up!
+Dialogue: 0,0:02:55.28,0:02:56.11,Dubtitles,,0,0,0,,Ugly!
+Dialogue: 0,0:02:56.19,0:02:57.02,Dubtitles,,0,0,0,,No boobs
+Dialogue: 0,0:03:07.64,0:03:09.00,Dubtitles,,0,0,0,,Shut up!
 Dialogue: 0,0:03:09.20,0:03:10.67,Dubtitles,,0,0,0,,You're freaking annoying!
-Dialogue: 0,0:03:12.52,0:03:14.78,Dubtitles,,0,0,0,,aggh, he totally said that to me!
-Dialogue: 0,0:03:15.06,0:03:17.10,Dubtitles,,0,0,0,,Uh, me...
-Dialogue: 0,0:03:18.84,0:03:19.67,Dubtitles,,0,0,0,,JoJo...
+Dialogue: 0,0:03:12.32,0:03:13.15,Dubtitles,,0,0,0,,Ah!
+Dialogue: 0,0:03:13.34,0:03:15.54,Dubtitles,,0,0,0,,He totally said that to me! Me?
+Dialogue: 0,0:03:18.68,0:03:19.86,Dubtitles,,0,0,0,,Jeno-Jeno-Jeno
 Dialogue: 1,0:03:26.14,0:03:26.18,SFXPurple,3.1,0,0,0,,{\blur0.6\fade(255,0,255,0,1,8339,8340)\frz4.001\org(41.669,33.757)\pos(41.669,33.757)\c&H070404&}Menacing
 Dialogue: 2,0:03:26.14,0:03:26.18,SFXPurple,3.1,0,0,0,,{\bord0\blur0.6\fade(255,0,255,0,1,8339,8340)\frz4.001\org(41.669,33.757)\pos(41.669,33.757)\4a&HFF&}Menacing
 Dialogue: 1,0:03:26.18,0:03:26.22,SFXPurple,3.1,0,0,0,,{\blur0.6\fade(255,0,255,-40,-39,8299,8300)\frz4.001\org(41.669,33.757)\pos(41.669,33.757)\c&H070404&}Menacing
@@ -1169,7 +1168,7 @@ Dialogue: 0,0:04:51.01,0:04:53.33,Dubtitles,,0,0,0,,No wonder he wants me to get
 Dialogue: 0,0:04:54.42,0:04:55.46,Dubtitles,,0,0,0,,But still...
 Dialogue: 0,0:04:57.72,0:05:00.56,Dubtitles,,0,0,0,,He is no match for the power of my stand.
 Dialogue: 1,0:06:32.45,0:06:36.41,Title 3,,0,0,0,,{\fad(0,522)\pos(192,865)}Episode 2: Who Will Be the Judge!?
-Dialogue: 0,0:06:33.62,0:06:38.40,Dubtitles,,0,0,0,,You really scared me. Are you okay,\NJoJo? You think you're hurt anywhere?
+Dialogue: 0,0:06:33.62,0:06:38.40,Dubtitles,,0,0,0,,You really scared me! Are you okay,\NJoJo? You think you're hurt anywhere?
 Dialogue: 0,0:06:38.48,0:06:42.08,Dubtitles,,0,0,0,,you're lucky if you had landed just a\Nfew inches off you'd have cracked your
 Dialogue: 0,0:06:42.16,0:06:45.70,Dubtitles,,0,0,0,,head right on the flagstone nasty\Naccidents happen on those steps all the
 Dialogue: 0,0:06:45.78,0:06:50.07,Dubtitles,,0,0,0,,time tomorrow when you go down these\Nsteps you really should hold my hand
@@ -1191,11 +1190,11 @@ Dialogue: 0,0:07:39.44,0:07:43.30,Dubtitles,,0,0,0,,So his name's Kakyoin. Seems
 Dialogue: 0,0:07:43.46,0:07:45.52,Dubtitles,,0,0,0,,I still like Jojo way more than him.
 Dialogue: 0,0:07:45.60,0:07:46.43,Dubtitles,,0,0,0,,Yeah, me too.
 Dialogue: 0,0:07:46.51,0:07:47.34,Dubtitles,,0,0,0,,Same goes for me.
-Dialogue: 0,0:07:51.80,0:07:55.96,Dubtitles,,0,0,0,,At that time I was very weak.
+Dialogue: 0,0:07:51.80,0:07:55.96,Dubtitles,,0,0,0,,At that time, I was very weak.
 Dialogue: 0,0:07:56.04,0:08:00.18,Dubtitles,,0,0,0,,lacking a body made me vulnerable
-Dialogue: 0,0:08:02.50,0:08:07.34,Dubtitles,,0,0,0,,If I had not taken Jonathan Joestar's body
-Dialogue: 0,0:08:10.58,0:08:13.80,Dubtitles,,0,0,0,,If it hadn't been for\Nhis energy to augment
-Dialogue: 0,0:08:13.88,0:08:16.68,Dubtitles,,0,0,0,,my own limited source I\Ncouldn't have survived
+Dialogue: 0,0:08:02.50,0:08:07.34,Dubtitles,,0,0,0,,If I hadn't taken Jonathan Joestar's body
+Dialogue: 0,0:08:10.58,0:08:13.80,Dubtitles,,0,0,0,,if it hadn't been for\Nhis energy to augment
+Dialogue: 0,0:08:13.88,0:08:16.68,Dubtitles,,0,0,0,,my own limited source i\Ncouldn't have survived
 Dialogue: 0,0:08:17.80,0:08:20.04,Dubtitles,,0,0,0,,at the bottom of that\Nocean for a hundred years.
 Dialogue: 0,0:08:20.12,0:08:23.90,Dubtitles,,0,0,0,,But still, this body has\Nlike a bond between a
 Dialogue: 0,0:08:30.08,0:08:31.26,Dubtitles,,0,0,0,,parent and a child.
@@ -1271,8 +1270,9 @@ Dialogue: 0,0:10:34.38,0:10:36.86,Dubtitles,,0,0,0,,Well, if I'm going to\Ntreat
 Dialogue: 0,0:10:36.94,0:10:37.77,Dubtitles,,0,0,0,,You ruin him.
 Dialogue: 0,0:10:37.85,0:10:38.84,Dubtitles,,0,0,0,,I'll take him off.
 Dialogue: 0,0:10:39.76,0:10:41.64,Dubtitles,,0,0,0,,Didn't know you were so thrifty.
-Dialogue: 0,0:10:41.88,0:10:45.72,Dubtitles,,0,0,0,,So, while JoJo's taking off his pants,\NI'm going to take your temperatures?
-Dialogue: 0,0:10:45.80,0:10:48.20,Dubtitles,,0,0,0,,and prove you're nothing\Nbut a bunch of fakers.
+Dialogue: 0,0:10:41.88,0:10:42.71,Dubtitles,,0,0,0,,So,
+Dialogue: 0,0:10:42.79,0:10:44.54,Dubtitles,,0,0,0,,while JoJo's taking off his pants,
+Dialogue: 0,0:10:44.62,0:10:48.20,Dubtitles,,0,0,0,,I'm going to take your temperatures and\Nprove you're nothing but a bunch of fakers.
 Dialogue: 0,0:10:48.28,0:10:50.02,Dubtitles,,0,0,0,,Come on, we really caught a cold.
 Dialogue: 0,0:10:50.10,0:10:50.93,Dubtitles,,0,0,0,,Totally.
 Dialogue: 0,0:10:51.01,0:10:52.82,Dubtitles,,0,0,0,,Now just let us go home already.
@@ -1280,10 +1280,10 @@ Dialogue: 0,0:10:53.54,0:10:54.72,Dubtitles,,0,0,0,,Not going to happen.
 Dialogue: 0,0:10:56.44,0:10:57.27,Dubtitles,,0,0,0,,Oops.
 Dialogue: 0,0:11:00.12,0:11:01.58,Dubtitles,,0,0,0,,What the hell is this?
 Dialogue: 1,0:11:01.55,0:11:04.72,Note,note,0,0,0,,{\fs(66)}Jotaro Kujo, today I will murder you with my Stand!\N —Noriaki Kakyoin
-Dialogue: 0,0:11:05.76,0:11:06.60,Dubtitles,,0,0,0,,Kaku-yoo-yoo.
+Dialogue: 0,0:11:05.74,0:11:06.58,Dubtitles,,0,0,0,,Kakyoin.
 Dialogue: 0,0:11:06.68,0:11:07.56,Dubtitles,,0,0,0,,Hey, doctor!
-Dialogue: 0,0:11:09.32,0:11:10.85,Dubtitles,,0,0,0,,What are you trying to do?
-Dialogue: 0,0:11:14.90,0:11:16.26,Dubtitles,,0,0,0,,What does it look like?
+Dialogue: 0,0:11:09.30,0:11:10.83,Dubtitles,,0,0,0,,What are you trying to do?
+Dialogue: 0,0:11:14.88,0:11:16.26,Dubtitles,,0,0,0,,What does it look like?
 Dialogue: 0,0:11:16.48,0:11:19.68,Dubtitles,,0,0,0,,I'm just shaking out the\Nthermometer to reset it!
 Dialogue: 1,0:11:16.69,0:11:16.73,SFXPink,7.1,0,0,0,,{=17}{\blur4\fade(255,0,255,0,0,490,520)\pos(693.34,575.5)\frz7.749\c&H1E1D1C&}Swipe
 Dialogue: 2,0:11:16.69,0:11:16.73,SFXPink,7.1,0,0,0,,{=17}{\bord0\blur2\fade(255,0,255,0,0,490,520)\pos(693.34,575.5)\frz7.749\4a&HFF&}Swipe
@@ -1355,10 +1355,11 @@ Dialogue: 1,0:11:19.78,0:11:19.82,SFXPink,7.3,0,0,0,,{=19}{\blur1\fscx100\fscy10
 Dialogue: 2,0:11:19.78,0:11:19.82,SFXPink,7.3,0,0,0,,{=19}{\bord0\blur1\fscx100\fscy100\fade(255,0,255,-420,-420,-20,50)\frz35.58\pos(134,940)\4a&HFF&}Swipe
 Dialogue: 1,0:11:19.82,0:11:19.86,SFXPink,7.3,0,0,0,,{=19}{\blur1\fscx100\fscy100\fade(255,0,255,-420,-420,-20,50)\frz35.58\pos(134,940)\c&H1E1D1C&}Swipe
 Dialogue: 2,0:11:19.82,0:11:19.86,SFXPink,7.3,0,0,0,,{=19}{\bord0\blur1\fscx100\fscy100\fade(255,0,255,-420,-420,-20,50)\frz35.58\pos(134,940)\4a&HFF&}Swipe
-Dialogue: 0,0:11:22.22,0:11:24.62,Dubtitles,,0,0,0,,That's not a thermometer\Nyou got in your hand!
-Dialogue: 0,0:11:24.70,0:11:27.26,Dubtitles,,0,0,0,,Yeah, that's a pen! Oh, come on!
+Dialogue: 0,0:11:22.20,0:11:24.62,Dubtitles,,0,0,0,,That's not a thermometer\Nyou got in your hand!
+Dialogue: 0,0:11:24.70,0:11:26.12,Dubtitles,,0,0,0,,Yeah, that's a pen!
+Dialogue: 0,0:11:26.44,0:11:27.28,Dubtitles,,0,0,0,,Oh, come on.
 Dialogue: 0,0:11:27.52,0:11:28.76,Dubtitles,,0,0,0,,Did you just say pen?
-Dialogue: 0,0:11:28.90,0:11:30.02,Dubtitles,,0,0,0,,You think I'm dumb?
+Dialogue: 0,0:11:28.92,0:11:30.04,Dubtitles,,0,0,0,,You think I'm dumb?
 Dialogue: 0,0:11:30.16,0:11:32.10,Dubtitles,,0,0,0,,Does this look like a pen to you?
 Dialogue: 0,0:11:34.38,0:11:38.46,Dubtitles,,0,0,0,,Tell me something, just how\Nstupid are you two boys?
 Dialogue: 0,0:11:40.18,0:11:44.59,Dubtitles,,0,0,0,,If you honestly think this thermometer\NI'm holding looks like a pen to you,
@@ -1557,10 +1558,10 @@ Dialogue: 0,0:12:58.78,0:13:02.88,Dubtitles,,0,0,0,,So my stand is currently pos
 Dialogue: 0,0:13:05.24,0:13:09.36,Dubtitles,,0,0,0,,If you attack my stand,\Nyou'll hurt her too, Jojo.
 Dialogue: 0,0:13:10.16,0:13:11.32,Dubtitles,,0,0,0,,You bastard.
 Dialogue: 0,0:13:11.72,0:13:12.80,Dubtitles,,0,0,0,,Who are you?
-Dialogue: 0,0:13:13.04,0:13:15.90,Dubtitles,,0,0,0,,I told you, I'm Kakyoin Noriaki.
+Dialogue: 0,0:13:13.04,0:13:15.90,Dubtitles,,0,0,0,,I told you. I'm Noriyaki Kakyoin.
 Dialogue: 0,0:13:15.98,0:13:18.94,Dubtitles,,0,0,0,,And the name of my stand\Nhere is Hierophant Green.
 Dialogue: 0,0:13:19.40,0:13:22.94,Dubtitles,,0,0,0,,I am human, but I have\Npledged loyalty to him.
-Dialogue: 0,0:13:23.42,0:13:26.06,Dubtitles,,0,0,0,,That's why I'm gonna kill you.
+Dialogue: 0,0:13:23.42,0:13:26.06,Dubtitles,,0,0,0,,That's why I'm gonna kill you!
 Dialogue: 1,0:13:38.04,0:13:38.08,SFXBlue,9,0,0,0,,{=52}{\blur6\bord8.88\fscx114.22\fscy126.92\frz4.6\pos(182.34,242.82)\alpha&H80&\3c&HFFF6FC&}Bang
 Dialogue: 2,0:13:38.04,0:13:38.08,SFXBlue,9,0,0,0,,{=52}{\blur0.6\bord8.88\fscx114.22\fscy126.92\frz4.6\pos(182.34,242.82)\c&H310E1D&}Bang
 Dialogue: 3,0:13:38.04,0:13:38.08,SFXBlue,9,0,0,0,,{=52}{\blur0.6\bord0\fscx114.22\fscy126.92\frz4.6\pos(182.34,242.82)\4a&HFF&}Bang
@@ -1744,7 +1745,7 @@ Dialogue: 0,0:13:52.36,0:13:56.22,Dubtitles,,0,0,0,,Just a sleazy stand whose on
 Dialogue: 0,0:14:01.66,0:14:04.12,Dubtitles,,0,0,0,,So this is your stand? Kakyoin?
 Dialogue: 0,0:14:04.38,0:14:07.42,Dubtitles,,0,0,0,,This green stripy thing\Nlooks like a shiny melon.
 Dialogue: 0,0:14:08.80,0:14:10.70,Dubtitles,,0,0,0,,You're gonna regret doing that.
-Dialogue: 0,0:14:11.14,0:14:13.98,Dubtitles,,0,0,0,,Dragging that out of\Nher was a mistake, Jojo.
+Dialogue: 0,0:14:11.14,0:14:13.98,Dubtitles,,0,0,0,,Dragging that out of\Nher was a mistake, Jojo!
 Dialogue: 1,0:14:14.54,0:14:14.58,SFXRed,10,0,0,0,,{=48}{\blur0.8\bord6.7\fscx87.13\fscy67.02\frz39.65\pos(850.9,863.21)\c&H0E0C17&}Squish
 Dialogue: 2,0:14:14.54,0:14:14.58,SFXRed,10,0,0,0,,{=48}{\blur0.8\bord0\fscx87.13\fscy67.02\frz39.65\pos(850.9,863.21)\4a&HFF&}Squish
 Dialogue: 1,0:14:14.58,0:14:14.62,SFXRed,10,0,0,0,,{=48}{\blur0.8\bord7.31\fscx95.04\fscy73.11\frz39.65\pos(743.92,870.52)\c&H0E0C17&}Squish
@@ -1777,11 +1778,10 @@ Dialogue: 0,0:14:30.12,0:14:32.65,Dubtitles,,0,0,0,,I'm gonna keep a tight\Ngrip
 Dialogue: 0,0:14:32.92,0:14:35.33,Dubtitles,,0,0,0,,We're gonna pay my Gramps a little visit.
 Dialogue: 0,0:14:35.42,0:14:37.24,Dubtitles,,0,0,0,,I'm sure he'd love to meet you.
 Dialogue: 0,0:14:38.58,0:14:41.54,Dubtitles,,0,0,0,,But I'd like to know\Nmore about Dio myself.
-Dialogue: 0,0:14:48.90,0:14:52.04,Dubtitles,,0,0,0,,What the hell was that\Ngreen liquid coming out
-Dialogue: 0,0:14:52.12,0:14:55.26,Dubtitles,,0,0,0,,Of his Stand's hands you\Nshould have listened!
-Dialogue: 0,0:14:55.34,0:14:58.54,Dubtitles,,0,0,0,,Jojo I told you you're\Ngonna regret this didn't
-Dialogue: 0,0:14:58.62,0:15:02.98,Dubtitles,,0,0,0,,I this is the attack of\Nmy stand hierophant green!
-Dialogue: 0,0:15:03.06,0:15:05.14,Dubtitles,,0,0,0,,No weird moves kakyoin.
+Dialogue: 0,0:14:48.90,0:14:52.16,Dubtitles,,0,0,0,,what the hell was that\Ngreen liquid coming out of
+Dialogue: 0,0:14:52.24,0:14:56.58,Dubtitles,,0,0,0,,His Stand's hand. You should\Nhave listened, JoJo. I told
+Dialogue: 0,0:14:56.66,0:15:00.74,Dubtitles,,0,0,0,,you you're gonna regret this\Ndidn't i this is the attack
+Dialogue: 0,0:15:00.82,0:15:05.14,Dubtitles,,0,0,0,,of my stand hierophant\Ngreen no weird moves kakyoin
 Dialogue: 0,0:15:14.42,0:15:15.78,Dubtitles,,0,0,0,,Emerald Splash!
 Dialogue: 0,0:15:28.04,0:15:29.52,Dubtitles,,0,0,0,,So what do you think?
 Dialogue: 0,0:15:29.90,0:15:31.96,Dubtitles,,0,0,0,,Did you like Emerald Splash?
@@ -1797,8 +1797,8 @@ Dialogue: 0,0:15:58.40,0:16:02.22,Dubtitles,,0,0,0,,I tried to warn you that by\
 Dialogue: 0,0:16:02.30,0:16:06.12,Dubtitles,,0,0,0,,would hurt her as well My stand\Ncan travel farther than yours,
 Dialogue: 0,0:16:06.36,0:16:09.26,Dubtitles,,0,0,0,,but it dislikes open\Nspaces without exception.
 Dialogue: 0,0:16:09.60,0:16:11.70,Dubtitles,,0,0,0,,It prefers to hide within something
-Dialogue: 0,0:16:12.56,0:16:15.60,Dubtitles,,0,0,0,,If you drag it out, it gets angry.
-Dialogue: 0,0:16:16.28,0:16:20.78,Dubtitles,,0,0,0,,That's why when you ripped it out of\Nher throat it hurt her along the way?
+Dialogue: 0,0:16:12.56,0:16:15.60,Dubtitles,,0,0,0,,If you drag it out, it gets angry
+Dialogue: 0,0:16:16.28,0:16:20.78,Dubtitles,,0,0,0,,That's why when you ripped it out of\Nher throat, it hurt her along the way.
 Dialogue: 0,0:16:21.72,0:16:23.54,Dubtitles,,0,0,0,,You're the one who did this to her.
 Dialogue: 0,0:16:23.62,0:16:25.06,Dubtitles,,0,0,0,,This is entirely your fault.
 Dialogue: 0,0:16:25.14,0:16:25.97,Dubtitles,,0,0,0,,Jojo.
@@ -2028,12 +2028,11 @@ Dialogue: 1,0:16:55.20,0:16:55.24,SFXBlue2,12,0,0,0,,{=28}{\fade(255,0,255,-3090
 Dialogue: 1,0:16:55.24,0:16:55.28,SFXBlue2,12,0,0,0,,{=28}{\fade(255,0,255,-3130,-3129,129,130)\frz2.41\be30\org(46.186,32.923)\pos(46.186,32.923)}Menacing
 Dialogue: 1,0:16:55.28,0:16:55.32,SFXBlue2,12,0,0,0,,{=28}{\fade(255,0,255,-3170,-3169,89,90)\frz2.41\be30\org(46.186,32.923)\pos(46.186,32.923)}Menacing
 Dialogue: 1,0:16:55.32,0:16:55.36,SFXBlue2,12,0,0,0,,{=28}{\fade(255,0,255,-3210,-3209,49,50)\frz2.41\be30\org(46.186,32.923)\pos(46.186,32.923)}Menacing
-Dialogue: 0,0:16:55.98,0:16:59.68,Dubtitles,,0,0,0,,Look, no one ever said\NJotaro Kujo was a nice guy.
-Dialogue: 0,0:16:59.76,0:17:04.46,Dubtitles,,0,0,0,,I beat the crap out of\Npeople more than I have to.
-Dialogue: 0,0:17:04.54,0:17:09.60,Dubtitles,,0,0,0,,Some are even still in the hospital.\NI've had idiot teachers who like.
-Dialogue: 0,0:17:09.68,0:17:13.78,Dubtitles,,0,0,0,,to talk big so I taught them a lesson\Nand they never came back to class.
-Dialogue: 0,0:17:13.86,0:17:17.60,Dubtitles,,0,0,0,,If I go to a restaurant, the food's bad.
-Dialogue: 0,0:17:17.68,0:17:20.50,Dubtitles,,0,0,0,,and make it a policy to\Nstiff him with the bill.
+Dialogue: 0,0:16:55.98,0:16:58.84,Dubtitles,,0,0,0,,Look, no one ever said Jotaro Kujo was
+Dialogue: 0,0:16:58.92,0:17:03.02,Dubtitles,,0,0,0,,a nice guy I beat the crap out of people
+Dialogue: 0,0:17:03.10,0:17:09.46,Dubtitles,,0,0,0,,more than I have to some are even still in\Nthe hospital I've had idiot teachers who
+Dialogue: 0,0:17:09.54,0:17:15.62,Dubtitles,,0,0,0,,like to talk big so I taught them a lesson\Nand they never came back to class if I
+Dialogue: 0,0:17:15.70,0:17:20.52,Dubtitles,,0,0,0,,go to a restaurant the food's bad and make\Nit a policy to stiff him with the bill.
 Dialogue: 0,0:17:21.82,0:17:24.42,Dubtitles,,0,0,0,,But even a bastard like me
 Dialogue: 0,0:17:25.20,0:17:27.84,Dubtitles,,0,0,0,,can spot true evil when he sees it.
 Dialogue: 0,0:17:28.36,0:17:31.60,Dubtitles,,0,0,0,,True evil are those who\Nuse the weak for their own
@@ -2041,14 +2040,10 @@ Dialogue: 0,0:17:31.68,0:17:34.68,Dubtitles,,0,0,0,,game and crush them underfoo
 Dialogue: 0,0:17:36.24,0:17:38.06,Dubtitles,,0,0,0,,Especially an innocent woman.
 Dialogue: 0,0:17:38.96,0:17:41.98,Dubtitles,,0,0,0,,And that is exactly what\Nyou've done, isn't it?
 Dialogue: 0,0:17:42.50,0:17:46.91,Dubtitles,,0,0,0,,And your stand gets to hide from the\Nvictim, the law, and the consequences.
-Dialogue: 0,0:17:47.68,0:17:51.10,Dubtitles,,0,0,0,,That's why I will judge you myself.
-Dialogue: 0,0:17:51.18,0:17:53.96,Dubtitles,,0,0,0,,I'm evil. See?
-Dialogue: 0,0:17:54.04,0:17:54.98,Dubtitles,,0,0,0,,That's where you're wrong.
-Dialogue: 0,0:17:55.06,0:17:57.04,Dubtitles,,0,0,0,,Evil is always the loser.
-Dialogue: 0,0:17:57.12,0:17:59.12,Dubtitles,,0,0,0,,It's the victor who has justice.
-Dialogue: 0,0:17:59.20,0:18:01.78,Dubtitles,,0,0,0,,The victim being the last man standing.
-Dialogue: 0,0:18:01.86,0:18:03.82,Dubtitles,,0,0,0,,And how you win in battle?
-Dialogue: 0,0:18:03.90,0:18:04.88,Dubtitles,,0,0,0,,is irrelevant.
+Dialogue: 0,0:17:47.68,0:17:53.96,Dubtitles,,0,0,0,,that's why i will judge\Nyou myself i'm evil see
+Dialogue: 0,0:17:54.04,0:17:57.66,Dubtitles,,0,0,0,,that's where you're wrong\Nevil is always the loser it's
+Dialogue: 0,0:17:57.74,0:18:00.78,Dubtitles,,0,0,0,,the victor who has justice\Nthe victim being the last
+Dialogue: 0,0:18:00.86,0:18:04.88,Dubtitles,,0,0,0,,man standing and how you\Nwin in battle is irrelevant.
 Dialogue: 1,0:18:13.15,0:18:13.19,SFXGreen,13,0,0,0,,{=57}{\blur0.6\bord11.91\fscx154.77\fscy119.05\shad5.95\frz338.63\pos(1737.17,346.16)\c&H090E0E&}Grasp {26220}
 Dialogue: 2,0:18:13.15,0:18:13.19,SFXGreen,13,0,0,0,,{=57}{\blur0.6\bord0\fscx154.77\fscy119.05\frz338.63\pos(1737.17,346.16)\shad5.95\4a&HFF&}Grasp {26220}
 Dialogue: 1,0:18:13.19,0:18:13.23,SFXGreen,13,0,0,0,,{=57}{\blur0.6\bord10.36\fscx134.67\fscy103.59\shad5.18\frz339.55\pos(1541.45,342.7)\c&H090E0E&}Grasp {26220}
@@ -2452,16 +2447,16 @@ Dialogue: 0,0:20:48.68,0:20:50.39,Dubtitles,,0,0,0,,They're both in the tea room
 Dialogue: 0,0:20:53.10,0:20:54.32,Dubtitles,,0,0,0,,Oh, Jotaro.
 Dialogue: 0,0:20:54.86,0:20:56.46,Dubtitles,,0,0,0,,You never tell me anything.
 Dialogue: 0,0:20:57.34,0:21:01.40,Dubtitles,,0,0,0,,All that does is make me\Nworry about you all the time.
-Dialogue: 0,0:21:02.66,0:21:06.42,Dubtitles,,0,0,0,,But still, I know that deep\Ndown you really do mean well.
-Dialogue: 0,0:21:06.50,0:21:09.10,Dubtitles,,0,0,0,,You're a very sweet little boy at heart.
-Dialogue: 0,0:21:09.18,0:21:10.80,Dubtitles,,0,0,0,,Hey? Yes?
-Dialogue: 0,0:21:12.56,0:21:16.28,Dubtitles,,0,0,0,,You're looking a little bit\Npale this morning. You alright?
+Dialogue: 0,0:21:02.66,0:21:03.70,Dubtitles,,0,0,0,,But still,
+Dialogue: 0,0:21:04.02,0:21:06.42,Dubtitles,,0,0,0,,I know that deep down\Nyou really do mean well
+Dialogue: 0,0:21:06.50,0:21:10.80,Dubtitles,,0,0,0,,You're a very sweet little\Nboy at heart. Hey. Yes?
+Dialogue: 0,0:21:12.56,0:21:16.28,Dubtitles,,0,0,0,,You're looking a little bit pale\Nthis morning. You all right?
 Dialogue: 0,0:21:20.54,0:21:21.37,Dubtitles,,0,0,0,,Yay!
 Dialogue: 0,0:21:21.45,0:21:23.28,Dubtitles,,0,0,0,,I'm fine! Thank you!
-Dialogue: 0,0:21:26.40,0:21:27.88,Dubtitles,,0,0,0,,I knew it.
+Dialogue: 0,0:21:26.40,0:21:27.88,Dubtitles,,0,0,0,,I knew it
 Dialogue: 0,0:21:29.52,0:21:32.96,Dubtitles,,0,0,0,,Well, I hate to say it, but\NBut it's too late for him.
 Dialogue: 0,0:21:33.64,0:21:35.35,Dubtitles,,0,0,0,,There's no way he'll make it.
-Dialogue: 0,0:21:35.64,0:21:38.44,Dubtitles,,0,0,0,,He's got a few days\Nbefore he dies at most.
+Dialogue: 0,0:21:35.64,0:21:38.44,Dubtitles,,0,0,0,,He's got a few days\Nbefore he dies, at most.
 Dialogue: 0,0:21:39.30,0:21:42.38,Dubtitles,,0,0,0,,Jotaro, this is not your fault. Trust me,
 Dialogue: 0,0:21:42.66,0:21:44.62,Dubtitles,,0,0,0,,do you want to know why this man swore his
 Dialogue: 0,0:21:44.70,0:21:47.88,Dubtitles,,0,0,0,,allegiance to Dio and came\Nto your school to kill you?

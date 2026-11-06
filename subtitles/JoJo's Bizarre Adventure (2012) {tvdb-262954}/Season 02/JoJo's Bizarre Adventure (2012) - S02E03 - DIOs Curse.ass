@@ -48,10 +48,15 @@ Style: SFXPurple - Copy,LeviNaiveLetter,130,&H0060303A,&H000000FF,&H00000000,&H0
 Style: SFXPurple3 - Copy,Sheer Terror,160,&H00671E33,&H000000FF,&H000C0408,&H00000000,-1,0,0,0,70,80,0,0,1,8,0,9,50,40,20,1
 Style: SFXPurple - Copy (3),d puntillas D to tiptoe,160,&H0060303A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0,0,1,9,0,9,50,40,20,1
 Style: SFXGhost,LeviNaiveLetter,170,&H7B8F54C8,&H000000FF,&H0049172E,&H00000000,0,0,0,0,130,100,0,0,1,7,0,9,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Designosaur,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.58,Dubtitles,,0,0,0,,Skane.
+Dialogue: 0,0:00:42.38,0:00:45.10,Dubtitles,,0,0,0,,I'm so excited.
+Dialogue: 0,0:00:45.18,0:00:52.18,Dubtitles,,0,0,0,,To.
+Dialogue: 0,0:00:56.82,0:00:57.65,Dubtitles,,0,0,0,,be
+Dialogue: 0,0:00:57.73,0:00:58.56,Dubtitles,,0,0,0,,here.
 Dialogue: 1,0:01:31.02,0:01:34.53,Title 3,,0,0,0,,{\fad(613,436)\pos(192,875)}Episode 3: The Curse of DIO
 Dialogue: 0,0:01:57.48,0:01:58.31,Dubtitles,,0,0,0,,That's it?
 Dialogue: 0,0:01:58.39,0:02:00.28,Dubtitles,,0,0,0,,Is that what made him\Nswear allegiance to Dio?
@@ -74,7 +79,7 @@ Dialogue: 0,0:02:56.94,0:02:59.44,Dubtitles,,0,0,0,,Jojo, I need to tell you som
 Dialogue: 0,0:02:59.78,0:03:03.28,Dubtitles,,0,0,0,,Four months ago, while I\Nwas still there in Cairo,
 Dialogue: 0,0:03:05.40,0:03:07.26,Dubtitles,,0,0,0,,I encountered Dio!
 Dialogue: 0,0:03:11.38,0:03:13.50,Dubtitles,,0,0,0,,I am a fortune teller by trade.
-Dialogue: 0,0:03:13.58,0:03:16.78,Dubtitles,,0,0,0,,I have a shop in a Seiko\Ncalled Khan el-Khalili.
+Dialogue: 0,0:03:13.58,0:03:16.78,Dubtitles,,0,0,0,,I have a shop in a souk\Ncalled Khan el-Khalili.
 Dialogue: 0,0:03:17.16,0:03:19.40,Dubtitles,,0,0,0,,It was a full moon that night.
 Dialogue: 0,0:03:19.86,0:03:21.50,Dubtitles,,0,0,0,,And there he was.
 Dialogue: 0,0:03:25.84,0:03:29.98,Dubtitles,,0,0,0,,He just stood at the top of the\Nstairs outside my shop, silently,
@@ -132,20 +137,19 @@ Dialogue: 0,0:04:31.22,0:04:33.00,Dubtitles,,0,0,0,,I didn't dare think of fight
 Dialogue: 0,0:04:33.08,0:04:36.34,Dubtitles,,0,0,0,,I was very fortunate, because\NI had prior knowledge of Dio.
 Dialogue: 0,0:04:36.42,0:04:38.18,Dubtitles,,0,0,0,,I was able to realize who he was.
 Dialogue: 0,0:04:38.26,0:04:40.26,Dubtitles,,0,0,0,,I immediately jumped out the window.
-Dialogue: 0,0:04:40.34,0:04:43.16,Dubtitles,,0,0,0,,That Seiko is a labyrinth, but I\Nknow it like the back of my hand.
+Dialogue: 0,0:04:40.34,0:04:43.16,Dubtitles,,0,0,0,,That souk is a labyrinth, but I\Nknow it like the back of my hand.
 Dialogue: 0,0:04:43.24,0:04:45.65,Dubtitles,,0,0,0,,And thanks to that, I was able to escape.
-Dialogue: 0,0:04:47.26,0:04:49.62,Dubtitles,,0,0,0,,Otherwise I would have\Nended up like this young
-Dialogue: 0,0:04:49.70,0:04:52.68,Dubtitles,,0,0,0,,man another follower\Ncontrolled by a flesh bud.
-Dialogue: 0,0:04:52.76,0:04:58.16,Dubtitles,,0,0,0,,You would have died a few years later\Nwith your brain completely devoured? Died.
-Dialogue: 0,0:04:58.24,0:05:01.36,Dubtitles,,0,0,0,,Let's not jump the gun.
-Dialogue: 0,0:05:01.44,0:05:05.66,Dubtitles,,0,0,0,,Kakyoin's not in great\Nshape but he's not dead yet.
+Dialogue: 0,0:04:47.26,0:04:51.10,Dubtitles,,0,0,0,,otherwise I would have ended up\Nlike this young man another follower
+Dialogue: 0,0:04:51.18,0:04:55.46,Dubtitles,,0,0,0,,controlled by a flesh bud you would\Nhave died a few years later with
+Dialogue: 0,0:04:55.54,0:05:02.40,Dubtitles,,0,0,0,,Your brain completely devoured. Died?\NLet's not jump the gun. Kakyoin's
+Dialogue: 0,0:05:02.48,0:05:05.24,Dubtitles,,0,0,0,,not in great shape but he's not dead
+Dialogue: 0,0:05:05.32,0:05:10.68,Dubtitles,,0,0,0,,Yet I'll pull it out with my Stand!
 Dialogue: 1,0:05:05.66,0:05:05.70,SFX,2,0,0,0,,{=5}{\blur0.6\fade(255,0,255,0,100,1080,1080)\frz11.2\pos(1451.29,385.95)\c&H070D13&}Bang
 Dialogue: 2,0:05:05.66,0:05:05.70,SFX,2,0,0,0,,{=5}{\bord0\blur0.6\fade(255,0,255,0,100,1080,1080)\frz11.2\pos(1451.29,385.95)\4a&HFF&}Bang
 Dialogue: 1,0:05:05.70,0:05:05.74,SFX,2,0,0,0,,{=5}{\blur0.6\fade(255,0,255,-40,60,1040,1040)\frz11.2\pos(1444,337.24)\c&H070D13&}Bang
 Dialogue: 2,0:05:05.70,0:05:05.74,SFX,2,0,0,0,,{=5}{\bord0\blur0.6\fade(255,0,255,-40,60,1040,1040)\frz11.2\pos(1444,337.24)\4a&HFF&}Bang
 Dialogue: 1,0:05:05.74,0:05:05.78,SFX,2,0,0,0,,{=5}{\blur0.6\fade(255,0,255,-80,20,1000,1000)\frz11.2\pos(1356.59,282.49)\c&H070D13&}Bang
 Dialogue: 2,0:05:05.74,0:05:05.78,SFX,2,0,0,0,,{=5}{\bord0\blur0.6\fade(255,0,255,-80,20,1000,1000)\frz11.2\pos(1356.59,282.49)\4a&HFF&}Bang
-Dialogue: 0,0:05:05.74,0:05:10.68,Dubtitles,,0,0,0,,I'll pull it out with my stand.
 Dialogue: 1,0:05:05.78,0:05:05.82,SFX,2,0,0,0,,{=5}{\blur0.6\fade(255,0,255,-120,-20,960,960)\frz11.2\pos(1309.88,223.21)\c&H070D13&}Bang
 Dialogue: 2,0:05:05.78,0:05:05.82,SFX,2,0,0,0,,{=5}{\bord0\blur0.6\fade(255,0,255,-120,-20,960,960)\frz11.2\pos(1309.88,223.21)\4a&HFF&}Bang
 Dialogue: 1,0:05:05.82,0:05:05.86,SFX,2,0,0,0,,{=5}{\blur0.6\fade(255,0,255,-160,-60,920,920)\frz11.2\pos(1311.38,226.73)\c&H070D13&}Bang
@@ -198,7 +202,7 @@ Dialogue: 0,0:05:15.86,0:05:18.86,Dubtitles,,0,0,0,,I can remove this thing\Nwit
 Dialogue: 0,0:05:19.28,0:05:24.10,Dubtitles,,0,0,0,,If my stand has the precision to catch a\Nspeeding bullet, then it can also do this.
 Dialogue: 0,0:05:24.18,0:05:25.01,Dubtitles,,0,0,0,,Listen!
 Dialogue: 0,0:05:25.09,0:05:25.92,Dubtitles,,0,0,0,,That flesh blood is alive!
-Dialogue: 0,0:05:26.01,0:05:29.36,Dubtitles,,0,0,0,,Can't you see part of that flesh blood\Nlives outside his body for a reason?
+Dialogue: 0,0:05:26.01,0:05:29.36,Dubtitles,,0,0,0,,Can't you see part of that flesh bud\Nlives outside his body for a reason?
 Dialogue: 0,0:05:29.44,0:05:33.09,Dubtitles,,0,0,0,,Even a skilled surgeon can't\Nremove it without serious damage!
 Dialogue: 0,0:05:33.26,0:05:34.09,Dubtitles,,0,0,0,,Shit!
 Dialogue: 0,0:05:34.17,0:05:35.86,Dubtitles,,0,0,0,,It just sunk itself into his flesh!
@@ -224,7 +228,7 @@ Dialogue: 0,0:06:59.40,0:07:01.98,Dubtitles,,0,0,0,,I don't really have an answe
 Dialogue: 0,0:07:12.26,0:07:14.48,Dubtitles,,0,0,0,,Jotaro, I see right through you.
 Dialogue: 0,0:07:18.30,0:07:19.13,Dubtitles,,0,0,0,,All done.
 Dialogue: 0,0:07:20.18,0:07:22.00,Dubtitles,,0,0,0,,Thank you. For everything.
-Dialogue: 0,0:07:22.36,0:07:24.01,Dubtitles,,0,0,0,,So it's Kokkyou-ing, was it?
+Dialogue: 0,0:07:22.36,0:07:24.01,Dubtitles,,0,0,0,,So it was Kakyoin, was it?
 Dialogue: 0,0:07:24.16,0:07:25.87,Dubtitles,,0,0,0,,You need to rest for a while.
 Dialogue: 0,0:07:25.96,0:07:27.66,Dubtitles,,0,0,0,,Why don't you stay here tonight?
 Dialogue: 0,0:07:27.74,0:07:29.68,Dubtitles,,0,0,0,,Papa, go and get his futon ready.
@@ -234,18 +238,18 @@ Dialogue: 0,0:07:35.46,0:07:39.68,Dubtitles,,0,0,0,,In fact, that futon in my ro
 Dialogue: 0,0:07:39.98,0:07:43.98,Dubtitles,,0,0,0,,You're in Japan now, Papa, and here\Nin Japan, we sleep on the floor.
 Dialogue: 0,0:07:44.10,0:07:46.84,Dubtitles,,0,0,0,,And I'd prefer if you call me Seiko here.
 Dialogue: 0,0:07:47.50,0:07:48.33,Dubtitles,,0,0,0,,What?!
-Dialogue: 0,0:07:48.41,0:07:50.23,Dubtitles,,0,0,0,,The Japanese also have a word for Hell.
+Dialogue: 0,0:07:48.41,0:07:50.23,Dubtitles,,0,0,0,,The Japanese also have a word for Holi.
 Dialogue: 0,0:07:50.40,0:07:52.36,Dubtitles,,0,0,0,,Here, the word for it is Seinaru.
 Dialogue: 0,0:07:52.56,0:07:55.44,Dubtitles,,0,0,0,,So, that's why all my\Nfriends call me Seiko here!
 Dialogue: 0,0:07:56.20,0:07:57.76,Dubtitles,,0,0,0,,What the hell is that?!
 Dialogue: 0,0:07:57.84,0:07:59.25,Dubtitles,,0,0,0,,Holi's a beautiful name!
 Dialogue: 0,0:07:59.34,0:08:00.17,Dubtitles,,0,0,0,,I gave it to you myself!
 Dialogue: 0,0:08:00.25,0:08:02.54,Dubtitles,,0,0,0,,If you don't refer to me\Nas Seiko, I won't answer.
-Dialogue: 0,0:08:02.62,0:08:03.45,Dubtitles,,0,0,0,,Hell!
+Dialogue: 0,0:08:02.62,0:08:03.45,Dubtitles,,0,0,0,,Holy!
 Dialogue: 0,0:08:03.53,0:08:04.42,Dubtitles,,0,0,0,,How's the pain, Kakyoin?
 Dialogue: 0,0:08:04.50,0:08:05.33,Dubtitles,,0,0,0,,Bad?
 Dialogue: 0,0:08:05.66,0:08:06.49,Dubtitles,,0,0,0,,Fine.
-Dialogue: 0,0:08:06.57,0:08:07.40,Dubtitles,,0,0,0,,Holly!
+Dialogue: 0,0:08:06.57,0:08:07.40,Dubtitles,,0,0,0,,Holy!
 Dialogue: 0,0:08:07.49,0:08:08.32,Dubtitles,,0,0,0,,Give me a break.
 Dialogue: 0,0:08:08.40,0:08:09.82,Dubtitles,,0,0,0,,Let's get you out of that uniform.
 Dialogue: 0,0:08:09.90,0:08:11.96,Dubtitles,,0,0,0,,Go on, take it off. Holly!
@@ -264,7 +268,7 @@ Dialogue: 0,0:08:49.06,0:08:50.68,Dubtitles,,0,0,0,,My daughter has one name!
 Dialogue: 0,0:08:50.94,0:08:52.12,Dubtitles,,0,0,0,,Answer me, Holly!
 Dialogue: 0,0:08:55.94,0:08:57.41,Dubtitles,,0,0,0,,Alright, time for school.
 Dialogue: 0,0:08:57.56,0:08:58.85,Dubtitles,,0,0,0,,I'm actually gonna go.
-Dialogue: 0,0:09:00.76,0:09:01.60,Dubtitles,,0,0,0,,That's odd...
+Dialogue: 0,0:09:00.76,0:09:01.60,Dubtitles,,0,0,0,,That's weird.
 Dialogue: 0,0:09:03.40,0:09:05.76,Dubtitles,,0,0,0,,Here is your goodbye kiss.
 Dialogue: 0,0:09:06.96,0:09:09.86,Dubtitles,,0,0,0,,That's usually how my mornings play out.
 Dialogue: 1,0:09:31.55,0:09:31.59,SFXPurple,3.1,0,0,0,,{=6}{\blur0.7\pos(1880,20)\fade(255,0,255,0,300,4399,4400)\c&H000000&}Menacing
@@ -899,7 +903,7 @@ Dialogue: 1,0:09:51.07,0:09:51.11,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord6.52\fs
 Dialogue: 2,0:09:51.07,0:09:51.11,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord0\fscx121.15\fscy93.19\frz12.78\pos(992.64,85.5)\4a&HFF&}Boom
 Dialogue: 1,0:09:51.11,0:09:51.15,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord6.51\fscx120.93\fscy93.02\frz12.78\pos(992.78,85.73)\c&H120B0C&}Boom
 Dialogue: 2,0:09:51.11,0:09:51.15,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord0\fscx120.93\fscy93.02\frz12.78\pos(992.78,85.73)\4a&HFF&}Boom
-Dialogue: 0,0:09:51.12,0:09:52.92,Dubtitles,,0,0,0,,No! Ms. Holy!
+Dialogue: 0,0:09:51.12,0:09:52.92,Dubtitles,,0,0,0,,No! Mrs. Cujo!
 Dialogue: 1,0:09:51.15,0:09:51.19,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord6.44\fscx119.56\fscy91.97\frz12.85\pos(992.28,87.09)\c&H120B0C&}Boom
 Dialogue: 2,0:09:51.15,0:09:51.19,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord0\fscx119.56\fscy91.97\frz12.85\pos(992.28,87.09)\4a&HFF&}Boom
 Dialogue: 1,0:09:51.19,0:09:51.23,SFXPurple2,6,0,0,0,,{=44}{\blur0.6\bord6.43\fscx119.43\fscy91.87\frz12.85\pos(992.12,87.29)\c&H120B0C&}Boom
@@ -954,7 +958,7 @@ Dialogue: 0,0:09:53.70,0:09:54.84,Dubtitles,,0,0,0,,Mrs. Cujo!
 Dialogue: 0,0:09:55.02,0:09:56.10,Dubtitles,,0,0,0,,Please, wake up!
 Dialogue: 0,0:09:58.66,0:10:00.82,Dubtitles,,0,0,0,,She's burning up. Is she sick?
 Dialogue: 0,0:10:03.32,0:10:06.00,Dubtitles,,0,0,0,,No, this can't be. Mrs.
-Dialogue: 0,0:10:06.12,0:10:08.48,Dubtitles,,0,0,0,,Cujoh, please, forgive me.
+Dialogue: 0,0:10:06.12,0:10:08.48,Dubtitles,,0,0,0,,Cujo, please, forgive me.
 Dialogue: 0,0:10:11.10,0:10:13.38,Dubtitles,,0,0,0,,No, how did this happen?
 Dialogue: 0,0:10:13.76,0:10:15.14,Dubtitles,,0,0,0,,It's transparent.
 Dialogue: 0,0:10:16.10,0:10:18.24,Dubtitles,,0,0,0,,She has a stand. Mrs.
@@ -1122,16 +1126,16 @@ Dialogue: 1,0:10:28.94,0:10:29.98,Eyecatch2,sign bottom,0,0,0,,{\blur7\alpha&H80
 Dialogue: 2,0:10:28.94,0:10:29.98,Eyecatch2,sign bottom,0,0,0,,{\blur0.6\c&H523964&\pos(1452,789.8)}Joseph Joestar
 Dialogue: 3,0:10:28.94,0:10:29.98,Eyecatch2,sign bottom,0,0,0,,{\bord0\blur0.6\shad2\4a&HFF&\pos(1452,789.8)}Joseph Joestar
 Dialogue: 0,0:10:30.54,0:10:31.37,Dubtitles,,0,0,0,,Mrs.
-Dialogue: 0,0:10:31.45,0:10:34.76,Dubtitles,,0,0,0,,Cujo has gained a stand as\Nwell, but this high fever,
+Dialogue: 0,0:10:31.45,0:10:34.76,Dubtitles,,0,0,0,,Cujoh has gained a Stand as\Nwell, but this high fever,
 Dialogue: 0,0:10:35.08,0:10:37.02,Dubtitles,,0,0,0,,the stand is doing damage to her.
 Dialogue: 0,0:10:38.44,0:10:43.14,Dubtitles,,0,0,0,,We were all so relieved that Dio's body\Nhad only affected Jojo and Mr. Joestar.
 Dialogue: 0,0:10:43.46,0:10:44.86,Dubtitles,,0,0,0,,We were so certain Mrs.
-Dialogue: 0,0:10:45.04,0:10:48.92,Dubtitles,,0,0,0,,Cujo was fine, but that's just\Nwhat we wanted to believe.
-Dialogue: 0,0:10:49.00,0:10:51.82,Dubtitles,,0,0,0,,It's impossible for her to escape that as
-Dialogue: 0,0:10:51.90,0:10:54.00,Dubtitles,,0,0,0,,long as she has Joestar\Nblood in her veins.
-Dialogue: 0,0:10:54.08,0:10:58.14,Dubtitles,,0,0,0,,There will inevitably be an\Neffect from Dio, but still a!
+Dialogue: 0,0:10:45.04,0:10:48.92,Dubtitles,,0,0,0,,Cujoh was fine, but that's\Njust what we wanted to believe.
+Dialogue: 0,0:10:49.00,0:10:52.98,Dubtitles,,0,0,0,,It's impossible for her to escape\Nthat as long as she has Joestar
+Dialogue: 0,0:10:53.06,0:10:56.78,Dubtitles,,0,0,0,,blood in her veins There will\Ninevitably be an effect from Dio,
+Dialogue: 0,0:10:56.94,0:10:58.14,Dubtitles,,0,0,0,,but still a
 Dialogue: 0,0:10:59.40,0:11:02.82,Dubtitles,,0,0,0,,Stand is controlled by an\Nindividual's own mental strength,
-Dialogue: 0,0:11:02.90,0:11:06.37,Dubtitles,,0,0,0,,and they move according to that\Nperson's fighting instinct.
+Dialogue: 0,0:11:02.90,0:11:06.31,Dubtitles,,0,0,0,,and they move according to\Nthat person's fighting instinct
 Dialogue: 0,0:11:06.62,0:11:07.45,Dubtitles,,0,0,0,,Mrs.
 Dialogue: 0,0:11:07.53,0:11:10.02,Dubtitles,,0,0,0,,Cujo is a kind and\Npeaceful woman who doesn't
 Dialogue: 0,0:11:10.10,0:11:12.98,Dubtitles,,0,0,0,,have the power to resist\NDio's curse She doesn't
@@ -1716,7 +1720,7 @@ Dialogue: 0,0:14:45.16,0:14:47.22,Dubtitles,,0,0,0,,It's limited to her back rig
 Dialogue: 0,0:14:47.36,0:14:50.56,Dubtitles,,0,0,0,,but that stand will grow\Nlike a fiendish vine and it
 Dialogue: 0,0:14:50.64,0:14:54.34,Dubtitles,,0,0,0,,won't stop until her whole\Nbody is overtaken and bound.
 Dialogue: 0,0:14:54.70,0:14:57.84,Dubtitles,,0,0,0,,Her fever will rise and\Nher illness will worsen.
-Dialogue: 0,0:14:58.10,0:15:03.84,Dubtitles,,0,0,0,,She'll fall into a coma and never\Nwake up and then she'll die.
+Dialogue: 0,0:14:58.10,0:15:03.84,Dubtitles,,0,0,0,,She'll fall into a coma and never\Nwake up, and then she'll die.
 Dialogue: 0,0:15:05.14,0:15:09.12,Dubtitles,,0,0,0,,Your average person would see\Nthis as some rare and unknown
 Dialogue: 0,0:15:09.20,0:15:12.67,Dubtitles,,0,0,0,,disease that no doctor in the\Nworld would be able to treat.
 Dialogue: 0,0:15:13.08,0:15:18.08,Dubtitles,,0,0,0,,And normally, neither you nor\NI could do anything about it.
@@ -1732,16 +1736,12 @@ Dialogue: 0,0:15:47.42,0:15:49.95,Dubtitles,,0,0,0,,Because it's on her\Nback, s
 Dialogue: 0,0:15:50.24,0:15:52.34,Dubtitles,,0,0,0,,She has no idea what's happened.
 Dialogue: 0,0:15:52.86,0:15:55.15,Dubtitles,,0,0,0,,Well, you gave us quite a scare, Holly.
 Dialogue: 0,0:15:55.46,0:15:58.62,Dubtitles,,0,0,0,,Hey, now that you're up, why\Ndon't you brush your teeth?
-Dialogue: 0,0:15:58.70,0:15:59.53,Dubtitles,,0,0,0,,Say ah.
-Dialogue: 0,0:15:59.61,0:16:04.72,Dubtitles,,0,0,0,,And let's get that face clean.
-Dialogue: 0,0:16:05.52,0:16:07.68,Dubtitles,,0,0,0,,We'll tidy up your hair while we're at it.
-Dialogue: 0,0:16:07.76,0:16:09.88,Dubtitles,,0,0,0,,Then let's take care of those nails?
+Dialogue: 0,0:15:58.70,0:16:04.72,Dubtitles,,0,0,0,,Say "ah." And let's get that face clean.
+Dialogue: 0,0:16:05.52,0:16:10.05,Dubtitles,,0,0,0,,We'll tidy up your hair while we're at\Nit Then let's take care of those nails
 Dialogue: 0,0:16:17.08,0:16:19.52,Dubtitles,,0,0,0,,Papa, will you help me\Nchange my underwear too?
 Dialogue: 0,0:16:19.60,0:16:20.43,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:16:20.70,0:16:21.53,Dubtitles,,0,0,0,,Just relax.
-Dialogue: 0,0:16:21.61,0:16:23.28,Dubtitles,,0,0,0,,I was only kidding!
-Dialogue: 0,0:16:24.78,0:16:25.62,Dubtitles,,0,0,0,,Alright then.
-Dialogue: 0,0:16:25.70,0:16:27.44,Dubtitles,,0,0,0,,What do you want for dinner, Jotaro?
+Dialogue: 0,0:16:20.70,0:16:23.28,Dubtitles,,0,0,0,,Just relax I was only kidding
+Dialogue: 0,0:16:24.78,0:16:27.44,Dubtitles,,0,0,0,,Alright then What do you\Nwant for dinner, Jojaro?
 Dialogue: 0,0:16:27.52,0:16:28.44,Dubtitles,,0,0,0,,Don't move!
 Dialogue: 0,0:16:28.64,0:16:29.88,Dubtitles,,0,0,0,,You just stay in bed!
 Dialogue: 0,0:16:32.94,0:16:37.30,Dubtitles,,0,0,0,,I just meant you should stay put,\Nat least until your fever breaks.
@@ -2000,10 +2000,10 @@ Dialogue: 0,0:18:39.24,0:18:41.50,Dubtitles,,0,0,0,,Let's just say that you open
 Dialogue: 0,0:18:42.14,0:18:43.26,Dubtitles,,0,0,0,,It's that simple.
 Dialogue: 0,0:18:51.10,0:18:53.70,Dubtitles,,0,0,0,,Holly, we're going to\Nsave you no matter what.
 Dialogue: 0,0:18:53.78,0:18:54.88,Dubtitles,,0,0,0,,You have my word.
-Dialogue: 0,0:18:55.62,0:18:57.91,Dubtitles,,0,0,0,,There's nothing to worry about.
+Dialogue: 0,0:18:55.62,0:18:57.91,Dubtitles,,0,0,0,,There's nothing for you to worry about.
 Dialogue: 0,0:18:58.48,0:19:01.01,Dubtitles,,0,0,0,,We are going to make\Nyou better, I promise.
 Dialogue: 0,0:19:01.62,0:19:04.04,Dubtitles,,0,0,0,,Just take it easy and rest.
-Dialogue: 0,0:19:07.80,0:19:09.28,Dubtitles,,0,0,0,,JoJo's mother, Holly,
+Dialogue: 0,0:19:07.80,0:19:09.28,Dubtitles,,0,0,0,,JoJo's mother, Holy,
 Dialogue: 0,0:19:09.50,0:19:13.50,Dubtitles,,0,0,0,,has the ability to calm a person's\Nsoul and put their minds at ease.
 Dialogue: 0,0:19:13.88,0:19:16.36,Dubtitles,,0,0,0,,People feel relaxed\Njust by being near her.
 Dialogue: 0,0:19:16.44,0:19:20.14,Dubtitles,,0,0,0,,This may sound strange,\Nbut if I ever fall in love,
@@ -2018,11 +2018,11 @@ Dialogue: 0,0:19:45.14,0:19:48.28,Dubtitles,,0,0,0,,wagon foundation they're\Ngo
 Dialogue: 0,0:19:48.36,0:19:52.22,Dubtitles,,0,0,0,,and take care of holly\Naround the clock jojo since
 Dialogue: 0,0:19:52.30,0:19:55.00,Dubtitles,,0,0,0,,i am a fortune teller by\Ntrade i'd like to name
 Dialogue: 0,0:19:55.08,0:19:58.44,Dubtitles,,0,0,0,,your stand before we\Ngo huh name it with the
-Dialogue: 0,0:19:58.52,0:20:01.84,Dubtitles,,0,0,0,,Tarot, the cards of fate,\Ndo not look but let chance.
-Dialogue: 0,0:20:01.92,0:20:05.20,Dubtitles,,0,0,0,,Guide your choice. It will\Nnot only suggest to us.
+Dialogue: 0,0:19:58.52,0:20:01.84,Dubtitles,,0,0,0,,Tarot. The cards of fate.\NDo not look, but let chance
+Dialogue: 0,0:20:01.92,0:20:05.20,Dubtitles,,0,0,0,,Guide your choice. It will\Nnot only suggest to us
 Dialogue: 0,0:20:05.28,0:20:08.56,Dubtitles,,0,0,0,,your destiny but also the\Nabilities of your stand
 Dialogue: 0,0:20:14.96,0:20:17.98,Dubtitles,,0,0,0,,the star card i shall name your
-Dialogue: 0,0:20:18.06,0:20:23.76,Dubtitles,,0,0,0,,stand star platinum jojaro kujo stand
+Dialogue: 0,0:20:18.06,0:20:23.76,Dubtitles,,0,0,0,,Stand Star Platinum! Jojaro Kujo. Stand
 Dialogue: 1,0:20:22.70,0:20:22.74,SC3 Character Signs,sign,0,0,0,,{=58}{\fscx1000\fscy1000\shad3\be0.4\fade(255,0,255,0,200,6420,6420)\pos(409.06,899.3)}Jotaro Kujo
 Dialogue: 1,0:20:22.74,0:20:22.78,SC3 Character Signs,sign,0,0,0,,{=58}{\fscx1000\fscy1000\shad3\be0.4\fade(255,0,255,-40,160,6380,6380)\pos(408.36,898.47)}Jotaro Kujo
 Dialogue: 1,0:20:22.78,0:20:22.82,SC3 Character Signs,sign,0,0,0,,{=58}{\fscx1000\fscy1000\shad3\be0.4\fade(255,0,255,-80,120,6340,6340)\pos(408.56,898.18)}Jotaro Kujo
@@ -2453,7 +2453,7 @@ Dialogue: 1,0:20:34.00,0:20:34.04,SC3 Character Signs,sign,0,0,0,,{=65}{\be0.4\f
 Dialogue: 1,0:20:34.00,0:20:34.04,SC3 Character Signs,sign,0,0,0,,{=64}{\be0.4\fade(255,0,255,-2800,-2584,80,80)\pos(1887.52,1033.16)}Hermit Purple
 Dialogue: 1,0:20:34.04,0:20:34.08,SC3 Character Signs,sign,0,0,0,,{=65}{\be0.4\fade(255,0,255,-4050,-3850,40,40)\pos(1990.35,958.503)}Joseph Joestar
 Dialogue: 1,0:20:34.04,0:20:34.08,SC3 Character Signs,sign,0,0,0,,{=64}{\be0.4\fade(255,0,255,-2840,-2624,40,40)\pos(2007.23,1086.13)}Hermit Purple
-Dialogue: 0,0:20:34.50,0:20:37.24,Dubtitles,,0,0,0,,Mohamed Avdol, Stand Name, Magician's Red.
+Dialogue: 0,0:20:34.50,0:20:37.24,Dubtitles,,0,0,0,,Muhammad Avdol, Stand\NName, Magician's Red.
 Dialogue: 1,0:20:34.83,0:20:34.88,SC3 Character Signs,sign,0,0,0,,{=68}{\fade(255,0,255,0,200,4550,4550)\be0.4\pos(1053.29,873.13)}Mohammed Avdol
 Dialogue: 1,0:20:34.88,0:20:34.92,SC3 Character Signs,sign,0,0,0,,{=68}{\fade(255,0,255,-50,150,4500,4500)\be0.4\pos(1053.68,873.2)}Mohammed Avdol
 Dialogue: 1,0:20:34.92,0:20:34.96,SC3 Character Signs,sign,0,0,0,,{=68}{\fade(255,0,255,-90,110,4460,4460)\be0.4\pos(1054.07,873.26)}Mohammed Avdol
@@ -3028,47 +3028,43 @@ Dialogue: 1,0:20:53.56,0:20:53.60,SFXYellow2 - Copy,12,0,0,0,,{=40}{\blur0.9\fad
 Dialogue: 2,0:20:53.56,0:20:53.60,SFXYellow2 - Copy,12,0,0,0,,{=40}{\bord0\blur0.9\fade(255,0,255,-2040,-2040,-700,100)\frz1.265\pos(1071.41,585.87)\4a&HFF&}Bam
 Dialogue: 1,0:20:53.60,0:20:53.64,SFXYellow2 - Copy,12,0,0,0,,{=40}{\blur0.9\fade(255,0,255,-2080,-2080,-740,60)\frz1.265\pos(1071.4,585.82)\c&H121D22&}Bam
 Dialogue: 2,0:20:53.60,0:20:53.64,SFXYellow2 - Copy,12,0,0,0,,{=40}{\bord0\blur0.9\fade(255,0,255,-2080,-2080,-740,60)\frz1.265\pos(1071.4,585.82)\4a&HFF&}Bam
-Dialogue: 0,0:21:10.72,0:21:13.38,Dubtitles,,0,0,0,,All the old paintings on the tomb.
+Dialogue: 0,0:21:10.72,0:21:14.80,Dubtitles,,0,0,0,,All the old paintings on the\Ntomb. They do the sand dance,
 Dialogue: 1,0:21:11.16,0:21:13.54,Lyrics 2,,0,0,0,,All the old paintings on the tomb
-Dialogue: 0,0:21:13.46,0:21:15.42,Dubtitles,,0,0,0,,They do the sand dance, don't you know?
 Dialogue: 1,0:21:13.54,0:21:15.83,Lyrics 2,,0,0,0,,They do the sand dance, don'tcha know?
-Dialogue: 0,0:21:15.50,0:21:17.66,Dubtitles,,0,0,0,,If you move too quick, go away!
+Dialogue: 0,0:21:14.94,0:21:17.06,Dubtitles,,0,0,0,,don't you know If you move too quick,
 Dialogue: 1,0:21:15.83,0:21:17.29,Lyrics 2,,0,0,0,,If they move too quick
-Dialogue: 0,0:21:17.74,0:21:20.08,Dubtitles,,0,0,0,,They're falling down like a domino.
+Dialogue: 0,0:21:17.14,0:21:20.72,Dubtitles,,0,0,0,,Go away. They're falling\Ndown like a domino. All the
 Dialogue: 1,0:21:18.08,0:21:20.55,Lyrics 2,,0,0,0,,They're falling down like a domino
-Dialogue: 0,0:21:20.16,0:21:22.78,Dubtitles,,0,0,0,,All the buzzer men by the Nile.
 Dialogue: 1,0:21:20.55,0:21:22.88,Lyrics 2,,0,0,0,,All the bazaar men by the Nile
-Dialogue: 0,0:21:22.86,0:21:26.40,Dubtitles,,0,0,0,,They got the money on a\Nbed Called crocodiles.
+Dialogue: 0,0:21:20.80,0:21:25.34,Dubtitles,,0,0,0,,Buzzer Men by the Nile. They\Ngot the money on a bed. Called
 Dialogue: 1,0:21:22.88,0:21:25.22,Lyrics 2,,0,0,0,,They got the money on a bet
 Dialogue: 1,0:21:25.22,0:21:26.72,Lyrics 2,,0,0,0,,Gold crocodiles
-Dialogue: 0,0:21:26.48,0:21:31.64,Dubtitles,,0,0,0,,If I snap their teeth on your cigarette,\NForeign types of the hookah. I say.
+Dialogue: 0,0:21:25.42,0:21:29.36,Dubtitles,,0,0,0,,Crocodiles if I snap their\Nteeth on your cigarette.
 Dialogue: 1,0:21:27.39,0:21:29.85,Lyrics 2,,0,0,0,,They snap their teeth on your cigarette
+Dialogue: 0,0:21:29.44,0:21:30.98,Dubtitles,,0,0,0,,Foreign types of the hookah
 Dialogue: 1,0:21:29.85,0:21:32.06,Lyrics 2,,0,0,0,,Foreign types with their hookah pipes say
-Dialogue: 0,0:21:31.72,0:21:32.70,Dubtitles,,0,0,0,,Walk
+Dialogue: 0,0:21:31.06,0:21:32.70,Dubtitles,,0,0,0,,I say walk.
 Dialogue: 0,0:21:32.78,0:21:39.76,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:21:39.06,0:21:41.61,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:21:39.84,0:21:40.67,Dubtitles,,0,0,0,,an Egyptian.
-Dialogue: 0,0:21:52.34,0:21:54.00,Dubtitles,,0,0,0,,The blonde waitresses.
+Dialogue: 0,0:21:39.84,0:21:40.67,Dubtitles,,0,0,0,,an Egyptian
+Dialogue: 0,0:21:52.34,0:21:56.48,Dubtitles,,0,0,0,,The blonde waitresses Take\Ntheir trays and spin around and
 Dialogue: 1,0:21:52.99,0:21:55.46,Lyrics 2,,0,0,0,,The blonde waitresses take their trays
-Dialogue: 0,0:21:54.08,0:21:57.36,Dubtitles,,0,0,0,,Take their trays and spin\Naround and they cross the floor.
 Dialogue: 1,0:21:55.46,0:21:57.83,Lyrics 2,,0,0,0,,They spin around and they cross the floor
-Dialogue: 0,0:21:57.44,0:21:58.88,Dubtitles,,0,0,0,,They've got the moves.
+Dialogue: 0,0:21:56.56,0:22:00.86,Dubtitles,,0,0,0,,They cross the floor. They've got\Nthe moves. You drop your drink.
 Dialogue: 1,0:21:57.83,0:21:59.08,Lyrics 2,,0,0,0,,They've got the moves
-Dialogue: 0,0:21:58.96,0:22:02.04,Dubtitles,,0,0,0,,You drop your drink then\Nthey bring you more.
 Dialogue: 1,0:22:00.13,0:22:02.46,Lyrics 2,,0,0,0,,You drop your drink then they bring you more
-Dialogue: 0,0:22:02.12,0:22:04.68,Dubtitles,,0,0,0,,All the school kids so sick of books.
+Dialogue: 0,0:22:00.94,0:22:04.68,Dubtitles,,0,0,0,,then they bring you more All\Nthe school kids so sick of books
 Dialogue: 1,0:22:02.46,0:22:04.80,Lyrics 2,,0,0,0,,All the school kids so sick of books
-Dialogue: 0,0:22:04.76,0:22:06.74,Dubtitles,,0,0,0,,They're like the punk and the metal band.
+Dialogue: 0,0:22:04.76,0:22:08.41,Dubtitles,,0,0,0,,They're like the punk and the\Nmetal band When the buzzer rings
 Dialogue: 1,0:22:04.80,0:22:07.13,Lyrics 2,,0,0,0,,They like the punk and the metal band
-Dialogue: 0,0:22:06.82,0:22:08.30,Dubtitles,,0,0,0,,When the buzzer rings,
 Dialogue: 1,0:22:07.13,0:22:08.59,Lyrics 2,,0,0,0,,When the buzzer rings
-Dialogue: 0,0:22:09.04,0:22:11.00,Dubtitles,,0,0,0,,They're walking like an Egyptian.
+Dialogue: 0,0:22:09.04,0:22:12.24,Dubtitles,,0,0,0,,They're walking like an\NEgyptian. All the kids
 Dialogue: 1,0:22:09.43,0:22:11.76,Lyrics 2,,0,0,0,,They're walking like an Egyptian
-Dialogue: 0,0:22:11.08,0:22:14.32,Dubtitles,,0,0,0,,All the kids in the marketplace say. Walk
 Dialogue: 1,0:22:11.76,0:22:13.97,Lyrics 2,,0,0,0,,All the kids in the marketplace say
+Dialogue: 0,0:22:12.32,0:22:14.32,Dubtitles,,0,0,0,,in the marketplace say Walk
 Dialogue: 0,0:22:14.40,0:22:21.40,Dubtitles,,0,0,0,,like
 Dialogue: 1,0:22:21.11,0:22:24.19,Lyrics 2,,0,0,0,,Walk like an Egyptian
-Dialogue: 0,0:22:21.82,0:22:22.65,Dubtitles,,0,0,0,,an Egyptian.
+Dialogue: 0,0:22:21.82,0:22:22.65,Dubtitles,,0,0,0,,an Egyptian
 Dialogue: 0,0:22:49.42,0:22:53.36,Dubtitles,,0,0,0,,As I thought, they found out where I am.
 Dialogue: 0,0:22:55.50,0:23:01.26,Dubtitles,,0,0,0,,So then, will you come to\NEgypt, Joseph and Jotaro?
 Dialogue: 0,0:23:04.58,0:23:05.90,Dubtitles,,0,0,0,,He saw us.
@@ -3076,13 +3072,10 @@ Dialogue: 0,0:23:06.08,0:23:09.64,Dubtitles,,0,0,0,,I definitely felt Dio\Nlooki
 Dialogue: 0,0:23:11.18,0:23:12.01,Dubtitles,,0,0,0,,Be careful.
 Dialogue: 0,0:23:12.09,0:23:16.50,Dubtitles,,0,0,0,,A new stand user could\Nalready be on this plane.
 Dialogue: 1,0:23:26.46,0:23:28.47,Next Episode,,0,0,0,,{\fs120\pos(960,730)}Next Episode
-Dialogue: 0,0:23:26.84,0:23:29.86,Dubtitles,,0,0,0,,We found the next stand user impossible.
-Dialogue: 0,0:23:29.94,0:23:32.06,Dubtitles,,0,0,0,,It's faster than Star Platinum.
-Dialogue: 0,0:23:32.14,0:23:33.84,Dubtitles,,0,0,0,,What if it rips you apart?
-Dialogue: 0,0:23:33.92,0:23:35.78,Dubtitles,,0,0,0,,It'll go mad with joy. Wow.
-Dialogue: 0,0:23:35.86,0:23:37.12,Dubtitles,,0,0,0,,He's so handsome.
-Dialogue: 0,0:23:37.20,0:23:39.02,Dubtitles,,0,0,0,,Excuse me.
-Dialogue: 0,0:23:39.10,0:23:41.06,Dubtitles,,0,0,0,,Sorry to be a bother.
+Dialogue: 0,0:23:26.84,0:23:29.86,Dubtitles,,0,0,0,,We found the next Stand user. Impossible!
+Dialogue: 0,0:23:29.94,0:23:33.32,Dubtitles,,0,0,0,,it's faster than saw\Nplatinum what if it rips
+Dialogue: 0,0:23:33.40,0:23:36.42,Dubtitles,,0,0,0,,you apart it'll go mad with joy wow he's
+Dialogue: 0,0:23:36.50,0:23:41.06,Dubtitles,,0,0,0,,so handsome excuse me sorry to be a bother
 Dialogue: 1,0:23:39.48,0:23:41.48,Next Episode,sign,0,0,0,,{\pos(960,235)\fs100}Episode 4
 Dialogue: 1,0:23:39.48,0:23:41.48,Next Episode,sign,0,0,0,,{\pos(960,825)\fs100}Tower of Gray
 

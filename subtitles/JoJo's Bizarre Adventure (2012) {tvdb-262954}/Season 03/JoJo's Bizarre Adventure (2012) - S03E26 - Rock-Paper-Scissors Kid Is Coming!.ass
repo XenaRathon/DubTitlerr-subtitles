@@ -54,11 +54,11 @@ Style: SFXRed,Shaky Hand Some Comic Bold,170,&H007774E1,&H000000FF,&H00060506,&H
 Style: SFXGreen,Shaky Hand Some Comic Bold,100,&H0085E5DC,&H000000FF,&H00090B0C,&H00000000,0,0,0,0,130,100,0,0,1,10,0,8,50,40,20,1
 Style: SFXBlue2,Franciscan,200,&H00DFA246,&H000000FF,&H00010804,&H00000000,-1,0,0,0,130,100,0,0,1,12,0,8,50,40,20,1
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H65000000,&H000000FF,&H00000000,&H1F514F02,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.10,0:00:10.80,Dubtitles,,0,0,0,,Years ago, I took a trip to Egypt,\Nwhere I met an old hag named Anjuro.
+Dialogue: 0,0:00:06.10,0:00:10.80,Dubtitles,,0,0,0,,Years ago, I took a trip to Egypt,\Nwhere I met an old hag named Enya.
 Dialogue: 0,0:00:11.16,0:00:14.28,Dubtitles,,0,0,0,,She told me to fire this\Narrow at whoever it desired.
 Dialogue: 0,0:00:14.64,0:00:17.08,Dubtitles,,0,0,0,,For the Impaled would become my ally.
 Dialogue: 0,0:00:17.58,0:00:18.99,Dubtitles,,0,0,0,,After the initial shock,
@@ -192,182 +192,188 @@ Dialogue: 1,0:01:46.21,0:01:50.54,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1
 Dialogue: 1,0:01:46.21,0:01:50.54,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HF8E3D2&}Those who fight with a heart pierced by the arrow
 Dialogue: 1,0:01:50.54,0:01:54.05,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HF8E3D2&}butsukeau kokoro wa utsukushii
 Dialogue: 1,0:01:50.54,0:01:54.05,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HF8E3D2&}Are a beautiful sight to behold
-Dialogue: 0,0:01:51.52,0:01:56.36,Dubtitles,,0,0,0,,much for watching.
+Dialogue: 0,0:01:51.52,0:01:56.52,Dubtitles,,0,0,0,,much for watching. I'm chasing you!
 Dialogue: 1,0:01:54.05,0:01:55.09,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,0)}{\1c&HF8E3D2&}doko mademo chase you
 Dialogue: 1,0:01:54.05,0:01:55.09,Part 4 OP2 English,,0,0,0,,{\fad(100,0)}{\1c&HF8E3D2&}Anywhere you go I'll chase you
 Dialogue: 1,0:01:55.09,0:01:56.72,Part 4 OP2 Japanese,,0,0,0,,{\fad(0,100)}{\1c&HC3F0FA&}doko mademo chase you
 Dialogue: 1,0:01:55.09,0:01:56.72,Part 4 OP2 English,,0,0,0,,{\fad(0,100)}{\1c&HC3F0FA&}Anywhere you go I'll chase you
+Dialogue: 0,0:01:56.60,0:02:00.86,Dubtitles,,0,0,0,,I'm chasing you!
 Dialogue: 1,0:01:56.72,0:01:58.84,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HC3F0FA&}itsumo chase you
 Dialogue: 1,0:01:56.72,0:01:58.84,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HC3F0FA&}I'll always chase you
 Dialogue: 1,0:01:58.84,0:02:01.01,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HC3F0FA&}ore wa chase you
 Dialogue: 1,0:01:58.84,0:02:01.01,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HC3F0FA&}I will chase you
+Dialogue: 0,0:02:00.96,0:02:05.74,Dubtitles,,0,0,0,,I can't walk by the road, go\Nchase you! I'm chasing you!
 Dialogue: 1,0:02:01.01,0:02:02.60,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}nigeba wa nai
 Dialogue: 1,0:02:01.01,0:02:02.60,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}You can't escape me
 Dialogue: 1,0:02:02.60,0:02:05.27,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}hashiridase chase you
 Dialogue: 1,0:02:02.60,0:02:05.27,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}Run faster as I chase you
 Dialogue: 1,0:02:05.27,0:02:07.39,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}asu mo chase you
 Dialogue: 1,0:02:05.27,0:02:07.39,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}Even tomorrow I'll chase you
+Dialogue: 0,0:02:05.82,0:02:09.64,Dubtitles,,0,0,0,,If I'm chasing you, I'll get you ready!
 Dialogue: 1,0:02:07.39,0:02:10.27,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}tataki tsukete yaru no sa
 Dialogue: 1,0:02:07.39,0:02:10.27,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&HD6ECF9&}Until I finally pummel you
-Dialogue: 0,0:02:10.18,0:02:11.50,Dubtitles,,0,0,0,,That's why I'm
 Dialogue: 1,0:02:10.27,0:02:15.90,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&&HEEF7F1&&}shouhai wo wakeru nowa shunen sa
 Dialogue: 1,0:02:10.27,0:02:15.90,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&&HEEF7F1&&}My perseverance will propel me forward to achieve victory
 Dialogue: 1,0:02:10.27,0:02:15.90,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&&HEEF7F1&&}shouhai wo wakeru nowa shuunen sa
-Dialogue: 0,0:02:11.58,0:02:13.08,Dubtitles,,0,0,0,,chasing
-Dialogue: 0,0:02:13.16,0:02:18.84,Dubtitles,,0,0,0,,you
+Dialogue: 0,0:02:10.36,0:02:15.78,Dubtitles,,0,0,0,,I'll get you. Your chance\Nis by the end of the story.
 Dialogue: 1,0:02:15.90,0:02:21.78,Part 4 OP2 Japanese,,0,0,0,,{\fad(100,100)}{\1c&&HEEF7F1&&}dakara I Chase You
 Dialogue: 1,0:02:15.90,0:02:21.78,Part 4 OP2 English,,0,0,0,,{\fad(100,100)}{\1c&&HEEF7F1&&}Which is why I chase you
+Dialogue: 0,0:02:17.10,0:02:18.46,Dubtitles,,0,0,0,,I'm chasing you!
 Dialogue: 1,0:02:23.83,0:02:28.12,Title Part 4,Sign,0,0,0,,{\fad(648,643)\pos(142,900)\fs60}Episode 26: {\fs80} Rock Paper Scissors Kid is Coming!
-Dialogue: 1,0:02:23.83,0:02:28.12,Title Part 4,Sign,0,0,0,,{\fad(648,643)\pos(142,900)\fs60}Episode 26: {\fs80} Rock, Paper, Scissors Kid is Coming!
-Dialogue: 0,0:02:38.98,0:02:41.94,Dubtitles,,0,0,0,,Well, if it isn't our manga\Nartist extraordinaire.
+Dialogue: 0,0:02:38.96,0:02:41.96,Dubtitles,,0,0,0,,Well, if it isn't our manga\Nartist extraordinaire.
 Dialogue: 0,0:02:42.28,0:02:44.69,Dubtitles,,0,0,0,,I hope you're having a good morning, sir.
-Dialogue: 0,0:02:45.46,0:02:47.28,Dubtitles,,0,0,0,,Hmm, snapping a few photos, eh?
-Dialogue: 0,0:02:47.74,0:02:52.51,Dubtitles,,0,0,0,,I'm trying to take candid shots of office\Nworkers while on their morning commute.
-Dialogue: 0,0:02:52.76,0:02:53.90,Dubtitles,,0,0,0,,Just think about it.
-Dialogue: 0,0:02:53.98,0:02:57.26,Dubtitles,,0,0,0,,Yoshikage Kira, he stole\Nsomeone's identity, correct?
-Dialogue: 0,0:02:57.82,0:03:02.60,Dubtitles,,0,0,0,,Well, he's probably commuting to work\Njust as his victim once did. You think?
+Dialogue: 0,0:02:45.24,0:02:47.18,Dubtitles,,0,0,0,,Hmm, snapping a few photos, eh?
+Dialogue: 0,0:02:47.76,0:02:52.10,Dubtitles,,0,0,0,,I'm trying to take candid shots of office\Nworkers while on their morning commute.
+Dialogue: 0,0:02:52.18,0:02:53.01,Dubtitles,,0,0,0,,Oh?
+Dialogue: 0,0:02:53.09,0:02:54.20,Dubtitles,,0,0,0,,Just think about it.
+Dialogue: 0,0:02:54.30,0:02:57.42,Dubtitles,,0,0,0,,Yoshikage Kira, he stole\Nsomeone's identity, correct?
+Dialogue: 0,0:02:57.86,0:03:02.62,Dubtitles,,0,0,0,,Well, he's probably commuting to work\Njust as his victim once did. You think?
 Dialogue: 0,0:03:03.42,0:03:07.12,Dubtitles,,0,0,0,,He's between 25 and 35\Nand nearly 2 meters tall.
-Dialogue: 0,0:03:07.32,0:03:11.68,Dubtitles,,0,0,0,,Add in that he's an office worker and\Nour suspect pool dramatically decreases.
-Dialogue: 0,0:03:11.76,0:03:12.59,Dubtitles,,0,0,0,,I see.
-Dialogue: 0,0:03:12.84,0:03:15.92,Dubtitles,,0,0,0,,But how can you be sure he\Nuses this exact station?
-Dialogue: 0,0:03:16.00,0:03:18.72,Dubtitles,,0,0,0,,He could just as easily commute by car.
-Dialogue: 0,0:03:18.96,0:03:20.24,Dubtitles,,0,0,0,,That could be the case.
-Dialogue: 0,0:03:20.32,0:03:22.96,Dubtitles,,0,0,0,,But, though he may have changed his face,
-Dialogue: 0,0:03:23.12,0:03:26.98,Dubtitles,,0,0,0,,it's very likely that he will\Nstill fall into old habits. Habits.
-Dialogue: 0,0:03:27.24,0:03:29.86,Dubtitles,,0,0,0,,That'll arouse the suspicion\Nof his cover family.
-Dialogue: 0,0:03:29.94,0:03:32.53,Dubtitles,,0,0,0,,By now, they must realize\Nsomething's amiss.
-Dialogue: 0,0:03:34.74,0:03:38.40,Dubtitles,,0,0,0,,My biggest fear is that the family\Nwill recognize their intruder,
-Dialogue: 0,0:03:38.48,0:03:40.83,Dubtitles,,0,0,0,,prompting him to eliminate them as well.
-Dialogue: 0,0:03:40.92,0:03:43.76,Dubtitles,,0,0,0,,And don't you think for a\Nmoment that I'm going soft.
-Dialogue: 0,0:03:43.84,0:03:46.96,Dubtitles,,0,0,0,,I just want to find Kira\Nbefore he wreaks more havoc.
+Dialogue: 0,0:03:07.34,0:03:11.60,Dubtitles,,0,0,0,,Add in that he's an office worker and\Nour suspect pool dramatically decreases.
+Dialogue: 0,0:03:11.68,0:03:12.56,Dubtitles,,0,0,0,,I see.
+Dialogue: 0,0:03:12.72,0:03:15.90,Dubtitles,,0,0,0,,But how can you be sure he\Nuses this exact station?
+Dialogue: 0,0:03:15.98,0:03:18.74,Dubtitles,,0,0,0,,He could just as easily commute by car.
+Dialogue: 0,0:03:18.96,0:03:20.32,Dubtitles,,0,0,0,,That could be the case.
+Dialogue: 0,0:03:20.66,0:03:23.07,Dubtitles,,0,0,0,,But, though he may have changed his face,
+Dialogue: 0,0:03:23.18,0:03:26.38,Dubtitles,,0,0,0,,it's very likely that he will\Nstill fall into old habits.
+Dialogue: 0,0:03:26.46,0:03:27.29,Dubtitles,,0,0,0,,Habits.
+Dialogue: 0,0:03:27.37,0:03:29.90,Dubtitles,,0,0,0,,That'll arouse the suspicion\Nof his cover family.
+Dialogue: 0,0:03:29.98,0:03:32.51,Dubtitles,,0,0,0,,By now they must realize\Nsomething's amiss.
+Dialogue: 0,0:03:33.20,0:03:34.03,Dubtitles,,0,0,0,,Hmm.
+Dialogue: 0,0:03:34.76,0:03:38.46,Dubtitles,,0,0,0,,My biggest fear is that the family\Nwill recognize their intruder,
+Dialogue: 0,0:03:38.54,0:03:40.84,Dubtitles,,0,0,0,,prompting him to eliminate them as well.
+Dialogue: 0,0:03:40.92,0:03:43.54,Dubtitles,,0,0,0,,And don't you think for a\Nmoment that I'm going soft?
+Dialogue: 0,0:03:43.62,0:03:46.74,Dubtitles,,0,0,0,,I just want to find Kira\Nbefore he wreaks more havoc.
 Dialogue: 0,0:03:48.14,0:03:49.86,Dubtitles,,0,0,0,,Hey, tall bros!
-Dialogue: 0,0:03:52.94,0:03:56.23,Dubtitles,,0,0,0,,Does one of you want to play\Nme in a game of Rochambeau?
-Dialogue: 0,0:03:57.10,0:03:57.93,Dubtitles,,0,0,0,,Rocham!
-Dialogue: 0,0:03:58.28,0:04:00.16,Dubtitles,,0,0,0,,What are you two deaf or something?
-Dialogue: 0,0:04:00.24,0:04:01.07,Dubtitles,,0,0,0,,Play with me!
-Dialogue: 0,0:04:01.18,0:04:03.50,Dubtitles,,0,0,0,,What an oddball. Just play already!
+Dialogue: 0,0:03:52.92,0:03:56.21,Dubtitles,,0,0,0,,Does one of you want to play\Nme in a game of Rochambeau?
+Dialogue: 0,0:03:57.08,0:03:57.91,Dubtitles,,0,0,0,,Rock!
+Dialogue: 0,0:03:58.28,0:04:00.14,Dubtitles,,0,0,0,,What are you two, deaf or something?
+Dialogue: 0,0:04:00.22,0:04:01.05,Dubtitles,,0,0,0,,Play with me!
+Dialogue: 0,0:04:01.16,0:04:03.50,Dubtitles,,0,0,0,,What an oddball. Just play already!
 Dialogue: 1,0:04:02.72,0:04:04.47,Main,Ken,0,0,0,,{\an8}Rock, Paper...!
 Dialogue: 0,0:04:03.58,0:04:07.11,Dubtitles,,0,0,0,,I suppose every station has a\Nnut job or two running around.
-Dialogue: 0,0:04:07.32,0:04:08.15,Dubtitles,,0,0,0,,Well, Mr.
-Dialogue: 0,0:04:08.24,0:04:11.68,Dubtitles,,0,0,0,,Joestar, if you come across any\Nleads, you know how to reach me.
-Dialogue: 0,0:04:11.76,0:04:15.53,Dubtitles,,0,0,0,,Don't go sticking your nose in\Ntrouble all by yourself now.
-Dialogue: 0,0:04:20.32,0:04:21.22,Dubtitles,,0,0,0,,Hey, mister.
-Dialogue: 0,0:04:21.52,0:04:23.23,Dubtitles,,0,0,0,,Aren't you that manga artist?
+Dialogue: 0,0:04:07.30,0:04:08.13,Dubtitles,,0,0,0,,Well, Mr.
+Dialogue: 0,0:04:08.24,0:04:11.66,Dubtitles,,0,0,0,,Joestar, if you come across any\Nleads, you know how to reach me.
+Dialogue: 0,0:04:11.74,0:04:15.51,Dubtitles,,0,0,0,,Don't go sticking your nose in\Ntrouble all by your lonesome now.
+Dialogue: 0,0:04:20.28,0:04:21.22,Dubtitles,,0,0,0,,Hey, mister!
+Dialogue: 0,0:04:21.48,0:04:23.19,Dubtitles,,0,0,0,,Aren't you that manga artist?
 Dialogue: 0,0:04:24.54,0:04:26.98,Dubtitles,,0,0,0,,You stopped drawing for\Na little while, right?
-Dialogue: 0,0:04:27.06,0:04:29.92,Dubtitles,,0,0,0,,I'm a big Shonen Jump\Nfan, so I know your work.
+Dialogue: 0,0:04:27.06,0:04:29.92,Dubtitles,,0,0,0,,I'm a big Shonen Jump\Nfan, so I know your work!
 Dialogue: 1,0:04:27.24,0:04:33.58,Note,,0,0,0,,Note: Shonen Jump is the weekly manga magazine Diamond is Unbreakable was printed in.
 Dialogue: 1,0:04:27.24,0:04:33.58,Note,,0,0,0,,Note: Shonen Jump is the weekly comics magazine Diamond is Unbreakable was printed in.
-Dialogue: 0,0:04:30.04,0:04:31.14,Dubtitles,,0,0,0,,Now, how about it?
-Dialogue: 0,0:04:31.30,0:04:33.80,Dubtitles,,0,0,0,,It won't kill you to\Nplay with me, will it?
-Dialogue: 0,0:04:33.88,0:04:35.52,Dubtitles,,0,0,0,,What is your problem, kid?
-Dialogue: 0,0:04:35.78,0:04:36.66,Dubtitles,,0,0,0,,Hit the bricks!
-Dialogue: 0,0:04:36.90,0:04:40.10,Dubtitles,,0,0,0,,But I just want to play\NRochambeau, it'll be fun!
-Dialogue: 0,0:04:44.72,0:04:45.55,Dubtitles,,0,0,0,,What the?
-Dialogue: 0,0:04:45.64,0:04:46.72,Dubtitles,,0,0,0,,How peculiar.
-Dialogue: 0,0:04:47.04,0:04:49.48,Dubtitles,,0,0,0,,The boy's left cheek has a big hole in it.
-Dialogue: 0,0:04:49.56,0:04:52.34,Dubtitles,,0,0,0,,It's so deep, I bet it\Nextends into his mouth.
-Dialogue: 0,0:04:52.76,0:04:55.10,Dubtitles,,0,0,0,,No hard feelings if you win, but...
-Dialogue: 0,0:04:55.18,0:04:56.66,Dubtitles,,0,0,0,,a drawing we go again.
-Dialogue: 0,0:04:56.94,0:05:00.98,Dubtitles,,0,0,0,,If you're late, then you lose,\Nunderstand? Ready? And...
-Dialogue: 0,0:05:01.06,0:05:01.92,Dubtitles,,0,0,0,,Ro-sham!
-Dialogue: 0,0:05:02.12,0:05:04.56,Dubtitles,,0,0,0,,This kid is being weirdly tenacious.
-Dialogue: 0,0:05:05.68,0:05:07.34,Dubtitles,,0,0,0,,Is he a stand user?
-Dialogue: 0,0:05:10.88,0:05:12.24,Dubtitles,,0,0,0,,All right, then!
-Dialogue: 0,0:05:12.52,0:05:13.86,Dubtitles,,0,0,0,,Ro-sham!
-Dialogue: 0,0:05:14.70,0:05:16.76,Dubtitles,,0,0,0,,Heaven's Door! Shut this brat up!
-Dialogue: 0,0:05:29.26,0:05:31.06,Dubtitles,,0,0,0,,Hmm, now let's see.
+Dialogue: 0,0:04:30.04,0:04:31.14,Dubtitles,,0,0,0,,Now how about it?
+Dialogue: 0,0:04:31.32,0:04:33.82,Dubtitles,,0,0,0,,It won't kill you to\Nplay with me, will it?
+Dialogue: 0,0:04:33.90,0:04:35.52,Dubtitles,,0,0,0,,What is your problem, kid?
+Dialogue: 0,0:04:35.76,0:04:36.59,Dubtitles,,0,0,0,,Hit the bricks!
+Dialogue: 0,0:04:36.67,0:04:39.04,Dubtitles,,0,0,0,,But I just want to play Rochambeau.
+Dialogue: 0,0:04:39.20,0:04:40.18,Dubtitles,,0,0,0,,It'll be fun!
+Dialogue: 0,0:04:44.62,0:04:45.62,Dubtitles,,0,0,0,,What the...
+Dialogue: 0,0:04:45.70,0:04:46.72,Dubtitles,,0,0,0,,how peculiar.
+Dialogue: 0,0:04:47.02,0:04:49.56,Dubtitles,,0,0,0,,The boy's left cheek has a big hole in it.
+Dialogue: 0,0:04:49.70,0:04:52.41,Dubtitles,,0,0,0,,It's so deep, I bet it\Nextends into his mouth.
+Dialogue: 0,0:04:52.66,0:04:54.96,Dubtitles,,0,0,0,,No hard feelings if you win, but...
+Dialogue: 0,0:04:55.04,0:04:56.68,Dubtitles,,0,0,0,,If we tie, we go again.
+Dialogue: 0,0:04:56.94,0:05:00.12,Dubtitles,,0,0,0,,If you're late, then you\Nlose, understand? Ready?
+Dialogue: 0,0:05:00.48,0:05:01.82,Dubtitles,,0,0,0,,And Rock, ham!
+Dialogue: 0,0:05:02.12,0:05:04.54,Dubtitles,,0,0,0,,This kid is being weirdly tenacious.
+Dialogue: 0,0:05:05.42,0:05:07.34,Dubtitles,,0,0,0,,Is he a stand user?
+Dialogue: 0,0:05:10.62,0:05:12.24,Dubtitles,,0,0,0,,All right then!
+Dialogue: 0,0:05:12.54,0:05:13.60,Dubtitles,,0,0,0,,Road ship!
+Dialogue: 0,0:05:14.48,0:05:15.48,Dubtitles,,0,0,0,,Heaven's door!
+Dialogue: 0,0:05:15.66,0:05:16.76,Dubtitles,,0,0,0,,Shut this brat up!
+Dialogue: 0,0:05:29.22,0:05:31.08,Dubtitles,,0,0,0,,Hmm, now let's see...
 Dialogue: 0,0:05:31.30,0:05:34.32,Dubtitles,,0,0,0,,It says his name is Ken Oyunagi, age 11.
 Dialogue: 0,0:05:34.82,0:05:37.70,Dubtitles,,0,0,0,,I'm not seeing anything\Nabout him having a stand.
-Dialogue: 0,0:05:37.96,0:05:41.14,Dubtitles,,0,0,0,,He got the injury when he\Nfell from a telephone pole.
+Dialogue: 0,0:05:37.96,0:05:41.12,Dubtitles,,0,0,0,,He got the injury when he\Nfell from a telephone pole.
 Dialogue: 1,0:05:41.98,0:05:45.99,Note,Sign,0,0,0,,Note: Loves Rock Paper Scissors. \NWants to play real bad. Plays Scissors first.
-Dialogue: 1,0:05:41.98,0:05:45.99,Note,Sign,0,0,0,,Note: Loves Rock, Paper, Scissors. \NWants to play real bad. Plays Scissors first.
-Dialogue: 0,0:05:43.50,0:05:44.70,Dubtitles,,0,0,0,,Hmm, interesting.
-Dialogue: 0,0:05:45.76,0:05:48.04,Dubtitles,,0,0,0,,He feels compelled to play Rochambeau.
+Dialogue: 0,0:05:43.40,0:05:44.58,Dubtitles,,0,0,0,,Hmm, interesting.
+Dialogue: 0,0:05:45.84,0:05:48.08,Dubtitles,,0,0,0,,He feels compelled to play Rochambeau.
 Dialogue: 0,0:05:48.24,0:05:49.07,Dubtitles,,0,0,0,,Bizarre, but...
-Dialogue: 0,0:05:49.15,0:05:51.34,Dubtitles,,0,0,0,,Are you two gentlemen going\Nto need a ride, or what?
-Dialogue: 0,0:05:51.42,0:05:53.83,Dubtitles,,0,0,0,,Could we trouble you for 30 more seconds?
+Dialogue: 0,0:05:49.15,0:05:51.30,Dubtitles,,0,0,0,,Are you two gentlemen\Ngonna need a ride or what?
+Dialogue: 0,0:05:51.38,0:05:53.79,Dubtitles,,0,0,0,,Could we trouble you for 30 more seconds?
 Dialogue: 0,0:05:56.48,0:05:57.31,Dubtitles,,0,0,0,,Fire away!
 Dialogue: 0,0:05:57.39,0:05:59.91,Dubtitles,,0,0,0,,Once we do this, you'll\Nhave to leave me be.
-Dialogue: 0,0:06:01.16,0:06:01.99,Dubtitles,,0,0,0,,Rooshambo!
-Dialogue: 0,0:06:04.42,0:06:05.68,Dubtitles,,0,0,0,,Well, so long.
-Dialogue: 0,0:06:08.18,0:06:10.16,Dubtitles,,0,0,0,,How could I lose?
-Dialogue: 0,0:06:19.08,0:06:21.44,Dubtitles,,0,0,0,,I suppose I've done\Nenough work for one day.
-Dialogue: 0,0:06:21.52,0:06:22.35,Dubtitles,,0,0,0,,Yo!
-Dialogue: 0,0:06:22.43,0:06:23.26,Dubtitles,,0,0,0,,Rohan-sensei!
+Dialogue: 0,0:06:01.22,0:06:02.05,Dubtitles,,0,0,0,,Rochambeau!
+Dialogue: 0,0:06:04.42,0:06:05.64,Dubtitles,,0,0,0,,Well, so long.
+Dialogue: 0,0:06:08.16,0:06:09.58,Dubtitles,,0,0,0,,How could I lose?
+Dialogue: 0,0:06:18.80,0:06:21.84,Dubtitles,,0,0,0,,I suppose I've done enough\Nwork for one day. Yo!
+Dialogue: 0,0:06:22.12,0:06:23.18,Dubtitles,,0,0,0,,Rohan Sensei!
 Dialogue: 0,0:06:23.38,0:06:25.30,Dubtitles,,0,0,0,,Are you calling it quits for the day?
 Dialogue: 0,0:06:25.38,0:06:28.79,Dubtitles,,0,0,0,,Instead of sitting all by\Nyourself, why don't you join us?
-Dialogue: 0,0:06:29.42,0:06:30.25,Dubtitles,,0,0,0,,Perfect.
-Dialogue: 0,0:06:30.34,0:06:33.40,Dubtitles,,0,0,0,,A self-absorbed jerk-off,\Na moron, and a bitch.
-Dialogue: 0,0:06:33.88,0:06:37.06,Dubtitles,,0,0,0,,Three people I have absolutely\Nnothing in common with.
-Dialogue: 0,0:06:37.36,0:06:38.28,Dubtitles,,0,0,0,,Hey, guys.
-Dialogue: 0,0:06:38.64,0:06:40.30,Dubtitles,,0,0,0,,Sorry I'm working at the moment.
-Dialogue: 0,0:06:40.38,0:06:41.50,Dubtitles,,0,0,0,,Maybe another time.
+Dialogue: 0,0:06:29.46,0:06:30.29,Dubtitles,,0,0,0,,Perfect.
+Dialogue: 0,0:06:30.37,0:06:33.40,Dubtitles,,0,0,0,,A self-absorbed jerk-off,\Na moron, and a bitch.
+Dialogue: 0,0:06:33.90,0:06:37.08,Dubtitles,,0,0,0,,Three people I have absolutely\Nnothing in common with.
+Dialogue: 0,0:06:37.40,0:06:40.06,Dubtitles,,0,0,0,,Hey guys, sorry I'm working at the moment.
+Dialogue: 0,0:06:40.32,0:06:41.44,Dubtitles,,0,0,0,,Maybe another time.
 Dialogue: 0,0:06:41.90,0:06:42.82,Dubtitles,,0,0,0,,Oh, gotcha.
-Dialogue: 0,0:06:44.96,0:06:46.54,Dubtitles,,0,0,0,,Hey, you brat!
-Dialogue: 0,0:06:46.62,0:06:47.92,Dubtitles,,0,0,0,,What do you think you're doing?
-Dialogue: 0,0:06:48.00,0:06:49.47,Dubtitles,,0,0,0,,I was going to sit there.
-Dialogue: 0,0:06:50.14,0:06:52.88,Dubtitles,,0,0,0,,I bet, but you never actually sat down.
-Dialogue: 0,0:06:53.16,0:06:54.98,Dubtitles,,0,0,0,,The seat was free so I took it.
-Dialogue: 0,0:06:55.08,0:06:57.55,Dubtitles,,0,0,0,,You snooze you lose, you know what I mean?
-Dialogue: 0,0:06:58.18,0:06:59.46,Dubtitles,,0,0,0,,I have had enough.
-Dialogue: 0,0:06:59.70,0:07:00.76,Dubtitles,,0,0,0,,What is your deal?
-Dialogue: 0,0:07:01.42,0:07:03.42,Dubtitles,,0,0,0,,Let's settle this with Rochambeau.
-Dialogue: 0,0:07:03.52,0:07:04.92,Dubtitles,,0,0,0,,Winner takes the seat, okay?
-Dialogue: 0,0:07:05.00,0:07:05.83,Dubtitles,,0,0,0,,Again?
-Dialogue: 0,0:07:09.74,0:07:10.70,Dubtitles,,0,0,0,,Not fair!
-Dialogue: 0,0:07:10.98,0:07:13.22,Dubtitles,,0,0,0,,I sat here first so you can't have it!
-Dialogue: 0,0:07:13.60,0:07:15.12,Dubtitles,,0,0,0,,This is my senior, baby.
-Dialogue: 0,0:07:15.20,0:07:16.14,Dubtitles,,0,0,0,,Is there a problem here?
-Dialogue: 0,0:07:16.22,0:07:17.36,Dubtitles,,0,0,0,,Oh, we're fine.
+Dialogue: 0,0:06:43.40,0:06:44.23,Dubtitles,,0,0,0,,Huh?
+Dialogue: 0,0:06:45.22,0:06:46.62,Dubtitles,,0,0,0,,Hey, you brat!
+Dialogue: 0,0:06:46.92,0:06:47.84,Dubtitles,,0,0,0,,What do you think you're doing?
+Dialogue: 0,0:06:47.92,0:06:49.39,Dubtitles,,0,0,0,,I was going to sit there.
+Dialogue: 0,0:06:50.18,0:06:52.80,Dubtitles,,0,0,0,,I bet, but you never actually sat down.
+Dialogue: 0,0:06:53.14,0:06:54.98,Dubtitles,,0,0,0,,The seat was free, so I took it.
+Dialogue: 0,0:06:55.06,0:06:57.59,Dubtitles,,0,0,0,,You snooze, you lose,\Nyou know what I mean?
+Dialogue: 0,0:06:58.22,0:06:59.46,Dubtitles,,0,0,0,,I have had enough.
+Dialogue: 0,0:06:59.68,0:07:00.74,Dubtitles,,0,0,0,,What is your deal?
+Dialogue: 0,0:07:01.48,0:07:03.38,Dubtitles,,0,0,0,,Let's settle this with Rochambeau.
+Dialogue: 0,0:07:03.46,0:07:04.98,Dubtitles,,0,0,0,,Winner takes the seat, okay?
+Dialogue: 0,0:07:05.06,0:07:05.89,Dubtitles,,0,0,0,,Again?
+Dialogue: 0,0:07:05.97,0:07:06.80,Dubtitles,,0,0,0,,Oh, man!
+Dialogue: 0,0:07:08.34,0:07:09.17,Dubtitles,,0,0,0,,AHH!
+Dialogue: 0,0:07:09.84,0:07:10.72,Dubtitles,,0,0,0,,Not fair!
+Dialogue: 0,0:07:10.96,0:07:13.25,Dubtitles,,0,0,0,,I sat here first, so you can't have it!
+Dialogue: 0,0:07:13.58,0:07:15.16,Dubtitles,,0,0,0,,This is my senior baby!
+Dialogue: 0,0:07:15.24,0:07:16.42,Dubtitles,,0,0,0,,Is there a problem here?
+Dialogue: 0,0:07:16.50,0:07:17.50,Dubtitles,,0,0,0,,Everywhere, fine.
 Dialogue: 0,0:07:17.62,0:07:20.34,Dubtitles,,0,0,0,,Rohan-sensei, why can't\Nyou give him a break?
-Dialogue: 0,0:07:20.60,0:07:22.82,Dubtitles,,0,0,0,,Come on, look at him, he's just a kid.
+Dialogue: 0,0:07:20.62,0:07:21.64,Dubtitles,,0,0,0,,Come on, look at him.
+Dialogue: 0,0:07:21.72,0:07:22.66,Dubtitles,,0,0,0,,He's just a kid.
 Dialogue: 0,0:07:22.90,0:07:24.02,Dubtitles,,0,0,0,,Yeah, I'm with him.
 Dialogue: 0,0:07:24.12,0:07:25.96,Dubtitles,,0,0,0,,You're supposed to be the mature one.
 Dialogue: 0,0:07:26.04,0:07:27.46,Dubtitles,,0,0,0,,You could try sitting next to him.
 Dialogue: 0,0:07:27.54,0:07:28.37,Dubtitles,,0,0,0,,Shut up!
-Dialogue: 0,0:07:28.45,0:07:29.71,Dubtitles,,0,0,0,,None of you are helping!
-Dialogue: 0,0:07:30.28,0:07:31.11,Dubtitles,,0,0,0,,Fine, kid.
+Dialogue: 0,0:07:28.45,0:07:29.69,Dubtitles,,0,0,0,,None of you are helping!
+Dialogue: 0,0:07:30.26,0:07:31.09,Dubtitles,,0,0,0,,Fine, kid.
 Dialogue: 0,0:07:31.26,0:07:32.70,Dubtitles,,0,0,0,,I'll play with you again.
 Dialogue: 0,0:07:32.78,0:07:35.19,Dubtitles,,0,0,0,,Well, that's what you're after, isn't it?
 Dialogue: 0,0:07:36.10,0:07:37.86,Dubtitles,,0,0,0,,Yeah, that's more like it!
-Dialogue: 0,0:07:38.24,0:07:39.86,Dubtitles,,0,0,0,,Okay, now get ready!
-Dialogue: 0,0:07:42.02,0:07:43.56,Dubtitles,,0,0,0,,Ro-sham-bo!
-Dialogue: 0,0:07:45.68,0:07:47.26,Dubtitles,,0,0,0,,Well, would you look at that!
-Dialogue: 0,0:07:47.34,0:07:48.22,Dubtitles,,0,0,0,,I'm the winner!
-Dialogue: 0,0:07:49.20,0:07:50.46,Dubtitles,,0,0,0,,Got nothing to say?
-Dialogue: 0,0:07:50.66,0:07:54.62,Dubtitles,,0,0,0,,I, for one, have never been so happy\Nto win a game of Rochambeau in my life!
-Dialogue: 0,0:07:54.70,0:07:56.52,Dubtitles,,0,0,0,,You call this being mature?
-Dialogue: 0,0:07:58.04,0:08:02.22,Dubtitles,,0,0,0,,There's no better feeling than\Ndestroying a smug whelp at his own game!
-Dialogue: 0,0:08:05.46,0:08:06.29,Dubtitles,,0,0,0,,Damn!
-Dialogue: 0,0:08:06.37,0:08:07.20,Dubtitles,,0,0,0,,Lost again!
-Dialogue: 0,0:08:13.56,0:08:14.39,Dubtitles,,0,0,0,,Oh.
-Dialogue: 0,0:08:15.84,0:08:17.76,Dubtitles,,0,0,0,,This is some good material.
-Dialogue: 0,0:08:18.20,0:08:21.38,Dubtitles,,0,0,0,,Who knew such an obscure\Nbook could be found in Mario?
-Dialogue: 0,0:08:21.68,0:08:23.28,Dubtitles,,0,0,0,,Hm, 7,500 yen.
-Dialogue: 0,0:08:23.52,0:08:24.98,Dubtitles,,0,0,0,,Do I have that much?
-Dialogue: 0,0:08:26.78,0:08:29.40,Dubtitles,,0,0,0,,Excuse me, I want to buy this book!
-Dialogue: 0,0:08:29.78,0:08:31.92,Dubtitles,,0,0,0,,You obnoxious little...
-Dialogue: 0,0:08:33.48,0:08:35.86,Dubtitles,,0,0,0,,Let's duke it out, Rochambeau-style!
-Dialogue: 0,0:08:36.74,0:08:37.57,Dubtitles,,0,0,0,,Fine.
-Dialogue: 0,0:08:37.94,0:08:39.04,Dubtitles,,0,0,0,,Brace yourself!
-Dialogue: 0,0:08:41.10,0:08:42.34,Dubtitles,,0,0,0,,Rochambeau-rock!
-Dialogue: 0,0:08:44.16,0:08:46.69,Dubtitles,,0,0,0,,You're messing with\Nthe wrong artist, punk!
-Dialogue: 0,0:08:48.34,0:08:50.34,Dubtitles,,0,0,0,,Look at that! I won!
-Dialogue: 0,0:08:50.70,0:08:52.42,Dubtitles,,0,0,0,,Still think I'm just a punk?
-Dialogue: 0,0:08:54.24,0:08:56.24,Dubtitles,,0,0,0,,One win, two losses!
-Dialogue: 0,0:08:56.66,0:08:58.48,Dubtitles,,0,0,0,,What the hell is going on here?
-Dialogue: 0,0:09:02.48,0:09:03.86,Dubtitles,,0,0,0,,What is this?
-Dialogue: 0,0:09:04.94,0:09:06.14,Dubtitles,,0,0,0,,What the...?
-Dialogue: 0,0:09:06.22,0:09:08.76,Dubtitles,,0,0,0,,It's that damn cheek hole!
-Dialogue: 0,0:09:09.10,0:09:10.92,Dubtitles,,0,0,0,,So I wasn't off base before!
-Dialogue: 0,0:09:11.18,0:09:13.10,Dubtitles,,0,0,0,,You might be a user! What?
-Dialogue: 0,0:09:14.56,0:09:16.14,Dubtitles,,0,0,0,,This is freaking awesome.
-Dialogue: 0,0:09:16.46,0:09:19.24,Dubtitles,,0,0,0,,I never would have guessed it\Nwas hiding something so cool.
-Dialogue: 0,0:09:19.32,0:09:22.62,Dubtitles,,0,0,0,,I've never felt anything like the\Nenergy flowing into me right now.
-Dialogue: 0,0:09:22.70,0:09:23.92,Dubtitles,,0,0,0,,It's totally awesome.
-Dialogue: 0,0:09:24.00,0:09:25.71,Dubtitles,,0,0,0,,It's like being supercharged.
-Dialogue: 0,0:09:25.84,0:09:26.70,Dubtitles,,0,0,0,,That's enough.
-Dialogue: 0,0:09:26.94,0:09:30.59,Dubtitles,,0,0,0,,Now quickly, heaven's door, turn\Nthis little brat into a book.
+Dialogue: 0,0:07:38.20,0:07:39.86,Dubtitles,,0,0,0,,Okay, now get ready!
+Dialogue: 0,0:07:41.78,0:07:43.52,Dubtitles,,0,0,0,,Ro-Cham-Bo!
+Dialogue: 0,0:07:45.58,0:07:47.12,Dubtitles,,0,0,0,,Well, would you look at that!
+Dialogue: 0,0:07:47.20,0:07:48.08,Dubtitles,,0,0,0,,I'm the winner!
+Dialogue: 0,0:07:49.18,0:07:50.46,Dubtitles,,0,0,0,,Got nothing to say?
+Dialogue: 0,0:07:50.64,0:07:54.58,Dubtitles,,0,0,0,,I, for one, have never been so happy\Nto win a game of Ro-Cham-Bo in my life!
+Dialogue: 0,0:07:54.66,0:07:56.50,Dubtitles,,0,0,0,,You call this being mature?
+Dialogue: 0,0:07:58.00,0:08:02.18,Dubtitles,,0,0,0,,There's no better feeling than\Ndestroying a smug whelp in his own game.
+Dialogue: 0,0:08:05.50,0:08:07.18,Dubtitles,,0,0,0,,Damn, must again!
+Dialogue: 0,0:08:13.82,0:08:14.65,Dubtitles,,0,0,0,,Oh...
+Dialogue: 0,0:08:15.92,0:08:17.76,Dubtitles,,0,0,0,,This is some good material.
+Dialogue: 0,0:08:18.14,0:08:21.32,Dubtitles,,0,0,0,,Who knew such an obscure\Nbook could be found in Mario?
+Dialogue: 0,0:08:21.68,0:08:23.28,Dubtitles,,0,0,0,,Hmm, 7,500 yen.
+Dialogue: 0,0:08:23.52,0:08:25.00,Dubtitles,,0,0,0,,Do I have that much?
+Dialogue: 0,0:08:26.86,0:08:29.40,Dubtitles,,0,0,0,,Excuse me, I want to buy this book!
+Dialogue: 0,0:08:29.86,0:08:31.88,Dubtitles,,0,0,0,,You obnoxious little...
+Dialogue: 0,0:08:33.64,0:08:36.08,Dubtitles,,0,0,0,,Let's duke it out Ro-Sham-Beau-Style!
+Dialogue: 0,0:08:36.86,0:08:37.69,Dubtitles,,0,0,0,,Fine.
+Dialogue: 0,0:08:38.00,0:08:39.02,Dubtitles,,0,0,0,,Brace yourself!
+Dialogue: 0,0:08:39.44,0:08:40.82,Dubtitles,,0,0,0,,Ro-Sham!
+Dialogue: 0,0:08:41.72,0:08:42.55,Dubtitles,,0,0,0,,Rock!
+Dialogue: 0,0:08:44.24,0:08:46.77,Dubtitles,,0,0,0,,You're messing with\Nthe wrong artist, punk!
+Dialogue: 0,0:08:48.42,0:08:50.32,Dubtitles,,0,0,0,,Look at that! I won!
+Dialogue: 0,0:08:50.78,0:08:52.43,Dubtitles,,0,0,0,,Still think I'm just a punk?
+Dialogue: 0,0:08:54.32,0:08:56.24,Dubtitles,,0,0,0,,One win, two losses!
+Dialogue: 0,0:08:56.70,0:08:58.52,Dubtitles,,0,0,0,,What the hell is going on here?
+Dialogue: 0,0:09:01.74,0:09:03.84,Dubtitles,,0,0,0,,Uh, what is this?
+Dialogue: 0,0:09:05.04,0:09:06.24,Dubtitles,,0,0,0,,What the...
+Dialogue: 0,0:09:06.92,0:09:08.78,Dubtitles,,0,0,0,,It's that damn cheek hole!
+Dialogue: 0,0:09:09.08,0:09:13.18,Dubtitles,,0,0,0,,So I wasn't off base before,\Nyou might be a user! What?
+Dialogue: 0,0:09:14.52,0:09:16.14,Dubtitles,,0,0,0,,This is freaking awesome!
+Dialogue: 0,0:09:16.42,0:09:19.24,Dubtitles,,0,0,0,,I never would have guessed it\Nwas hiding something so cool!
+Dialogue: 0,0:09:19.32,0:09:22.62,Dubtitles,,0,0,0,,I've never felt anything like the\Nenergy flowing into me right now!
+Dialogue: 0,0:09:22.70,0:09:23.92,Dubtitles,,0,0,0,,It's totally awesome!
+Dialogue: 0,0:09:24.00,0:09:25.71,Dubtitles,,0,0,0,,It's like being supercharged!
+Dialogue: 0,0:09:25.86,0:09:26.70,Dubtitles,,0,0,0,,That's enough!
+Dialogue: 0,0:09:26.90,0:09:30.55,Dubtitles,,0,0,0,,Now quickly, Heaven's Door! Turn\Nthis little brat into a book!
 Dialogue: 1,0:09:30.00,0:09:30.04,SFXBlue,2,0,0,0,,{=11}{\blur0.6\bord12.78\fscx127.84\fscy127.84\frz350.39\pos(1828.93,919.58)\c&H000403&}Flip
 Dialogue: 2,0:09:30.00,0:09:30.04,SFXBlue,2,0,0,0,,{=11}{\blur0.6\bord0\fscx127.84\fscy127.84\frz350.39\pos(1828.93,919.58)\4a&HFF&}Flip
 Dialogue: 1,0:09:30.04,0:09:30.09,SFXBlue,2,0,0,0,,{=11}{\blur0.6\bord11.76\fscx117.62\fscy117.62\frz354.07\pos(1809.14,827.54)\c&H000403&}Flip
@@ -407,25 +413,26 @@ Dialogue: 0,0:09:39.62,0:09:41.33,Dubtitles,,0,0,0,,Judging from his sloppy work
 Dialogue: 0,0:09:41.44,0:09:44.68,Dubtitles,,0,0,0,,that must have been the first\Ntime he's used his stand.
 Dialogue: 0,0:09:44.90,0:09:48.25,Dubtitles,,0,0,0,,However, that doesn't mean he\Nwon't master it given time.
 Dialogue: 0,0:09:50.50,0:09:53.86,Dubtitles,,0,0,0,,I want to beat the crap out\Nof Rohan and Rochambeau, huh?
-Dialogue: 0,0:09:55.12,0:09:56.84,Dubtitles,,0,0,0,,Rochambeau isn't a game of chance.
-Dialogue: 0,0:09:56.92,0:09:59.18,Dubtitles,,0,0,0,,It's a psychological game of will.
-Dialogue: 0,0:09:59.70,0:10:03.17,Dubtitles,,0,0,0,,If I beat Rohan at Rochambeau,\Nit means I've outwilled him.
+Dialogue: 0,0:09:55.12,0:09:56.86,Dubtitles,,0,0,0,,Rochambeau isn't a game of chance.
+Dialogue: 0,0:09:56.94,0:09:59.16,Dubtitles,,0,0,0,,It's a psychological game of will.
+Dialogue: 0,0:09:59.72,0:10:03.19,Dubtitles,,0,0,0,,If I beat Rohan at Rochambeau,\Nit means I've outwilled him.
 Dialogue: 0,0:10:03.66,0:10:07.31,Dubtitles,,0,0,0,,Rohan's only 20 years old, but\Nhe lives life on his own terms.
 Dialogue: 0,0:10:07.40,0:10:10.34,Dubtitles,,0,0,0,,His work also inspires\Na whole lot of people.
-Dialogue: 0,0:10:10.66,0:10:13.94,Dubtitles,,0,0,0,,If I can beat the crap out\Nof Rohan in Rochambeau,
-Dialogue: 0,0:10:14.08,0:10:16.64,Dubtitles,,0,0,0,,that'll prove I can be\Nbetter than him one day.
+Dialogue: 0,0:10:10.66,0:10:13.96,Dubtitles,,0,0,0,,If I can beat the crap out\Nof Rohan in Rochambeau,
+Dialogue: 0,0:10:14.06,0:10:16.64,Dubtitles,,0,0,0,,that'll prove I can be\Nbetter than him one day.
 Dialogue: 0,0:10:16.72,0:10:21.60,Dubtitles,,0,0,0,,I can't wait to grow up, because then I'll\Nbe just as respected as the great Rohan.
 Dialogue: 0,0:10:24.06,0:10:25.12,Dubtitles,,0,0,0,,I knew it!
 Dialogue: 0,0:10:25.34,0:10:28.28,Dubtitles,,0,0,0,,This kid is well on the road\Nto becoming a stand user.
-Dialogue: 0,0:10:28.36,0:10:31.24,Dubtitles,,0,0,0,,The arrow must have just\Npierced his soul ability
-Dialogue: 0,0:10:31.32,0:10:34.72,Dubtitles,,0,0,0,,winning in Rochambeau makes\Nmy opponent's energy my own.
-Dialogue: 0,0:10:34.80,0:10:38.26,Dubtitles,,0,0,0,,But I must play five games\Nwinning two games only
-Dialogue: 0,0:10:38.34,0:10:41.58,Dubtitles,,0,0,0,,gives me partial energy\Nso he needs to win five.
+Dialogue: 0,0:10:28.36,0:10:30.56,Dubtitles,,0,0,0,,The arrow must have just pierced his soul
+Dialogue: 0,0:10:30.64,0:10:33.80,Dubtitles,,0,0,0,,Ability! Winning in\NRochambeau makes my opponent's
+Dialogue: 0,0:10:33.88,0:10:36.94,Dubtitles,,0,0,0,,energy my own But I must play five games
+Dialogue: 0,0:10:37.02,0:10:39.62,Dubtitles,,0,0,0,,winning two games only\Ngives me partial energy,
+Dialogue: 0,0:10:39.70,0:10:41.58,Dubtitles,,0,0,0,,so he needs to win five
 Dialogue: 1,0:10:41.82,0:10:43.83,Note,Note,0,0,0,,Note: I cannot attack Kishibe Rohan.
 Dialogue: 1,0:10:43.83,0:10:44.74,Note,Note,0,0,0,,Note: I ... attack Kishibe Rohan.
 Dialogue: 1,0:10:46.54,0:10:47.04,Note,Note,0,0,0,,Note: I ... attack Kishibe Rohan.
 Dialogue: 1,0:10:47.04,0:10:49.46,Note,Note,0,0,0,,Note: I can attack Kishibe Rohan.
-Dialogue: 0,0:10:48.94,0:10:54.58,Dubtitles,,0,0,0,,It can't be how did you so this powers\Ncalled a stand that's pretty awesome?
+Dialogue: 0,0:10:48.94,0:10:54.58,Dubtitles,,0,0,0,,It can't be how did you so this powers\Ncalled a stand that's pretty awesome
 Dialogue: 0,0:10:55.48,0:10:58.08,Dubtitles,,0,0,0,,Thought you dodged a\Nbullet there, didn't ya?
 Dialogue: 0,0:10:58.16,0:11:02.56,Dubtitles,,0,0,0,,Well, think again, because I've already\Ngot a third of your so-called stand!
 Dialogue: 0,0:11:02.64,0:11:03.47,Dubtitles,,0,0,0,,What?
@@ -478,45 +485,33 @@ Dialogue: 1,0:11:49.14,0:11:52.02,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:11:49.14,0:11:52.02,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0)\fscx100\fscy100\be0.2\frz57.56\pos(1299.2,537.6)}POTENTIAL
 Dialogue: 1,0:11:49.31,0:11:49.43,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Hea
 Dialogue: 2,0:11:49.31,0:11:49.43,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Hea
-Dialogue: 1,0:11:49.31,0:11:49.43,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Hea
 Dialogue: 1,0:11:49.43,0:11:49.52,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heave
 Dialogue: 2,0:11:49.43,0:11:49.52,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heave
-Dialogue: 1,0:11:49.43,0:11:49.52,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heave
 Dialogue: 1,0:11:49.52,0:11:49.64,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven
 Dialogue: 2,0:11:49.52,0:11:49.64,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven
-Dialogue: 1,0:11:49.52,0:11:49.64,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heaven
 Dialogue: 1,0:11:49.64,0:11:49.77,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven'
 Dialogue: 2,0:11:49.64,0:11:49.77,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven'
-Dialogue: 1,0:11:49.64,0:11:49.77,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heaven'
 Dialogue: 1,0:11:49.77,0:11:49.89,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's
 Dialogue: 2,0:11:49.77,0:11:49.89,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's
-Dialogue: 1,0:11:49.77,0:11:49.89,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heaven's
 Dialogue: 1,0:11:49.89,0:11:49.98,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's Do
 Dialogue: 2,0:11:49.89,0:11:49.98,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's Do
-Dialogue: 1,0:11:49.89,0:11:49.98,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heaven's Do
 Dialogue: 1,0:11:49.98,0:11:50.10,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's Doo
 Dialogue: 2,0:11:49.98,0:11:50.10,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's Doo
-Dialogue: 1,0:11:49.98,0:11:50.10,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heaven's Doo
 Dialogue: 1,0:11:50.10,0:11:52.02,Eyecatch - Episode 18,Signbot,0,0,0,,{\blur0.6\pos(1418,360)\c&H050707&}Heaven's Door
 Dialogue: 2,0:11:50.10,0:11:52.02,Eyecatch - Episode 18,Signbot,0,0,0,,{\bord0\blur0.6\pos(1418,360)\shad2.5\4a&HFF&}Heaven's Door
-Dialogue: 1,0:11:50.10,0:11:52.02,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(1418,360)}Heaven's Door
 Dialogue: 1,0:11:50.60,0:11:50.73,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishi
 Dialogue: 2,0:11:50.60,0:11:50.73,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishi
 Dialogue: 3,0:11:50.60,0:11:50.73,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishi
-Dialogue: 1,0:11:50.60,0:11:50.73,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishi
 Dialogue: 1,0:11:50.68,0:11:52.02,Eyecatch - Stats,sign bot,0,0,0,,{\an7\fad(300,0)}Power: D\NSpeed: B\NRange: B\NDurability: B\NPrecision: C\NGrowth Potential: A
 Dialogue: 1,0:11:50.73,0:11:50.85,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishibe
 Dialogue: 2,0:11:50.73,0:11:50.85,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishibe
 Dialogue: 3,0:11:50.73,0:11:50.85,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishibe
-Dialogue: 1,0:11:50.73,0:11:50.85,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishibe
 Dialogue: 1,0:11:50.85,0:11:50.98,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishibe Ro
 Dialogue: 2,0:11:50.85,0:11:50.98,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishibe Ro
 Dialogue: 3,0:11:50.85,0:11:50.98,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishibe Ro
-Dialogue: 1,0:11:50.85,0:11:50.98,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishibe Ro
 Dialogue: 1,0:11:50.98,0:11:52.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur14\pos(83,790)\alpha&H50&\3c&H3538A2&}Kishibe Rohan
 Dialogue: 2,0:11:50.98,0:11:52.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\blur0.6\pos(83,790)\c&H050707&}Kishibe Rohan
 Dialogue: 3,0:11:50.98,0:11:52.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\bord0\blur0.6\pos(83,790)\shad2.5\4a&HFF&}Kishibe Rohan
-Dialogue: 1,0:11:50.98,0:11:52.02,Eyecatch - Episode 15,Signtop,0,0,0,,{\be4\pos(83,790)}Kishibe Rohan
 Dialogue: 0,0:11:52.04,0:11:55.02,Dubtitles,,0,0,0,,Are you completely oblivious\Nto the plight you're in?
 Dialogue: 0,0:11:55.10,0:11:57.72,Dubtitles,,0,0,0,,If you lose just one more\Ntime, you're finished.
 Dialogue: 0,0:11:57.80,0:12:00.52,Dubtitles,,0,0,0,,Surely by now you've realized\Nyou're all out of chances.
@@ -602,7 +597,7 @@ Dialogue: 0,0:15:50.82,0:15:52.34,Dubtitles,,0,0,0,,No, that's not good!
 Dialogue: 0,0:15:56.56,0:15:58.60,Dubtitles,,0,0,0,,Hey, mister, can I talk to you?
 Dialogue: 0,0:15:58.92,0:16:02.58,Dubtitles,,0,0,0,,So, Rohan-sensei, those two\Nare probably users too, right?
 Dialogue: 0,0:16:03.30,0:16:05.83,Dubtitles,,0,0,0,,Yeah, I'm right, I can\Nfeel it in my bones.
-Dialogue: 0,0:16:06.16,0:16:07.46,Dubtitles,,0,0,0,,Let's test my luck.
+Dialogue: 0,0:16:06.16,0:16:07.46,Dubtitles,,0,0,0,,Let's test my luck!
 Dialogue: 0,0:16:07.64,0:16:10.86,Dubtitles,,0,0,0,,If it all runs out, those two will\Nhead over here and rescue you.
 Dialogue: 0,0:16:10.94,0:16:15.40,Dubtitles,,0,0,0,,But if luck is on my side coming over here\Nwill be the last thing on their minds.
 Dialogue: 0,0:16:15.48,0:16:17.40,Dubtitles,,0,0,0,,Oh, look at that It's Rohan again.
@@ -786,7 +781,7 @@ Dialogue: 1,0:16:27.59,0:16:27.63,SFXPink,3,0,0,0,,{=3}{\blur0.5\fade(255,0,255,
 Dialogue: 2,0:16:27.59,0:16:27.63,SFXPink,3,0,0,0,,{=3}{\bord0\blur0.5\fade(255,0,255,-3590,-3090,-120,80)\pos(957.425,15.732)\org(957.425,15.732)\frz1.339\4a&HFF&}Menacing
 Dialogue: 1,0:16:27.63,0:16:27.67,SFXPink,3,0,0,0,,{=3}{\blur0.5\fade(255,0,255,-3630,-3130,-160,40)\pos(957.425,15.732)\org(957.425,15.732)\frz1.339\c&H080407&}Menacing
 Dialogue: 2,0:16:27.63,0:16:27.67,SFXPink,3,0,0,0,,{=3}{\bord0\blur0.5\fade(255,0,255,-3630,-3130,-160,40)\pos(957.425,15.732)\org(957.425,15.732)\frz1.339\4a&HFF&}Menacing
-Dialogue: 0,0:16:28.28,0:16:29.82,Dubtitles,,0,0,0,,Their child is?
+Dialogue: 0,0:16:28.28,0:16:29.82,Dubtitles,,0,0,0,,Their child is
 Dialogue: 2,0:16:30.51,0:16:30.55,SFXPink2,4,0,0,0,,{=4}{\blur6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(964.096,-13.135)\pos(964.096,-13.135)\3c&H412DA5&}Menacing
 Dialogue: 3,0:16:30.51,0:16:30.55,SFXPink2,4,0,0,0,,{=4}{\blur0.6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(964.096,-13.135)\pos(964.096,-13.135)\c&H000000&}Menacing
 Dialogue: 4,0:16:30.51,0:16:30.55,SFXPink2,4,0,0,0,,{=4}{\bord0\blur0.6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(964.096,-13.135)\pos(964.096,-13.135)\4a&HFF&}Menacing
@@ -817,7 +812,7 @@ Dialogue: 3,0:16:30.84,0:16:30.88,SFXPink2,4,0,0,0,,{=4}{\bord0\blur0.6\fade(255
 Dialogue: 1,0:16:30.88,0:16:30.92,SFXPink2,4,0,0,0,,{=4}{\blur6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(963.078,-10.038)\pos(963.078,-10.038)\3c&H412DA5&}Menacing
 Dialogue: 2,0:16:30.88,0:16:30.92,SFXPink2,4,0,0,0,,{=4}{\blur0.6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(963.078,-10.038)\pos(963.078,-10.038)\c&H000000&}Menacing
 Dialogue: 3,0:16:30.88,0:16:30.92,SFXPink2,4,0,0,0,,{=4}{\bord0\blur0.6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(963.078,-10.038)\pos(963.078,-10.038)\4a&HFF&}Menacing
-Dialogue: 0,0:16:30.90,0:16:33.00,Dubtitles,,0,0,0,,Yes, he has to be!
+Dialogue: 0,0:16:30.90,0:16:33.00,Dubtitles,,0,0,0,,Yes, he has to be
 Dialogue: 1,0:16:30.92,0:16:30.96,SFXPink2,4,0,0,0,,{=4}{\blur6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(963.078,-10.038)\pos(963.078,-10.038)\3c&H412DA5&}Menacing
 Dialogue: 2,0:16:30.92,0:16:30.96,SFXPink2,4,0,0,0,,{=4}{\blur0.6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(963.078,-10.038)\pos(963.078,-10.038)\c&H000000&}Menacing
 Dialogue: 3,0:16:30.92,0:16:30.96,SFXPink2,4,0,0,0,,{=4}{\bord0\blur0.6\fade(255,0,255,0,1,3999,4000)\frz1.354\org(963.078,-10.038)\pos(963.078,-10.038)\4a&HFF&}Menacing
@@ -1120,7 +1115,7 @@ Dialogue: 1,0:17:00.37,0:17:00.41,SFXTeal,5,0,0,0,,{=14}{\blur0.6\frz2.79\pos(64
 Dialogue: 2,0:17:00.37,0:17:00.41,SFXTeal,5,0,0,0,,{=14}{\bord0\blur0.6\frz2.79\pos(649.8,584.8)\4a&HFF&}Whoosh
 Dialogue: 0,0:17:02.08,0:17:04.43,Dubtitles,,0,0,0,,Even a shower of glass is nothing to me!
 Dialogue: 0,0:17:18.34,0:17:20.42,Dubtitles,,0,0,0,,Now then, it's time for the final match.
-Dialogue: 0,0:17:20.50,0:17:22.44,Dubtitles,,0,0,0,,Who's going to win, Mr. Rohan?
+Dialogue: 0,0:17:20.50,0:17:22.44,Dubtitles,,0,0,0,,Who's going to win, Rohan-sensei?
 Dialogue: 0,0:17:27.32,0:17:28.92,Dubtitles,,0,0,0,,What the heck are you doing?
 Dialogue: 0,0:17:29.00,0:17:31.02,Dubtitles,,0,0,0,,Hurry and assume your Rochambeau pose.
 Dialogue: 0,0:17:31.10,0:17:32.14,Dubtitles,,0,0,0,,It's time to play.
@@ -1287,83 +1282,58 @@ Dialogue: 0,0:22:09.02,0:22:10.88,Dubtitles,,0,0,0,,Hey, where are you?
 Dialogue: 0,0:22:11.14,0:22:13.20,Dubtitles,,0,0,0,,Just pretend like nothing happened.
 Dialogue: 0,0:22:13.48,0:22:16.02,Dubtitles,,0,0,0,,Uh, hey, where'd you go? Baby?
 Dialogue: 0,0:22:16.76,0:22:17.72,Dubtitles,,0,0,0,,Rosham Boy.
-Dialogue: 0,0:22:18.04,0:22:19.86,Dubtitles,,0,0,0,,Real name, Oyanagi Ken.
-Dialogue: 0,0:22:20.16,0:22:23.34,Dubtitles,,0,0,0,,Stan's name, Boy II Man,\Nnot out of commission,
+Dialogue: 0,0:22:18.04,0:22:19.86,Dubtitles,,0,0,0,,Real name: Ken Oyanagi.
+Dialogue: 0,0:22:20.16,0:22:23.34,Dubtitles,,0,0,0,,Stan's name, Boyzman Man,\Nnot out of commission,
 Dialogue: 0,0:22:23.66,0:22:25.84,Dubtitles,,0,0,0,,though the hole in his cheek remains.
-Dialogue: 0,0:22:49.92,0:22:52.42,Dubtitles,,0,0,0,,Any time I need to see your\Nface, it has closed my eyes.
+Dialogue: 0,0:22:49.92,0:22:51.36,Dubtitles,,0,0,0,,Any time I need to see your face,
 Dialogue: 1,0:22:49.93,0:22:52.30,ED Lyrics,,0,0,0,,{\fad(100,100)}Any time I need to see your face, I just close my eyes
+Dialogue: 0,0:22:51.44,0:22:53.82,Dubtitles,,0,0,0,,it has closed my eyes And I\Nam taking two parts with a
 Dialogue: 1,0:22:52.30,0:22:54.56,ED Lyrics,,0,0,0,,{\fad(100,100)}And I am taken to a place where your crystal mind
-Dialogue: 0,0:22:52.50,0:22:54.66,Dubtitles,,0,0,0,,And I am taking two parts\Nwith a crystal mind.
+Dialogue: 0,0:22:53.90,0:22:57.10,Dubtitles,,0,0,0,,crystal mind And magenta feeling\NTake a shelter in the face of
 Dialogue: 1,0:22:54.56,0:22:57.35,ED Lyrics,,0,0,0,,{\fad(100,100)}And magenta feelings take up shelter in the base of my spine
-Dialogue: 0,0:22:54.74,0:22:55.86,Dubtitles,,0,0,0,,And magenta feeling.
-Dialogue: 0,0:22:55.94,0:22:57.48,Dubtitles,,0,0,0,,Take a shelter in the face of my spine.
+Dialogue: 0,0:22:57.18,0:22:59.64,Dubtitles,,0,0,0,,my spine Straight like a chicken\Ncherry cola I don't need to
 Dialogue: 1,0:22:57.35,0:22:59.02,ED Lyrics,,0,0,0,,{\fad(100,100)}Sweet like a chic-a-cherry cola
-Dialogue: 0,0:22:57.56,0:22:58.84,Dubtitles,,0,0,0,,Straight like a chicken cherry cola.
-Dialogue: 0,0:22:58.92,0:23:00.30,Dubtitles,,0,0,0,,I don't need to try to explain.
 Dialogue: 1,0:22:59.02,0:23:01.40,ED Lyrics,,0,0,0,,{\fad(100,100)}I don't need to try to explain, I just hold on tight
-Dialogue: 0,0:23:00.38,0:23:01.50,Dubtitles,,0,0,0,,I just hold on tight.
+Dialogue: 0,0:22:59.72,0:23:02.62,Dubtitles,,0,0,0,,try to explain I just hold on\Ntight And if it happens again,
 Dialogue: 1,0:23:01.40,0:23:03.77,ED Lyrics,,0,0,0,,{\fad(100,100)}And if it happens again, I might move so slightly
-Dialogue: 0,0:23:01.58,0:23:03.80,Dubtitles,,0,0,0,,And if it happens again,\NI'ma move so slightly.
+Dialogue: 0,0:23:02.70,0:23:05.16,Dubtitles,,0,0,0,,I'ma move so slightly To the\Narms and the lips and the
 Dialogue: 1,0:23:03.77,0:23:06.57,ED Lyrics,,0,0,0,,{\fad(100,100)}To the arms and the lips and the face of the human cannonball
-Dialogue: 0,0:23:03.88,0:23:05.44,Dubtitles,,0,0,0,,To the arms and the lips and the face.
-Dialogue: 0,0:23:05.52,0:23:07.42,Dubtitles,,0,0,0,,To the human kind of all that I need to.
+Dialogue: 0,0:23:05.24,0:23:08.54,Dubtitles,,0,0,0,,face To the human kind of all\Nthat I need to I want to Come
 Dialogue: 1,0:23:06.57,0:23:08.28,ED Lyrics,,0,0,0,,{\fad(100,100)}That I need to, I want to
-Dialogue: 0,0:23:07.50,0:23:08.33,Dubtitles,,0,0,0,,I want to.
 Dialogue: 1,0:23:08.28,0:23:10.53,ED Lyrics,,0,0,0,,{\fad(100,100)}Come stand a little bit closer
-Dialogue: 0,0:23:08.41,0:23:10.26,Dubtitles,,0,0,0,,Come stand a little bit closer.
-Dialogue: 0,0:23:10.34,0:23:12.52,Dubtitles,,0,0,0,,Breathe in and get a bit higher.
+Dialogue: 0,0:23:08.62,0:23:12.52,Dubtitles,,0,0,0,,stand a little bit closer\NBreathe in and get a bit higher
 Dialogue: 1,0:23:10.53,0:23:12.87,ED Lyrics,,0,0,0,,{\fad(100,100)}Breathe in and get a bit higher
-Dialogue: 0,0:23:12.60,0:23:14.66,Dubtitles,,0,0,0,,You'll never know what hit you.
+Dialogue: 0,0:23:12.60,0:23:17.66,Dubtitles,,0,0,0,,You'll never know what hit\Nyou when I get to you. Ooh,
 Dialogue: 1,0:23:12.87,0:23:14.49,ED Lyrics,,0,0,0,,{\fad(100,100)}You'll never know what hit you
 Dialogue: 1,0:23:14.49,0:23:17.12,ED Lyrics,,0,0,0,,{\fad(100,100)}When I get to you
-Dialogue: 0,0:23:14.74,0:23:16.96,Dubtitles,,0,0,0,,When I get to you.
-Dialogue: 0,0:23:17.04,0:23:18.82,Dubtitles,,0,0,0,,Ooh, I want you.
 Dialogue: 1,0:23:17.12,0:23:21.62,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:18.90,0:23:21.32,Dubtitles,,0,0,0,,I don't know if I need you.
+Dialogue: 0,0:23:17.74,0:23:21.32,Dubtitles,,0,0,0,,I want you I don't know if I need you
 Dialogue: 1,0:23:21.62,0:23:25.17,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I'd die to find out
 Dialogue: 0,0:23:22.12,0:23:24.42,Dubtitles,,0,0,0,,Ooh, I gotta find out.
 Dialogue: 1,0:23:26.17,0:23:30.63,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I want you, I don't know if I need you, but...
-Dialogue: 0,0:23:26.40,0:23:27.84,Dubtitles,,0,0,0,,Ooh, I want you.
-Dialogue: 0,0:23:27.92,0:23:30.26,Dubtitles,,0,0,0,,I don't know if I need you.
+Dialogue: 0,0:23:26.40,0:23:30.26,Dubtitles,,0,0,0,,Ooh, I want you I don't know if I need you
 Dialogue: 1,0:23:30.63,0:23:34.01,ED Lyrics,,0,0,0,,{\fad(100,100)}Ooh, I would die to find out
-Dialogue: 0,0:23:31.08,0:23:33.50,Dubtitles,,0,0,0,,Ooh, I gotta find out.
+Dialogue: 0,0:23:31.08,0:23:33.50,Dubtitles,,0,0,0,,Ooh, I gotta find out
 Dialogue: 1,0:23:38.39,0:23:41.48,Next Episode,Sign,0,0,0,,{\fad(350,0)\be25\pos(320,250)}Episode 27
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode,Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(817,780)}I Am an
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode,Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(1135,780)}Alien
 Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode,Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(812,780)}I Am a Space
-Dialogue: 1,0:23:38.43,0:23:39.60,Next Episode,Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(1250,780)}Alien
 Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,780)\fs122\1c&H100B08&}Alien
-Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,780)\fs122\1c&H100B08&}Alien
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode,Sign,0,0,0,,{\fs120\an2\be25\pos(817,780)}I Am an
 Dialogue: 1,0:23:39.60,0:23:41.48,Next Episode,Sign,0,0,0,,{\fs120\an2\be25\pos(812,780)}I Am a Space
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,780)\fs124\1c&H1A110A&}Alien
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,780)\fs124\1c&H1A110A&}Alien
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,780.5)\fs126\1c&H21130C&}Alien
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,780.5)\fs126\1c&H21130C&}Alien
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,781)\fs128\1c&H301A10&}Alien
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,781)\fs128\1c&H301A10&}Alien
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,782)\fs130\1c&H3C2013&}Alien
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,782)\fs130\1c&H3C2013&}Alien
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,782.5)\fs132\1c&H53281A&}Alien
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,782.5)\fs132\1c&H53281A&}Alien
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,783)\fs134\1c&H622E1F&}Alien
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,783)\fs134\1c&H622E1F&}Alien
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,783.5)\fs136\1c&H7C3C23&}Alien
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,783.5)\fs136\1c&H7C3C23&}Alien
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,784)\fs138\1c&H894227&}Alien
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,784)\fs138\1c&H894227&}Alien
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,784.5)\fs140\1c&H974C2B&}Alien
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,784.5)\fs140\1c&H974C2B&}Alien
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,785)\fs142\1c&HB45332&}Alien
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,785)\fs142\1c&HB45332&}Alien
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,785.5)\fs144\1c&HC0592F&}Alien
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,785.5)\fs144\1c&HC0592F&}Alien
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,786)\fs146\1c&HCE6038&}Alien
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,786)\fs146\1c&HCE6038&}Alien
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,786.5)\fs148\1c&HD86539&}Alien
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,786.5)\fs148\1c&HD86539&}Alien
 Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,787)\fs150\1c&HE76B39&}Alien
-Dialogue: 1,0:23:40.19,0:23:40.23,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,787)\fs150\1c&HE76B39&}Alien
 Dialogue: 1,0:23:40.23,0:23:41.48,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1135,787)\fs150\1c&HE76C3E&}Alien
-Dialogue: 1,0:23:40.23,0:23:41.48,Next Episode,Sign,0,0,0,,{\an2\be25\pos(1250,787)\fs150\1c&HE76C3E&}Alien
 

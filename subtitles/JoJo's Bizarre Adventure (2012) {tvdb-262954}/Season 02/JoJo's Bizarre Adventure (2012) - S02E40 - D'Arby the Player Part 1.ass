@@ -41,7 +41,7 @@ Style: SFXPurple3 - Copy,Evil Green Plant,140,&H00612072,&H000000FF,&H00000000,&
 Style: Eyecatch Stats 2,Gontserrat Medium,40,&H00101819,&H000000FF,&H00000000,&H96183F45,-1,0,0,0,100,100,3,0,1,0,2,8,90,40,25,1
 Style: SFXPurple2 - Copy,Shaky Hand Some Comic Bold,150,&H005B4739,&H000000FF,&H00251F19,&H00000000,-1,0,0,0,130,100,0,0,1,7,0,8,50,40,20,1
 Style: SFXMagentaMagenta,Franciscan,120,&H00460068,&H000000FF,&H0009000B,&H00000000,-1,0,0,0,120,100,0,0,1,7,0,8,50,40,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Trebuchet MS,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,7 +55,7 @@ Dialogue: 0,0:00:21.14,0:00:22.50,Dubtitles,,0,0,0,,Another playing card?
 Dialogue: 0,0:00:22.72,0:00:25.12,Dubtitles,,0,0,0,,Master Joestar, welcome to our abode.
 Dialogue: 0,0:00:25.34,0:00:26.80,Dubtitles,,0,0,0,,We've been expecting you.
 Dialogue: 0,0:00:26.88,0:00:27.90,Dubtitles,,0,0,0,,How rude of me.
-Dialogue: 0,0:00:27.98,0:00:32.56,Dubtitles,,0,0,0,,I am the butler of this\Nmansion you may call me Darby.
+Dialogue: 0,0:00:27.98,0:00:32.56,Dubtitles,,0,0,0,,I am the butler of this\Nmansion. You may call me Darby.
 Dialogue: 0,0:00:33.98,0:00:38.70,Dubtitles,,0,0,0,,Darby huh yes I am the younger\NDarby it might interest you
 Dialogue: 0,0:00:38.78,0:00:42.18,Dubtitles,,0,0,0,,to know the Darby whom you\Ndefeated upon your arrival was
 Dialogue: 0,0:00:42.26,0:00:47.74,Dubtitles,,0,0,0,,my older brother so there\Nisn't just one so loud in the
@@ -92,10 +92,10 @@ Dialogue: 2,0:00:45.56,0:00:45.65,SFX,1,0,0,0,,{=20}{\blur0.6\bord0\fscx134.48\f
 Dialogue: 1,0:00:45.65,0:00:45.69,SFX,1,0,0,0,,{=20}{\blur0.6\bord9\fscx130\fscy100\pos(1091.4,799.6)\frz38.58\c&H191D2E&}Doom!
 Dialogue: 2,0:00:45.65,0:00:45.69,SFX,1,0,0,0,,{=20}{\blur0.6\bord0\fscx130\fscy100\pos(1091.4,799.6)\frz38.58\4a&HFF&}Doom!
 Dialogue: 0,0:00:47.82,0:00:51.47,Dubtitles,,0,0,0,,Darby family so I take it you're\Nhere to avenge your brother's
-Dialogue: 0,0:00:56.38,0:01:01.94,Dubtitles,,0,0,0,,Defeat? Not at all. Such a thing is\Nbeneath me. I would have assumed.
+Dialogue: 0,0:00:56.38,0:01:01.94,Dubtitles,,0,0,0,,Defeat? No, not at all. Such a thing\Nis beneath me. I would have assumed
 Dialogue: 0,0:01:02.02,0:01:06.32,Dubtitles,,0,0,0,,my brother would share his motto\Nwith you it is the deceived not
 Dialogue: 0,0:01:06.40,0:01:11.26,Dubtitles,,0,0,0,,the deceiver who holds the blame i\Ntoo live by this adage my brother
-Dialogue: 0,0:01:11.34,0:01:16.08,Dubtitles,,0,0,0,,lost so he is the wrongdoer i harbor\Nno ill will toward any of you?
+Dialogue: 0,0:01:11.34,0:01:16.08,Dubtitles,,0,0,0,,lost so he is the wrongdoer i\Nharbor no ill will toward any of you
 Dialogue: 0,0:01:16.76,0:01:20.78,Dubtitles,,0,0,0,,My brother is my brother and I\Nam me, two different individuals.
 Dialogue: 0,0:01:21.70,0:01:24.08,Dubtitles,,0,0,0,,You see, my brother and I\Nwere born ten years apart,
 Dialogue: 0,0:01:24.16,0:01:26.80,Dubtitles,,0,0,0,,and while I did look up to\Nhim to a certain extent,
@@ -111,7 +111,7 @@ Dialogue: 0,0:01:51.62,0:01:56.82,Dubtitles,,0,0,0,,If you wish to fight me, the
 Dialogue: 0,0:01:57.02,0:01:58.82,Dubtitles,,0,0,0,,He's even more conniving than his brother.
 Dialogue: 0,0:01:58.90,0:02:00.43,Dubtitles,,0,0,0,,There's no time for games.
 Dialogue: 0,0:02:00.66,0:02:02.13,Dubtitles,,0,0,0,,Take us to Dio right now.
-Dialogue: 0,0:02:02.74,0:02:04.38,Dubtitles,,0,0,0,,Dojuro, stay on your guard!
+Dialogue: 0,0:02:02.74,0:02:04.38,Dubtitles,,0,0,0,,Jotaro, stay on your guard!
 Dialogue: 0,0:02:04.50,0:02:05.74,Dubtitles,,0,0,0,,He's up to something!
 Dialogue: 0,0:02:06.40,0:02:11.74,Dubtitles,,0,0,0,,Darby Younger, his stand hailing\Nfrom the Egyptian pantheon is Atum.
 Dialogue: 1,0:02:06.43,0:02:06.48,SFXMagentaMagenta,A1,0,0,0,,{=29}{\blur1\bord8.3\fscx142.27\fscy118.56\fade(255,0,255,0,0,4440,4840)\frz41.56\pos(-93.57,-79.09)\c&H09000B&}Fwoosh {3104}
@@ -644,12 +644,10 @@ Dialogue: 0,0:03:27.20,0:03:29.16,Dubtitles,,0,0,0,,It was all subterfuge! Jotar
 Dialogue: 0,0:03:31.94,0:03:33.92,Dubtitles,,0,0,0,,He's falling into the abyss!
 Dialogue: 0,0:03:34.18,0:03:36.10,Dubtitles,,0,0,0,,We have to get him out of there!
 Dialogue: 0,0:03:38.12,0:03:39.22,Dubtitles,,0,0,0,,Have it your way.
-Dialogue: 0,0:03:39.30,0:03:43.08,Dubtitles,,0,0,0,,The more the merrier and all that, Mr.
-Dialogue: 0,0:03:43.16,0:03:47.56,Dubtitles,,0,0,0,,Joestar cocky we know it's too\Ndangerous for us to follow.
-Dialogue: 0,0:03:47.64,0:03:52.52,Dubtitles,,0,0,0,,Can you hear me if you\Ndon't hear from us in 10
-Dialogue: 0,0:03:52.60,0:03:56.12,Dubtitles,,0,0,0,,minutes Torch the mansion\Ndo you understand me?
-Dialogue: 0,0:03:56.20,0:03:59.46,Dubtitles,,0,0,0,,Burn it to the ground Mr.
-Dialogue: 0,0:03:59.54,0:04:00.58,Dubtitles,,0,0,0,,Joestar
+Dialogue: 0,0:03:39.30,0:03:44.42,Dubtitles,,0,0,0,,The more the merrier and all\Nthat, Mr. Joestar! Kakyoin!
+Dialogue: 0,0:03:44.50,0:03:50.10,Dubtitles,,0,0,0,,know it's too dangerous for\Nus to follow can you hear me
+Dialogue: 0,0:03:50.18,0:03:54.36,Dubtitles,,0,0,0,,if you don't hear from us in\N10 minutes torch the mansion
+Dialogue: 0,0:03:54.44,0:04:00.58,Dubtitles,,0,0,0,,do you understand me burn\Nit to the ground mr joestar
 Dialogue: 1,0:04:06.14,0:04:11.23,Title 3,title,0,0,0,,{\fad(753,855)\pos(146,877)}Episode 40: D'Arby the Player, Part 1 {Ik it says Player but come on man, D'Arby the Gambler and D'Arby the Gamer is too good to not be used}
 Dialogue: 0,0:04:09.42,0:04:10.25,Dubtitles,,0,0,0,,Hmm.
 Dialogue: 0,0:04:16.04,0:04:17.54,Dubtitles,,0,0,0,,Is this an illusion?
@@ -845,20 +843,21 @@ Dialogue: 2,0:07:07.86,0:07:07.90,SFXBlue,4,0,0,0,,{=22}{\blur0.7\bord0\fscx130\
 Dialogue: 0,0:07:13.20,0:07:17.74,Dubtitles,,0,0,0,,Darby, talk to me, please\Ntalk, why won't you talk to me,
 Dialogue: 0,0:07:18.04,0:07:20.12,Dubtitles,,0,0,0,,Darby, talk to me,
 Dialogue: 0,0:07:20.42,0:07:26.74,Dubtitles,,0,0,0,,oh my
-Dialogue: 0,0:07:26.82,0:07:27.65,Dubtitles,,0,0,0,,god?
-Dialogue: 0,0:07:28.12,0:07:33.20,Dubtitles,,0,0,0,,They're alive, how is that even\Npossible, bastard, you took their souls?
+Dialogue: 0,0:07:26.82,0:07:27.65,Dubtitles,,0,0,0,,god,
+Dialogue: 0,0:07:28.12,0:07:33.20,Dubtitles,,0,0,0,,they're alive, how is that even\Npossible, bastard, you took their souls,
 Dialogue: 0,0:07:33.82,0:07:36.14,Dubtitles,,0,0,0,,Obviously as making dolls is my hobby,
-Dialogue: 0,0:07:36.46,0:07:40.60,Dubtitles,,0,0,0,,but of course ordinary doll makers cannot\Nimbue their handiwork with human souls.
-Dialogue: 0,0:07:40.68,0:07:44.80,Dubtitles,,0,0,0,,I suppose I may be giving too much\Naway, but that's my Stan's ability.
+Dialogue: 0,0:07:36.46,0:07:39.74,Dubtitles,,0,0,0,,but of course ordinary doll makers\Ncannot imbue their handiwork
+Dialogue: 0,0:07:39.82,0:07:43.16,Dubtitles,,0,0,0,,with human souls I suppose I\Nmay be giving too much away,
+Dialogue: 0,0:07:43.24,0:07:44.89,Dubtitles,,0,0,0,,but that's my Stan's ability
 Dialogue: 0,0:07:45.36,0:07:47.22,Dubtitles,,0,0,0,,Comparatively my brother's collection of
-Dialogue: 0,0:07:47.30,0:07:50.48,Dubtitles,,0,0,0,,simple coins made of souls\Nis rather uninspired.
+Dialogue: 0,0:07:47.30,0:07:50.48,Dubtitles,,0,0,0,,simple coins made of\Nsouls is rather uninspired
 Dialogue: 0,0:07:51.06,0:07:54.77,Dubtitles,,0,0,0,,With my collection you can play\Ndress up and have actual chats.
 Dialogue: 0,0:07:54.98,0:07:55.98,Dubtitles,,0,0,0,,Let me show you
 Dialogue: 0,0:07:56.54,0:07:59.12,Dubtitles,,0,0,0,,This little showstopper is named Sonia.
 Dialogue: 0,0:07:59.36,0:08:04.78,Dubtitles,,0,0,0,,She can wax poetic about her passionate\Nlove stories Such exquisite skin.
 Dialogue: 0,0:08:05.14,0:08:08.04,Dubtitles,,0,0,0,,Anyone would be proud to own her. Dr.
 Dialogue: 0,0:08:08.36,0:08:11.60,Dubtitles,,0,0,0,,Elliot is a serial killer\Nwith a victim count of eight.
-Dialogue: 0,0:08:11.68,0:08:15.12,Dubtitles,,0,0,0,,He'll tell you all about\Nthe patients he's killed.
+Dialogue: 0,0:08:11.68,0:08:15.12,Dubtitles,,0,0,0,,He'll tell you all about the\Npatients he's exterminated.
 Dialogue: 0,0:08:15.38,0:08:17.85,Dubtitles,,0,0,0,,I made the glasses and stethoscope myself.
 Dialogue: 0,0:08:18.28,0:08:19.56,Dubtitles,,0,0,0,,Oh, I nearly forgot.
 Dialogue: 0,0:08:20.14,0:08:22.16,Dubtitles,,0,0,0,,I'd like for you to meet Tatsuhiko.
@@ -977,9 +976,8 @@ Dialogue: 0,0:10:51.58,0:10:54.98,Dubtitles,,0,0,0,,Your fight is with me, buddy
 Dialogue: 0,0:10:55.06,0:10:55.89,Dubtitles,,0,0,0,,You and Mr.
 Dialogue: 0,0:10:55.97,0:10:57.04,Dubtitles,,0,0,0,,Joestar are family.
 Dialogue: 0,0:10:57.42,0:10:59.70,Dubtitles,,0,0,0,,But Kakyoin is decidedly not.
-Dialogue: 0,0:11:00.24,0:11:02.82,Dubtitles,,0,0,0,,I'd prefer Kakyoin not back\Nout of our arrangement.
-Dialogue: 0,0:11:02.90,0:11:05.92,Dubtitles,,0,0,0,,And attack me with his stand after\NI've taken both of your souls?
-Dialogue: 0,0:11:06.00,0:11:08.06,Dubtitles,,0,0,0,,due to lack of familial attachment.
+Dialogue: 0,0:11:00.24,0:11:03.82,Dubtitles,,0,0,0,,I'd prefer Kakyoin not back out of\Nour arrangement and attack me with his
+Dialogue: 0,0:11:03.90,0:11:08.43,Dubtitles,,0,0,0,,stand after I've taken both of your\Nsouls due to lack of familial attachment.
 Dialogue: 0,0:11:09.18,0:11:11.06,Dubtitles,,0,0,0,,I'm sick of this arrogant prick.
 Dialogue: 0,0:11:11.28,0:11:13.98,Dubtitles,,0,0,0,,He thinks this challenge is going\Nto be a walk in the park for him.
 Dialogue: 0,0:11:14.06,0:11:15.38,Dubtitles,,0,0,0,,Very well.
@@ -1140,9 +1138,9 @@ Dialogue: 3,0:11:43.84,0:11:43.93,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6
 Dialogue: 1,0:11:43.93,0:11:44.97,Eyecatch2 - Top,signbot,0,0,0,,{\blur13\pos(1379,770)\alpha&H60&\3c&HFEFDFE&}D'Arby Younger
 Dialogue: 2,0:11:43.93,0:11:44.97,Eyecatch2 - Top,signbot,0,0,0,,{\blur0.6\pos(1379,770)\c&H576265&}D'Arby Younger
 Dialogue: 3,0:11:43.93,0:11:44.97,Eyecatch2 - Top,signbot,0,0,0,,{\bord0\blur0.6\pos(1379,770)\shad1.5\4a&HFF&}D'Arby Younger
-Dialogue: 0,0:11:45.38,0:11:47.44,Dubtitles,,0,0,0,,And I'll wager my soul.
+Dialogue: 0,0:11:45.38,0:11:47.44,Dubtitles,,0,0,0,,And I'll wager my soul!
 Dialogue: 0,0:11:48.38,0:11:49.40,Dubtitles,,0,0,0,,Very good.
-Dialogue: 0,0:11:50.82,0:11:51.92,Dubtitles,,0,0,0,,Kick Wing, don't!
+Dialogue: 0,0:11:50.82,0:11:51.92,Dubtitles,,0,0,0,,Kakyoin, don't!
 Dialogue: 0,0:11:52.00,0:11:54.50,Dubtitles,,0,0,0,,There's no need for you\Nto take this guy on first.
 Dialogue: 0,0:11:54.58,0:11:56.04,Dubtitles,,0,0,0,,I have to do this.
 Dialogue: 0,0:11:56.24,0:11:59.00,Dubtitles,,0,0,0,,We still don't have a\Ngrasp on that spirit hand.
@@ -1427,18 +1425,18 @@ Dialogue: 0,0:13:21.36,0:13:22.72,Dubtitles,,0,0,0,,Enough with the courtesy.
 Dialogue: 0,0:13:22.80,0:13:24.15,Dubtitles,,0,0,0,,Start the game already.
 Dialogue: 0,0:13:28.00,0:13:30.42,Dubtitles,,0,0,0,,Race starts in five!
 Dialogue: 0,0:13:37.84,0:13:40.78,Dubtitles,,0,0,0,,He's button-mashing the\Naccelerator at an incredible speed!
-Dialogue: 0,0:13:40.86,0:13:43.64,Dubtitles,,0,0,0,,He's going for a Tribe start! Three!
+Dialogue: 0,0:13:40.86,0:13:43.64,Dubtitles,,0,0,0,,He's going for a boost start! Three!
 Dialogue: 0,0:13:44.58,0:13:45.41,Dubtitles,,0,0,0,,Damn!
 Dialogue: 0,0:13:45.49,0:13:47.42,Dubtitles,,0,0,0,,I don't have time to try the Sing tactic.
 Dialogue: 0,0:13:47.50,0:13:48.68,Dubtitles,,0,0,0,,He'll take the lead.
 Dialogue: 0,0:13:48.78,0:13:50.31,Dubtitles,,0,0,0,,What am I going to do now?
 Dialogue: 0,0:13:51.08,0:13:51.91,Dubtitles,,0,0,0,,One!
 Dialogue: 0,0:13:53.60,0:13:54.43,Dubtitles,,0,0,0,,Start!
-Dialogue: 0,0:14:15.16,0:14:19.94,Dubtitles,,0,0,0,,What he just cut me off. As\Nlong as I'm in the lead, he
-Dialogue: 0,0:14:20.02,0:14:22.80,Dubtitles,,0,0,0,,can't beat me and I've made\Nit impossible for him to
-Dialogue: 0,0:14:22.88,0:14:26.78,Dubtitles,,0,0,0,,pass it's unfortunate I\Nknow but the simple truth is
-Dialogue: 0,0:14:26.86,0:14:31.46,Dubtitles,,0,0,0,,I never make a mistake during a\NVictory will be mine, Kakyoin!
-Dialogue: 0,0:14:38.46,0:14:39.58,Dubtitles,,0,0,0,,What?...
+Dialogue: 0,0:14:15.16,0:14:19.94,Dubtitles,,0,0,0,,What he just cut me off! As\Nlong as I'm in the lead, he
+Dialogue: 0,0:14:20.02,0:14:22.80,Dubtitles,,0,0,0,,can't beat me and i've made\Nit impossible for him to
+Dialogue: 0,0:14:22.88,0:14:26.78,Dubtitles,,0,0,0,,pass it's unfortunate i\Nknow but the simple truth is
+Dialogue: 0,0:14:26.86,0:14:31.46,Dubtitles,,0,0,0,,i never make a mistake during a\NVictory will be mine, Kakyoin!
+Dialogue: 0,0:14:38.46,0:14:39.58,Dubtitles,,0,0,0,,What the...
 Dialogue: 0,0:14:46.12,0:14:49.16,Dubtitles,,0,0,0,,Kakyoin, you've played this\Ngame before, haven't you?
 Dialogue: 0,0:14:49.24,0:14:51.62,Dubtitles,,0,0,0,,I'd rather not reveal that. Yes!
 Dialogue: 0,0:14:51.88,0:14:53.70,Dubtitles,,0,0,0,,This is your chance, Kakyoin!
@@ -1561,15 +1559,14 @@ Dialogue: 1,0:19:43.41,0:19:43.49,SFXOang,7,0,0,0,,{=21}{\blur0.6\frz358.5\pos(1
 Dialogue: 2,0:19:43.41,0:19:43.49,SFXOang,7,0,0,0,,{=21}{\bord0\blur0.6\frz358.5\pos(1358.57,827.51)\4a&HFF&}Grip!
 Dialogue: 0,0:19:46.06,0:19:46.89,Dubtitles,,0,0,0,,My god!
 Dialogue: 0,0:19:47.04,0:19:49.04,Dubtitles,,0,0,0,,He's got the car up on two wheels!
-Dialogue: 0,0:19:51.46,0:19:54.42,Dubtitles,,0,0,0,,How absurd you're riding the tunnel walls.
-Dialogue: 0,0:19:54.50,0:19:57.16,Dubtitles,,0,0,0,,Yes you've got this in the\Nbed Kakyoin just hang on.
-Dialogue: 0,0:19:57.24,0:19:59.18,Dubtitles,,0,0,0,,A little bit further and\Nvictory will be ours.
-Dialogue: 0,0:19:59.26,0:20:00.64,Dubtitles,,0,0,0,,Now push him aside.
-Dialogue: 0,0:20:00.72,0:20:02.34,Dubtitles,,0,0,0,,Quiet I'm concentrating.
-Dialogue: 0,0:20:07.28,0:20:08.86,Dubtitles,,0,0,0,,Watch out he's slamming you.
-Dialogue: 0,0:20:08.94,0:20:11.92,Dubtitles,,0,0,0,,It makes no difference to\Nme if I lose some power.
-Dialogue: 0,0:20:12.00,0:20:15.54,Dubtitles,,0,0,0,,My only concern is getting around\Nthat turn faster than Kakyoin.
-Dialogue: 0,0:20:15.62,0:20:18.27,Dubtitles,,0,0,0,,Even if it's only by a\Nhundredth of a second.
+Dialogue: 0,0:19:51.46,0:19:54.96,Dubtitles,,0,0,0,,How absurd! You're riding\Nthe tunnel walls! Yes!
+Dialogue: 0,0:19:55.04,0:19:57.00,Dubtitles,,0,0,0,,you've got this in the\Nbed Kakyoin just hang
+Dialogue: 0,0:19:57.08,0:19:58.84,Dubtitles,,0,0,0,,on a little bit further\Nand victory will be
+Dialogue: 0,0:19:58.92,0:20:02.34,Dubtitles,,0,0,0,,ours now push him aside\Nquiet I'm concentrating
+Dialogue: 0,0:20:07.28,0:20:10.58,Dubtitles,,0,0,0,,watch out he's slamming\Nyou it makes no difference
+Dialogue: 0,0:20:10.66,0:20:13.16,Dubtitles,,0,0,0,,to me if I lose some power my only concern
+Dialogue: 0,0:20:13.24,0:20:15.54,Dubtitles,,0,0,0,,is getting around that\Nturn faster than Kakyoin
+Dialogue: 0,0:20:15.62,0:20:18.21,Dubtitles,,0,0,0,,even if it's only by a\Nhundredth of a second
 Dialogue: 0,0:20:18.50,0:20:21.21,Dubtitles,,0,0,0,,Just one one-thousandth\Nof a millimeter ahead.
 Dialogue: 0,0:20:22.80,0:20:23.64,Dubtitles,,0,0,0,,No radar!
 Dialogue: 0,0:20:24.72,0:20:26.62,Dubtitles,,0,0,0,,Hey, what's going on here?
@@ -1581,7 +1578,7 @@ Dialogue: 0,0:20:35.68,0:20:36.51,Dubtitles,,0,0,0,,And worse,
 Dialogue: 0,0:20:36.78,0:20:38.62,Dubtitles,,0,0,0,,there are eight turns, a landmine,
 Dialogue: 0,0:20:38.70,0:20:41.72,Dubtitles,,0,0,0,,and a cannon attack waiting to\Nput us through our paces up ahead.
 Dialogue: 0,0:20:41.80,0:20:44.56,Dubtitles,,0,0,0,,This area will remain\Ndark until we make it out.
-Dialogue: 0,0:20:44.64,0:20:46.40,Dubtitles,,0,0,0,,One mistake and I'll slam into the wall.
+Dialogue: 0,0:20:44.64,0:20:46.40,Dubtitles,,0,0,0,,One mistake and you'll hit the wall.
 Dialogue: 0,0:20:46.48,0:20:50.36,Dubtitles,,0,0,0,,But fortunately for us, I already\Nknow exactly where each turn is.
 Dialogue: 0,0:20:50.68,0:20:51.86,Dubtitles,,0,0,0,,Darby knows, too.
 Dialogue: 0,0:20:56.80,0:20:58.82,Dubtitles,,0,0,0,,The cars are beginning to turn.
@@ -1731,7 +1728,7 @@ Dialogue: 1,0:21:47.82,0:21:47.86,SFXOang - Copy,8,0,0,0,,{=26}{\blur0.6\bord7.2
 Dialogue: 2,0:21:47.82,0:21:47.86,SFXOang - Copy,8,0,0,0,,{=26}{\blur0.6\bord0\fscx114.09\fscy103.72\frz16.4\pos(845.83,671.78)\4a&HFF&}Ahhh!
 Dialogue: 1,0:21:47.86,0:21:47.91,SFXOang - Copy,8,0,0,0,,{=26}{\blur0.6\bord7\fscx110\fscy100\frz16.4\pos(839.74,672.11)\c&H071413&}Ahhh!
 Dialogue: 2,0:21:47.86,0:21:47.91,SFXOang - Copy,8,0,0,0,,{=26}{\blur0.6\bord0\fscx110\fscy100\frz16.4\pos(839.74,672.11)\4a&HFF&}Ahhh!
-Dialogue: 0,0:21:48.10,0:21:50.02,Dubtitles,,0,0,0,,He's ahead by a full car length!
+Dialogue: 0,0:21:48.10,0:21:50.02,Dubtitles,,0,0,0,,He's ahead by a car length!
 Dialogue: 0,0:21:50.54,0:21:51.86,Dubtitles,,0,0,0,,Looks like I win!
 Dialogue: 0,0:22:16.16,0:22:17.54,Dubtitles,,0,0,0,,Thank you.
 Dialogue: 0,0:22:51.36,0:22:53.46,Dubtitles,,0,0,0,,Thank you.

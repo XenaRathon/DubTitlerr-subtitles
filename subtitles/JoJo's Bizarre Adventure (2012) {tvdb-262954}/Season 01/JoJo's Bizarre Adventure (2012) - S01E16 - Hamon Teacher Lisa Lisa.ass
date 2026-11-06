@@ -93,15 +93,7 @@ Style: SFXPurple5 - Copy,Shaky Hand Some Comic,130,&H009F6368,&H000000FF,&H00140
 Style: SFXBlue6 - Copy,KG Turning Tables,170,&H00D19358,&H000000FF,&H00342419,&H00000000,0,0,0,0,130,100,0,0,1,11,0,8,50,40,20,1
 Style: Title2.1,Arial,77,&H00FDFFFF,&H000000FF,&H24000000,&H49000000,0,0,0,0,100,100,3,0,1,4.5,0,5,90,90,40,1
 Style: SFXPurpleghost,Shaky Hand Some Comic Bold,170,&H90BD4B42,&H000000FF,&H99191414,&H00000000,-1,0,0,0,130,100,0,0,1,13,0,8,50,40,20,1
-Style: OP2 Credits 1,Beer,42,&H0097E8F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 2,Beer,42,&H00E44270,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 3,Beer,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 4,Beer,32,&H002F0B32,&H000000FF,&H00ABD7E3,&H00000000,0,0,0,0,121,100,0,0,1,2,0,4,30,20,20,1
-Style: OP2 Credits 5,SilkRoad,102,&H1EE0FAFC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,4,10,10,10,1
-Style: OP2 Credits 6,Beer,45,&H0009A4F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 7,Beer,36,&H0082B837,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,121,100,0,0,1,3,0,4,30,20,20,1
-Style: OP2 Credits 8,Beer,30,&H004D2904,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,100,0,0,1,3,0,8,30,20,20,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -111,7 +103,6 @@ Dialogue: 0,0:00:08.38,0:00:09.60,Dubtitles,,0,0,0,,Neither can be removed.
 Dialogue: 0,0:00:09.68,0:00:12.16,Dubtitles,,0,0,0,,Before the rings dissolve\Nand the poison is released,
 Dialogue: 0,0:00:12.24,0:00:16.24,Dubtitles,,0,0,0,,JoJo must defeat the powerful Wamuu\Nin order to secure the antidote.
 Dialogue: 1,0:00:18.41,0:00:21.41,Title2.1,,0,0,0,,{\pos(960,800)\bord3\blur2}Venice
-Dialogue: 1,0:00:18.41,0:00:21.41,Title2,,0,0,0,,{\pos(960,800)}Venice
 Dialogue: 0,0:00:21.96,0:00:23.22,Dubtitles,,0,0,0,,What was I thinking?
 Dialogue: 0,0:00:23.54,0:00:26.68,Dubtitles,,0,0,0,,When I said I needed a month,\NI only meant it as a bluff.
 Dialogue: 0,0:00:26.76,0:00:29.00,Dubtitles,,0,0,0,,I didn't think he'd take me seriously.
@@ -906,7 +897,6 @@ Dialogue: 0,0:01:53.18,0:01:56.38,Dubtitles,,0,0,0,,but you need a lot of work t
 Dialogue: 0,0:01:56.46,0:02:00.52,Dubtitles,,0,0,0,,I brought you to Venice to meet my\Nmentor, but it's gonna be a grind.
 Dialogue: 0,0:02:01.20,0:02:02.03,Dubtitles,,0,0,0,,Oh no!
 Dialogue: 1,0:02:02.06,0:02:06.98,Title2.1,,0,0,0,,{\bord3\blur2\pos(960,806)\fs69\fscx90\clip(497,763,528,841)\t(0,1900,\clip(497,763,1414,841))}Days Until the Rings Dissolve: 31
-Dialogue: 1,0:02:02.06,0:02:06.98,Title2,,0,0,0,,{\be2\pos(960,806)\fs69\fscx90\clip(497,763,528,841)\t(0,1900,\clip(497,763,1414,841}Days Until the Rings Dissolve: 31
 Dialogue: 0,0:02:02.11,0:02:06.77,Dubtitles,,0,0,0,,Grind and work are probably my two least\Nfavorite words in the English language.
 Dialogue: 1,0:02:13.27,0:02:20.74,Lyrics OP2 Jap,,0,0,0,,Shijima no soko kara
 Dialogue: 1,0:02:13.27,0:02:20.74,Lyrics OP2 Eng,,0,0,0,,From out of the stillness
@@ -942,305 +932,158 @@ Dialogue: 1,0:03:15.55,0:03:17.80,Lyrics OP2 Jap,,0,0,0,,Atsuku like a bloody st
 Dialogue: 1,0:03:15.55,0:03:17.80,Lyrics OP2 Eng,,0,0,0,,Burning like a bloody storm
 Dialogue: 1,0:03:17.80,0:03:21.63,Lyrics OP2 Jap,,0,0,0,,Ketsumyaku ni kizamareta innen ni
 Dialogue: 1,0:03:17.80,0:03:21.63,Lyrics OP2 Eng,,0,0,0,,When the time comes to end the vendetta carried by our blood
-Dialogue: 0,0:03:18.88,0:03:20.68,Dubtitles,,0,0,0,,I want to be with the world.
-Dialogue: 0,0:03:20.76,0:03:22.68,Dubtitles,,0,0,0,,I'll see you in the dark.
+Dialogue: 0,0:03:19.24,0:03:21.74,Dubtitles,,0,0,0,,And that piece of the Holz.
 Dialogue: 1,0:03:21.63,0:03:27.43,Lyrics OP2 Jap,,0,0,0,,Ukiagaru kienai hokori no kizuna
 Dialogue: 1,0:03:21.63,0:03:27.43,Lyrics OP2 Eng,,0,0,0,,Remember that the bonds of pride will carry you through any storm
-Dialogue: 0,0:03:22.76,0:03:24.23,Dubtitles,,0,0,0,,I'll see you in the dark.
-Dialogue: 0,0:03:25.10,0:03:28.36,Dubtitles,,0,0,0,,I'll see you
 Dialogue: 1,0:03:27.43,0:03:32.48,Lyrics OP2 Jap,,0,0,0,,Nigirishimete
 Dialogue: 1,0:03:27.43,0:03:32.48,Lyrics OP2 Eng,,0,0,0,,So hold them close
-Dialogue: 0,0:03:28.44,0:03:35.44,Dubtitles,,0,0,0,,in
 Dialogue: 1,0:03:37.48,0:03:37.53,Italy,,0,0,0,,{=180}{\bord4.5\fscx1000\fscy1000\blur1\pos(508,287)\fade(255,0,255,0,0,2270,2970)}Rome
 Dialogue: 1,0:03:37.48,0:03:37.53,Italy,,0,0,0,,{=181}{\bord4.5\fscx1000\fscy1000\blur1\pos(1089,110)\fade(255,0,255,0,0,2270,2970)}Venice
-Dialogue: 1,0:03:37.48,0:03:37.53,Italy,,0,0,0,,{\fscx1000\fscy1000\bord4.5\be(1.3)\pos(508,287)}Rome
-Dialogue: 1,0:03:37.48,0:03:37.53,Italy,,0,0,0,,{\fscx1000\fscy1000\be1\pos(1089,110)}Venice
 Dialogue: 1,0:03:37.53,0:03:37.57,Italy,,0,0,0,,{=180}{\bord4.49\fscx996.76\fscy996.76\blur1\pos(506.26,286.46)\fade(255,0,255,-50,-50,2220,2920)}Rome
 Dialogue: 1,0:03:37.53,0:03:37.57,Italy,,0,0,0,,{=181}{\bord4.48\fscx996.65\fscy996.65\blur1\pos(1085.33,110.04)\fade(255,0,255,-50,-50,2220,2920)}Venice
-Dialogue: 1,0:03:37.53,0:03:37.57,Italy,,0,0,0,,{\fscx996\fscy996\bord4.48\be(1.3)\pos(506.27,286.46)}Rome
-Dialogue: 1,0:03:37.53,0:03:37.57,Italy,,0,0,0,,{\fscx996.8\fscy996.8\be1\pos(1085.51,109.94)}Venice
 Dialogue: 1,0:03:37.57,0:03:37.61,Italy,,0,0,0,,{=180}{\bord4.47\fscx993.4\fscy993.4\blur1\pos(504.54,285.9)\fade(255,0,255,-90,-90,2180,2880)}Rome
 Dialogue: 1,0:03:37.57,0:03:37.61,Italy,,0,0,0,,{=181}{\bord4.47\fscx993.32\fscy993.32\blur1\pos(1081.68,110.08)\fade(255,0,255,-90,-90,2180,2880)}Venice
-Dialogue: 1,0:03:37.57,0:03:37.61,Italy,,0,0,0,,{\fscx993.52\fscy993.52\bord4.47\be(1.3)\pos(504.52,285.88)}Rome
-Dialogue: 1,0:03:37.57,0:03:37.61,Italy,,0,0,0,,{\fscx993.32\fscy993.32\be1\pos(1081.7,110.19)}Venice
 Dialogue: 1,0:03:37.61,0:03:37.65,Italy,,0,0,0,,{=180}{\bord4.45\fscx989.72\fscy989.72\blur1\pos(502.82,285.39)\fade(255,0,255,-130,-130,2140,2840)}Rome
 Dialogue: 1,0:03:37.61,0:03:37.65,Italy,,0,0,0,,{=181}{\bord4.46\fscx990.16\fscy990.16\blur1\pos(1078.07,110.12)\fade(255,0,255,-130,-130,2140,2840)}Venice
-Dialogue: 1,0:03:37.61,0:03:37.65,Italy,,0,0,0,,{\fscx990.19\fscy990.19\bord4.46\be(1.3)\pos(502.83,285.37)}Rome
-Dialogue: 1,0:03:37.61,0:03:37.65,Italy,,0,0,0,,{\fscx990.36\fscy990.36\be1\pos(1078.37,110.09)}Venice
 Dialogue: 1,0:03:37.65,0:03:37.69,Italy,,0,0,0,,{=180}{\bord4.44\fscx985.62\fscy985.62\blur1\pos(501.11,284.84)\fade(255,0,255,-170,-170,2100,2800)}Rome
 Dialogue: 1,0:03:37.65,0:03:37.69,Italy,,0,0,0,,{=181}{\bord4.44\fscx986.97\fscy986.97\blur1\pos(1074.48,110.15)\fade(255,0,255,-170,-170,2100,2800)}Venice
-Dialogue: 1,0:03:37.65,0:03:37.69,Italy,,0,0,0,,{\fscx986.74\fscy986.74\bord4.44\be(1.3)\pos(501.11,284.8)}Rome
-Dialogue: 1,0:03:37.65,0:03:37.69,Italy,,0,0,0,,{\fscx987.06\fscy987.06\be1\pos(1074.55,110.23)}Venice
 Dialogue: 1,0:03:37.69,0:03:37.73,Italy,,0,0,0,,{=180}{\bord4.42\fscx982.9\fscy982.9\blur1\pos(499.42,284.33)\fade(255,0,255,-210,-210,2060,2760)}Rome
 Dialogue: 1,0:03:37.69,0:03:37.73,Italy,,0,0,0,,{=181}{\bord4.43\fscx983.68\fscy983.68\blur1\pos(1070.9,110.2)\fade(255,0,255,-210,-210,2060,2760)}Venice
-Dialogue: 1,0:03:37.69,0:03:37.73,Italy,,0,0,0,,{\fscx983.81\fscy983.81\bord4.43\be(1.3)\pos(499.41,284.29)}Rome
-Dialogue: 1,0:03:37.69,0:03:37.73,Italy,,0,0,0,,{\fscx983.72\fscy983.72\be1\pos(1071.02,110.31)}Venice
 Dialogue: 1,0:03:37.73,0:03:37.78,Italy,,0,0,0,,{=180}{\bord4.41\fscx979.02\fscy979.02\blur1\pos(497.74,283.8)\fade(255,0,255,-250,-250,2020,2720)}Rome
 Dialogue: 1,0:03:37.73,0:03:37.78,Italy,,0,0,0,,{=181}{\bord4.41\fscx980.45\fscy980.45\blur1\pos(1067.37,110.24)\fade(255,0,255,-250,-250,2020,2720)}Venice
-Dialogue: 1,0:03:37.73,0:03:37.78,Italy,,0,0,0,,{\fscx980.6\fscy980.6\bord4.41\be(1.3)\pos(497.72,283.74)}Rome
-Dialogue: 1,0:03:37.73,0:03:37.78,Italy,,0,0,0,,{\fscx980.68\fscy980.68\be1\pos(1067.73,110.37)}Venice
 Dialogue: 1,0:03:37.73,0:03:41.49,Title2,,0,0,0,,{\fad(400,0)\pos(1208,865)\fscx90\blur1}Episode 16: "Hamon Master Lisa Lisa" {Toni, Check that the title matches the preview at the end of 15 -Fadeout4}
 Dialogue: 1,0:03:37.73,0:03:41.49,Title2,,0,0,0,,{\fad(400,0)\pos(1200,865)}Episode 16: "Lisa Lisa, Master of the Ripple" {Toni, Check that the title matches the preview at the end of 15 -Fadeout4}
 Dialogue: 1,0:03:37.78,0:03:37.82,Italy,,0,0,0,,{=180}{\bord4.39\fscx975.05\fscy975.05\blur1\pos(496.06,283.29)\fade(255,0,255,-300,-300,1970,2670)}Rome
 Dialogue: 1,0:03:37.78,0:03:37.82,Italy,,0,0,0,,{=181}{\bord4.4\fscx977.18\fscy977.18\blur1\pos(1063.84,110.28)\fade(255,0,255,-300,-300,1970,2670)}Venice
-Dialogue: 1,0:03:37.78,0:03:37.82,Italy,,0,0,0,,{\fscx977.37\fscy977.37\bord4.4\be(1.3)\pos(496.06,283.22)}Rome
-Dialogue: 1,0:03:37.78,0:03:37.82,Italy,,0,0,0,,{\fscx977.26\fscy977.26\be1\pos(1063.81,110.49)}Venice
 Dialogue: 1,0:03:37.82,0:03:37.86,Italy,,0,0,0,,{=180}{\bord4.37\fscx972.19\fscy972.19\blur1\pos(494.41,282.77)\fade(255,0,255,-340,-340,1930,2630)}Rome
 Dialogue: 1,0:03:37.82,0:03:37.86,Italy,,0,0,0,,{=181}{\bord4.38\fscx973.99\fscy973.99\blur1\pos(1060.33,110.32)\fade(255,0,255,-340,-340,1930,2630)}Venice
-Dialogue: 1,0:03:37.82,0:03:37.86,Italy,,0,0,0,,{\fscx974.28\fscy974.28\bord4.38\be(1.3)\pos(494.4,282.71)}Rome
-Dialogue: 1,0:03:37.82,0:03:37.86,Italy,,0,0,0,,{\fscx974.2\fscy974.2\be1\pos(1060.49,110.48)}Venice
 Dialogue: 1,0:03:37.86,0:03:37.90,Italy,,0,0,0,,{=180}{\bord4.36\fscx968.21\fscy968.21\blur1\pos(492.74,282.25)\fade(255,0,255,-380,-380,1890,2590)}Rome
 Dialogue: 1,0:03:37.86,0:03:37.90,Italy,,0,0,0,,{=181}{\bord4.37\fscx970.76\fscy970.76\blur1\pos(1056.86,110.36)\fade(255,0,255,-380,-380,1890,2590)}Venice
-Dialogue: 1,0:03:37.86,0:03:37.90,Italy,,0,0,0,,{\fscx971.08\fscy971.08\bord4.37\be(1.3)\pos(492.75,282.18)}Rome
-Dialogue: 1,0:03:37.86,0:03:37.90,Italy,,0,0,0,,{\fscx971.09\fscy971.09\be1\pos(1057.13,110.45)}Venice
 Dialogue: 1,0:03:37.90,0:03:37.94,Italy,,0,0,0,,{=180}{\bord4.34\fscx965.37\fscy965.37\blur1\pos(491.11,281.73)\fade(255,0,255,-420,-420,1850,2550)}Rome
 Dialogue: 1,0:03:37.90,0:03:37.94,Italy,,0,0,0,,{=181}{\bord4.35\fscx967.65\fscy967.65\blur1\pos(1053.41,110.4)\fade(255,0,255,-420,-420,1850,2550)}Venice
-Dialogue: 1,0:03:37.90,0:03:37.94,Italy,,0,0,0,,{\fscx968.64\fscy968.64\bord4.36\be(1.3)\pos(491.11,281.66)}Rome
-Dialogue: 1,0:03:37.90,0:03:37.94,Italy,,0,0,0,,{\fscx967.97\fscy967.97\be1\pos(1053.64,110.42)}Venice
 Dialogue: 1,0:03:37.94,0:03:37.98,Italy,,0,0,0,,{=180}{\bord4.33\fscx961.62\fscy961.62\blur1\pos(489.48,281.22)\fade(255,0,255,-460,-460,1810,2510)}Rome
 Dialogue: 1,0:03:37.94,0:03:37.98,Italy,,0,0,0,,{=181}{\bord4.34\fscx964.5\fscy964.5\blur1\pos(1049.97,110.43)\fade(255,0,255,-460,-460,1810,2510)}Venice
-Dialogue: 1,0:03:37.94,0:03:37.98,Italy,,0,0,0,,{\fscx965.43\fscy965.43\bord4.34\be(1.3)\pos(489.48,281.13)}Rome
-Dialogue: 1,0:03:37.94,0:03:37.98,Italy,,0,0,0,,{\fscx964.62\fscy964.62\be1\pos(1050.14,110.52)}Venice
 Dialogue: 1,0:03:37.98,0:03:38.03,Italy,,0,0,0,,{=180}{\bord4.31\fscx958.01\fscy958.01\blur1\pos(487.86,280.73)\fade(255,0,255,-500,-500,1770,2470)}Rome
 Dialogue: 1,0:03:37.98,0:03:38.03,Italy,,0,0,0,,{=181}{\bord4.33\fscx961.47\fscy961.47\blur1\pos(1046.54,110.47)\fade(255,0,255,-500,-500,1770,2470)}Venice
-Dialogue: 1,0:03:37.98,0:03:38.03,Italy,,0,0,0,,{\fscx962.3\fscy962.3\bord4.33\be(1.3)\pos(487.88,280.64)}Rome
-Dialogue: 1,0:03:37.98,0:03:38.03,Italy,,0,0,0,,{\fscx961.55\fscy961.55\be1\pos(1046.61,110.53)}Venice
 Dialogue: 1,0:03:38.03,0:03:38.07,Italy,,0,0,0,,{=180}{\bord4.29\fscx954.12\fscy954.12\blur1\pos(486.26,280.25)\fade(255,0,255,-550,-550,1720,2420)}Rome
 Dialogue: 1,0:03:38.03,0:03:38.07,Italy,,0,0,0,,{=181}{\bord4.31\fscx958.4\fscy958.4\blur1\pos(1043.18,110.51)\fade(255,0,255,-550,-550,1720,2420)}Venice
-Dialogue: 1,0:03:38.03,0:03:38.07,Italy,,0,0,0,,{\fscx959.41\fscy959.41\bord4.32\be(1.3)\pos(486.26,280.11)}Rome
-Dialogue: 1,0:03:38.03,0:03:38.07,Italy,,0,0,0,,{\fscx958.55\fscy958.55\be1\pos(1043.37,110.56)}Venice
 Dialogue: 1,0:03:38.07,0:03:38.11,Italy,,0,0,0,,{=180}{\bord4.28\fscx950.98\fscy950.98\blur1\pos(484.66,279.76)\fade(255,0,255,-590,-590,1680,2380)}Rome
 Dialogue: 1,0:03:38.07,0:03:38.11,Italy,,0,0,0,,{=181}{\bord4.3\fscx955.28\fscy955.28\blur1\pos(1039.8,110.54)\fade(255,0,255,-590,-590,1680,2380)}Venice
-Dialogue: 1,0:03:38.07,0:03:38.11,Italy,,0,0,0,,{\fscx956.19\fscy956.19\bord4.3\be(1.3)\pos(484.66,279.62)}Rome
-Dialogue: 1,0:03:38.07,0:03:38.11,Italy,,0,0,0,,{\fscx955.47\fscy955.47\be1\pos(1039.98,110.57)}Venice
-Dialogue: 0,0:03:38.08,0:03:38.91,Dubtitles,,0,0,0,,the
 Dialogue: 1,0:03:38.11,0:03:38.15,Italy,,0,0,0,,{=180}{\bord4.26\fscx947.44\fscy947.44\blur1\pos(483.06,279.28)\fade(255,0,255,-630,-630,1640,2340)}Rome
 Dialogue: 1,0:03:38.11,0:03:38.15,Italy,,0,0,0,,{=181}{\bord4.29\fscx952.4\fscy952.4\blur1\pos(1036.45,110.57)\fade(255,0,255,-630,-630,1640,2340)}Venice
-Dialogue: 1,0:03:38.11,0:03:38.15,Italy,,0,0,0,,{\fscx953.12\fscy953.12\bord4.29\be(1.3)\pos(483.08,279.13)}Rome
-Dialogue: 1,0:03:38.11,0:03:38.15,Italy,,0,0,0,,{\fscx952.65\fscy952.65\be1\pos(1036.82,110.56)}Venice
 Dialogue: 1,0:03:38.15,0:03:38.19,Italy,,0,0,0,,{=180}{\bord4.25\fscx944.9\fscy944.9\blur1\pos(481.48,278.76)\fade(255,0,255,-670,-670,1600,2300)}Rome
 Dialogue: 1,0:03:38.15,0:03:38.19,Italy,,0,0,0,,{=181}{\bord4.27\fscx949.33\fscy949.33\blur1\pos(1033.12,110.61)\fade(255,0,255,-670,-670,1600,2300)}Venice
-Dialogue: 1,0:03:38.15,0:03:38.19,Italy,,0,0,0,,{\fscx950.27\fscy950.27\bord4.28\be(1.3)\pos(481.5,278.62)}Rome
-Dialogue: 1,0:03:38.15,0:03:38.19,Italy,,0,0,0,,{\fscx949.34\fscy949.34\be1\pos(1033.33,110.7)}Venice
 Dialogue: 1,0:03:38.19,0:03:38.23,Italy,,0,0,0,,{=180}{\bord4.24\fscx941.76\fscy941.76\blur1\pos(479.92,278.28)\fade(255,0,255,-710,-710,1560,2260)}Rome
 Dialogue: 1,0:03:38.19,0:03:38.23,Italy,,0,0,0,,{=181}{\bord4.26\fscx946.43\fscy946.43\blur1\pos(1029.83,110.64)\fade(255,0,255,-710,-710,1560,2260)}Venice
-Dialogue: 1,0:03:38.19,0:03:38.23,Italy,,0,0,0,,{\fscx946.8\fscy946.8\bord4.26\be(1.3)\pos(479.94,278.15)}Rome
-Dialogue: 1,0:03:38.19,0:03:38.23,Italy,,0,0,0,,{\fscx946.78\fscy946.78\be1\pos(1030.39,110.64)}Venice
 Dialogue: 1,0:03:38.23,0:03:38.28,Italy,,0,0,0,,{=180}{\bord4.22\fscx938.66\fscy938.66\blur1\pos(478.36,277.79)\fade(255,0,255,-750,-750,1520,2220)}Rome
 Dialogue: 1,0:03:38.23,0:03:38.28,Italy,,0,0,0,,{=181}{\bord4.25\fscx943.55\fscy943.55\blur1\pos(1026.54,110.68)\fade(255,0,255,-750,-750,1520,2220)}Venice
-Dialogue: 1,0:03:38.23,0:03:38.28,Italy,,0,0,0,,{\fscx944.17\fscy944.17\bord4.25\be(1.3)\pos(478.37,277.64)}Rome
-Dialogue: 1,0:03:38.23,0:03:38.28,Italy,,0,0,0,,{\fscx943.7\fscy943.7\be1\pos(1026.9,110.64)}Venice
 Dialogue: 1,0:03:38.28,0:03:38.32,Italy,,0,0,0,,{=180}{\bord4.21\fscx935.7\fscy935.7\blur1\pos(476.81,277.3)\fade(255,0,255,-800,-800,1470,2170)}Rome
 Dialogue: 1,0:03:38.28,0:03:38.32,Italy,,0,0,0,,{=181}{\bord4.23\fscx940.45\fscy940.45\blur1\pos(1023.28,110.72)\fade(255,0,255,-800,-800,1470,2170)}Venice
-Dialogue: 1,0:03:38.28,0:03:38.32,Italy,,0,0,0,,{\fscx940.69\fscy940.69\bord4.23\be(1.3)\pos(476.82,277.17)}Rome
-Dialogue: 1,0:03:38.28,0:03:38.32,Italy,,0,0,0,,{\fscx940.95\fscy940.95\be1\pos(1023.82,110.67)}Venice
 Dialogue: 1,0:03:38.32,0:03:38.36,Italy,,0,0,0,,{=180}{\bord4.2\fscx933.11\fscy933.11\blur1\pos(475.27,276.84)\fade(255,0,255,-840,-840,1430,2130)}Rome
 Dialogue: 1,0:03:38.32,0:03:38.36,Italy,,0,0,0,,{=181}{\bord4.22\fscx937.52\fscy937.52\blur1\pos(1020.02,110.76)\fade(255,0,255,-840,-840,1430,2130)}Venice
-Dialogue: 1,0:03:38.32,0:03:38.36,Italy,,0,0,0,,{\fscx938.48\fscy938.48\bord4.22\be(1.3)\pos(475.3,276.67)}Rome
-Dialogue: 1,0:03:38.32,0:03:38.36,Italy,,0,0,0,,{\fscx938.1\fscy938.1\be1\pos(1020.69,110.67)}Venice
 Dialogue: 1,0:03:38.36,0:03:38.40,Italy,,0,0,0,,{=180}{\bord4.19\fscx930.01\fscy930.01\blur1\pos(473.73,276.37)\fade(255,0,255,-880,-880,1390,2090)}Rome
 Dialogue: 1,0:03:38.36,0:03:38.40,Italy,,0,0,0,,{=181}{\bord4.21\fscx934.62\fscy934.62\blur1\pos(1016.8,110.79)\fade(255,0,255,-880,-880,1390,2090)}Venice
-Dialogue: 1,0:03:38.36,0:03:38.40,Italy,,0,0,0,,{\fscx935.23\fscy935.23\bord4.21\be(1.3)\pos(473.77,276.18)}Rome
-Dialogue: 1,0:03:38.36,0:03:38.40,Italy,,0,0,0,,{\fscx935.12\fscy935.12\be1\pos(1017.44,110.73)}Venice
 Dialogue: 1,0:03:38.40,0:03:38.44,Italy,,0,0,0,,{=180}{\bord4.17\fscx926.94\fscy926.94\blur1\pos(472.22,275.88)\fade(255,0,255,-920,-920,1350,2050)}Rome
 Dialogue: 1,0:03:38.40,0:03:38.44,Italy,,0,0,0,,{=181}{\bord4.19\fscx931.75\fscy931.75\blur1\pos(1013.59,110.83)\fade(255,0,255,-920,-920,1350,2050)}Venice
-Dialogue: 1,0:03:38.40,0:03:38.44,Italy,,0,0,0,,{\fscx932.51\fscy932.51\bord4.2\be(1.3)\pos(472.25,275.7)}Rome
-Dialogue: 1,0:03:38.40,0:03:38.44,Italy,,0,0,0,,{\fscx931.92\fscy931.92\be1\pos(1013.86,110.79)}Venice
 Dialogue: 1,0:03:38.44,0:03:38.48,Italy,,0,0,0,,{=180}{\bord4.16\fscx924.04\fscy924.04\blur1\pos(470.71,275.42)\fade(255,0,255,-960,-960,1310,2010)}Rome
 Dialogue: 1,0:03:38.44,0:03:38.48,Italy,,0,0,0,,{=181}{\bord4.18\fscx928.81\fscy928.81\blur1\pos(1010.42,110.87)\fade(255,0,255,-960,-960,1310,2010)}Venice
-Dialogue: 1,0:03:38.44,0:03:38.48,Italy,,0,0,0,,{\fscx929.83\fscy929.83\bord4.18\be(1.3)\pos(470.76,275.23)}Rome
-Dialogue: 1,0:03:38.44,0:03:38.48,Italy,,0,0,0,,{\fscx929.06\fscy929.06\be1\pos(1010.86,110.86)}Venice
 Dialogue: 1,0:03:38.48,0:03:38.53,Italy,,0,0,0,,{=180}{\bord4.14\fscx920.93\fscy920.93\blur1\pos(469.21,274.95)\fade(255,0,255,-1000,-1000,1270,1970)}Rome
 Dialogue: 1,0:03:38.48,0:03:38.53,Italy,,0,0,0,,{=181}{\bord4.17\fscx925.98\fscy925.98\blur1\pos(1007.25,110.9)\fade(255,0,255,-1000,-1000,1270,1970)}Venice
-Dialogue: 1,0:03:38.48,0:03:38.53,Italy,,0,0,0,,{\fscx926.44\fscy926.44\bord4.17\be(1.3)\pos(469.24,274.76)}Rome
-Dialogue: 1,0:03:38.48,0:03:38.53,Italy,,0,0,0,,{\fscx926.03\fscy926.03\be1\pos(1007.66,110.92)}Venice
 Dialogue: 1,0:03:38.53,0:03:38.57,Italy,,0,0,0,,{=180}{\bord4.13\fscx918.04\fscy918.04\blur1\pos(467.72,274.48)\fade(255,0,255,-1050,-1050,1220,1920)}Rome
 Dialogue: 1,0:03:38.53,0:03:38.57,Italy,,0,0,0,,{=181}{\bord4.15\fscx923.1\fscy923.1\blur1\pos(1004.12,110.94)\fade(255,0,255,-1050,-1050,1220,1920)}Venice
-Dialogue: 1,0:03:38.53,0:03:38.57,Italy,,0,0,0,,{\fscx923.81\fscy923.81\bord4.16\be(1.3)\pos(467.75,274.29)}Rome
-Dialogue: 1,0:03:38.53,0:03:38.57,Italy,,0,0,0,,{\fscx923.21\fscy923.21\be1\pos(1004.47,110.94)}Venice
 Dialogue: 1,0:03:38.57,0:03:38.61,Italy,,0,0,0,,{=180}{\bord4.12\fscx915.11\fscy915.11\blur1\pos(466.23,274.03)\fade(255,0,255,-1090,-1090,1180,1880)}Rome
 Dialogue: 1,0:03:38.57,0:03:38.61,Italy,,0,0,0,,{=181}{\bord4.14\fscx920.25\fscy920.25\blur1\pos(1000.99,110.97)\fade(255,0,255,-1090,-1090,1180,1880)}Venice
-Dialogue: 1,0:03:38.57,0:03:38.61,Italy,,0,0,0,,{\fscx920.77\fscy920.77\bord4.14\be(1.3)\pos(466.27,273.82)}Rome
-Dialogue: 1,0:03:38.57,0:03:38.61,Italy,,0,0,0,,{\fscx920.47\fscy920.47\be1\pos(1001.31,110.92)}Venice
 Dialogue: 1,0:03:38.61,0:03:38.65,Italy,,0,0,0,,{=180}{\bord4.11\fscx912.64\fscy912.64\blur1\pos(464.76,273.57)\fade(255,0,255,-1130,-1130,1140,1840)}Rome
 Dialogue: 1,0:03:38.61,0:03:38.65,Italy,,0,0,0,,{=181}{\bord4.13\fscx917.47\fscy917.47\blur1\pos(997.87,111)\fade(255,0,255,-1130,-1130,1140,1840)}Venice
-Dialogue: 1,0:03:38.61,0:03:38.65,Italy,,0,0,0,,{\fscx918.59\fscy918.59\bord4.13\be(1.3)\pos(464.81,273.35)}Rome
-Dialogue: 1,0:03:38.61,0:03:38.65,Italy,,0,0,0,,{\fscx917.67\fscy917.67\be1\pos(998.33,111)}Venice
 Dialogue: 1,0:03:38.65,0:03:38.69,Italy,,0,0,0,,{=180}{\bord4.09\fscx909.86\fscy909.86\blur1\pos(463.29,273.09)\fade(255,0,255,-1170,-1170,1100,1800)}Rome
 Dialogue: 1,0:03:38.65,0:03:38.69,Italy,,0,0,0,,{=181}{\bord4.12\fscx914.73\fscy914.73\blur1\pos(994.79,111.03)\fade(255,0,255,-1170,-1170,1100,1800)}Venice
-Dialogue: 1,0:03:38.65,0:03:38.69,Italy,,0,0,0,,{\fscx915.82\fscy915.82\bord4.12\be(1.3)\pos(463.34,272.87)}Rome
-Dialogue: 1,0:03:38.65,0:03:38.69,Italy,,0,0,0,,{\fscx915.03\fscy915.03\be1\pos(995.39,111.01)}Venice
 Dialogue: 1,0:03:38.69,0:03:38.73,Italy,,0,0,0,,{=180}{\bord4.08\fscx907.48\fscy907.48\blur1\pos(461.85,272.63)\fade(255,0,255,-1210,-1210,1060,1760)}Rome
 Dialogue: 1,0:03:38.69,0:03:38.73,Italy,,0,0,0,,{=181}{\bord4.1\fscx911.88\fscy911.88\blur1\pos(991.72,111.06)\fade(255,0,255,-1210,-1210,1060,1760)}Venice
-Dialogue: 1,0:03:38.69,0:03:38.74,Italy,,0,0,0,,{\fscx912.42\fscy912.42\bord4.11\be(1.3)\pos(461.9,272.44)}Rome
-Dialogue: 1,0:03:38.69,0:03:38.74,Italy,,0,0,0,,{\fscx912.34\fscy912.34\be1\pos(992.34,111.04)}Venice
 Dialogue: 1,0:03:38.73,0:03:38.78,Italy,,0,0,0,,{=180}{\bord4.07\fscx905.26\fscy905.26\blur1\pos(460.42,272.18)\fade(255,0,255,-1250,-1250,1020,1720)}Rome
 Dialogue: 1,0:03:38.73,0:03:38.78,Italy,,0,0,0,,{=181}{\bord4.09\fscx909.11\fscy909.11\blur1\pos(988.67,111.1)\fade(255,0,255,-1250,-1250,1020,1720)}Venice
-Dialogue: 1,0:03:38.74,0:03:38.78,Italy,,0,0,0,,{\fscx909.86\fscy909.86\bord4.09\be(1.3)\pos(460.45,271.97)}Rome
-Dialogue: 1,0:03:38.74,0:03:38.78,Italy,,0,0,0,,{\fscx909.53\fscy909.53\be1\pos(989.23,111.05)}Venice
 Dialogue: 1,0:03:38.78,0:03:38.82,Italy,,0,0,0,,{=180}{\bord4.06\fscx902.69\fscy902.69\blur1\pos(458.97,271.72)\fade(255,0,255,-1300,-1300,970,1670)}Rome
 Dialogue: 1,0:03:38.78,0:03:38.82,Italy,,0,0,0,,{=181}{\bord4.08\fscx906.34\fscy906.34\blur1\pos(985.64,111.13)\fade(255,0,255,-1300,-1300,970,1670)}Venice
-Dialogue: 1,0:03:38.78,0:03:38.82,Italy,,0,0,0,,{\fscx907.22\fscy907.22\bord4.08\be(1.3)\pos(459,271.51)}Rome
-Dialogue: 1,0:03:38.78,0:03:38.82,Italy,,0,0,0,,{\fscx906.8\fscy906.8\be1\pos(986.26,111.09)}Venice
 Dialogue: 1,0:03:38.82,0:03:38.86,Italy,,0,0,0,,{=180}{\bord4.05\fscx899.92\fscy899.92\blur1\pos(457.52,271.27)\fade(255,0,255,-1340,-1340,930,1630)}Rome
 Dialogue: 1,0:03:38.82,0:03:38.86,Italy,,0,0,0,,{=181}{\bord4.07\fscx903.73\fscy903.73\blur1\pos(982.64,111.16)\fade(255,0,255,-1340,-1340,930,1630)}Venice
-Dialogue: 1,0:03:38.82,0:03:38.86,Italy,,0,0,0,,{\fscx905.16\fscy905.16\bord4.07\be(1.3)\pos(457.56,271.06)}Rome
-Dialogue: 1,0:03:38.82,0:03:38.86,Italy,,0,0,0,,{\fscx903.99\fscy903.99\be1\pos(983.2,111.17)}Venice
 Dialogue: 1,0:03:38.86,0:03:38.90,Italy,,0,0,0,,{=180}{\bord4.04\fscx897.01\fscy897.01\blur1\pos(456.09,270.84)\fade(255,0,255,-1380,-1380,890,1590)}Rome
 Dialogue: 1,0:03:38.86,0:03:38.90,Italy,,0,0,0,,{=181}{\bord4.05\fscx901\fscy901\blur1\pos(979.63,111.19)\fade(255,0,255,-1380,-1380,890,1590)}Venice
-Dialogue: 1,0:03:38.86,0:03:38.90,Italy,,0,0,0,,{\fscx902.35\fscy902.35\bord4.06\be(1.3)\pos(456.15,270.61)}Rome
-Dialogue: 1,0:03:38.86,0:03:38.90,Italy,,0,0,0,,{\fscx901.31\fscy901.31\be1\pos(980.26,111.19)}Venice
 Dialogue: 1,0:03:38.90,0:03:38.94,Italy,,0,0,0,,{=180}{\bord4.02\fscx893.8\fscy893.8\blur1\pos(454.67,270.4)\fade(255,0,255,-1420,-1420,850,1550)}Rome
 Dialogue: 1,0:03:38.90,0:03:38.94,Italy,,0,0,0,,{=181}{\bord4.04\fscx898.32\fscy898.32\blur1\pos(976.65,111.22)\fade(255,0,255,-1420,-1420,850,1550)}Venice
-Dialogue: 1,0:03:38.90,0:03:38.94,Italy,,0,0,0,,{\fscx899.42\fscy899.42\bord4.05\be(1.3)\pos(454.75,270.16)}Rome
-Dialogue: 1,0:03:38.90,0:03:38.94,Italy,,0,0,0,,{\fscx898.74\fscy898.74\be1\pos(977.2,111.16)}Venice
 Dialogue: 1,0:03:38.94,0:03:38.99,Italy,,0,0,0,,{=180}{\bord4.01\fscx890.95\fscy890.95\blur1\pos(453.28,269.97)\fade(255,0,255,-1460,-1460,810,1510)}Rome
 Dialogue: 1,0:03:38.94,0:03:38.99,Italy,,0,0,0,,{=181}{\bord4.03\fscx895.64\fscy895.64\blur1\pos(973.7,111.25)\fade(255,0,255,-1460,-1460,810,1510)}Venice
-Dialogue: 1,0:03:38.94,0:03:38.99,Italy,,0,0,0,,{\fscx896.55\fscy896.55\bord4.03\be(1.3)\pos(453.36,269.73)}Rome
-Dialogue: 1,0:03:38.94,0:03:38.99,Italy,,0,0,0,,{\fscx895.89\fscy895.89\be1\pos(974.19,111.29)}Venice
 Dialogue: 1,0:03:38.99,0:03:39.03,Italy,,0,0,0,,{=180}{\bord4\fscx888.86\fscy888.86\blur1\pos(451.89,269.52)\fade(255,0,255,-1510,-1510,760,1460)}Rome
 Dialogue: 1,0:03:38.99,0:03:39.03,Italy,,0,0,0,,{=181}{\bord4.02\fscx892.92\fscy892.92\blur1\pos(970.76,111.29)\fade(255,0,255,-1510,-1510,760,1460)}Venice
-Dialogue: 1,0:03:38.99,0:03:39.03,Italy,,0,0,0,,{\fscx893.71\fscy893.71\bord4.02\be(1.3)\pos(451.96,269.3)}Rome
-Dialogue: 1,0:03:38.99,0:03:39.03,Italy,,0,0,0,,{\fscx893.21\fscy893.21\be1\pos(971.32,111.33)}Venice
-Dialogue: 0,0:03:38.99,0:03:39.82,Dubtitles,,0,0,0,,dark.
 Dialogue: 1,0:03:39.03,0:03:39.07,Italy,,0,0,0,,{=180}{\bord3.99\fscx886.38\fscy886.38\blur1\pos(450.48,269.06)\fade(255,0,255,-1550,-1550,720,1420)}Rome
 Dialogue: 1,0:03:39.03,0:03:39.07,Italy,,0,0,0,,{=181}{\bord4.01\fscx890.24\fscy890.24\blur1\pos(967.84,111.32)\fade(255,0,255,-1550,-1550,720,1420)}Venice
-Dialogue: 1,0:03:39.03,0:03:39.07,Italy,,0,0,0,,{\fscx891.61\fscy891.61\bord4.01\be(1.3)\pos(450.56,268.84)}Rome
-Dialogue: 1,0:03:39.03,0:03:39.07,Italy,,0,0,0,,{\fscx890.65\fscy890.65\be1\pos(968.46,111.36)}Venice
 Dialogue: 1,0:03:39.07,0:03:39.11,Italy,,0,0,0,,{=180}{\bord3.98\fscx883.94\fscy883.94\blur1\pos(449.1,268.64)\fade(255,0,255,-1590,-1590,680,1380)}Rome
 Dialogue: 1,0:03:39.07,0:03:39.11,Italy,,0,0,0,,{=181}{\bord3.99\fscx887.54\fscy887.54\blur1\pos(964.93,111.35)\fade(255,0,255,-1590,-1590,680,1380)}Venice
-Dialogue: 1,0:03:39.07,0:03:39.11,Italy,,0,0,0,,{\fscx889.15\fscy889.15\bord4\be(1.3)\pos(449.16,268.41)}Rome
-Dialogue: 1,0:03:39.07,0:03:39.11,Italy,,0,0,0,,{\fscx887.99\fscy887.99\be1\pos(965.51,111.38)}Venice
 Dialogue: 1,0:03:39.11,0:03:39.15,Italy,,0,0,0,,{=180}{\bord3.96\fscx881.07\fscy881.07\blur1\pos(447.72,268.22)\fade(255,0,255,-1630,-1630,640,1340)}Rome
 Dialogue: 1,0:03:39.11,0:03:39.15,Italy,,0,0,0,,{=181}{\bord3.98\fscx884.86\fscy884.86\blur1\pos(962.04,111.38)\fade(255,0,255,-1630,-1630,640,1340)}Venice
-Dialogue: 1,0:03:39.11,0:03:39.15,Italy,,0,0,0,,{\fscx886.51\fscy886.51\bord3.99\be(1.3)\pos(447.8,267.99)}Rome
-Dialogue: 1,0:03:39.11,0:03:39.15,Italy,,0,0,0,,{\fscx885.56\fscy885.56\be1\pos(962.81,111.42)}Venice
 Dialogue: 1,0:03:39.15,0:03:39.19,Italy,,0,0,0,,{=180}{\bord3.95\fscx878.21\fscy878.21\blur1\pos(446.36,267.79)\fade(255,0,255,-1670,-1670,600,1300)}Rome
 Dialogue: 1,0:03:39.15,0:03:39.19,Italy,,0,0,0,,{=181}{\bord3.97\fscx882.11\fscy882.11\blur1\pos(959.16,111.42)\fade(255,0,255,-1670,-1670,600,1300)}Venice
-Dialogue: 1,0:03:39.15,0:03:39.19,Italy,,0,0,0,,{\fscx884.25\fscy884.25\bord3.98\be(1.3)\pos(446.44,267.53)}Rome
-Dialogue: 1,0:03:39.15,0:03:39.19,Italy,,0,0,0,,{\fscx883.13\fscy883.13\be1\pos(960.05,111.46)}Venice
 Dialogue: 1,0:03:39.19,0:03:39.24,Italy,,0,0,0,,{=180}{\bord3.94\fscx875.34\fscy875.34\blur1\pos(445,267.38)\fade(255,0,255,-1710,-1710,560,1260)}Rome
 Dialogue: 1,0:03:39.19,0:03:39.24,Italy,,0,0,0,,{=181}{\bord3.96\fscx879.46\fscy879.46\blur1\pos(956.31,111.44)\fade(255,0,255,-1710,-1710,560,1260)}Venice
-Dialogue: 1,0:03:39.19,0:03:39.24,Italy,,0,0,0,,{\fscx881.44\fscy881.44\bord3.97\be(1.3)\pos(445.09,267.13)}Rome
-Dialogue: 1,0:03:39.19,0:03:39.24,Italy,,0,0,0,,{\fscx880.51\fscy880.51\be1\pos(957.32,111.51)}Venice
 Dialogue: 1,0:03:39.24,0:03:39.28,Italy,,0,0,0,,{=180}{\bord3.93\fscx872.75\fscy872.75\blur1\pos(443.63,266.97)\fade(255,0,255,-1760,-1760,510,1210)}Rome
 Dialogue: 1,0:03:39.24,0:03:39.28,Italy,,0,0,0,,{=181}{\bord3.95\fscx876.77\fscy876.77\blur1\pos(953.46,111.47)\fade(255,0,255,-1760,-1760,510,1210)}Venice
-Dialogue: 1,0:03:39.24,0:03:39.28,Italy,,0,0,0,,{\fscx878.66\fscy878.66\bord3.95\be(1.3)\pos(443.74,266.72)}Rome
-Dialogue: 1,0:03:39.24,0:03:39.28,Italy,,0,0,0,,{\fscx877.74\fscy877.74\be1\pos(954.21,111.59)}Venice
 Dialogue: 1,0:03:39.28,0:03:39.32,Italy,,0,0,0,,{=180}{\bord3.92\fscx870.07\fscy870.07\blur1\pos(442.26,266.54)\fade(255,0,255,-1800,-1800,470,1170)}Rome
 Dialogue: 1,0:03:39.28,0:03:39.32,Italy,,0,0,0,,{=181}{\bord3.93\fscx874.24\fscy874.24\blur1\pos(950.65,111.5)\fade(255,0,255,-1800,-1800,470,1170)}Venice
-Dialogue: 1,0:03:39.28,0:03:39.32,Italy,,0,0,0,,{\fscx876.59\fscy876.59\bord3.94\be(1.3)\pos(442.39,266.28)}Rome
-Dialogue: 1,0:03:39.28,0:03:39.32,Italy,,0,0,0,,{\fscx875.4\fscy875.4\be1\pos(951.61,111.57)}Venice
 Dialogue: 1,0:03:39.32,0:03:39.36,Italy,,0,0,0,,{=180}{\bord3.9\fscx867.68\fscy867.68\blur1\pos(440.95,266.11)\fade(255,0,255,-1840,-1840,430,1130)}Rome
 Dialogue: 1,0:03:39.32,0:03:39.36,Italy,,0,0,0,,{=181}{\bord3.92\fscx871.79\fscy871.79\blur1\pos(947.85,111.53)\fade(255,0,255,-1840,-1840,430,1130)}Venice
-Dialogue: 1,0:03:39.32,0:03:39.36,Italy,,0,0,0,,{\fscx873.97\fscy873.97\bord3.93\be(1.3)\pos(441.08,265.87)}Rome
-Dialogue: 1,0:03:39.32,0:03:39.36,Italy,,0,0,0,,{\fscx872.88\fscy872.88\be1\pos(948.69,111.58)}Venice
 Dialogue: 1,0:03:39.36,0:03:39.40,Italy,,0,0,0,,{=180}{\bord3.89\fscx865.17\fscy865.17\blur1\pos(439.63,265.71)\fade(255,0,255,-1880,-1880,390,1090)}Rome
 Dialogue: 1,0:03:39.36,0:03:39.40,Italy,,0,0,0,,{=181}{\bord3.91\fscx869.19\fscy869.19\blur1\pos(945.06,111.56)\fade(255,0,255,-1880,-1880,390,1090)}Venice
-Dialogue: 1,0:03:39.36,0:03:39.40,Italy,,0,0,0,,{\fscx871.39\fscy871.39\bord3.92\be(1.3)\pos(439.75,265.46)}Rome
-Dialogue: 1,0:03:39.36,0:03:39.40,Italy,,0,0,0,,{\fscx870.25\fscy870.25\be1\pos(945.83,111.63)}Venice
 Dialogue: 1,0:03:39.40,0:03:39.44,Italy,,0,0,0,,{=180}{\bord3.88\fscx862.86\fscy862.86\blur1\pos(438.31,265.29)\fade(255,0,255,-1920,-1920,350,1050)}Rome
 Dialogue: 1,0:03:39.40,0:03:39.44,Italy,,0,0,0,,{=181}{\bord3.9\fscx866.63\fscy866.63\blur1\pos(942.28,111.59)\fade(255,0,255,-1920,-1920,350,1050)}Venice
-Dialogue: 1,0:03:39.40,0:03:39.44,Italy,,0,0,0,,{\fscx868.98\fscy868.98\bord3.91\be(1.3)\pos(438.43,265.04)}Rome
-Dialogue: 1,0:03:39.40,0:03:39.44,Italy,,0,0,0,,{\fscx867.74\fscy867.74\be1\pos(943.09,111.65)}Venice
 Dialogue: 1,0:03:39.44,0:03:39.49,Italy,,0,0,0,,{=180}{\bord3.87\fscx860.47\fscy860.47\blur1\pos(436.99,264.87)\fade(255,0,255,-1960,-1960,310,1010)}Rome
 Dialogue: 1,0:03:39.44,0:03:39.49,Italy,,0,0,0,,{=181}{\bord3.89\fscx864.1\fscy864.1\blur1\pos(939.51,111.62)\fade(255,0,255,-1960,-1960,310,1010)}Venice
-Dialogue: 1,0:03:39.44,0:03:39.49,Italy,,0,0,0,,{\fscx866.82\fscy866.82\bord3.9\be(1.3)\pos(437.12,264.62)}Rome
-Dialogue: 1,0:03:39.44,0:03:39.49,Italy,,0,0,0,,{\fscx865.25\fscy865.25\be1\pos(940.28,111.67)}Venice
 Dialogue: 1,0:03:39.49,0:03:39.53,Italy,,0,0,0,,{=180}{\bord3.86\fscx857.7\fscy857.7\blur1\pos(435.69,264.48)\fade(255,0,255,-2010,-2010,260,960)}Rome
 Dialogue: 1,0:03:39.49,0:03:39.53,Italy,,0,0,0,,{=181}{\bord3.88\fscx861.64\fscy861.64\blur1\pos(936.79,111.64)\fade(255,0,255,-2010,-2010,260,960)}Venice
-Dialogue: 1,0:03:39.49,0:03:39.53,Italy,,0,0,0,,{\fscx864.31\fscy864.31\bord3.89\be(1.3)\pos(435.83,264.2)}Rome
-Dialogue: 1,0:03:39.49,0:03:39.53,Italy,,0,0,0,,{\fscx862.66\fscy862.66\be1\pos(937.47,111.76)}Venice
 Dialogue: 1,0:03:39.53,0:03:39.57,Italy,,0,0,0,,{=180}{\bord3.85\fscx854.97\fscy854.97\blur1\pos(434.38,264.07)\fade(255,0,255,-2050,-2050,220,920)}Rome
 Dialogue: 1,0:03:39.53,0:03:39.57,Italy,,0,0,0,,{=181}{\bord3.87\fscx859.17\fscy859.17\blur1\pos(934.07,111.67)\fade(255,0,255,-2050,-2050,220,920)}Venice
-Dialogue: 1,0:03:39.53,0:03:39.57,Italy,,0,0,0,,{\fscx861.89\fscy861.89\bord3.88\be(1.3)\pos(434.55,263.81)}Rome
-Dialogue: 1,0:03:39.53,0:03:39.57,Italy,,0,0,0,,{\fscx860.37\fscy860.37\be1\pos(934.94,111.72)}Venice
 Dialogue: 1,0:03:39.57,0:03:39.61,Italy,,0,0,0,,{=180}{\bord3.84\fscx852.4\fscy852.4\blur1\pos(433.1,263.67)\fade(255,0,255,-2090,-2090,180,880)}Rome
 Dialogue: 1,0:03:39.57,0:03:39.61,Italy,,0,0,0,,{=181}{\bord3.86\fscx856.81\fscy856.81\blur1\pos(931.36,111.69)\fade(255,0,255,-2090,-2090,180,880)}Venice
-Dialogue: 1,0:03:39.57,0:03:39.61,Italy,,0,0,0,,{\fscx859.36\fscy859.36\bord3.87\be(1.3)\pos(433.25,263.39)}Rome
-Dialogue: 1,0:03:39.57,0:03:39.61,Italy,,0,0,0,,{\fscx857.75\fscy857.75\be1\pos(932.1,111.75)}Venice
 Dialogue: 1,0:03:39.61,0:03:39.65,Italy,,0,0,0,,{=180}{\bord3.82\fscx849.77\fscy849.77\blur1\pos(431.82,263.26)\fade(255,0,255,-2130,-2130,140,840)}Rome
 Dialogue: 1,0:03:39.61,0:03:39.65,Italy,,0,0,0,,{=181}{\bord3.84\fscx854.34\fscy854.34\blur1\pos(928.67,111.72)\fade(255,0,255,-2130,-2130,140,840)}Venice
-Dialogue: 1,0:03:39.61,0:03:39.65,Italy,,0,0,0,,{\fscx857.34\fscy857.34\bord3.86\be(1.3)\pos(431.98,262.97)}Rome
-Dialogue: 1,0:03:39.61,0:03:39.65,Italy,,0,0,0,,{\fscx855.23\fscy855.23\be1\pos(929.34,111.77)}Venice
 Dialogue: 1,0:03:39.65,0:03:39.69,Italy,,0,0,0,,{=180}{\bord3.81\fscx847.62\fscy847.62\blur1\pos(430.55,262.88)\fade(255,0,255,-2170,-2170,100,800)}Rome
 Dialogue: 1,0:03:39.65,0:03:39.69,Italy,,0,0,0,,{=181}{\bord3.83\fscx851.87\fscy851.87\blur1\pos(925.98,111.74)\fade(255,0,255,-2170,-2170,100,800)}Venice
-Dialogue: 1,0:03:39.65,0:03:39.69,Italy,,0,0,0,,{\fscx854.74\fscy854.74\bord3.85\be(1.3)\pos(430.73,262.59)}Rome
-Dialogue: 1,0:03:39.65,0:03:39.69,Italy,,0,0,0,,{\fscx852.76\fscy852.76\be1\pos(926.63,111.76)}Venice
 Dialogue: 1,0:03:39.69,0:03:39.74,Italy,,0,0,0,,{=180}{\bord3.8\fscx845.29\fscy845.29\blur1\pos(429.28,262.46)\fade(255,0,255,-2210,-2210,60,760)}Rome
 Dialogue: 1,0:03:39.69,0:03:39.74,Italy,,0,0,0,,{=181}{\bord3.82\fscx849.5\fscy849.5\blur1\pos(923.33,111.77)\fade(255,0,255,-2210,-2210,60,760)}Venice
-Dialogue: 1,0:03:39.69,0:03:39.74,Italy,,0,0,0,,{\fscx852.06\fscy852.06\bord3.83\be(1.3)\pos(429.45,262.2)\t(29,759,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.69,0:03:39.74,Italy,,0,0,0,,{\fscx850.47\fscy850.47\be1\pos(924.08,111.75)\t(39,759,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:39.74,0:03:39.78,Italy,,0,0,0,,{=180}{\bord3.79\fscx842.36\fscy842.36\blur1\pos(428.02,262.08)\fade(255,0,255,-2260,-2260,10,710)}Rome
 Dialogue: 1,0:03:39.74,0:03:39.78,Italy,,0,0,0,,{=181}{\bord3.81\fscx847.08\fscy847.08\blur1\pos(920.68,111.8)\fade(255,0,255,-2260,-2260,10,710)}Venice
-Dialogue: 1,0:03:39.74,0:03:39.78,Italy,,0,0,0,,{\fscx849.73\fscy849.73\bord3.82\be(1.3)\pos(428.19,261.8)\t(-13,717,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.74,0:03:39.78,Italy,,0,0,0,,{\fscx847.97\fscy847.97\be1\pos(921.37,111.75)\t(-3,717,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:39.78,0:03:39.82,Italy,,0,0,0,,{=180}{\bord3.78\fscx839.78\fscy839.78\blur1\pos(426.76,261.7)\fade(255,0,255,-2300,-2300,-30,670)}Rome
 Dialogue: 1,0:03:39.78,0:03:39.82,Italy,,0,0,0,,{=181}{\bord3.8\fscx844.76\fscy844.76\blur1\pos(918.04,111.82)\fade(255,0,255,-2300,-2300,-30,670)}Venice
-Dialogue: 1,0:03:39.78,0:03:39.82,Italy,,0,0,0,,{\fscx847.3\fscy847.3\bord3.81\be(1.3)\pos(426.96,261.43)\t(-54,676,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.78,0:03:39.82,Italy,,0,0,0,,{\fscx845.66\fscy845.66\be1\pos(918.77,111.8)\t(-44,676,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:39.82,0:03:39.86,Italy,,0,0,0,,{=180}{\bord3.77\fscx837.4\fscy837.4\blur1\pos(425.51,261.3)\fade(255,0,255,-2340,-2340,-70,630)}Rome
 Dialogue: 1,0:03:39.82,0:03:39.86,Italy,,0,0,0,,{=181}{\bord3.79\fscx842.33\fscy842.33\blur1\pos(915.42,111.85)\fade(255,0,255,-2340,-2340,-70,630)}Venice
-Dialogue: 1,0:03:39.82,0:03:39.86,Italy,,0,0,0,,{\fscx845.36\fscy845.36\bord3.8\be(1.3)\pos(425.71,261.02)\t(-96,634,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.82,0:03:39.86,Italy,,0,0,0,,{\fscx842.98\fscy842.98\be1\pos(915.91,111.88)\t(-86,634,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:39.86,0:03:39.90,Italy,,0,0,0,,{=180}{\bord3.76\fscx834.86\fscy834.86\blur1\pos(424.28,260.89)\fade(255,0,255,-2380,-2380,-110,590)}Rome
 Dialogue: 1,0:03:39.86,0:03:39.90,Italy,,0,0,0,,{=181}{\bord3.78\fscx840.08\fscy840.08\blur1\pos(912.82,111.87)\fade(255,0,255,-2380,-2380,-110,590)}Venice
-Dialogue: 1,0:03:39.86,0:03:39.90,Italy,,0,0,0,,{\fscx842.82\fscy842.82\bord3.79\be(1.3)\pos(424.49,260.6)\t(-138,592,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.86,0:03:39.90,Italy,,0,0,0,,{\fscx840.48\fscy840.48\be1\pos(913.1,111.91)\t(-128,592,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:39.90,0:03:39.94,Italy,,0,0,0,,{=180}{\bord3.75\fscx832.5\fscy832.5\blur1\pos(423.05,260.52)\fade(255,0,255,-2420,-2420,-150,550)}Rome
 Dialogue: 1,0:03:39.90,0:03:39.94,Italy,,0,0,0,,{=181}{\bord3.77\fscx837.62\fscy837.62\blur1\pos(910.21,111.89)\fade(255,0,255,-2420,-2420,-150,550)}Venice
-Dialogue: 1,0:03:39.90,0:03:39.94,Italy,,0,0,0,,{\fscx840.04\fscy840.04\bord3.78\be(1.3)\pos(423.26,260.24)\t(-179,551,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.90,0:03:39.94,Italy,,0,0,0,,{\fscx837.96\fscy837.96\be1\pos(910.39,111.88)\t(-169,551,\alpha&HFF&)}Venice
-Dialogue: 0,0:03:39.91,0:03:40.74,Dubtitles,,0,0,0,,The world is so far.
 Dialogue: 1,0:03:39.94,0:03:39.99,Italy,,0,0,0,,{=180}{\bord3.74\fscx830.06\fscy830.06\blur1\pos(421.81,260.14)\fade(255,0,255,-2460,-2460,-190,510)}Rome
 Dialogue: 1,0:03:39.94,0:03:39.99,Italy,,0,0,0,,{=181}{\bord3.76\fscx835.45\fscy835.45\blur1\pos(907.65,111.92)\fade(255,0,255,-2460,-2460,-190,510)}Venice
-Dialogue: 1,0:03:39.94,0:03:39.99,Italy,,0,0,0,,{\fscx838.08\fscy838.08\bord3.77\be(1.3)\pos(422.03,259.83)\t(-221,509,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.94,0:03:39.99,Italy,,0,0,0,,{\fscx835.63\fscy835.63\be1\pos(907.91,111.88)\t(-211,509,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:39.99,0:03:40.03,Italy,,0,0,0,,{=180}{\bord3.72\fscx827.54\fscy827.54\blur1\pos(420.6,259.73)\fade(255,0,255,-2510,-2510,-240,460)}Rome
 Dialogue: 1,0:03:39.99,0:03:40.03,Italy,,0,0,0,,{=181}{\bord3.75\fscx833.17\fscy833.17\blur1\pos(905.08,111.94)\fade(255,0,255,-2510,-2510,-240,460)}Venice
-Dialogue: 1,0:03:39.99,0:03:40.03,Italy,,0,0,0,,{\fscx835.36\fscy835.36\bord3.76\be(1.3)\pos(420.84,259.44)\t(-263,467,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:39.99,0:03:40.03,Italy,,0,0,0,,{\fscx833.07\fscy833.07\be1\pos(905.13,111.89)\t(-253,467,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.03,0:03:40.07,Italy,,0,0,0,,{=180}{\bord3.71\fscx825.16\fscy825.16\blur1\pos(419.39,259.35)\fade(255,0,255,-2550,-2550,-280,420)}Rome
 Dialogue: 1,0:03:40.03,0:03:40.07,Italy,,0,0,0,,{=181}{\bord3.74\fscx831.05\fscy831.05\blur1\pos(902.52,111.95)\fade(255,0,255,-2550,-2550,-280,420)}Venice
-Dialogue: 1,0:03:40.03,0:03:40.07,Italy,,0,0,0,,{\fscx832.66\fscy832.66\bord3.75\be(1.3)\pos(419.59,259.05)\t(-304,426,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.03,0:03:40.07,Italy,,0,0,0,,{\fscx830.76\fscy830.76\be1\pos(902.7,111.76)\t(-294,426,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.07,0:03:40.11,Italy,,0,0,0,,{=180}{\bord3.7\fscx822.47\fscy822.47\blur1\pos(418.17,258.99)\fade(255,0,255,-2590,-2590,-320,380)}Rome
 Dialogue: 1,0:03:40.07,0:03:40.11,Italy,,0,0,0,,{=181}{\bord3.73\fscx828.89\fscy828.89\blur1\pos(899.97,111.97)\fade(255,0,255,-2590,-2590,-320,380)}Venice
-Dialogue: 1,0:03:40.07,0:03:40.11,Italy,,0,0,0,,{\fscx830.51\fscy830.51\bord3.74\be(1.3)\pos(418.36,258.65)\t(-346,384,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.07,0:03:40.11,Italy,,0,0,0,,{\fscx828.78\fscy828.78\be1\pos(900.33,111.53)\t(-336,384,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.11,0:03:40.15,Italy,,0,0,0,,{=180}{\bord3.69\fscx820.49\fscy820.49\blur1\pos(417,258.61)\fade(255,0,255,-2630,-2630,-360,340)}Rome
 Dialogue: 1,0:03:40.11,0:03:40.15,Italy,,0,0,0,,{=181}{\bord3.72\fscx826.47\fscy826.47\blur1\pos(897.46,111.99)\fade(255,0,255,-2630,-2630,-360,340)}Venice
-Dialogue: 1,0:03:40.11,0:03:40.15,Italy,,0,0,0,,{\fscx829.24\fscy829.24\bord3.73\be(1.3)\pos(417.18,258.23)\t(-388,342,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.11,0:03:40.15,Italy,,0,0,0,,{\fscx826.79\fscy826.79\be1\pos(898.24,111.46)\t(-378,342,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.15,0:03:40.19,Italy,,0,0,0,,{=180}{\bord3.68\fscx817.87\fscy817.87\blur1\pos(415.79,258.22)\fade(255,0,255,-2670,-2670,-400,300)}Rome
 Dialogue: 1,0:03:40.15,0:03:40.19,Italy,,0,0,0,,{=181}{\bord3.71\fscx824.21\fscy824.21\blur1\pos(894.94,112.01)\fade(255,0,255,-2670,-2670,-400,300)}Venice
-Dialogue: 1,0:03:40.15,0:03:40.19,Italy,,0,0,0,,{\fscx825.71\fscy825.71\bord3.72\be(1.3)\pos(415.97,257.83)\t(-430,300,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.15,0:03:40.19,Italy,,0,0,0,,{\fscx824.59\fscy824.59\be1\pos(895.73,111.36)\t(-420,300,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.19,0:03:40.24,Italy,,0,0,0,,{=180}{\bord3.67\fscx816.4\fscy816.4\blur1\pos(414.67,257.85)\fade(255,0,255,-2710,-2710,-440,260)}Rome
 Dialogue: 1,0:03:40.19,0:03:40.24,Italy,,0,0,0,,{=181}{\bord3.7\fscx821.87\fscy821.87\blur1\pos(892.45,112.04)\fade(255,0,255,-2710,-2710,-440,260)}Venice
-Dialogue: 1,0:03:40.19,0:03:40.24,Italy,,0,0,0,,{\fscx822.86\fscy822.86\bord3.7\be(1.3)\pos(414.8,257.46)\t(-471,259,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.19,0:03:40.24,Italy,,0,0,0,,{\fscx822.37\fscy822.37\be1\pos(893.3,111.3)\t(-461,259,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.24,0:03:40.28,Italy,,0,0,0,,{=180}{\bord3.67\fscx815.68\fscy815.68\blur1\pos(413.51,257.44)\fade(255,0,255,-2760,-2760,-490,210)}Rome
 Dialogue: 1,0:03:40.24,0:03:40.28,Italy,,0,0,0,,{=181}{\bord3.69\fscx819.67\fscy819.67\blur1\pos(889.95,112.05)\fade(255,0,255,-2760,-2760,-490,210)}Venice
-Dialogue: 1,0:03:40.24,0:03:40.28,Italy,,0,0,0,,{\fscx820.24\fscy820.24\bord3.69\be(1.3)\pos(413.57,257.13)\t(-513,217,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.24,0:03:40.28,Italy,,0,0,0,,{\fscx819.91\fscy819.91\be1\pos(890.4,111.38)\t(-503,217,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.28,0:03:40.32,Italy,,0,0,0,,{=180}{\bord3.65\fscx811.36\fscy811.36\blur1\pos(412.41,257.12)\fade(255,0,255,-2800,-2800,-530,170)}Rome
 Dialogue: 1,0:03:40.28,0:03:40.32,Italy,,0,0,0,,{=181}{\bord3.68\fscx817.39\fscy817.39\blur1\pos(887.49,112.08)\fade(255,0,255,-2800,-2800,-530,170)}Venice
-Dialogue: 1,0:03:40.28,0:03:40.32,Italy,,0,0,0,,{\fscx817.3\fscy817.3\bord3.68\be(1.3)\pos(412.4,256.77)\t(-555,175,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.28,0:03:40.32,Italy,,0,0,0,,{\fscx817.82\fscy817.82\be1\pos(888.11,111.46)\t(-545,175,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.32,0:03:40.36,Italy,,0,0,0,,{=180}{\bord3.65\fscx812.16\fscy812.16\blur1\pos(411.27,256.67)\fade(255,0,255,-2840,-2840,-570,130)}Rome
 Dialogue: 1,0:03:40.32,0:03:40.36,Italy,,0,0,0,,{=181}{\bord3.67\fscx815.44\fscy815.44\blur1\pos(885,112.1)\fade(255,0,255,-2840,-2840,-570,130)}Venice
-Dialogue: 1,0:03:40.32,0:03:40.36,Italy,,0,0,0,,{\fscx817.78\fscy817.78\bord3.68\be(1.3)\pos(411.35,256.48)\t(-596,134,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.32,0:03:40.36,Italy,,0,0,0,,{\fscx815.56\fscy815.56\be1\pos(885.35,111.51)\t(-586,134,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.36,0:03:40.40,Italy,,0,0,0,,{=180}{\bord3.65\fscx812.22\fscy812.22\blur1\pos(410.14,256.27)\fade(255,0,255,-2880,-2880,-610,90)}Rome
 Dialogue: 1,0:03:40.36,0:03:40.40,Italy,,0,0,0,,{=181}{\bord3.66\fscx813.48\fscy813.48\blur1\pos(882.51,112.14)\fade(255,0,255,-2880,-2880,-610,90)}Venice
-Dialogue: 1,0:03:40.36,0:03:40.40,Italy,,0,0,0,,{\fscx815.78\fscy815.78\bord3.67\be(1.3)\pos(410.08,256.03)\t(-638,92,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.36,0:03:40.40,Italy,,0,0,0,,{\fscx812.26\fscy812.26\be1\pos(881.34,111.72)\t(-628,92,\alpha&HFF&)}Venice
 Dialogue: 1,0:03:40.40,0:03:40.45,Italy,,0,0,0,,{=180}{\bord3.65\fscx811.53\fscy811.53\blur1\pos(408.99,256.01)\fade(255,0,255,-2920,-2920,-650,50)}Rome
 Dialogue: 1,0:03:40.40,0:03:40.45,Italy,,0,0,0,,{=181}{\bord3.65\fscx811.61\fscy811.61\blur1\pos(880.07,112.18)\fade(255,0,255,-2920,-2920,-650,50)}Venice
-Dialogue: 1,0:03:40.40,0:03:40.45,Italy,,0,0,0,,{\fscx814.19\fscy814.19\bord3.66\be(1.3)\pos(408.97,255.92)\t(-680,50,\alpha&HFF&)}Rome
-Dialogue: 1,0:03:40.40,0:03:40.45,Italy,,0,0,0,,{\fscx810.4\fscy810.4\be1\pos(878.78,111.91)\t(-670,50,\alpha&HFF&)}Venice
-Dialogue: 0,0:03:49.14,0:03:50.90,Dubtitles,,0,0,0,,doing in a place like this?
+Dialogue: 0,0:03:43.98,0:03:44.98,Dubtitles,,0,0,0,,Um...Venice, huh?
+Dialogue: 0,0:03:45.10,0:03:47.75,Dubtitles,,0,0,0,,I thought this was pretty\Nmuch a tourist town
+Dialogue: 0,0:03:48.06,0:03:51.06,Dubtitles,,0,0,0,,What's a Hamon master\Ndoing in a place like this?
 Dialogue: 0,0:03:53.46,0:03:54.30,Dubtitles,,0,0,0,,Excuse me.
 Dialogue: 0,0:03:55.00,0:03:58.88,Dubtitles,,0,0,0,,Do you know Air Saplina Island and\Nhow long it takes to get there?
 Dialogue: 0,0:04:02.24,0:04:03.83,Dubtitles,,0,0,0,,Gondolier, did you hear me?
@@ -1402,7 +1245,7 @@ Dialogue: 1,0:04:15.44,0:04:15.48,SFXBlue4,9,0,0,0,,{=9}{\blur1\frz8.39\pos(1635
 Dialogue: 2,0:04:15.44,0:04:15.48,SFXBlue4,9,0,0,0,,{=9}{\bord0\blur1\frz8.39\pos(1635.45,-221.17)\4a&HFF&}F{*\c&HBD7E3D&}l{*\c&HB77035&}o{*\c&HB1612D&}a{\c&HAB5325&}t
 Dialogue: 1,0:04:15.48,0:04:15.52,SFXBlue4,9,0,0,0,,{=9}{\blur1\frz8.39\pos(1635.56,-251.45)\c&H40160D&}Float
 Dialogue: 2,0:04:15.48,0:04:15.52,SFXBlue4,9,0,0,0,,{=9}{\bord0\blur1\frz8.39\pos(1635.56,-251.45)\4a&HFF&}F{*\c&HBD7E3D&}l{*\c&HB77035&}o{*\c&HB1612D&}a{\c&HAB5325&}t
-Dialogue: 0,0:04:19.56,0:04:22.34,Dubtitles,,0,0,0,,Oh, how is he standing\Non that oar like that?
+Dialogue: 0,0:04:19.54,0:04:22.34,Dubtitles,,0,0,0,,Oh, how is he standing\Non that oar like that?
 Dialogue: 1,0:04:19.69,0:04:19.73,SFXFire,10,0,0,0,,{=110}{\blur6\bord7.47\fscx109.51\fscy99.55\alpha&HFF&\frz11.01\pos(674.23,209.67)}W{*\c&H4699F3&}h{*\c&H3B7DEC&}o{*\c&H3162E4&}o{*\c&H2646DD&}s{\c&H1B2AD6&}h
 Dialogue: 2,0:04:19.69,0:04:19.73,SFXFire,10,0,0,0,,{=110}{\blur0.6\bord7.47\fscx109.51\fscy99.55\alpha&HFF&\frz11.01\pos(674.23,209.67)\c&H292C31&}Whoosh
 Dialogue: 3,0:04:19.69,0:04:19.73,SFXFire,10,0,0,0,,{=110}{\blur0.6\bord0\fscx109.51\fscy99.55\alpha&HFF&\frz11.01\pos(674.23,209.67)\4a&HFF&}W{*\c&H4699F3&}h{*\c&H3B7DEC&}o{*\c&H3162E4&}o{*\c&H2646DD&}s{\c&H1B2AD6&}h
@@ -1616,7 +1459,7 @@ Dialogue: 3,0:04:22.57,0:04:22.61,SFXFire,10,0,0,0,,{=110}{\blur0.6\bord0\fscx11
 Dialogue: 1,0:04:22.61,0:04:22.65,SFXFire,10,0,0,0,,{=110}{\blur6\bord7.5\fscx110.06\fscy100.05\alpha&H80&\frz11.01\pos(672.42,-1.03)}W{*\c&H4699F3&}h{*\c&H3B7DEC&}o{*\c&H3162E4&}o{*\c&H2646DD&}s{\c&H1B2AD6&}h
 Dialogue: 2,0:04:22.61,0:04:22.65,SFXFire,10,0,0,0,,{=110}{\blur0.6\bord7.5\fscx110.06\fscy100.05\alpha&H00&\frz11.01\pos(672.42,-1.03)\c&H292C31&}Whoosh
 Dialogue: 3,0:04:22.61,0:04:22.65,SFXFire,10,0,0,0,,{=110}{\blur0.6\bord0\fscx110.06\fscy100.05\alpha&H00&\frz11.01\pos(672.42,-1.03)\4a&HFF&}W{*\c&H4699F3&}h{*\c&H3B7DEC&}o{*\c&H3162E4&}o{*\c&H2646DD&}s{\c&H1B2AD6&}h
-Dialogue: 0,0:04:22.98,0:04:25.30,Dubtitles,,0,0,0,,I don't think I like this, not one bit.
+Dialogue: 0,0:04:22.96,0:04:25.30,Dubtitles,,0,0,0,,I don't think I like this, not one bit.
 Dialogue: 1,0:04:25.36,0:04:25.41,SFXIce,11,0,0,0,,{=11}{\bord13.7\fscx137\fscy137\shad5.48\blur1\pos(2306.19,-189.11)\frz6.077\c&H37332C&}Splash
 Dialogue: 2,0:04:25.36,0:04:25.41,SFXIce,11,0,0,0,,{=11}{\bord0\fscx137\fscy137\blur1\pos(2306.19,-189.11)\frz6.077\shad5.48\4a&HFF&}Splash
 Dialogue: 1,0:04:25.41,0:04:25.45,SFXIce,11,0,0,0,,{=11}{\bord12.37\fscx123.73\fscy123.73\shad4.95\blur1\pos(2037.17,-154.88)\frz6.077\c&H37332C&}Splash
@@ -1772,7 +1615,7 @@ Dialogue: 1,0:04:29.66,0:04:29.70,SFXPurple,12.5,0,0,0,,{=16}{\pos(1688.4,278.66
 Dialogue: 3,0:04:29.66,0:04:29.70,SFXPurpleghost,12.6,0,0,0,,{=16}{\pos(1675.657,270.34)}Agh!
 Dialogue: 1,0:04:29.70,0:04:29.74,SFXPurple,12.5,0,0,0,,{=16}{\pos(1687.93,279.9)}Agh!
 Dialogue: 3,0:04:29.70,0:04:29.74,SFXPurpleghost,12.6,0,0,0,,{=16}{\pos(1675.743,270.34)}Agh!
-Dialogue: 0,0:04:31.96,0:04:32.92,Dubtitles,,0,0,0,,The hell?
+Dialogue: 0,0:04:30.32,0:04:32.84,Dubtitles,,0,0,0,,Oh, the hell!
 Dialogue: 1,0:04:34.79,0:04:34.83,SFXYellow3 - Copy,13.1,0,0,0,,{=20}{\blur10\frz7.303\pos(335,456)\alpha&H80&}Splash
 Dialogue: 2,0:04:34.79,0:04:34.83,SFXYellow3 - Copy,13.1,0,0,0,,{=20}{\blur0.8\frz7.303\pos(335,456)\c&H114057&}Splash
 Dialogue: 3,0:04:34.79,0:04:34.83,SFXYellow3 - Copy,13.1,0,0,0,,{=20}{\bord0\blur0.8\frz7.303\pos(335,456)\4a&HFF&}Splash
@@ -2097,14 +1940,14 @@ Dialogue: 3,0:04:36.25,0:04:36.29,SFXYellow3,13.2,0,0,0,,{=114}{\bord0\blur0.8\a
 Dialogue: 1,0:04:36.25,0:04:36.29,SFXYellow3,13.3,0,0,0,,{=22}{\blur10\frz3.555\pos(1638.84,694.67)\alpha&H80&}Splash
 Dialogue: 2,0:04:36.25,0:04:36.29,SFXYellow3,13.3,0,0,0,,{=22}{\blur0.8\frz3.555\pos(1638.84,694.67)\c&H114057&}Splash
 Dialogue: 3,0:04:36.25,0:04:36.29,SFXYellow3,13.3,0,0,0,,{=22}{\bord0\blur0.8\frz3.555\pos(1638.84,694.67)\4a&HFF&}Splash
-Dialogue: 0,0:04:38.66,0:04:40.04,Dubtitles,,0,0,0,,You asked for it.
+Dialogue: 0,0:04:38.64,0:04:40.04,Dubtitles,,0,0,0,,You asked for it.
 Dialogue: 1,0:04:40.38,0:04:40.42,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alpha&H00&\pos(297,164)\frz7.247\c&H050502&}Menacing
 Dialogue: 2,0:04:40.38,0:04:40.42,SFXWater - Copy,14,0,0,0,,{=115}{\bord0\blur0.6\alpha&H00&\pos(297,164)\frz7.247\4a&HFF&}Menacing
 Dialogue: 1,0:04:40.42,0:04:40.46,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alpha&H00&\pos(297,163.99)\frz7.247\c&H050502&}Menacing
 Dialogue: 2,0:04:40.42,0:04:40.46,SFXWater - Copy,14,0,0,0,,{=115}{\bord0\blur0.6\alpha&H00&\pos(297,163.99)\frz7.247\4a&HFF&}Menacing
 Dialogue: 1,0:04:40.46,0:04:40.55,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alpha&H00&\pos(315,164.53)\frz7.247\c&H050502&}Menacing
 Dialogue: 2,0:04:40.46,0:04:40.55,SFXWater - Copy,14,0,0,0,,{=115}{\bord0\blur0.6\alpha&H00&\pos(315,164.53)\frz7.247\4a&HFF&}Menacing
-Dialogue: 0,0:04:40.54,0:04:44.48,Dubtitles,,0,0,0,,I have no idea who you are, but\NI'm going to make you pay for that.
+Dialogue: 0,0:04:40.52,0:04:44.46,Dubtitles,,0,0,0,,I have no idea who you are, but\NI'm going to make you pay for that.
 Dialogue: 1,0:04:40.55,0:04:40.59,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alpha&H00&\pos(305.01,174.85)\frz7.247\c&H050502&}Menacing
 Dialogue: 2,0:04:40.55,0:04:40.59,SFXWater - Copy,14,0,0,0,,{=115}{\bord0\blur0.6\alpha&H00&\pos(305.01,174.85)\frz7.247\4a&HFF&}Menacing
 Dialogue: 1,0:04:40.59,0:04:40.63,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alpha&H00&\pos(305.01,174.84)\frz7.247\c&H050502&}Menacing
@@ -2261,20 +2104,20 @@ Dialogue: 1,0:04:44.26,0:04:44.30,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alph
 Dialogue: 2,0:04:44.26,0:04:44.30,SFXWater - Copy,14,0,0,0,,{=115}{\bord0\blur0.6\alpha&H00&\pos(283.76,171.72)\frz7.247\4a&HFF&}Menacing
 Dialogue: 1,0:04:44.30,0:04:44.38,SFXWater - Copy,14,0,0,0,,{=115}{\blur0.6\alpha&H00&\pos(290.39,149.53)\frz7.247\c&H050502&}Menacing
 Dialogue: 2,0:04:44.30,0:04:44.38,SFXWater - Copy,14,0,0,0,,{=115}{\bord0\blur0.6\alpha&H00&\pos(290.39,149.53)\frz7.247\4a&HFF&}Menacing
-Dialogue: 0,0:04:44.62,0:04:46.86,Dubtitles,,0,0,0,,You're going to wish you never met me.
-Dialogue: 0,0:04:47.42,0:04:51.16,Dubtitles,,0,0,0,,At least he can control his Hamon\Nwell enough to stand on water.
+Dialogue: 0,0:04:44.58,0:04:46.82,Dubtitles,,0,0,0,,You're going to wish you never met me.
+Dialogue: 0,0:04:47.44,0:04:51.16,Dubtitles,,0,0,0,,At least he can control his Hamon\Nwell enough to stand on water.
 Dialogue: 0,0:04:51.24,0:04:52.12,Dubtitles,,0,0,0,,That's a start.
-Dialogue: 0,0:04:55.54,0:04:56.44,Dubtitles,,0,0,0,,A woman?
-Dialogue: 0,0:04:57.26,0:04:58.72,Dubtitles,,0,0,0,,Is that you, coach?
-Dialogue: 0,0:04:59.28,0:05:01.58,Dubtitles,,0,0,0,,She goes by the name of Lisa Lisa.
-Dialogue: 0,0:05:01.98,0:05:04.80,Dubtitles,,0,0,0,,Nobody knows her true\Nname, her place of origin,
-Dialogue: 0,0:05:05.02,0:05:08.12,Dubtitles,,0,0,0,,where she studied, or how she\Nmastered the art of Hamon.
-Dialogue: 0,0:05:08.20,0:05:12.97,Dubtitles,,0,0,0,,She will be JoJo's coach for as long as\Nit takes, or at least for the next month.
-Dialogue: 0,0:05:13.22,0:05:14.06,Dubtitles,,0,0,0,,Well, well.
-Dialogue: 0,0:05:14.14,0:05:17.78,Dubtitles,,0,0,0,,Don't think that I'll forgive you for\Nhitting me in the face with that oar.
+Dialogue: 0,0:04:56.42,0:04:57.25,Dubtitles,,0,0,0,,A woman?
+Dialogue: 0,0:04:57.33,0:04:58.72,Dubtitles,,0,0,0,,Is that you, coach?
+Dialogue: 0,0:04:59.30,0:05:01.58,Dubtitles,,0,0,0,,She goes by the name of Lisa Lisa.
+Dialogue: 0,0:05:02.00,0:05:04.82,Dubtitles,,0,0,0,,Nobody knows her true\Nname, her place of origin,
+Dialogue: 0,0:05:05.08,0:05:08.12,Dubtitles,,0,0,0,,where she studied, or how she\Nmastered the art of Hamon.
+Dialogue: 0,0:05:08.20,0:05:12.68,Dubtitles,,0,0,0,,She will be JoJo's coach for as long as\Nit takes, or at least for the next month.
+Dialogue: 0,0:05:12.76,0:05:14.06,Dubtitles,,0,0,0,,Well, well.
+Dialogue: 0,0:05:14.38,0:05:17.78,Dubtitles,,0,0,0,,Don't think that I'll forgive you for\Nhitting me in the face with that oar.
 Dialogue: 0,0:05:17.86,0:05:21.96,Dubtitles,,0,0,0,,Just because you're a girl doesn't mean\Nthat I won't give you what you deserve.
-Dialogue: 0,0:05:22.04,0:05:26.38,Dubtitles,,0,0,0,,You should just be happy that you impressed\Nme with your initial display of skills.
-Dialogue: 0,0:05:26.46,0:05:31.40,Dubtitles,,0,0,0,,Walking on water when you obviously lack\Nproper training is quite an accomplishment.
+Dialogue: 0,0:05:22.04,0:05:26.40,Dubtitles,,0,0,0,,You should just be happy that you impressed\Nme with your initial display of skills.
+Dialogue: 0,0:05:26.48,0:05:31.42,Dubtitles,,0,0,0,,Walking on water when you obviously lack\Nproper training is quite an accomplishment.
 Dialogue: 1,0:05:26.72,0:05:26.76,SFXBlue5,15.1,0,0,0,,{=116}{\blur1\alpha&H00&\frz1.634\pos(879.29,-128.43)\c&H18140D&}Squish
 Dialogue: 2,0:05:26.72,0:05:26.76,SFXBlue5,15.1,0,0,0,,{=116}{\bord0\blur1\alpha&H00&\frz1.634\pos(879.29,-128.43)\4a&HFF&}Squish
 Dialogue: 1,0:05:26.76,0:05:26.80,SFXBlue5,15.1,0,0,0,,{=116}{\blur1\alpha&H00&\frz1.634\pos(925.69,-106.43)\c&H18140D&}Squish
@@ -2735,7 +2578,7 @@ Dialogue: 1,0:05:31.31,0:05:31.35,SFXBlue5,15.2,0,0,0,,{=117}{\blur1\alpha&H00&\
 Dialogue: 2,0:05:31.31,0:05:31.35,SFXBlue5,15.2,0,0,0,,{=117}{\bord0\blur1\alpha&H00&\frz2.968\c&HE86B12&\pos(1925.7,649.66)\4a&HFF&}Squish
 Dialogue: 1,0:05:31.31,0:05:31.35,SFXBlue5,15.3,0,0,0,,{=118}{\blur1\alpha&H00&\frz353.6\pos(2195.32,300.81)\c&H18140D&}Squish
 Dialogue: 2,0:05:31.31,0:05:31.35,SFXBlue5,15.3,0,0,0,,{=118}{\bord0\blur1\alpha&H00&\frz353.6\pos(2195.32,300.81)\c&HEE8017&\4a&HFF&}Squish
-Dialogue: 0,0:05:32.82,0:05:36.16,Dubtitles,,0,0,0,,However, if you truly wish\Nto master Hormone in a month,
+Dialogue: 0,0:05:32.82,0:05:36.16,Dubtitles,,0,0,0,,However, if you truly wish\Nto master Harmon in a month,
 Dialogue: 1,0:05:33.56,0:05:33.60,SFXWater3,16,0,0,0,,{=120}{\blur0.9\1a&HFF&\3a&HFF&\frz5.232\pos(1325.75,224.26)\c&H75490E&}Splash
 Dialogue: 2,0:05:33.56,0:05:33.60,SFXWater3,16,0,0,0,,{=120}{\bord0\blur0.9\1a&HFF&\3a&HFF&\frz5.232\pos(1325.75,224.26)\4a&HFF&}Splash
 Dialogue: 1,0:05:33.60,0:05:33.64,SFXWater3,16,0,0,0,,{=120}{\blur0.9\1a&HEA&\3a&HE7&\frz5.232\pos(1325.75,224.26)\c&H75490E&}Splash
@@ -2804,7 +2647,7 @@ Dialogue: 1,0:05:35.81,0:05:35.89,SFXWater3,16,0,0,0,,{=120}{\blur0.9\1a&H2A&\3a
 Dialogue: 2,0:05:35.81,0:05:35.89,SFXWater3,16,0,0,0,,{=120}{\bord0\blur0.9\1a&H2A&\3a&H12&\frz5.232\pos(1334.53,221.44)\4a&HFF&}Splash
 Dialogue: 1,0:05:35.89,0:05:35.98,SFXWater3,16,0,0,0,,{=120}{\blur0.9\1a&H2A&\3a&H12&\frz5.232\pos(1331.71,213.61)\c&H75490E&}Splash
 Dialogue: 2,0:05:35.89,0:05:35.98,SFXWater3,16,0,0,0,,{=120}{\bord0\blur0.9\1a&H2A&\3a&H12&\frz5.232\pos(1331.71,213.61)\4a&HFF&}Splash
-Dialogue: 0,0:05:36.38,0:05:38.66,Dubtitles,,0,0,0,,you must be prepared to die for it!
+Dialogue: 0,0:05:36.38,0:05:38.64,Dubtitles,,0,0,0,,you must be prepared to die for it!
 Dialogue: 1,0:05:39.23,0:05:39.27,SFXBlue6,17,0,0,0,,{=122}{\blur7\bord11.65\fscx151.47\fscy116.52\alpha&H80&\frz0.9172\pos(1230.73,897.54)}Freeze
 Dialogue: 2,0:05:39.23,0:05:39.27,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\bord11.65\fscx151.47\fscy116.52\alpha&H00&\frz0.9172\pos(1230.73,897.54)\c&H342419&}Freeze
 Dialogue: 3,0:05:39.23,0:05:39.27,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\bord0\fscx151.47\fscy116.52\alpha&H00&\frz0.9172\pos(1230.73,897.54)\4a&HFF&}Freeze
@@ -2829,6 +2672,7 @@ Dialogue: 3,0:05:39.48,0:05:39.52,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha
 Dialogue: 1,0:05:39.52,0:05:39.56,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1311.47,528.84)}Freeze
 Dialogue: 2,0:05:39.52,0:05:39.56,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1311.47,528.84)\c&H342419&}Freeze
 Dialogue: 3,0:05:39.52,0:05:39.56,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1311.47,528.84)\4a&HFF&}Freeze
+Dialogue: 0,0:05:39.52,0:05:40.35,Dubtitles,,0,0,0,,See?
 Dialogue: 1,0:05:39.56,0:05:39.61,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1346.6,498.4)}Freeze
 Dialogue: 2,0:05:39.56,0:05:39.61,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1346.6,498.4)\c&H342419&}Freeze
 Dialogue: 3,0:05:39.56,0:05:39.61,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1346.6,498.4)\4a&HFF&}Freeze
@@ -2865,7 +2709,6 @@ Dialogue: 3,0:05:39.98,0:05:40.02,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha
 Dialogue: 1,0:05:40.02,0:05:40.06,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1310.43,503.34)}Freeze
 Dialogue: 2,0:05:40.02,0:05:40.06,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1310.43,503.34)\c&H342419&}Freeze
 Dialogue: 3,0:05:40.02,0:05:40.06,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1310.43,503.34)\4a&HFF&}Freeze
-Dialogue: 0,0:05:40.04,0:05:40.87,Dubtitles,,0,0,0,,See?
 Dialogue: 1,0:05:40.06,0:05:40.11,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1332.55,531.19)}Freeze
 Dialogue: 2,0:05:40.06,0:05:40.11,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1332.55,531.19)\c&H342419&}Freeze
 Dialogue: 3,0:05:40.06,0:05:40.11,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1332.55,531.19)\4a&HFF&}Freeze
@@ -2896,6 +2739,7 @@ Dialogue: 3,0:05:40.40,0:05:40.44,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha
 Dialogue: 1,0:05:40.44,0:05:40.48,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1353.63,531.45)}Freeze
 Dialogue: 2,0:05:40.44,0:05:40.48,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1353.63,531.45)\c&H342419&}Freeze
 Dialogue: 3,0:05:40.44,0:05:40.48,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1353.63,531.45)\4a&HFF&}Freeze
+Dialogue: 0,0:05:40.44,0:05:42.50,Dubtitles,,0,0,0,,She's using the aura as a high bar!
 Dialogue: 1,0:05:40.48,0:05:40.52,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1303.41,537.95)}Freeze
 Dialogue: 2,0:05:40.48,0:05:40.52,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1303.41,537.95)\c&H342419&}Freeze
 Dialogue: 3,0:05:40.48,0:05:40.52,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1303.41,537.95)\4a&HFF&}Freeze
@@ -2932,7 +2776,6 @@ Dialogue: 3,0:05:40.90,0:05:40.94,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha
 Dialogue: 1,0:05:40.94,0:05:40.98,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1319.02,520.52)}Freeze
 Dialogue: 2,0:05:40.94,0:05:40.98,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1319.02,520.52)\c&H342419&}Freeze
 Dialogue: 3,0:05:40.94,0:05:40.98,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1319.02,520.52)\4a&HFF&}Freeze
-Dialogue: 0,0:05:40.95,0:05:42.52,Dubtitles,,0,0,0,,She's using the oar as a high bar!
 Dialogue: 1,0:05:40.98,0:05:41.02,SFXBlue6,17,0,0,0,,{=122}{\blur7\alpha&H80&\frz0.9172\pos(1309.13,520.78)}Freeze
 Dialogue: 2,0:05:40.98,0:05:41.02,SFXBlue6,17,0,0,0,,{=122}{\blur0.6\alpha&H00&\frz0.9172\pos(1309.13,520.78)\c&H342419&}Freeze
 Dialogue: 3,0:05:40.98,0:05:41.02,SFXBlue6,17,0,0,0,,{=122}{\bord0\blur0.6\alpha&H00&\frz0.9172\pos(1309.13,520.78)\4a&HFF&}Freeze
@@ -3174,18 +3017,18 @@ Dialogue: 1,0:05:52.24,0:05:52.29,SFXTan,19,0,0,0,,{=184}{\blur1.1\bord10\fscx90
 Dialogue: 2,0:05:52.24,0:05:52.29,SFXTan,19,0,0,0,,{=184}{\blur1.1\bord0\fscx90\fscy100\fade(255,0,255,-1750,-1450,90,90)\pos(499.56,654.8)\frz11.54\4a&HFF&}Snap
 Dialogue: 1,0:05:52.29,0:05:52.33,SFXTan,19,0,0,0,,{=184}{\blur1.1\bord10\fscx90\fscy100\fade(255,0,255,-1800,-1500,40,40)\pos(510.12,656.84)\frz11.54\c&H2A3140&}Snap
 Dialogue: 2,0:05:52.29,0:05:52.33,SFXTan,19,0,0,0,,{=184}{\blur1.1\bord0\fscx90\fscy100\fade(255,0,255,-1800,-1500,40,40)\pos(510.12,656.84)\frz11.54\4a&HFF&}Snap
-Dialogue: 0,0:05:55.16,0:05:56.40,Dubtitles,,0,0,0,,What is this?
-Dialogue: 0,0:05:59.92,0:06:01.16,Dubtitles,,0,0,0,,Joseph Joestar.
-Dialogue: 0,0:06:01.56,0:06:05.16,Dubtitles,,0,0,0,,From this moment forward, you will be\Nwearing that breathing correction apparatus.
-Dialogue: 0,0:06:05.24,0:06:06.53,Dubtitles,,0,0,0,,until I say otherwise.
-Dialogue: 0,0:06:07.58,0:06:09.12,Dubtitles,,0,0,0,,I can't breathe!
-Dialogue: 0,0:06:09.30,0:06:10.96,Dubtitles,,0,0,0,,Not without proper rhythm, you can't.
-Dialogue: 0,0:06:11.04,0:06:14.40,Dubtitles,,0,0,0,,However, with proper breath\Ncontrol, you'll have no problem.
-Dialogue: 0,0:06:14.48,0:06:17.64,Dubtitles,,0,0,0,,If you do not maintain proper\Nbreath control, then yes,
-Dialogue: 0,0:06:17.72,0:06:20.90,Dubtitles,,0,0,0,,the mask will eventually\Nsuffocate you. So, focus.
-Dialogue: 0,0:06:21.56,0:06:25.74,Dubtitles,,0,0,0,,Learn to master your breath and you'll\Nbe running marathons while wearing it.
-Dialogue: 0,0:06:25.82,0:06:26.80,Dubtitles,,0,0,0,,Are you crazy?
-Dialogue: 0,0:06:27.00,0:06:29.35,Dubtitles,,0,0,0,,Get this damn thing off my face right...
+Dialogue: 0,0:05:54.74,0:05:56.42,Dubtitles,,0,0,0,,What is this?
+Dialogue: 0,0:05:59.88,0:06:01.16,Dubtitles,,0,0,0,,Joseph Joestar.
+Dialogue: 0,0:06:01.56,0:06:03.00,Dubtitles,,0,0,0,,From this moment forward,
+Dialogue: 0,0:06:03.08,0:06:07.54,Dubtitles,,0,0,0,,you will be wearing that breathing\Ncorrection apparatus until I say otherwise.
+Dialogue: 0,0:06:07.62,0:06:09.12,Dubtitles,,0,0,0,,I can't breathe!
+Dialogue: 0,0:06:09.34,0:06:10.98,Dubtitles,,0,0,0,,Not without proper rhythm, you can't.
+Dialogue: 0,0:06:11.06,0:06:14.36,Dubtitles,,0,0,0,,However, with proper breath\Ncontrol, you'll have no problem.
+Dialogue: 0,0:06:14.44,0:06:17.64,Dubtitles,,0,0,0,,If you do not maintain proper\Nbreath control, then yes,
+Dialogue: 0,0:06:17.72,0:06:20.88,Dubtitles,,0,0,0,,the mask will eventually\Nsuffocate you. So focus.
+Dialogue: 0,0:06:21.56,0:06:25.78,Dubtitles,,0,0,0,,Learn to master your breath and you'll\Nbe running marathons while wearing it.
+Dialogue: 0,0:06:25.86,0:06:26.78,Dubtitles,,0,0,0,,Are you crazy?
+Dialogue: 0,0:06:27.00,0:06:29.47,Dubtitles,,0,0,0,,Get this damn thing off my face right now!
 Dialogue: 1,0:06:28.86,0:06:28.90,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord28.02\fscx331.14\fscy254.73\alpha&H00&\frz352.1\pos(123.3,685.61)\c&H342419&}Splash
 Dialogue: 2,0:06:28.86,0:06:28.90,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord0\fscx331.14\fscy254.73\alpha&H00&\frz352.1\pos(123.3,685.61)\4a&HFF&}Splash
 Dialogue: 1,0:06:28.90,0:06:28.95,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord21.03\fscx248.52\fscy191.17\alpha&H00&\frz352.1\pos(320.43,659.69)\c&H342419&}Splash
@@ -3289,32 +3132,32 @@ Dialogue: 1,0:06:30.91,0:06:30.95,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord10
 Dialogue: 2,0:06:30.91,0:06:30.95,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord0\fscx118.17\fscy90.9\alpha&HD6&\frz352.1\pos(619,666.52)\4a&HFF&}Splash
 Dialogue: 1,0:06:30.95,0:06:30.99,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord10\fscx118.17\fscy90.9\alpha&HEB&\frz352.1\pos(614.07,657.75)\c&H342419&}Splash
 Dialogue: 2,0:06:30.95,0:06:30.99,SFXBlue6 - Copy,20,0,0,0,,{=125}{\blur1\bord0\fscx118.17\fscy90.9\alpha&HEB&\frz352.1\pos(614.07,657.75)\4a&HFF&}Splash
-Dialogue: 0,0:06:31.62,0:06:34.30,Dubtitles,,0,0,0,,You do realize your\Ntraining has already begun.
-Dialogue: 0,0:06:34.38,0:06:37.94,Dubtitles,,0,0,0,,You can take the mask off for meals and\Nwhenever you need to brush your teeth.
-Dialogue: 0,0:06:38.02,0:06:40.22,Dubtitles,,0,0,0,,Jojo, don't make it hard on yourself.
-Dialogue: 0,0:06:40.30,0:06:43.48,Dubtitles,,0,0,0,,Just keep your rhythm and\Npretend that it's Halloween.
-Dialogue: 0,0:06:44.18,0:06:45.68,Dubtitles,,0,0,0,,I'm gonna get you, lady.
-Dialogue: 0,0:06:45.76,0:06:47.26,Dubtitles,,0,0,0,,And one more thing before I forget.
-Dialogue: 0,0:06:47.34,0:06:48.98,Dubtitles,,0,0,0,,So we're both on the same page.
-Dialogue: 0,0:06:49.06,0:06:51.42,Dubtitles,,0,0,0,,I did not accept the\Nresponsibility of training
+Dialogue: 0,0:06:31.62,0:06:34.00,Dubtitles,,0,0,0,,You do realize your\Ntraining has already begun.
+Dialogue: 0,0:06:34.08,0:06:37.92,Dubtitles,,0,0,0,,You can take the mask off for meals and\Nwhenever you need to brush your teeth.
+Dialogue: 0,0:06:38.00,0:06:40.32,Dubtitles,,0,0,0,,Jojo, don't make it hard on yourself.
+Dialogue: 0,0:06:40.60,0:06:43.78,Dubtitles,,0,0,0,,Just keep your rhythm and\Npretend that it's Halloween.
+Dialogue: 0,0:06:44.16,0:06:45.76,Dubtitles,,0,0,0,,I'm gonna get you, lady.
+Dialogue: 0,0:06:46.02,0:06:47.26,Dubtitles,,0,0,0,,And one more thing before I forget.
+Dialogue: 0,0:06:47.34,0:06:48.96,Dubtitles,,0,0,0,,So we're both on the same page.
+Dialogue: 0,0:06:49.04,0:06:51.42,Dubtitles,,0,0,0,,I did not accept the\Nresponsibility of training
 Dialogue: 0,0:06:51.50,0:06:53.76,Dubtitles,,0,0,0,,you just so that you\Ncan save your own skin.
 Dialogue: 0,0:06:53.84,0:06:58.06,Dubtitles,,0,0,0,,I am forging a squad of warriors\Ncapable of annihilating our enemies.
-Dialogue: 0,0:06:58.38,0:06:59.80,Dubtitles,,0,0,0,,You witch!
-Dialogue: 0,0:07:00.48,0:07:01.31,Dubtitles,,0,0,0,,Careful.
-Dialogue: 0,0:07:01.39,0:07:03.36,Dubtitles,,0,0,0,,You want another Grand with her?
-Dialogue: 0,0:07:03.86,0:07:05.54,Dubtitles,,0,0,0,,I would never hit a woman.
-Dialogue: 0,0:07:06.68,0:07:08.50,Dubtitles,,0,0,0,,It's always a pleasure, Caesar.
-Dialogue: 0,0:07:08.66,0:07:09.84,Dubtitles,,0,0,0,,And you, Jojo.
-Dialogue: 0,0:07:10.40,0:07:11.54,Dubtitles,,0,0,0,,Welcome to Venice.
-Dialogue: 0,0:07:14.18,0:07:15.01,Dubtitles,,0,0,0,,Shuichi.
-Dialogue: 0,0:07:15.09,0:07:17.36,Dubtitles,,0,0,0,,It can't help but respect\Nher harmon skills.
-Dialogue: 0,0:07:17.44,0:07:20.32,Dubtitles,,0,0,0,,But good luck finding anyone\Nwho would ever marry her.
-Dialogue: 0,0:07:20.40,0:07:22.34,Dubtitles,,0,0,0,,Even if she is kinda cute.
-Dialogue: 0,0:07:23.46,0:07:24.66,Dubtitles,,0,0,0,,Bow when she leaves.
-Dialogue: 0,0:07:24.86,0:07:25.98,Dubtitles,,0,0,0,,Are you kidding me?
-Dialogue: 0,0:07:26.06,0:07:30.38,Dubtitles,,0,0,0,,Italy's most transparent playboy wants\Nme to be polite to that little witch.
+Dialogue: 0,0:06:58.38,0:06:59.82,Dubtitles,,0,0,0,,You witch!
+Dialogue: 0,0:07:00.50,0:07:01.33,Dubtitles,,0,0,0,,Careful.
+Dialogue: 0,0:07:01.41,0:07:03.34,Dubtitles,,0,0,0,,You want another Grand with her?
+Dialogue: 0,0:07:03.90,0:07:05.52,Dubtitles,,0,0,0,,I would never hit a woman.
+Dialogue: 0,0:07:06.60,0:07:08.42,Dubtitles,,0,0,0,,It's always a pleasure, Caesar.
+Dialogue: 0,0:07:08.72,0:07:11.46,Dubtitles,,0,0,0,,And you, Jojo, welcome to Venice.
+Dialogue: 0,0:07:14.14,0:07:14.97,Dubtitles,,0,0,0,,Sheesh.
+Dialogue: 0,0:07:15.05,0:07:17.34,Dubtitles,,0,0,0,,It can't help but respect\Nher harmon skills.
+Dialogue: 0,0:07:17.42,0:07:20.28,Dubtitles,,0,0,0,,But good luck finding anyone\Nwho would ever marry her.
+Dialogue: 0,0:07:20.36,0:07:22.36,Dubtitles,,0,0,0,,Even if she is kinda cute.
+Dialogue: 0,0:07:23.48,0:07:24.66,Dubtitles,,0,0,0,,Bow when she leaves!
+Dialogue: 0,0:07:24.86,0:07:25.96,Dubtitles,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:07:26.04,0:07:30.20,Dubtitles,,0,0,0,,Italy's most transparent playboy wants\Nme to be polite to that little witch.
 Dialogue: 1,0:07:30.26,0:07:30.30,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord3.45\fscx44.88\fscy34.53\alpha&H00&\frz50.65\pos(1294.64,530.31)\c&H150C27&}Glare
 Dialogue: 2,0:07:30.26,0:07:30.30,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx44.88\fscy34.53\alpha&H00&\frz50.65\pos(1294.64,530.31)\4a&HFF&}Glare
+Dialogue: 0,0:07:30.28,0:07:31.69,Dubtitles,,0,0,0,,Watch your tongue, Jojo.
 Dialogue: 1,0:07:30.30,0:07:30.34,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord9.79\fscx127.33\fscy97.94\alpha&H00&\frz50.65\pos(1387.7,625.77)\c&H150C27&}Glare
 Dialogue: 2,0:07:30.30,0:07:30.34,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx127.33\fscy97.94\alpha&H00&\frz50.65\pos(1387.7,625.77)\4a&HFF&}Glare
 Dialogue: 1,0:07:30.34,0:07:30.38,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord9.96\fscx129.52\fscy99.63\alpha&H00&\frz50.65\pos(1558.83,727.02)\c&H150C27&}Glare
@@ -3323,7 +3166,6 @@ Dialogue: 1,0:07:30.38,0:07:30.42,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord10\fs
 Dialogue: 2,0:07:30.38,0:07:30.42,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx130\fscy100\alpha&H00&\frz50.65\pos(1559.6,727.2)\4a&HFF&}Glare
 Dialogue: 1,0:07:30.42,0:07:30.47,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord10.04\fscx130.48\fscy100.37\alpha&H00&\frz50.65\pos(1560.37,727.38)\c&H150C27&}Glare
 Dialogue: 2,0:07:30.42,0:07:30.47,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx130.48\fscy100.37\alpha&H00&\frz50.65\pos(1560.37,727.38)\4a&HFF&}Glare
-Dialogue: 0,0:07:30.46,0:07:31.74,Dubtitles,,0,0,0,,Watch your tongue, Jojo.
 Dialogue: 1,0:07:30.47,0:07:30.51,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord10.07\fscx130.95\fscy100.73\alpha&H00&\frz50.65\pos(1561.14,727.56)\c&H150C27&}Glare
 Dialogue: 2,0:07:30.47,0:07:30.51,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx130.95\fscy100.73\alpha&H00&\frz50.65\pos(1561.14,727.56)\4a&HFF&}Glare
 Dialogue: 1,0:07:30.51,0:07:30.55,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord10.11\fscx131.42\fscy101.09\alpha&H00&\frz50.65\pos(1561.91,727.73)\c&H150C27&}Glare
@@ -3348,32 +3190,29 @@ Dialogue: 1,0:07:30.88,0:07:30.93,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord10.43
 Dialogue: 2,0:07:30.88,0:07:30.93,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx135.61\fscy104.31\alpha&H8C&\frz50.65\pos(1568.78,729.1)\4a&HFF&}Glare
 Dialogue: 1,0:07:30.93,0:07:30.97,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord10.43\fscx135.61\fscy104.31\alpha&HCC&\frz50.65\pos(1568.78,729.1)\c&H150C27&}Glare
 Dialogue: 2,0:07:30.93,0:07:30.97,SFXPurple2,21,0,0,0,,{=126}{\blur0.9\bord0\fscx135.61\fscy104.31\alpha&HCC&\frz50.65\pos(1568.78,729.1)\4a&HFF&}Glare
-Dialogue: 0,0:07:31.82,0:07:33.76,Dubtitles,,0,0,0,,I respect her like my own mother.
-Dialogue: 0,0:07:34.00,0:07:35.22,Dubtitles,,0,0,0,,She'll have the same respect.
+Dialogue: 0,0:07:31.90,0:07:33.62,Dubtitles,,0,0,0,,I respect her like my own mother.
+Dialogue: 0,0:07:33.70,0:07:35.22,Dubtitles,,0,0,0,,Sure, sure have the same respect.
 Dialogue: 0,0:07:35.30,0:07:36.30,Dubtitles,,0,0,0,,I'm warning you.
-Dialogue: 0,0:07:37.58,0:07:42.08,Dubtitles,,0,0,0,,Air Saplina Island is about 30\Nminutes northeast of Venice by boat.
-Dialogue: 0,0:07:42.16,0:07:46.54,Dubtitles,,0,0,0,,Its mysterious air is a stark\Ncontrast to the city of canals.
-Dialogue: 0,0:07:46.62,0:07:51.02,Dubtitles,,0,0,0,,But it possesses a dark beauty that\Nseems to be a perfect fit for Lisa Lisa.
-Dialogue: 0,0:07:51.10,0:07:53.52,Dubtitles,,0,0,0,,This is your new training ground, Jojo.
-Dialogue: 0,0:07:53.60,0:07:56.84,Dubtitles,,0,0,0,,I have claimed that\Nentire island as my home.
-Dialogue: 0,0:07:57.54,0:08:00.56,Dubtitles,,0,0,0,,So this is where I'll have\Nto die for my Hamon training.
-Dialogue: 0,0:08:00.64,0:08:02.60,Dubtitles,,0,0,0,,We'll just see about that.
-Dialogue: 0,0:08:05.94,0:08:11.00,Dubtitles,,0,0,0,,So I see, I'm glad you're\Nsafe and my grandson too.
-Dialogue: 0,0:08:11.08,0:08:13.82,Dubtitles,,0,0,0,,I don't know if I've ever been happier.
-Dialogue: 0,0:08:18.14,0:08:21.98,Dubtitles,,0,0,0,,Hey, if you mention one word about\Nthose stupid poison rings to granny,
-Dialogue: 0,0:08:22.06,0:08:23.42,Dubtitles,,0,0,0,,I'll beat you senseless.
-Dialogue: 0,0:08:23.50,0:08:25.91,Dubtitles,,0,0,0,,It would do no good to tell her anything.
-Dialogue: 0,0:08:28.82,0:08:31.22,Dubtitles,,0,0,0,,No sense wasting any more of my time.
-Dialogue: 0,0:08:31.30,0:08:34.92,Dubtitles,,0,0,0,,I hope you're ready for the\Nhell climb pillar. Wait.
-Dialogue: 0,0:08:35.00,0:08:37.44,Dubtitles,,0,0,0,,Seriously, what's the big deal?
-Dialogue: 0,0:08:37.52,0:08:38.64,Dubtitles,,0,0,0,,But but coach,
-Dialogue: 0,0:08:38.72,0:08:42.24,Dubtitles,,0,0,0,,you know that I haven't even made an\Nattempt on hell climb pillar right?
-Dialogue: 0,0:08:42.32,0:08:45.04,Dubtitles,,0,0,0,,Do you really intend\Nfor us to start on this?
-Dialogue: 0,0:08:45.12,0:08:47.86,Dubtitles,,0,0,0,,So many have died on hell climb pillar.
-Dialogue: 0,0:08:47.94,0:08:49.46,Dubtitles,,0,0,0,,I've heard countless stories.
-Dialogue: 0,0:08:49.54,0:08:52.40,Dubtitles,,0,0,0,,Stories that may or may not be true.
-Dialogue: 0,0:08:52.48,0:08:54.80,Dubtitles,,0,0,0,,If you fail, you have no place here.
-Dialogue: 0,0:08:54.88,0:08:55.82,Dubtitles,,0,0,0,,Hello?
+Dialogue: 0,0:07:37.58,0:07:42.16,Dubtitles,,0,0,0,,Air Saplina Island is about 30\Nminutes northeast of Venice by boat.
+Dialogue: 0,0:07:42.60,0:07:46.62,Dubtitles,,0,0,0,,Its mysterious air is a stark\Ncontrast to the city of canals.
+Dialogue: 0,0:07:46.82,0:07:51.29,Dubtitles,,0,0,0,,But it possesses a dark beauty that\Nseems to be a perfect fit for Lisa Lisa.
+Dialogue: 0,0:07:51.46,0:07:53.75,Dubtitles,,0,0,0,,This is your new training ground, Jojo.
+Dialogue: 0,0:07:53.98,0:07:56.84,Dubtitles,,0,0,0,,I have claimed that\Nentire island is my home.
+Dialogue: 0,0:07:57.56,0:08:00.85,Dubtitles,,0,0,0,,So this is where I'll have\Nto die for my Hamon training.
+Dialogue: 0,0:08:01.10,0:08:02.63,Dubtitles,,0,0,0,,We'll just see about that.
+Dialogue: 0,0:08:05.98,0:08:10.56,Dubtitles,,0,0,0,,So I see. I'm glad you're\Nsafe and my grandson.
+Dialogue: 0,0:08:10.64,0:08:13.80,Dubtitles,,0,0,0,,too i don't know if i've ever been happier
+Dialogue: 0,0:08:18.18,0:08:21.96,Dubtitles,,0,0,0,,hey if you mention one word about\Nthose stupid poison rings to granny
+Dialogue: 0,0:08:22.04,0:08:25.84,Dubtitles,,0,0,0,,i'll beat you senseless it would\Ndo no good to tell her anything
+Dialogue: 0,0:08:28.82,0:08:32.28,Dubtitles,,0,0,0,,No sense wasting any\Nmore of my time. I hope
+Dialogue: 0,0:08:32.36,0:08:34.92,Dubtitles,,0,0,0,,you're ready for the\Nhell climb pillar wait
+Dialogue: 0,0:08:35.00,0:08:39.22,Dubtitles,,0,0,0,,seriously what's the big\Ndeal but but coach you
+Dialogue: 0,0:08:39.30,0:08:41.38,Dubtitles,,0,0,0,,know that i haven't even\Nmade an attempt on hell
+Dialogue: 0,0:08:41.46,0:08:44.08,Dubtitles,,0,0,0,,climb pillar right do\Nyou really intend for us
+Dialogue: 0,0:08:44.16,0:08:47.50,Dubtitles,,0,0,0,,to start on this so many\Nhave died on hell climb
+Dialogue: 0,0:08:47.58,0:08:51.02,Dubtitles,,0,0,0,,pillar i've heard countless\Nstories stories that
+Dialogue: 0,0:08:51.10,0:08:54.20,Dubtitles,,0,0,0,,may or may not be true\Nif you fail you have no
+Dialogue: 0,0:08:54.72,0:08:55.90,Dubtitles,,0,0,0,,place here. Hello?
 Dialogue: 1,0:08:55.09,0:08:55.13,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(758.6,476.4)\c&H0C0F12&}Menacing
 Dialogue: 2,0:08:55.09,0:08:55.13,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(758.6,476.4)\4a&HFF&}Menacing
 Dialogue: 1,0:08:55.13,0:08:55.18,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(758.62,476.39)\c&H0C0F12&}Menacing
@@ -3406,7 +3245,6 @@ Dialogue: 1,0:08:55.84,0:08:55.89,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\
 Dialogue: 2,0:08:55.84,0:08:55.89,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(759.72,472.64)\4a&HFF&}Menacing
 Dialogue: 1,0:08:55.89,0:08:55.93,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(759.72,472.63)\c&H0C0F12&}Menacing
 Dialogue: 2,0:08:55.89,0:08:55.93,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(759.72,472.63)\4a&HFF&}Menacing
-Dialogue: 0,0:08:55.90,0:08:58.46,Dubtitles,,0,0,0,,Would somebody care to clue\Nme in on what's going on?
 Dialogue: 1,0:08:55.93,0:08:55.97,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(736.41,471.98)\c&H0C0F12&}Menacing
 Dialogue: 2,0:08:55.93,0:08:55.97,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(736.41,471.98)\4a&HFF&}Menacing
 Dialogue: 1,0:08:55.97,0:08:56.01,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(736.43,471.96)\c&H0C0F12&}Menacing
@@ -3425,6 +3263,7 @@ Dialogue: 1,0:08:56.22,0:08:56.26,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\
 Dialogue: 2,0:08:56.22,0:08:56.26,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(775.12,467.78)\4a&HFF&}Menacing
 Dialogue: 1,0:08:56.26,0:08:56.30,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(747.83,457.19)\c&H0C0F12&}Menacing
 Dialogue: 2,0:08:56.26,0:08:56.30,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(747.83,457.19)\4a&HFF&}Menacing
+Dialogue: 0,0:08:56.26,0:08:58.64,Dubtitles,,0,0,0,,Would somebody care to clue\Nme in on what's going on?
 Dialogue: 1,0:08:56.30,0:08:56.34,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(747.83,457.2)\c&H0C0F12&}Menacing
 Dialogue: 2,0:08:56.30,0:08:56.34,SFXBrown,22,0,0,0,,{=127}{\bord0\blur0.8\alpha&H00&\frz10.85\pos(747.83,457.2)\4a&HFF&}Menacing
 Dialogue: 1,0:08:56.34,0:08:56.39,SFXBrown,22,0,0,0,,{=127}{\blur0.8\alpha&H00&\frz10.85\pos(728.39,453.89)\c&H0C0F12&}Menacing
@@ -3457,8 +3296,10 @@ Dialogue: 1,0:08:56.93,0:08:56.97,SFXBrown,22,0,0,0,,{=127}{\alpha&H8E&\frz10.85
 Dialogue: 2,0:08:56.93,0:08:56.97,SFXBrown,22,0,0,0,,{=127}{\bord0\alpha&H8E&\frz10.85\pos(752.6,462.77)\blur10\4a&HFF&}Menacing
 Dialogue: 1,0:08:56.97,0:08:57.01,SFXBrown,22,0,0,0,,{=127}{\alpha&HC6&\frz10.85\pos(752.6,462.77)\blur11\c&H0C0F12&}Menacing
 Dialogue: 2,0:08:56.97,0:08:57.01,SFXBrown,22,0,0,0,,{=127}{\bord0\alpha&HC6&\frz10.85\pos(752.6,462.77)\blur11\4a&HFF&}Menacing
-Dialogue: 0,0:08:58.54,0:09:01.04,Dubtitles,,0,0,0,,This hell pillar thing doesn't\Nreally look all that tall.
-Dialogue: 0,0:09:01.12,0:09:04.58,Dubtitles,,0,0,0,,Well, from up here, it's\Nreally more deep than tall.
+Dialogue: 0,0:08:58.72,0:08:59.55,Dubtitles,,0,0,0,,This hell
+Dialogue: 0,0:09:00.06,0:09:01.74,Dubtitles,,0,0,0,,pillar thing doesn't\Nreally look all that tall.
+Dialogue: 0,0:09:01.82,0:09:03.53,Dubtitles,,0,0,0,,Well from up here it's really
+Dialogue: 0,0:09:04.74,0:09:05.92,Dubtitles,,0,0,0,,more deep than tall.
 Dialogue: 1,0:09:05.14,0:09:05.19,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(343.49,272.2)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:05.14,0:09:05.19,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(343.49,272.2)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:05.14,0:09:05.19,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(343.49,272.2)\4a&HFF&}B{*}o{*}om
@@ -3522,10 +3363,10 @@ Dialogue: 3,0:09:05.94,0:09:05.98,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&
 Dialogue: 1,0:09:05.98,0:09:06.02,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1644.63,45.83)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:05.98,0:09:06.02,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1644.63,45.83)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:05.98,0:09:06.02,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1644.63,45.83)\4a&HFF&}B{*}o{*}om
-Dialogue: 0,0:09:05.98,0:09:06.90,Dubtitles,,0,0,0,,Go to it.
 Dialogue: 1,0:09:06.02,0:09:06.06,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1672.28,69.9)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:06.02,0:09:06.06,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1672.28,69.9)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:06.02,0:09:06.06,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1672.28,69.9)\4a&HFF&}B{*}o{*}om
+Dialogue: 0,0:09:06.02,0:09:06.85,Dubtitles,,0,0,0,,Huh?
 Dialogue: 1,0:09:06.06,0:09:06.10,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1646.33,62.47)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:06.06,0:09:06.10,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1646.33,62.47)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:06.06,0:09:06.10,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1646.33,62.47)\4a&HFF&}B{*}o{*}om
@@ -3589,13 +3430,13 @@ Dialogue: 3,0:09:06.85,0:09:06.90,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&
 Dialogue: 1,0:09:06.90,0:09:06.94,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1681.29,75.02)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:06.90,0:09:06.94,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1681.29,75.02)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:06.90,0:09:06.94,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1681.29,75.02)\4a&HFF&}B{*}o{*}om
+Dialogue: 0,0:09:06.93,0:09:07.76,Dubtitles,,0,0,0,,George, wait!
 Dialogue: 1,0:09:06.94,0:09:06.98,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1673.35,66.36)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:06.94,0:09:06.98,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1673.35,66.36)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:06.94,0:09:06.98,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1673.35,66.36)\4a&HFF&}B{*}o{*}om
 Dialogue: 1,0:09:06.98,0:09:07.02,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1654.82,71.18)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:06.98,0:09:07.02,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1654.82,71.18)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:06.98,0:09:07.02,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1654.82,71.18)\4a&HFF&}B{*}o{*}om
-Dialogue: 0,0:09:06.98,0:09:08.38,Dubtitles,,0,0,0,,Please don't do this.
 Dialogue: 1,0:09:07.02,0:09:07.06,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1658.74,60.84)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:07.02,0:09:07.06,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1658.74,60.84)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:07.02,0:09:07.06,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1658.74,60.84)\4a&HFF&}B{*}o{*}om
@@ -3656,6 +3497,7 @@ Dialogue: 3,0:09:07.77,0:09:07.81,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&
 Dialogue: 1,0:09:07.81,0:09:07.86,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1670.07,61.99)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:07.81,0:09:07.86,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1670.07,61.99)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:07.81,0:09:07.86,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1670.07,61.99)\4a&HFF&}B{*}o{*}om
+Dialogue: 0,0:09:07.85,0:09:08.68,Dubtitles,,0,0,0,,Please don't do this!
 Dialogue: 1,0:09:07.86,0:09:07.90,SFXOang,23,0,0,0,,{=128}{\blur4\alpha&H80&\frz10.56\pos(1654.05,72.22)}B{*\3c&H0E99D0&}o{*\3c&H1190CF&}o{\3c&H1386CF&}m
 Dialogue: 2,0:09:07.86,0:09:07.90,SFXOang,23,0,0,0,,{=128}{\blur0.6\alpha&H00&\frz10.56\pos(1654.05,72.22)\c&H0CA3D0&}B{*\3c&H0E99D0&\c&H0E99D0&}o{*\3c&H1190CF&\c&H1190CF&}o{\3c&H1386CF&\c&H1386CF&}m
 Dialogue: 3,0:09:07.86,0:09:07.90,SFXOang,23,0,0,0,,{=128}{\bord0\blur0.6\alpha&H00&\frz10.56\pos(1654.05,72.22)\4a&HFF&}B{*}o{*}om
@@ -3748,7 +3590,6 @@ Dialogue: 1,0:09:15.53,0:09:15.57,SFXPurple3,24,0,0,0,,{=42}{\blur0.6\be1\c&H1D1
 Dialogue: 2,0:09:15.53,0:09:15.57,SFXPurple3,24,0,0,0,,{=42}{\bord0\blur0.6\be1\4a&HFF&}{\frz5.483\pos(945.05,910.36)}Slippery
 Dialogue: 1,0:09:15.57,0:09:15.61,SFXPurple3,24,0,0,0,,{=42}{\blur0.6\be1\c&H1D1615&}{\frz5.483\pos(951.69,912.56)}Slippery
 Dialogue: 2,0:09:15.57,0:09:15.61,SFXPurple3,24,0,0,0,,{=42}{\bord0\blur0.6\be1\4a&HFF&}{\frz5.483\pos(951.69,912.56)}Slippery
-Dialogue: 0,0:09:15.58,0:09:17.44,Dubtitles,,0,0,0,,What the hell is this?
 Dialogue: 1,0:09:15.61,0:09:15.65,SFXPurple3,24,0,0,0,,{=42}{\blur0.6\be1\c&H1D1615&}{\frz5.483\pos(958.96,917.83)}Slippery
 Dialogue: 2,0:09:15.61,0:09:15.65,SFXPurple3,24,0,0,0,,{=42}{\bord0\blur0.6\be1\4a&HFF&}{\frz5.483\pos(958.96,917.83)}Slippery
 Dialogue: 1,0:09:15.65,0:09:15.70,SFXPurple3,24,0,0,0,,{=42}{\blur0.6\be1\c&H1D1615&}{\frz5.483\pos(963.87,923.98)}Slippery
@@ -3873,7 +3714,6 @@ Dialogue: 1,0:09:17.45,0:09:17.49,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&
 Dialogue: 2,0:09:17.45,0:09:17.49,SFXPurple3,25,0,0,0,,{=43}{\bord0\blur0.6\alpha&H00&\be1\4a&HFF&}{\frz8.825\pos(1289.28,38.72)}Slippery
 Dialogue: 1,0:09:17.49,0:09:17.53,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&\be1\c&H1D1615&}{\frz8.825\pos(1300.31,46.35)}Slippery
 Dialogue: 2,0:09:17.49,0:09:17.53,SFXPurple3,25,0,0,0,,{=43}{\bord0\blur0.6\alpha&H00&\be1\4a&HFF&}{\frz8.825\pos(1300.31,46.35)}Slippery
-Dialogue: 0,0:09:17.52,0:09:22.40,Dubtitles,,0,0,0,,Oh yeah, this pillar is\Ncovered in flowing oil.
 Dialogue: 1,0:09:17.53,0:09:17.57,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&\be1\c&H1D1615&}{\frz8.825\pos(1311.38,53.19)}Slippery
 Dialogue: 2,0:09:17.53,0:09:17.57,SFXPurple3,25,0,0,0,,{=43}{\bord0\blur0.6\alpha&H00&\be1\4a&HFF&}{\frz8.825\pos(1311.38,53.19)}Slippery
 Dialogue: 1,0:09:17.57,0:09:17.62,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&\be1\c&H1D1615&}{\frz8.825\pos(1321.79,60.19)}Slippery
@@ -3888,6 +3728,7 @@ Dialogue: 1,0:09:17.74,0:09:17.78,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&
 Dialogue: 2,0:09:17.74,0:09:17.78,SFXPurple3,25,0,0,0,,{=43}{\bord0\blur0.6\alpha&H00&\be1\4a&HFF&}{\frz8.825\pos(1349.41,90.86)}Slippery
 Dialogue: 1,0:09:17.78,0:09:17.82,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&\be1\c&H1D1615&}{\frz8.825\pos(1357.75,99.94)}Slippery
 Dialogue: 2,0:09:17.78,0:09:17.82,SFXPurple3,25,0,0,0,,{=43}{\bord0\blur0.6\alpha&H00&\be1\4a&HFF&}{\frz8.825\pos(1357.75,99.94)}Slippery
+Dialogue: 0,0:09:17.78,0:09:20.10,Dubtitles,,0,0,0,,What the hell is this? Oil!
 Dialogue: 1,0:09:17.82,0:09:17.87,SFXPurple3,25,0,0,0,,{=43}{\blur0.6\alpha&H00&\be1\c&H1D1615&}{\frz8.825\pos(1368,109.6)}Slippery
 Dialogue: 2,0:09:17.82,0:09:17.87,SFXPurple3,25,0,0,0,,{=43}{\bord0\blur0.6\alpha&H00&\be1\4a&HFF&}{\frz8.825\pos(1368,109.6)}Slippery
 Dialogue: 1,0:09:19.91,0:09:19.95,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\t(-80,120,\alpha&H00&)\t(2440,2740,\alpha&HFF&)\frz354.6\pos(1286.57,171.58)}Slippery
@@ -3904,6 +3745,7 @@ Dialogue: 1,0:09:20.12,0:09:20.16,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&
 Dialogue: 2,0:09:20.12,0:09:20.16,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(2230,2530,\alpha&HFF&)\frz354.6\pos(1287.99,175.42)}Slippery
 Dialogue: 1,0:09:20.16,0:09:20.20,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\alpha&H00&\t(2190,2490,\alpha&HFF&)\frz354.6\pos(1288.98,177.38)}Slippery
 Dialogue: 2,0:09:20.16,0:09:20.20,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(2190,2490,\alpha&HFF&)\frz354.6\pos(1288.98,177.38)}Slippery
+Dialogue: 0,0:09:20.18,0:09:22.48,Dubtitles,,0,0,0,,This pillar is covered in flowing oil!
 Dialogue: 1,0:09:20.20,0:09:20.24,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\alpha&H00&\t(2150,2450,\alpha&HFF&)\frz354.6\pos(1289.6,178.53)}Slippery
 Dialogue: 2,0:09:20.20,0:09:20.24,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(2150,2450,\alpha&HFF&)\frz354.6\pos(1289.6,178.53)}Slippery
 Dialogue: 1,0:09:20.24,0:09:20.28,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\alpha&H00&\t(2110,2410,\alpha&HFF&)\frz354.6\pos(1290.03,178.96)}Slippery
@@ -4014,19 +3856,19 @@ Dialogue: 1,0:09:22.41,0:09:22.45,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&
 Dialogue: 2,0:09:22.41,0:09:22.45,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(-60,240,\alpha&HFF&)\frz354.6\pos(1289.24,174.55)}Slippery
 Dialogue: 1,0:09:22.45,0:09:22.50,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\alpha&H00&\t(-100,200,\alpha&HFF&)\frz354.6\pos(1290.31,174.01)}Slippery
 Dialogue: 2,0:09:22.45,0:09:22.50,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(-100,200,\alpha&HFF&)\frz354.6\pos(1290.31,174.01)}Slippery
-Dialogue: 0,0:09:22.48,0:09:27.25,Dubtitles,,0,0,0,,It's 24 meters to the top of the pillar\Nand you may only use your hands to climb.
 Dialogue: 1,0:09:22.50,0:09:22.54,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\alpha&H00&\t(-150,150,\alpha&HFF&)\frz354.6\pos(1290.38,173.28)}Slippery
 Dialogue: 2,0:09:22.50,0:09:22.54,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(-150,150,\alpha&HFF&)\frz354.6\pos(1290.38,173.28)}Slippery
 Dialogue: 1,0:09:22.54,0:09:22.58,SFXPurple4,26,0,0,0,,{=44}{\blur0.8\c&H251F19&}{\alpha&HFF&\alpha&H00&\t(-190,110,\alpha&HFF&)\frz354.6\pos(1291.04,172.28)}Slippery
 Dialogue: 2,0:09:22.54,0:09:22.58,SFXPurple4,26,0,0,0,,{=44}{\bord0\blur0.8\4a&HFF&}{\alpha&HFF&\alpha&H00&\t(-190,110,\alpha&HFF&)\frz354.6\pos(1291.04,172.28)}Slippery
-Dialogue: 0,0:09:27.34,0:09:28.94,Dubtitles,,0,0,0,,There is no other way out.
-Dialogue: 0,0:09:29.20,0:09:33.08,Dubtitles,,0,0,0,,If you can't find a way to climb\Nback, you'll die down there.
-Dialogue: 0,0:09:33.92,0:09:35.36,Dubtitles,,0,0,0,,But that's impossible!
-Dialogue: 0,0:09:35.66,0:09:38.84,Dubtitles,,0,0,0,,There's no way that anyone\Ncould climb up that pillar!
+Dialogue: 0,0:09:22.74,0:09:24.84,Dubtitles,,0,0,0,,It's 24 meters to the top of the
+Dialogue: 0,0:09:24.92,0:09:27.20,Dubtitles,,0,0,0,,pillar and you may only\Nuse your hands to climb.
+Dialogue: 0,0:09:27.28,0:09:28.94,Dubtitles,,0,0,0,,There is no other way out.
+Dialogue: 0,0:09:29.22,0:09:33.08,Dubtitles,,0,0,0,,If you can't find a way to climb\Nback, you'll die down there.
+Dialogue: 0,0:09:33.96,0:09:35.36,Dubtitles,,0,0,0,,But that's impossible!
+Dialogue: 0,0:09:35.68,0:09:38.86,Dubtitles,,0,0,0,,There's no way that anyone\Ncould climb up that pillar!
 Dialogue: 1,0:09:36.26,0:09:39.76,Title2.1,,0,0,0,,{\bord3\blur2\pos(960,811)\fad(778,480)\fs69\fscx95}Days Until the Rings Dissolve: 30
-Dialogue: 1,0:09:36.26,0:09:39.76,Title2,,0,0,0,,{\be2\pos(960,811)\fad(778,480)\fs69\fscx95}Days Until the Rings Dissolve: 30
-Dialogue: 0,0:09:55.10,0:09:59.87,Dubtitles,,0,0,0,,JoJo and Caesar must now overcome the most\Ngrueling of all Hamon endurance tests,
-Dialogue: 0,0:09:59.96,0:10:01.58,Dubtitles,,0,0,0,,the Hell Climb Pillar.
+Dialogue: 0,0:09:55.14,0:09:59.90,Dubtitles,,0,0,0,,JoJo and Caesar must now overcome the most\Ngrueling of all Hamon endurance tests.
+Dialogue: 0,0:09:59.98,0:10:01.58,Dubtitles,,0,0,0,,the Hell Climb Pillar.
 Dialogue: 1,0:10:02.33,0:10:02.37,SFXCyan,27,0,0,0,,{=45}{\blur0.9\c&H1C1206&}{\frz354.1\pos(1858.78,444)}Shake
 Dialogue: 2,0:10:02.33,0:10:02.37,SFXCyan,27,0,0,0,,{=45}{\bord0\blur1.2\4a&HFF&}{\frz354.1\pos(1858.78,444)}Shake
 Dialogue: 1,0:10:02.37,0:10:02.41,SFXCyan,27,0,0,0,,{=45}{\blur0.9\c&H1C1206&}{\frz354.1\pos(1857.9,441.1)}Shake
@@ -4146,10 +3988,10 @@ Dialogue: 3,0:10:04.66,0:10:04.70,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord0\fscx1
 Dialogue: 1,0:10:04.70,0:10:04.75,SFXOang2,28,0,0,0,,{=177}{\blur7\bord7.84\fscx145.55\fscy111.96\frz328\pos(278.67,213.53)\alpha&H80&}Stick
 Dialogue: 2,0:10:04.70,0:10:04.75,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord7.84\fscx145.55\fscy111.96\frz328\pos(278.67,213.53)\c&H243055&}Stick
 Dialogue: 3,0:10:04.70,0:10:04.75,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord0\fscx145.55\fscy111.96\frz328\pos(278.67,213.53)\4a&HFF&}Stick
-Dialogue: 0,0:10:04.74,0:10:06.20,Dubtitles,,0,0,0,,This is really bad.
 Dialogue: 1,0:10:04.75,0:10:04.79,SFXOang2,28,0,0,0,,{=177}{\blur7\bord7.84\fscx145.55\fscy111.96\frz328\pos(273.82,208.95)\alpha&H80&}Stick
 Dialogue: 2,0:10:04.75,0:10:04.79,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord7.84\fscx145.55\fscy111.96\frz328\pos(273.82,208.95)\c&H243055&}Stick
 Dialogue: 3,0:10:04.75,0:10:04.79,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord0\fscx145.55\fscy111.96\frz328\pos(273.82,208.95)\4a&HFF&}Stick
+Dialogue: 0,0:10:04.78,0:10:06.18,Dubtitles,,0,0,0,,This is really bad.
 Dialogue: 1,0:10:04.79,0:10:04.83,SFXOang2,28,0,0,0,,{=177}{\blur7\bord7.84\fscx145.55\fscy111.96\frz328\pos(278.38,215.86)\alpha&H80&}Stick
 Dialogue: 2,0:10:04.79,0:10:04.83,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord7.84\fscx145.55\fscy111.96\frz328\pos(278.38,215.86)\c&H243055&}Stick
 Dialogue: 3,0:10:04.79,0:10:04.83,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord0\fscx145.55\fscy111.96\frz328\pos(278.38,215.86)\4a&HFF&}Stick
@@ -4255,23 +4097,23 @@ Dialogue: 3,0:10:06.16,0:10:06.21,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord0\fscx1
 Dialogue: 1,0:10:06.21,0:10:06.25,SFXOang2,28,0,0,0,,{=177}{\blur7\bord7.84\fscx145.55\fscy111.96\frz328\pos(270.83,215.18)\alpha&H80&}Stick
 Dialogue: 2,0:10:06.21,0:10:06.25,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord7.84\fscx145.55\fscy111.96\frz328\pos(270.83,215.18)\c&H243055&}Stick
 Dialogue: 3,0:10:06.21,0:10:06.25,SFXOang2,28,0,0,0,,{=177}{\blur1.2\bord0\fscx145.55\fscy111.96\frz328\pos(270.83,215.18)\4a&HFF&}Stick
-Dialogue: 0,0:10:06.46,0:10:08.54,Dubtitles,,0,0,0,,I can barely cling to the pillar,
-Dialogue: 0,0:10:08.78,0:10:12.14,Dubtitles,,0,0,0,,and moving my fingers even a\Nlittle bit is so exhausting.
-Dialogue: 0,0:10:12.50,0:10:16.84,Dubtitles,,0,0,0,,If I were to fall now, I wouldn't have\Nanything left to start climbing again,
-Dialogue: 0,0:10:16.92,0:10:19.16,Dubtitles,,0,0,0,,but I can't think like that right now.
-Dialogue: 0,0:10:19.42,0:10:22.83,Dubtitles,,0,0,0,,Otherwise, Jojo and I will\Nboth starve to death down here.
-Dialogue: 0,0:10:25.22,0:10:26.05,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:10:26.13,0:10:29.04,Dubtitles,,0,0,0,,The longer you stay in that muck,\Nthe harder it is to climb out.
-Dialogue: 0,0:10:29.12,0:10:30.02,Dubtitles,,0,0,0,,Now focus!
+Dialogue: 0,0:10:06.48,0:10:08.56,Dubtitles,,0,0,0,,I can barely cling to the pillar,
+Dialogue: 0,0:10:08.82,0:10:12.17,Dubtitles,,0,0,0,,and moving my fingers even a\Nlittle bit is so exhausting.
+Dialogue: 0,0:10:12.50,0:10:16.82,Dubtitles,,0,0,0,,If I were to fall now, I wouldn't have\Nanything left to start climbing again,
+Dialogue: 0,0:10:16.90,0:10:19.14,Dubtitles,,0,0,0,,but I can't think like that right now.
+Dialogue: 0,0:10:19.54,0:10:22.89,Dubtitles,,0,0,0,,Otherwise, JoJo and I will\Nboth start to death down here.
+Dialogue: 0,0:10:25.24,0:10:26.07,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:10:26.15,0:10:29.06,Dubtitles,,0,0,0,,The longer you stay in that muck,\Nthe harder it is to climb out!
+Dialogue: 0,0:10:29.14,0:10:30.02,Dubtitles,,0,0,0,,Now focus!
 Dialogue: 1,0:10:30.52,0:10:30.56,SFXPurple5,29,0,0,0,,{=130}{\blur0.6\alpha&H99&\frz2.752\pos(1667.4,69.6)\c&H281F17&}Slip
 Dialogue: 2,0:10:30.52,0:10:30.56,SFXPurple5,29,0,0,0,,{=130}{\bord0\blur0.6\alpha&H99&\frz2.752\pos(1667.4,69.6)\4a&HFF&}Slip
 Dialogue: 1,0:10:30.56,0:10:30.60,SFXPurple5,29,0,0,0,,{=130}{\blur0.6\alpha&H99&\frz2.752\pos(1658.08,70.92)\c&H281F17&}Slip
 Dialogue: 2,0:10:30.56,0:10:30.60,SFXPurple5,29,0,0,0,,{=130}{\bord0\blur0.6\alpha&H99&\frz2.752\pos(1658.08,70.92)\4a&HFF&}Slip
 Dialogue: 1,0:10:30.60,0:10:30.65,SFXPurple5,29,0,0,0,,{=130}{\blur0.6\alpha&H33&\frz2.752\pos(1658.08,70.95)\c&H281F17&}Slip
 Dialogue: 2,0:10:30.60,0:10:30.65,SFXPurple5,29,0,0,0,,{=130}{\bord0\blur0.6\alpha&H33&\frz2.752\pos(1658.08,70.95)\4a&HFF&}Slip
-Dialogue: 0,0:10:30.64,0:10:31.47,Dubtitles,,0,0,0,,No!
 Dialogue: 1,0:10:30.65,0:10:30.69,SFXPurple5,29,0,0,0,,{=130}{\blur0.6\alpha&H00&\frz2.752\pos(1667.69,72.31)\c&H281F17&}Slip
 Dialogue: 2,0:10:30.65,0:10:30.69,SFXPurple5,29,0,0,0,,{=130}{\bord0\blur0.6\alpha&H00&\frz2.752\pos(1667.69,72.31)\4a&HFF&}Slip
+Dialogue: 0,0:10:30.66,0:10:33.34,Dubtitles,,0,0,0,,No, I must stay focused on myself.
 Dialogue: 1,0:10:30.69,0:10:30.73,SFXPurple5,29,0,0,0,,{=130}{\blur0.6\alpha&H00&\frz2.752\pos(1667.69,72.34)\c&H281F17&}Slip
 Dialogue: 2,0:10:30.69,0:10:30.73,SFXPurple5,29,0,0,0,,{=130}{\bord0\blur0.6\alpha&H00&\frz2.752\pos(1667.69,72.34)\4a&HFF&}Slip
 Dialogue: 1,0:10:30.73,0:10:30.77,SFXPurple5,29,0,0,0,,{=130}{\blur0.6\alpha&H00&\frz2.752\pos(1653.71,72.02)\c&H281F17&}Slip
@@ -4322,7 +4164,6 @@ Dialogue: 1,0:10:31.48,0:10:31.52,SFXPurple5 - Copy,30,0,0,0,,{=131}{\blur0.6\al
 Dialogue: 2,0:10:31.48,0:10:31.52,SFXPurple5 - Copy,30,0,0,0,,{=131}{\bord0\blur0.6\alpha&H00&\frz8.718\pos(276.6,14.38)\c&HA57169&\4a&HFF&}Slide
 Dialogue: 1,0:10:31.52,0:10:31.56,SFXPurple5 - Copy,30,0,0,0,,{=131}{\blur0.6\alpha&H00&\frz8.718\pos(276.67,14.33)\c&H140D09&}Slide
 Dialogue: 2,0:10:31.52,0:10:31.56,SFXPurple5 - Copy,30,0,0,0,,{=131}{\bord0\blur0.6\alpha&H00&\frz8.718\pos(276.67,14.33)\c&HA57169&\4a&HFF&}Slide
-Dialogue: 0,0:10:31.55,0:10:33.32,Dubtitles,,0,0,0,,I must stay focused on myself.
 Dialogue: 1,0:10:31.56,0:10:31.61,SFXPurple5 - Copy,30,0,0,0,,{=131}{\blur0.6\alpha&H00&\frz8.718\pos(290.93,17.91)\c&H140D09&}Slide
 Dialogue: 2,0:10:31.56,0:10:31.61,SFXPurple5 - Copy,30,0,0,0,,{=131}{\bord0\blur0.6\alpha&H00&\frz8.718\pos(290.93,17.91)\c&HA57169&\4a&HFF&}Slide
 Dialogue: 1,0:10:31.61,0:10:31.65,SFXPurple5 - Copy,30,0,0,0,,{=131}{\blur0.6\alpha&H00&\frz8.718\pos(290.99,17.85)\c&H140D09&}Slide
@@ -4335,12 +4176,12 @@ Dialogue: 1,0:10:31.73,0:10:31.77,SFXPurple5 - Copy,30,0,0,0,,{=131}{\blur0.6\al
 Dialogue: 2,0:10:31.73,0:10:31.77,SFXPurple5 - Copy,30,0,0,0,,{=131}{\bord0\blur0.6\alpha&H99&\frz8.718\pos(284.82,21.22)\c&HA57169&\4a&HFF&}Slide
 Dialogue: 1,0:10:31.77,0:10:31.81,SFXPurple5 - Copy,30,0,0,0,,{=131}{\blur0.6\alpha&HCC&\frz8.718\pos(284.78,21.22)\c&H140D09&}Slide
 Dialogue: 2,0:10:31.77,0:10:31.81,SFXPurple5 - Copy,30,0,0,0,,{=131}{\bord0\blur0.6\alpha&HCC&\frz8.718\pos(284.78,21.22)\c&HA57169&\4a&HFF&}Slide
-Dialogue: 0,0:10:35.18,0:10:38.48,Dubtitles,,0,0,0,,I can't get distracted,\Nnot even for a second.
-Dialogue: 0,0:10:42.88,0:10:44.32,Dubtitles,,0,0,0,,This is ridiculous!
-Dialogue: 0,0:10:44.92,0:10:46.40,Dubtitles,,0,0,0,,I just got here!
-Dialogue: 0,0:10:46.48,0:10:50.12,Dubtitles,,0,0,0,,That smug witch knows I'm not\Nstrong enough to climb this stupid,
-Dialogue: 0,0:10:50.20,0:10:51.91,Dubtitles,,0,0,0,,stupid, stupid, stupid thing!
-Dialogue: 0,0:10:52.16,0:10:53.44,Dubtitles,,0,0,0,,It's not fair!
+Dialogue: 0,0:10:35.20,0:10:38.48,Dubtitles,,0,0,0,,I can't get distracted,\Nnot even for a second.
+Dialogue: 0,0:10:42.92,0:10:44.30,Dubtitles,,0,0,0,,This is ridiculous!
+Dialogue: 0,0:10:44.92,0:10:46.48,Dubtitles,,0,0,0,,I just got here!
+Dialogue: 0,0:10:46.68,0:10:49.94,Dubtitles,,0,0,0,,That smug witch knows I'm not\Nstrong enough to climb this stupid,
+Dialogue: 0,0:10:50.02,0:10:51.70,Dubtitles,,0,0,0,,stupid, stupid thing!
+Dialogue: 0,0:10:51.78,0:10:53.50,Dubtitles,,0,0,0,,It's not fair!
 Dialogue: 1,0:10:53.92,0:10:53.96,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur2\bord15.72\fscx340.5\fscy261.92\alpha&H80&\frz355.3\pos(2414.06,96.26)}Rip
 Dialogue: 2,0:10:53.92,0:10:53.96,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bord15.72\fscx340.5\fscy261.92\alpha&H00&\frz355.3\pos(2414.06,96.26)\c&H000000&}Rip
 Dialogue: 3,0:10:53.92,0:10:53.96,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bord0\fscx340.5\fscy261.92\alpha&H00&\frz355.3\pos(2414.06,96.26)\4a&HFF&}Rip
@@ -4353,13 +4194,13 @@ Dialogue: 3,0:10:53.96,0:10:54.00,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bo
 Dialogue: 1,0:10:53.96,0:10:54.00,SFXBlue - Copy,31.21,0,0,0,,{=132}{\blur2\bord12.75\fscx276.34\fscy212.57\alpha&H80&\frz11.51\pos(-361.49,148.41)}Rip
 Dialogue: 2,0:10:53.96,0:10:54.00,SFXBlue - Copy,31.21,0,0,0,,{=132}{\blur0.6\bord12.75\fscx276.34\fscy212.57\alpha&H00&\frz11.51\pos(-361.49,148.41)\c&H000000&}Rip
 Dialogue: 3,0:10:53.96,0:10:54.00,SFXBlue - Copy,31.21,0,0,0,,{=132}{\blur0.6\bord0\fscx276.34\fscy212.57\alpha&H00&\frz11.51\pos(-361.49,148.41)\4a&HFF&}Rip
-Dialogue: 0,0:10:53.98,0:10:57.96,Dubtitles,,0,0,0,,Just who the hell does she think she\Nis anyway, throwing us down this hole?
 Dialogue: 1,0:10:54.00,0:10:54.04,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur2\bord10.75\fscx233\fscy179.23\alpha&H80&\frz355.3\pos(1958.09,87.58)}Rip
 Dialogue: 2,0:10:54.00,0:10:54.04,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bord10.75\fscx233\fscy179.23\alpha&H00&\frz355.3\pos(1958.09,87.58)\c&H000000&}Rip
 Dialogue: 3,0:10:54.00,0:10:54.04,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bord0\fscx233\fscy179.23\alpha&H00&\frz355.3\pos(1958.09,87.58)\4a&HFF&}Rip
 Dialogue: 1,0:10:54.00,0:10:54.04,SFXBlue - Copy,31.21,0,0,0,,{=132}{\blur2\bord10.75\fscx233\fscy179.23\alpha&H80&\frz11.51\pos(-149.7,153.53)}Rip
 Dialogue: 2,0:10:54.00,0:10:54.04,SFXBlue - Copy,31.21,0,0,0,,{=132}{\blur0.6\bord10.75\fscx233\fscy179.23\alpha&H00&\frz11.51\pos(-149.7,153.53)\c&H000000&}Rip
 Dialogue: 3,0:10:54.00,0:10:54.04,SFXBlue - Copy,31.21,0,0,0,,{=132}{\blur0.6\bord0\fscx233\fscy179.23\alpha&H00&\frz11.51\pos(-149.7,153.53)\4a&HFF&}Rip
+Dialogue: 0,0:10:54.02,0:10:57.96,Dubtitles,,0,0,0,,Just who the hell does she think she\Nis anyway, throwing us down this hole?
 Dialogue: 1,0:10:54.04,0:10:54.09,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur2\bord9.28\fscx201.13\fscy154.71\alpha&H80&\frz355.3\pos(1826.13,65.67)}Rip
 Dialogue: 2,0:10:54.04,0:10:54.09,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bord9.28\fscx201.13\fscy154.71\alpha&H00&\frz355.3\pos(1826.13,65.67)\c&H000000&}Rip
 Dialogue: 3,0:10:54.04,0:10:54.09,SFXBlue - Copy,31.11,0,0,0,,{=133}{\blur0.6\bord0\fscx201.13\fscy154.71\alpha&H00&\frz355.3\pos(1826.13,65.67)\4a&HFF&}Rip
@@ -5423,7 +5264,7 @@ Dialogue: 3,0:11:01.39,0:11:01.43,SFXBlue - Copy,31.12,0,0,0,,{=134}{\blur0.6\bo
 Dialogue: 1,0:11:01.39,0:11:01.43,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur2\bord6\fscx130\fscy100\alpha&H80&\frz8.89\pos(334.6,9.59)}Rip
 Dialogue: 2,0:11:01.39,0:11:01.43,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord6\fscx130\fscy100\alpha&H00&\frz8.89\pos(334.6,9.59)\c&H000000&}Rip
 Dialogue: 3,0:11:01.39,0:11:01.43,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz8.89\pos(334.6,9.59)\4a&HFF&}Rip
-Dialogue: 0,0:11:01.42,0:11:04.00,Dubtitles,,0,0,0,,I've always been patient\Nwhen it comes to women,
+Dialogue: 0,0:11:01.42,0:11:03.94,Dubtitles,,0,0,0,,I've always been patient\Nwhen it comes to women.
 Dialogue: 1,0:11:01.43,0:11:01.47,SFXBlue - Copy,31.12,0,0,0,,{=134}{\blur2\bord6\fscx130\fscy100\alpha&H80&\frz355.3\pos(1545.56,10.82)}Rip
 Dialogue: 2,0:11:01.43,0:11:01.47,SFXBlue - Copy,31.12,0,0,0,,{=134}{\blur0.6\bord6\fscx130\fscy100\alpha&H00&\frz355.3\pos(1545.56,10.82)\c&H000000&}Rip
 Dialogue: 3,0:11:01.43,0:11:01.47,SFXBlue - Copy,31.12,0,0,0,,{=134}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz355.3\pos(1545.56,10.82)\4a&HFF&}Rip
@@ -5643,10 +5484,10 @@ Dialogue: 3,0:11:03.97,0:11:04.01,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bo
 Dialogue: 1,0:11:04.01,0:11:04.05,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur2\bord6\fscx130\fscy100\alpha&H80&\frz8.89\pos(331.21,-18.81)}Rip
 Dialogue: 2,0:11:04.01,0:11:04.05,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord6\fscx130\fscy100\alpha&H00&\frz8.89\pos(331.21,-18.81)\c&H000000&}Rip
 Dialogue: 3,0:11:04.01,0:11:04.05,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz8.89\pos(331.21,-18.81)\4a&HFF&}Rip
+Dialogue: 0,0:11:04.02,0:11:08.00,Dubtitles,,0,0,0,,but she'd better start praying that\NI never make it out of here alive!
 Dialogue: 1,0:11:04.05,0:11:04.10,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur2\bord6\fscx130\fscy100\alpha&H80&\frz8.89\pos(320.72,-10.87)}Rip
 Dialogue: 2,0:11:04.05,0:11:04.10,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord6\fscx130\fscy100\alpha&H00&\frz8.89\pos(320.72,-10.87)\c&H000000&}Rip
 Dialogue: 3,0:11:04.05,0:11:04.10,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz8.89\pos(320.72,-10.87)\4a&HFF&}Rip
-Dialogue: 0,0:11:04.08,0:11:08.00,Dubtitles,,0,0,0,,but she'd better start praying that\NI never make it out of here alive!
 Dialogue: 1,0:11:04.10,0:11:04.14,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur2\bord6\fscx130\fscy100\alpha&H80&\frz8.89\pos(321.27,-14.37)}Rip
 Dialogue: 2,0:11:04.10,0:11:04.14,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord6\fscx130\fscy100\alpha&H00&\frz8.89\pos(321.27,-14.37)\c&H000000&}Rip
 Dialogue: 3,0:11:04.10,0:11:04.14,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz8.89\pos(321.27,-14.37)\4a&HFF&}Rip
@@ -5888,7 +5729,7 @@ Dialogue: 1,0:11:07.39,0:11:07.43,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur2\bord
 Dialogue: 2,0:11:07.39,0:11:07.43,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord6\fscx130\fscy100\alpha&H00&\frz8.89\pos(330.33,-56.24)\iclip(m 401 38 l 380 0 496 0 489 91)\c&H000000&}Rip
 Dialogue: 3,0:11:07.39,0:11:07.43,SFXBlue - Copy,31.22,0,0,0,,{=136}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz8.89\pos(330.33,-56.24)\iclip(m 401 38 l 380 0 496 0 489 91)\4a&HFF&}Rip
 Dialogue: 0,0:11:08.08,0:11:09.12,Dubtitles,,0,0,0,,Bloody hell!
-Dialogue: 0,0:11:13.22,0:11:17.80,Dubtitles,,0,0,0,,So this idiotic pillar claimed the lives\Nof a lot of trainees is that right?
+Dialogue: 0,0:11:13.20,0:11:17.82,Dubtitles,,0,0,0,,So, this idiotic pillar claimed the lives\Nof a lot of trainees, is that right?
 Dialogue: 1,0:11:16.11,0:11:16.15,SFXGreen,32,0,0,0,,{=178}{\blur0.9\frz4.988\pos(2119.19,360.33)\c&H060905&}Stretch
 Dialogue: 2,0:11:16.11,0:11:16.15,SFXGreen,32,0,0,0,,{=178}{\bord0\blur0.9\frz4.988\pos(2119.19,360.33)\4a&HFF&}Stretch
 Dialogue: 1,0:11:16.15,0:11:16.19,SFXGreen,32,0,0,0,,{=178}{\blur0.9\frz4.988\pos(2108.4,363.92)\c&H060905&}Stretch
@@ -6019,7 +5860,7 @@ Dialogue: 1,0:11:19.07,0:11:19.11,SFXTan2,33,0,0,0,,{=61}{\blur1\frz8.006\pos(15
 Dialogue: 2,0:11:19.07,0:11:19.11,SFXTan2,33,0,0,0,,{=61}{\bord0\blur1\frz8.006\pos(1552.38,268.16)\4a&HFF&}Clasp
 Dialogue: 1,0:11:19.11,0:11:19.15,SFXTan2,33,0,0,0,,{=61}{\blur1\frz8.006\pos(1552.61,268.62)\c&H080B0E&}Clasp
 Dialogue: 2,0:11:19.11,0:11:19.15,SFXTan2,33,0,0,0,,{=61}{\bord0\blur1\frz8.006\pos(1552.61,268.62)\4a&HFF&}Clasp
-Dialogue: 0,0:11:19.22,0:11:23.63,Dubtitles,,0,0,0,,Maybe they were all just too dimwitted\Nto come up with a creative solution!
+Dialogue: 0,0:11:19.22,0:11:23.69,Dubtitles,,0,0,0,,Maybe they were all just too dim-witted\Nto come up with a creative solution.
 Dialogue: 1,0:11:27.87,0:11:27.91,SFXGreen2,34,0,0,0,,{=62}{\blur0.8\bord2.11\fscx34.23\fscy26.33\alpha&H00&\pos(997.52,521.72)\frz354.2\c&H142307&}Splash
 Dialogue: 2,0:11:27.87,0:11:27.91,SFXGreen2,34,0,0,0,,{=62}{\blur0.8\bord0\fscx34.23\fscy26.33\alpha&H00&\pos(997.52,521.72)\frz354.2\4a&HFF&}Splash
 Dialogue: 1,0:11:27.91,0:11:27.95,SFXGreen2,34,0,0,0,,{=62}{\blur0.8\bord2.82\fscx45.75\fscy35.19\alpha&H00&\pos(1000.58,458.22)\frz354.2\c&H142307&}Splash
@@ -6110,26 +5951,25 @@ Dialogue: 1,0:11:29.66,0:11:29.71,SFXGreen2,34,0,0,0,,{=62}{\blur0.8\alpha&HFF&\
 Dialogue: 2,0:11:29.66,0:11:29.71,SFXGreen2,34,0,0,0,,{=62}{\bord0\blur0.8\alpha&HFF&\alpha&H00&\pos(1221.54,138.54)\frz354.2\4a&HFF&}Splash
 Dialogue: 1,0:11:29.71,0:11:29.75,SFXGreen2,34,0,0,0,,{=62}{\blur0.8\alpha&HFF&\alpha&H00&\pos(1210.46,156.89)\frz354.2\c&H142307&}Splash
 Dialogue: 2,0:11:29.71,0:11:29.75,SFXGreen2,34,0,0,0,,{=62}{\bord0\blur0.8\alpha&HFF&\alpha&H00&\pos(1210.46,156.89)\frz354.2\4a&HFF&}Splash
-Dialogue: 0,0:11:30.54,0:11:33.28,Dubtitles,,0,0,0,,Using anything but hormone\Nis an insult to the
-Dialogue: 0,0:11:33.36,0:11:36.04,Dubtitles,,0,0,0,,pillar and your training\Nthe hell climb pillar.
-Dialogue: 0,0:11:36.12,0:11:37.60,Dubtitles,,0,0,0,,Lisa only accepts Hormone.
+Dialogue: 0,0:11:30.50,0:11:34.68,Dubtitles,,0,0,0,,Using anything but Harmon is an insult\Nto the Pillar and your training.
+Dialogue: 0,0:11:35.00,0:11:37.46,Dubtitles,,0,0,0,,The Hellclimb Pillar only accepts Harmon.
 Dialogue: 0,0:11:37.68,0:11:39.28,Dubtitles,,0,0,0,,It refuses anything else.
 Dialogue: 0,0:11:39.44,0:11:41.22,Dubtitles,,0,0,0,,So don't ever forget that.
-Dialogue: 0,0:11:42.32,0:11:44.48,Dubtitles,,0,0,0,,Wait a sec, come back, Lisa-Lisa!
-Dialogue: 0,0:11:44.76,0:11:46.42,Dubtitles,,0,0,0,,I mean, coach, wait!
-Dialogue: 0,0:11:48.94,0:11:51.36,Dubtitles,,0,0,0,,You wouldn't really leave\Nme down here to rot?
-Dialogue: 0,0:11:51.44,0:11:52.84,Dubtitles,,0,0,0,,Just because I don't have enough power!
-Dialogue: 0,0:11:52.92,0:11:54.80,Dubtitles,,0,0,0,,to climb out of here, would you?
-Dialogue: 0,0:11:55.02,0:11:56.76,Dubtitles,,0,0,0,,I mean, it's my first day.
-Dialogue: 0,0:11:57.20,0:11:59.20,Dubtitles,,0,0,0,,This is just some kind of test, right?
+Dialogue: 0,0:11:42.24,0:11:43.16,Dubtitles,,0,0,0,,Wait a sec!
+Dialogue: 0,0:11:43.32,0:11:44.56,Dubtitles,,0,0,0,,Come back, Lisa Lisa!
+Dialogue: 0,0:11:44.76,0:11:46.44,Dubtitles,,0,0,0,,I mean, coach! Wait!
+Dialogue: 0,0:11:49.04,0:11:51.60,Dubtitles,,0,0,0,,You wouldn't really leave\Nme down here to rot just
+Dialogue: 0,0:11:51.68,0:11:53.92,Dubtitles,,0,0,0,,because I don't have enough\Npower to climb out of here,
+Dialogue: 0,0:11:54.00,0:11:54.83,Dubtitles,,0,0,0,,would you?
+Dialogue: 0,0:11:55.06,0:11:56.76,Dubtitles,,0,0,0,,I mean, it's my first day!
+Dialogue: 0,0:11:57.26,0:11:59.20,Dubtitles,,0,0,0,,This is just some kind of test, right?
 Dialogue: 0,0:11:59.28,0:12:00.52,Dubtitles,,0,0,0,,To teach me humility?
-Dialogue: 0,0:12:00.68,0:12:02.20,Dubtitles,,0,0,0,,You'll pull me out later, right?
-Dialogue: 0,0:12:02.28,0:12:03.11,Dubtitles,,0,0,0,,Right?
-Dialogue: 0,0:12:04.42,0:12:05.25,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:12:08.26,0:12:09.86,Dubtitles,,0,0,0,,Her eyes are like ice.
-Dialogue: 0,0:12:10.20,0:12:11.46,Dubtitles,,0,0,0,,She really means it.
-Dialogue: 0,0:12:11.68,0:12:14.09,Dubtitles,,0,0,0,,She's just going to let me die down here.
-Dialogue: 0,0:12:14.58,0:12:15.41,Dubtitles,,0,0,0,,Curse her!
+Dialogue: 0,0:12:00.72,0:12:02.24,Dubtitles,,0,0,0,,You'll pull me out later, right?
+Dialogue: 0,0:12:02.32,0:12:03.15,Dubtitles,,0,0,0,,Right?
+Dialogue: 0,0:12:08.32,0:12:09.86,Dubtitles,,0,0,0,,Her eyes are like ice.
+Dialogue: 0,0:12:10.20,0:12:11.48,Dubtitles,,0,0,0,,She really means it.
+Dialogue: 0,0:12:11.66,0:12:14.07,Dubtitles,,0,0,0,,She's just going to let me die down here.
+Dialogue: 0,0:12:14.68,0:12:15.51,Dubtitles,,0,0,0,,Curse her!
 Dialogue: 1,0:12:15.00,0:12:15.04,SFXTommy,35,0,0,0,,{=64}{\3c&H1B251D&\c&H1B251D&\blur0.6\alpha&HFF&\fscx110\t(-40,10,\alpha&H00&)\pos(42.93,174.64)\frz359.8}Scratch
 Dialogue: 2,0:12:15.00,0:12:15.04,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&HFF&\fscx110\t(-40,10,\alpha&H00&)\pos(42.93,174.64)\frz359.8\4a&HFF&}Scratch
 Dialogue: 1,0:12:15.04,0:12:15.08,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\pos(54.13,181.04)\frz359.8\fscx110\c&H1B251D&}Scratch
@@ -6158,9 +5998,9 @@ Dialogue: 1,0:12:15.50,0:12:15.54,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\p
 Dialogue: 2,0:12:15.50,0:12:15.54,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&H00&\pos(70.16,182.59)\frz359.8\fscx110\4a&HFF&}Scratch
 Dialogue: 1,0:12:15.54,0:12:15.58,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\pos(57.82,195.82)\frz359.8\fscx110\c&H1B251D&}Scratch
 Dialogue: 2,0:12:15.54,0:12:15.58,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&H00&\pos(57.82,195.82)\frz359.8\fscx110\4a&HFF&}Scratch
-Dialogue: 0,0:12:15.54,0:12:17.50,Dubtitles,,0,0,0,,What gives her the right to do this?
 Dialogue: 1,0:12:15.58,0:12:15.63,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\pos(71.25,180.74)\frz359.8\fscx110\c&H1B251D&}Scratch
 Dialogue: 2,0:12:15.58,0:12:15.63,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&H00&\pos(71.25,180.74)\frz359.8\fscx110\4a&HFF&}Scratch
+Dialogue: 0,0:12:15.59,0:12:17.64,Dubtitles,,0,0,0,,What gives her the right to do this?
 Dialogue: 1,0:12:15.63,0:12:15.67,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\pos(72.18,205.12)\frz359.8\fscx110\c&H1B251D&}Scratch
 Dialogue: 2,0:12:15.63,0:12:15.67,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&H00&\pos(72.18,205.12)\frz359.8\fscx110\4a&HFF&}Scratch
 Dialogue: 1,0:12:15.67,0:12:15.71,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\pos(60.68,177.33)\frz359.8\fscx110\c&H1B251D&}Scratch
@@ -6251,7 +6091,6 @@ Dialogue: 1,0:12:17.42,0:12:17.46,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\p
 Dialogue: 2,0:12:17.42,0:12:17.46,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&H00&\pos(97.68,207.68)\frz359.8\fscx110\4a&HFF&}Scratch
 Dialogue: 1,0:12:17.46,0:12:17.50,SFXTommy,35,0,0,0,,{=64}{\blur0.6\alpha&H00&\pos(88.81,176.77)\frz359.8\fscx110\c&H1B251D&}Scratch
 Dialogue: 2,0:12:17.46,0:12:17.50,SFXTommy,35,0,0,0,,{=64}{\bord0\blur0.6\alpha&H00&\pos(88.81,176.77)\frz359.8\fscx110\4a&HFF&}Scratch
-Dialogue: 0,0:12:17.58,0:12:20.02,Dubtitles,,0,0,0,,The fact that she's so\Ndamn beautiful just makes
 Dialogue: 1,0:12:17.59,0:12:17.63,SFXOang3,36,0,0,0,,{=137}{\blur7\bord16.32\fscx146.9\fscy163.22\alpha&H80&\frz339\pos(466.11,658.23)}Bam
 Dialogue: 2,0:12:17.59,0:12:17.63,SFXOang3,36,0,0,0,,{=137}{\blur1\bord16.32\fscx146.9\fscy163.22\alpha&H00&\frz339\pos(466.11,658.23)\c&H162C33&}Bam
 Dialogue: 3,0:12:17.59,0:12:17.63,SFXOang3,36,0,0,0,,{=137}{\blur1\bord0\fscx146.9\fscy163.22\alpha&H00&\frz339\pos(466.11,658.23)\4a&HFF&}Bam
@@ -6270,6 +6109,7 @@ Dialogue: 3,0:12:17.75,0:12:17.80,SFXOang3,36,0,0,0,,{=137}{\blur1\bord0\fscx96.
 Dialogue: 1,0:12:17.80,0:12:17.84,SFXOang3,36,0,0,0,,{=137}{\blur7\bord10.7\fscx96.32\fscy107.02\alpha&H80&\frz339\pos(604.86,676.62)}Bam
 Dialogue: 2,0:12:17.80,0:12:17.84,SFXOang3,36,0,0,0,,{=137}{\blur1\bord10.7\fscx96.32\fscy107.02\alpha&H00&\frz339\pos(604.86,676.62)\c&H162C33&}Bam
 Dialogue: 3,0:12:17.80,0:12:17.84,SFXOang3,36,0,0,0,,{=137}{\blur1\bord0\fscx96.32\fscy107.02\alpha&H00&\frz339\pos(604.86,676.62)\4a&HFF&}Bam
+Dialogue: 0,0:12:17.82,0:12:20.02,Dubtitles,,0,0,0,,The fact that she's so\Ndamn beautiful just makes
 Dialogue: 1,0:12:17.84,0:12:17.88,SFXOang3,36,0,0,0,,{=137}{\blur7\bord10.5\fscx94.5\fscy105\alpha&H80&\frz339\pos(545.62,551.55)}Bam
 Dialogue: 2,0:12:17.84,0:12:17.88,SFXOang3,36,0,0,0,,{=137}{\blur1\bord10.5\fscx94.5\fscy105\alpha&H00&\frz339\pos(545.62,551.55)\c&H162C33&}Bam
 Dialogue: 3,0:12:17.84,0:12:17.88,SFXOang3,36,0,0,0,,{=137}{\blur1\bord0\fscx94.5\fscy105\alpha&H00&\frz339\pos(545.62,551.55)\4a&HFF&}Bam
@@ -6352,14 +6192,13 @@ Dialogue: 1,0:12:18.92,0:12:18.96,SFXOang3,36,0,0,0,,{=137}{\blur7\bord10.08\fsc
 Dialogue: 2,0:12:18.92,0:12:18.96,SFXOang3,36,0,0,0,,{=137}{\blur1\bord10.08\fscx90.74\fscy100.82\alpha&HCC&\frz339\pos(596.77,605)\c&H162C33&}Bam
 Dialogue: 3,0:12:18.92,0:12:18.96,SFXOang3,36,0,0,0,,{=137}{\blur1\bord0\fscx90.74\fscy100.82\alpha&HCC&\frz339\pos(596.77,605)\4a&HFF&}Bam
 Dialogue: 0,0:12:20.10,0:12:22.69,Dubtitles,,0,0,0,,me even more furious\Nabout this whole thing!
-Dialogue: 0,0:12:28.70,0:12:33.82,Dubtitles,,0,0,0,,28 hours later, Caesar is at 15\Nmeters, while Jojo is at 0 meters.
-Dialogue: 0,0:12:33.90,0:12:36.72,Dubtitles,,0,0,0,,The rings will now dissolve in 28 days.
+Dialogue: 0,0:12:28.72,0:12:33.92,Dubtitles,,0,0,0,,28 hours later, Caesar is at 15\Nmeters, while Jojo is at zero meters.
 Dialogue: 1,0:12:34.14,0:12:37.56,Title2.1,,0,0,0,,{\bord3\blur2\pos(960,811)\fad(778,480)\fs69\fscx95}Days Until the Rings Dissolve: 28
-Dialogue: 1,0:12:34.14,0:12:37.56,Title2,,0,0,0,,{\be2\pos(960,811)\fad(778,480)\fs69\fscx95}Days Until the Rings Dissolve: 28
-Dialogue: 0,0:12:37.58,0:12:39.76,Dubtitles,,0,0,0,,I'm pretty sure we've\Nbeen in here overnight,
-Dialogue: 0,0:12:39.84,0:12:42.96,Dubtitles,,0,0,0,,and Caesar still has a long\Nway to go up that pillar.
-Dialogue: 0,0:12:43.14,0:12:47.55,Dubtitles,,0,0,0,,I should be focusing on myself, but I\Ncan tell that he's really struggling.
-Dialogue: 0,0:12:49.74,0:12:52.22,Dubtitles,,0,0,0,,His fingers look like\Nthey're about to come loose.
+Dialogue: 0,0:12:34.22,0:12:36.82,Dubtitles,,0,0,0,,The rings will now dissolve in 28 days!
+Dialogue: 0,0:12:37.54,0:12:39.78,Dubtitles,,0,0,0,,I'm pretty sure we've\Nbeen in here overnight,
+Dialogue: 0,0:12:39.86,0:12:42.98,Dubtitles,,0,0,0,,and Caesar still has a long\Nway to go up that pillar.
+Dialogue: 0,0:12:43.10,0:12:47.51,Dubtitles,,0,0,0,,I should be focusing on myself, but I\Ncan tell that he's really struggling.
+Dialogue: 0,0:12:49.70,0:12:52.18,Dubtitles,,0,0,0,,His fingers look like\Nthey're about to come loose.
 Dialogue: 1,0:12:51.91,0:12:51.95,SFXCyan2,37.1,0,0,0,,{=138}{\blur1\alpha&H00&\frz8.517\pos(238.33,422.13)\c&H1C170F&}Shake
 Dialogue: 2,0:12:51.91,0:12:51.95,SFXCyan2,37.1,0,0,0,,{=138}{\bord0\blur1\alpha&H00&\frz8.517\pos(238.33,422.13)\4a&HFF&}Shake
 Dialogue: 1,0:12:51.91,0:12:51.95,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\frz10.46\pos(1643.13,210.93)\c&H1C170F&}Shake
@@ -6414,13 +6253,13 @@ Dialogue: 1,0:12:52.25,0:12:52.29,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\
 Dialogue: 2,0:12:52.25,0:12:52.29,SFXCyan2,37.2,0,0,0,,{=139}{\bord0\blur1\alpha&H00&\frz10.46\pos(1655.8,219.22)\4a&HFF&}Shake
 Dialogue: 2,0:12:52.25,0:12:52.29,SFXCyan2,37.3,0,0,0,,{=139}{\blur1\frz4.491\pos(1613.01,574.65)\c&H1C170F&}Shake
 Dialogue: 3,0:12:52.25,0:12:52.29,SFXCyan2,37.3,0,0,0,,{=139}{\bord0\blur1\frz4.491\pos(1613.01,574.65)\4a&HFF&}Shake
+Dialogue: 0,0:12:52.26,0:12:55.50,Dubtitles,,0,0,0,,If he loses that grip, he's\Ngoing to come sliding down.
 Dialogue: 1,0:12:52.29,0:12:52.33,SFXCyan2,37.1,0,0,0,,{=138}{\blur1\alpha&H00&\frz8.517\pos(218.41,412.29)\c&H1C170F&}Shake
 Dialogue: 2,0:12:52.29,0:12:52.33,SFXCyan2,37.1,0,0,0,,{=138}{\bord0\blur1\alpha&H00&\frz8.517\pos(218.41,412.29)\4a&HFF&}Shake
 Dialogue: 1,0:12:52.29,0:12:52.33,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\frz10.46\pos(1659.55,228.11)\c&H1C170F&}Shake
 Dialogue: 2,0:12:52.29,0:12:52.33,SFXCyan2,37.2,0,0,0,,{=139}{\bord0\blur1\alpha&H00&\frz10.46\pos(1659.55,228.11)\4a&HFF&}Shake
 Dialogue: 2,0:12:52.29,0:12:52.33,SFXCyan2,37.3,0,0,0,,{=139}{\blur1\frz4.491\pos(1609.79,605.65)\c&H1C170F&}Shake
 Dialogue: 3,0:12:52.29,0:12:52.33,SFXCyan2,37.3,0,0,0,,{=139}{\bord0\blur1\frz4.491\pos(1609.79,605.65)\4a&HFF&}Shake
-Dialogue: 0,0:12:52.30,0:12:55.54,Dubtitles,,0,0,0,,If he loses that grip, he's\Ngoing to come sliding down.
 Dialogue: 1,0:12:52.33,0:12:52.37,SFXCyan2,37.1,0,0,0,,{=138}{\blur1\alpha&H00&\frz8.517\pos(236.08,411.3)\c&H1C170F&}Shake
 Dialogue: 2,0:12:52.33,0:12:52.37,SFXCyan2,37.1,0,0,0,,{=138}{\bord0\blur1\alpha&H00&\frz8.517\pos(236.08,411.3)\4a&HFF&}Shake
 Dialogue: 1,0:12:52.33,0:12:52.37,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\frz10.46\pos(1652.95,206.05)\c&H1C170F&}Shake
@@ -6901,13 +6740,13 @@ Dialogue: 1,0:12:55.62,0:12:55.67,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\
 Dialogue: 2,0:12:55.62,0:12:55.67,SFXCyan2,37.2,0,0,0,,{=139}{\bord0\blur1\alpha&H00&\frz10.46\pos(1650.94,196.55)\4a&HFF&}Shake
 Dialogue: 2,0:12:55.62,0:12:55.67,SFXCyan2,37.3,0,0,0,,{=139}{\blur1\frz4.491\pos(1602.6,592.67)\c&H1C170F&}Shake
 Dialogue: 3,0:12:55.62,0:12:55.67,SFXCyan2,37.3,0,0,0,,{=139}{\bord0\blur1\frz4.491\pos(1602.6,592.67)\4a&HFF&}Shake
+Dialogue: 0,0:12:55.64,0:12:58.29,Dubtitles,,0,0,0,,His hormone looks like\Nit's about to run out.
 Dialogue: 1,0:12:55.67,0:12:55.71,SFXCyan2,37.1,0,0,0,,{=138}{\blur1\alpha&H00&\frz8.517\pos(229.91,419.89)\c&H1C170F&}Shake
 Dialogue: 2,0:12:55.67,0:12:55.71,SFXCyan2,37.1,0,0,0,,{=138}{\bord0\blur1\alpha&H00&\frz8.517\pos(229.91,419.89)\4a&HFF&}Shake
 Dialogue: 1,0:12:55.67,0:12:55.71,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\frz10.46\pos(1653.07,191.37)\c&H1C170F&}Shake
 Dialogue: 2,0:12:55.67,0:12:55.71,SFXCyan2,37.2,0,0,0,,{=139}{\bord0\blur1\alpha&H00&\frz10.46\pos(1653.07,191.37)\4a&HFF&}Shake
 Dialogue: 2,0:12:55.67,0:12:55.71,SFXCyan2,37.3,0,0,0,,{=139}{\blur1\frz4.491\pos(1616.85,603.72)\c&H1C170F&}Shake
 Dialogue: 3,0:12:55.67,0:12:55.71,SFXCyan2,37.3,0,0,0,,{=139}{\bord0\blur1\frz4.491\pos(1616.85,603.72)\4a&HFF&}Shake
-Dialogue: 0,0:12:55.68,0:12:58.10,Dubtitles,,0,0,0,,His hormone looks like\Nit's about to run out.
 Dialogue: 1,0:12:55.71,0:12:55.75,SFXCyan2,37.1,0,0,0,,{=138}{\blur1\alpha&H00&\frz8.517\pos(236.78,423.21)\c&H1C170F&}Shake
 Dialogue: 2,0:12:55.71,0:12:55.75,SFXCyan2,37.1,0,0,0,,{=138}{\bord0\blur1\alpha&H00&\frz8.517\pos(236.78,423.21)\4a&HFF&}Shake
 Dialogue: 1,0:12:55.71,0:12:55.75,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\frz10.46\pos(1663.8,203.17)\c&H1C170F&}Shake
@@ -6956,7 +6795,7 @@ Dialogue: 1,0:12:56.00,0:12:56.04,SFXCyan2,37.2,0,0,0,,{=139}{\blur1\alpha&H00&\
 Dialogue: 2,0:12:56.00,0:12:56.04,SFXCyan2,37.2,0,0,0,,{=139}{\bord0\blur1\alpha&H00&\frz10.46\pos(1634.06,225.58)\4a&HFF&}Shake
 Dialogue: 2,0:12:56.00,0:12:56.04,SFXCyan2,37.3,0,0,0,,{=139}{\blur1\frz4.491\pos(1611.21,582.26)\c&H1C170F&}Shake
 Dialogue: 3,0:12:56.00,0:12:56.04,SFXCyan2,37.3,0,0,0,,{=139}{\bord0\blur1\frz4.491\pos(1611.21,582.26)\4a&HFF&}Shake
-Dialogue: 0,0:12:58.18,0:12:59.36,Dubtitles,,0,0,0,,Caesar, focus!
+Dialogue: 0,0:12:58.38,0:12:59.36,Dubtitles,,0,0,0,,Caesar, focus!
 Dialogue: 1,0:12:59.84,0:12:59.88,SFXTan3,38,0,0,0,,{=140}{\blur0.6\bord5\fscx130\fscy100\alpha&H00&\frz358.2\pos(968.73,56.8)\c&H000000&}Reach
 Dialogue: 2,0:12:59.84,0:12:59.88,SFXTan3,38,0,0,0,,{=140}{\blur0.6\bord0\fscx130\fscy100\alpha&H00&\frz358.2\pos(968.73,56.8)\4a&HFF&}Reach
 Dialogue: 1,0:12:59.88,0:12:59.92,SFXTan3,38,0,0,0,,{=140}{\blur0.6\bord5\fscx129.98\fscy99.99\alpha&H00&\frz358.2\pos(968.72,56.82)\c&H000000&}Reach
@@ -7111,7 +6950,6 @@ Dialogue: 1,0:13:06.01,0:13:06.05,SFXTommy2,39,0,0,0,,{=141}{\blur0.7\alpha&H00&
 Dialogue: 2,0:13:06.01,0:13:06.05,SFXTommy2,39,0,0,0,,{=141}{\bord0\blur0.7\alpha&H00&\pos(1696.65,-117.99)\frz14.74\4a&HFF&}Grip
 Dialogue: 1,0:13:06.05,0:13:06.09,SFXTommy2,39,0,0,0,,{=141}{\blur0.7\alpha&H00&\pos(1702.34,-120.02)\frz14.74\c&H091014&}Grip
 Dialogue: 2,0:13:06.05,0:13:06.09,SFXTommy2,39,0,0,0,,{=141}{\bord0\blur0.7\alpha&H00&\pos(1702.34,-120.02)\frz14.74\4a&HFF&}Grip
-Dialogue: 0,0:13:06.08,0:13:08.62,Dubtitles,,0,0,0,,Oh, he looks like he's\Nabout to fall again.
 Dialogue: 1,0:13:06.09,0:13:06.14,SFXTommy2,39,0,0,0,,{=141}{\blur0.7\alpha&H00&\pos(1702.34,-120.01)\frz14.74\c&H091014&}Grip
 Dialogue: 2,0:13:06.09,0:13:06.14,SFXTommy2,39,0,0,0,,{=141}{\bord0\blur0.7\alpha&H00&\pos(1702.34,-120.01)\frz14.74\4a&HFF&}Grip
 Dialogue: 1,0:13:06.14,0:13:06.18,SFXTommy2,39,0,0,0,,{=141}{\blur0.7\alpha&H00&\pos(1703.24,-134.8)\frz14.74\c&H091014&}Grip
@@ -7136,6 +6974,7 @@ Dialogue: 1,0:13:06.55,0:13:06.59,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\f
 Dialogue: 2,0:13:06.55,0:13:06.59,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(1015.46,104.22)\4a&HFF&}Shake
 Dialogue: 1,0:13:06.59,0:13:06.64,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(1022.45,118.89)\c&H1E152A&}Shake
 Dialogue: 2,0:13:06.59,0:13:06.64,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(1022.45,118.89)\4a&HFF&}Shake
+Dialogue: 0,0:13:06.60,0:13:08.89,Dubtitles,,0,0,0,,He looks like he's about to fall again.
 Dialogue: 1,0:13:06.64,0:13:06.68,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(1004.27,126.58)\c&H1E152A&}Shake
 Dialogue: 2,0:13:06.64,0:13:06.68,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(1004.27,126.58)\4a&HFF&}Shake
 Dialogue: 1,0:13:06.68,0:13:06.72,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(1000.78,127.98)\c&H1E152A&}Shake
@@ -7252,9 +7091,9 @@ Dialogue: 1,0:13:08.97,0:13:09.01,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\f
 Dialogue: 2,0:13:08.97,0:13:09.01,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(657.58,109.81)\4a&HFF&}Shake
 Dialogue: 1,0:13:09.01,0:13:09.05,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(670.17,83.95)\c&H1E152A&}Shake
 Dialogue: 2,0:13:09.01,0:13:09.05,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(670.17,83.95)\4a&HFF&}Shake
+Dialogue: 0,0:13:09.04,0:13:10.86,Dubtitles,,0,0,0,,He's hanging by his fingertips.
 Dialogue: 1,0:13:09.05,0:13:09.10,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(670.86,94.43)\c&H1E152A&}Shake
 Dialogue: 2,0:13:09.05,0:13:09.10,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(670.86,94.43)\4a&HFF&}Shake
-Dialogue: 0,0:13:09.08,0:13:11.74,Dubtitles,,0,0,0,,He's hanging by his fingertips. Caesar!
 Dialogue: 1,0:13:09.10,0:13:09.14,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(665.97,104.91)\c&H1E152A&}Shake
 Dialogue: 2,0:13:09.10,0:13:09.14,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H00&\frz11.33\pos(665.97,104.91)\4a&HFF&}Shake
 Dialogue: 1,0:13:09.14,0:13:09.18,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H00&\frz11.33\pos(645.7,81.15)\c&H1E152A&}Shake
@@ -7321,17 +7160,18 @@ Dialogue: 1,0:13:10.39,0:13:10.43,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H33&\f
 Dialogue: 2,0:13:10.39,0:13:10.43,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H33&\frz11.33\pos(613.55,83.95)\4a&HFF&}Shake
 Dialogue: 1,0:13:10.43,0:13:10.47,SFXGreen3,40,0,0,0,,{=143}{\blur1\alpha&H33&\frz11.33\pos(618.44,78.35)\c&H1E152A&}Shake
 Dialogue: 2,0:13:10.43,0:13:10.47,SFXGreen3,40,0,0,0,,{=143}{\bord0\blur1\alpha&H33&\frz11.33\pos(618.44,78.35)\4a&HFF&}Shake
-Dialogue: 0,0:13:15.62,0:13:16.76,Dubtitles,,0,0,0,,Oh, wait a second.
-Dialogue: 0,0:13:17.00,0:13:19.18,Dubtitles,,0,0,0,,Is that how he's been\Nclimbing this entire time?
+Dialogue: 0,0:13:11.32,0:13:12.15,Dubtitles,,0,0,0,,Caesar!
+Dialogue: 0,0:13:15.76,0:13:16.68,Dubtitles,,0,0,0,,Wait a second.
+Dialogue: 0,0:13:16.76,0:13:19.18,Dubtitles,,0,0,0,,Is that how he's been\Nclimbing this entire time?
 Dialogue: 0,0:13:19.26,0:13:21.55,Dubtitles,,0,0,0,,By using just his fingertips like that?
-Dialogue: 0,0:13:23.76,0:13:25.86,Dubtitles,,0,0,0,,He wasn't about to fall off at all.
-Dialogue: 0,0:13:26.32,0:13:27.44,Dubtitles,,0,0,0,,He was just...
-Dialogue: 0,0:13:27.52,0:13:30.78,Dubtitles,,0,0,0,,Think of it like using a squirt\Ngun with its smaller hole.
-Dialogue: 0,0:13:30.86,0:13:31.69,Dubtitles,,0,0,0,,That's...
-Dialogue: 0,0:13:31.77,0:13:32.60,Dubtitles,,0,0,0,,that's it!
-Dialogue: 0,0:13:32.70,0:13:34.29,Dubtitles,,0,0,0,,It totally makes sense now!
-Dialogue: 0,0:13:39.18,0:13:41.56,Dubtitles,,0,0,0,,Consider this hormone mystery solved!
-Dialogue: 0,0:13:43.22,0:13:44.96,Dubtitles,,0,0,0,,Let's see how this works!
+Dialogue: 0,0:13:23.70,0:13:25.86,Dubtitles,,0,0,0,,He wasn't about to fall off at all.
+Dialogue: 0,0:13:26.26,0:13:27.44,Dubtitles,,0,0,0,,He was just...
+Dialogue: 0,0:13:27.52,0:13:30.74,Dubtitles,,0,0,0,,Think of it like using a squirt\Ngun with its smaller hole.
+Dialogue: 0,0:13:30.82,0:13:31.65,Dubtitles,,0,0,0,,That's...
+Dialogue: 0,0:13:31.73,0:13:32.56,Dubtitles,,0,0,0,,that's it!
+Dialogue: 0,0:13:32.65,0:13:34.08,Dubtitles,,0,0,0,,It totally makes sense now!
+Dialogue: 0,0:13:39.24,0:13:41.62,Dubtitles,,0,0,0,,Consider this hormone mystery solved!
+Dialogue: 0,0:13:43.26,0:13:45.00,Dubtitles,,0,0,0,,Let's see how this works!
 Dialogue: 1,0:13:47.05,0:13:47.09,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord7.44\fscx138.18\fscy106.29\alpha&H00&\frz6.448\pos(1664.72,571.75)\c&H0A192B&}Stick
 Dialogue: 2,0:13:47.05,0:13:47.09,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord0\fscx138.18\fscy106.29\alpha&H00&\frz6.448\pos(1664.72,571.75)\4a&HFF&}Stick
 Dialogue: 1,0:13:47.09,0:13:47.13,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord7.43\fscx137.93\fscy106.1\alpha&H00&\frz6.448\pos(1661.98,570.03)\c&H0A192B&}Stick
@@ -7394,34 +7234,33 @@ Dialogue: 1,0:13:48.26,0:13:48.30,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord6.7\f
 Dialogue: 2,0:13:48.26,0:13:48.30,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord0\fscx124.5\fscy95.77\alpha&HB6&\frz6.448\pos(1585.22,531.15)\4a&HFF&}Stick
 Dialogue: 1,0:13:48.30,0:13:48.34,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord6.67\fscx123.96\fscy95.35\alpha&HDB&\frz6.448\pos(1582.34,529.6)\c&H0A192B&}Stick
 Dialogue: 2,0:13:48.30,0:13:48.34,SFXYellow4,41,0,0,0,,{=144}{\blur0.6\bord0\fscx123.96\fscy95.35\alpha&HDB&\frz6.448\pos(1582.34,529.6)\4a&HFF&}Stick
-Dialogue: 0,0:13:48.94,0:13:50.70,Dubtitles,,0,0,0,,I did it! It's working!
-Dialogue: 0,0:13:50.92,0:13:53.10,Dubtitles,,0,0,0,,My hormone is sticking to the pillar!
-Dialogue: 0,0:13:53.30,0:13:55.60,Dubtitles,,0,0,0,,All this time I had my hands flat.
-Dialogue: 0,0:13:55.94,0:13:58.12,Dubtitles,,0,0,0,,I was trying to use them\Nto support my weight,
-Dialogue: 0,0:13:58.20,0:14:00.67,Dubtitles,,0,0,0,,when in fact it's the opposite that works.
-Dialogue: 0,0:14:01.14,0:14:05.40,Dubtitles,,0,0,0,,Focused Hamon concentrated into the\Nfingertips is where the true strength lies.
-Dialogue: 0,0:14:05.48,0:14:07.07,Dubtitles,,0,0,0,,What a simple little trick.
+Dialogue: 0,0:13:49.00,0:13:50.70,Dubtitles,,0,0,0,,I did it! I'm sticking!
+Dialogue: 0,0:13:50.94,0:13:53.12,Dubtitles,,0,0,0,,My Hormone is sticking to the pillar!
+Dialogue: 0,0:13:53.38,0:13:55.58,Dubtitles,,0,0,0,,All this time I had my hands flat.
+Dialogue: 0,0:13:55.88,0:13:58.14,Dubtitles,,0,0,0,,I was trying to use them\Nto support my weight,
+Dialogue: 0,0:13:58.22,0:14:00.69,Dubtitles,,0,0,0,,when in fact it's the opposite that works.
+Dialogue: 0,0:14:01.16,0:14:05.36,Dubtitles,,0,0,0,,Focused Hormone concentrated into the\Nfingertips is where the true strength lies.
+Dialogue: 0,0:14:05.44,0:14:07.03,Dubtitles,,0,0,0,,What a simple little trick.
 Dialogue: 0,0:14:07.20,0:14:08.14,Dubtitles,,0,0,0,,I've got it now.
-Dialogue: 0,0:14:08.40,0:14:11.17,Dubtitles,,0,0,0,,All I have to do from\Nhere on up is just climb.
-Dialogue: 0,0:14:11.74,0:14:14.82,Dubtitles,,0,0,0,,And plot my revenge on\Nthat so-called Hamon coach.
-Dialogue: 0,0:14:16.26,0:14:18.30,Dubtitles,,0,0,0,,JoJo's got it. Good for him.
-Dialogue: 0,0:14:19.46,0:14:21.50,Dubtitles,,0,0,0,,Another 24 hours have passed.
-Dialogue: 0,0:14:21.98,0:14:23.58,Dubtitles,,0,0,0,,Caesar is now at 18 meters.
-Dialogue: 0,0:14:23.84,0:14:25.86,Dubtitles,,0,0,0,,And JoJo is at 16 meters.
-Dialogue: 0,0:14:26.08,0:14:29.00,Dubtitles,,0,0,0,,The rings will dissolve\Nin exactly 27 days.
+Dialogue: 0,0:14:08.40,0:14:12.06,Dubtitles,,0,0,0,,All I have to do from here\Non up is just climb and
+Dialogue: 0,0:14:12.14,0:14:14.96,Dubtitles,,0,0,0,,plot my revenge on that\Nso-called Hormone coach.
+Dialogue: 0,0:14:16.26,0:14:17.28,Dubtitles,,0,0,0,,JoJo's got it.
+Dialogue: 0,0:14:17.48,0:14:18.32,Dubtitles,,0,0,0,,Good for him.
+Dialogue: 0,0:14:19.36,0:14:21.50,Dubtitles,,0,0,0,,Another 24 hours have passed.
+Dialogue: 0,0:14:21.98,0:14:25.86,Dubtitles,,0,0,0,,Caesar is now at 18 meters,\Nand JoJo is at 16 meters.
+Dialogue: 0,0:14:26.06,0:14:29.00,Dubtitles,,0,0,0,,The rings will dissolve\Nin exactly 27 days.
 Dialogue: 1,0:14:26.42,0:14:29.84,Title2.1,,0,0,0,,{\fad(778,480)\bord3\blur2\pos(960,811)\fs69\fscx95}Days Until the Rings Dissolve: 27
-Dialogue: 1,0:14:26.42,0:14:29.84,Title2,,0,0,0,,{\fad(778,480)\be2\pos(960,811)\fs69\fscx95}Days Until the Rings Dissolve: 27
-Dialogue: 0,0:14:30.58,0:14:31.41,Dubtitles,,0,0,0,,Oh, boy.
-Dialogue: 0,0:14:31.72,0:14:36.43,Dubtitles,,0,0,0,,Now I can see why Caesar started to slow\Ndown so much once he got to this point.
-Dialogue: 0,0:14:36.70,0:14:40.00,Dubtitles,,0,0,0,,The pillar begins curving\Noutward here as it goes up.
-Dialogue: 0,0:14:40.28,0:14:42.46,Dubtitles,,0,0,0,,This is where things\Nare going to get tough.
-Dialogue: 0,0:14:42.54,0:14:45.60,Dubtitles,,0,0,0,,The pillar is as unforgiving\Nas that damn Lisa Lisa.
-Dialogue: 0,0:14:47.14,0:14:49.06,Dubtitles,,0,0,0,,It is now, three hours later.
-Dialogue: 0,0:14:49.50,0:14:51.00,Dubtitles,,0,0,0,,Caesar is at 19 meters.
-Dialogue: 0,0:14:51.44,0:14:52.84,Dubtitles,,0,0,0,,Jojo at 18 meters.
-Dialogue: 0,0:14:53.12,0:14:54.64,Dubtitles,,0,0,0,,Oh, is that a...
-Dialogue: 0,0:14:54.72,0:14:56.96,Dubtitles,,0,0,0,,Yes, it is. It's a crack.
-Dialogue: 0,0:14:57.14,0:14:59.90,Dubtitles,,0,0,0,,And it should be just big\Nenough for my fingers.
+Dialogue: 0,0:14:30.46,0:14:31.42,Dubtitles,,0,0,0,,Oh, boy.
+Dialogue: 0,0:14:31.70,0:14:36.41,Dubtitles,,0,0,0,,Now I can see why Caesar started to slow\Ndown so much once he got to this point.
+Dialogue: 0,0:14:36.66,0:14:40.00,Dubtitles,,0,0,0,,The pillar begins curving\Noutward here as it goes up.
+Dialogue: 0,0:14:40.28,0:14:42.72,Dubtitles,,0,0,0,,This is where things\Nare going to get tough.
+Dialogue: 0,0:14:42.80,0:14:45.86,Dubtitles,,0,0,0,,The pillar is as unforgiving\Nas that damn Lisa Lisa.
+Dialogue: 0,0:14:47.06,0:14:49.08,Dubtitles,,0,0,0,,It is now three hours later.
+Dialogue: 0,0:14:49.68,0:14:51.03,Dubtitles,,0,0,0,,Caesar is at 19 meters.
+Dialogue: 0,0:14:51.46,0:14:52.84,Dubtitles,,0,0,0,,Jojo is at 18 meters.
+Dialogue: 0,0:14:53.16,0:14:54.72,Dubtitles,,0,0,0,,Oh, is that a...
+Dialogue: 0,0:14:54.80,0:14:56.96,Dubtitles,,0,0,0,,Yes, it is. It's a crack.
+Dialogue: 0,0:14:57.16,0:14:59.88,Dubtitles,,0,0,0,,And it should be just big\Nenough for my fingers.
 Dialogue: 1,0:14:58.75,0:14:58.79,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(633.91,514.59)\c&H1E130D&}Shake
 Dialogue: 2,0:14:58.75,0:14:58.79,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(633.91,514.59)\4a&HFF&}Shake
 Dialogue: 1,0:14:58.79,0:14:58.83,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(638.11,514.2)\c&H1E130D&}Shake
@@ -7482,7 +7321,7 @@ Dialogue: 1,0:14:59.92,0:14:59.96,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\
 Dialogue: 2,0:14:59.92,0:14:59.96,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(815.44,443.85)\4a&HFF&}Shake
 Dialogue: 1,0:14:59.96,0:15:00.00,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(826.52,446.26)\c&H1E130D&}Shake
 Dialogue: 2,0:14:59.96,0:15:00.00,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(826.52,446.26)\4a&HFF&}Shake
-Dialogue: 0,0:14:59.98,0:15:00.86,Dubtitles,,0,0,0,,Thank goodness.
+Dialogue: 0,0:14:59.96,0:15:00.84,Dubtitles,,0,0,0,,Thank goodness.
 Dialogue: 1,0:15:00.00,0:15:00.04,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(831.33,439.8)\c&H1E130D&}Shake
 Dialogue: 2,0:15:00.00,0:15:00.04,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(831.33,439.8)\4a&HFF&}Shake
 Dialogue: 1,0:15:00.04,0:15:00.08,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(842.83,434.52)\c&H1E130D&}Shake
@@ -7537,7 +7376,7 @@ Dialogue: 1,0:15:01.04,0:15:01.08,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\
 Dialogue: 2,0:15:01.04,0:15:01.08,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(998.61,383.8)\4a&HFF&}Shake
 Dialogue: 1,0:15:01.08,0:15:01.13,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(1000.09,371.25)\c&H1E130D&}Shake
 Dialogue: 2,0:15:01.08,0:15:01.13,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(1000.09,371.25)\4a&HFF&}Shake
-Dialogue: 0,0:15:01.10,0:15:03.10,Dubtitles,,0,0,0,,Time for a well-earned break here.
+Dialogue: 0,0:15:01.08,0:15:03.08,Dubtitles,,0,0,0,,Time for a well-earned break here.
 Dialogue: 1,0:15:01.13,0:15:01.17,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(999.22,366.16)\c&H1E130D&}Shake
 Dialogue: 2,0:15:01.13,0:15:01.17,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(999.22,366.16)\4a&HFF&}Shake
 Dialogue: 1,0:15:01.17,0:15:01.21,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(1007.13,371.77)\c&H1E130D&}Shake
@@ -7664,8 +7503,8 @@ Dialogue: 1,0:15:03.67,0:15:03.71,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\
 Dialogue: 2,0:15:03.67,0:15:03.71,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(1402.65,216.76)\4a&HFF&}Shake
 Dialogue: 1,0:15:03.71,0:15:03.75,SFXCyan3,42,0,0,0,,{=145}{\blur1.1\alpha&H00&\frz8.613\pos(1405.73,215.8)\c&H1E130D&}Shake
 Dialogue: 2,0:15:03.71,0:15:03.75,SFXCyan3,42,0,0,0,,{=145}{\bord0\blur1.1\alpha&H00&\frz8.613\pos(1405.73,215.8)\4a&HFF&}Shake
-Dialogue: 0,0:15:04.76,0:15:06.38,Dubtitles,,0,0,0,,I can't believe my luck.
-Dialogue: 0,0:15:07.06,0:15:09.77,Dubtitles,,0,0,0,,Things are finally\Nstarting to look up for me.
+Dialogue: 0,0:15:04.68,0:15:06.40,Dubtitles,,0,0,0,,I can't believe my luck.
+Dialogue: 0,0:15:06.98,0:15:09.69,Dubtitles,,0,0,0,,Things are finally\Nstarting to look up for me.
 Dialogue: 1,0:15:09.88,0:15:09.93,SFXPurple6,43,0,0,0,,{=146}{\blur1.1\alpha&HFF&\frz42.47\pos(413.52,907.22)\c&H100806&}Press
 Dialogue: 2,0:15:09.88,0:15:09.93,SFXPurple6,43,0,0,0,,{=146}{\bord0\blur1.1\alpha&HFF&\frz42.47\pos(413.52,907.22)\4a&HFF&}Press
 Dialogue: 1,0:15:09.93,0:15:09.97,SFXPurple6,43,0,0,0,,{=146}{\blur1.1\alpha&HCC&\frz42.47\pos(413.52,918.06)\c&H100806&}Press
@@ -7704,10 +7543,10 @@ Dialogue: 1,0:15:10.59,0:15:10.63,SFXPurple6,43,0,0,0,,{=146}{\blur1.1\alpha&H8C
 Dialogue: 2,0:15:10.59,0:15:10.63,SFXPurple6,43,0,0,0,,{=146}{\bord0\blur1.1\alpha&H8C&\frz42.47\pos(377.53,855.2)\4a&HFF&}Press
 Dialogue: 1,0:15:10.63,0:15:10.68,SFXPurple6,43,0,0,0,,{=146}{\blur1.1\alpha&HBF&\frz42.47\pos(376.67,847.39)\c&H100806&}Press
 Dialogue: 2,0:15:10.63,0:15:10.68,SFXPurple6,43,0,0,0,,{=146}{\bord0\blur1.1\alpha&HBF&\frz42.47\pos(376.67,847.39)\4a&HFF&}Press
-Dialogue: 0,0:15:11.08,0:15:12.76,Dubtitles,,0,0,0,,Oh, no! What was that?
-Dialogue: 0,0:15:12.94,0:15:14.88,Dubtitles,,0,0,0,,It felt like some kind of switch.
-Dialogue: 0,0:15:16.38,0:15:17.80,Dubtitles,,0,0,0,,Did you feel that, Jojo?
-Dialogue: 0,0:15:18.00,0:15:20.64,Dubtitles,,0,0,0,,What's going on? What the? Oh, no.
+Dialogue: 0,0:15:10.98,0:15:12.76,Dubtitles,,0,0,0,,Oh, no! What was that?
+Dialogue: 0,0:15:12.94,0:15:14.88,Dubtitles,,0,0,0,,It felt like some kind of switch!
+Dialogue: 0,0:15:16.36,0:15:17.80,Dubtitles,,0,0,0,,Did you feel that, Jojo?
+Dialogue: 0,0:15:18.02,0:15:20.62,Dubtitles,,0,0,0,,What's going on? What the... Oh no!
 Dialogue: 1,0:15:18.81,0:15:18.85,SFXPurple7,44,0,0,0,,{=75}{\blur0.7\pos(963.54,15.78)\c&H26111B&}Rumble
 Dialogue: 2,0:15:18.81,0:15:18.85,SFXPurple7,44,0,0,0,,{=75}{\bord0\blur0.7\pos(963.54,15.78)\4a&HFF&}Rumble
 Dialogue: 1,0:15:18.85,0:15:18.89,SFXPurple7,44,0,0,0,,{=75}{\blur0.7\pos(963.54,15.78)\c&H26111B&}Rumble
@@ -7827,10 +7666,9 @@ Dialogue: 2,0:15:21.19,0:15:21.23,SFXPurple7,44,0,0,0,,{=75}{\bord0\blur0.7\pos(
 Dialogue: 1,0:15:21.23,0:15:21.27,SFXPurple7,44,0,0,0,,{=75}{\blur0.7\pos(953.92,13.44)\c&H26111B&}Rumble
 Dialogue: 2,0:15:21.23,0:15:21.27,SFXPurple7,44,0,0,0,,{=75}{\bord0\blur0.7\pos(953.92,13.44)\4a&HFF&}Rumble
 Dialogue: 0,0:15:21.78,0:15:24.58,Dubtitles,,0,0,0,,The Hellclimb Pillar only accepts Hormone.
-Dialogue: 0,0:15:24.72,0:15:26.36,Dubtitles,,0,0,0,,It refuses anything else.
+Dialogue: 0,0:15:24.74,0:15:26.36,Dubtitles,,0,0,0,,It refuses anything else.
 Dialogue: 0,0:15:27.76,0:15:28.59,Dubtitles,,0,0,0,,Watch out!
-Dialogue: 0,0:15:28.67,0:15:29.50,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:15:29.59,0:15:30.42,Dubtitles,,0,0,0,,Something's happening!
+Dialogue: 0,0:15:28.80,0:15:30.09,Dubtitles,,0,0,0,,Something's happening!
 Dialogue: 1,0:15:30.28,0:15:30.32,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord12\fscx130\fscy100\fade(255,0,255,0,0,1020,1170)\frz18.56\pos(617.47,205.07)\c&H41403F&}Boom
 Dialogue: 2,0:15:30.28,0:15:30.32,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord0\fscx130\fscy100\fade(255,0,255,0,0,1020,1170)\frz18.56\pos(617.47,205.07)\4a&HFF&}Boom
 Dialogue: 1,0:15:30.32,0:15:30.36,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord12.1\fscx131.07\fscy100.82\fade(255,0,255,-40,-40,980,1130)\frz18.56\pos(632.88,200.92)\c&H41403F&}Boom
@@ -7885,29 +7723,27 @@ Dialogue: 1,0:15:31.32,0:15:31.36,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord10.5
 Dialogue: 2,0:15:31.32,0:15:31.36,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord0\fscx113.91\fscy87.62\fade(255,0,255,-1040,-1040,-20,130)\frz18.56\pos(672.4,277.03)\4a&HFF&}Boom
 Dialogue: 1,0:15:31.36,0:15:31.41,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord12.41\fscx134.46\fscy103.43\fade(255,0,255,-1080,-1080,-60,90)\frz18.56\pos(624.1,211.77}Boom
 Dialogue: 1,0:15:31.41,0:15:31.45,SFXLavender,45,0,0,0,,{=183}{\blur1.2\bord11.67\fscx126.48\fscy97.29\fade(255,0,255,-1130,-1130,-110,40)\frz18.56\pos(600.48,268.67}Boom
-Dialogue: 0,0:15:32.24,0:15:33.07,Dubtitles,,0,0,0,,Not good.
+Dialogue: 0,0:15:32.18,0:15:33.01,Dubtitles,,0,0,0,,Not good.
 Dialogue: 0,0:15:33.18,0:15:35.77,Dubtitles,,0,0,0,,I must have tripped\Nsome sort of booby trap.
-Dialogue: 0,0:15:36.12,0:15:38.44,Dubtitles,,0,0,0,,This just went from\Ndifficult to impossible.
-Dialogue: 0,0:15:38.52,0:15:41.78,Dubtitles,,0,0,0,,How in the world are we supposed\Nto scale this thing now?
-Dialogue: 0,0:15:41.86,0:15:45.46,Dubtitles,,0,0,0,,An impenetrable sheet of oil shoots\Nout of the pillar at a deadly speed,
+Dialogue: 0,0:15:36.06,0:15:38.44,Dubtitles,,0,0,0,,This just went from\Ndifficult to impossible.
+Dialogue: 0,0:15:38.52,0:15:41.82,Dubtitles,,0,0,0,,How in the world are we supposed\Nto scale this thing now?
+Dialogue: 0,0:15:41.90,0:15:45.46,Dubtitles,,0,0,0,,An impenetrable sheet of oil shoots\Nout of the pillar at a deadly speed,
 Dialogue: 0,0:15:45.54,0:15:46.89,Dubtitles,,0,0,0,,near the 20-meter mark.
 Dialogue: 0,0:15:55.32,0:15:59.20,Dubtitles,,0,0,0,,That stream is so highly pressurized\Nthat it can cut like a razor!
-Dialogue: 0,0:16:00.14,0:16:00.97,Dubtitles,,0,0,0,,What?
-Dialogue: 0,0:16:01.05,0:16:02.50,Dubtitles,,0,0,0,,Stop looking at me like that!
+Dialogue: 0,0:16:00.48,0:16:01.31,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:16:01.39,0:16:02.50,Dubtitles,,0,0,0,,Stop looking at me like that!
 Dialogue: 0,0:16:02.58,0:16:03.52,Dubtitles,,0,0,0,,It was an accident!
 Dialogue: 0,0:16:03.60,0:16:04.95,Dubtitles,,0,0,0,,You can't be mad at me!
-Dialogue: 0,0:16:08.96,0:16:10.42,Dubtitles,,0,0,0,,Look, I'm sorry, okay?
-Dialogue: 0,0:16:10.72,0:16:12.66,Dubtitles,,0,0,0,,I was just trying to rest for a second.
-Dialogue: 0,0:16:12.74,0:16:14.68,Dubtitles,,0,0,0,,I did what any other sane\Nperson would have done.
-Dialogue: 0,0:16:14.76,0:16:18.94,Dubtitles,,0,0,0,,Whatever madman designed this\Ndiabolical thing, set that up as a trap.
-Dialogue: 0,0:16:19.80,0:16:22.27,Dubtitles,,0,0,0,,I wasn't giving you a look of blame, Jojo.
-Dialogue: 0,0:16:22.56,0:16:24.44,Dubtitles,,0,0,0,,I was giving you one of concern.
-Dialogue: 0,0:16:25.14,0:16:27.78,Dubtitles,,0,0,0,,I'm not even sure if\NI can focus my hormone
-Dialogue: 0,0:16:27.86,0:16:30.45,Dubtitles,,0,0,0,,enough to get through\Nthat oil in one piece.
-Dialogue: 0,0:16:31.26,0:16:32.84,Dubtitles,,0,0,0,,There is one way up!
-Dialogue: 0,0:16:35.42,0:16:36.58,Dubtitles,,0,0,0,,Whoa, what the?
-Dialogue: 0,0:16:38.84,0:16:41.31,Dubtitles,,0,0,0,,He's sticking to the pillow with his feet!
-Dialogue: 0,0:16:47.48,0:16:48.31,Dubtitles,,0,0,0,,Caesar!
+Dialogue: 0,0:16:08.90,0:16:13.84,Dubtitles,,0,0,0,,look i'm sorry okay i was just trying to\Nrest for a second i did what any other sane
+Dialogue: 0,0:16:13.92,0:16:16.44,Dubtitles,,0,0,0,,person would have done\Nwhatever madman designed
+Dialogue: 0,0:16:16.52,0:16:19.05,Dubtitles,,0,0,0,,this diabolical thing\Nset that up as a trap
+Dialogue: 0,0:16:19.78,0:16:22.82,Dubtitles,,0,0,0,,i wasn't giving you a look of blame jojo i
+Dialogue: 0,0:16:22.90,0:16:26.20,Dubtitles,,0,0,0,,was giving you one of\Nconcern i'm not even sure
+Dialogue: 0,0:16:26.28,0:16:28.52,Dubtitles,,0,0,0,,if i can focus my hormone\Nenough to get through
+Dialogue: 0,0:16:28.60,0:16:32.84,Dubtitles,,0,0,0,,that oil in one piece there is one way up
+Dialogue: 0,0:16:35.36,0:16:36.58,Dubtitles,,0,0,0,,Whoa, what the?
+Dialogue: 0,0:16:38.80,0:16:41.27,Dubtitles,,0,0,0,,He's sticking with his feet.
+Dialogue: 0,0:16:47.52,0:16:48.35,Dubtitles,,0,0,0,,Caesar!
 Dialogue: 1,0:16:49.32,0:16:49.36,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(964.32,16.4)\alpha&HFF&\t(0,1,\alpha&H80&)\t(10379,10380,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:49.32,0:16:49.36,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(964.32,16.4)\alpha&HFF&\t(0,1,\alpha&H00&)\t(10379,10380,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:49.32,0:16:49.36,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(964.32,16.4)\alpha&HFF&\t(0,1,\alpha&H00&)\t(10379,10380,\alpha&HFF&)\4a&HFF&}Crackle
@@ -7959,10 +7795,10 @@ Dialogue: 3,0:16:49.94,0:16:49.98,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(95
 Dialogue: 1,0:16:49.98,0:16:50.03,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(954.48,14.08)\alpha&HFF&\alpha&H80&\t(9719,9720,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:49.98,0:16:50.03,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(954.48,14.08)\alpha&HFF&\alpha&H00&\t(9719,9720,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:49.98,0:16:50.03,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(954.48,14.08)\alpha&HFF&\alpha&H00&\t(9719,9720,\alpha&HFF&)\4a&HFF&}Crackle
-Dialogue: 0,0:16:50.00,0:16:52.14,Dubtitles,,0,0,0,,Harmon to attract and repel!
 Dialogue: 1,0:16:50.03,0:16:50.07,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(963.44,27.6)\alpha&HFF&\alpha&H80&\t(9679,9680,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:50.03,0:16:50.07,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(963.44,27.6)\alpha&HFF&\alpha&H00&\t(9679,9680,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:50.03,0:16:50.07,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(963.44,27.6)\alpha&HFF&\alpha&H00&\t(9679,9680,\alpha&HFF&)\4a&HFF&}Crackle
+Dialogue: 0,0:16:50.04,0:16:52.14,Dubtitles,,0,0,0,,Harmon to attract and repel.
 Dialogue: 1,0:16:50.07,0:16:50.11,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(961.76,20.72)\alpha&HFF&\alpha&H80&\t(9629,9630,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:50.07,0:16:50.11,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(961.76,20.72)\alpha&HFF&\alpha&H00&\t(9629,9630,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:50.07,0:16:50.11,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(961.76,20.72)\alpha&HFF&\alpha&H00&\t(9629,9630,\alpha&HFF&)\4a&HFF&}Crackle
@@ -8164,10 +8000,10 @@ Dialogue: 3,0:16:52.78,0:16:52.82,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(95
 Dialogue: 1,0:16:52.82,0:16:52.86,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(958.48,24.48)\alpha&HFF&\alpha&H80&\t(6879,6880,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:52.82,0:16:52.86,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(958.48,24.48)\alpha&HFF&\alpha&H00&\t(6879,6880,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:52.82,0:16:52.86,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(958.48,24.48)\alpha&HFF&\alpha&H00&\t(6879,6880,\alpha&HFF&)\4a&HFF&}Crackle
-Dialogue: 0,0:16:52.84,0:16:55.92,Dubtitles,,0,0,0,,My Harmon is now focused through\Nmy feet to keep me on the
 Dialogue: 1,0:16:52.86,0:16:52.90,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(958.48,26.56)\alpha&HFF&\alpha&H80&\t(6839,6840,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:52.86,0:16:52.90,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(958.48,26.56)\alpha&HFF&\alpha&H00&\t(6839,6840,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:52.86,0:16:52.90,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(958.48,26.56)\alpha&HFF&\alpha&H00&\t(6839,6840,\alpha&HFF&)\4a&HFF&}Crackle
+Dialogue: 0,0:16:52.88,0:16:55.92,Dubtitles,,0,0,0,,My harmon has now focused\Nthrough my feet to keep me on the
 Dialogue: 1,0:16:52.90,0:16:52.95,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(955.92,22.56)\alpha&HFF&\alpha&H80&\t(6799,6800,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:52.90,0:16:52.95,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(955.92,22.56)\alpha&HFF&\alpha&H00&\t(6799,6800,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:52.90,0:16:52.95,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(955.92,22.56)\alpha&HFF&\alpha&H00&\t(6799,6800,\alpha&HFF&)\4a&HFF&}Crackle
@@ -8393,7 +8229,7 @@ Dialogue: 3,0:16:55.95,0:16:55.99,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(96
 Dialogue: 1,0:16:55.99,0:16:56.03,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(952.4,26.48)\alpha&HFF&\alpha&H80&\t(3709,3710,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:55.99,0:16:56.03,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(952.4,26.48)\alpha&HFF&\alpha&H00&\t(3709,3710,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:55.99,0:16:56.03,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(952.4,26.48)\alpha&HFF&\alpha&H00&\t(3709,3710,\alpha&HFF&)\4a&HFF&}Crackle
-Dialogue: 0,0:16:56.00,0:16:59.77,Dubtitles,,0,0,0,,pillar and in my hands to protect\Nme as I break through the oil!
+Dialogue: 0,0:16:56.00,0:16:59.77,Dubtitles,,0,0,0,,pillar and in my hands to protect\Nme as I break through the oil.
 Dialogue: 1,0:16:56.03,0:16:56.07,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(958.72,16)\alpha&HFF&\alpha&H80&\t(3669,3670,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:56.03,0:16:56.07,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(958.72,16)\alpha&HFF&\alpha&H00&\t(3669,3670,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:56.03,0:16:56.07,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(958.72,16)\alpha&HFF&\alpha&H00&\t(3669,3670,\alpha&HFF&)\4a&HFF&}Crackle
@@ -8655,14 +8491,16 @@ Dialogue: 3,0:16:59.58,0:16:59.62,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(95
 Dialogue: 1,0:16:59.62,0:16:59.66,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\blur15\pos(955.28,22.96)\alpha&HFF&\alpha&H80&\t(79,80,\alpha&HFF&)}Crackle
 Dialogue: 2,0:16:59.62,0:16:59.66,SFXOang4,47,0,0,0,,{=80}{\3c&H172025&\c&H172025&\blur1.2\pos(955.28,22.96)\alpha&HFF&\alpha&H00&\t(79,80,\alpha&HFF&)}Crackle
 Dialogue: 3,0:16:59.62,0:16:59.66,SFXOang4,47,0,0,0,,{=80}{\bord0\blur1.2\pos(955.28,22.96)\alpha&HFF&\alpha&H00&\t(79,80,\alpha&HFF&)\4a&HFF&}Crackle
-Dialogue: 0,0:17:00.06,0:17:04.88,Dubtitles,,0,0,0,,I must stay focused to control the two\Nopposing types of Harmon simultaneously!
-Dialogue: 0,0:17:12.18,0:17:13.34,Dubtitles,,0,0,0,,I did it!
-Dialogue: 0,0:17:13.42,0:17:15.06,Dubtitles,,0,0,0,,I hate to say it,
-Dialogue: 0,0:17:15.20,0:17:19.79,Dubtitles,,0,0,0,,but Jojo isn't even close to being able\Nto control two types of Hamon at once.
-Dialogue: 0,0:17:20.24,0:17:22.53,Dubtitles,,0,0,0,,There's no way he can get through that.
-Dialogue: 0,0:17:23.48,0:17:25.18,Dubtitles,,0,0,0,,That was amazing.
-Dialogue: 0,0:17:25.52,0:17:28.92,Dubtitles,,0,0,0,,I'm glad Caesar was able to find\Nhis way through the oil somehow,
-Dialogue: 0,0:17:29.00,0:17:32.41,Dubtitles,,0,0,0,,but there's no way I can pull\Noff a Hamon stunt like that.
+Dialogue: 0,0:17:00.06,0:17:04.82,Dubtitles,,0,0,0,,I must stay focused to control the two\Nopposing types of Hormone simultaneously!
+Dialogue: 0,0:17:12.16,0:17:13.42,Dubtitles,,0,0,0,,I did it!
+Dialogue: 0,0:17:13.64,0:17:15.06,Dubtitles,,0,0,0,,I hate to say it,
+Dialogue: 0,0:17:15.24,0:17:19.95,Dubtitles,,0,0,0,,but Jojo isn't even close to being able\Nto control two types of Hamon at once!
+Dialogue: 0,0:17:20.24,0:17:22.53,Dubtitles,,0,0,0,,There's no way he can get through that!
+Dialogue: 0,0:17:23.48,0:17:24.31,Dubtitles,,0,0,0,,What?
+Dialogue: 0,0:17:24.39,0:17:25.22,Dubtitles,,0,0,0,,That...
+Dialogue: 0,0:17:25.31,0:17:26.14,Dubtitles,,0,0,0,,that was amazing!
+Dialogue: 0,0:17:26.22,0:17:28.98,Dubtitles,,0,0,0,,I'm glad Caesar was able to find\Nhis way through the oil somehow,
+Dialogue: 0,0:17:29.06,0:17:32.59,Dubtitles,,0,0,0,,but there's no way I can pull\Noff a hormone stunt like that.
 Dialogue: 1,0:17:32.07,0:17:32.11,SFXYellow5,48,0,0,0,,{=152}{\blur0.8\alpha&HFF&\frz1.185\org(942.726,-24.875)\pos(942.726,-24.875)\c&H232C2A&}Rumble
 Dialogue: 2,0:17:32.07,0:17:32.11,SFXYellow5,48,0,0,0,,{=152}{\bord0\blur0.8\alpha&HFF&\frz1.185\org(942.726,-24.875)\pos(942.726,-24.875)\4a&HFF&}Rumble
 Dialogue: 1,0:17:32.11,0:17:32.15,SFXYellow5,48,0,0,0,,{=152}{\blur0.8\alpha&HF2&\frz1.185\org(942.756,-24.875)\pos(942.756,-24.875)\c&H232C2A&}Rumble
@@ -8829,17 +8667,16 @@ Dialogue: 1,0:17:35.45,0:17:35.49,SFXYellow5,48,0,0,0,,{=152}{\blur0.8\alpha&H00
 Dialogue: 2,0:17:35.45,0:17:35.49,SFXYellow5,48,0,0,0,,{=152}{\bord0\blur0.8\alpha&H00&\frz1.185\org(944.843,-25.434)\pos(944.843,-25.434)\4a&HFF&}Rumble
 Dialogue: 1,0:17:35.49,0:17:35.53,SFXYellow5,48,0,0,0,,{=152}{\blur0.8\alpha&H00&\frz1.185\org(947.156,-23.546)\pos(947.156,-23.546)\c&H232C2A&}Rumble
 Dialogue: 2,0:17:35.49,0:17:35.53,SFXYellow5,48,0,0,0,,{=152}{\bord0\blur0.8\alpha&H00&\frz1.185\org(947.156,-23.546)\pos(947.156,-23.546)\4a&HFF&}Rumble
-Dialogue: 0,0:17:35.70,0:17:37.16,Dubtitles,,0,0,0,,Nine hours later.
-Dialogue: 0,0:17:42.62,0:17:43.58,Dubtitles,,0,0,0,,He's done it.
+Dialogue: 0,0:17:35.72,0:17:37.52,Dubtitles,,0,0,0,,Nine hours later...
+Dialogue: 0,0:17:42.62,0:17:43.56,Dubtitles,,0,0,0,,He's done it!
 Dialogue: 1,0:17:42.62,0:17:46.37,Title2.1,,0,0,0,,{\bord3\blur2\pos(960,811)\fs69\fscx95\fad(613,0)}Caesar Reaches the Top: 61 Hours
-Dialogue: 1,0:17:42.62,0:17:46.37,Title2,,0,0,0,,{\be2\pos(960,811)\fs69\fscx95\fad(613,0)}Caesar Reaches the Top: 61 Hours
-Dialogue: 0,0:17:43.92,0:17:46.44,Dubtitles,,0,0,0,,Caesar reaches the top after 61 hours.
-Dialogue: 0,0:17:48.84,0:17:49.78,Dubtitles,,0,0,0,,Please, coach.
-Dialogue: 0,0:17:50.12,0:17:51.72,Dubtitles,,0,0,0,,Jojo can't make it through that.
-Dialogue: 0,0:17:51.80,0:17:54.09,Dubtitles,,0,0,0,,You've got to turn off the oil for him.
-Dialogue: 0,0:17:54.42,0:17:56.66,Dubtitles,,0,0,0,,The man has no patience at all.
-Dialogue: 0,0:17:56.92,0:18:01.12,Dubtitles,,0,0,0,,He'll undoubtedly try some stupid\NTarot stunt any second now.
-Dialogue: 0,0:18:01.30,0:18:03.02,Dubtitles,,0,0,0,,And he'll fail.
+Dialogue: 0,0:17:43.74,0:17:46.42,Dubtitles,,0,0,0,,Caesar reaches the top after 61 hours!
+Dialogue: 0,0:17:48.84,0:17:49.78,Dubtitles,,0,0,0,,Please, Coach!
+Dialogue: 0,0:17:50.10,0:17:51.44,Dubtitles,,0,0,0,,Jojo can't make it through that!
+Dialogue: 0,0:17:51.52,0:17:53.81,Dubtitles,,0,0,0,,You've got to turn off the oil for him!
+Dialogue: 0,0:17:54.50,0:17:56.66,Dubtitles,,0,0,0,,The man has no patience at all!
+Dialogue: 0,0:17:56.90,0:18:01.10,Dubtitles,,0,0,0,,He'll undoubtedly try some stupid\NTarot stunt any second now!
+Dialogue: 0,0:18:01.36,0:18:03.00,Dubtitles,,0,0,0,,And he'll fail!
 Dialogue: 1,0:18:04.56,0:18:04.60,SFXYellow6,48.5,0,0,0,,{=164}{\blur1\alpha&H00&\frz10.57\pos(257.2,384)\c&H2A3841&}R
 Dialogue: 2,0:18:04.56,0:18:04.60,SFXYellow6,48.5,0,0,0,,{=164}{\bord0\blur1\alpha&H00&\frz10.57\pos(257.2,384)\4a&HFF&}R
 Dialogue: 1,0:18:04.56,0:18:04.60,SFXYellow6,48.5,0,0,0,,{=163}{\blur1\alpha&H00&\frz10.57\pos(282.8,459.2)\c&H2A3841&}u
@@ -9969,17 +9806,17 @@ Dialogue: 1,0:18:08.44,0:18:08.48,SFXYellow6,48.5,0,0,0,,{=160}{\blur1\alpha&HE6
 Dialogue: 2,0:18:08.44,0:18:08.48,SFXYellow6,48.5,0,0,0,,{=160}{\bord0\blur1\alpha&HE6&\frz10.57\pos(344.23,751.64)\4a&HFF&}l
 Dialogue: 1,0:18:08.44,0:18:08.48,SFXYellow6,48.5,0,0,0,,{=159}{\blur1\alpha&HE6&\frz10.57\pos(337.83,841.24)\c&H2A3841&}e
 Dialogue: 2,0:18:08.44,0:18:08.48,SFXYellow6,48.5,0,0,0,,{=159}{\bord0\blur1\alpha&HE6&\frz10.57\pos(337.83,841.24)\4a&HFF&}e
-Dialogue: 0,0:18:09.04,0:18:10.92,Dubtitles,,0,0,0,,You've got to turn that oil off.
-Dialogue: 0,0:18:11.14,0:18:15.26,Dubtitles,,0,0,0,,If he tries to break through it, the\Noil will end up cutting him in half.
+Dialogue: 0,0:18:09.04,0:18:10.92,Dubtitles,,0,0,0,,You've got to turn that oil off!
+Dialogue: 0,0:18:11.16,0:18:15.26,Dubtitles,,0,0,0,,If he tries to break through it, the\Noil will end up cutting him in half!
 Dialogue: 0,0:18:15.34,0:18:17.93,Dubtitles,,0,0,0,,And even if he's just\Nblasted to the ground,
-Dialogue: 0,0:18:18.02,0:18:20.49,Dubtitles,,0,0,0,,he'll end up starving to death down there.
-Dialogue: 0,0:18:22.26,0:18:23.20,Dubtitles,,0,0,0,,Coach, please!
-Dialogue: 0,0:18:23.84,0:18:24.96,Dubtitles,,0,0,0,,To hell with it!
+Dialogue: 0,0:18:18.04,0:18:20.51,Dubtitles,,0,0,0,,he'll end up starving to death down there!
+Dialogue: 0,0:18:22.22,0:18:23.18,Dubtitles,,0,0,0,,Coach, please!
+Dialogue: 0,0:18:23.80,0:18:24.96,Dubtitles,,0,0,0,,To hell with it!
 Dialogue: 0,0:18:25.12,0:18:26.71,Dubtitles,,0,0,0,,I'll make it or die trying!
-Dialogue: 0,0:18:26.90,0:18:27.96,Dubtitles,,0,0,0,,Here goes nothing!
-Dialogue: 0,0:18:28.88,0:18:29.90,Dubtitles,,0,0,0,,Jojo, don't!
-Dialogue: 0,0:18:30.00,0:18:31.42,Dubtitles,,0,0,0,,Just stay right where you are!
-Dialogue: 0,0:18:31.50,0:18:35.27,Dubtitles,,0,0,0,,I can use the strength of my\NHormone to get me out of this, too!
+Dialogue: 0,0:18:26.88,0:18:27.94,Dubtitles,,0,0,0,,Here goes nothing!
+Dialogue: 0,0:18:28.82,0:18:29.90,Dubtitles,,0,0,0,,Jojo, don't!
+Dialogue: 0,0:18:30.04,0:18:31.58,Dubtitles,,0,0,0,,Just stay right where you are!
+Dialogue: 0,0:18:31.66,0:18:35.37,Dubtitles,,0,0,0,,I can use the strength of my\Nhormone to get me out of this too!
 Dialogue: 1,0:18:34.88,0:18:34.92,SFXFire2,49,0,0,0,,{=167}{\blur8\bord12.53\alpha&H80&\frz9.648\fscx137\fscy195\pos(624.057,-8.673)}W{*\c&H3BBAE8&}h{*\c&H3698EC&}o{*\c&H3276F0&}o{\c&H2E55F3&}m {Kizamuze! Hamon no Beato!} { {Used in final episode flashback}
 Dialogue: 2,0:18:34.88,0:18:34.92,SFXFire2,49,0,0,0,,{=167}{\blur0.6\bord12.53\alpha&H00&\frz9.648\fscx137\fscy195\pos(624.057,-8.673)\c&H11303E&}Whoom {Used in final episode flashback}
 Dialogue: 3,0:18:34.88,0:18:34.92,SFXFire2,49,0,0,0,,{=167}{\blur0.6\bord0\alpha&H00&\frz9.648\fscx137\fscy195\pos(624.057,-8.673)\4a&HFF&}W{*\c&H3BBAE8&}h{*\c&H3698EC&}o{*\c&H3276F0&}o{\c&H2E55F3&}m {Used in final episode flashback}
@@ -10061,12 +9898,12 @@ Dialogue: 3,0:18:35.92,0:18:35.96,SFXFire2,49,0,0,0,,{=167}{\blur0.6\bord0\fscx1
 Dialogue: 1,0:18:35.96,0:18:36.01,SFXFire2,49,0,0,0,,{=167}{\blur8\bord8.2\fscx133.29\fscy102.53\alpha&H80&\frz9.648\pos(183.47,78.25)}W{*\c&H3BBAE8&}h{*\c&H3698EC&}o{*\c&H3276F0&}o{\c&H2E55F3&}m {Used in final episode flashback}
 Dialogue: 2,0:18:35.96,0:18:36.01,SFXFire2,49,0,0,0,,{=167}{\blur0.6\bord8.2\fscx133.29\fscy102.53\alpha&H00&\frz9.648\pos(183.47,78.25)\c&H11303E&}Whoom {Used in final episode flashback}
 Dialogue: 3,0:18:35.96,0:18:36.01,SFXFire2,49,0,0,0,,{=167}{\blur0.6\bord0\fscx133.29\fscy102.53\alpha&H00&\frz9.648\pos(183.47,78.25)\4a&HFF&}W{*\c&H3BBAE8&}h{*\c&H3698EC&}o{*\c&H3276F0&}o{\c&H2E55F3&}m {Used in final episode flashback}
-Dialogue: 0,0:18:41.86,0:18:42.69,Dubtitles,,0,0,0,,Jojo!
-Dialogue: 0,0:18:46.06,0:18:47.02,Dubtitles,,0,0,0,,Look at that!
-Dialogue: 0,0:18:47.30,0:18:48.48,Dubtitles,,0,0,0,,I don't believe it!
-Dialogue: 0,0:18:48.68,0:18:52.50,Dubtitles,,0,0,0,,He's using his Hormone to slide\Nalong the plane of the oil sheet!
-Dialogue: 0,0:18:52.86,0:18:55.80,Dubtitles,,0,0,0,,The oil loses its speed\Nthe farther it shoots out!
-Dialogue: 0,0:18:55.96,0:18:57.73,Dubtitles,,0,0,0,,I'll have to launch from here!
+Dialogue: 0,0:18:41.96,0:18:42.79,Dubtitles,,0,0,0,,Jojo!
+Dialogue: 0,0:18:46.04,0:18:47.02,Dubtitles,,0,0,0,,Look at that!
+Dialogue: 0,0:18:47.30,0:18:48.40,Dubtitles,,0,0,0,,I don't believe it!
+Dialogue: 0,0:18:48.48,0:18:52.30,Dubtitles,,0,0,0,,He's using his Hamon to slide\Nalong the plane of the oil sheet.
+Dialogue: 0,0:18:52.90,0:18:55.84,Dubtitles,,0,0,0,,The oil loses its speed\Nthe farther it shoots out.
+Dialogue: 0,0:18:56.00,0:18:57.77,Dubtitles,,0,0,0,,I'll have to launch from here.
 Dialogue: 1,0:18:57.32,0:18:57.36,SFXOang5,50,0,0,0,,{=168}{\blur5\bord13.99\fscx227.31\fscy174.86\alpha&H80&\frz3.443\pos(1849.94,620.19)}Push
 Dialogue: 2,0:18:57.32,0:18:57.36,SFXOang5,50,0,0,0,,{=168}{\blur1\bord13.99\fscx227.31\fscy174.86\alpha&H00&\frz3.443\pos(1849.94,620.19)\c&H0E1825&}Push
 Dialogue: 3,0:18:57.32,0:18:57.36,SFXOang5,50,0,0,0,,{=168}{\blur1\bord0\fscx227.31\fscy174.86\alpha&H00&\frz3.443\pos(1849.94,620.19)\4a&HFF&}Push
@@ -10202,18 +10039,19 @@ Dialogue: 3,0:18:59.11,0:18:59.15,SFXOang5,50,0,0,0,,{=168}{\blur1\bord0\fscx128
 Dialogue: 1,0:18:59.15,0:18:59.20,SFXOang5,50,0,0,0,,{=168}{\blur5\bord8.07\fscx131.13\fscy100.87\alpha&H80&\frz3.443\pos(1404.72,618.35)}Push
 Dialogue: 2,0:18:59.15,0:18:59.20,SFXOang5,50,0,0,0,,{=168}{\blur1\bord8.07\fscx131.13\fscy100.87\alpha&H00&\frz3.443\pos(1404.72,618.35)\c&H0E1825&}Push
 Dialogue: 3,0:18:59.15,0:18:59.20,SFXOang5,50,0,0,0,,{=168}{\blur1\bord0\fscx131.13\fscy100.87\alpha&H00&\frz3.443\pos(1404.72,618.35)\4a&HFF&}Push
-Dialogue: 0,0:19:09.78,0:19:14.60,Dubtitles,,0,0,0,,He actually used the momentum of the oil\Nto whip himself up and over the top of it.
-Dialogue: 0,0:19:14.68,0:19:15.78,Dubtitles,,0,0,0,,He didn't fall.
-Dialogue: 0,0:19:16.00,0:19:19.26,Dubtitles,,0,0,0,,In fact, it looks like he made\Nit up a whole three meters.
-Dialogue: 0,0:19:19.34,0:19:23.40,Dubtitles,,0,0,0,,I've never seen anyone ascend the\Nhell climb pillar like that before.
+Dialogue: 0,0:19:09.82,0:19:14.42,Dubtitles,,0,0,0,,He actually used the momentum of the oil\Nto whip himself up and over the top of it.
+Dialogue: 0,0:19:14.50,0:19:15.78,Dubtitles,,0,0,0,,He didn't fall.
+Dialogue: 0,0:19:16.02,0:19:19.26,Dubtitles,,0,0,0,,In fact, it looks like he made\Nit up a whole three meters.
+Dialogue: 0,0:19:19.34,0:19:23.34,Dubtitles,,0,0,0,,I've never seen anyone ascend the\NHellclimb pillar like that before.
 Dialogue: 0,0:19:23.56,0:19:27.80,Dubtitles,,0,0,0,,He did it by turning his weakness\Ninto a strength that was quite clever.
-Dialogue: 0,0:19:28.26,0:19:30.90,Dubtitles,,0,0,0,,I made it, kind of anyway.
-Dialogue: 0,0:19:31.50,0:19:33.79,Dubtitles,,0,0,0,,I'm on the wall, but it's not over yet.
-Dialogue: 0,0:19:34.00,0:19:38.71,Dubtitles,,0,0,0,,This overhang here is even worse than the\None that was on the pillar down below.
-Dialogue: 0,0:19:42.52,0:19:44.44,Dubtitles,,0,0,0,,I don't have anything left.
-Dialogue: 0,0:19:44.84,0:19:48.48,Dubtitles,,0,0,0,,I've just got one more\Nmeter to go. Damn it!
-Dialogue: 0,0:19:48.88,0:19:52.62,Dubtitles,,0,0,0,,I can't control my breathing any longer.
-Dialogue: 0,0:19:53.16,0:19:55.48,Dubtitles,,0,0,0,,I'm slipping. No!
+Dialogue: 0,0:19:28.32,0:19:30.90,Dubtitles,,0,0,0,,I made it, kind of anyway.
+Dialogue: 0,0:19:31.32,0:19:33.74,Dubtitles,,0,0,0,,I'm on the wall, but it's not over yet.
+Dialogue: 0,0:19:34.04,0:19:38.75,Dubtitles,,0,0,0,,This overhang here is even worse than the\None that was on the pillar down below.
+Dialogue: 0,0:19:42.36,0:19:44.44,Dubtitles,,0,0,0,,I don't have anything left.
+Dialogue: 0,0:19:44.78,0:19:48.48,Dubtitles,,0,0,0,,I've just got one more\Nmeter to go. Damn it!
+Dialogue: 0,0:19:48.74,0:19:52.62,Dubtitles,,0,0,0,,I can't control my breathing any longer.
+Dialogue: 0,0:19:53.16,0:19:54.56,Dubtitles,,0,0,0,,I'm slipping.
+Dialogue: 0,0:19:55.08,0:19:55.91,Dubtitles,,0,0,0,,No!
 Dialogue: 1,0:19:55.63,0:19:55.67,SFXOang6,51,0,0,0,,{=169}{\blur0.6\alpha&H00&\pos(258,126.67)\frz18.26\c&H080D0E&}Slip
 Dialogue: 2,0:19:55.63,0:19:55.67,SFXOang6,51,0,0,0,,{=169}{\bord0\blur0.6\alpha&H00&\pos(258,126.67)\frz18.26\4a&HFF&}Slip
 Dialogue: 1,0:19:55.67,0:19:55.71,SFXOang6,51,0,0,0,,{=169}{\blur0.6\alpha&H00&\pos(256.7,113.61)\frz18.26\c&H080D0E&}Slip
@@ -10334,74 +10172,71 @@ Dialogue: 3,0:19:59.51,0:19:59.55,SFXTeal,52,0,0,0,,{=170}{\blur1\bord0\fscx99.0
 Dialogue: 1,0:19:59.55,0:19:59.59,SFXTeal,52,0,0,0,,{=170}{\blur4\bord7.21\fscx99.14\fscy90.12\alpha&HDD&\frz346\pos(1441.2,228.59)}Grab
 Dialogue: 2,0:19:59.55,0:19:59.59,SFXTeal,52,0,0,0,,{=170}{\blur1\bord7.21\fscx99.14\fscy90.12\alpha&HDD&\frz346\pos(1441.2,228.59)\c&H15221A&}Grab
 Dialogue: 3,0:19:59.55,0:19:59.59,SFXTeal,52,0,0,0,,{=170}{\blur1\bord0\fscx99.14\fscy90.12\alpha&HDD&\frz346\pos(1441.2,228.59)\4a&HFF&}Grab
-Dialogue: 0,0:20:00.74,0:20:01.57,Dubtitles,,0,0,0,,Caesar!
-Dialogue: 0,0:20:01.70,0:20:03.52,Dubtitles,,0,0,0,,Let me set the record straight.
-Dialogue: 0,0:20:03.72,0:20:05.96,Dubtitles,,0,0,0,,I was not mad at you earlier, Jojo.
-Dialogue: 0,0:20:06.92,0:20:11.90,Dubtitles,,0,0,0,,I'm sorry, forgive me, coach, but I just\Ncouldn't let Jojo go down like that.
-Dialogue: 0,0:20:13.82,0:20:15.36,Dubtitles,,0,0,0,,I suppose I understand,
-Dialogue: 0,0:20:15.60,0:20:18.82,Dubtitles,,0,0,0,,Caesar, although I'm surprised you\Nhave any strength left yourself.
-Dialogue: 0,0:20:18.90,0:20:20.24,Dubtitles,,0,0,0,,Oh, I forgot!
-Dialogue: 0,0:20:20.54,0:20:22.78,Dubtitles,,0,0,0,,I could really use your other arm here!
-Dialogue: 0,0:20:22.86,0:20:24.10,Dubtitles,,0,0,0,,Don't let me go!
-Dialogue: 0,0:20:24.72,0:20:25.55,Dubtitles,,0,0,0,,Caesar!
-Dialogue: 0,0:20:27.08,0:20:31.54,Dubtitles,,0,0,0,,Ten seconds later, and after saying\Ndon't let me go another 13 times,
+Dialogue: 0,0:20:00.64,0:20:01.47,Dubtitles,,0,0,0,,Caesar!
+Dialogue: 0,0:20:01.72,0:20:03.54,Dubtitles,,0,0,0,,Let me set the record straight.
+Dialogue: 0,0:20:03.76,0:20:06.00,Dubtitles,,0,0,0,,I wasn't mad at you earlier, Jojo.
+Dialogue: 0,0:20:06.92,0:20:07.82,Dubtitles,,0,0,0,,I'm sorry.
+Dialogue: 0,0:20:08.14,0:20:12.02,Dubtitles,,0,0,0,,Forgive me, coach, but I just\Ncouldn't let Jojo go down like that.
+Dialogue: 0,0:20:13.82,0:20:15.82,Dubtitles,,0,0,0,,I suppose I understand, Caesar,
+Dialogue: 0,0:20:16.10,0:20:19.38,Dubtitles,,0,0,0,,although I'm surprised you have\Nany strength left yourself.
+Dialogue: 0,0:20:19.46,0:20:20.80,Dubtitles,,0,0,0,,Oh, I forgot!
+Dialogue: 0,0:20:21.12,0:20:23.38,Dubtitles,,0,0,0,,I could really use your other arm here!
+Dialogue: 0,0:20:23.46,0:20:25.28,Dubtitles,,0,0,0,,Don't let me go! Caesar!
+Dialogue: 0,0:20:27.00,0:20:31.52,Dubtitles,,0,0,0,,Ten seconds later, and after saying,\Ndon't let me go another 13 times,
 Dialogue: 1,0:20:27.45,0:20:33.71,Title2.1,,0,0,0,,{\bord3\blur2\pos(960,811)\fs69\fscx95\fad(778,480)}JoJo Reaches the Top: 61 Hours and 9 Minutes
-Dialogue: 1,0:20:27.45,0:20:33.71,Title2,,0,0,0,,{\be2\pos(960,811)\fs69\fscx95\fad(778,480)}Jojo Reaches the Top: 61 Hours and 9 Minutes
-Dialogue: 0,0:20:31.86,0:20:33.10,Dubtitles,,0,0,0,,Jojo reaches the top.
-Dialogue: 0,0:20:35.26,0:20:36.66,Dubtitles,,0,0,0,,Hello again, coach.
-Dialogue: 0,0:20:37.18,0:20:39.42,Dubtitles,,0,0,0,,I bet you thought I was done for, huh?
-Dialogue: 0,0:20:40.24,0:20:43.64,Dubtitles,,0,0,0,,I want you to know that while I was\Nclinging to that pillar for dear life,
-Dialogue: 0,0:20:43.72,0:20:45.04,Dubtitles,,0,0,0,,I had time to think to myself,
+Dialogue: 0,0:20:31.84,0:20:33.08,Dubtitles,,0,0,0,,Jojo reaches the top!
+Dialogue: 0,0:20:35.26,0:20:36.68,Dubtitles,,0,0,0,,Hello again, coach.
+Dialogue: 0,0:20:37.20,0:20:39.44,Dubtitles,,0,0,0,,I bet you thought I was done for, huh?
+Dialogue: 0,0:20:40.26,0:20:43.72,Dubtitles,,0,0,0,,I want you to know that while I was\Nclinging to that pillar for dear life,
+Dialogue: 0,0:20:43.80,0:20:45.04,Dubtitles,,0,0,0,,I had time to think to myself,
 Dialogue: 0,0:20:45.12,0:20:48.24,Dubtitles,,0,0,0,,How should I exact my\Nrevenge upon that witch?
-Dialogue: 0,0:20:48.64,0:20:50.60,Dubtitles,,0,0,0,,Should I challenge her to a duel?
-Dialogue: 0,0:20:50.76,0:20:54.05,Dubtitles,,0,0,0,,Or maybe I should just squeeze\Nher nose until she cries?
-Dialogue: 0,0:20:54.64,0:20:55.68,Dubtitles,,0,0,0,,That's interesting.
-Dialogue: 0,0:20:55.76,0:20:59.42,Dubtitles,,0,0,0,,I didn't think Jojo would be the type\Nthat would hold a grudge like that.
-Dialogue: 0,0:20:59.50,0:21:01.52,Dubtitles,,0,0,0,,So which will it be, coach?
-Dialogue: 0,0:21:02.40,0:21:03.23,Dubtitles,,0,0,0,,Huh?
-Dialogue: 0,0:21:04.96,0:21:06.22,Dubtitles,,0,0,0,,I'm doing it.
-Dialogue: 0,0:21:06.32,0:21:07.42,Dubtitles,,0,0,0,,I'm really doing it.
-Dialogue: 0,0:21:07.50,0:21:10.26,Dubtitles,,0,0,0,,I'm holding the water in the\Ncup when it's upside down.
-Dialogue: 0,0:21:10.34,0:21:11.30,Dubtitles,,0,0,0,,That's great.
-Dialogue: 0,0:21:11.58,0:21:15.66,Dubtitles,,0,0,0,,In only three excruciating days,\Nhe's improved his hormone control.
-Dialogue: 0,0:21:16.78,0:21:19.04,Dubtitles,,0,0,0,,Jojo's inherent talent is incredible,
-Dialogue: 0,0:21:19.32,0:21:22.56,Dubtitles,,0,0,0,,but Coach Lisa Lisa's hormone\Ntraining is even more so.
-Dialogue: 0,0:21:23.74,0:21:24.78,Dubtitles,,0,0,0,,Forgive me, coach?
-Dialogue: 0,0:21:24.86,0:21:26.70,Dubtitles,,0,0,0,,Please, I'll do whatever you say!
-Dialogue: 0,0:21:26.78,0:21:29.28,Dubtitles,,0,0,0,,You've got to give me more\Ntraining, I beg you, please!
-Dialogue: 0,0:21:29.36,0:21:31.02,Dubtitles,,0,0,0,,You'll see what I can do.
-Dialogue: 0,0:21:31.10,0:21:32.62,Dubtitles,,0,0,0,,I'll overcome anything!
-Dialogue: 0,0:21:33.12,0:21:34.68,Dubtitles,,0,0,0,,Well, that was pretty quick!
-Dialogue: 0,0:21:34.76,0:21:37.78,Dubtitles,,0,0,0,,I didn't think you'd be able\Nto hold a grudge for very long.
-Dialogue: 0,0:21:37.86,0:21:39.48,Dubtitles,,0,0,0,,Oh, don't worry, Jojo!
-Dialogue: 0,0:21:39.56,0:21:41.14,Dubtitles,,0,0,0,,I've got plenty more for you!
-Dialogue: 0,0:21:41.22,0:21:43.54,Dubtitles,,0,0,0,,I will train you into the ground!
-Dialogue: 0,0:21:43.62,0:21:44.62,Dubtitles,,0,0,0,,Thank you, coach!
-Dialogue: 0,0:21:44.70,0:21:47.16,Dubtitles,,0,0,0,,Your next three weeks\Nhere are going to make
-Dialogue: 0,0:21:47.24,0:21:50.38,Dubtitles,,0,0,0,,the Hellclimb pillar look\Nlike a cakewalk? Huh?
-Dialogue: 0,0:21:50.90,0:21:54.55,Dubtitles,,0,0,0,,Who the hell do you think you\Nare sneaking up on me like that?
-Dialogue: 0,0:21:59.88,0:22:01.46,Dubtitles,,0,0,0,,Whoa, who are these guys?
+Dialogue: 0,0:20:48.64,0:20:50.58,Dubtitles,,0,0,0,,Should I challenge her to a duel?
+Dialogue: 0,0:20:50.78,0:20:54.07,Dubtitles,,0,0,0,,Or maybe I should just squeeze\Nher nose until she cries?
+Dialogue: 0,0:20:54.30,0:20:55.42,Dubtitles,,0,0,0,,That's interesting.
+Dialogue: 0,0:20:55.62,0:20:59.56,Dubtitles,,0,0,0,,I didn't think Jojo would be the type\Nthat would hold a grudge like that.
+Dialogue: 0,0:20:59.64,0:21:01.54,Dubtitles,,0,0,0,,So which will it be, coach?
+Dialogue: 0,0:21:05.00,0:21:06.22,Dubtitles,,0,0,0,,I'm doing it!
+Dialogue: 0,0:21:06.34,0:21:07.42,Dubtitles,,0,0,0,,I'm really doing it!
+Dialogue: 0,0:21:07.50,0:21:10.28,Dubtitles,,0,0,0,,I'm holding the water in the\Ncup and it's upside down!
+Dialogue: 0,0:21:10.36,0:21:11.26,Dubtitles,,0,0,0,,That's great!
+Dialogue: 0,0:21:11.68,0:21:15.68,Dubtitles,,0,0,0,,In only three excruciating days,\Nhe's improved his hormone control!
+Dialogue: 0,0:21:16.82,0:21:19.04,Dubtitles,,0,0,0,,JoJo's inherent talent is incredible,
+Dialogue: 0,0:21:19.34,0:21:22.58,Dubtitles,,0,0,0,,but Coach Lisa Lisa's hormone\Ntraining is even more so!
+Dialogue: 0,0:21:23.68,0:21:24.82,Dubtitles,,0,0,0,,Forgive me, Coach!
+Dialogue: 0,0:21:25.10,0:21:26.98,Dubtitles,,0,0,0,,Please, I'll do whatever you say!
+Dialogue: 0,0:21:27.06,0:21:29.90,Dubtitles,,0,0,0,,You've got to give me more\Ntraining. I beg you, please!
+Dialogue: 0,0:21:29.98,0:21:31.24,Dubtitles,,0,0,0,,You'll see what I can do.
+Dialogue: 0,0:21:31.32,0:21:32.67,Dubtitles,,0,0,0,,I'll overcome anything.
+Dialogue: 0,0:21:33.30,0:21:34.90,Dubtitles,,0,0,0,,Well, that was pretty quick.
+Dialogue: 0,0:21:34.98,0:21:38.08,Dubtitles,,0,0,0,,I didn't think you'd be able\Nto hold a grudge for very long.
+Dialogue: 0,0:21:38.16,0:21:39.56,Dubtitles,,0,0,0,,Oh, don't worry, Jojo.
+Dialogue: 0,0:21:39.76,0:21:41.47,Dubtitles,,0,0,0,,I've got plenty more for you.
+Dialogue: 0,0:21:41.56,0:21:44.66,Dubtitles,,0,0,0,,I will train you into the\Nground. Thank you, coach.
+Dialogue: 0,0:21:44.96,0:21:47.16,Dubtitles,,0,0,0,,Your next three weeks\Nhere are going to make
+Dialogue: 0,0:21:47.24,0:21:49.71,Dubtitles,,0,0,0,,the Hellclimb Pillar look like a cakewalk.
+Dialogue: 0,0:21:50.82,0:21:54.47,Dubtitles,,0,0,0,,Who the hell do you think you\Nare sneaking up on me like that?
+Dialogue: 0,0:21:59.84,0:22:01.46,Dubtitles,,0,0,0,,Whoa, who are these guys?
 Dialogue: 0,0:22:01.66,0:22:03.90,Dubtitles,,0,0,0,,He's made the water move like pudding.
-Dialogue: 0,0:22:04.82,0:22:07.86,Dubtitles,,0,0,0,,I would like for you to meet\Ntwo of my finest servants.
-Dialogue: 0,0:22:07.94,0:22:10.04,Dubtitles,,0,0,0,,These men will be your new instructors.
+Dialogue: 0,0:22:04.78,0:22:07.88,Dubtitles,,0,0,0,,I would like for you to meet\Ntwo of my finest servants.
+Dialogue: 0,0:22:07.96,0:22:10.04,Dubtitles,,0,0,0,,These men will be your new instructors.
 Dialogue: 0,0:22:10.12,0:22:11.88,Dubtitles,,0,0,0,,Say hello to Machina and Logs.
-Dialogue: 0,0:22:11.96,0:22:14.26,Dubtitles,,0,0,0,,I can't even imagine how to do that.
-Dialogue: 0,0:22:14.78,0:22:16.55,Dubtitles,,0,0,0,,Would you like to learn, then?
-Dialogue: 0,0:22:17.34,0:22:20.06,Dubtitles,,0,0,0,,Didn't you hear me ask if you\Nwanted to learn how to do this?
-Dialogue: 0,0:22:20.14,0:22:21.80,Dubtitles,,0,0,0,,Yes, of course I did.
-Dialogue: 0,0:22:22.00,0:22:24.12,Dubtitles,,0,0,0,,Learning from you would be an honor.
-Dialogue: 0,0:22:24.58,0:22:25.60,Dubtitles,,0,0,0,,Well, fine then.
-Dialogue: 0,0:22:25.90,0:22:29.43,Dubtitles,,0,0,0,,Come closer, take a look, and\NI'll show you what's going on.
-Dialogue: 0,0:22:37.06,0:22:40.50,Dubtitles,,0,0,0,,Why do you chumps want\Nhormone training? No matter.
-Dialogue: 0,0:22:40.82,0:22:45.16,Dubtitles,,0,0,0,,From here on out, we're gonna\Nforge you into real men!
-Dialogue: 0,0:22:52.36,0:22:53.62,Dubtitles,,0,0,0,,Strengthen your breath!
-Dialogue: 0,0:22:53.70,0:22:57.86,Dubtitles,,0,0,0,,How can your muscles be strong if what\Nsupports them is weak as a butterfly?
-Dialogue: 0,0:22:57.94,0:23:01.53,Dubtitles,,0,0,0,,You must be able to take ten\Nfull breaths in a single second!
-Dialogue: 0,0:23:02.02,0:23:03.16,Dubtitles,,0,0,0,,This sucks!
-Dialogue: 0,0:23:03.38,0:23:07.60,Dubtitles,,0,0,0,,You will inhale for ten minutes,\Nand then exhale for ten minutes!
-Dialogue: 0,0:23:07.90,0:23:10.08,Dubtitles,,0,0,0,,The mask doesn't come off until then!
-Dialogue: 0,0:23:11.70,0:23:12.53,Dubtitles,,0,0,0,,Really?
-Dialogue: 0,0:23:12.61,0:23:14.06,Dubtitles,,0,0,0,,You guys are insane!
+Dialogue: 0,0:22:11.96,0:22:14.24,Dubtitles,,0,0,0,,I can't even imagine how to do that.
+Dialogue: 0,0:22:14.74,0:22:16.51,Dubtitles,,0,0,0,,Would you like to learn, then?
+Dialogue: 0,0:22:17.30,0:22:20.22,Dubtitles,,0,0,0,,Didn't you hear me ask if you\Nwanted to learn how to do this?
+Dialogue: 0,0:22:20.30,0:22:21.76,Dubtitles,,0,0,0,,Yes, of course I did.
+Dialogue: 0,0:22:22.16,0:22:24.28,Dubtitles,,0,0,0,,Learning from you would be an honor.
+Dialogue: 0,0:22:24.56,0:22:25.60,Dubtitles,,0,0,0,,Well, fine, then.
+Dialogue: 0,0:22:25.88,0:22:30.08,Dubtitles,,0,0,0,,Come closer, take a look, and I'll\Nshow you what's going on. Huh?
+Dialogue: 0,0:22:37.02,0:22:40.50,Dubtitles,,0,0,0,,Why do you chumps want\Nhormone training? No matter.
+Dialogue: 0,0:22:40.84,0:22:45.14,Dubtitles,,0,0,0,,From here on out, we're gonna\Nforge you into real men!
+Dialogue: 0,0:22:52.38,0:22:53.64,Dubtitles,,0,0,0,,Strengthen your breath.
+Dialogue: 0,0:22:53.72,0:22:57.30,Dubtitles,,0,0,0,,How can your muscles be strong if what\Nsupports them is weak as a butterfly?
+Dialogue: 0,0:22:57.38,0:23:01.26,Dubtitles,,0,0,0,,You must be able to take ten\Nfull breaths in a single second.
+Dialogue: 0,0:23:01.98,0:23:03.18,Dubtitles,,0,0,0,,This sucks!
+Dialogue: 0,0:23:03.40,0:23:07.60,Dubtitles,,0,0,0,,You will inhale for ten minutes\Nand then exhale for ten minutes.
+Dialogue: 0,0:23:07.90,0:23:10.08,Dubtitles,,0,0,0,,The mask doesn't come off until then.
+Dialogue: 0,0:23:11.62,0:23:12.45,Dubtitles,,0,0,0,,Really?
+Dialogue: 0,0:23:12.53,0:23:14.04,Dubtitles,,0,0,0,,You guys are insane!
 Dialogue: 1,0:23:14.58,0:23:14.62,SFXOang7,53,0,0,0,,{=173}{\blur9\bord5.13\fscx66.73\fscy51.33\alpha&H80&\frz340.3\pos(1069.46,594.92)}Bam
 Dialogue: 2,0:23:14.58,0:23:14.62,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord5.13\fscx66.73\fscy51.33\alpha&H00&\frz340.3\pos(1069.46,594.92)\c&HD3DFFE&}Bam
 Dialogue: 3,0:23:14.58,0:23:14.62,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx66.73\fscy51.33\alpha&H00&\frz340.3\pos(1069.46,594.92)\4a&HFF&}Bam
@@ -10660,7 +10495,6 @@ Dialogue: 3,0:23:18.08,0:23:18.12,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx1
 Dialogue: 1,0:23:18.08,0:23:22.08,Rings,,0,0,0,,{\blur10\fad(802,0)\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\1a&HFF&\t(757,802,\1a&H00&)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:18.08,0:23:22.08,Rings,,0,0,0,,{\blur0.6\fad(802,0)\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\1a&HFF&\t(757,802,\1a&H00&)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:18.08,0:23:22.08,Rings,,0,0,0,,{\bord0\blur0.6\fad(802,0)\fs110\be1\pos(960,450)\shad2\4a&HFF&}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:18.08,0:23:22.08,Rings,,0,0,0,,{\fad(802,0)\fs(110)\be1\3c&HFEFEFE&\pos(960,450)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:18.12,0:23:18.16,SFXOang7,53,0,0,0,,{=173}{\blur9\bord11.76\fscx152.87\fscy117.59\alpha&H80&\frz340.3\pos(1169.52,663.43)}Bam
 Dialogue: 2,0:23:18.12,0:23:18.16,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord11.76\fscx152.87\fscy117.59\alpha&H00&\frz340.3\pos(1169.52,663.43)\c&HD3DFFE&}Bam
 Dialogue: 3,0:23:18.12,0:23:18.16,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx152.87\fscy117.59\alpha&H00&\frz340.3\pos(1169.52,663.43)\4a&HFF&}Bam
@@ -10700,7 +10534,6 @@ Dialogue: 3,0:23:18.58,0:23:18.62,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx1
 Dialogue: 1,0:23:18.62,0:23:18.66,SFXOang7,53,0,0,0,,{=173}{\blur9\bord12.27\fscx159.5\fscy122.7\alpha&HA4&\frz340.3\pos(1225.13,681.56)}Bam
 Dialogue: 2,0:23:18.62,0:23:18.66,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord12.27\fscx159.5\fscy122.7\alpha&HA4&\frz340.3\pos(1225.13,681.56)\c&HD3DFFE&}Bam
 Dialogue: 3,0:23:18.62,0:23:18.66,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx159.5\fscy122.7\alpha&HA4&\frz340.3\pos(1225.13,681.56)\4a&HFF&}Bam
-Dialogue: 0,0:23:18.62,0:23:21.80,Dubtitles,,0,0,0,,Seven days remain until\Nthe rings dissolve.
 Dialogue: 1,0:23:18.66,0:23:18.71,SFXOang7,53,0,0,0,,{=173}{\blur9\bord12.34\fscx160.43\fscy123.41\alpha&HB3&\frz340.3\pos(1196.87,663.25)}Bam
 Dialogue: 2,0:23:18.66,0:23:18.71,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord12.34\fscx160.43\fscy123.41\alpha&HB3&\frz340.3\pos(1196.87,663.25)\c&HD3DFFE&}Bam
 Dialogue: 3,0:23:18.66,0:23:18.71,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx160.43\fscy123.41\alpha&HB3&\frz340.3\pos(1196.87,663.25)\4a&HFF&}Bam
@@ -10716,72 +10549,57 @@ Dialogue: 3,0:23:18.79,0:23:18.83,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx1
 Dialogue: 1,0:23:18.83,0:23:18.87,SFXOang7,53,0,0,0,,{=173}{\blur9\bord12.73\fscx165.48\fscy127.29\alpha&HF0&\frz340.3\pos(1220.61,688.72)}Bam
 Dialogue: 2,0:23:18.83,0:23:18.87,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord12.73\fscx165.48\fscy127.29\alpha&HF0&\frz340.3\pos(1220.61,688.72)\c&HD3DFFE&}Bam
 Dialogue: 3,0:23:18.83,0:23:18.87,SFXOang7,53,0,0,0,,{=173}{\blur0.8\bord0\fscx165.48\fscy127.29\alpha&HF0&\frz340.3\pos(1220.61,688.72)\4a&HFF&}Bam {Fuck this episode}
+Dialogue: 0,0:23:18.88,0:23:21.82,Dubtitles,,0,0,0,,Seven days remain until\Nthe rings dissolve.
 Dialogue: 1,0:23:22.08,0:23:22.13,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 169 336 l 173 463 1500 463 1607 356)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.08,0:23:22.13,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 169 344 l 160 455 1500 463 1607 356)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.08,0:23:22.13,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 177 343 l 189 460 1500 463 1607 356)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.08,0:23:22.13,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 317 348 l 319 459 1500 463 1607 356)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.13,0:23:22.17,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 169 336 l 170 463 1338 455 1445 348)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.13,0:23:22.17,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 176 338 l 181 468 1338 455 1445 348)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.13,0:23:22.17,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 182 341 l 179 468 1338 455 1445 348)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.13,0:23:22.17,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 317 348 l 319 459 1338 455 1445 348)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.17,0:23:22.21,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 165 346 l 165 459 1161 464 1268 357)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.17,0:23:22.21,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 173 343 l 187 462 1161 464 1268 357)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.17,0:23:22.21,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 190 349 l 191 462 1161 464 1268 357)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.17,0:23:22.21,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 317 348 l 319 459 1161 464 1268 357)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.21,0:23:22.25,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 163 348 l 167 457 994 460 1101 353)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.21,0:23:22.25,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 171 340 l 183 460 994 460 1101 353)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.21,0:23:22.25,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 169 336 l 187 463 994 460 1101 353)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.21,0:23:22.25,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 317 348 l 319 459 994 460 1101 353)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.25,0:23:22.29,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 178 335 l 175 470 826 460 931 353)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.25,0:23:22.29,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 167 340 l 175 462 826 460 931 353)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.25,0:23:22.29,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 171 348 l 191 462 826 460 931 353)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.25,0:23:22.29,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 319 348 l 321 459 826 460 931 353)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.29,0:23:22.33,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 162 338 l 185 465 658 459 763 353)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.29,0:23:22.33,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 176 336 l 181 470 658 459 763 353)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.29,0:23:22.33,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 167 332 l 189 465 658 459 763 353)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.29,0:23:22.33,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 319 348 l 321 459 658 459 763 353)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.33,0:23:22.38,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 171 333 l 181 471 487 461 592 355)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.33,0:23:22.38,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 160 327 l 189 476 487 461 592 355)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.33,0:23:22.38,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 173 333 l 196 475 487 461 592 355)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.33,0:23:22.38,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 319 348 l 321 459 487 461 592 355)}Days Until the Rings Dissolve: 7
 Dialogue: 1,0:23:22.38,0:23:22.42,Rings,,0,0,0,,{\blur10\fs110\be1\3c&HFEFEFE&\pos(960,450)\alpha&H80&\clip(m 180 337 l 181 469 332 446 424 352)}Days Until the Rings Dissolve: 7
 Dialogue: 2,0:23:22.38,0:23:22.42,Rings,,0,0,0,,{\blur0.6\fs110\be1\3c&HFEFEFE&\c&HFEFEFE&\pos(960,450)\clip(m 163 340 l 184 456 332 446 424 352)}Days Until the Rings Dissolve: 7
 Dialogue: 3,0:23:22.38,0:23:22.42,Rings,,0,0,0,,{\bord0\blur0.6\fs110\be1\pos(960,450)\shad2\4a&HFF&\clip(m 163 337 l 195 456 332 446 424 352)}Days Until the Rings Dissolve: 7
-Dialogue: 1,0:23:22.38,0:23:22.42,Rings,,0,0,0,,{\fs110\be1\3c&HFEFEFE&\pos(960,450)\clip(m 320 347 l 322 458 332 446 424 352)}Days Until the Rings Dissolve: 7
+Dialogue: 0,0:23:34.04,0:23:38.58,Dubtitles,,0,0,0,,I'll read you round and\Nround. The words will
 Dialogue: 1,0:23:34.35,0:23:37.85,Lyrics 2,Yes,0,0,0,,I'll be the roundabout
 Dialogue: 1,0:23:37.85,0:23:41.44,Lyrics 2,Yes,0,0,0,,The words will make you out 'n' out
+Dialogue: 0,0:23:38.66,0:23:44.72,Dubtitles,,0,0,0,,make you out and out You\Nspent the day your way
 Dialogue: 1,0:23:41.44,0:23:46.65,Lyrics 2,Yes,0,0,0,,We spend the day your way
-Dialogue: 0,0:23:46.42,0:23:49.14,Dubtitles,,0,0,0,,Call it morning, running through the sun.
+Dialogue: 0,0:23:46.58,0:23:50.76,Dubtitles,,0,0,0,,Calling running, running through\Nthe sun And even out the valley
 Dialogue: 1,0:23:46.65,0:23:49.24,Lyrics 2,Yes,0,0,0,,Call it morning driving through the sound and
-Dialogue: 0,0:23:49.22,0:23:50.93,Dubtitles,,0,0,0,,And in and out of the valley.
 Dialogue: 1,0:23:49.24,0:23:52.99,Lyrics 2,Yes,0,0,0,,In and out the valley... hey!
-Dialogue: 0,0:23:52.72,0:23:55.28,Dubtitles,,0,0,0,,In and around the lake.
+Dialogue: 0,0:23:52.70,0:23:55.24,Dubtitles,,0,0,0,,And even around the lake.
 Dialogue: 1,0:23:52.99,0:23:55.41,Lyrics 2,Yes,0,0,0,,In and around the lake
-Dialogue: 0,0:23:56.44,0:23:58.74,Dubtitles,,0,0,0,,Moms come out of the sky.
+Dialogue: 0,0:23:56.30,0:24:00.46,Dubtitles,,0,0,0,,My hands come out of\Nthe sky. We stand there.
 Dialogue: 1,0:23:56.66,0:23:58.75,Lyrics 2,Yes,0,0,0,,Mountains come out of the sky
 Dialogue: 1,0:23:58.75,0:24:00.62,Lyrics 2,Yes,0,0,0,,and they stand there
-Dialogue: 0,0:23:58.82,0:24:00.50,Dubtitles,,0,0,0,,They stand there.
-Dialogue: 0,0:24:03.42,0:24:05.62,Dubtitles,,0,0,0,,While in my lover we'll be there.
+Dialogue: 0,0:24:03.38,0:24:07.26,Dubtitles,,0,0,0,,While my love will be\Nthere. We'll see you.
 Dialogue: 1,0:24:03.71,0:24:07.38,Lyrics 2,Yes,0,0,0,,One mile over we'll be there and we'll see you
-Dialogue: 0,0:24:05.70,0:24:07.26,Dubtitles,,0,0,0,,We'll see you.
-Dialogue: 0,0:24:09.82,0:24:12.02,Dubtitles,,0,0,0,,Don't you suppose we'll be there?
+Dialogue: 0,0:24:09.72,0:24:13.38,Dubtitles,,0,0,0,,Time to save us. We'll\Nbe there. You'll be too.
 Dialogue: 1,0:24:10.01,0:24:13.55,Lyrics 2,Yes,0,0,0,,Ten true summers we'll be there and laughing too
-Dialogue: 0,0:24:12.10,0:24:13.20,Dubtitles,,0,0,0,,You'll be too.
-Dialogue: 0,0:24:16.14,0:24:18.98,Dubtitles,,0,0,0,,24, 24, my love, you sing.
 Dialogue: 1,0:24:16.35,0:24:19.97,Lyrics 2,Yes,0,0,0,,Twenty four before my love you'll see I'll be
-Dialogue: 0,0:24:19.06,0:24:22.10,Dubtitles,,0,0,0,,I'll be there with you.
+Dialogue: 0,0:24:16.46,0:24:21.68,Dubtitles,,0,0,0,,24 before my day. We'll see\Nyou. I'll be there with you.
 Dialogue: 1,0:24:19.97,0:24:23.98,Lyrics 2,Yes,0,0,0,,There with you
-Dialogue: 1,0:24:19.97,0:24:23.98,Lyrics 2,Yes,0,0,0,,there with you
 Dialogue: 1,0:24:57.51,0:24:59.51,Title2.1,,0,0,0,,{\fs105\pos(960,700)\bord5.5\blur2}Next Episode
-Dialogue: 1,0:24:57.51,0:24:59.51,Title2,,0,0,0,,{\fs105\pos(960,700)}Next Episode
-Dialogue: 0,0:24:59.30,0:25:02.22,Dubtitles,,0,0,0,,I'm afraid it's necessary\Nfor a final examination.
-Dialogue: 0,0:25:02.30,0:25:04.26,Dubtitles,,0,0,0,,The solution is finding more power.
-Dialogue: 0,0:25:04.34,0:25:06.42,Dubtitles,,0,0,0,,Deep down, he's worth having as a friend.
-Dialogue: 0,0:25:06.50,0:25:07.98,Dubtitles,,0,0,0,,Horrible. Unnatural.
-Dialogue: 0,0:25:08.22,0:25:10.52,Dubtitles,,0,0,0,,I just can't take it.
+Dialogue: 0,0:24:59.32,0:25:02.24,Dubtitles,,0,0,0,,I'm afraid it's necessary\Nfor a final examination.
+Dialogue: 0,0:25:02.32,0:25:04.22,Dubtitles,,0,0,0,,The solution is finding more power.
+Dialogue: 0,0:25:04.30,0:25:06.44,Dubtitles,,0,0,0,,Deep down, he's worth having as a friend.
+Dialogue: 0,0:25:06.52,0:25:07.98,Dubtitles,,0,0,0,,Horrible. Unnatural.
+Dialogue: 0,0:25:08.22,0:25:10.48,Dubtitles,,0,0,0,,I just can't take it.
 Dialogue: 1,0:25:10.53,0:25:12.53,Title2.1,,0,0,0,,{\fs105\pos(960,280)\blur2}Episode 17:
 Dialogue: 1,0:25:10.53,0:25:12.53,Title2.1,,0,0,0,,{\fs105\pos(960,772)\blur2\i1}"The Deeper Plan!"{\i0} {This title bothers me -Fadeout4}{Let's discuss when you get here -Toni}
-Dialogue: 1,0:25:10.53,0:25:12.53,Title2,,0,0,0,,{\fs105\pos(960,280)}Episode 17:
-Dialogue: 1,0:25:10.53,0:25:12.53,Title2,,0,0,0,,{\fs105\pos(960,772)}"The Deeper Plan!" {This title bothers me -Fadeout4}{Let's discuss when you get here -Toni}
-Dialogue: 0,0:25:13.20,0:25:13.27,Dubtitles,,0,0,0,,Thank you.
 

@@ -47,14 +47,14 @@ Style: Eyecatch - Stats - Episode 10,Designosaur,47,&H00FFFFFF,&H000000FF,&H0000
 Style: SFX,KG Turning Tables,170,&H00556FEF,&H000000FF,&H00060707,&H00000000,-1,0,0,0,110,100,0,0,1,10,0,8,50,40,20,1
 Style: Eyecatch - Episode 18,Book Antiqua,70,&H00EFF4F2,&H000000FF,&H23050707,&H24160A16,-1,0,0,0,100,100,3,0,1,2.3,2.5,1,90,90,40,1
 Style: Eyecatch - StatsSH,Gontserrat Medium,35,&H500A0A0A,&H000000FF,&H00000000,&H1F514F02,-1,0,0,0,100,100,3,0,1,0,0,8,90,40,25,1
-Style: Dubtitles,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
+Style: Dubtitles,Impress BT,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.909090909090909,1,2,10,10,49,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:00:00.00,0:00:03.44,Episode 31 Times,Sign,0,0,0,,{\fad(0,677)\pos(960,785)}July 15th (Thursday) 8:30 PM
 Dialogue: 0,0:00:04.96,0:00:06.96,Dubtitles,,0,0,0,,Damn it all! This is bad!
 Dialogue: 0,0:00:07.24,0:00:09.24,Dubtitles,,0,0,0,,I have to let Yoshikage know!
-Dialogue: 0,0:00:10.14,0:00:11.00,Dubtitles,,0,0,0,,It's Reimi!
+Dialogue: 0,0:00:10.14,0:00:11.00,Dubtitles,,0,0,0,,It's Raimi!
 Dialogue: 0,0:00:11.56,0:00:14.28,Dubtitles,,0,0,0,,Hey Rohan, did you take\Nthe pictures in this album?
 Dialogue: 0,0:00:14.36,0:00:15.38,Dubtitles,,0,0,0,,I did, why?
 Dialogue: 0,0:00:15.70,0:00:17.90,Dubtitles,,0,0,0,,I assume there's a reason\Nthis one is marked.
@@ -114,15 +114,13 @@ Dialogue: 1,0:02:42.80,0:02:46.97,Part 4 OP3 English,,0,0,0,,{\fad(100,100)}{\1c
 Dialogue: 1,0:02:46.97,0:02:50.40,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HEE61A8&}terasu ogon no spirits
 Dialogue: 1,0:02:46.97,0:02:50.40,Part 4 OP3 English,,0,0,0,,{\fad(100,100)}{\1c&HEE61A8&}The golden spirits will illuminate the way
 Dialogue: 1,0:02:46.97,0:02:50.40,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HEE61A8&}terasu ougon no spirits
-Dialogue: 0,0:02:49.78,0:02:52.70,Dubtitles,,0,0,0,,I'll see you
+Dialogue: 0,0:02:49.78,0:02:52.70,Dubtitles,,0,0,0,,I'll see you.
 Dialogue: 1,0:02:50.40,0:02:56.90,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&H43E0B6&}sore wa mamorinuku hikari
 Dialogue: 1,0:02:50.40,0:02:56.90,Part 4 OP3 English,,0,0,0,,{\fad(100,100)}{\1c&H43E0B6&}Toward that light we must protect
-Dialogue: 1,0:02:50.40,0:02:56.90,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&H43E0B6&}sore wa mamori nuku hikari
 Dialogue: 0,0:02:52.78,0:02:56.82,Dubtitles,,0,0,0,,next time.
 Dialogue: 1,0:02:56.90,0:03:01.91,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&H8500E0&}Let the voice of love take you higher!
 Dialogue: 1,0:03:01.91,0:03:08.25,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&H71FFF9&}atsumaru chikara de toki sae koete
 Dialogue: 1,0:03:01.91,0:03:08.25,Part 4 OP3 English,,0,0,0,,{\fad(100,100)}{\1c&H71FFF9&}Our powers combined will help us surpass even time
-Dialogue: 1,0:03:01.91,0:03:08.25,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&H71FFF9&}atsumaru chikara de tokisae koete
 Dialogue: 1,0:03:08.25,0:03:13.13,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&HEF50C5&}1999 Bizarre Summer
 Dialogue: 1,0:03:13.13,0:03:18.80,Part 4 OP3 Japanese,,0,0,0,,{\fad(100,100)}{\1c&H95B630&}meguru yuuki de ikiru machi
 Dialogue: 1,0:03:13.13,0:03:18.80,Part 4 OP3 English,,0,0,0,,{\fad(100,100)}{\1c&H95B630&}Living in this town surrounded by courage
@@ -132,8 +130,9 @@ Dialogue: 0,0:03:18.95,0:03:23.12,Dubtitles,,0,0,0,,Good days!
 Dialogue: 1,0:03:25.47,0:03:28.64,Episode 31 Times,Sign,0,0,0,,{\fad(1,550)\pos(960,785)}July 15th (Thursday) 8:50 PM
 Dialogue: 0,0:03:28.66,0:03:29.70,Dubtitles,,0,0,0,,Hayato Kawajiri?
 Dialogue: 0,0:03:30.00,0:03:33.64,Dubtitles,,0,0,0,,So you think this grade school\Nkid has something to do with Kira?
+Dialogue: 1,0:03:30.06,0:03:33.69,Main,Josuke,0,0,0,,{\an8}You're telling me this grade-school kid\N has something to do with Kira Yoshikage?
 Dialogue: 1,0:03:31.06,0:03:36.52,Title Part 4,Sign,0,0,0,,{\fad(648,513)\pos(141,890)\fs60}Episode 35: {\fs80} Another One Bites the Dust, Part 1
-Dialogue: 1,0:03:31.06,0:03:36.52,Title Part 4,Sign,0,0,0,,{\fad(648,513)\pos(141,890)\fs60}Episode 35: {\fs80} Another One Bites the Dust Part 1
+Dialogue: 1,0:03:33.69,0:03:36.82,Main,Koichi,0,0,0,,{\an8}We're not 100% sure yet...
 Dialogue: 0,0:03:33.72,0:03:36.78,Dubtitles,,0,0,0,,Well, at this point, we're not\Ntotally sure if they're connected.
 Dialogue: 0,0:03:36.86,0:03:39.86,Dubtitles,,0,0,0,,That said, Rohan-sensei\Nthinks he's onto something.
 Dialogue: 0,0:03:39.96,0:03:40.80,Dubtitles,,0,0,0,,I agree.
@@ -166,7 +165,7 @@ Dialogue: 0,0:04:41.02,0:04:42.61,Dubtitles,,0,0,0,,I did just slam my fingers.
 Dialogue: 0,0:04:43.06,0:04:45.66,Dubtitles,,0,0,0,,Now please, go downstairs\Nand make some tea.
 Dialogue: 0,0:04:46.22,0:04:47.69,Dubtitles,,0,0,0,,I'll be right behind you.
 Dialogue: 0,0:04:51.44,0:04:52.30,Dubtitles,,0,0,0,,Okay, dear.
-Dialogue: 0,0:04:54.06,0:04:58.30,Dubtitles,,0,0,0,,I know this is gonna sound totally\Nrandom, but well, I don't know.
+Dialogue: 0,0:04:54.06,0:04:58.30,Dubtitles,,0,0,0,,I know this is gonna sound totally\Nrandom, but, well, I don't know.
 Dialogue: 0,0:04:58.76,0:05:01.41,Dubtitles,,0,0,0,,You've had this vibe\Nlike you'll live forever
 Dialogue: 0,0:05:03.08,0:05:04.61,Dubtitles,,0,0,0,,The tea will be ready soon
 Dialogue: 0,0:05:16.40,0:05:19.36,Dubtitles,,0,0,0,,If you so much as lay a single\Nfinger on me your whole cover
@@ -205,7 +204,7 @@ Dialogue: 0,0:07:15.86,0:07:19.62,Dubtitles,,0,0,0,,The arrow moved on its own, 
 Dialogue: 0,0:07:19.70,0:07:21.64,Dubtitles,,0,0,0,,I wasn't even touching it!
 Dialogue: 0,0:07:24.06,0:07:25.48,Dubtitles,,0,0,0,,What's it doing?
 Dialogue: 0,0:07:28.88,0:07:30.48,Dubtitles,,0,0,0,,No! Yoshikage!
-Dialogue: 0,0:07:42.82,0:07:44.88,Dubtitles,,0,0,0,,Hiato! Hiato!
+Dialogue: 0,0:07:42.82,0:07:44.88,Dubtitles,,0,0,0,,Hayato! Hayato!
 Dialogue: 1,0:07:44.40,0:07:46.07,Episode 31 Times,Sign,0,0,0,,{\fad(500,1)\pos(960,785)}July 16th (Friday) 7:30 AM
 Dialogue: 0,0:07:45.70,0:07:48.08,Dubtitles,,0,0,0,,Just how long are you gonna sleep in?
 Dialogue: 0,0:07:49.70,0:07:51.32,Dubtitles,,0,0,0,,It's time to get up and...
@@ -235,7 +234,7 @@ Dialogue: 0,0:09:29.04,0:09:30.90,Dubtitles,,0,0,0,,Miso-marinated cow tongue.
 Dialogue: 0,0:09:34.26,0:09:35.14,Dubtitles,,0,0,0,,You're kidding.
 Dialogue: 0,0:09:35.42,0:09:37.66,Dubtitles,,0,0,0,,Why didn't you say we were on the air?
 Dialogue: 0,0:09:38.00,0:09:39.10,Dubtitles,,0,0,0,,Good morning, all.
-Dialogue: 0,0:09:39.34,0:09:40.44,Dubtitles,,0,0,0,,It's 7.55.
+Dialogue: 0,0:09:39.34,0:09:40.44,Dubtitles,,0,0,0,,It's 7:55.
 Dialogue: 0,0:09:40.82,0:09:43.41,Dubtitles,,0,0,0,,Time for today's\Nprefectural weather report.
 Dialogue: 0,0:09:43.54,0:09:47.16,Dubtitles,,0,0,0,,Today, we'll be enjoying\Nsunny skies. Hi-ya, Toe.
 Dialogue: 0,0:09:47.78,0:09:49.26,Dubtitles,,0,0,0,,Hayato, are you listening?
@@ -281,7 +280,7 @@ Dialogue: 0,0:10:34.58,0:10:36.12,Dubtitles,,0,0,0,,No, I'm afraid not.
 Dialogue: 0,0:10:36.48,0:10:38.64,Dubtitles,,0,0,0,,It was the wrong number, that's all.
 Dialogue: 0,0:10:39.44,0:10:41.85,Dubtitles,,0,0,0,,And Hayato's going through a quiet phase.
 Dialogue: 0,0:10:42.04,0:10:42.98,Dubtitles,,0,0,0,,No need to fret.
-Dialogue: 0,0:10:44.60,0:10:45.64,Dubtitles,,0,0,0,,We're a family.
+Dialogue: 0,0:10:44.60,0:10:45.64,Dubtitles,,0,0,0,,We're family.
 Dialogue: 0,0:10:45.88,0:10:48.84,Dubtitles,,0,0,0,,We should support each other,\Nnot tear each other down.
 Dialogue: 0,0:10:48.92,0:10:50.27,Dubtitles,,0,0,0,,Let's all work on that.
 Dialogue: 0,0:10:50.78,0:10:52.96,Dubtitles,,0,0,0,,Speaking of work, I should get going.
@@ -362,48 +361,37 @@ Dialogue: 1,0:13:30.08,0:13:32.95,Eyecatch - StatsSH,sign bot,0,0,0,,{\fad(220,0
 Dialogue: 1,0:13:30.20,0:13:30.28,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Ki
 Dialogue: 2,0:13:30.20,0:13:30.28,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Ki
 Dialogue: 3,0:13:30.20,0:13:30.28,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Ki
-Dialogue: 1,0:13:30.20,0:13:30.28,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Ki
 Dialogue: 1,0:13:30.28,0:13:30.33,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Kill
 Dialogue: 2,0:13:30.28,0:13:30.33,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Kill
 Dialogue: 3,0:13:30.28,0:13:30.33,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Kill
-Dialogue: 1,0:13:30.28,0:13:30.33,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Kill
 Dialogue: 1,0:13:30.33,0:13:30.41,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Killer
 Dialogue: 2,0:13:30.33,0:13:30.41,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Killer
 Dialogue: 3,0:13:30.33,0:13:30.41,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Killer
-Dialogue: 1,0:13:30.33,0:13:30.41,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Killer
 Dialogue: 1,0:13:30.41,0:13:30.49,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Killer Qu
 Dialogue: 2,0:13:30.41,0:13:30.49,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Killer Qu
 Dialogue: 3,0:13:30.41,0:13:30.49,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Killer Qu
-Dialogue: 1,0:13:30.41,0:13:30.49,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Killer Qu
 Dialogue: 1,0:13:30.49,0:13:30.53,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Killer Que
 Dialogue: 2,0:13:30.49,0:13:30.53,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Killer Que
 Dialogue: 3,0:13:30.49,0:13:30.53,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Killer Que
-Dialogue: 1,0:13:30.49,0:13:30.53,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Killer Que
 Dialogue: 1,0:13:30.53,0:13:30.62,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Killer Quee
 Dialogue: 2,0:13:30.53,0:13:30.62,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Killer Quee
 Dialogue: 3,0:13:30.53,0:13:30.62,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Killer Quee
-Dialogue: 1,0:13:30.53,0:13:30.62,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Killer Quee
 Dialogue: 1,0:13:30.62,0:13:32.95,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur14\fs80\pos(1417,374)\alpha&H50&\3c&H262997&}Killer Queen
 Dialogue: 2,0:13:30.62,0:13:32.95,Eyecatch - Episode 18,Signtop,0,0,0,,{\blur0.6\fs80\pos(1417,374)\c&H050707&}Killer Queen
 Dialogue: 3,0:13:30.62,0:13:32.95,Eyecatch - Episode 18,Signtop,0,0,0,,{\bord0\blur0.6\fs80\pos(1417,374)\shad2.5\4a&HFF&}Killer Queen
-Dialogue: 1,0:13:30.62,0:13:32.95,Eyecatch - Episode 15,Signtop,0,0,0,,{\fs80\pos(1417,374)}Killer Queen
 Dialogue: 1,0:13:31.58,0:13:31.70,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur14\pos(103,794)\alpha&H50&\3c&H262997&}Kawa
 Dialogue: 2,0:13:31.58,0:13:31.70,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur0.6\pos(103,794)\c&H050707&}Kawa
 Dialogue: 3,0:13:31.58,0:13:31.70,Eyecatch - Episode 15,Signbot,0,0,0,,{\bord0\blur0.6\pos(103,794)\shad2.5\4a&HFF&}Kawa
-Dialogue: 1,0:13:31.58,0:13:31.70,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(103,794)}Kawa
 Dialogue: 1,0:13:31.66,0:13:32.95,Eyecatch - Stats - Episode 10,sign bot,0,0,0,,{\an7\fad(300,0)\pos(50,31)}Power: A \NSpeed: B \NRange: D \NDurability: B \NPrecision: B \NGrowth Potential: A
 Dialogue: 1,0:13:31.70,0:13:31.79,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur14\pos(103,794)\alpha&H50&\3c&H262997&}Kawajiri
 Dialogue: 2,0:13:31.70,0:13:31.79,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur0.6\pos(103,794)\c&H050707&}Kawajiri
 Dialogue: 3,0:13:31.70,0:13:31.79,Eyecatch - Episode 15,Signbot,0,0,0,,{\bord0\blur0.6\pos(103,794)\shad2.5\4a&HFF&}Kawajiri
-Dialogue: 1,0:13:31.70,0:13:31.79,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(103,794)}Kawajiri
 Dialogue: 1,0:13:31.79,0:13:31.91,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur14\pos(103,794)\alpha&H50&\3c&H262997&}Kawajiri Ko
 Dialogue: 2,0:13:31.79,0:13:31.91,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur0.6\pos(103,794)\c&H050707&}Kawajiri Ko
 Dialogue: 3,0:13:31.79,0:13:31.91,Eyecatch - Episode 15,Signbot,0,0,0,,{\bord0\blur0.6\pos(103,794)\shad2.5\4a&HFF&}Kawajiri Ko
-Dialogue: 1,0:13:31.79,0:13:31.91,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(103,794)}Kawajiri Ko
 Dialogue: 1,0:13:31.91,0:13:32.95,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur14\pos(103,794)\alpha&H50&\3c&H262997&}Kawajiri Kosaku
 Dialogue: 2,0:13:31.91,0:13:32.95,Eyecatch - Episode 15,Signbot,0,0,0,,{\blur0.6\pos(103,794)\c&H050707&}Kawajiri Kosaku
 Dialogue: 3,0:13:31.91,0:13:32.95,Eyecatch - Episode 15,Signbot,0,0,0,,{\bord0\blur0.6\pos(103,794)\shad2.5\4a&HFF&}Kawajiri Kosaku
-Dialogue: 1,0:13:31.91,0:13:32.95,Eyecatch - Episode 15,Signbot,0,0,0,,{\pos(103,794)}Kawajiri Kosaku
 Dialogue: 1,0:13:32.95,0:13:36.25,Episode 31 Times,Sign,0,0,0,,{\fad(1,676)\pos(960,785)}July 16th (Friday) 8:24 AM
 Dialogue: 0,0:13:33.46,0:13:35.06,Dubtitles,,0,0,0,,I've been waiting for you.
 Dialogue: 0,0:13:36.14,0:13:39.43,Dubtitles,,0,0,0,,My name is Rohan Kishibe, and\NI have a question for you.
@@ -413,10 +401,9 @@ Dialogue: 0,0:13:45.08,0:13:46.66,Dubtitles,,0,0,0,,This is you, isn't it?
 Dialogue: 0,0:13:47.84,0:13:51.66,Dubtitles,,0,0,0,,And you were taking a video of\Nyour dad in the back there, right?
 Dialogue: 0,0:13:52.72,0:13:53.55,Dubtitles,,0,0,0,,Wait.
 Dialogue: 0,0:13:55.04,0:13:56.28,Dubtitles,,0,0,0,,What is this?
-Dialogue: 0,0:13:58.02,0:13:59.80,Dubtitles,,0,0,0,,I know that was unexpected.
-Dialogue: 0,0:14:00.34,0:14:01.80,Dubtitles,,0,0,0,,Questioning him would be troublesome.
-Dialogue: 0,0:14:01.88,0:14:05.58,Dubtitles,,0,0,0,,Reading his mind will be much more\Nefficient when it comes to this endeavor!
-Dialogue: 0,0:14:05.66,0:14:08.90,Dubtitles,,0,0,0,,Not to mention it'll be far\Nmore accurate than a Q A?
+Dialogue: 0,0:13:58.02,0:13:59.80,Dubtitles,,0,0,0,,I know that was unexpected
+Dialogue: 0,0:14:00.34,0:14:04.22,Dubtitles,,0,0,0,,Questioning him would be troublesome\NReading his mind will be much more efficient
+Dialogue: 0,0:14:04.30,0:14:09.24,Dubtitles,,0,0,0,,when it comes to this endeavor Not to mention\Nit'll be far more accurate than a Q &A
 Dialogue: 1,0:14:09.78,0:14:11.28,Note,Sign,0,0,0,,Note: [WARNING] Do not read any further.
 Dialogue: 0,0:14:11.28,0:14:12.11,Dubtitles,,0,0,0,,Huh?
 Dialogue: 0,0:14:12.19,0:14:13.94,Dubtitles,,0,0,0,,Why would that be in his pages?
@@ -437,7 +424,7 @@ Dialogue: 0,0:14:52.58,0:14:53.92,Dubtitles,,0,0,0,,What is all this?
 Dialogue: 0,0:14:54.00,0:14:55.72,Dubtitles,,0,0,0,,This makes even less sense.
 Dialogue: 0,0:14:55.94,0:14:57.00,Dubtitles,,0,0,0,,What does it mean?
 Dialogue: 0,0:14:59.80,0:15:00.98,Dubtitles,,0,0,0,,Damn it all
-Dialogue: 0,0:15:08.00,0:15:10.38,Dubtitles,,0,0,0,,This kid who the hell is he?
+Dialogue: 0,0:15:08.00,0:15:10.38,Dubtitles,,0,0,0,,This kid, who the hell is he?
 Dialogue: 1,0:15:10.47,0:15:11.76,Note,Sign,0,0,0,,Note: It rained.
 Dialogue: 0,0:15:14.52,0:15:18.00,Dubtitles,,0,0,0,,Come on the weather report\Nnever said anything about rain
 Dialogue: 1,0:15:21.69,0:15:23.36,Note,Sign,0,0,0,,Note: At 8:27 AM, lightning struck above the Pepsi sign.
@@ -472,19 +459,16 @@ Dialogue: 1,0:16:34.97,0:16:35.30,Note,Sign,0,0,0,,der
 Dialogue: 1,0:16:35.30,0:16:35.76,Note,Sign,0,0,0,,ed.
 Dialogue: 0,0:16:36.08,0:16:39.94,Dubtitles,,0,0,0,,Then Rohan Kishibe was also killed.
 Dialogue: 0,0:16:42.20,0:16:45.52,Dubtitles,,0,0,0,,The new super-powered Kira\Nfound a way to murder him.
-Dialogue: 0,0:16:48.64,0:16:51.82,Dubtitles,,0,0,0,,Deadly queen bomb type 3 bites the dust.
-Dialogue: 0,0:16:51.90,0:16:53.72,Dubtitles,,0,0,0,,Heaven's door attack.
-Dialogue: 0,0:16:58.68,0:17:01.44,Dubtitles,,0,0,0,,Deadly queen has already\Nentered your pupil.
-Dialogue: 0,0:17:01.52,0:17:03.36,Dubtitles,,0,0,0,,Rohan Kishibe.
-Dialogue: 0,0:17:04.66,0:17:06.94,Dubtitles,,0,0,0,,No, you're not seeing things.
-Dialogue: 0,0:17:07.02,0:17:10.52,Dubtitles,,0,0,0,,Deadly queen's bomb type 3\Nhas already been activated.
-Dialogue: 0,0:17:10.60,0:17:12.28,Dubtitles,,0,0,0,,Your time is come?
+Dialogue: 0,0:16:48.64,0:16:53.72,Dubtitles,,0,0,0,,Deadly Queen Bomb Type 3: Bites\Nthe Dust! Heaven's Door attack!
+Dialogue: 0,0:16:58.68,0:17:03.36,Dubtitles,,0,0,0,,deadly queen has already\Nentered your pupil Rohan Kishibe
+Dialogue: 0,0:17:04.66,0:17:08.46,Dubtitles,,0,0,0,,no you're not seeing\Nthings deadly queen's bomb
+Dialogue: 0,0:17:08.54,0:17:12.28,Dubtitles,,0,0,0,,type 3 has already been\Nactivated your time is come
 Dialogue: 0,0:17:21.64,0:17:23.22,Dubtitles,,0,0,0,,And there you have it.
 Dialogue: 0,0:17:23.72,0:17:28.01,Dubtitles,,0,0,0,,Deadly Queen's new power will annihilate\Nall who attempt to take me down.
 Dialogue: 0,0:17:28.26,0:17:32.97,Dubtitles,,0,0,0,,It's a bomb that will activate in anyone\Nwho dares approach Hayato to get to me.
 Dialogue: 1,0:17:33.11,0:17:40.12,Note,Sign,0,0,0,,{\fad(1,520)}Note: Kishibe Rohan was then murdered. \NBecause Kira had matured, he murdered him.
 Dialogue: 1,0:17:33.11,0:17:40.12,Note,Sign,0,0,0,,{\fad(1,520)}Note: Kishibe Rohan was then murdered. \NBecause Kira had grown stronger, he murdered him.
-Dialogue: 0,0:17:33.82,0:17:37.47,Dubtitles,,0,0,0,,Hayato's verbalizing my true\Nname will also activate the bomb,
+Dialogue: 0,0:17:33.82,0:17:37.47,Dubtitles,,0,0,0,,Hayato's verbalizing my true\Nname will also activate the bomb.
 Dialogue: 0,0:17:37.64,0:17:39.70,Dubtitles,,0,0,0,,as will putting my name in writing.
 Dialogue: 0,0:17:39.90,0:17:43.16,Dubtitles,,0,0,0,,In other words, my new bomb\Nhas been planted in Hayato.
 Dialogue: 0,0:17:43.24,0:17:45.54,Dubtitles,,0,0,0,,I just remembered.
@@ -505,10 +489,9 @@ Dialogue: 0,0:18:22.72,0:18:24.28,Dubtitles,,0,0,0,,Can you hear me?
 Dialogue: 0,0:18:26.54,0:18:27.37,Dubtitles,,0,0,0,,Koichi!
 Dialogue: 0,0:18:29.06,0:18:33.86,Dubtitles,,0,0,0,,And now, gaze upon the glory\Nthat is Nedley Queen Bob-type 3!
 Dialogue: 0,0:18:37.58,0:18:38.41,Dubtitles,,0,0,0,,Koichi!
-Dialogue: 0,0:18:44.00,0:18:44.83,Dubtitles,,0,0,0,,Aaaaaahhhh!
-Dialogue: 0,0:18:54.04,0:18:56.04,Dubtitles,,0,0,0,,Was I dreaming?
-Dialogue: 0,0:19:01.44,0:19:03.38,Dubtitles,,0,0,0,,I had a terrible night's sleep.
-Dialogue: 0,0:19:06.24,0:19:09.64,Dubtitles,,0,0,0,,It was one horrible dream\Nafter another. Hayato!
+Dialogue: 0,0:18:54.32,0:18:56.04,Dubtitles,,0,0,0,,was I dreaming?
+Dialogue: 0,0:19:00.96,0:19:03.40,Dubtitles,,0,0,0,,I had a terrible night's sleep.
+Dialogue: 0,0:19:05.78,0:19:09.62,Dubtitles,,0,0,0,,It was one horrible dream\Nafter another. Hayato!
 Dialogue: 0,0:19:10.14,0:19:12.02,Dubtitles,,0,0,0,,Just how long are you gonna sleep in?
 Dialogue: 0,0:19:12.10,0:19:14.26,Dubtitles,,0,0,0,,It's time to get up and...
 Dialogue: 0,0:19:15.96,0:19:18.58,Dubtitles,,0,0,0,,Hayato, why didn't you tell\Nme you were out of bed?
@@ -517,6 +500,7 @@ Dialogue: 0,0:19:20.28,0:19:23.28,Dubtitles,,0,0,0,,Come down for breakfast\Nand
 Dialogue: 0,0:19:27.94,0:19:28.94,Dubtitles,,0,0,0,,It's crazy.
 Dialogue: 0,0:19:29.82,0:19:30.65,Dubtitles,,0,0,0,,But I...
 Dialogue: 0,0:19:32.82,0:19:33.70,Dubtitles,,0,0,0,,You're kidding.
+Dialogue: 1,0:19:32.85,0:19:36.40,Narrator,News,0,0,0,,{\an8}Huh?! You're kidding! We're already on air? {This is the same as line 117}
 Dialogue: 0,0:19:33.96,0:19:35.06,Dubtitles,,0,0,0,,Why didn't you say we were on...
 Dialogue: 0,0:19:35.14,0:19:36.91,Dubtitles,,0,0,0,,Wait, I've seen this newscast.
 Dialogue: 0,0:19:39.90,0:19:40.73,Dubtitles,,0,0,0,,Hayato?
@@ -540,6 +524,7 @@ Dialogue: 0,0:20:23.68,0:20:25.26,Dubtitles,,0,0,0,,Nice catch, Hayato.
 Dialogue: 0,0:20:25.50,0:20:27.58,Dubtitles,,0,0,0,,It's almost like you knew\NI was going to drop it.
 Dialogue: 0,0:20:27.66,0:20:30.07,Dubtitles,,0,0,0,,But you could try answering me next time.
 Dialogue: 0,0:20:31.60,0:20:33.13,Dubtitles,,0,0,0,,Hello, Kawajiri residence.
+Dialogue: 1,0:20:33.75,0:20:36.38,Main,Shinobu,0,0,0,,{\an8}Huh? No, it's not.
 Dialogue: 0,0:20:34.44,0:20:37.48,Dubtitles,,0,0,0,,So I'm the only one who knows\Nthis morning already happened.
 Dialogue: 0,0:20:37.56,0:20:40.36,Dubtitles,,0,0,0,,And for everyone else,\Nit's business as usual.
 Dialogue: 0,0:20:40.64,0:20:43.46,Dubtitles,,0,0,0,,It's like you knew she\Nwas going to drop it, eh?
@@ -599,77 +584,39 @@ Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an
 Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(544,780)}other One
 Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an3\fad(350,0)\be25\pos(927,780)}Bi
 Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(1329,780)}tes the Dust, Part 2
-Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an3\fad(350,0)\be25\pos(339,780)}An
-Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(557,780)}other One
-Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an3\fad(350,0)\be25\pos(940,780)}Bi
-Dialogue: 1,0:23:38.39,0:23:39.56,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\fad(350,0)\be25\pos(1331,780)}tes the Dust Part 2
 Dialogue: 1,0:23:39.56,0:23:39.60,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,780)\fs122\1c&H0C0B16&}An
 Dialogue: 1,0:23:39.56,0:23:39.60,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,780)\fs122\1c&H0D0D15&}Bi
-Dialogue: 1,0:23:39.56,0:23:39.60,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,780)\fs122\1c&H0C0B16&}An
-Dialogue: 1,0:23:39.56,0:23:39.60,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,780)\fs122\1c&H0D0D15&}Bi
 Dialogue: 1,0:23:39.56,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\be25\pos(544,780)}other One
 Dialogue: 1,0:23:39.56,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\be25\pos(1329,780)}tes the Dust, Part 2
-Dialogue: 1,0:23:39.56,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\be25\pos(557,780)}other One
-Dialogue: 1,0:23:39.56,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\fs120\an2\be25\pos(1331,780)}tes the Dust Part 2
 Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,780)\fs124\1c&H090F1C&}An
 Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,780)\fs124\1c&H0C111C&}Bi
-Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,780)\fs124\1c&H090F1C&}An
-Dialogue: 1,0:23:39.60,0:23:39.64,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,780)\fs124\1c&H0C111C&}Bi
 Dialogue: 0,0:23:39.60,0:23:40.88,Dubtitles,,0,0,0,,Let's rock out.
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,780.5)\fs126\1c&H0C0F28&}An
 Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,780.5)\fs126\1c&H101325&}Bi
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,780.5)\fs126\1c&H0C0F28&}An
-Dialogue: 1,0:23:39.64,0:23:39.68,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,780.5)\fs126\1c&H101325&}Bi
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,781)\fs128\1c&H0B1237&}An
 Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,781)\fs128\1c&H121736&}Bi
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,781)\fs128\1c&H0B1237&}An
-Dialogue: 1,0:23:39.68,0:23:39.73,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,781)\fs128\1c&H121736&}Bi
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,782)\fs130\1c&H091647&}An
 Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,782)\fs130\1c&H171D47&}Bi
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,782)\fs130\1c&H091647&}An
-Dialogue: 1,0:23:39.73,0:23:39.77,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,782)\fs130\1c&H171D47&}Bi
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,782.5)\fs132\1c&H0A1952&}An
 Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,782.5)\fs132\1c&H1E2459&}Bi
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,782.5)\fs132\1c&H0A1952&}An
-Dialogue: 1,0:23:39.77,0:23:39.81,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,782.5)\fs132\1c&H1E2459&}Bi
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,783)\fs134\1c&H091B66&}An
 Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,783)\fs134\1c&H25296D&}Bi
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,783)\fs134\1c&H091B66&}An
-Dialogue: 1,0:23:39.81,0:23:39.85,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,783)\fs134\1c&H25296D&}Bi
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,783.5)\fs136\1c&H0A2176&}An
 Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,783.5)\fs136\1c&H28307E&}Bi
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,783.5)\fs136\1c&H0A2176&}An
-Dialogue: 1,0:23:39.85,0:23:39.89,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,783.5)\fs136\1c&H28307E&}Bi
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,784)\fs138\1c&H0B2586&}An
 Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,784)\fs138\1c&H313694&}Bi
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,784)\fs138\1c&H0B2586&}An
-Dialogue: 1,0:23:39.89,0:23:39.93,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,784)\fs138\1c&H313694&}Bi
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,784.5)\fs140\1c&H0A299C&}An
 Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,784.5)\fs140\1c&H363DA7&}Bi
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,784.5)\fs140\1c&H0A299C&}An
-Dialogue: 1,0:23:39.93,0:23:39.98,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,784.5)\fs140\1c&H363DA7&}Bi
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,785)\fs142\1c&H0C2DB0&}An
 Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,785)\fs142\1c&H3A44B6&}Bi
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,785)\fs142\1c&H0C2DB0&}An
-Dialogue: 1,0:23:39.98,0:23:40.02,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,785)\fs142\1c&H3A44B6&}Bi
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,785.5)\fs144\1c&H0B32BD&}An
 Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,785.5)\fs144\1c&H3D47C4&}Bi
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,785.5)\fs144\1c&H0B32BD&}An
-Dialogue: 1,0:23:40.02,0:23:40.06,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,785.5)\fs144\1c&H3D47C4&}Bi
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,786)\fs146\1c&H0B34CC&}An
 Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,786)\fs146\1c&H4150D4&}Bi
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,786)\fs146\1c&H0B34CC&}An
-Dialogue: 1,0:23:40.06,0:23:40.10,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,786)\fs146\1c&H4150D4&}Bi
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,786.5)\fs148\1c&H0E3BD6&}An
 Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,786.5)\fs148\1c&H4353E0&}Bi
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,786.5)\fs148\1c&H0E3BD6&}An
-Dialogue: 1,0:23:40.10,0:23:40.14,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,786.5)\fs148\1c&H4353E0&}Bi
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,787)\fs150\1c&H0939DF&}An
 Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,787)\fs150\1c&H4656EA&}Bi
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,787)\fs150\1c&H0939DF&}An
-Dialogue: 1,0:23:40.14,0:23:40.19,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,787)\fs150\1c&H4656EA&}Bi
 Dialogue: 1,0:23:40.19,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(326,787)\fs150\1c&H0A3BE5&}An
 Dialogue: 1,0:23:40.19,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(927,787)\fs150\1c&H495AF0&}Bi
-Dialogue: 1,0:23:40.19,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(339,787)\fs150\1c&H0A3BE5&}An
-Dialogue: 1,0:23:40.19,0:23:41.44,Next Episode Title (35),Sign,0,0,0,,{\an3\be25\pos(940,787)\fs150\1c&H495AF0&}Bi
 
