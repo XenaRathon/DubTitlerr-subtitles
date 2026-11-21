@@ -32,7 +32,7 @@ as a draft.
 ## What's here
 
 <!-- shows-table:start -->
-Last updated 2026-11-07: **1299 episodes across 16 shows**, all unreviewed. Episodes and shows are added automatically as DubTitlerr finishes them, and this table is rebuilt from `manifest/` with each update. `manifest/` has the full per-episode list.
+Last updated 2026-11-21: **1304 episodes across 16 shows**, all unreviewed. Episodes and shows are added automatically as DubTitlerr finishes them, and this table is rebuilt from `manifest/` with each update. `manifest/` has the full per-episode list.
 
 | Show | Episodes |
 | --- | ---: |
@@ -45,13 +45,13 @@ Last updated 2026-11-07: **1299 episodes across 16 shows**, all unreviewed. Epis
 | Trigun (1998) | 27 |
 | JUJUTSU KAISEN (2020) | 24 |
 | Chained Soldier (2024) | 14 |
+| Chainsmoker Cat (2026) | 13 |
 | JoJo's Bizarre Adventure (1993) | 13 |
 | Akiba Maid War (2022) | 12 |
 | I Parry Everything (2024) | 12 |
 | I'm in Love With the Villainess (2023) | 12 |
 | MARRIAGETOXIN (2026) | 12 |
 | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout (2022) | 11 |
-| Chainsmoker Cat (2026) | 8 |
 <!-- shows-table:end -->
 
 Show folders carry the show's TheTVDB id (for example `Trigun (1998) {tvdb-77680}`)
